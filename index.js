@@ -5,9 +5,10 @@ const request = require('request');
 const JSDOM = require('jsdom').JSDOM;
 const srcset = require('srcset');
 
-let SHIP_LIST = [];
-const SHIPS = require("./ships.json");
-const VERSION_INFO = require("./version-info.json");
+let SHIP_LIST = require("./ship-list.json");
+let SHIPS = require("./ships.json");
+let VERSION_INFO = require("./version-info.json");
+
 const HEADERS = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
@@ -15,20 +16,9 @@ const HEADERS = {
 };
 
 module.exports = {
-    refreshData: refreshData,
-    getShipByName: getShipByName,
-    getShipGallery: getShipGallery,
-    ships: SHIPS,
-    removeAndSave: removeAndSave
+    refreshData: refreshData
 }
-
-function refreshData() {
-    getShips().then(LIST => {
-        fs.writeFileSync('./ship_list.json', JSON.stringify(SHIP_LIST = LIST));
-        refreshIndex(0);
-    });
-}
-
+// Filtering the ship list
 function filter(callback) {
     let newShips = {};
     Object.keys(SHIPS).forEach(key => {
@@ -38,62 +28,86 @@ function filter(callback) {
     return newShips;
 }
 
-async function refreshIndex(index) {
-    if (index >= SHIP_LIST.length) { // Program Finished
-        VERSION_INFO["version-number"] += 1;
-        VERSION_INFO["list-last-refresh-date"] = Date.now();
-        VERSION_INFO["number-of-ships"] = SHIP_LIST.length;
-        fs.writeFileSync('../ships/version-info.json', JSON.stringify(VERSION_INFO));
-        return SHIPS;
-    }
-    if (!SHIPS.hasOwnProperty(SHIP_LIST[index].id)) { // Revive Program From Crush
-        let ship = await getShipByNameLocal(SHIP_LIST[index].name);
-        SHIPS[SHIP_LIST[index].id] = ship;
-        fs.writeFileSync('../ships/ships.json', JSON.stringify(SHIPS));
+let shipCounter = 0;
+let lineCount = 0;
+// Refresh everything
+async function refreshData(online) {
+    SHIP_LIST = await fetchShipList();
+    fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
+    console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
+    console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
+    let keys = Object.keys(SHIP_LIST);
+    for (let i = 0; i < keys.length; i++) {
+        let key = keys[i];
+        let ship = await refresh(key, online);
+        SHIPS[key] = ship;
         process.stdout.write("+");
+        shipCounter++;
+        if (shipCounter > 32) {
+            shipCounter = 0;
+            lineCount++;
+            process.stdout.write(" " + lineCount * 32 + " Done\n");
+        }
+        fs.writeFileSync('./ships.json', JSON.stringify(SHIPS));
+    };
+    VERSION_INFO["version-number"] += 1;
+    VERSION_INFO["last-data-refresh-date"] = Date.now();
+    VERSION_INFO["number-of-ships"] = SHIP_LIST.length;
+    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+}
+// Refresh a ship with specified id
+async function refresh(id, online) {
+    if (!SHIPS.hasOwnProperty(id) || online) { // Revive Program From Crush/Forced online fetch
+        return await fetchShip(SHIP_LIST[id].name, online);
+    } else {
+        return SHIPS[id];
     }
-    return refreshIndex(index + 1);
 }
 
-function getShips() {
-    return new Promise((resolve, reject) => {
-        request({
-            url: "https://azurlane.koumakan.jp/List_of_Ships",
-            headers: HEADERS
-        }, (error, res, body) => {
-            if (error) {
-                reject("Failed to load ships");
-                return;
-            }
-            const doc = new JSDOM(body).window.document;
-            let table_ships = doc.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr");
-            table_ships.forEach(table_ship => {
-                let columns = table_ship.childNodes;
-                if (columns[0].tagName === "TD") {
-                    SHIP_LIST.push({
-                        id: columns[0].textContent,
-                        name: columns[1].textContent,
-                        rarity: columns[2].textContent,
-                        type: columns[3].textContent,
-                        nationality: columns[4].textContent
-                    });
-                }
-            });
-            console.log("Loaded " + SHIP_LIST.length + " Ships");
-            resolve(SHIP_LIST);
-        });
+// Get the updated list of ships
+async function fetchShipList() {
+    let LIST = {};
+    new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships")).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
+        let columns = table_ship.childNodes;
+        if (columns[0].tagName === "TD") LIST[columns[0].textContent] = {
+            id: columns[0].textContent,
+            name: columns[1].textContent,
+            rarity: columns[2].textContent,
+            type: columns[3].textContent,
+            nationality: columns[4].textContent
+        };
     });
+    return LIST;
 }
 
-function findExactShip(name) {
-    return SHIP_LIST.find(ship => ship.name.toUpperCase() === name.toUpperCase());
+async function fetchShip(name, online) {
+    if (online) { // Fetch from the wiki directly
+        const body = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
+        fs.writeFileSync('./web/' + name + '.html', body);
+        let ship = parseShip(name, body);
+        ship.skins = await fetchGallery(name, online);
+        return ship;
+    } else {
+        if (!fs.existsSync('./web/' + name + '.html')) return fetchShip(name, true); // Enforcing
+        let ship = parseShip(name, fs.readFileSync('./web/' + name + '.html', 'utf8')); // Read from local cache
+        ship.skins = await fetchGallery(name, online);
+        return ship;
+    }
 }
 
-function findShip(name) {
-    return SHIP_LIST.find(ship => ship.name.toUpperCase().includes(name.toUpperCase()));
+async function fetchGallery(name, online) {
+    if (online) {
+        const body = await fetch("https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_") + "/Gallery");
+        fs.writeFileSync('./web.gallery/' + name + '.html', body);
+        return parseGallery(name, body);
+    } else {
+        if (!fs.existsSync('./web.gallery/' + name + '.html')) return fetchGallery(name, true); // Enforcing
+        return parseGallery(name, fs.readFileSync('./web.gallery/' + name + '.html', 'utf8'));
+    }
 }
 
-function getShipFromDoc(name, body) {
+// Parse ship page html body, need a name
+function parseShip(name, body) {
     const doc = new JSDOM(body).window.document;
     let ship = {
         wikiUrl: "https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_"),
@@ -137,7 +151,7 @@ function getShipFromDoc(name, body) {
         stars: stars,
         value: stars.split("★").length - 1
     };
-    ship.stats = getShipStats(doc);
+    ship.stats = parseStats(doc);
     ship.misc = {
         artist: misc_selectors[0] ? misc_selectors[0].textContent : null,
         web: misc_selectors[1] ? {
@@ -156,84 +170,8 @@ function getShipFromDoc(name, body) {
     };
     return ship;
 }
-
-function getShipGalleryFromDoc(name, body) {
-    let skins = [];
-    Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
-        let info = {};
-        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[row.getElementsByTagName("th")[0].textContent.trim()] = row.getElementsByTagName("td")[0].textContent.trim());
-        const parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").getAttribute("srcset"));
-        const maxDensity = Math.max(...parsedSet.map(set => set.density));
-        skins.push({
-            name: tab.getAttribute("title"),
-            image: "https://azurlane.koumakan.jp" + parsedSet.find(set => set.density == maxDensity).url,
-            background: "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src"),
-            chibi: tab.querySelector(".ship-skin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-chibi img").getAttribute("src") : null,
-            info: info
-        });
-    });
-    return skins;
-}
-
-async function getShipByNameLocal(name) {
-    if (!fs.existsSync('../setup/web/' + name + '.html')) return await getShipByName(name);
-    const body = fs.readFileSync('../setup/web/' + name + '.html', 'utf8');
-    try {
-        let ship = getShipFromDoc(name, body);
-        ship.skins = getShipGalleryLocal(name);
-        return ship;
-    } catch (err) {
-        console.log("** Error Happened for ship \"" + name + "\" msg: " + err.message);
-        console.log(err.stack);
-        return {};
-    }
-}
-
-function getShipGalleryLocal(name) {
-    return getShipGalleryFromDoc(name, fs.readFileSync('../setup/web.gallery/' + name + '.html', 'utf8'));
-}
-
-async function getShipByName(name) {
-    return new Promise(async (resolve, reject) => {
-        request({
-            url: "https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop",
-            headers: HEADERS
-        }, async (error, res, body) => {
-            if (error) reject(error);
-            fs.writeFileSync('../setup/web/' + name + '.html', body);
-            try {
-                let ship = getShipFromDoc(name, body);
-                ship.skins = await getShipGallery(name);
-                VERSION_INFO["new-ships-last-added-date"] = Date.now();
-                console.log("\n + (" + name + ")");
-                resolve(ship);
-            } catch (err) {
-                console.log("** Error Happened for ship \"" + name + "\" msg: " + err.message);
-                console.log(err.stack);
-            }
-        });
-    });
-}
-
-function getShipGallery(name) {
-    return new Promise((resolve, reject) => {
-        request({
-            url: "https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_") + "/Gallery",
-            headers: HEADERS
-        }, (error, res, body) => {
-            try {
-                if (error) reject(error);
-                fs.writeFileSync('../setup/web.gallery/' + name + '.html', body);
-                resolve(getShipGalleryFromDoc(name, body));
-            } catch (err) {
-                console.log("** Error Happened for ship \"" + name + "\" msg: " + err.message);
-                console.log(err.stack);
-            }
-        });
-    });
-}
-
-function getShipStats(doc) {
+// Parse the stats seperately for easy code reading
+function parseStats(doc) {
     let allStats = {};
     doc.querySelectorAll(".nomobile > .tabber > .tabbertab .wikitable tbody").forEach(tab => {
         let stats = {};
@@ -255,4 +193,33 @@ function getShipStats(doc) {
         allStats[title] = stats;
     });
     return allStats;
+}
+
+// Parse ship's gallery page html body, need a name
+function parseGallery(name, body) {
+    let skins = [];
+    Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
+        let info = {};
+        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[row.getElementsByTagName("th")[0].textContent.trim()] = row.getElementsByTagName("td")[0].textContent.trim());
+        const parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").getAttribute("srcset"));
+        const maxDensity = Math.max(...parsedSet.map(set => set.density));
+        skins.push({
+            name: tab.getAttribute("title"),
+            image: "https://azurlane.koumakan.jp" + parsedSet.find(set => set.density == maxDensity).url,
+            background: "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src"),
+            chibi: tab.querySelector(".ship-skin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-chibi img").getAttribute("src") : null,
+            info: info
+        });
+    });
+    return skins;
+}
+// Promise Wrapper for request, I dont trust their own promise support
+function fetch(url) {
+    return new Promise((resolve, reject) => request({
+        url: url,
+        headers: HEADERS
+    }, async (error, res, body) => {
+        if (error) reject(error);
+        else resolve(body);
+    }));
 }
