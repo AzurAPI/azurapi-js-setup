@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/AzurAPI/azurapi-js-setup#readme",
   "dependencies": {
-    "request": ">=2.88.0",
     "jsdom": ">=15.2.1",
+    "request": "^2.88.0",
     "srcset": ">=2.0.1"
   }
 }

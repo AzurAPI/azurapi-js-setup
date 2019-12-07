@@ -15,8 +15,12 @@ const HEADERS = {
     'cookie': 'VEE=wikitext'
 };
 
+function timeout(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 module.exports = {
-    refreshData: refreshData
+    refreshData: refreshData(true)
 }
 // Filtering the ship list
 function filter(callback) {
@@ -36,20 +40,25 @@ async function refreshData(online) {
     fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
     console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
     console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
+    var counter = 0;
     let keys = Object.keys(SHIP_LIST);
-    for (let i = 0; i < keys.length; i++) {
-        let key = keys[i];
-        let ship = await refresh(key, online);
-        SHIPS[key] = ship;
-        process.stdout.write("+");
-        shipCounter++;
-        if (shipCounter > 32) {
-            shipCounter = 0;
-            lineCount++;
-            process.stdout.write(" " + lineCount * 32 + " Done\n");
-        }
-        fs.writeFileSync('./ships.json', JSON.stringify(SHIPS));
-    };
+    let i = setInterval(async function(){
+      let key = keys[counter];
+      let ship = await refresh(key, online);
+      SHIPS[key] = ship;
+      process.stdout.write("+");
+      shipCounter++;
+      if (shipCounter > 32) {
+          shipCounter = 0;
+          lineCount++;
+          process.stdout.write(" " + lineCount * 32 + " Done\n");
+      }
+      fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
+    counter++;
+    if(counter == keys.length) {
+        clearInterval(i);
+    }
+}, 12000);
     VERSION_INFO["version-number"] += 1;
     VERSION_INFO["last-data-refresh-date"] = Date.now();
     VERSION_INFO["number-of-ships"] = SHIP_LIST.length;
@@ -85,12 +94,13 @@ async function fetchShip(name, online) {
         const body = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
         fs.writeFileSync('./web/' + name + '.html', body);
         let ship = parseShip(name, body);
-        ship.skins = await fetchGallery(name, online);
+        await timeout(6000);
+        ship.skins = await fetchGallery(name, online)
         return ship;
     } else {
         if (!fs.existsSync('./web/' + name + '.html')) return fetchShip(name, true); // Enforcing
         let ship = parseShip(name, fs.readFileSync('./web/' + name + '.html', 'utf8')); // Read from local cache
-        ship.skins = await fetchGallery(name, online);
+        ship.skins = await fetchGallery(name, online)
         return ship;
     }
 }
