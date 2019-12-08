@@ -5,6 +5,10 @@ const request = require('request');
 const JSDOM = require('jsdom').JSDOM;
 const srcset = require('srcset');
 
+const SKIN_PATH = './images/skins/${id}/';
+const SKIN_NAME_PATH = '${name}/';
+const SKIN_FILE_NAME = '${type}.png';
+
 let SHIP_LIST = require("./ship-list.json");
 let SHIPS = require("./ships.json");
 let VERSION_INFO = require("./version-info.json");
@@ -20,7 +24,8 @@ function timeout(ms) {
 }
 
 module.exports = {
-    refreshData: refreshData(true)
+    refreshData: refreshData,
+    refreshImages: refreshImages
 }
 // Filtering the ship list
 function filter(callback) {
@@ -42,27 +47,53 @@ async function refreshData(online) {
     console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
     var counter = 0;
     let keys = Object.keys(SHIP_LIST);
-    let i = setInterval(async function(){
-      let key = keys[counter];
-      let ship = await refresh(key, online);
-      SHIPS[key] = ship;
-      process.stdout.write("+");
-      shipCounter++;
-      if (shipCounter > 32) {
-          shipCounter = 0;
-          lineCount++;
-          process.stdout.write(" " + lineCount * 32 + " Done\n");
-      }
-      fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
-    counter++;
-    if(counter == keys.length) {
-        clearInterval(i);
-    }
-}, 12000);
+    let i = setInterval(async function() {
+        let key = keys[counter];
+        let ship = await refresh(key, online);
+        SHIPS[key] = ship;
+        process.stdout.write("+");
+        shipCounter++;
+        if (shipCounter > 32) {
+            shipCounter = 0;
+            lineCount++;
+            process.stdout.write(" " + lineCount * 32 + " Done\n");
+        }
+        fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
+        counter++;
+        if (counter == keys.length) {
+            clearInterval(i);
+        }
+    }, 12000);
     VERSION_INFO["version-number"] += 1;
     VERSION_INFO["last-data-refresh-date"] = Date.now();
     VERSION_INFO["number-of-ships"] = SHIP_LIST.length;
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+}
+
+async function refreshImages(overwrite) {
+    console.log("Refreshing images...");
+    for (let key in SHIPS) {
+        let ship = SHIPS[key];
+        let root_folder = SKIN_PATH.replace('${id}', ship.id);
+        if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
+        process.stdout.write(">");
+        for (let skin of ship.skins) {
+            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name);
+            if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
+            else if (!overwrite) continue;
+            await fetchImage(skin.image, root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image'));
+            process.stdout.write(".");
+            await fetchImage(skin.chibi, root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi'));
+            process.stdout.write("|");
+        }
+        shipCounter++;
+        if (shipCounter >= 50) {
+            shipCounter = 0;
+            lineCount++;
+            process.stdout.write(` ${lineCount*50} Done\n|`);
+        }
+    }
+    console.log("\nDone");
 }
 // Refresh a ship with specified id
 async function refresh(id, online) {
@@ -225,6 +256,7 @@ function parseGallery(name, body) {
 }
 // Promise Wrapper for request, I dont trust their own promise support
 function fetch(url) {
+    console.log(url);
     return new Promise((resolve, reject) => request({
         url: url,
         headers: HEADERS
@@ -232,4 +264,8 @@ function fetch(url) {
         if (error) reject(error);
         else resolve(body);
     }));
+}
+// Downloading images
+function fetchImage(url, localPath) {
+    return new Promise((resolve, reject) => request(url).pipe(fs.createWriteStream(localPath)).on('finish', resolve).on('error', reject));
 }
