@@ -78,7 +78,7 @@ async function refreshImages(overwrite) {
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
         process.stdout.write(">");
         for (let skin of ship.skins) {
-            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name);
+            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
             else if (!overwrite) continue;
             await fetchImage(skin.image, root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image'));
@@ -266,6 +266,7 @@ function fetch(url) {
     }));
 }
 // Downloading images
-function fetchImage(url, localPath) {
+async function fetchImage(url, localPath) {
+  await timeout(6000);
     return new Promise((resolve, reject) => request(url).pipe(fs.createWriteStream(localPath)).on('finish', resolve).on('error', reject));
 }
