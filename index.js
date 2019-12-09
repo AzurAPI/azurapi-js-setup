@@ -9,8 +9,11 @@ const SKIN_PATH = './images/skins/${id}/';
 const SKIN_NAME_PATH = '${name}/';
 const SKIN_FILE_NAME = '${type}.png';
 
+const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
+
 let SHIP_LIST = require("./ship-list.json");
-let SHIPS = require("./ships.json");
+let SHIPS = require("./ships");
+let REPO_SHIPS = require("./ships(wiki_link)");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
 
@@ -60,6 +63,7 @@ async function refreshData(online) {
             process.stdout.write(" " + lineCount * 32 + " Done\n");
         }
         fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
+        fs.writeFileSync('./ships(wiki_link).json', JSON.stringify(SHIPS, null, '\t'));
         counter++;
         if (counter == keys.length) {
             clearInterval(i);
@@ -80,26 +84,43 @@ async function refreshImages(overwrite) {
     console.log("Refreshing images...");
     for (let key in SHIPS) {
         let ship = SHIPS[key];
+        let repoship = REPO_SHIPS[key]
         IMAGE_PROGRESS.last_id = key;
         fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-        let root_folder = SKIN_PATH.replace('${id}', ship.id);
-        if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
-        process.stdout.write(">");
-        if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
-            await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
-        process.stdout.write("-");
-        for (let skin of ship.skins) {
-            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
-            if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
-            let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
-            let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
-            if (!fs.existsSync(image_path) || overwrite)
-                await fetchImage(skin.image, image_path);
-            process.stdout.write(".");
-            if (!fs.existsSync(chibi_path) || overwrite)
-                await fetchImage(skin.chibi, chibi_path);
-            process.stdout.write("|");
+        if (REPO_SHIPS[key].rarity !== "Unreleased"){
+          let root_folder = SKIN_PATH.replace('${id}', ship.id);
+          if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
+          process.stdout.write(`${key}`);
+          if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
+              await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
+          process.stdout.write("-");
+          REPO_SHIPS[key].thumbnail = `${IMAGE_REPO_URL}${root_folder.substring(2)}thumbnail.png`
+          REPO_SHIPS[key].skins = []
+          for (let skin of ship.skins) {
+              let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
+              if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
+              let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
+              let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+              if (skin.image !== null && (!fs.existsSync(image_path) || overwrite))
+                  await fetchImage(skin.image, image_path);
+              process.stdout.write(".");
+              if (skin.chibi !== null && (!fs.existsSync(chibi_path) || overwrite))
+                  await fetchImage(skin.chibi, chibi_path);
+              process.stdout.write("|");
+              let info = {};
+              if (skin.chibi !== null){
+                info['chibi'] = `${IMAGE_REPO_URL}${chibi_path.substring(2)}`
+              }
+              if (skin.image !== null){
+                info['image'] =  `${IMAGE_REPO_URL}${image_path.substring(2)}`
+              }
+
+              let ima = Object.assign(skin,info)
+              REPO_SHIPS[key].skins.push(ima)
+          }
+          fs.writeFileSync('./ships.json', JSON.stringify(REPO_SHIPS, null, '\t'));
         }
+
         shipCounter++;
         if (shipCounter >= 50) {
             shipCounter = 0;
@@ -281,7 +302,7 @@ function fetch(url) {
 }
 // Downloading images
 async function fetchImage(url, localPath) {
-    await timeout(6000);
+    await timeout(5500);
     return new Promise((resolve, reject) => request(url).pipe(fs.createWriteStream(localPath)).on('finish', resolve).on('error', reject));
 }
 
