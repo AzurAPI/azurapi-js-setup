@@ -12,6 +12,7 @@ const SKIN_FILE_NAME = '${type}.png';
 let SHIP_LIST = require("./ship-list.json");
 let SHIPS = require("./ships.json");
 let VERSION_INFO = require("./version-info.json");
+let IMAGE_PROGRESS = require("./image-progress.json");
 
 const HEADERS = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
@@ -71,19 +72,32 @@ async function refreshData(online) {
 }
 
 async function refreshImages(overwrite) {
+    if (IMAGE_PROGRESS.last_id) {
+        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
+        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
+        console.log("Done")
+    }
     console.log("Refreshing images...");
     for (let key in SHIPS) {
         let ship = SHIPS[key];
+        IMAGE_PROGRESS.last_id = key;
+        fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
         let root_folder = SKIN_PATH.replace('${id}', ship.id);
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
         process.stdout.write(">");
+        if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
+            await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
+        process.stdout.write("-");
         for (let skin of ship.skins) {
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
-            else if (!overwrite) continue;
-            await fetchImage(skin.image, root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image'));
+            let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
+            let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+            if (!fs.existsSync(image_path) || overwrite)
+                await fetchImage(skin.image, image_path);
             process.stdout.write(".");
-            await fetchImage(skin.chibi, root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi'));
+            if (!fs.existsSync(chibi_path) || overwrite)
+                await fetchImage(skin.chibi, chibi_path);
             process.stdout.write("|");
         }
         shipCounter++;
@@ -267,6 +281,22 @@ function fetch(url) {
 }
 // Downloading images
 async function fetchImage(url, localPath) {
-  await timeout(6000);
+    await timeout(6000);
     return new Promise((resolve, reject) => request(url).pipe(fs.createWriteStream(localPath)).on('finish', resolve).on('error', reject));
+}
+
+function deleteAll(path) {
+    var files = [];
+    if (fs.existsSync(path)) {
+        files = fs.readdirSync(path);
+        files.forEach(function(file, index) {
+            var curPath = path + "/" + file;
+            if (fs.statSync(curPath).isDirectory()) { // recurse
+                deleteAll(curPath);
+            } else { // delete file
+                fs.unlinkSync(curPath);
+            }
+        });
+        fs.rmdirSync(path);
+    }
 }
