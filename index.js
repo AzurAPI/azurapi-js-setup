@@ -87,38 +87,37 @@ async function refreshImages(overwrite) {
         let repoship = REPO_SHIPS[key]
         IMAGE_PROGRESS.last_id = key;
         fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-        if (REPO_SHIPS[key].rarity !== "Unreleased"){
-          let root_folder = SKIN_PATH.replace('${id}', ship.id);
-          if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
-          process.stdout.write(`${key}`);
-          if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
-              await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
-          process.stdout.write("-");
-          REPO_SHIPS[key].thumbnail = `${IMAGE_REPO_URL}${root_folder.substring(2)}thumbnail.png`
-          REPO_SHIPS[key].skins = []
-          for (let skin of ship.skins) {
-              let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
-              if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
-              let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
-              let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
-              if (skin.image !== null && (!fs.existsSync(image_path) || overwrite))
-                  await fetchImage(skin.image, image_path);
-              process.stdout.write(".");
-              if (skin.chibi !== null && (!fs.existsSync(chibi_path) || overwrite))
-                  await fetchImage(skin.chibi, chibi_path);
-              process.stdout.write("|");
-              let info = {};
-              if (skin.chibi !== null){
-                info['chibi'] = `${IMAGE_REPO_URL}${chibi_path.substring(2)}`
-              }
-              if (skin.image !== null){
-                info['image'] =  `${IMAGE_REPO_URL}${image_path.substring(2)}`
-              }
-
-              let ima = Object.assign(skin,info)
-              REPO_SHIPS[key].skins.push(ima)
-          }
-          fs.writeFileSync('./ships.json', JSON.stringify(REPO_SHIPS, null, '\t'));
+        if (REPO_SHIPS[key].rarity !== "Unreleased") {
+            let root_folder = SKIN_PATH.replace('${id}', ship.id);
+            if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
+            process.stdout.write(`${key}`);
+            if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
+                await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
+            process.stdout.write("-");
+            REPO_SHIPS[key].thumbnail = `${IMAGE_REPO_URL}${root_folder.substring(2)}thumbnail.png`
+            REPO_SHIPS[key].skins = []
+            for (let skin of ship.skins) {
+                let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
+                if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
+                let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
+                let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+                if (skin.image !== null && (!fs.existsSync(image_path) || overwrite))
+                    await fetchImage(skin.image, image_path);
+                process.stdout.write(".");
+                if (skin.chibi !== null && (!fs.existsSync(chibi_path) || overwrite))
+                    await fetchImage(skin.chibi, chibi_path);
+                process.stdout.write("|");
+                if (skin.background !== null && (!fs.existsSync("./images/backgrounds/" + skin.background.substring(8).replace(/\//g, "_")) || overwrite)) {
+                    await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(8).replace(/\//g, "_"));
+                    console.log("\nDownloaded " + skin.background);
+                }
+                let info = {};
+                if (skin.chibi !== null) info['chibi'] = `${IMAGE_REPO_URL}${chibi_path.substring(2)}`;
+                if (skin.image !== null) info['image'] = `${IMAGE_REPO_URL}${image_path.substring(2)}`;
+                let ima = Object.assign(skin, info);
+                REPO_SHIPS[key].skins.push(ima);
+            }
+            fs.writeFileSync('./ships.json', JSON.stringify(REPO_SHIPS, null, '\t'));
         }
 
         shipCounter++;
