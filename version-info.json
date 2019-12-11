@@ -1,10 +1,1 @@
-{
-    "ships": {
-        "version-number": 23,
-        "last-data-refresh-date": 1575722480013
-    },
-    "equipments": {
-        "version-number": 0,
-        "last-data-refresh-date": 0
-    }
-}
+{"ships":{"version-number":23,"last-data-refresh-date":1575722480013},"equipments":{"version-number":1,"last-data-refresh-date":1576108545838}}

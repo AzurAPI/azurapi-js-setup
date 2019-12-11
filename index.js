@@ -149,17 +149,25 @@ async function refreshEquipments(online) {
             process.stdout.write("Done\n");
         } else data = fs.readFileSync('./web/equipments/' + category + '_list.html', 'utf8');
         if (!fs.existsSync('./web/equipments/' + category)) fs.mkdirSync('./web/equipments/' + category);
+        let doc = new JSDOM(data).window.document;
         console.log("List Done");
-        for (let equipment_row of new JSDOM(data).window.document.querySelectorAll("div[title = 'Max Rarity'] > table > tbody tr")) { // Equipments layer, using the max rarity tab to prevent dupes
-            if (!equipment_row.firstElementChild.firstElementChild) continue; // some how jsdom's query selector is flaud, so dirty fix here, ignore it
+        let rows = doc.querySelectorAll("div[title = 'Max Rarity'] > table > tbody tr");
+        if (category === "Anti-Submarine Equipment") rows = doc.querySelectorAll("div[title = 'Max Stats'] > table > tbody tr"); // TODO Remove this diry fix
+        for (let equipment_row of rows) { // Equipments layer, using the max rarity tab to prevent dupes
+            if (!equipment_row.firstElementChild || !equipment_row.firstElementChild.firstElementChild) continue; // some how jsdom's query selector is flaud, so dirty fix here, ignore it
             let href = "https://azurlane.koumakan.jp" + equipment_row.firstElementChild.firstElementChild.href;
             let name = equipment_row.firstElementChild.firstElementChild.title;
-            process.stdout.write("Fetching " + name + ". calling => ");
+            process.stdout.write("Fetching \"" + name + "\" calling => ");
             EQUIPMENTS[category][name] = await refreshEquipment(href, name, category, online);
             fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS, null, '\t'));
             console.log(" Done");
         }
+        console.log(category + " Done");
     }
+    VERSION_INFO.equipments["version-number"] += 1;
+    VERSION_INFO.equipments["last-data-refresh-date"] = Date.now();
+    VERSION_INFO.equipments["number-of-ships"] = SHIP_LIST.length;
+    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 // Refresh a ship with specified id
 async function refreshShip(id, online) {
@@ -172,8 +180,10 @@ async function refreshShip(id, online) {
 
 async function refreshEquipment(href, name, category, online) {
     if (!EQUIPMENTS.hasOwnProperty(name) || online) {
+        process.stdout.write("not-done ");
         return await fetchEquipment(href, name, category, online);
     } else {
+        process.stdout.write("pre-done ");
         return EQUIPMENTS[name];
     }
 }
@@ -223,12 +233,15 @@ async function fetchGallery(name, online) {
 
 async function fetchEquipment(href, name, category, online) {
     if (online) { // Fetch from the wiki directly
+        process.stdout.write("online, loading..");
         const body = await fetch(href);
+        process.stdout.write(".| ");
         fs.writeFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', body);
         let equipment = parseEquipment(href, category, body);
         return equipment;
     } else {
         if (!fs.existsSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
+        process.stdout.write("local ");
         let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', 'utf8')); // Read from local cache
         return equipment;
     }
@@ -346,6 +359,7 @@ function parseEquipment(href, category, body) {
     let tiers = {};
     for (tab of tabs) {
         let t = parseEquipmentInfo(tab);
+        process.stdout.write("tier = " + t.tier + " .");
         tiers[t.tier] = t;
     }
     process.stdout.write("");
@@ -394,8 +408,8 @@ function parseEquipmentStats(eqstats) {
 function parseEquipmentStatsSlot(valueNode) {
     if (valueNode.children.length > 0) {
         let statValue = [];
-        for (node of valueNode.children)
-            if (node.textContent.trim()) statValue.push(parseEquipmentStatsSlot(node));
+        for (let i = 0; i < valueNode.children.length; i++)
+            if (valueNode.children[i].textContent.trim()) statValue[i] = parseEquipmentStatsSlot(valueNode.children[i]);
         return statValue;
     } else {
         let value = valueNode.textContent.trim();
@@ -426,7 +440,7 @@ function parseEquipmentStatsSlot(valueNode) {
                 count: rawData[1].trim(),
                 unit: rawData[2].trim()
             };
-        } else if (value !== (rawData = value.replace(/([0-9]+) × ([^×→\n]+)/g, "$1|$2"))) { // X × U
+        } else if (value !== (rawData = value.replace(/([0-9]+) [×x] ([^×→\n]+)/g, "$1|$2"))) { // X × U
             rawData = rawData.split(/\|/);
             data = {
                 count: rawData[0].trim(),
