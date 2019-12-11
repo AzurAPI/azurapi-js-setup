@@ -31,7 +31,7 @@ function timeout(ms) {
 module.exports = {
     refreshShips: refreshShips,
     refreshImages: refreshImages,
-    fetchEquipment: fetchEquipment
+    refreshEquipments: refreshEquipments
 }
 // Filtering the ship list
 function filter(callback) {
@@ -134,21 +134,30 @@ async function refreshImages(overwrite) {
 
 async function refreshEquipments(online) {
     let data;
+    process.stdout.write("Refreshing Equipments");
     if (!fs.existsSync('./web/equipments/equipment_list.html') || online) fs.writeFileSync('./web/equipments/equipment_list.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
     else data = fs.readFileSync('./web/equipments/equipment_list.html', 'utf8');
-    for (equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
+    process.stdout.write("EQ Menu Loaded\n");
+    for (let equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
         let category = equipment_type.textContent;
+        console.log("Refreshing Equipments type= " + category + "...");
         if (!EQUIPMENTS[category]) EQUIPMENTS[category] = {};
         if (!fs.existsSync('./web/equipments/' + category + '_list.html') || online) {
+            process.stdout.write("Getting List...");
             data = await fetch("https://azurlane.koumakan.jp" + equipment_type.firstElementChild.getAttribute("href"))
             fs.writeFileSync('./web/equipments/' + category + '_list.html', data);
+            process.stdout.write("Done\n");
         } else data = fs.readFileSync('./web/equipments/' + category + '_list.html', 'utf8');
-        new JSDOM(data).window.document.querySelectorAll(".tabbertab:nth-child(4) .wikitable tbody tr").forEach(equipment_row => { // Equipments layer, using the max rarity tab to prevent dupes
-            let href = "https://azurlane.koumakan.jp" + equipment_row.firstElementChild.firstElementChild.getAttribute("href");
+        console.log("List Done");
+        for (let equipment_row of new JSDOM(data).window.document.querySelectorAll("div[title = 'Max Rarity'] > table > tbody tr")) { // Equipments layer, using the max rarity tab to prevent dupes
+            if (!equipment_row.firstElementChild.firstElementChild) continue; // some how jsdom's query selector is flaud, so dirty fix here, ignore it
+            let href = "https://azurlane.koumakan.jp" + equipment_row.firstElementChild.firstElementChild.href;
             let name = equipment_row.firstElementChild.firstElementChild.title;
-            EQUIPMENTS[category][name] = refreshEquipment(href, name, category, online);
+            process.stdout.write("Fetching " + name + ". calling => ");
+            EQUIPMENTS[category][name] = await refreshEquipment(href, name, category, online);
             fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS, null, '\t'));
-        });
+            console.log(" Done");
+        }
     }
 }
 // Refresh a ship with specified id
@@ -214,12 +223,12 @@ async function fetchGallery(name, online) {
 async function fetchEquipment(href, name, category, online) {
     if (online) { // Fetch from the wiki directly
         const body = await fetch(href);
-        fs.writeFileSync('./web/equipments/' + name + '.html', body);
+        fs.writeFileSync('./web/equipments/' + name.replace(/\//g, "_") + '.html', body);
         let equipment = parseEquipment(href, category, body);
         return equipment;
     } else {
-        if (!fs.existsSync('./web/equipments/' + name + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
-        let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + name + '.html', 'utf8')); // Read from local cache
+        if (!fs.existsSync('./web/equipments/' + name.replace(/\//g, "_") + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
+        let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + name.replace(/\//g, "_") + '.html', 'utf8')); // Read from local cache
         return equipment;
     }
 }
@@ -332,12 +341,13 @@ function parseGallery(name, body) {
 function parseEquipment(href, category, body) {
     const doc = new JSDOM(body).window.document;
     let tabs = doc.getElementsByClassName("eqbox");
-    console.log("Tabs: " + tabs.length);
+    process.stdout.write("tab count = " + tabs.length + " .");
     let tiers = {};
     for (tab of tabs) {
         let t = parseEquipmentInfo(tab);
         tiers[t.tier] = t;
     }
+    process.stdout.write("");
     return {
         wikiUrl: href,
         category: category,
@@ -442,7 +452,12 @@ function parseEquipmentStatsSlot(valueNode) {
 
 function parseEquipmentFit(eqfits) {
     let fits = {};
-    for (row of eqfits.getElementsByTagName("tr")) fits[row.children[1].textContent.trim()] = row.children[2].textContent.trim() === "✘" ? false : row.children[2].textContent.trim() === "✔" ? true : row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim();
+    for (row of eqfits.getElementsByTagName("tr")) { // GRR, it was an one liner, unlucky me had to debug it
+        let name = row.children[1].textContent.trim();
+        if (row.children[2].textContent.trim() === "✘") fits[name] = false;
+        else if (row.children[2].textContent.trim() === "✔") fits[name] = true;
+        else fits[name] = row.children[2].getElementsByClassName("tooltiptext")[0] ? row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim() : "Unspecified";
+    }
     return fits;
 }
 

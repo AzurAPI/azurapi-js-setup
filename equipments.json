@@ -1,1 +1,4701 @@
-{}
+{
+	"Destroyer Guns": {
+		"Quadruple 130mm (Mle 1932)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Quadruple_130mm_(Mle_1932)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "四联装130mm副炮Mle1932",
+				"cn": "四联装130mm副炮Mle1932",
+				"jp": "130mm副砲Mle1932",
+				"kr": "130mm 부포 Mle 1932"
+			},
+			"tiers": {
+				"T0": {
+					"tier": "T0",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Vichya Dominion",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "10",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.44s",
+							"max": "1.28s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Historical equipment on Dunkerque. Currently unobtainable.",
+						"notes": "No notes",
+						"animation": null
+					}
+				}
+			}
+		},
+		"Single 102mm (QF Mk V)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_102mm_(QF_Mk_V)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 102mm Auxiliary Gun",
+				"cn": "单装102mm副炮",
+				"jp": "102mm単装砲(副砲)",
+				"kr": "102mm 단장 부포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.97s",
+							"max": "0.89s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "5",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "No notes",
+						"animation": "/w/images/a/a6/Bullet_pattern_equip_11000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.94s",
+							"max": "0.86s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "5",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "No notes",
+						"animation": "/w/images/a/a6/Bullet_pattern_equip_11000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "7",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.92s",
+							"max": "0.76s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "5",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-2, T2/T3 Royal Tech Box",
+						"notes": "No notes",
+						"animation": "/w/images/a/a6/Bullet_pattern_equip_11000.gif"
+					}
+				}
+			}
+		},
+		"Single 120mm (QF Mark IX)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_120mm_(QF_Mark_IX)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 120mm Main Gun",
+				"cn": "120mm单装炮",
+				"jp": "120mm単装砲",
+				"kr": "120mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.96s",
+							"max": "0.90s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "7",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/8/85/Bullet_pattern_equip_21300.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "7",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.92s",
+							"max": "0.86s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "7",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/8/85/Bullet_pattern_equip_21300.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "11",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.87s",
+							"max": "0.76s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "7",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "1-4, T2/T3 Royal Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/8/85/Bullet_pattern_equip_21300.gif"
+					}
+				}
+			}
+		},
+		"Single 120mm (Type 3)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_120mm_(Type_3)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 120mm Main Gun",
+				"cn": "120mm单装炮",
+				"jp": "120mm単装砲",
+				"kr": "120mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.30s",
+							"max": "1.22s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "5",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/d/dd/Bullet_pattern_equip_31100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.24s",
+							"max": "1.16s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "5",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Sakura Tech box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/d/dd/Bullet_pattern_equip_31100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "8",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.18s",
+							"max": "1.02s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "5",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "2-4, T2/T3 Sakura Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/d/dd/Bullet_pattern_equip_31100.gif"
+					}
+				}
+			}
+		},
+		"Single 127mm (5\"/38 Mk 30)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk_30)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 127mm Main Gun",
+				"cn": "127mm单装炮",
+				"jp": "127mm単装砲",
+				"kr": "127mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "1.60s",
+							"max": "1.48s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech Box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/0/0b/Bullet_pattern_equip_11100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "10",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "1.53s",
+							"max": "1.29s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/0/0b/Bullet_pattern_equip_11100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "15",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "1.46s",
+							"max": "1.06s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-2, 10-1, 11-1, T3/T4 Eagle Tech Box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/c/c8/Bullet_pattern_equip_11140.gif"
+					}
+				}
+			}
+		},
+		"Single 127mm (SK C/34)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_127mm_(SK_C/34)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 127mm Main Gun",
+				"cn": "单装127mm主炮",
+				"jp": "127mm単装砲",
+				"kr": "127mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.37s",
+							"max": "1.28s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/5/55/Bullet_pattern_equip_41000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.30s",
+							"max": "1.22s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Ironblood Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/5/55/Bullet_pattern_equip_41000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "9",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.24s",
+							"max": "1.09s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "1-4, T2/T3 Ironblood Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/5/55/Bullet_pattern_equip_41000.gif"
+					}
+				}
+			}
+		},
+		"Single 130mm (Mle 1924)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_130mm_(Mle_1924)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 130mm Main Gun (Mle 1924)",
+				"cn": "130mm单装炮Mle1924",
+				"jp": "130mm単装砲Mle1924",
+				"kr": "130mm 단장포 Mle 1924"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Vichya Dominion",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "5"
+						},
+						"Rate of Fire": {
+							"min": "2.06s",
+							"max": "1.94s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "5",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 5 projectiles in sequence towards the target.",
+						"animation": "/w/images/9/9c/Bullet_pattern_equip_90000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Vichya Dominion",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "8",
+							"multiplier": "5"
+						},
+						"Rate of Fire": {
+							"min": "1.93s",
+							"max": "1.70s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "5",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "Fires 5 projectiles in sequence towards the target.",
+						"animation": "/w/images/9/9c/Bullet_pattern_equip_90000.gif"
+					}
+				}
+			}
+		},
+		"Single 138.6mm (Mle 1929)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Single 138.6mm Main Gun (Mle 1929)",
+				"cn": "138.6mm单装炮Mle1929",
+				"jp": "138.6mm単装砲Mle1929",
+				"kr": "138.6mm 단장포 Mle 1929"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Iris Libre",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "9",
+							"multiplier": "5"
+						},
+						"Rate of Fire": {
+							"min": "2.26s",
+							"max": "2.02s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "5",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Drop from Iris of the Light and Dark",
+						"notes": "Fires 5 projectiles in sequence towards the target.",
+						"animation": "/w/images/9/9c/Bullet_pattern_equip_90000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Iris Libre",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "14",
+							"multiplier": "5"
+						},
+						"Rate of Fire": {
+							"min": "2.13s",
+							"max": "1.73s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "5",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Drop from Iris of the Light and Dark",
+						"notes": "Fires 5 projectiles in sequence towards the target.",
+						"animation": "/w/images/c/cb/Bullet_pattern_equip_90120.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Iris Libre",
+					"rarity": "Super Rare",
+					"stars": {
+						"stars": "★★★★★",
+						"value": 5
+					},
+					"stats": {
+						"Firepower": {
+							"value": "35"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "5",
+							"max": "15",
+							"multiplier": "5"
+						},
+						"Rate of Fire": {
+							"min": "2.00s",
+							"max": "1.60s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "5",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Drop and event shop in Iris of the Light and Dark",
+						"notes": "Fires 5 projectiles in sequence towards the target.",
+						"animation": "/w/images/c/cb/Bullet_pattern_equip_90120.gif"
+					}
+				}
+			}
+		},
+		"Single 76mm (3\"/50 caliber gun)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_76mm_(3%22/50_caliber_gun)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "76mm AA Gun",
+				"cn": "76mm火炮",
+				"jp": "76mm砲",
+				"kr": "76mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.84s",
+							"max": "0.78s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "0",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal+"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/a/a6/Bullet_pattern_equip_11000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.80s",
+							"max": "0.74s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "0",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal+"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Eagle Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/a/a6/Bullet_pattern_equip_11000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "7",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "0.76s",
+							"max": "0.67s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "0",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal+"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-3, T2/T3 Eagle Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/a/a6/Bullet_pattern_equip_11000.gif"
+					}
+				}
+			}
+		},
+		"Triple 102mm (BL 4\" Mk IX)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Triple 102mm Auxiliary Gun",
+				"cn": "三联装102mm副炮",
+				"jp": "102mm三連装砲(副砲)",
+				"kr": "102mm 3연장 부포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.46s",
+							"max": "3.36s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/6/6a/Bullet_pattern_equip_21200.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "7",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.33s",
+							"max": "3.13s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/6/6a/Bullet_pattern_equip_21200.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "10",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.19s",
+							"max": "2.86s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "7-1, T3/T4 Royal Tech Box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/6/6a/Bullet_pattern_equip_21200.gif"
+					}
+				}
+			}
+		},
+		"Twin 100mm (Type 98)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_100mm_(Type_98)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Twin 100mm (Type 98) AA Gun",
+				"cn": "双联100mm98式高射炮",
+				"jp": "100mm二連装九八式高角砲",
+				"kr": "98식 100mm 연장 고사포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "4"
+						},
+						"Anti-air": {
+							"value": "8"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "7",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.33s",
+							"max": "1.17s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Sakura Empire Tech box",
+						"notes": "No notes",
+						"animation": "/w/images/f/f2/Bullet_pattern_equip_31000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "9"
+						},
+						"Anti-air": {
+							"value": "16"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "11",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.27s",
+							"max": "1.02s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "6-1, 7-3, 8-2, 12-4, 13-4, T3/T4 Sakura Empire Tech box",
+						"notes": "No notes",
+						"animation": "/w/images/f/f2/Bullet_pattern_equip_31000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Super Rare",
+					"stars": {
+						"stars": "★★★★★",
+						"value": 5
+					},
+					"stats": {
+						"Firepower": {
+							"value": "15"
+						},
+						"Anti-air": {
+							"value": "30"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "12",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.20s",
+							"max": "0.96s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "9-4, 12-4, T4/T5 Sakura Tech Box. Blueprints can also be obtained through Research.",
+						"notes": "No notes",
+						"animation": "/w/images/f/f2/Bullet_pattern_equip_31000.gif"
+					}
+				}
+			}
+		},
+		"Twin 102mm (QF Mk XVI)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_102mm_(QF_Mk_XVI)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Twin 102mm Auxiliary Gun",
+				"cn": "双联装102mm副炮",
+				"jp": "102mm連装砲(副砲)",
+				"kr": "102mm 연장 부포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "2"
+						},
+						"Rate of Fire": {
+							"min": "1.86s",
+							"max": "1.78s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "No notes",
+						"animation": "/w/images/7/73/Bullet_pattern_equip_21100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "4",
+							"multiplier": "2"
+						},
+						"Rate of Fire": {
+							"min": "1.78s",
+							"max": "1.70s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "No notes",
+						"animation": "/w/images/7/73/Bullet_pattern_equip_21100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "3",
+							"max": "7",
+							"multiplier": "2"
+						},
+						"Rate of Fire": {
+							"min": "1.68s",
+							"max": "1.52s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "40"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-3, T2/T3 Royal Tech Box",
+						"notes": "No notes",
+						"animation": "/w/images/7/73/Bullet_pattern_equip_21100.gif"
+					}
+				}
+			}
+		},
+		"Twin 120mm (Model 1933)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_120mm_(Model_1933)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": null,
+				"cn": "双联装120mm炮Model1933",
+				"jp": null,
+				"kr": null
+			},
+			"tiers": {
+				"T0": {
+					"tier": "T0",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sardegna Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "9",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.77s",
+							"max": "1.61s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": false,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": false,
+						"Battlecruiser": false,
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "No notes",
+						"animation": "/w/images/d/d2/Bullet_pattern_equip_95460.gif"
+					}
+				}
+			}
+		},
+		"Twin 120mm (Model 1936)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_120mm_(Model_1936)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": null,
+				"cn": "双联装120mm炮Model1936",
+				"jp": null,
+				"kr": null
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sardegna Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "8",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.45s",
+							"max": "2.29s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Unspecified",
+						"Heavy Cruiser": "Unspecified",
+						"Monitor": false,
+						"Large Cruiser": "Unspecified",
+						"Battleship": "Unspecified",
+						"Battlecruiser": "Unspecified",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": "Unspecified",
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "No notes",
+						"animation": "/w/images/0/00/Bullet_pattern_equip_95400.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sardegna Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "11",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.27s",
+							"max": "1.96s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Unspecified",
+						"Heavy Cruiser": "Unspecified",
+						"Monitor": false,
+						"Large Cruiser": "Unspecified",
+						"Battleship": "Unspecified",
+						"Battlecruiser": "Unspecified",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": "Unspecified",
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "No notes",
+						"animation": "/w/images/0/00/Bullet_pattern_equip_95400.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sardegna Empire",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "17",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.10s",
+							"max": "1.59s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.20",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Unspecified",
+						"Heavy Cruiser": "Unspecified",
+						"Monitor": false,
+						"Large Cruiser": "Unspecified",
+						"Battleship": "Unspecified",
+						"Battlecruiser": "Unspecified",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": "Unspecified",
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "No notes",
+						"animation": "/w/images/0/00/Bullet_pattern_equip_95400.gif"
+					}
+				}
+			}
+		},
+		"Twin 120mm (QF Mark XII)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Twin 120mm Main Gun",
+				"cn": "双联装120mm主炮",
+				"jp": "120mm連装砲",
+				"kr": "120mm 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.93s",
+							"max": "1.85s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/3/37/Bullet_pattern_equip_21400.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "10",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.84s",
+							"max": "1.68s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/3/37/Bullet_pattern_equip_21400.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "15",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.70s",
+							"max": "1.44s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "10",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-2, 8-1, T3/T4 Royal Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/3/37/Bullet_pattern_equip_21400.gif"
+					}
+				}
+			}
+		},
+		"Twin 127mm (5\"/38 Mk 38)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Twin 127mm MK12 Dual Gun",
+				"cn": "双联装127mm高平两用炮MK12",
+				"jp": "127mm連装両用砲MK12",
+				"kr": "127mm 연장 양용포 MK12"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "7"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "9",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.13s",
+							"max": "1.93s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Eagle Tech box, Found on some Eagle Union cruisers",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/5/55/Bullet_pattern_equip_11200.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "11"
+						},
+						"Anti-air": {
+							"value": "14"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "14",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.96s",
+							"max": "1.63s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "5-1, 11-1, T3/T4 Eagle Tech box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/4/4e/Bullet_pattern_equip_11220.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Super Rare",
+					"stars": {
+						"stars": "★★★★★",
+						"value": 5
+					},
+					"stats": {
+						"Firepower": {
+							"value": "20"
+						},
+						"Anti-air": {
+							"value": "25"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "15",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.86s",
+							"max": "1.53s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "5-1, 8-1, 10-3, 11-1, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research.",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/4/4e/Bullet_pattern_equip_11220.gif"
+					}
+				}
+			}
+		},
+		"Twin 127mm (Type 3)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_127mm_(Type_3)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "127mm Mounted Gun",
+				"cn": "127mm连装炮",
+				"jp": "127mm連装砲",
+				"kr": "127mm 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "5",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.04s",
+							"max": "1.93s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/a/a5/Bullet_pattern_equip_32100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "8",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.94s",
+							"max": "1.73s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "12",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "1.84s",
+							"max": "1.52s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "6-4, 8-1, 10-1, 12-2, T3/T4 Sakura Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+					}
+				}
+			}
+		},
+		"Twin 128mm (SK C/41)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Twin 128mm Dual Gun (SK C/41)",
+				"cn": "双联装128mmSKC41高平两用炮",
+				"jp": "128mmSKC41連装両用砲",
+				"kr": "128mm SKC/41 연장 양용포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "3"
+						},
+						"Anti-air": {
+							"value": "2"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.36s",
+							"max": "2.21s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "115",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/2/28/Bullet_pattern_equip_41100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "7"
+						},
+						"Anti-air": {
+							"value": "5"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "8",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.18s",
+							"max": "1.88s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "115",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/2/28/Bullet_pattern_equip_41100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "15"
+						},
+						"Anti-air": {
+							"value": "10"
+						},
+						"Damage": {
+							"min": "5",
+							"max": "11",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "2.02s",
+							"max": "1.50s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "115",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T3/T4 Ironblood Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/2/28/Bullet_pattern_equip_41100.gif"
+					}
+				}
+			}
+		},
+		"Twin 134mm (QF Mark II)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_134mm_(QF_Mark_II)",
+			"category": "Destroyer Guns",
+			"names": {
+				"en": "Twin 134mm AA Gun",
+				"cn": "双联装134mm高炮",
+				"jp": "134mm連装高角砲",
+				"kr": "134mm 연장 고사포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "2"
+						},
+						"Anti-air": {
+							"value": "3"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "6",
+							"multiplier": "2"
+						},
+						"Rate of Fire": {
+							"min": "1.76s",
+							"max": "1.65s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "12",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech Box",
+						"notes": "Fires 1 volley with 2 projectiles parallel towards the target.",
+						"animation": "/w/images/1/1b/Bullet_pattern_equip_21500.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "7"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "8",
+							"multiplier": "2"
+						},
+						"Rate of Fire": {
+							"min": "1.68s",
+							"max": "1.47s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "12",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech Box",
+						"notes": "Fires 1 volley with 2 projectiles parallel towards the target.",
+						"animation": "/w/images/b/b9/Bullet_pattern_equip_21520.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "DD Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "10"
+						},
+						"Anti-air": {
+							"value": "15"
+						},
+						"Damage": {
+							"min": "4",
+							"max": "11",
+							"multiplier": "2"
+						},
+						"Rate of Fire": {
+							"min": "1.60s",
+							"max": "1.27s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "12",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "45"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": true,
+						"Light Cruiser": "Secondary gun",
+						"Heavy Cruiser": "Secondary gun",
+						"Monitor": "Secondary gun",
+						"Large Cruiser": "Secondary gun",
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": false,
+						"Light Carrier": false,
+						"Repair Ship": false,
+						"Submarine": true,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-1, 9-3, T3/T4 Royal Tech Box",
+						"notes": "Fires 1 volley with 2 projectiles parallel towards the target.",
+						"animation": "/w/images/b/b9/Bullet_pattern_equip_21520.gif"
+					}
+				}
+			}
+		}
+	},
+	"Light Cruiser Guns": {
+		"Single 140mm (3rd Year Type)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_140mm_(3rd_Year_Type)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Single 140mm Main Gun",
+				"cn": "140mm单装炮",
+				"jp": "140mm単装砲",
+				"kr": "140mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "5",
+							"max": "8",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "5.53s",
+							"max": "5.37s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "25",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/2/28/Bullet_pattern_equip_32000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "9",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "5.24s",
+							"max": "5.09s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "25",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/2/28/Bullet_pattern_equip_32000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "13",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "5.04s",
+							"max": "4.72s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "25",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "360",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "125",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-1, T2/T3 Sakura Tech Box",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/e/e6/Bullet_pattern_equip_32040.gif"
+					}
+				}
+			}
+		}
+	}
+}
