@@ -376,49 +376,68 @@ function parseEquipmentInfo(eqbox) {
 function parseEquipmentStats(eqstats) {
     let stats = {};
     for (row of eqstats.getElementsByClassName("eq-tr")) stats[row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()] =
-        parseEquipmentStatsSlot(row.lastElementChild.textContent.trim())
+        parseEquipmentStatsSlot(row.lastElementChild)
     return stats;
 }
 
-function parseEquipmentStatsSlot(value) {
-    let data;
-    let rawData;
-    if (value.includes("\n")) return value.split("\n").map(line => parseEquipmentStatsSlot(line));
-    if (value !== (rawData = value.replace(/(.+)→(.+)per(.+)/g, "$1|$2|$3"))) { //X → X' per P
-        rawData = rawData.split(/\|/);
-        data = {
-            min: rawData[0].trim(),
-            max: rawData[1].trim(),
-            per: rawData[2].trim()
-        };
-    } else if (value !== (rawData = value.replace(/([^×]+)×([^×]+)→([^×]+)×([^×]+)/g, "$1|$2|$3|$4"))) { //X × C → X' × C
-        rawData = rawData.split(/\|/);
-        data = {
-            min: rawData[0].trim(),
-            max: rawData[2].trim()
-        };
-        if (rawData[1].trim() === rawData[3].trim()) data.multiplier = rawData[1].trim(); // Why? coz I do not trust the source
-        else {
-            data.minMultiplier = rawData[1].trim();
-            data.maxMultiplier = rawData[3].trim();
+function parseEquipmentStatsSlot(valueNode) {
+    if (valueNode.children.length > 0) {
+        let statValue = [];
+        for (node of valueNode.children)
+            if (node.textContent.trim()) statValue.push(parseEquipmentStatsSlot(node));
+        return statValue;
+    } else {
+        let value = valueNode.textContent.trim();
+        let data;
+        let rawData;
+        if (value !== (rawData = value.replace(/(.+) → (.+) per (.+)/g, "$1|$2|$3"))) { //X → X' per P
+            rawData = rawData.split(/\|/);
+            data = {
+                min: rawData[0].trim(),
+                max: rawData[1].trim(),
+                per: rawData[2].trim()
+            };
+        } else if (value !== (rawData = value.replace(/([^×]+) × ([^×]+) → ([^×]+) × ([^×]+)/g, "$1|$2|$3|$4"))) { //X × C → X' × C
+            rawData = rawData.split(/\|/);
+            data = {
+                min: rawData[0].trim(),
+                max: rawData[2].trim()
+            };
+            if (rawData[1].trim() === rawData[3].trim()) data.multiplier = rawData[1].trim(); // Why? coz I do not trust the source
+            else {
+                data.minMultiplier = rawData[1].trim();
+                data.maxMultiplier = rawData[3].trim();
+            }
+        } else if (value !== (rawData = value.replace(/([^×]+) × ([0-9]+)([^×→]+)/g, "$1|$2|$3"))) { // X × C U
+            rawData = rawData.split(/\|/);
+            data = {
+                multiplier: rawData[0].trim(),
+                count: rawData[1].trim(),
+                unit: rawData[2].trim()
+            };
+        } else if (value !== (rawData = value.replace(/([0-9]+) × ([^×→\n]+)/g, "$1|$2"))) { // X × U
+            rawData = rawData.split(/\|/);
+            data = {
+                count: rawData[0].trim(),
+                unit: rawData[1].trim()
+            };
+        } else if (value !== (rawData = value.replace(/([^→]+)→([^→\n]+)/g, "$1|$2"))) { // X → X'
+            rawData = rawData.split(/\|/);
+            data = {
+                min: rawData[0].trim(),
+                max: rawData[1].trim()
+            };
+        } else if (value !== (rawData = value.replace(/([0-9\.]+)([^0-9\.]+)/g, "$1|$2"))) { // X U
+            rawData = rawData.split(/\|/);
+            data = {
+                value: rawData[0].trim(),
+                unit: rawData[1].trim()
+            };
+        } else data = { // ¯\_(ツ)_/¯
+            value: value
         }
-    } else if (value !== (rawData = value.replace(/([^×]+)×([0-9 ]+)([^×→]+)/g, "$1|$2|$3"))) { // X × C U
-        rawData = rawData.split(/\|/);
-        data = {
-            value: rawData[0].trim(),
-            multiplier: rawData[1].trim(),
-            unit: rawData[2].trim()
-        };
-    } else if (value !== (rawData = value.replace(/([0-9 ]+)([^0-9]+)/g, "$1|$2"))) { // X U
-        rawData = rawData.split(/\|/);
-        data = {
-            value: rawData[0].trim(),
-            unit: rawData[1].trim()
-        };
-    } else data = { // ¯\_(ツ)_/¯
-        value: value
+        return data;
     }
-    return data;
 }
 
 function parseEquipmentFit(eqfits) {
