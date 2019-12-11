@@ -12,8 +12,9 @@ const SKIN_FILE_NAME = '${type}.png';
 const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
 
 let SHIP_LIST = require("./ship-list.json");
-let SHIPS = require("./ships");
-let REPO_SHIPS = require("./ships(wiki_link)");
+let SHIPS = require("./ships.json");
+let EQUIPMENTS = require("./equipments.json");
+let REPO_SHIPS = require("./ships(wiki_link).json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
 
@@ -28,8 +29,9 @@ function timeout(ms) {
 }
 
 module.exports = {
-    refreshData: refreshData,
-    refreshImages: refreshImages
+    refreshShips: refreshShips,
+    refreshImages: refreshImages,
+    fetchEquipment: fetchEquipment
 }
 // Filtering the ship list
 function filter(callback) {
@@ -44,7 +46,7 @@ function filter(callback) {
 let shipCounter = 0;
 let lineCount = 0;
 // Refresh everything
-async function refreshData(online) {
+async function refreshShips(online) {
     SHIP_LIST = await fetchShipList();
     fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
     console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
@@ -53,7 +55,7 @@ async function refreshData(online) {
     let keys = Object.keys(SHIP_LIST);
     let i = setInterval(async function() {
         let key = keys[counter];
-        let ship = await refresh(key, online);
+        let ship = await refreshShip(key, online);
         SHIPS[key] = ship;
         process.stdout.write("+");
         shipCounter++;
@@ -69,9 +71,9 @@ async function refreshData(online) {
             clearInterval(i);
         }
     }, 12000);
-    VERSION_INFO["version-number"] += 1;
-    VERSION_INFO["last-data-refresh-date"] = Date.now();
-    VERSION_INFO["number-of-ships"] = SHIP_LIST.length;
+    VERSION_INFO.ships["version-number"] += 1;
+    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
+    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
@@ -129,12 +131,40 @@ async function refreshImages(overwrite) {
     }
     console.log("\nDone");
 }
+
+async function refreshEquipments(online) {
+    let data;
+    if (!fs.existsSync('./web/equipments/equipment_list.html') || online) fs.writeFileSync('./web/equipments/equipment_list.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
+    else data = fs.readFileSync('./web/equipments/equipment_list.html', 'utf8');
+    for (equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
+        let category = equipment_type.textContent;
+        if (!EQUIPMENTS[category]) EQUIPMENTS[category] = {};
+        if (!fs.existsSync('./web/equipments/' + category + '_list.html') || online) {
+            data = await fetch("https://azurlane.koumakan.jp" + equipment_type.firstElementChild.getAttribute("href"))
+            fs.writeFileSync('./web/equipments/' + category + '_list.html', data);
+        } else data = fs.readFileSync('./web/equipments/' + category + '_list.html', 'utf8');
+        new JSDOM(data).window.document.querySelectorAll(".tabbertab:nth-child(4) .wikitable tbody tr").forEach(equipment_row => { // Equipments layer, using the max rarity tab to prevent dupes
+            let href = "https://azurlane.koumakan.jp" + equipment_row.firstElementChild.firstElementChild.getAttribute("href");
+            let name = equipment_row.firstElementChild.firstElementChild.title;
+            EQUIPMENTS[category][name] = refreshEquipment(href, name, category, online);
+            fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS, null, '\t'));
+        });
+    }
+}
 // Refresh a ship with specified id
-async function refresh(id, online) {
+async function refreshShip(id, online) {
     if (!SHIPS.hasOwnProperty(id) || online) { // Revive Program From Crush/Forced online fetch
         return await fetchShip(SHIP_LIST[id].name, online);
     } else {
         return SHIPS[id];
+    }
+}
+
+async function refreshEquipment(href, name, category, online) {
+    if (!EQUIPMENTS.hasOwnProperty(name) || online) {
+        return await fetchEquipment(href, name, category, online);
+    } else {
+        return EQUIPMENTS[name];
     }
 }
 
@@ -157,14 +187,14 @@ async function fetchShipList() {
 async function fetchShip(name, online) {
     if (online) { // Fetch from the wiki directly
         const body = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
-        fs.writeFileSync('./web/' + name + '.html', body);
+        fs.writeFileSync('./web/ships/' + name + '.html', body);
         let ship = parseShip(name, body);
         await timeout(6000);
         ship.skins = await fetchGallery(name, online)
         return ship;
     } else {
-        if (!fs.existsSync('./web/' + name + '.html')) return fetchShip(name, true); // Enforcing
-        let ship = parseShip(name, fs.readFileSync('./web/' + name + '.html', 'utf8')); // Read from local cache
+        if (!fs.existsSync('./web/ships/' + name + '.html')) return fetchShip(name, true); // Enforcing
+        let ship = parseShip(name, fs.readFileSync('./web/ships/' + name + '.html', 'utf8')); // Read from local cache
         ship.skins = await fetchGallery(name, online)
         return ship;
     }
@@ -173,11 +203,24 @@ async function fetchShip(name, online) {
 async function fetchGallery(name, online) {
     if (online) {
         const body = await fetch("https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_") + "/Gallery");
-        fs.writeFileSync('./web.gallery/' + name + '.html', body);
+        fs.writeFileSync('./web/ships.gallery/' + name + '.html', body);
         return parseGallery(name, body);
     } else {
-        if (!fs.existsSync('./web.gallery/' + name + '.html')) return fetchGallery(name, true); // Enforcing
-        return parseGallery(name, fs.readFileSync('./web.gallery/' + name + '.html', 'utf8'));
+        if (!fs.existsSync('./web/ships.gallery/' + name + '.html')) return fetchGallery(name, true); // Enforcing
+        return parseGallery(name, fs.readFileSync('./web/ships.gallery/' + name + '.html', 'utf8'));
+    }
+}
+
+async function fetchEquipment(href, name, category, online) {
+    if (online) { // Fetch from the wiki directly
+        const body = await fetch(href);
+        fs.writeFileSync('./web/equipments/' + name + '.html', body);
+        let equipment = parseEquipment(href, category, body);
+        return equipment;
+    } else {
+        if (!fs.existsSync('./web/equipments/' + name + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
+        let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + name + '.html', 'utf8')); // Read from local cache
+        return equipment;
     }
 }
 
@@ -220,7 +263,7 @@ function parseShip(name, body) {
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.buildTime = doc.querySelector("tr:nth-child(1) > td:nth-child(2) > a").textContent;
-    ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.getAttribute("title");
+    ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
     let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim();
     ship.stars = {
         stars: stars,
@@ -250,11 +293,11 @@ function parseStats(doc) {
     let allStats = {};
     doc.querySelectorAll(".nomobile > .tabber > .tabbertab .wikitable tbody").forEach(tab => {
         let stats = {};
-        let title = tab.parentNode.parentNode.getAttribute("title");
+        let title = tab.parentNode.parentNode.title;
         let names = tab.querySelectorAll("th"),
             bodies = tab.querySelectorAll("td");
         for (let j = 0; j < names.length; j++) {
-            let type = names[j].firstChild.getAttribute("title");
+            let type = names[j].firstElementChild.title;
             if (type === "Hunting range") {
                 let range = [];
                 doc.querySelectorAll(".tabbertab:nth-child(2) > .wikitable table tr").forEach(row => {
@@ -269,18 +312,15 @@ function parseStats(doc) {
     });
     return allStats;
 }
-
 // Parse ship's gallery page html body, need a name
 function parseGallery(name, body) {
     let skins = [];
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
         tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[row.getElementsByTagName("th")[0].textContent.trim()] = row.getElementsByTagName("td")[0].textContent.trim());
-        const parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").getAttribute("srcset"));
-        const maxDensity = Math.max(...parsedSet.map(set => set.density));
         skins.push({
-            name: tab.getAttribute("title"),
-            image: "https://azurlane.koumakan.jp" + parsedSet.find(set => set.density == maxDensity).url,
+            name: tab.title,
+            image: "https://azurlane.koumakan.jp" + srcset.parse(tab.querySelector(".ship-skin-image img").srcset).sort((s1, s2) => s1.density < s2.density ? -1 : s1.density > s2.density ? 1 : 0).url,
             background: "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src"),
             chibi: tab.querySelector(".ship-skin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-chibi img").getAttribute("src") : null,
             info: info
@@ -288,9 +328,116 @@ function parseGallery(name, body) {
     });
     return skins;
 }
+
+function parseEquipment(href, category, body) {
+    const doc = new JSDOM(body).window.document;
+    let tabs = doc.getElementsByClassName("eqbox");
+    console.log("Tabs: " + tabs.length);
+    let tiers = {};
+    for (tab of tabs) {
+        let t = parseEquipmentInfo(tab);
+        tiers[t.tier] = t;
+    }
+    return {
+        wikiUrl: href,
+        category: category,
+        names: {
+            en: doc.querySelector('[lang="en"]') ? doc.querySelector('[lang="en"]').textContent : null,
+            cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
+            jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
+            kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
+        },
+        tiers: tiers
+    };
+}
+
+function parseEquipmentInfo(eqbox) {
+    let primaryRows = eqbox.querySelectorAll(".eqinfo:nth-child(2) td");
+    let stars = primaryRows[1].firstElementChild.lastChild.innerHTML.split("<br>")[1];
+    return {
+        tier: eqbox.getElementsByClassName("eqtech")[0].textContent,
+        type: {
+            focus: primaryRows[0].firstElementChild.title,
+            name: primaryRows[0].textContent.trim()
+        },
+        nationality: primaryRows[2].firstElementChild.title,
+        image: srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => s1.density < s2.density ? -1 : s1.density > s2.density ? 1 : 0).url,
+        rarity: primaryRows[1].firstElementChild.firstElementChild.title,
+        stars: {
+            stars: stars,
+            value: stars.split("★").length - 1
+        },
+        stats: parseEquipmentStats(eqbox.getElementsByClassName("eqstats")[0]),
+        fits: parseEquipmentFit(eqbox.getElementsByClassName("eqfits")[0]),
+        misc: parseEquipmentMisc(eqbox.getElementsByClassName("eqmisc")[0])
+    };
+}
+
+function parseEquipmentStats(eqstats) {
+    let stats = {};
+    for (row of eqstats.getElementsByClassName("eq-tr")) stats[row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()] =
+        parseEquipmentStatsSlot(row.lastElementChild.textContent.trim())
+    return stats;
+}
+
+function parseEquipmentStatsSlot(value) {
+    let data;
+    let rawData;
+    if (value.includes("\n")) return value.split("\n").map(line => parseEquipmentStatsSlot(line));
+    if (value !== (rawData = value.replace(/(.+)→(.+)per(.+)/g, "$1|$2|$3"))) { //X → X' per P
+        rawData = rawData.split(/\|/);
+        data = {
+            min: rawData[0].trim(),
+            max: rawData[1].trim(),
+            per: rawData[2].trim()
+        };
+    } else if (value !== (rawData = value.replace(/([^×]+)×([^×]+)→([^×]+)×([^×]+)/g, "$1|$2|$3|$4"))) { //X × C → X' × C
+        rawData = rawData.split(/\|/);
+        data = {
+            min: rawData[0].trim(),
+            max: rawData[2].trim()
+        };
+        if (rawData[1].trim() === rawData[3].trim()) data.multiplier = rawData[1].trim(); // Why? coz I do not trust the source
+        else {
+            data.minMultiplier = rawData[1].trim();
+            data.maxMultiplier = rawData[3].trim();
+        }
+    } else if (value !== (rawData = value.replace(/([^×]+)×([0-9 ]+)([^×→]+)/g, "$1|$2|$3"))) { // X × C U
+        rawData = rawData.split(/\|/);
+        data = {
+            value: rawData[0].trim(),
+            multiplier: rawData[1].trim(),
+            unit: rawData[2].trim()
+        };
+    } else if (value !== (rawData = value.replace(/([0-9 ]+)([^0-9]+)/g, "$1|$2"))) { // X U
+        rawData = rawData.split(/\|/);
+        data = {
+            value: rawData[0].trim(),
+            unit: rawData[1].trim()
+        };
+    } else data = { // ¯\_(ツ)_/¯
+        value: value
+    }
+    return data;
+}
+
+function parseEquipmentFit(eqfits) {
+    let fits = {};
+    for (row of eqfits.getElementsByTagName("tr")) fits[row.children[1].textContent.trim()] = row.children[2].textContent.trim() === "✘" ? false : row.children[2].textContent.trim() === "✔" ? true : row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim();
+    return fits;
+}
+
+function parseEquipmentMisc(eqmisc) {
+    let datas = eqmisc.getElementsByClassName("eq-td");
+    return {
+        obtained_from: datas[0].textContent,
+        notes: datas[1].textContent,
+        animation: datas.length > 2 ? datas[2].firstElementChild.firstElementChild.src : null
+    };
+}
+
 // Promise Wrapper for request, I dont trust their own promise support
 function fetch(url) {
-    console.log(url);
     return new Promise((resolve, reject) => request({
         url: url,
         headers: HEADERS
@@ -319,4 +466,9 @@ function deleteAll(path) {
         });
         fs.rmdirSync(path);
     }
+}
+
+// recursive string repeating, why not
+function repeat(pat, n) {
+    return (n > 0) ? pat.concat(repeat(pat, --n)) : "";
 }
