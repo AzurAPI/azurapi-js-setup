@@ -148,6 +148,7 @@ async function refreshEquipments(online) {
             fs.writeFileSync('./web/equipments/' + category + '_list.html', data);
             process.stdout.write("Done\n");
         } else data = fs.readFileSync('./web/equipments/' + category + '_list.html', 'utf8');
+        if (!fs.existsSync('./web/equipments/' + category)) fs.mkdirSync('./web/equipments/' + category);
         console.log("List Done");
         for (let equipment_row of new JSDOM(data).window.document.querySelectorAll("div[title = 'Max Rarity'] > table > tbody tr")) { // Equipments layer, using the max rarity tab to prevent dupes
             if (!equipment_row.firstElementChild.firstElementChild) continue; // some how jsdom's query selector is flaud, so dirty fix here, ignore it
@@ -223,12 +224,12 @@ async function fetchGallery(name, online) {
 async function fetchEquipment(href, name, category, online) {
     if (online) { // Fetch from the wiki directly
         const body = await fetch(href);
-        fs.writeFileSync('./web/equipments/' + name.replace(/\//g, "_") + '.html', body);
+        fs.writeFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', body);
         let equipment = parseEquipment(href, category, body);
         return equipment;
     } else {
-        if (!fs.existsSync('./web/equipments/' + name.replace(/\//g, "_") + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
-        let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + name.replace(/\//g, "_") + '.html', 'utf8')); // Read from local cache
+        if (!fs.existsSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
+        let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', 'utf8')); // Read from local cache
         return equipment;
     }
 }

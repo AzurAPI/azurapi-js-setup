@@ -4696,6 +4696,3090 @@
 					}
 				}
 			}
+		},
+		"Single 150mm (SK C/28)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_150mm_(SK_C/28)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Single 150mm Main Gun (SK C/28)",
+				"cn": "单装SKC28式150mm主炮",
+				"jp": "150mmSKC/28単装砲",
+				"kr": "150mm SKC/28 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "10",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "2.19s",
+							"max": "2.00s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Ironblood Tech box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/b/b7/Bullet_pattern_equip_42000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "14",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "2.09s",
+							"max": "1.71s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Ironblood Tech box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/b/b7/Bullet_pattern_equip_42000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "21",
+							"multiplier": "1"
+						},
+						"Rate of Fire": {
+							"min": "1.99s",
+							"max": "1.38s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "15",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "2-4, 8-1, 11-2, T3/T4 Ironblood Tech Box",
+						"notes": "Fires 1 projectile towards the target.",
+						"animation": "/w/images/b/b7/Bullet_pattern_equip_42000.gif"
+					}
+				}
+			}
+		},
+		"Single 152mm (6\"/45 Pattern 1892)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_152mm_(6%22/45_Pattern_1892)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Single 152mm Main Gun",
+				"cn": "单装152mm主炮",
+				"jp": "152mm単装砲",
+				"kr": "152mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "North Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "16",
+							"max": "22",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.12s",
+							"max": "2.91s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "40",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.40",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Stock equipment on Avrora.",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/8/86/Bullet_pattern_equip_7000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "North Union",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "20",
+							"max": "34",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "2.81s",
+							"max": "2.43s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "40",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.40",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-2",
+						"notes": "Fires 3 projectiles in sequence towards the target.",
+						"animation": "/w/images/8/86/Bullet_pattern_equip_7000.gif"
+					}
+				}
+			}
+		},
+		"Single 152mm (BL 6\" Mk XII)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Single_152mm_(BL_6%22_Mk_XII)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Single 152mm Auxiliary Gun",
+				"cn": "单装152mm副炮",
+				"jp": "152mm単装砲",
+				"kr": "152mm 단장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "11",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "4.16s",
+							"max": "3.87s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "14",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Unknown",
+						"notes": "Fires 1 volley with 3 projectiles straight in front of the ship. (No targeting)",
+						"animation": "/w/images/a/af/Bullet_pattern_equip_22000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "12",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.93s",
+							"max": "3.65s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "14",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 1 volley with 3 projectiles straight in front of the ship. (No targeting)",
+						"animation": "/w/images/a/af/Bullet_pattern_equip_22000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "10",
+							"max": "16",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.90s",
+							"max": "3.34s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "14",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "2-1, T2/T3 Royal Tech Box",
+						"notes": "Fires 1 volley with 3 projectiles straight in front of the ship. (No targeting)",
+						"animation": "/w/images/a/af/Bullet_pattern_equip_22000.gif"
+					}
+				}
+			}
+		},
+		"Triple 150mm (SK C/25)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_150mm_(SK_C/25)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Triple 150mm Main Gun (SK C/25)",
+				"cn": "三联装SKC25式150mm主炮",
+				"jp": "150mmSKC/28三連装砲",
+				"kr": "150mm SKC/28 3연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "10",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "6.58s",
+							"max": "6.38s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "25",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 3 Projectiles in sequence towards the target.",
+						"animation": "/w/images/9/94/Bullet_pattern_equip_42100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "14",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "6.26s",
+							"max": "5.88s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "25",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 3 Projectiles in sequence towards the target.",
+						"animation": "/w/images/9/94/Bullet_pattern_equip_42100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "21",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "5.95s",
+							"max": "5.35s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "25",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "3",
+							"count": "1",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.30",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-1, 11-3, T3/T4 Ironblood Tech Box",
+						"notes": "Fires 3 Projectiles in sequence towards the target.",
+						"animation": "/w/images/9/94/Bullet_pattern_equip_42100.gif"
+					}
+				}
+			}
+		},
+		"Triple 152mm (6\"/47 Mk 16)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Triple 152mm Main Gun",
+				"cn": "三联装152mm主炮",
+				"jp": "152mm三連装砲",
+				"kr": "152mm 3연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "10",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "5.65s",
+							"max": "5.41s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "42",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "6",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 1 volley with 6 projectiles in an arc towards the target.",
+						"animation": "/w/images/1/12/Bullet_pattern_equip_12100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "14",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "5.59s",
+							"max": "5.11s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "42",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "6",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 1 volley with 6 projectiles in an arc towards the target.",
+						"animation": "/w/images/1/12/Bullet_pattern_equip_12100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "19",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "5.45s",
+							"max": "4.59s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "42",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "6",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-2, 9-4, 10-2, 10-3, 11-4, 13-1, T3/T4 Eagle Tech Box",
+						"notes": "Fires 1 volley with 6 projectiles in an arc towards the target.",
+						"animation": "/w/images/1/15/Bullet_pattern_equip_12140.gif"
+					}
+				}
+			}
+		},
+		"Triple 152mm (6\"/47 Mk 17 DP Prototype)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_17_DP_Prototype)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "试作型三联装152mm高平两用炮Mk17",
+				"cn": "试作型三联装152mm高平两用炮Mk17",
+				"jp": "試作型三連装152mm両用砲Mk17",
+				"kr": "시제형 3연장 152mm 양용포 Mk17"
+			},
+			"tiers": {
+				"T0": {
+					"tier": "T0",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Super Rare",
+					"stars": {
+						"stars": "★★★★★",
+						"value": 5
+					},
+					"stats": {
+						"Firepower": {
+							"value": "30"
+						},
+						"Anti-air": {
+							"value": "15"
+						},
+						"Damage": {
+							"min": "5",
+							"max": "15",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "3.67s",
+							"max": "3.27s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "16",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "115",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "55"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE++"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Acquired through research only.",
+						"notes": "No notes",
+						"animation": "/w/images/1/18/Bullet_pattern_equip_12200.gif"
+					}
+				}
+			}
+		},
+		"Triple 152mm (BL 6\" Mk XXV Prototype)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Prototype Triple 152mm Main Gun",
+				"cn": "试作型三联装152mm主炮",
+				"jp": "試製152mm三連装砲",
+				"kr": "시제형 152mm 3연장포"
+			},
+			"tiers": {
+				"T0": {
+					"tier": "T0",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Super Rare",
+					"stars": {
+						"stars": "★★★★★",
+						"value": 5
+					},
+					"stats": {
+						"Firepower": {
+							"value": "45"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "11",
+							"max": "24",
+							"multiplier": "3"
+						},
+						"Rate of Fire": {
+							"min": "3.19s",
+							"max": "2.86s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "18",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "115",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP+"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Acquired through research only.",
+						"notes": "No notes",
+						"animation": "/w/images/0/0d/Bullet_pattern_equip_22260.gif"
+					}
+				}
+			}
+		},
+		"Triple 152mm (Mle 1930)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(Mle_1930)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Triple 152mm Main Gun (Mle 1930)",
+				"cn": "三联装152mm主炮Mle1930",
+				"jp": "152mm三連装砲Mle1930",
+				"kr": "152mm 3연장포 Mle 1930"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Iris Libre",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "10",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "4.24s",
+							"max": "4.11s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "42",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "65"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "6",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Stock equipment on Emile Bertin.",
+						"notes": "No notes",
+						"animation": "/w/images/1/13/Bullet_pattern_equip_90200.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Iris Libre",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "15",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "3.84s",
+							"max": "3.60s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "42",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "65"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "6",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Iris of the Light and the Dark B-2",
+						"notes": "No notes",
+						"animation": "/w/images/4/47/Bullet_pattern_equip_90240.gif"
+					}
+				}
+			}
+		},
+		"Triple 155mm (3rd Year Type)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Triple 155mm Mounted Gun",
+				"cn": "155mm三连装炮",
+				"jp": "155mm三連装砲",
+				"kr": "155mm 3연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "12",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "5.53s",
+							"max": "4.89s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "24",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Sakura Tech box",
+						"notes": "Fires 2 volleys with 3 projectiles each parallel towards the target.",
+						"animation": "/w/images/4/49/Bullet_pattern_equip_32200.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "17",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "5.32s",
+							"max": "4.26s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "24",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE+"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "6-2, 7-2, 12-3, 13-1, T3/T4 Sakura Tech box",
+						"notes": "Fires 2 volleys with 3 projectiles each parallel towards the target.",
+						"animation": "/w/images/a/ad/Bullet_pattern_equip_32220.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Super Rare",
+					"stars": {
+						"stars": "★★★★★",
+						"value": 5
+					},
+					"stats": {
+						"Firepower": {
+							"value": "45"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "18",
+							"multiplier": "6"
+						},
+						"Rate of Fire": {
+							"min": "5.19s",
+							"max": "4.12s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "24",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "3",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.15",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE+"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "6-2, 8-3, 13-1, T4/T5 Sakura Tech Box.Blueprints can also be obtained through Research.",
+						"notes": "Fires 2 volleys with 3 projectiles each parallel towards the target.",
+						"animation": "/w/images/a/ad/Bullet_pattern_equip_32220.gif"
+					}
+				}
+			}
+		},
+		"Twin 140mm (3rd Year Type)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_140mm_(3rd_Year_Type)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "140mm Mounted Gun",
+				"cn": "140mm连装炮",
+				"jp": "140mm連装砲",
+				"kr": "140mm 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "5",
+							"max": "8",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.47s",
+							"max": "4.16s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 1 volley with 4 projectiles in front of the ship.",
+						"animation": "/w/images/a/a5/Bullet_pattern_equip_32100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "12",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.22s",
+							"max": "3.64s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 1 volley with 4 projectiles in front of the ship.",
+						"animation": "/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "17",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.98s",
+							"max": "3.07s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-4, 8-1, 8-2, 10-4, 11-3, T3/T4 Sakura Tech Box",
+						"notes": "Fires 1 volley with 4 projectiles in front of the ship.",
+						"animation": "/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+					}
+				}
+			}
+		},
+		"Twin 150mm (TbtsK C/36)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Twin 150mm Main Gun (TbtsK C/36)",
+				"cn": "双联装TbtsKC36式150mm主炮",
+				"jp": "150mmTbtsKC/36連装砲",
+				"kr": "150mm TbtsKC/36 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "10",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.69s",
+							"max": "3.57s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech Ironblood Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/6/6e/Bullet_pattern_equip_42200.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "14",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.51s",
+							"max": "3.29s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Ironblood Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/6/6e/Bullet_pattern_equip_42200.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Ironblood",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "21",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.35s",
+							"max": "3.00s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "20",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "2",
+							"count": "2",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.10",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "105",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou Only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-2, 9-3, 11-4, T3/T4 Ironblood Tech Box",
+						"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
+						"animation": "/w/images/6/6e/Bullet_pattern_equip_42200.gif"
+					}
+				}
+			}
+		},
+		"Twin 152mm (41st Year Type)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_152mm_(41st_Year_Type)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "152mm Mounted Gun",
+				"cn": "152mm连装炮",
+				"jp": "152mm連装砲",
+				"kr": "152mm 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "6",
+							"max": "9",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.52s",
+							"max": "4.20s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Sakura Tech Box",
+						"notes": "No notes",
+						"animation": "/w/images/a/a5/Bullet_pattern_equip_32100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "13",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.29s",
+							"max": "3.69s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Sakura Tech Box",
+						"notes": "No notes",
+						"animation": "/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Sakura Empire",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "18",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.06s",
+							"max": "3.13s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "HE"
+						},
+						"Characteristic": {
+							"value": "Scattershot"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T3/T4 Sakura Tech Box",
+						"notes": "No notes",
+						"animation": "/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+					}
+				}
+			}
+		},
+		"Twin 152mm (6\"/53 Mk 18)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_152mm_(6%22/53_Mk_18)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Twin 152mm Main Gun",
+				"cn": "双联152mm主炮",
+				"jp": "152mm連装砲",
+				"kr": "152mm 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★",
+						"value": 1
+					},
+					"stats": {
+						"Firepower": {
+							"value": "0"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "7",
+							"max": "10",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.33s",
+							"max": "3.13s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "Comes with ship drops.",
+						"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+						"animation": "/w/images/0/07/Bullet_pattern_equip_12000.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "11",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.26s",
+							"max": "3.06s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+						"animation": "/w/images/0/07/Bullet_pattern_equip_12000.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Eagle Union",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "15",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.19s",
+							"max": "2.79s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "60"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "Normal"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "3-4, T2/T3 Eagle Tech Box",
+						"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+						"animation": "/w/images/0/07/Bullet_pattern_equip_12000.gif"
+					}
+				}
+			}
+		},
+		"Twin 152mm (BL 6\" Mk XXII)": {
+			"wikiUrl": "https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXII)",
+			"category": "Light Cruiser Guns",
+			"names": {
+				"en": "Twin 152mm Main Gun",
+				"cn": "双联装152mm主炮",
+				"jp": "152mm連装砲",
+				"kr": "152mm 연장포"
+			},
+			"tiers": {
+				"T1": {
+					"tier": "T1",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Normal",
+					"stars": {
+						"stars": "★★",
+						"value": 2
+					},
+					"stats": {
+						"Firepower": {
+							"value": "5"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "8",
+							"max": "11",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.25s",
+							"max": "4.00s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T1/T2 Tech box",
+						"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+						"animation": "/w/images/7/73/Bullet_pattern_equip_22100.gif"
+					}
+				},
+				"T2": {
+					"tier": "T2",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Rare",
+					"stars": {
+						"stars": "★★★",
+						"value": 3
+					},
+					"stats": {
+						"Firepower": {
+							"value": "12"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "9",
+							"max": "15",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "4.10s",
+							"max": "3.78s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "T2/T3 Tech box",
+						"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+						"animation": "/w/images/7/73/Bullet_pattern_equip_22100.gif"
+					}
+				},
+				"T3": {
+					"tier": "T3",
+					"type": {
+						"focus": "Firepower",
+						"name": "CL Gun"
+					},
+					"nationality": "Royal Navy",
+					"rarity": "Elite",
+					"stars": {
+						"stars": "★★★★",
+						"value": 4
+					},
+					"stats": {
+						"Firepower": {
+							"value": "25"
+						},
+						"Anti-air": {
+							"value": "0"
+						},
+						"Damage": {
+							"min": "10",
+							"max": "22",
+							"multiplier": "4"
+						},
+						"Rate of Fire": {
+							"min": "3.90s",
+							"max": "3.39s",
+							"per": "volley"
+						},
+						"Spread": {
+							"value": "28",
+							"unit": "°"
+						},
+						"Angle": {
+							"value": "120",
+							"unit": "°"
+						},
+						"Range": {
+							"value": "50"
+						},
+						"Volley": {
+							"multiplier": "1",
+							"count": "4",
+							"unit": "shells"
+						},
+						"Volley Time": {
+							"value": "0.00",
+							"unit": "s"
+						},
+						"Coefficient": {
+							"value": "110",
+							"unit": "%"
+						},
+						"Ammo Type": {
+							"value": "AP"
+						},
+						"Characteristic": {
+							"value": "Lock-On"
+						}
+					},
+					"fits": {
+						"Destroyer": false,
+						"Light Cruiser": true,
+						"Heavy Cruiser": false,
+						"Monitor": false,
+						"Large Cruiser": false,
+						"Battleship": "Secondary gun",
+						"Battlecruiser": "Secondary gun",
+						"Aviation Battleship": false,
+						"Aircraft Carrier": "Zeppy Only",
+						"Light Carrier": "Houshou only",
+						"Repair Ship": false,
+						"Submarine": false,
+						"Submarine Carrier": false
+					},
+					"misc": {
+						"obtained_from": "4-3, 10-1, T3/T4 Royal Tech Box",
+						"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+						"animation": "/w/images/7/73/Bullet_pattern_equip_22100.gif"
+					}
+				}
+			}
 		}
 	}
 }
