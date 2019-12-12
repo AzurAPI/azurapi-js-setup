@@ -104,8 +104,6 @@ async function refreshImages(overwrite) {
     console.log("\nDone");
 }
 
-const GITHUB_RAW = "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/";
-
 function publish() {
     console.log("** WARNING, the program will publish the current ships.internal.json!");
     console.log(`SHIPS_INTERNAL.length = ${SHIPS_INTERNAL.length}\nSHIPS.length = ${SHIPS.length}`);
@@ -116,15 +114,15 @@ function publish() {
         SHIPS[key] = clone(SHIPS_INTERNAL[key]); //simple clone!
         if (SHIPS[key].rarity !== "Unreleased") { // images?
             let root_folder = SKIN_PATH.replace('${id}', SHIPS[key].id);
-            SHIPS[key].thumbnail = GITHUB_RAW + root_folder + "thumbnail.png";
+            SHIPS[key].thumbnail = IMAGE_REPO_URL + root_folder + "thumbnail.png";
             process.stdout.write("-");
             let newSkins = [];
             for (let skin of SHIPS[key].skins) {
                 process.stdout.write(".");
                 let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
-                skin.image = GITHUB_RAW + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
-                skin.chibi = GITHUB_RAW + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
-                skin.background = GITHUB_RAW + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
+                skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
+                skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+                skin.background = IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
                 newSkins.push(skin); //not sure why but this feels safer
             }
             SHIPS[key].skins = newSkins;
@@ -389,6 +387,8 @@ function parseEquipment(href, category, body) {
 function parseEquipmentInfo(eqbox) {
     let primaryRows = eqbox.querySelectorAll(".eqinfo:nth-child(2) td");
     let stars = primaryRows[1].firstElementChild.lastChild.innerHTML.split("<br>")[1];
+    let image = srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => compare(s2.density, s1.density))[0].url;
+    if (!image) image = eqbox.getElementsByTagName("img")[0].src;
     return {
         tier: eqbox.getElementsByClassName("eqtech")[0].textContent,
         type: {
@@ -396,7 +396,7 @@ function parseEquipmentInfo(eqbox) {
             name: primaryRows[0].textContent.trim()
         },
         nationality: primaryRows[2].firstElementChild.title,
-        image: srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => compare(s2.density, s1.density))[0].url,
+        image: image,
         rarity: primaryRows[1].firstElementChild.firstElementChild.title,
         stars: {
             stars: stars,
