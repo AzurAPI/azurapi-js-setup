@@ -5,7 +5,7 @@ const request = require('request');
 const JSDOM = require('jsdom').JSDOM;
 const srcset = require('srcset');
 
-const SKIN_PATH = './images/skins/${id}/';
+const SKIN_PATH = 'images/skins/${id}/';
 const SKIN_NAME_PATH = '${name}/';
 const SKIN_FILE_NAME = '${type}.png';
 
@@ -14,7 +14,7 @@ const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-set
 let SHIP_LIST = require("./ship-list.json");
 let SHIPS = require("./ships.json");
 let EQUIPMENTS = require("./equipments.json");
-let REPO_SHIPS = require("./ships(wiki_link).json");
+let SHIPS_INTERNAL = require("./ships.internal.json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
 
@@ -29,6 +29,7 @@ function timeout(ms) {
 }
 
 module.exports = {
+    publish: publish,
     refreshShips: refreshShips,
     refreshImages: refreshImages,
     refreshEquipments: refreshEquipments
@@ -44,37 +45,25 @@ function filter(callback) {
 }
 
 let shipCounter = 0;
-let lineCount = 0;
-// Refresh everything
+
+// Refresh ships
 async function refreshShips(online) {
     SHIP_LIST = await fetchShipList();
     fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
     console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
     console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
-    var counter = 0;
     let keys = Object.keys(SHIP_LIST);
-    let i = setInterval(async function() {
-        let key = keys[counter];
+    for (key of keys) {
         let ship = await refreshShip(key, online);
-        SHIPS[key] = ship;
-        process.stdout.write("+");
+        SHIPS_INTERNAL[key] = ship;
         shipCounter++;
-        if (shipCounter > 32) {
-            shipCounter = 0;
-            lineCount++;
-            process.stdout.write(" " + lineCount * 32 + " Done\n");
-        }
-        fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
-        fs.writeFileSync('./ships(wiki_link).json', JSON.stringify(SHIPS, null, '\t'));
-        counter++;
-        if (counter == keys.length) {
-            clearInterval(i);
-        }
-    }, 12000);
-    VERSION_INFO.ships["version-number"] += 1;
-    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
-    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
-    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+        if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
+        fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
+    }
+    // VERSION_INFO.ships["version-number"] += 1;
+    // VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
+    // VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
+    // fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
 async function refreshImages(overwrite) {
@@ -84,20 +73,18 @@ async function refreshImages(overwrite) {
         console.log("Done")
     }
     console.log("Refreshing images...");
-    for (let key in SHIPS) {
-        let ship = SHIPS[key];
-        let repoship = REPO_SHIPS[key]
+    SHIPS[key] = clone(ship); // Feels wrong to just assing it, so i copied it
+    for (let key in SHIPS_INTERNAL) {
+        let ship = SHIPS_INTERNAL[key];
         IMAGE_PROGRESS.last_id = key;
         fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-        if (REPO_SHIPS[key].rarity !== "Unreleased") {
+        if (ship.rarity !== "Unreleased") {
             let root_folder = SKIN_PATH.replace('${id}', ship.id);
             if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
             process.stdout.write(`${key}`);
             if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
                 await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
             process.stdout.write("-");
-            REPO_SHIPS[key].thumbnail = `${IMAGE_REPO_URL}${root_folder.substring(2)}thumbnail.png`
-            REPO_SHIPS[key].skins = []
             for (let skin of ship.skins) {
                 let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
                 if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
@@ -109,27 +96,50 @@ async function refreshImages(overwrite) {
                 if (skin.chibi !== null && (!fs.existsSync(chibi_path) || overwrite))
                     await fetchImage(skin.chibi, chibi_path);
                 process.stdout.write("|");
-                if (skin.background !== null && (!fs.existsSync("./images/backgrounds/" + skin.background.substring(8).replace(/\//g, "_")) || overwrite)) {
-                    await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(8).replace(/\//g, "_"));
+                if (skin.background !== null && (!fs.existsSync("./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1)) || overwrite)) {
+                    await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
                     console.log("\nDownloaded " + skin.background);
                 }
-                let info = {};
-                if (skin.chibi !== null) info['chibi'] = `${IMAGE_REPO_URL}${chibi_path.substring(2)}`;
-                if (skin.image !== null) info['image'] = `${IMAGE_REPO_URL}${image_path.substring(2)}`;
-                let ima = Object.assign(skin, info);
-                REPO_SHIPS[key].skins.push(ima);
             }
-            fs.writeFileSync('./ships.json', JSON.stringify(REPO_SHIPS, null, '\t'));
         }
-
         shipCounter++;
-        if (shipCounter >= 50) {
-            shipCounter = 0;
-            lineCount++;
-            process.stdout.write(` ${lineCount*50} Done\n|`);
-        }
+        if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
     console.log("\nDone");
+}
+
+const GITHUB_RAW = "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/";
+
+function publish() {
+    console.log("** WARNING, the program will publish the current ships.internal.json!");
+    console.log(`SHIPS_INTERNAL.length = ${SHIPS_INTERNAL.length}\nSHIPS.length = ${SHIPS.length}`);
+    SHIPS = {};
+    console.log("Starting...")
+    for (let key in SHIPS_INTERNAL) {
+        process.stdout.write(">");
+        SHIPS[key] = clone(SHIPS_INTERNAL[key]); //simple clone!
+        if (SHIPS[key].rarity !== "Unreleased") { // images?
+            let root_folder = SKIN_PATH.replace('${id}', SHIPS[key].id);
+            SHIPS[key].thumbnail = GITHUB_RAW + root_folder + "thumbnail.png";
+            process.stdout.write("-");
+            let newSkins = [];
+            for (let skin of SHIPS[key].skins) {
+                process.stdout.write(".");
+                let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
+                skin.image = GITHUB_RAW + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
+                skin.chibi = GITHUB_RAW + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+                skin.background = GITHUB_RAW + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
+                newSkins.push(skin); //not sure why but this feels safer
+            }
+            SHIPS[key].skins = newSkins;
+            process.stdout.write("|");
+        }
+    }
+    fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
+    VERSION_INFO.ships["version-number"] += 1;
+    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
+    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
+    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
 async function refreshEquipments(online) {
@@ -171,10 +181,12 @@ async function refreshEquipments(online) {
 }
 // Refresh a ship with specified id
 async function refreshShip(id, online) {
-    if (!SHIPS.hasOwnProperty(id) || online) { // Revive Program From Crush/Forced online fetch
+    if (!SHIPS_INTERNAL.hasOwnProperty(id) || online) { // Revive Program From Crush/Forced online fetch
+        process.stdout.write("+");
         return await fetchShip(SHIP_LIST[id].name, online);
     } else {
-        return SHIPS[id];
+        process.stdout.write("-");
+        return SHIPS_INTERNAL[id];
     }
 }
 
@@ -520,4 +532,9 @@ function deleteAll(path) {
 // recursive string repeating, why not
 function repeat(pat, n) {
     return (n > 0) ? pat.concat(repeat(pat, --n)) : "";
+}
+
+// Lazy me
+function clone(obj) {
+    return JSON.parse(JSON.stringify(obj));
 }
