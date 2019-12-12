@@ -1,4 +1,3 @@
-
 # azurapi-js-setup
 Setup for azurapi-js
 ## Function
@@ -25,13 +24,9 @@ azurlane.publish();
 ```
 * Bewarned that this update program will use up a lot of bandwidth and processing power
 * To rely on local cache, remove all the `true` parameters
-```
- __  __  ______  __   ________       ______ __  __  __   __    
-/\ \_\ \/\  __ \/\ \ / /\  ___\     /\  ___/\ \/\ \/\ "-.\ \   
-\ \  __ \ \  __ \ \ \'/\ \  __\     \ \  __\ \ \_\ \ \ \-.  \  
- \ \_\ \_\ \_\ \_\ \__| \ \_____\    \ \_\  \ \_____\ \_\\"\_\ 
-  \/_/\/_/\/_/\/_/\/_/   \/_____/     \/_/   \/_____/\/_/ \/_/ 
-```
+
+![Graf Spee looking at you meaningfully](https://res.cloudinary.com/kumori/image/upload/v1576125260/Bg_graf_spee_1_dqumrm.png)
+
 ### Join our discord!
 <a href="https://discord.gg/aAEdys8">
     <img src="https://discordapp.com/api/guilds/648206344729526272/embed.png" alt="Discord server" />
