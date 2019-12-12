@@ -388,7 +388,7 @@ function parseEquipmentInfo(eqbox) {
     let primaryRows = eqbox.querySelectorAll(".eqinfo:nth-child(2) td");
     let stars = primaryRows[1].firstElementChild.lastChild.innerHTML.split("<br>")[1];
     let image = srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => compare(s2.density, s1.density))[0].url;
-    if (!image) image = eqbox.getElementsByTagName("img")[0].src;
+    if (!image || image == null || image === "null") image = eqbox.getElementsByTagName("img")[0].src;
     return {
         tier: eqbox.getElementsByClassName("eqtech")[0].textContent,
         type: {
