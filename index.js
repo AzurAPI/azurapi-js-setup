@@ -44,11 +44,10 @@ function filter(callback) {
     return newShips;
 }
 
-let shipCounter = 0;
-
 // Refresh ships
 async function refreshShips(online) {
-    SHIP_LIST = await fetchShipList();
+    SHIP_LIST = await fetchShipList(online);
+    let shipCounter = 0;
     fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
     console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
     console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
@@ -69,7 +68,7 @@ async function refreshImages(overwrite) {
         console.log("Done")
     }
     console.log("Refreshing images...");
-    SHIPS[key] = clone(ship); // Feels wrong to just assing it, so i copied it
+    let shipCounter = 0;
     for (let key in SHIPS_INTERNAL) {
         let ship = SHIPS_INTERNAL[key];
         IMAGE_PROGRESS.last_id = key;
@@ -101,39 +100,9 @@ async function refreshImages(overwrite) {
         shipCounter++;
         if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
+    IMAGE_PROGRESS.last_id = null;
+    fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
-}
-
-function publish() {
-    console.log("** WARNING, the program will publish the current ships.internal.json!");
-    console.log(`SHIPS_INTERNAL.length = ${SHIPS_INTERNAL.length}\nSHIPS.length = ${SHIPS.length}`);
-    SHIPS = {};
-    console.log("Starting...")
-    for (let key in SHIPS_INTERNAL) {
-        process.stdout.write(">");
-        SHIPS[key] = clone(SHIPS_INTERNAL[key]); //simple clone!
-        if (SHIPS[key].rarity !== "Unreleased") { // images?
-            let root_folder = SKIN_PATH.replace('${id}', SHIPS[key].id);
-            SHIPS[key].thumbnail = IMAGE_REPO_URL + root_folder + "thumbnail.png";
-            process.stdout.write("-");
-            let newSkins = [];
-            for (let skin of SHIPS[key].skins) {
-                process.stdout.write(".");
-                let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
-                skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
-                skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
-                skin.background = IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
-                newSkins.push(skin); //not sure why but this feels safer
-            }
-            SHIPS[key].skins = newSkins;
-            process.stdout.write("|");
-        }
-    }
-    fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
-    VERSION_INFO.ships["version-number"] += 1;
-    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
-    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
-    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
 async function refreshEquipments(online) {
@@ -173,6 +142,39 @@ async function refreshEquipments(online) {
     VERSION_INFO.equipments["number-of-ships"] = SHIP_LIST.length;
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
+
+function publish() {
+    console.log("** WARNING, the program will publish the current ships.internal.json!");
+    console.log(`SHIPS_INTERNAL.length = ${SHIPS_INTERNAL.length}\nSHIPS.length = ${SHIPS.length}`);
+    SHIPS = {};
+    console.log("Starting...")
+    for (let key in SHIPS_INTERNAL) {
+        process.stdout.write(">");
+        SHIPS[key] = clone(SHIPS_INTERNAL[key]); //simple clone!
+        if (SHIPS[key].rarity !== "Unreleased") { // images?
+            let root_folder = SKIN_PATH.replace('${id}', SHIPS[key].id);
+            SHIPS[key].thumbnail = IMAGE_REPO_URL + root_folder + "thumbnail.png";
+            process.stdout.write("-");
+            let newSkins = [];
+            for (let skin of SHIPS[key].skins) {
+                process.stdout.write(".");
+                let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
+                skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
+                skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+                skin.background = IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
+                newSkins.push(skin); //not sure why but this feels safer
+            }
+            SHIPS[key].skins = newSkins;
+            process.stdout.write("|");
+        }
+    }
+    fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
+    VERSION_INFO.ships["version-number"] += 1;
+    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
+    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
+    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+}
+
 // Refresh a ship with specified id
 async function refreshShip(id, online) {
     if (!SHIPS_INTERNAL.hasOwnProperty(id) || online) { // Revive Program From Crush/Forced online fetch
@@ -195,7 +197,8 @@ async function refreshEquipment(href, name, category, online) {
 }
 
 // Get the updated list of ships
-async function fetchShipList() {
+async function fetchShipList(online) {
+    if (!online || SHIP_LIST.length != 0) return SHIP_LIST;
     let LIST = {};
     new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships")).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
         let columns = table_ship.childNodes;
@@ -211,19 +214,17 @@ async function fetchShipList() {
 }
 
 async function fetchShip(name, online) {
+    let data;
     if (online) { // Fetch from the wiki directly
-        const body = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
-        fs.writeFileSync('./web/ships/' + name + '.html', body);
-        let ship = parseShip(name, body);
-        await timeout(6000);
-        ship.skins = await fetchGallery(name, online)
-        return ship;
+        data = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
+        fs.writeFileSync('./web/ships/' + name + '.html', data);
     } else {
         if (!fs.existsSync('./web/ships/' + name + '.html')) return fetchShip(name, true); // Enforcing
-        let ship = parseShip(name, fs.readFileSync('./web/ships/' + name + '.html', 'utf8')); // Read from local cache
-        ship.skins = await fetchGallery(name, online)
-        return ship;
+        data = fs.readFileSync('./web/ships/' + name + '.html', 'utf8'); // Read from local cache
     }
+    let ship = parseShip(name, data);
+    ship.skins = await fetchGallery(name, online)
+    return ship;
 }
 
 async function fetchGallery(name, online) {
@@ -291,7 +292,6 @@ function parseShip(name, body) {
     }
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
-    ship.buildTime = doc.querySelector("tr:nth-child(1) > td:nth-child(2) > a").textContent;
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
     let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim();
     ship.stars = {
@@ -299,6 +299,28 @@ function parseShip(name, body) {
         value: stars.split("★").length - 1
     };
     ship.stats = parseStats(doc);
+    let eqslots = [doc.querySelector(".nomobile > div > .wikitable tr:nth-child(3)"), doc.querySelector(".nomobile > div > .wikitable tr:nth-child(4)"), doc.querySelector(".nomobile > div > .wikitable tr:nth-child(5)")];
+    ship.slots = eqslots.map(slot => parseShipEQSlot(slot));
+    let enhance_values = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
+    if (enhance_values.length < 7) ship.enhance_value = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
+    else ship.enhance_value = {
+        firepower: parseInt(enhance_values[0].textContent.trim()),
+        torpedo: parseInt(enhance_values[2].textContent.trim()),
+        aviation: parseInt(enhance_values[4].textContent.trim()),
+        reload: parseInt(enhance_values[6].textContent.trim())
+    };
+    let scrap_values = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
+    if (scrap_values.length < 5) ship.scrap_value = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
+    else ship.scrap_value = {
+        coin: parseInt(scrap_values[0].textContent.trim()),
+        oil: parseInt(scrap_values[2].textContent.trim()),
+        medal: parseInt(scrap_values[4].textContent.trim())
+    };
+    let shipLSk = parseShipLSKTable(doc.querySelector(".nomobile:nth-child(5)"));
+    ship.skills = shipLSk.skills;
+    ship.limit_breaks = shipLSk.limits;
+    ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
+    ship.gallery = parseShipGallery(doc);
     ship.misc = {
         artist: misc_selectors[0] ? misc_selectors[0].textContent : null,
         web: misc_selectors[1] ? {
@@ -316,6 +338,50 @@ function parseShip(name, body) {
         voice: misc_selectors[4] ? misc_selectors[4].textContent : null
     };
     return ship;
+}
+
+function parseShipLSKTable(skill_table) {
+    let rows = skill_table.getElementsByTagName("tr");
+    rows = [rows[1], rows[2], rows[3]];
+    return {
+        skills: rows.map(parseSkill),
+        limits: rows.map(parseLimitBreak)
+    };
+}
+
+function parseLimitBreak(row) {
+    return {
+        limit: row.children[0].textContent.trim(),
+        description: row.children[1].textContent.trim()
+    };
+}
+
+function parseSkill(row) {
+    let skill = {
+        description: row.lastElementChild.textContent.trim()
+    };
+    if (skill.description) {
+        let cn_name = row.children[2].children[2] ? row.children[2].children[2].textContent.trim() : null;
+        let jp_name = row.children[2].children[4] ? row.children[2].children[4].textContent.trim() : null;
+        skill.names = {
+            en: row.children[2].firstElementChild.textContent.trim(),
+            cn: cn_name ? cn_name.substring(cn_name.indexOf(":") + 2) : null,
+            jp: jp_name ? jp_name.substring(jp_name.indexOf(":") + 2) : null
+        };
+        return skill;
+    } else return {};
+}
+
+function parseShipEQSlot(slot) {
+    let eqslot = {
+        index: parseInt(slot.children[0].textContent.trim()),
+        type: slot.children[2].textContent.trim()
+    };
+    if (slot.children[1].firstElementChild) {
+        eqslot.min_efficiency = parseInt(slot.children[1].firstElementChild.textContent.replace('%', ''));
+        eqslot.max_efficiency = parseInt(slot.children[1].lastElementChild.textContent.replace('%', ''));
+    }
+    return eqslot;
 }
 // Parse the stats seperately for easy code reading
 function parseStats(doc) {
@@ -358,6 +424,40 @@ function parseGallery(name, body) {
         });
     });
     return skins;
+}
+
+function parseShipConstruction(construction_tbody) {
+    let construction_time = construction_tbody.children[1].firstElementChild.textContent.trim();
+    let available = {};
+    let construction_types = ["Light", "Heavy", "Aviation", "Limited", "Exchange"];
+    for (let i = 0; i < 5; i++) {
+        let elem = construction_tbody.children[3].children[i];
+        let value = elem.textContent.trim();
+        if (elem.children.length > 0) value = elem.firstElementChild.firstElementChild.textContent.trim();
+        else value = value === '✓';
+        available[construction_types[i]] = value;
+    }
+    if (construction_time !== "Drop Only" && construction_time !== "Cannot Be Constructed") return {
+        construction_time: construction_time,
+        available_in: available
+    };
+    else return {
+        available_in: construction_time
+    };
+}
+
+function parseShipGallery(doc) {
+    let ship_galleries = doc.querySelectorAll(".nomobile:nth-child(8) > div>div >div>div");
+    let gallery = [];
+    for (let thumb of ship_galleries) gallery.push({
+        description: thumb.lastElementChild.textContent,
+        url: "https://azurlane.koumakan.jp" + galleryThumbnailUrlToActualUrl(thumb.firstElementChild.firstElementChild.src)
+    });
+    return gallery;
+}
+// Its only a prediction
+function galleryThumbnailUrlToActualUrl(tdir) {
+    return tdir.replace(/\/w\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, '/w/images/$1/$2');
 }
 
 function parseEquipment(href, category, body) {
