@@ -60,10 +60,6 @@ async function refreshShips(online) {
         if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
         fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
     }
-    // VERSION_INFO.ships["version-number"] += 1;
-    // VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
-    // VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
-    // fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
 async function refreshImages(overwrite) {
@@ -329,6 +325,7 @@ function parseStats(doc) {
     doc.querySelectorAll(".nomobile > .tabber > .tabbertab .wikitable tbody").forEach(tab => {
         let stats = {};
         let title = tab.parentNode.parentNode.title;
+        if (!title) return;
         let names = tab.querySelectorAll("th"),
             bodies = tab.querySelectorAll("td");
         for (let j = 0; j < names.length; j++) {
@@ -353,9 +350,10 @@ function parseGallery(name, body) {
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
         tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[row.getElementsByTagName("th")[0].textContent.trim()] = row.getElementsByTagName("td")[0].textContent.trim());
+        let parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").srcset);
         skins.push({
             name: tab.title,
-            image: "https://azurlane.koumakan.jp" + srcset.parse(tab.querySelector(".ship-skin-image img").srcset).sort((s1, s2) => s1.density < s2.density ? -1 : s1.density > s2.density ? 1 : 0).url,
+            image: "https://azurlane.koumakan.jp" + parsedSet.sort((s1, s2) => compare(s2.density, s1.density))[0].url,
             background: "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src"),
             chibi: tab.querySelector(".ship-skin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-chibi img").getAttribute("src") : null,
             info: info
@@ -398,7 +396,7 @@ function parseEquipmentInfo(eqbox) {
             name: primaryRows[0].textContent.trim()
         },
         nationality: primaryRows[2].firstElementChild.title,
-        image: srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => s1.density < s2.density ? -1 : s1.density > s2.density ? 1 : 0).url,
+        image: srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => compare(s2.density, s1.density))[0].url,
         rarity: primaryRows[1].firstElementChild.firstElementChild.title,
         stars: {
             stars: stars,
@@ -502,9 +500,9 @@ function fetch(url) {
     return new Promise((resolve, reject) => request({
         url: url,
         headers: HEADERS
-    }, async (error, res, body) => {
+    }, (error, res, body) => {
         if (error) reject(error);
-        else resolve(body);
+        else setTimeout(() => resolve(body), 5500); // Added a delay of 5.5s to prevent wiki server overload
     }));
 }
 // Downloading images
@@ -537,4 +535,16 @@ function repeat(pat, n) {
 // Lazy me
 function clone(obj) {
     return JSON.parse(JSON.stringify(obj));
+}
+
+function compare(a, b) {
+    if (a < b) {
+        return -1;
+    } else if (a > b) {
+        return 1;
+    } else if (a == b) {
+        return 0
+    } else {
+        return "bruh";
+    }
 }
