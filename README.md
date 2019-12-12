@@ -29,5 +29,5 @@ azurlane.publish();
 
 ### Join our discord!
 <a href="https://discord.gg/aAEdys8">
-    <img src="https://discordapp.com/api/guilds/648206344729526272/embed.png" alt="Discord server" />
+    <img src="https://discordapp.com/api/v6/guilds/648206344729526272/widget.png?style=banner2" alt="Discord server" />
 </a> 
