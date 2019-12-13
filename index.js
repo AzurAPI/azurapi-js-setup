@@ -64,7 +64,7 @@ async function refreshShips(online) {
 async function refreshImages(overwrite) {
     if (IMAGE_PROGRESS.last_id) {
         console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
-        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
+        //deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
         console.log("Done")
     }
     console.log("Refreshing images...");
@@ -94,6 +94,16 @@ async function refreshImages(overwrite) {
                 if (skin.background !== null && (!fs.existsSync("./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1)) || overwrite)) {
                     await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
                     console.log("\nDownloaded " + skin.background);
+                }
+            }
+            process.stdout.write("G");
+            for (let item of ship.gallery) {
+                if (item.url !== null && (!fs.existsSync("./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1)) || overwrite)) {
+                    IMAGE_PROGRESS.last_gallery_item = item.url.substring(item.url.lastIndexOf('/') + 1);
+                    fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+                    process.stdout.write("\nDownloading gallery item " + IMAGE_PROGRESS.last_gallery_item);
+                    await fetchImage(item.url, "./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1));
+                    console.log("Done");
                 }
             }
         }
@@ -165,6 +175,14 @@ function publish() {
                 newSkins.push(skin); //not sure why but this feels safer
             }
             SHIPS[key].skins = newSkins;
+            process.stdout.write("|");
+            let newGallery = [];
+            for (let item of SHIPS[key].gallery) {
+                process.stdout.write(".");
+                item.url = IMAGE_REPO_URL + "images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1);
+                newGallery.push(item);
+            }
+            SHIPS[key].gallery = newGallery;
             process.stdout.write("|");
         }
     }
@@ -262,6 +280,7 @@ function parseShip(name, body) {
         id: doc.querySelector('div:nth-child(4) > .wikitable:nth-child(1) tr:nth-child(1) > td').textContent.trim(),
         names: {
             en: doc.querySelector('#firstHeading').textContent,
+            code: doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)").childNodes[0].textContent,
             cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
             jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
             kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
