@@ -4,6 +4,7 @@
 		"id": "100",
 		"names": {
 			"en": "Hunter",
+			"code": "HMS Hunter",
 			"cn": "猎人",
 			"jp": "ハンター",
 			"kr": "헌터"
@@ -129,7 +130,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -163,6 +171,7 @@
 		"id": "101",
 		"names": {
 			"en": "Javelin",
+			"code": "HMS Javelin",
 			"cn": "标枪",
 			"jp": "ジャベリン",
 			"kr": "재블린"
@@ -460,6 +469,7 @@
 		"id": "102",
 		"names": {
 			"en": "Juno",
+			"code": "HMS Juno",
 			"cn": "天后",
 			"jp": "ジュノー",
 			"kr": "주노"
@@ -642,6 +652,7 @@
 		"id": "103",
 		"names": {
 			"en": "Vampire",
+			"code": "HMS Vampire",
 			"cn": "吸血鬼",
 			"jp": "ヴァンパイア",
 			"kr": "뱀파이어"
@@ -874,6 +885,7 @@
 		"id": "104",
 		"names": {
 			"en": "Leander",
+			"code": "HMS Leander",
 			"cn": "利安得",
 			"jp": "リアンダー",
 			"kr": "리엔더"
@@ -1090,6 +1102,7 @@
 		"id": "105",
 		"names": {
 			"en": "Achilles",
+			"code": "HMS Achilles",
 			"cn": "阿基里斯",
 			"jp": "アキリーズ",
 			"kr": "아킬레스"
@@ -1306,6 +1319,7 @@
 		"id": "106",
 		"names": {
 			"en": "Ajax",
+			"code": "HMS Ajax",
 			"cn": "阿贾克斯",
 			"jp": "エイジャックス",
 			"kr": "에이잭스"
@@ -1536,6 +1550,7 @@
 		"id": "110",
 		"names": {
 			"en": "Southampton",
+			"code": "HMS Southampton",
 			"cn": "南安普顿",
 			"jp": "サウサンプトン",
 			"kr": "사우스햄튼"
@@ -1668,7 +1683,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": "CN/JP only",
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -1705,6 +1727,7 @@
 		"id": "111",
 		"names": {
 			"en": "Sheffield",
+			"code": "HMS Sheffield",
 			"cn": "谢菲尔德",
 			"jp": "シェフィールド",
 			"kr": "셰필드"
@@ -1909,6 +1932,7 @@
 		"id": "114",
 		"names": {
 			"en": "Edinburgh",
+			"code": "HMS Edinburgh",
 			"cn": "爱丁堡",
 			"jp": "エディンバラ",
 			"kr": "에든버러"
@@ -2106,6 +2130,7 @@
 		"id": "115",
 		"names": {
 			"en": "Belfast",
+			"code": "HMS Belfast",
 			"cn": "贝尔法斯特",
 			"jp": "ベルファスト",
 			"kr": "벨파스트"
@@ -2369,6 +2394,7 @@
 		"id": "116",
 		"names": {
 			"en": "Arethusa",
+			"code": "HMS Arethusa",
 			"cn": "阿瑞托莎",
 			"jp": "アリシューザ",
 			"kr": "아레투사"
@@ -2529,6 +2555,7 @@
 		"id": "117",
 		"names": {
 			"en": "Galatea",
+			"code": "HMS Galatea",
 			"cn": "加拉蒂亚",
 			"jp": "ガラティア",
 			"kr": "갈라테아"
@@ -2689,6 +2716,7 @@
 		"id": "118",
 		"names": {
 			"en": "Aurora",
+			"code": "HMS Aurora",
 			"cn": "欧若拉",
 			"jp": "オーロラ",
 			"kr": "오로라"
@@ -2898,6 +2926,7 @@
 		"id": "119",
 		"names": {
 			"en": "London",
+			"code": "HMS London",
 			"cn": "伦敦",
 			"jp": "ロンドン",
 			"kr": "런던"
@@ -3114,6 +3143,7 @@
 		"id": "120",
 		"names": {
 			"en": "Shropshire",
+			"code": "HMS Shropshire",
 			"cn": "什罗普郡",
 			"jp": "シュロップシャー",
 			"kr": "슈롭셔"
@@ -3283,6 +3313,7 @@
 		"id": "121",
 		"names": {
 			"en": "Kent",
+			"code": "HMS Kent",
 			"cn": "肯特",
 			"jp": "ケント",
 			"kr": "켄트"
@@ -3452,6 +3483,7 @@
 		"id": "122",
 		"names": {
 			"en": "Suffolk",
+			"code": "HMS Suffolk",
 			"cn": "萨福克",
 			"jp": "サフォーク",
 			"kr": "서포크"
@@ -3668,6 +3700,7 @@
 		"id": "123",
 		"names": {
 			"en": "Norfolk",
+			"code": "HMS Norfolk",
 			"cn": "诺福克",
 			"jp": "ノーフォーク",
 			"kr": "노포크"
@@ -3837,6 +3870,7 @@
 		"id": "124",
 		"names": {
 			"en": "Dorsetshire",
+			"code": "HMS Dorsetshire",
 			"cn": "多塞特郡",
 			"jp": "ドーセットシャー",
 			"kr": "도셋셔"
@@ -4006,6 +4040,7 @@
 		"id": "125",
 		"names": {
 			"en": "York",
+			"code": "HMS York",
 			"cn": "约克",
 			"jp": "ヨーク",
 			"kr": "요크"
@@ -4236,6 +4271,7 @@
 		"id": "126",
 		"names": {
 			"en": "Exeter",
+			"code": "HMS Exeter",
 			"cn": "埃克塞特",
 			"jp": "エクセター",
 			"kr": "엑세터"
@@ -4452,6 +4488,7 @@
 		"id": "127",
 		"names": {
 			"en": "Renown",
+			"code": "HMS Renown",
 			"cn": "声望",
 			"jp": "レナウン",
 			"kr": "리나운"
@@ -4611,6 +4648,7 @@
 		"id": "128",
 		"names": {
 			"en": "Repulse",
+			"code": "HMS Repulse",
 			"cn": "反击",
 			"jp": "レパルス",
 			"kr": "리펄스"
@@ -4770,6 +4808,7 @@
 		"id": "129",
 		"names": {
 			"en": "Hood",
+			"code": "HMS Hood",
 			"cn": "胡德",
 			"jp": "フッド",
 			"kr": "후드"
@@ -4977,6 +5016,7 @@
 		"id": "130",
 		"names": {
 			"en": "Queen Elizabeth",
+			"code": "HMS Queen Elizabeth",
 			"cn": "伊丽莎白女王",
 			"jp": "クイーン・エリザベス",
 			"kr": "퀸 엘리자베스"
@@ -5157,6 +5197,7 @@
 		"id": "131",
 		"names": {
 			"en": "Warspite",
+			"code": "HMS Warspite",
 			"cn": "厌战",
 			"jp": "ウォースパイト",
 			"kr": "워스파이트"
@@ -5378,6 +5419,7 @@
 		"id": "132",
 		"names": {
 			"en": "Nelson",
+			"code": "HMS Nelson",
 			"cn": "纳尔逊",
 			"jp": "ネルソン",
 			"kr": "넬슨"
@@ -5559,6 +5601,7 @@
 		"id": "133",
 		"names": {
 			"en": "Rodney",
+			"code": "HMS Rodney",
 			"cn": "罗德尼",
 			"jp": "ロドニー",
 			"kr": "로드니"
@@ -5753,6 +5796,7 @@
 		"id": "134",
 		"names": {
 			"en": "King George V",
+			"code": "HMS King George V",
 			"cn": "英王乔治五世",
 			"jp": "キング・ジョージ5世",
 			"kr": "킹 조지 5세"
@@ -5936,6 +5980,7 @@
 		"id": "135",
 		"names": {
 			"en": "Prince of Wales",
+			"code": "HMS Prince of Wales",
 			"cn": "威尔士亲王",
 			"jp": "プリンス・オブ・ウェールズ",
 			"kr": "프린스 오브 웨일즈"
@@ -6131,6 +6176,7 @@
 		"id": "136",
 		"names": {
 			"en": "Duke of York",
+			"code": "HMS Duke of York",
 			"cn": "约克公爵",
 			"jp": "デューク・オブ・ヨーク",
 			"kr": "듀크 오브 요크"
@@ -6314,6 +6360,7 @@
 		"id": "140",
 		"names": {
 			"en": "Hermes",
+			"code": "HMS Hermes",
 			"cn": "竞技神",
 			"jp": "ハーミーズ",
 			"kr": "허미즈"
@@ -6523,6 +6570,7 @@
 		"id": "142",
 		"names": {
 			"en": "Unicorn",
+			"code": "HMS Unicorn",
 			"cn": "独角兽",
 			"jp": "ユニコーン",
 			"kr": "유니콘"
@@ -6758,6 +6806,7 @@
 		"id": "144",
 		"names": {
 			"en": "Ark Royal",
+			"code": "HMS Ark Royal",
 			"cn": "皇家方舟",
 			"jp": "アーク・ロイヤル",
 			"kr": "아크 로열"
@@ -6964,6 +7013,7 @@
 		"id": "145",
 		"names": {
 			"en": "Illustrious",
+			"code": "HMS Illustrious",
 			"cn": "光辉",
 			"jp": "イラストリアス",
 			"kr": "일러스트리어스"
@@ -7218,6 +7268,7 @@
 		"id": "146",
 		"names": {
 			"en": "Victorious",
+			"code": "HMS Victorious",
 			"cn": "胜利",
 			"jp": "ヴィクトリアス",
 			"kr": "빅토리어스"
@@ -7410,6 +7461,7 @@
 		"id": "147",
 		"names": {
 			"en": "Formidable",
+			"code": "HMS Formidable",
 			"cn": "可畏",
 			"jp": "フォーミダブル",
 			"kr": "포미더블"
@@ -7609,6 +7661,7 @@
 		"id": "148",
 		"names": {
 			"en": "Glorious",
+			"code": "HMS Glorious",
 			"cn": "光荣",
 			"jp": "グロリアス",
 			"kr": "글로리어스"
@@ -7792,6 +7845,7 @@
 		"id": "149",
 		"names": {
 			"en": "Erebus",
+			"code": "HMS Erebus",
 			"cn": "黑暗界",
 			"jp": "エレバス",
 			"kr": "에레버스"
@@ -7991,6 +8045,7 @@
 		"id": "150",
 		"names": {
 			"en": "Terror",
+			"code": "HMS Terror",
 			"cn": "恐怖",
 			"jp": "テラー",
 			"kr": "테러"
@@ -8176,6 +8231,7 @@
 		"id": "151",
 		"names": {
 			"en": "Fubuki",
+			"code": "IJN Fubuki",
 			"cn": "吹雪",
 			"jp": "吹雪",
 			"kr": "후부키"
@@ -8396,6 +8452,7 @@
 		"id": "155",
 		"names": {
 			"en": "Ayanami",
+			"code": "IJN Ayanami",
 			"cn": "绫波",
 			"jp": "綾波",
 			"kr": "아야나미"
@@ -8708,6 +8765,7 @@
 		"id": "159",
 		"names": {
 			"en": "Akatsuki",
+			"code": "IJN Akatsuki",
 			"cn": "晓",
 			"jp": "暁",
 			"kr": "아카츠키"
@@ -8833,7 +8891,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -8898,6 +8963,7 @@
 		"id": "161",
 		"names": {
 			"en": "Ikazuchi",
+			"code": "IJN Ikazuchi",
 			"cn": "雷",
 			"jp": "雷",
 			"kr": "이카즈치"
@@ -9023,7 +9089,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -9093,6 +9166,7 @@
 		"id": "162",
 		"names": {
 			"en": "Inazuma",
+			"code": "IJN Inazuma",
 			"cn": "电",
 			"jp": "電",
 			"kr": "이나즈마"
@@ -9218,7 +9292,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -9288,6 +9369,7 @@
 		"id": "163",
 		"names": {
 			"en": "Shiratsuyu",
+			"code": "IJN Shiratsuyu",
 			"cn": "白露",
 			"jp": "白露",
 			"kr": "시라츠유"
@@ -9413,7 +9495,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -9464,6 +9553,7 @@
 		"id": "164",
 		"names": {
 			"en": "Yuudachi",
+			"code": "IJN Yuudachi",
 			"cn": "夕立",
 			"jp": "夕立",
 			"kr": "유다치"
@@ -9589,7 +9679,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -9689,6 +9786,7 @@
 		"id": "165",
 		"names": {
 			"en": "Shigure",
+			"code": "IJN Shigure",
 			"cn": "时雨",
 			"jp": "時雨",
 			"kr": "시구레"
@@ -9851,7 +9949,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -9926,6 +10031,7 @@
 		"id": "166",
 		"names": {
 			"en": "Yukikaze",
+			"code": "IJN Yukikaze",
 			"cn": "雪风",
 			"jp": "雪風",
 			"kr": "유키카제"
@@ -10129,6 +10235,7 @@
 		"id": "167",
 		"names": {
 			"en": "Kagerou",
+			"code": "IJN Kagerou",
 			"cn": "阳炎",
 			"jp": "陽炎",
 			"kr": "카게로"
@@ -10291,7 +10398,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -10349,6 +10463,7 @@
 		"id": "168",
 		"names": {
 			"en": "Shiranui",
+			"code": "IJN Shiranui",
 			"cn": "不知火",
 			"jp": "不知火",
 			"kr": "시라누이"
@@ -10511,7 +10626,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -10568,6 +10690,7 @@
 		"id": "170",
 		"names": {
 			"en": "Nowaki",
+			"code": "IJN Nowaki",
 			"cn": "野分",
 			"jp": "野分",
 			"kr": "노와키"
@@ -10737,6 +10860,7 @@
 		"id": "171",
 		"names": {
 			"en": "Hatsuharu",
+			"code": "IJN Hatsuharu",
 			"cn": "初春",
 			"jp": "初春",
 			"kr": "하츠하루"
@@ -10920,6 +11044,7 @@
 		"id": "173",
 		"names": {
 			"en": "Wakaba",
+			"code": "IJN Wakaba",
 			"cn": "若叶",
 			"jp": "若葉",
 			"kr": "와카바"
@@ -11089,6 +11214,7 @@
 		"id": "174",
 		"names": {
 			"en": "Hatsushimo",
+			"code": "IJN Hatsushimo",
 			"cn": "初霜",
 			"jp": "初霜",
 			"kr": "하츠시모"
@@ -11260,6 +11386,7 @@
 		"id": "175",
 		"names": {
 			"en": "Ariake",
+			"code": "IJN Ariake",
 			"cn": "有明",
 			"jp": "有明",
 			"kr": "아리아케"
@@ -11431,6 +11558,7 @@
 		"id": "176",
 		"names": {
 			"en": "Yuugure",
+			"code": "IJN Yuugure",
 			"cn": "夕暮",
 			"jp": "夕暮",
 			"kr": "유구레"
@@ -11688,6 +11816,7 @@
 		"id": "177",
 		"names": {
 			"en": "Kuroshio",
+			"code": "IJN Kuroshio",
 			"cn": "黑潮",
 			"jp": "黒潮",
 			"kr": "쿠로시오"
@@ -11861,6 +11990,7 @@
 		"id": "178",
 		"names": {
 			"en": "Oyashio",
+			"code": "IJN Oyashio",
 			"cn": "亲潮",
 			"jp": "親潮",
 			"kr": "오야시오"
@@ -12034,6 +12164,7 @@
 		"id": "179",
 		"names": {
 			"en": "Yuubari",
+			"code": "IJN Yuubari",
 			"cn": "夕张",
 			"jp": "夕張",
 			"kr": "유바리"
@@ -12250,6 +12381,7 @@
 		"id": "182",
 		"names": {
 			"en": "Nagara",
+			"code": "IJN Nagara",
 			"cn": "长良",
 			"jp": "長良",
 			"kr": "나가라"
@@ -12419,6 +12551,7 @@
 		"id": "183",
 		"names": {
 			"en": "Isuzu",
+			"code": "IJN Isuzu",
 			"cn": "五十铃",
 			"jp": "五十鈴",
 			"kr": "이스즈"
@@ -12544,7 +12677,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -12595,6 +12735,7 @@
 		"id": "187",
 		"names": {
 			"en": "Abukuma",
+			"code": "IJN Abukuma",
 			"cn": "阿武隈",
 			"jp": "阿武隈",
 			"kr": "아부쿠마"
@@ -12757,7 +12898,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -12804,6 +12952,7 @@
 		"id": "188",
 		"names": {
 			"en": "Mogami",
+			"code": "IJN Mogami",
 			"cn": "最上",
 			"jp": "最上",
 			"kr": "모가미"
@@ -13020,6 +13169,7 @@
 		"id": "189",
 		"names": {
 			"en": "Mikuma",
+			"code": "IJN Mikuma",
 			"cn": "三隈",
 			"jp": "三隈",
 			"kr": "미쿠마"
@@ -13152,7 +13302,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -13189,6 +13346,7 @@
 		"id": "190",
 		"names": {
 			"en": "Furutaka",
+			"code": "IJN Furutaka",
 			"cn": "古鹰",
 			"jp": "古鷹",
 			"kr": "후루타카"
@@ -13351,7 +13509,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -13398,6 +13563,7 @@
 		"id": "191",
 		"names": {
 			"en": "Kako",
+			"code": "IJN Kako",
 			"cn": "加古",
 			"jp": "加古",
 			"kr": "카코"
@@ -13560,7 +13726,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -13607,6 +13780,7 @@
 		"id": "192",
 		"names": {
 			"en": "Aoba",
+			"code": "IJN Aoba",
 			"cn": "青叶",
 			"jp": "青葉",
 			"kr": "아오바"
@@ -13776,6 +13950,7 @@
 		"id": "193",
 		"names": {
 			"en": "Kinugasa",
+			"code": "IJN Kinugasa",
 			"cn": "衣笠",
 			"jp": "衣笠",
 			"kr": "키누가사"
@@ -13945,6 +14120,7 @@
 		"id": "196",
 		"names": {
 			"en": "Myoukou",
+			"code": "IJN Myoukou",
 			"cn": "妙高",
 			"jp": "妙高",
 			"kr": "묘코"
@@ -14070,7 +14246,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -14107,6 +14290,7 @@
 		"id": "197",
 		"names": {
 			"en": "Nachi",
+			"code": "IJN Nachi",
 			"cn": "那智",
 			"jp": "那智",
 			"kr": "나치"
@@ -14232,7 +14416,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -14269,6 +14460,7 @@
 		"id": "198",
 		"names": {
 			"en": "Ashigara",
+			"code": "IJN Ashigara",
 			"cn": "足柄",
 			"jp": "足柄",
 			"kr": "아시가라"
@@ -14449,6 +14641,7 @@
 		"id": "200",
 		"names": {
 			"en": "Takao",
+			"code": "IJN Takao",
 			"cn": "高雄",
 			"jp": "高雄",
 			"kr": "타카오"
@@ -14697,6 +14890,7 @@
 		"id": "201",
 		"names": {
 			"en": "Atago",
+			"code": "IJN Atago",
 			"cn": "爱宕",
 			"jp": "愛宕",
 			"kr": "아타고"
@@ -14949,6 +15143,7 @@
 		"id": "202",
 		"names": {
 			"en": "Maya",
+			"code": "IJN Maya",
 			"cn": "摩耶",
 			"jp": "摩耶",
 			"kr": "마야"
@@ -15074,7 +15269,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -15111,6 +15313,7 @@
 		"id": "203",
 		"names": {
 			"en": "Choukai",
+			"code": "IJN Choukai",
 			"cn": "鸟海",
 			"jp": "鳥海",
 			"kr": "초카이"
@@ -15243,7 +15446,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -15280,6 +15490,7 @@
 		"id": "204",
 		"names": {
 			"en": "Kongou",
+			"code": "IJN Kongou",
 			"cn": "金刚",
 			"jp": "金剛",
 			"kr": "콘고"
@@ -15398,7 +15609,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -15449,6 +15667,7 @@
 		"id": "205",
 		"names": {
 			"en": "Hiei",
+			"code": "IJN Hiei",
 			"cn": "比叡",
 			"jp": "比叡",
 			"kr": "히에이"
@@ -15630,6 +15849,7 @@
 		"id": "206",
 		"names": {
 			"en": "Haruna",
+			"code": "IJN Haruna",
 			"cn": "榛名",
 			"jp": "榛名",
 			"kr": "하루나"
@@ -15748,7 +15968,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [
 			{
@@ -15804,6 +16031,7 @@
 		"id": "207",
 		"names": {
 			"en": "Kirishima",
+			"code": "IJN Kirishima",
 			"cn": "雾岛",
 			"jp": "霧島",
 			"kr": "키리시마"
@@ -15994,6 +16222,7 @@
 		"id": "208",
 		"names": {
 			"en": "Fusou",
+			"code": "IJN Fusou",
 			"cn": "扶桑",
 			"jp": "扶桑",
 			"kr": "후소"
@@ -16149,7 +16378,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -16224,6 +16460,7 @@
 		"id": "209",
 		"names": {
 			"en": "Yamashiro",
+			"code": "IJN Yamashiro",
 			"cn": "山城",
 			"jp": "山城",
 			"kr": "야마시로"
@@ -16379,7 +16616,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -16519,6 +16763,7 @@
 		"id": "210",
 		"names": {
 			"en": "Ise",
+			"code": "IJN Ise",
 			"cn": "伊势",
 			"jp": "伊勢",
 			"kr": "이세"
@@ -16728,6 +16973,7 @@
 		"id": "211",
 		"names": {
 			"en": "Hyuuga",
+			"code": "IJN Hyuuga",
 			"cn": "日向",
 			"jp": "日向",
 			"kr": "휴가"
@@ -16944,6 +17190,7 @@
 		"id": "212",
 		"names": {
 			"en": "Nagato",
+			"code": "IJN Nagato",
 			"cn": "长门",
 			"jp": "長門",
 			"kr": "나가토"
@@ -17137,6 +17384,7 @@
 		"id": "213",
 		"names": {
 			"en": "Mutsu",
+			"code": "IJN Mutsu",
 			"cn": "陆奥",
 			"jp": "陸奧",
 			"kr": "무츠"
@@ -17255,7 +17503,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -17303,6 +17558,7 @@
 		"id": "218",
 		"names": {
 			"en": "Hiyou",
+			"code": "IJN Hiyou",
 			"cn": "飞鹰",
 			"jp": "飛鷹",
 			"kr": "히요"
@@ -17421,7 +17677,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -17455,6 +17718,7 @@
 		"id": "219",
 		"names": {
 			"en": "Junyou",
+			"code": "IJN Junyou",
 			"cn": "隼鹰",
 			"jp": "隼鷹",
 			"kr": "준요"
@@ -17573,7 +17837,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -17607,6 +17878,7 @@
 		"id": "220",
 		"names": {
 			"en": "Houshou",
+			"code": "IJN Houshou",
 			"cn": "凤翔",
 			"jp": "鳳翔",
 			"kr": "호쇼"
@@ -17732,7 +18004,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -17779,6 +18058,7 @@
 		"id": "222",
 		"names": {
 			"en": "Shouhou",
+			"code": "IJN Shouhou",
 			"cn": "祥凤",
 			"jp": "祥鳳",
 			"kr": "쇼호"
@@ -17934,7 +18214,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -17995,6 +18282,7 @@
 		"id": "223",
 		"names": {
 			"en": "Ryuujou",
+			"code": "IJN Ryuujou",
 			"cn": "龙骧",
 			"jp": "龍驤",
 			"kr": "류조"
@@ -18166,6 +18454,7 @@
 		"id": "224",
 		"names": {
 			"en": "Akagi",
+			"code": "IJN Akagi",
 			"cn": "赤城",
 			"jp": "赤城",
 			"kr": "아카기"
@@ -18291,7 +18580,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -18402,6 +18698,7 @@
 		"id": "225",
 		"names": {
 			"en": "Kaga",
+			"code": "IJN Kaga",
 			"cn": "加贺",
 			"jp": "加賀",
 			"kr": "카가"
@@ -18527,7 +18824,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -18642,6 +18946,7 @@
 		"id": "226",
 		"names": {
 			"en": "Souryuu",
+			"code": "IJN Souryuu",
 			"cn": "苍龙",
 			"jp": "蒼龍",
 			"kr": "소류"
@@ -18804,7 +19109,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -18879,6 +19191,7 @@
 		"id": "227",
 		"names": {
 			"en": "Hiryuu",
+			"code": "IJN Hiryuu",
 			"cn": "飞龙",
 			"jp": "飛龍",
 			"kr": "히류"
@@ -19041,7 +19354,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -19102,6 +19422,7 @@
 		"id": "228",
 		"names": {
 			"en": "Shoukaku",
+			"code": "IJN Shoukaku",
 			"cn": "翔鹤",
 			"jp": "翔鶴",
 			"kr": "쇼카쿠"
@@ -19302,6 +19623,7 @@
 		"id": "229",
 		"names": {
 			"en": "Zuikaku",
+			"code": "IJN Zuikaku",
 			"cn": "瑞鹤",
 			"jp": "瑞鶴",
 			"kr": "즈이카쿠"
@@ -19485,6 +19807,7 @@
 		"id": "230",
 		"names": {
 			"en": "Taihou",
+			"code": "IJN Taihou",
 			"cn": "大凤",
 			"jp": "大鳳",
 			"kr": "다이호"
@@ -19673,6 +19996,7 @@
 		"id": "232",
 		"names": {
 			"en": "Akashi",
+			"code": "IJN Akashi",
 			"cn": "明石",
 			"jp": "明石",
 			"kr": "아카시"
@@ -19897,6 +20221,7 @@
 		"id": "233",
 		"names": {
 			"en": "Z1",
+			"code": "KMS Z1 Leberecht Maass",
 			"cn": "Z1",
 			"jp": "Z1",
 			"kr": "Z1"
@@ -20127,6 +20452,7 @@
 		"id": "236",
 		"names": {
 			"en": "Z23",
+			"code": "KMS Z23",
 			"cn": "Z23",
 			"jp": "Z23",
 			"kr": "Z23"
@@ -20398,6 +20724,7 @@
 		"id": "237",
 		"names": {
 			"en": "Z25",
+			"code": "KMS Z25",
 			"cn": "Z25",
 			"jp": "Z25",
 			"kr": "Z25"
@@ -20585,6 +20912,7 @@
 		"id": "238",
 		"names": {
 			"en": "Königsberg",
+			"code": "KMS Königsberg",
 			"cn": "柯尼斯堡",
 			"jp": "ケーニヒスベルク",
 			"kr": "쾨니히스베르크"
@@ -20743,6 +21071,7 @@
 		"id": "239",
 		"names": {
 			"en": "Karlsruhe",
+			"code": "KMS Karlsruhe",
 			"cn": "卡尔斯鲁厄",
 			"jp": "カールスルーエ",
 			"kr": "카를스루에"
@@ -20959,6 +21288,7 @@
 		"id": "240",
 		"names": {
 			"en": "Köln",
+			"code": "KMS Köln",
 			"cn": "科隆",
 			"jp": "ケルン",
 			"kr": "쾰른"
@@ -21154,6 +21484,7 @@
 		"id": "241",
 		"names": {
 			"en": "Leipzig",
+			"code": "KMS Leipzig",
 			"cn": "莱比锡",
 			"jp": "ライプツィヒ",
 			"kr": "라이프치히"
@@ -21370,6 +21701,7 @@
 		"id": "242",
 		"names": {
 			"en": "Admiral Hipper",
+			"code": "KMS Admiral Hipper",
 			"cn": "希佩尔海军上将",
 			"jp": "アドミラル・ヒッパー",
 			"kr": "아드미랄 히퍼"
@@ -21559,6 +21891,7 @@
 		"id": "244",
 		"names": {
 			"en": "Prinz Eugen",
+			"code": "KMS Prinz Eugen",
 			"cn": "欧根亲王",
 			"jp": "プリンツ・オイゲン",
 			"kr": "프린츠 오이겐"
@@ -21788,6 +22121,7 @@
 		"id": "245",
 		"names": {
 			"en": "Deutschland",
+			"code": "KMS Deutschland",
 			"cn": "德意志",
 			"jp": "ドイッチュラント",
 			"kr": "도이칠란트"
@@ -22004,6 +22338,7 @@
 		"id": "246",
 		"names": {
 			"en": "Admiral Graf Spee",
+			"code": "KMS Admiral Graf Spee",
 			"cn": "斯佩伯爵海军上将",
 			"jp": "アドミラル・グラーフ・シュペー",
 			"kr": "아드미랄 그라프 슈피"
@@ -22246,6 +22581,7 @@
 		"id": "248",
 		"names": {
 			"en": "Scharnhorst",
+			"code": "KMS Scharnhorst",
 			"cn": "沙恩霍斯特",
 			"jp": "シャルンホルスト",
 			"kr": "샤른호르스트"
@@ -22371,7 +22707,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -22410,6 +22753,7 @@
 		"id": "249",
 		"names": {
 			"en": "Gneisenau",
+			"code": "KMS Gneisenau",
 			"cn": "格奈森瑙",
 			"jp": "グナイゼナウ",
 			"kr": "그나이제나우"
@@ -22535,7 +22879,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": "Opposite-Colored Rerun and Divergent Chessboard only"
+			}
 		},
 		"gallery": [
 			{
@@ -22588,6 +22939,7 @@
 		"id": "250",
 		"names": {
 			"en": "Bismarck",
+			"code": "KMS Bismarck",
 			"cn": "俾斯麦",
 			"jp": "ビスマルク",
 			"kr": "비스마르크"
@@ -22783,6 +23135,7 @@
 		"id": "251",
 		"names": {
 			"en": "Tirpitz",
+			"code": "KMS Tirpitz",
 			"cn": "提尔比茨",
 			"jp": "ティルピッツ",
 			"kr": "티르피츠"
@@ -22989,6 +23342,7 @@
 		"id": "252",
 		"names": {
 			"en": "Graf Zeppelin",
+			"code": "KMS Graf Zeppelin",
 			"cn": "齐柏林伯爵",
 			"jp": "グラーフ・ツェッペリン",
 			"kr": "그라프 체펠린"
@@ -23181,6 +23535,7 @@
 		"id": "253",
 		"names": {
 			"en": "An Shan",
+			"code": "PRAN An Shan",
 			"cn": "鞍山",
 			"jp": "鞍山",
 			"kr": "안샨"
@@ -23306,7 +23661,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -23357,6 +23719,7 @@
 		"id": "254",
 		"names": {
 			"en": "Fu Shun",
+			"code": "PRAN Fu Shun",
 			"cn": "抚顺",
 			"jp": "撫順",
 			"kr": "푸슌"
@@ -23482,7 +23845,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -23519,6 +23889,7 @@
 		"id": "255",
 		"names": {
 			"en": "Chang Chun",
+			"code": "PRAN Chang Chun",
 			"cn": "长春",
 			"jp": "長春",
 			"kr": "창춘"
@@ -23702,6 +24073,7 @@
 		"id": "256",
 		"names": {
 			"en": "Tai Yuan",
+			"code": "PRAN Tai Yuan",
 			"cn": "太原",
 			"jp": "太原",
 			"kr": "타이위안"
@@ -23885,6 +24257,7 @@
 		"id": "257",
 		"names": {
 			"en": "Yat Sen",
+			"code": "ROC Yat Sen",
 			"cn": "逸仙",
 			"jp": "逸仙",
 			"kr": "얏센"
@@ -24066,6 +24439,7 @@
 		"id": "258",
 		"names": {
 			"en": "Ning Hai",
+			"code": "PRAN Ning Hai",
 			"cn": "宁海",
 			"jp": "寧海",
 			"kr": "닝하이"
@@ -24321,6 +24695,7 @@
 		"id": "259",
 		"names": {
 			"en": "Ping Hai",
+			"code": "PRAN Ping Hai",
 			"cn": "平海",
 			"jp": "平海",
 			"kr": "핑하이"
@@ -24576,6 +24951,7 @@
 		"id": "262",
 		"names": {
 			"en": "Avrora",
+			"code": "SN Avrora",
 			"cn": "阿芙乐尔",
 			"jp": "アヴローラ",
 			"kr": "아브로라"
@@ -24701,7 +25077,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -24738,6 +25121,7 @@
 		"id": "263",
 		"names": {
 			"en": "Bailey",
+			"code": "USS Bailey",
 			"cn": "贝利",
 			"jp": "ベイリー",
 			"kr": "베일리"
@@ -24967,6 +25351,7 @@
 		"id": "264",
 		"names": {
 			"en": "Z19",
+			"code": "KMS Z19 Hermann Künne",
 			"cn": "Z19",
 			"jp": "Z19",
 			"kr": "Z19"
@@ -25136,6 +25521,7 @@
 		"id": "265",
 		"names": {
 			"en": "Z20",
+			"code": "KMS Z20 Karl Galster",
 			"cn": "Z20",
 			"jp": "Z20",
 			"kr": "Z20"
@@ -25261,7 +25647,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -25295,6 +25688,7 @@
 		"id": "266",
 		"names": {
 			"en": "Z21",
+			"code": "KMS Z21 Wilhelm Heidkamp",
 			"cn": "Z21",
 			"jp": "Z21",
 			"kr": "Z21"
@@ -25420,7 +25814,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -25459,6 +25860,7 @@
 		"id": "267",
 		"names": {
 			"en": "Z46",
+			"code": "KMS Z46",
 			"cn": "Z46",
 			"jp": "Z46",
 			"kr": "Z46"
@@ -25671,6 +26073,7 @@
 		"id": "269",
 		"names": {
 			"en": "Kamikaze",
+			"code": "IJN Kamikaze",
 			"cn": "神风",
 			"jp": "神風",
 			"kr": "카미카제"
@@ -25884,6 +26287,7 @@
 		"id": "270",
 		"names": {
 			"en": "Matsukaze",
+			"code": "IJN Matsukaze",
 			"cn": "松风",
 			"jp": "松風",
 			"kr": "마츠카제"
@@ -26097,6 +26501,7 @@
 		"id": "271",
 		"names": {
 			"en": "Mutsuki",
+			"code": "IJN Mutsuki",
 			"cn": "睦月",
 			"jp": "睦月",
 			"kr": "무츠키"
@@ -26341,6 +26746,7 @@
 		"id": "272",
 		"names": {
 			"en": "Kisaragi",
+			"code": "IJN Kisaragi",
 			"cn": "如月",
 			"jp": "如月",
 			"kr": "키사라기"
@@ -26570,6 +26976,7 @@
 		"id": "274",
 		"names": {
 			"en": "Uzuki",
+			"code": "IJN Uzuki",
 			"cn": "卯月",
 			"jp": "卯月",
 			"kr": "우즈키"
@@ -26758,6 +27165,7 @@
 		"id": "276",
 		"names": {
 			"en": "Minazuki",
+			"code": "IJN Minazuki",
 			"cn": "水无月",
 			"jp": "水無月",
 			"kr": "미나즈키"
@@ -26883,7 +27291,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -26920,6 +27335,7 @@
 		"id": "277",
 		"names": {
 			"en": "Fumizuki",
+			"code": "IJN Fumizuki",
 			"cn": "文月",
 			"jp": "文月",
 			"kr": "후미즈키"
@@ -27103,6 +27519,7 @@
 		"id": "278",
 		"names": {
 			"en": "Nagatsuki",
+			"code": "IJN Nagatsuki",
 			"cn": "长月",
 			"jp": "長月",
 			"kr": "나가츠키"
@@ -27228,7 +27645,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -27265,6 +27689,7 @@
 		"id": "280",
 		"names": {
 			"en": "Mikazuki",
+			"code": "IJN Mikazuki",
 			"cn": "三日月",
 			"jp": "三日月",
 			"kr": "미카즈키"
@@ -27390,7 +27815,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -27446,6 +27878,7 @@
 		"id": "288",
 		"names": {
 			"en": "Kawakaze",
+			"code": "IJN Kawakaze",
 			"cn": "江风",
 			"jp": "江風",
 			"kr": "카와카제"
@@ -27633,6 +28066,7 @@
 		"id": "293",
 		"names": {
 			"en": "Kiyonami",
+			"code": "IJN Kiyonami",
 			"cn": "清波",
 			"jp": "清波",
 			"kr": "키요나미"
@@ -27809,6 +28243,7 @@
 		"id": "295",
 		"names": {
 			"en": "Niizuki",
+			"code": "IJN Niizuki",
 			"cn": "新月",
 			"jp": "新月",
 			"kr": "니이즈키"
@@ -27941,7 +28376,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -27975,6 +28417,7 @@
 		"id": "296",
 		"names": {
 			"en": "Harutsuki",
+			"code": "IJN Harutsuki",
 			"cn": "春月",
 			"jp": "春月",
 			"kr": "하루츠키"
@@ -28144,6 +28587,7 @@
 		"id": "297",
 		"names": {
 			"en": "Yoizuki",
+			"code": "IJN Yoizuki",
 			"cn": "宵月",
 			"jp": "宵月",
 			"kr": "요이즈키"
@@ -28327,6 +28771,7 @@
 		"id": "299",
 		"names": {
 			"en": "Radford",
+			"code": "USS Radford",
 			"cn": "拉德福特",
 			"jp": "ラドフォード",
 			"kr": "래드포드"
@@ -28452,7 +28897,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -28489,6 +28941,7 @@
 		"id": "300",
 		"names": {
 			"en": "Jenkins",
+			"code": "USS Jenkins",
 			"cn": "杰金斯",
 			"jp": "ジェンキンス",
 			"kr": "젠킨스"
@@ -28614,7 +29067,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -28651,6 +29111,7 @@
 		"id": "301",
 		"names": {
 			"en": "Nicholas",
+			"code": "USS Nicholas",
 			"cn": "尼古拉斯",
 			"jp": "ニコラス",
 			"kr": "니콜라스"
@@ -28813,7 +29274,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -28888,6 +29356,7 @@
 		"id": "303",
 		"names": {
 			"en": "Richmond",
+			"code": "USS Richmond",
 			"cn": "里士满",
 			"jp": "リッチモンド",
 			"kr": "리치몬드"
@@ -29013,7 +29482,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -29050,6 +29526,7 @@
 		"id": "304",
 		"names": {
 			"en": "Honolulu",
+			"code": "USS Honolulu",
 			"cn": "火奴鲁鲁",
 			"jp": "ホノルル",
 			"kr": "호놀룰루"
@@ -29175,7 +29652,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -29281,6 +29765,7 @@
 		"id": "305",
 		"names": {
 			"en": "St. Louis",
+			"code": "USS St. Louis",
 			"cn": "圣路易斯",
 			"jp": "セントルイス",
 			"kr": "세인트루이스"
@@ -29502,6 +29987,7 @@
 		"id": "306",
 		"names": {
 			"en": "Jupiter",
+			"code": "HMS Jupiter",
 			"cn": "丘比特",
 			"jp": "ジュピター",
 			"kr": "주피터"
@@ -29681,6 +30167,7 @@
 		"id": "307",
 		"names": {
 			"en": "Jersey",
+			"code": "HMS Jersey",
 			"cn": "泽西",
 			"jp": "ジャージー",
 			"kr": null
@@ -29852,6 +30339,7 @@
 		"id": "308",
 		"names": {
 			"en": "Sendai",
+			"code": "IJN Sendai",
 			"cn": "川内",
 			"jp": "川内",
 			"kr": "센다이"
@@ -30014,7 +30502,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -30058,6 +30553,7 @@
 		"id": "309",
 		"names": {
 			"en": "Jintsuu",
+			"code": "IJN Jintsuu",
 			"cn": "神通",
 			"jp": "神通",
 			"kr": "진츠"
@@ -30220,7 +30716,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -30278,6 +30781,7 @@
 		"id": "310",
 		"names": {
 			"en": "Naka",
+			"code": "IJN Naka",
 			"cn": "那珂",
 			"jp": "那珂",
 			"kr": "나카"
@@ -30449,6 +30953,7 @@
 		"id": "316",
 		"names": {
 			"en": "Urakaze",
+			"code": "IJN Urakaze",
 			"cn": "浦风",
 			"jp": "浦風",
 			"kr": "우라카제"
@@ -30629,6 +31134,7 @@
 		"id": "317",
 		"names": {
 			"en": "Isokaze",
+			"code": "IJN Isokaze",
 			"cn": "矶风",
 			"jp": "磯風",
 			"kr": "이소카제"
@@ -30809,6 +31315,7 @@
 		"id": "318",
 		"names": {
 			"en": "Hamakaze",
+			"code": "IJN Hamakaze",
 			"cn": "滨风",
 			"jp": "浜風",
 			"kr": "하마카제"
@@ -31036,6 +31543,7 @@
 		"id": "319",
 		"names": {
 			"en": "Tanikaze",
+			"code": "IJN Tanikaze",
 			"cn": "谷风",
 			"jp": "谷風",
 			"kr": "타니카제"
@@ -31263,6 +31771,7 @@
 		"id": "320",
 		"names": {
 			"en": "Mikasa",
+			"code": "IJN Mikasa",
 			"cn": "三笠",
 			"jp": "三笠",
 			"kr": "미카사"
@@ -31469,6 +31978,7 @@
 		"id": "321",
 		"names": {
 			"en": "Agano",
+			"code": "IJN Agano",
 			"cn": "阿贺野",
 			"jp": "阿賀野",
 			"kr": "아가노"
@@ -31601,7 +32111,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -31638,6 +32155,7 @@
 		"id": "325",
 		"names": {
 			"en": "Matchless",
+			"code": "HMS Matchless",
 			"cn": "无敌",
 			"jp": "マッチレス",
 			"kr": "매치리스"
@@ -31825,6 +32343,7 @@
 		"id": "326",
 		"names": {
 			"en": "Musketeer",
+			"code": "HMS Musketeer",
 			"cn": "火枪手",
 			"jp": "マスケティーア",
 			"kr": "머스킷티어"
@@ -31950,7 +32469,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -31984,6 +32510,7 @@
 		"id": "327",
 		"names": {
 			"en": "Fiji",
+			"code": "HMS Fiji",
 			"cn": "斐济",
 			"jp": "フィジー",
 			"kr": "피지"
@@ -32109,7 +32636,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -32165,6 +32699,7 @@
 		"id": "328",
 		"names": {
 			"en": "Jamaica",
+			"code": "HMS Jamaica",
 			"cn": "牙买加",
 			"jp": "ジャマイカ",
 			"kr": "자메이카"
@@ -32361,6 +32896,7 @@
 		"id": "329",
 		"names": {
 			"en": "Montpelier",
+			"code": "USS Montpelier",
 			"cn": "蒙彼利埃",
 			"jp": "モントピリア",
 			"kr": "몬트필리어"
@@ -32556,6 +33092,7 @@
 		"id": "330",
 		"names": {
 			"en": "Denver",
+			"code": "USS Denver",
 			"cn": "丹佛",
 			"jp": "デンバー",
 			"kr": "덴버"
@@ -32732,6 +33269,7 @@
 		"id": "331",
 		"names": {
 			"en": "Asashio",
+			"code": "IJN Asashio",
 			"cn": "朝潮",
 			"jp": "朝潮",
 			"kr": "아사시오"
@@ -32919,6 +33457,7 @@
 		"id": "332",
 		"names": {
 			"en": "Ooshio",
+			"code": "IJN Ooshio",
 			"cn": "大潮",
 			"jp": "大潮",
 			"kr": "오오시오"
@@ -33111,6 +33650,7 @@
 		"id": "333",
 		"names": {
 			"en": "Michishio",
+			"code": "IJN Michishio",
 			"cn": "满潮",
 			"jp": "満潮",
 			"kr": "미치시오"
@@ -33277,6 +33817,7 @@
 		"id": "334",
 		"names": {
 			"en": "Arashio",
+			"code": "IJN Arashio",
 			"cn": "荒潮",
 			"jp": "荒潮",
 			"kr": "아라시오"
@@ -33402,7 +33943,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -33436,6 +33984,7 @@
 		"id": "335",
 		"names": {
 			"en": "Little Bel",
+			"code": "",
 			"cn": "小贝法",
 			"jp": "ベルちゃん",
 			"kr": "꼬마 벨파스트"
@@ -33568,7 +34117,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": "CN/JP only",
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -33605,6 +34161,7 @@
 		"id": "336",
 		"names": {
 			"en": "Abercrombie",
+			"code": "HMS Abercrombie",
 			"cn": "阿贝克隆比",
 			"jp": "アバークロンビー",
 			"kr": "애버크롬비"
@@ -33778,6 +34335,7 @@
 		"id": "337",
 		"names": {
 			"en": "Sussex",
+			"code": "HMS Sussex",
 			"cn": "苏塞克斯",
 			"jp": "サセックス",
 			"kr": "서식스"
@@ -33961,6 +34519,7 @@
 		"id": "338",
 		"names": {
 			"en": "I-19",
+			"code": "IJN I-19",
 			"cn": "伊19",
 			"jp": "伊19",
 			"kr": "이19"
@@ -34349,6 +34908,7 @@
 		"id": "339",
 		"names": {
 			"en": "I-26",
+			"code": "IJN I-26",
 			"cn": "伊26",
 			"jp": "伊26",
 			"kr": "이26"
@@ -34759,6 +35319,7 @@
 		"id": "340",
 		"names": {
 			"en": "I-58",
+			"code": "IJN I-58",
 			"cn": "伊58",
 			"jp": "伊58",
 			"kr": "이58"
@@ -35126,6 +35687,7 @@
 		"id": "341",
 		"names": {
 			"en": "U-81",
+			"code": "KMS U-81",
 			"cn": "U-81",
 			"jp": "U-81",
 			"kr": "U-81"
@@ -35523,6 +36085,7 @@
 		"id": "342",
 		"names": {
 			"en": "Dace",
+			"code": "USS Dace",
 			"cn": "鲦鱼",
 			"jp": "デイス",
 			"kr": "데이스"
@@ -35900,6 +36463,7 @@
 		"id": "343",
 		"names": {
 			"en": "U-47",
+			"code": "KMS U-47",
 			"cn": "U-47",
 			"jp": "U-47",
 			"kr": "U-47"
@@ -36305,6 +36869,7 @@
 		"id": "344",
 		"names": {
 			"en": "U-557",
+			"code": "KMS U-557",
 			"cn": "U-557",
 			"jp": "U-557",
 			"kr": "U-557"
@@ -36682,6 +37247,7 @@
 		"id": "345",
 		"names": {
 			"en": "Z35",
+			"code": "KMS Z35",
 			"cn": "Z35",
 			"jp": "Z35",
 			"kr": "Z35"
@@ -36851,6 +37417,7 @@
 		"id": "346",
 		"names": {
 			"en": "Z18",
+			"code": "KMS Z18 Hans Lüdemann",
 			"cn": "Z18",
 			"jp": "Z18",
 			"kr": "Z18"
@@ -37020,6 +37587,7 @@
 		"id": "347",
 		"names": {
 			"en": "Le Triomphant",
+			"code": "FFNF Le Triomphant",
 			"cn": "凯旋",
 			"jp": "ル・トリオンファン",
 			"kr": "르 트리옹팡"
@@ -37152,7 +37720,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -37189,6 +37764,7 @@
 		"id": "348",
 		"names": {
 			"en": "Forbin",
+			"code": "FFNF Forbin",
 			"cn": "福尔班",
 			"jp": "フォルバン",
 			"kr": "포르뱅"
@@ -37430,6 +38006,7 @@
 		"id": "349",
 		"names": {
 			"en": "Emile Bertin",
+			"code": "FFNF Emile Bertin",
 			"cn": "埃米尔·贝尔汀",
 			"jp": "エミール・ベルタン",
 			"kr": "에밀 베르탱"
@@ -37592,7 +38169,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -37653,6 +38237,7 @@
 		"id": "350",
 		"names": {
 			"en": "Surcouf",
+			"code": "FFNF Surcouf",
 			"cn": "絮库夫",
 			"jp": "シュルクーフ",
 			"kr": "쉬르쿠프"
@@ -38044,6 +38629,7 @@
 		"id": "351",
 		"names": {
 			"en": "Le Mars",
+			"code": "MNF Le Mars",
 			"cn": "勒马尔",
 			"jp": "ル・マルス",
 			"kr": "르 마르스"
@@ -38206,7 +38792,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -38277,6 +38870,7 @@
 		"id": "352",
 		"names": {
 			"en": "Dunkerque",
+			"code": "MNF Dunkerque",
 			"cn": "敦刻尔克",
 			"jp": "ダンケルク",
 			"kr": "됭케르크"
@@ -38476,6 +39070,7 @@
 		"id": "353",
 		"names": {
 			"en": "Jean Bart",
+			"code": "MNF Jean Bart",
 			"cn": "让·巴尔",
 			"jp": "ジャン・バール",
 			"kr": "장 바르"
@@ -38650,6 +39245,7 @@
 		"id": "354",
 		"names": {
 			"en": "Massachusetts",
+			"code": "USS Massachusetts",
 			"cn": "马萨诸塞",
 			"jp": "マサチューセッツ",
 			"kr": "매사추세츠"
@@ -38819,6 +39415,7 @@
 		"id": "355",
 		"names": {
 			"en": "Bush",
+			"code": "USS Bush",
 			"cn": "布什",
 			"jp": "ブッシュ",
 			"kr": "부시"
@@ -39002,6 +39599,7 @@
 		"id": "356",
 		"names": {
 			"en": "Centaur",
+			"code": "HMS Centaur",
 			"cn": "半人马",
 			"jp": "セントー",
 			"kr": "센토"
@@ -39193,6 +39791,7 @@
 		"id": "357",
 		"names": {
 			"en": "Essex",
+			"code": "USS Essex",
 			"cn": "埃塞克斯",
 			"jp": "エセックス",
 			"kr": "에식스"
@@ -39388,6 +39987,7 @@
 		"id": "358",
 		"names": {
 			"en": "Albacore",
+			"code": "USS Albacore",
 			"cn": "大青花鱼",
 			"jp": "アルバコア",
 			"kr": "알바코어"
@@ -39765,6 +40365,7 @@
 		"id": "359",
 		"names": {
 			"en": "Le Temeraire",
+			"code": "FFNF Le Temeraire",
 			"cn": "鲁莽",
 			"jp": "ル・テメレール",
 			"kr": "르 테메레르"
@@ -39938,6 +40539,7 @@
 		"id": "360",
 		"names": {
 			"en": "Memphis",
+			"code": "USS Memphis",
 			"cn": "孟菲斯",
 			"jp": "メンフィス",
 			"kr": "멤피스"
@@ -40134,6 +40736,7 @@
 		"id": "361",
 		"names": {
 			"en": "Newcastle",
+			"code": "HMS Newcastle",
 			"cn": "纽卡斯尔",
 			"jp": "ニューカッスル",
 			"kr": "뉴캐슬"
@@ -40296,7 +40899,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -40357,6 +40967,7 @@
 		"id": "362",
 		"names": {
 			"en": "Hobby",
+			"code": "USS Hobby",
 			"cn": "霍比",
 			"jp": "ホビー",
 			"kr": "하비"
@@ -40482,7 +41093,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -40530,6 +41148,7 @@
 		"id": "363",
 		"names": {
 			"en": "Kalk",
+			"code": "USS Kalk",
 			"cn": "科尔克",
 			"jp": "カーク",
 			"kr": "커크"
@@ -40710,6 +41329,7 @@
 		"id": "364",
 		"names": {
 			"en": "Minneapolis",
+			"code": "USS Minneapolis",
 			"cn": "明尼阿波利斯",
 			"jp": "ミネアポリス",
 			"kr": "미니애폴리스"
@@ -40900,6 +41520,7 @@
 		"id": "365",
 		"names": {
 			"en": "Hazelwood",
+			"code": "USS Hazelwood",
 			"cn": "黑泽伍德",
 			"jp": "ヘイゼルウッド",
 			"kr": "헤이즐우드"
@@ -41025,7 +41646,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -41062,6 +41690,7 @@
 		"id": "366",
 		"names": {
 			"en": "Concord",
+			"code": "USS Concord",
 			"cn": "康克德",
 			"jp": "コンコード",
 			"kr": "콩코드"
@@ -41242,6 +41871,7 @@
 		"id": "367",
 		"names": {
 			"en": "Amagi",
+			"code": "IJN Amagi",
 			"cn": "天城",
 			"jp": "天城",
 			"kr": "아마기"
@@ -41443,6 +42073,7 @@
 		"id": "368",
 		"names": {
 			"en": "Kaga (Battleship)",
+			"code": "IJN Kaga (Battleship)",
 			"cn": "加贺",
 			"jp": "加賀",
 			"kr": "카가"
@@ -41612,6 +42243,7 @@
 		"id": "369",
 		"names": {
 			"en": "Hatakaze",
+			"code": "IJN Hatakaze",
 			"cn": "旗风",
 			"jp": "旗風",
 			"kr": "하타카제"
@@ -41781,6 +42413,7 @@
 		"id": "370",
 		"names": {
 			"en": "Makinami",
+			"code": "IJN Makinami",
 			"cn": "卷波",
 			"jp": "巻波",
 			"kr": "마키나미"
@@ -41913,7 +42546,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": true,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -41950,6 +42590,7 @@
 		"id": "371",
 		"names": {
 			"en": "Sirius",
+			"code": "HMS Sirius",
 			"cn": "天狼星",
 			"jp": "シリアス",
 			"kr": null
@@ -42154,6 +42795,7 @@
 		"id": "372",
 		"names": {
 			"en": "Curacoa",
+			"code": "HMS Curacoa",
 			"cn": "库拉索",
 			"jp": "キュラソー",
 			"kr": "퀴라소"
@@ -42384,6 +43026,7 @@
 		"id": "373",
 		"names": {
 			"en": "Curlew",
+			"code": "HMS Curlew",
 			"cn": "杓鹬",
 			"jp": "カーリュー",
 			"kr": "컬루"
@@ -42614,6 +43257,7 @@
 		"id": "374",
 		"names": {
 			"en": "Kimberly",
+			"code": "USS Kimberly",
 			"cn": "金伯利",
 			"jp": "キンバリー",
 			"kr": "킴벌리"
@@ -42796,6 +43440,7 @@
 		"id": "375",
 		"names": {
 			"en": "Mullany",
+			"code": "USS Mullany",
 			"cn": "马拉尼",
 			"jp": "マラニー",
 			"kr": "멀라니"
@@ -42979,6 +43624,7 @@
 		"id": "376",
 		"names": {
 			"en": "Chaser",
+			"code": "HMS Chaser",
 			"cn": "追赶者",
 			"jp": "チェイサー",
 			"kr": "체이서"
@@ -43176,6 +43822,7 @@
 		"id": "377",
 		"names": {
 			"en": "Independence",
+			"code": "USS Independence",
 			"cn": "独立",
 			"jp": "インディペンデンス",
 			"kr": "인디펜던스"
@@ -43301,7 +43948,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -43357,6 +44011,7 @@
 		"id": "378",
 		"names": {
 			"en": "Shangri-La",
+			"code": "USS Shangri-La",
 			"cn": "香格里拉",
 			"jp": "シャングリラ",
 			"kr": "샹그릴라"
@@ -43540,6 +44195,7 @@
 		"id": "379",
 		"names": {
 			"en": "Z2",
+			"code": "KMS Z2 Georg Thiele",
 			"cn": "Z2",
 			"jp": "Z2",
 			"kr": "Z2"
@@ -43716,6 +44372,7 @@
 		"id": "380",
 		"names": {
 			"en": "Bunker Hill",
+			"code": "USS Bunker Hill",
 			"cn": "邦克山",
 			"jp": "バンカー・ヒル",
 			"kr": "벙커힐"
@@ -43841,7 +44498,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -43878,6 +44542,7 @@
 		"id": "381",
 		"names": {
 			"en": "I-13",
+			"code": "IJN I-13",
 			"cn": "伊13",
 			"jp": "伊13",
 			"kr": null
@@ -44257,6 +44922,7 @@
 		"id": "382",
 		"names": {
 			"en": "Suzuya",
+			"code": "IJN Suzuya",
 			"cn": "铃谷",
 			"jp": "鈴谷",
 			"kr": null
@@ -44433,6 +45099,7 @@
 		"id": "383",
 		"names": {
 			"en": "Hiei-chan",
+			"code": "",
 			"cn": "小比叡",
 			"jp": "小比叡",
 			"kr": "꼬마 히에이"
@@ -44602,6 +45269,7 @@
 		"id": "384",
 		"names": {
 			"en": "Akagi-chan",
+			"code": "",
 			"cn": "小赤城",
 			"jp": "小赤城",
 			"kr": "꼬마 아카기"
@@ -44776,6 +45444,7 @@
 		"id": "385",
 		"names": {
 			"en": "Zeppy",
+			"code": "",
 			"cn": "小齐柏林",
 			"jp": "ツェッペリンちゃん",
 			"kr": "꼬마 그라프 체펠린"
@@ -44945,6 +45614,7 @@
 		"id": "386",
 		"names": {
 			"en": "U-556",
+			"code": "KMS U-556",
 			"cn": "U-556",
 			"jp": "U-556",
 			"kr": "U-556"
@@ -45341,6 +46011,7 @@
 		"id": "387",
 		"names": {
 			"en": "U-73",
+			"code": "KMS U-73",
 			"cn": "U-73",
 			"jp": "U-73",
 			"kr": "U-73"
@@ -45728,6 +46399,7 @@
 		"id": "388",
 		"names": {
 			"en": "Z36",
+			"code": "KMS Z36",
 			"cn": "Z36",
 			"jp": "Z36",
 			"kr": "Z36"
@@ -45894,6 +46566,7 @@
 		"id": "389",
 		"names": {
 			"en": "Echo",
+			"code": "HMS Echo",
 			"cn": "回声",
 			"jp": "エコー",
 			"kr": "에코"
@@ -46060,6 +46733,7 @@
 		"id": "390",
 		"names": {
 			"en": "Lena",
+			"code": "",
 			"cn": "小海伦娜",
 			"jp": "リトル・ヘレナ",
 			"kr": "꼬마 헬레나"
@@ -46236,6 +46910,7 @@
 		"id": "391",
 		"names": {
 			"en": "Clevelad",
+			"code": "",
 			"cn": "小克利夫兰",
 			"jp": "リトル・クリーブランド",
 			"kr": "꼬마 클리블랜드"
@@ -46412,6 +47087,7 @@
 		"id": "392",
 		"names": {
 			"en": "Li'l Sandy",
+			"code": "",
 			"cn": "小圣地亚哥",
 			"jp": "リトル・サンディエゴ",
 			"kr": "꼬마 샌디에이고"
@@ -46544,7 +47220,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -46581,6 +47264,7 @@
 		"id": "393",
 		"names": {
 			"en": "Swiftsure",
+			"code": "HMS Swiftsure",
 			"cn": "确捷",
 			"jp": "スウィフトシュア",
 			"kr": null
@@ -46771,6 +47455,7 @@
 		"id": "394",
 		"names": {
 			"en": "Le Malin",
+			"code": "MNF Le Malin",
 			"cn": "恶毒",
 			"jp": "ル・マラン",
 			"kr": null
@@ -46961,6 +47646,7 @@
 		"id": "395",
 		"names": {
 			"en": "L'Opiniâtre",
+			"code": "FFNF L'Opiniâtre",
 			"cn": "倔强",
 			"jp": "ルピニャート",
 			"kr": null
@@ -47123,6 +47809,7 @@
 		"id": "396",
 		"names": {
 			"en": "I-25",
+			"code": "IJN I-25",
 			"cn": "伊25",
 			"jp": "伊25",
 			"kr": "이25"
@@ -47519,6 +48206,7 @@
 		"id": "397",
 		"names": {
 			"en": "I-56",
+			"code": "IJN I-56",
 			"cn": "伊56",
 			"jp": "伊56",
 			"kr": "이56"
@@ -47906,6 +48594,7 @@
 		"id": "398",
 		"names": {
 			"en": "I-168",
+			"code": "IJN I-168",
 			"cn": "伊168",
 			"jp": "伊168",
 			"kr": "이168"
@@ -48297,6 +48986,7 @@
 		"id": "399",
 		"names": {
 			"en": "U-101",
+			"code": "KMS U-101",
 			"cn": "U-101",
 			"jp": "U-101",
 			"kr": "U-101"
@@ -48688,6 +49378,7 @@
 		"id": "400",
 		"names": {
 			"en": "U-522",
+			"code": "KMS U-522",
 			"cn": "U-522",
 			"jp": "U-522",
 			"kr": "U-522"
@@ -49065,6 +49756,7 @@
 		"id": "401",
 		"names": {
 			"en": "Alabama",
+			"code": "USS Alabama",
 			"cn": "阿拉巴马",
 			"jp": "アラバマ",
 			"kr": "앨라배마"
@@ -49239,6 +49931,7 @@
 		"id": "402",
 		"names": {
 			"en": "Cavalla",
+			"code": "USS Cavalla",
 			"cn": "棘鳍",
 			"jp": "カヴァラ",
 			"kr": "카발라"
@@ -49626,6 +50319,7 @@
 		"id": "403",
 		"names": {
 			"en": "Bataan",
+			"code": "USS Bataan",
 			"cn": "巴丹",
 			"jp": "バターン",
 			"kr": "바탄"
@@ -49809,6 +50503,7 @@
 		"id": "404",
 		"names": {
 			"en": "San Juan",
+			"code": "USS San Juan",
 			"cn": "圣胡安",
 			"jp": "サンフアン",
 			"kr": "산후안"
@@ -49974,6 +50669,7 @@
 		"id": "405",
 		"names": {
 			"en": "Birmingham",
+			"code": "USS Birmingham",
 			"cn": "伯明翰",
 			"jp": "バーミンガム",
 			"kr": "버밍햄"
@@ -50160,6 +50856,7 @@
 		"id": "406",
 		"names": {
 			"en": "Aylwin",
+			"code": "USS Aylwin",
 			"cn": "艾尔温",
 			"jp": "エールウィン",
 			"kr": "아일윈"
@@ -50345,6 +51042,7 @@
 		"id": "407",
 		"names": {
 			"en": "Bache",
+			"code": "USS Bache",
 			"cn": "贝奇",
 			"jp": "バッチ",
 			"kr": "배시"
@@ -50528,6 +51226,7 @@
 		"id": "408",
 		"names": {
 			"en": "Black Prince",
+			"code": "HMS Black Prince",
 			"cn": "黑太子",
 			"jp": "ブラック・プリンス",
 			"kr": "블랙 프린스"
@@ -50718,6 +51417,7 @@
 		"id": "409",
 		"names": {
 			"en": "Stanly",
+			"code": "USS Stanly",
 			"cn": "斯坦利",
 			"jp": "スタンリー",
 			"kr": "스탠리"
@@ -50884,6 +51584,7 @@
 		"id": "410",
 		"names": {
 			"en": "Littorio",
+			"code": "Littorio",
 			"cn": "利托里奥",
 			"jp": "リットリオ",
 			"kr": "리토리오"
@@ -51072,6 +51773,7 @@
 		"id": "411",
 		"names": {
 			"en": "Conte di Cavour",
+			"code": "Conte di Cavour",
 			"cn": "加富尔伯爵",
 			"jp": "コンテ・ディ・カブール",
 			"kr": "콘테 디 카보우르"
@@ -51190,7 +51892,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -51224,6 +51933,7 @@
 		"id": "412",
 		"names": {
 			"en": "Giulio Cesare",
+			"code": "Giulio Cesare",
 			"cn": "朱利奥·凯撒",
 			"jp": "ジュリオ・チェザーレ",
 			"kr": "줄리오 체사레"
@@ -51412,6 +52122,7 @@
 		"id": "413",
 		"names": {
 			"en": "Zara",
+			"code": "Zara",
 			"cn": "扎拉",
 			"jp": "ザラ",
 			"kr": "차라"
@@ -51607,6 +52318,7 @@
 		"id": "414",
 		"names": {
 			"en": "Trento",
+			"code": "Trento",
 			"cn": "特伦托",
 			"jp": "トレント",
 			"kr": "트렌토"
@@ -51732,7 +52444,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -51774,6 +52493,7 @@
 		"id": "415",
 		"names": {
 			"en": "Carabiniere",
+			"code": "Carabiniere",
 			"cn": "龙骑兵",
 			"jp": "カラビニエーレ",
 			"kr": "카라비니에레"
@@ -51906,7 +52626,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -51957,6 +52684,7 @@
 		"id": "416",
 		"names": {
 			"en": "U-110",
+			"code": "KMS U-110",
 			"cn": "U-110",
 			"jp": "U-110",
 			"kr": null
@@ -52348,6 +53076,7 @@
 		"id": "417",
 		"names": {
 			"en": "Smalley",
+			"code": "USS Smalley",
 			"cn": "斯莫利",
 			"jp": "スモーリー",
 			"kr": null
@@ -52528,6 +53257,7 @@
 		"id": "418",
 		"names": {
 			"en": "Gascogne (Muse)",
+			"code": "MNF Gascogne (Muse)",
 			"cn": "加斯科涅(μ兵装)",
 			"jp": "ガスコーニュ（μ兵装）",
 			"kr": null
@@ -52688,6 +53418,7 @@
 		"id": "419",
 		"names": {
 			"en": "Akagi (Muse)",
+			"code": "IJN Akagi (Muse)",
 			"cn": "赤城(μ兵装)",
 			"jp": "赤城（μ兵装）",
 			"kr": null
@@ -52848,6 +53579,7 @@
 		"id": "420",
 		"names": {
 			"en": "Cleveland (Muse)",
+			"code": "USS Cleveland (Muse)",
 			"cn": "克利夫兰(μ兵装)",
 			"jp": "クリーブランド（μ兵装）",
 			"kr": null
@@ -53015,6 +53747,7 @@
 		"id": "421",
 		"names": {
 			"en": "Sheffield (Muse)",
+			"code": "HMS Sheffield (Muse)",
 			"cn": "谢菲尔德(μ兵装)",
 			"jp": "シェフィールド（μ兵装）",
 			"kr": null
@@ -53182,6 +53915,7 @@
 		"id": "422",
 		"names": {
 			"en": "Admiral Hipper (Muse)",
+			"code": "KMS Admiral Hipper (Muse)",
 			"cn": "希佩尔海军上将(μ兵装)",
 			"jp": "アドミラル·ヒッパー（μ兵装）",
 			"kr": null
@@ -53349,6 +54083,7 @@
 		"id": "423",
 		"names": {
 			"en": "Glasgow",
+			"code": "HMS Glasgow",
 			"cn": "格拉斯哥",
 			"jp": "グラスゴー",
 			"kr": null
@@ -53539,6 +54274,7 @@
 		"id": "005",
 		"names": {
 			"en": "Cassin",
+			"code": "USS Cassin",
 			"cn": "卡辛",
 			"jp": "カッシン",
 			"kr": "캐신"
@@ -53755,6 +54491,7 @@
 		"id": "006",
 		"names": {
 			"en": "Downes",
+			"code": "USS Downes",
 			"cn": "唐斯",
 			"jp": "ダウンズ",
 			"kr": "다운즈"
@@ -53971,6 +54708,7 @@
 		"id": "019",
 		"names": {
 			"en": "Laffey",
+			"code": "USS Laffey",
 			"cn": "拉菲",
 			"jp": "ラフィー",
 			"kr": "라피"
@@ -54257,6 +54995,7 @@
 		"id": "026",
 		"names": {
 			"en": "Sims",
+			"code": "USS Sims",
 			"cn": "西姆斯",
 			"jp": "シムス",
 			"kr": "심즈"
@@ -54473,6 +55212,7 @@
 		"id": "027",
 		"names": {
 			"en": "Hammann",
+			"code": "USS Hammann",
 			"cn": "哈曼",
 			"jp": "ハムマン",
 			"kr": "허먼"
@@ -54703,6 +55443,7 @@
 		"id": "036",
 		"names": {
 			"en": "San Diego",
+			"code": "USS San Diego",
 			"cn": "圣地亚哥",
 			"jp": "サンディエゴ",
 			"kr": "샌디에이고"
@@ -54933,6 +55674,7 @@
 		"id": "044",
 		"names": {
 			"en": "Portland",
+			"code": "USS Portland",
 			"cn": "波特兰",
 			"jp": "ポートランド",
 			"kr": "포틀랜드"
@@ -55163,6 +55905,7 @@
 		"id": "052",
 		"names": {
 			"en": "Nevada",
+			"code": "USS Nevada",
 			"cn": "内华达",
 			"jp": "ネバダ",
 			"kr": "네바다"
@@ -55372,6 +56115,7 @@
 		"id": "053",
 		"names": {
 			"en": "Oklahoma",
+			"code": "USS Oklahoma",
 			"cn": "俄克拉荷马",
 			"jp": "オクラホマ",
 			"kr": "오클라호마"
@@ -55581,6 +56325,7 @@
 		"id": "070",
 		"names": {
 			"en": "Long Island",
+			"code": "USS Long Island",
 			"cn": "长岛",
 			"jp": "ロング・アイランド",
 			"kr": "롱 아일랜드"
@@ -55800,6 +56545,7 @@
 		"id": "071",
 		"names": {
 			"en": "Bogue",
+			"code": "USS Bogue",
 			"cn": "博格",
 			"jp": "ボーグ",
 			"kr": "보그"
@@ -56009,6 +56755,7 @@
 		"id": "072",
 		"names": {
 			"en": "Langley",
+			"code": "USS Langley",
 			"cn": "兰利",
 			"jp": "ラングレー",
 			"kr": "랭글리"
@@ -56218,6 +56965,7 @@
 		"id": "074",
 		"names": {
 			"en": "Saratoga",
+			"code": "USS Saratoga",
 			"cn": "萨拉托加",
 			"jp": "サラトガ",
 			"kr": "새러토가"
@@ -56489,6 +57237,7 @@
 		"id": "075",
 		"names": {
 			"en": "Ranger",
+			"code": "USS Ranger",
 			"cn": "突击者",
 			"jp": "レンジャー",
 			"kr": "레인저"
@@ -56698,6 +57447,7 @@
 		"id": "082",
 		"names": {
 			"en": "Acasta",
+			"code": "HMS Acasta",
 			"cn": "阿卡司塔",
 			"jp": "アカスタ",
 			"kr": "아카스타"
@@ -56928,6 +57678,7 @@
 		"id": "083",
 		"names": {
 			"en": "Ardent",
+			"code": "HMS Ardent",
 			"cn": "热心",
 			"jp": "アーデント",
 			"kr": "아덴트"
@@ -57144,6 +57895,7 @@
 		"id": "088",
 		"names": {
 			"en": "Comet",
+			"code": "HMS Comet",
 			"cn": "彗星",
 			"jp": "コメット",
 			"kr": "코멧"
@@ -57360,6 +58112,7 @@
 		"id": "089",
 		"names": {
 			"en": "Crescent",
+			"code": "HMS Crescent",
 			"cn": "新月",
 			"jp": "クレセント",
 			"kr": "크레센트"
@@ -57576,6 +58329,7 @@
 		"id": "090",
 		"names": {
 			"en": "Cygnet",
+			"code": "HMS Cygnet",
 			"cn": "小天鹅",
 			"jp": "シグニット",
 			"kr": "시그넷"
@@ -57846,6 +58600,7 @@
 		"id": "091",
 		"names": {
 			"en": "Foxhound",
+			"code": "HMS Foxhound",
 			"cn": "狐提",
 			"jp": "フォックスハウンド",
 			"kr": "폭스하운드"
@@ -58059,6 +58814,7 @@
 		"id": "092",
 		"names": {
 			"en": "Fortune",
+			"code": "HMS Fortune",
 			"cn": "命运女神",
 			"jp": "フォーチュン",
 			"kr": "포춘"
@@ -58272,6 +59028,7 @@
 		"id": "101",
 		"names": {
 			"en": "Javelin",
+			"code": "HMS Javelin",
 			"cn": "标枪",
 			"jp": "ジャベリン",
 			"kr": "재블린"
@@ -58569,6 +59326,7 @@
 		"id": "104",
 		"names": {
 			"en": "Leander",
+			"code": "HMS Leander",
 			"cn": "利安得",
 			"jp": "リアンダー",
 			"kr": "리엔더"
@@ -58785,6 +59543,7 @@
 		"id": "105",
 		"names": {
 			"en": "Achilles",
+			"code": "HMS Achilles",
 			"cn": "阿基里斯",
 			"jp": "アキリーズ",
 			"kr": "아킬레스"
@@ -59001,6 +59760,7 @@
 		"id": "106",
 		"names": {
 			"en": "Ajax",
+			"code": "HMS Ajax",
 			"cn": "阿贾克斯",
 			"jp": "エイジャックス",
 			"kr": "에이잭스"
@@ -59231,6 +59991,7 @@
 		"id": "119",
 		"names": {
 			"en": "London",
+			"code": "HMS London",
 			"cn": "伦敦",
 			"jp": "ロンドン",
 			"kr": "런던"
@@ -59447,6 +60208,7 @@
 		"id": "122",
 		"names": {
 			"en": "Suffolk",
+			"code": "HMS Suffolk",
 			"cn": "萨福克",
 			"jp": "サフォーク",
 			"kr": "서포크"
@@ -59663,6 +60425,7 @@
 		"id": "125",
 		"names": {
 			"en": "York",
+			"code": "HMS York",
 			"cn": "约克",
 			"jp": "ヨーク",
 			"kr": "요크"
@@ -59893,6 +60656,7 @@
 		"id": "126",
 		"names": {
 			"en": "Exeter",
+			"code": "HMS Exeter",
 			"cn": "埃克塞特",
 			"jp": "エクセター",
 			"kr": "엑세터"
@@ -60109,6 +60873,7 @@
 		"id": "131",
 		"names": {
 			"en": "Warspite",
+			"code": "HMS Warspite",
 			"cn": "厌战",
 			"jp": "ウォースパイト",
 			"kr": "워스파이트"
@@ -60330,6 +61095,7 @@
 		"id": "140",
 		"names": {
 			"en": "Hermes",
+			"code": "HMS Hermes",
 			"cn": "竞技神",
 			"jp": "ハーミーズ",
 			"kr": "허미즈"
@@ -60539,6 +61305,7 @@
 		"id": "155",
 		"names": {
 			"en": "Ayanami",
+			"code": "IJN Ayanami",
 			"cn": "绫波",
 			"jp": "綾波",
 			"kr": "아야나미"
@@ -60851,6 +61618,7 @@
 		"id": "165",
 		"names": {
 			"en": "Shigure",
+			"code": "IJN Shigure",
 			"cn": "时雨",
 			"jp": "時雨",
 			"kr": "시구레"
@@ -61013,7 +61781,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -61088,6 +61863,7 @@
 		"id": "167",
 		"names": {
 			"en": "Kagerou",
+			"code": "IJN Kagerou",
 			"cn": "阳炎",
 			"jp": "陽炎",
 			"kr": "카게로"
@@ -61250,7 +62026,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -61308,6 +62091,7 @@
 		"id": "168",
 		"names": {
 			"en": "Shiranui",
+			"code": "IJN Shiranui",
 			"cn": "不知火",
 			"jp": "不知火",
 			"kr": "시라누이"
@@ -61470,7 +62254,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -61527,6 +62318,7 @@
 		"id": "176",
 		"names": {
 			"en": "Yuugure",
+			"code": "IJN Yuugure",
 			"cn": "夕暮",
 			"jp": "夕暮",
 			"kr": "유구레"
@@ -61784,6 +62576,7 @@
 		"id": "179",
 		"names": {
 			"en": "Yuubari",
+			"code": "IJN Yuubari",
 			"cn": "夕张",
 			"jp": "夕張",
 			"kr": "유바리"
@@ -62000,6 +62793,7 @@
 		"id": "187",
 		"names": {
 			"en": "Abukuma",
+			"code": "IJN Abukuma",
 			"cn": "阿武隈",
 			"jp": "阿武隈",
 			"kr": "아부쿠마"
@@ -62162,7 +62956,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -62209,6 +63010,7 @@
 		"id": "188",
 		"names": {
 			"en": "Mogami",
+			"code": "IJN Mogami",
 			"cn": "最上",
 			"jp": "最上",
 			"kr": "모가미"
@@ -62425,6 +63227,7 @@
 		"id": "190",
 		"names": {
 			"en": "Furutaka",
+			"code": "IJN Furutaka",
 			"cn": "古鹰",
 			"jp": "古鷹",
 			"kr": "후루타카"
@@ -62587,7 +63390,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -62634,6 +63444,7 @@
 		"id": "191",
 		"names": {
 			"en": "Kako",
+			"code": "IJN Kako",
 			"cn": "加古",
 			"jp": "加古",
 			"kr": "카코"
@@ -62796,7 +63607,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -62843,6 +63661,7 @@
 		"id": "208",
 		"names": {
 			"en": "Fusou",
+			"code": "IJN Fusou",
 			"cn": "扶桑",
 			"jp": "扶桑",
 			"kr": "후소"
@@ -62998,7 +63817,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -63073,6 +63899,7 @@
 		"id": "209",
 		"names": {
 			"en": "Yamashiro",
+			"code": "IJN Yamashiro",
 			"cn": "山城",
 			"jp": "山城",
 			"kr": "야마시로"
@@ -63228,7 +64055,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -63368,6 +64202,7 @@
 		"id": "210",
 		"names": {
 			"en": "Ise",
+			"code": "IJN Ise",
 			"cn": "伊势",
 			"jp": "伊勢",
 			"kr": "이세"
@@ -63577,6 +64412,7 @@
 		"id": "211",
 		"names": {
 			"en": "Hyuuga",
+			"code": "IJN Hyuuga",
 			"cn": "日向",
 			"jp": "日向",
 			"kr": "휴가"
@@ -63793,6 +64629,7 @@
 		"id": "222",
 		"names": {
 			"en": "Shouhou",
+			"code": "IJN Shouhou",
 			"cn": "祥凤",
 			"jp": "祥鳳",
 			"kr": "쇼호"
@@ -63948,7 +64785,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -64009,6 +64853,7 @@
 		"id": "226",
 		"names": {
 			"en": "Souryuu",
+			"code": "IJN Souryuu",
 			"cn": "苍龙",
 			"jp": "蒼龍",
 			"kr": "소류"
@@ -64171,7 +65016,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -64246,6 +65098,7 @@
 		"id": "227",
 		"names": {
 			"en": "Hiryuu",
+			"code": "IJN Hiryuu",
 			"cn": "飞龙",
 			"jp": "飛龍",
 			"kr": "히류"
@@ -64408,7 +65261,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -64469,6 +65329,7 @@
 		"id": "233",
 		"names": {
 			"en": "Z1",
+			"code": "KMS Z1 Leberecht Maass",
 			"cn": "Z1",
 			"jp": "Z1",
 			"kr": "Z1"
@@ -64699,6 +65560,7 @@
 		"id": "236",
 		"names": {
 			"en": "Z23",
+			"code": "KMS Z23",
 			"cn": "Z23",
 			"jp": "Z23",
 			"kr": "Z23"
@@ -64970,6 +65832,7 @@
 		"id": "239",
 		"names": {
 			"en": "Karlsruhe",
+			"code": "KMS Karlsruhe",
 			"cn": "卡尔斯鲁厄",
 			"jp": "カールスルーエ",
 			"kr": "카를스루에"
@@ -65186,6 +66049,7 @@
 		"id": "240",
 		"names": {
 			"en": "Köln",
+			"code": "KMS Köln",
 			"cn": "科隆",
 			"jp": "ケルン",
 			"kr": "쾰른"
@@ -65381,6 +66245,7 @@
 		"id": "241",
 		"names": {
 			"en": "Leipzig",
+			"code": "KMS Leipzig",
 			"cn": "莱比锡",
 			"jp": "ライプツィヒ",
 			"kr": "라이프치히"
@@ -65597,6 +66462,7 @@
 		"id": "258",
 		"names": {
 			"en": "Ning Hai",
+			"code": "PRAN Ning Hai",
 			"cn": "宁海",
 			"jp": "寧海",
 			"kr": "닝하이"
@@ -65852,6 +66718,7 @@
 		"id": "259",
 		"names": {
 			"en": "Ping Hai",
+			"code": "PRAN Ping Hai",
 			"cn": "平海",
 			"jp": "平海",
 			"kr": "핑하이"
@@ -66107,6 +66974,7 @@
 		"id": "263",
 		"names": {
 			"en": "Bailey",
+			"code": "USS Bailey",
 			"cn": "贝利",
 			"jp": "ベイリー",
 			"kr": "베일리"
@@ -66336,6 +67204,7 @@
 		"id": "269",
 		"names": {
 			"en": "Kamikaze",
+			"code": "IJN Kamikaze",
 			"cn": "神风",
 			"jp": "神風",
 			"kr": "카미카제"
@@ -66549,6 +67418,7 @@
 		"id": "270",
 		"names": {
 			"en": "Matsukaze",
+			"code": "IJN Matsukaze",
 			"cn": "松风",
 			"jp": "松風",
 			"kr": "마츠카제"
@@ -66762,6 +67632,7 @@
 		"id": "271",
 		"names": {
 			"en": "Mutsuki",
+			"code": "IJN Mutsuki",
 			"cn": "睦月",
 			"jp": "睦月",
 			"kr": "무츠키"
@@ -67006,6 +67877,7 @@
 		"id": "272",
 		"names": {
 			"en": "Kisaragi",
+			"code": "IJN Kisaragi",
 			"cn": "如月",
 			"jp": "如月",
 			"kr": "키사라기"
@@ -67235,6 +68107,7 @@
 		"id": "301",
 		"names": {
 			"en": "Nicholas",
+			"code": "USS Nicholas",
 			"cn": "尼古拉斯",
 			"jp": "ニコラス",
 			"kr": "니콜라스"
@@ -67397,7 +68270,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -67472,6 +68352,7 @@
 		"id": "308",
 		"names": {
 			"en": "Sendai",
+			"code": "IJN Sendai",
 			"cn": "川内",
 			"jp": "川内",
 			"kr": "센다이"
@@ -67634,7 +68515,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -67678,6 +68566,7 @@
 		"id": "309",
 		"names": {
 			"en": "Jintsuu",
+			"code": "IJN Jintsuu",
 			"cn": "神通",
 			"jp": "神通",
 			"kr": "진츠"
@@ -67840,7 +68729,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -67898,6 +68794,7 @@
 		"id": "318",
 		"names": {
 			"en": "Hamakaze",
+			"code": "IJN Hamakaze",
 			"cn": "滨风",
 			"jp": "浜風",
 			"kr": "하마카제"
@@ -68125,6 +69022,7 @@
 		"id": "319",
 		"names": {
 			"en": "Tanikaze",
+			"code": "IJN Tanikaze",
 			"cn": "谷风",
 			"jp": "谷風",
 			"kr": "타니카제"
@@ -68352,6 +69250,7 @@
 		"id": "348",
 		"names": {
 			"en": "Forbin",
+			"code": "FFNF Forbin",
 			"cn": "福尔班",
 			"jp": "フォルバン",
 			"kr": "포르뱅"
@@ -68593,6 +69492,7 @@
 		"id": "349",
 		"names": {
 			"en": "Emile Bertin",
+			"code": "FFNF Emile Bertin",
 			"cn": "埃米尔·贝尔汀",
 			"jp": "エミール・ベルタン",
 			"kr": "에밀 베르탱"
@@ -68755,7 +69655,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -68816,6 +69723,7 @@
 		"id": "351",
 		"names": {
 			"en": "Le Mars",
+			"code": "MNF Le Mars",
 			"cn": "勒马尔",
 			"jp": "ル・マルス",
 			"kr": "르 마르스"
@@ -68978,7 +69886,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -69049,6 +69964,7 @@
 		"id": "361",
 		"names": {
 			"en": "Newcastle",
+			"code": "HMS Newcastle",
 			"cn": "纽卡斯尔",
 			"jp": "ニューカッスル",
 			"kr": "뉴캐슬"
@@ -69211,7 +70127,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -69272,6 +70195,7 @@
 		"id": "372",
 		"names": {
 			"en": "Curacoa",
+			"code": "HMS Curacoa",
 			"cn": "库拉索",
 			"jp": "キュラソー",
 			"kr": "퀴라소"
@@ -69502,6 +70426,7 @@
 		"id": "373",
 		"names": {
 			"en": "Curlew",
+			"code": "HMS Curlew",
 			"cn": "杓鹬",
 			"jp": "カーリュー",
 			"kr": "컬루"
@@ -69732,6 +70657,7 @@
 		"id": "9001",
 		"names": {
 			"en": "Tone",
+			"code": "IJN Tone",
 			"cn": "利根",
 			"jp": "利根",
 			"kr": null
@@ -69760,6 +70686,7 @@
 		"id": "9002",
 		"names": {
 			"en": "Chikuma",
+			"code": "IJN Chikuma",
 			"cn": "筑摩",
 			"jp": "筑摩",
 			"kr": null
@@ -69788,6 +70715,7 @@
 		"id": "9003",
 		"names": {
 			"en": "Jeanne d'Arc",
+			"code": "FFNF Jeanne d'Arc",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -69816,6 +70744,7 @@
 		"id": "9004",
 		"names": {
 			"en": "Richelieu",
+			"code": "FFNF Richelieu",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -69844,6 +70773,7 @@
 		"id": "9006",
 		"names": {
 			"en": "Pola",
+			"code": " Pola (cn: 波拉; jp: ポーラ)",
 			"cn": "波拉",
 			"jp": "ポーラ",
 			"kr": null
@@ -69861,6 +70791,7 @@
 		"id": "9007",
 		"names": {
 			"en": "Vittorio Veneto",
+			"code": " Vittorio Veneto (cn: 维托里奥·维内托; jp: ヴィットリオ・ヴェネト)",
 			"cn": "维托里奥·维内托",
 			"jp": "ヴィットリオ・ヴェネト",
 			"kr": null
@@ -69878,6 +70809,7 @@
 		"id": "001",
 		"names": {
 			"en": "Universal Bullin",
+			"code": "UNIV Universal Bullin",
 			"cn": "泛用型布里",
 			"jp": "汎用型ブリ",
 			"kr": "범용형 부린"
@@ -69996,7 +70928,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [
 			{
@@ -70038,6 +70977,7 @@
 		"id": "002",
 		"names": {
 			"en": "Trial Bullin MKII",
+			"code": "UNIV Trial Bullin MKII",
 			"cn": "试作型布里MKII",
 			"jp": "試作型ブリMKII",
 			"kr": "시제형 부린 MKⅡ"
@@ -70156,7 +71096,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [
 			{
@@ -70198,6 +71145,7 @@
 		"id": "004",
 		"names": {
 			"en": "Dewey",
+			"code": "USS Dewey",
 			"cn": "杜威",
 			"jp": "デューイ",
 			"kr": "듀이"
@@ -70323,7 +71271,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -70371,6 +71326,7 @@
 		"id": "005",
 		"names": {
 			"en": "Cassin",
+			"code": "USS Cassin",
 			"cn": "卡辛",
 			"jp": "カッシン",
 			"kr": "캐신"
@@ -70587,6 +71543,7 @@
 		"id": "006",
 		"names": {
 			"en": "Downes",
+			"code": "USS Downes",
 			"cn": "唐斯",
 			"jp": "ダウンズ",
 			"kr": "다운즈"
@@ -70803,6 +71760,7 @@
 		"id": "007",
 		"names": {
 			"en": "Gridley",
+			"code": "USS Gridley",
 			"cn": "格里德利",
 			"jp": "グリッドレイ",
 			"kr": "그리들리"
@@ -70997,6 +71955,7 @@
 		"id": "008",
 		"names": {
 			"en": "Craven",
+			"code": "USS Craven",
 			"cn": "克雷文",
 			"jp": "クレイヴン",
 			"kr": "크레이븐"
@@ -71179,6 +72138,7 @@
 		"id": "009",
 		"names": {
 			"en": "McCall",
+			"code": "USS McCall",
 			"cn": "麦考尔",
 			"jp": "マッコール",
 			"kr": "맥콜"
@@ -71348,6 +72308,7 @@
 		"id": "010",
 		"names": {
 			"en": "Maury",
+			"code": "USS Maury",
 			"cn": "莫里",
 			"jp": "モーリー",
 			"kr": "모리"
@@ -71524,6 +72485,7 @@
 		"id": "011",
 		"names": {
 			"en": "Fletcher",
+			"code": "USS Fletcher",
 			"cn": "弗莱彻",
 			"jp": "フレッチャー",
 			"kr": "플레처"
@@ -71700,6 +72662,7 @@
 		"id": "013",
 		"names": {
 			"en": "Charles Ausburne",
+			"code": "USS Charles Ausburne",
 			"cn": "查尔斯·奥斯本",
 			"jp": "チャールズ・オースバーン",
 			"kr": "찰스 오스본"
@@ -71876,6 +72839,7 @@
 		"id": "014",
 		"names": {
 			"en": "Thatcher",
+			"code": "USS Thatcher",
 			"cn": "撒切尔",
 			"jp": "サッチャー",
 			"kr": "대처"
@@ -72045,6 +73009,7 @@
 		"id": "015",
 		"names": {
 			"en": "Aulick",
+			"code": "USS Aulick",
 			"cn": "奥利克",
 			"jp": "オーリック",
 			"kr": "얼릭"
@@ -72214,6 +73179,7 @@
 		"id": "016",
 		"names": {
 			"en": "Foote",
+			"code": "USS Foote",
 			"cn": "富特",
 			"jp": "フート",
 			"kr": "푸트"
@@ -72383,6 +73349,7 @@
 		"id": "017",
 		"names": {
 			"en": "Spence",
+			"code": "USS Spence",
 			"cn": "斯彭斯",
 			"jp": "スペンス",
 			"kr": "스펜스"
@@ -72552,6 +73519,7 @@
 		"id": "018",
 		"names": {
 			"en": "Benson",
+			"code": "USS Benson",
 			"cn": "本森",
 			"jp": "ベンソン",
 			"kr": "벤슨"
@@ -72721,6 +73689,7 @@
 		"id": "019",
 		"names": {
 			"en": "Laffey",
+			"code": "USS Laffey",
 			"cn": "拉菲",
 			"jp": "ラフィー",
 			"kr": "라피"
@@ -73007,6 +73976,7 @@
 		"id": "026",
 		"names": {
 			"en": "Sims",
+			"code": "USS Sims",
 			"cn": "西姆斯",
 			"jp": "シムス",
 			"kr": "심즈"
@@ -73223,6 +74193,7 @@
 		"id": "027",
 		"names": {
 			"en": "Hammann",
+			"code": "USS Hammann",
 			"cn": "哈曼",
 			"jp": "ハムマン",
 			"kr": "허먼"
@@ -73453,6 +74424,7 @@
 		"id": "028",
 		"names": {
 			"en": "Eldridge",
+			"code": "USS Eldridge",
 			"cn": "埃尔德里奇",
 			"jp": "エルドリッジ",
 			"kr": "엘드릿지"
@@ -73578,7 +74550,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [
 			{
@@ -73681,6 +74660,7 @@
 		"id": "029",
 		"names": {
 			"en": "Omaha",
+			"code": "USS Omaha",
 			"cn": "奥马哈",
 			"jp": "オマハ",
 			"kr": "오마하"
@@ -73841,6 +74821,7 @@
 		"id": "030",
 		"names": {
 			"en": "Raleigh",
+			"code": "USS Raleigh",
 			"cn": "罗利",
 			"jp": "ローリー",
 			"kr": "롤리"
@@ -74001,6 +74982,7 @@
 		"id": "031",
 		"names": {
 			"en": "Brooklyn",
+			"code": "USS Brooklyn",
 			"cn": "布鲁克林",
 			"jp": "ブルックリン",
 			"kr": "브루클린"
@@ -74175,6 +75157,7 @@
 		"id": "032",
 		"names": {
 			"en": "Phoenix",
+			"code": "USS Phoenix",
 			"cn": "菲尼克斯",
 			"jp": "フェニックス",
 			"kr": "피닉스"
@@ -74344,6 +75327,7 @@
 		"id": "033",
 		"names": {
 			"en": "Helena",
+			"code": "USS Helena",
 			"cn": "海伦娜",
 			"jp": "ヘレナ",
 			"kr": "헬레나"
@@ -74558,6 +75542,7 @@
 		"id": "034",
 		"names": {
 			"en": "Atlanta",
+			"code": "USS Atlanta",
 			"cn": "亚特兰大",
 			"jp": "アトランタ",
 			"kr": "애틀란타"
@@ -74739,6 +75724,7 @@
 		"id": "035",
 		"names": {
 			"en": "Juneau",
+			"code": "USS Juneau",
 			"cn": "朱诺",
 			"jp": "ジュノー",
 			"kr": "쥬노"
@@ -74915,6 +75901,7 @@
 		"id": "036",
 		"names": {
 			"en": "San Diego",
+			"code": "USS San Diego",
 			"cn": "圣地亚哥",
 			"jp": "サンディエゴ",
 			"kr": "샌디에이고"
@@ -75145,6 +76132,7 @@
 		"id": "037",
 		"names": {
 			"en": "Cleveland",
+			"code": "USS Cleveland",
 			"cn": "克利夫兰",
 			"jp": "クリーブランド",
 			"kr": "클리블랜드"
@@ -75397,6 +76385,7 @@
 		"id": "038",
 		"names": {
 			"en": "Columbia",
+			"code": "USS Columbia",
 			"cn": "哥伦比亚",
 			"jp": "コロンビア",
 			"kr": "컬럼비아"
@@ -75529,7 +76518,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -75571,6 +76567,7 @@
 		"id": "039",
 		"names": {
 			"en": "Pensacola",
+			"code": "USS Pensacola",
 			"cn": "彭萨科拉",
 			"jp": "ペンサコーラ",
 			"kr": "펜사콜라"
@@ -75740,6 +76737,7 @@
 		"id": "040",
 		"names": {
 			"en": "Salt Lake City",
+			"code": "USS Salt Lake City",
 			"cn": "盐湖城",
 			"jp": "ソルトレイクシティ",
 			"kr": "솔트레이크시티"
@@ -75865,7 +76863,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -75902,6 +76907,7 @@
 		"id": "041",
 		"names": {
 			"en": "Northampton",
+			"code": "USS Northampton",
 			"cn": "北安普敦",
 			"jp": "ノーザンプトン",
 			"kr": "노샘프턴"
@@ -76071,6 +77077,7 @@
 		"id": "042",
 		"names": {
 			"en": "Chicago",
+			"code": "USS Chicago",
 			"cn": "芝加哥",
 			"jp": "シカゴ",
 			"kr": "시카고"
@@ -76240,6 +77247,7 @@
 		"id": "043",
 		"names": {
 			"en": "Houston",
+			"code": "USS Houston",
 			"cn": "休斯敦",
 			"jp": "ヒューストン",
 			"kr": "휴스턴"
@@ -76409,6 +77417,7 @@
 		"id": "044",
 		"names": {
 			"en": "Portland",
+			"code": "USS Portland",
 			"cn": "波特兰",
 			"jp": "ポートランド",
 			"kr": "포틀랜드"
@@ -76639,6 +77648,7 @@
 		"id": "045",
 		"names": {
 			"en": "Indianapolis",
+			"code": "USS Indianapolis",
 			"cn": "印第安纳波利斯",
 			"jp": "インディアナポリス",
 			"kr": "인디애나폴리스"
@@ -76834,6 +77844,7 @@
 		"id": "046",
 		"names": {
 			"en": "Astoria",
+			"code": "USS Astoria",
 			"cn": "阿斯托利亚",
 			"jp": "アストリア",
 			"kr": "아스토리아"
@@ -76966,7 +77977,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -77022,6 +78040,7 @@
 		"id": "047",
 		"names": {
 			"en": "Quincy",
+			"code": "USS Quincy",
 			"cn": "昆西",
 			"jp": "クインシー",
 			"kr": "퀸시"
@@ -77154,7 +78173,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -77210,6 +78236,7 @@
 		"id": "048",
 		"names": {
 			"en": "Vincennes",
+			"code": "USS Vincennes",
 			"cn": "文森斯",
 			"jp": "ヴィンセンス",
 			"kr": "빈센스"
@@ -77342,7 +78369,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -77412,6 +78446,7 @@
 		"id": "049",
 		"names": {
 			"en": "Wichita",
+			"code": "USS Wichita",
 			"cn": "威奇塔",
 			"jp": "ウィチタ",
 			"kr": "위치타"
@@ -77588,6 +78623,7 @@
 		"id": "050",
 		"names": {
 			"en": "Baltimore",
+			"code": "USS Baltimore",
 			"cn": "巴尔的摩",
 			"jp": "ボルチモア",
 			"kr": "볼티모어"
@@ -77780,6 +78816,7 @@
 		"id": "052",
 		"names": {
 			"en": "Nevada",
+			"code": "USS Nevada",
 			"cn": "内华达",
 			"jp": "ネバダ",
 			"kr": "네바다"
@@ -77989,6 +79026,7 @@
 		"id": "053",
 		"names": {
 			"en": "Oklahoma",
+			"code": "USS Oklahoma",
 			"cn": "俄克拉荷马",
 			"jp": "オクラホマ",
 			"kr": "오클라호마"
@@ -78198,6 +79236,7 @@
 		"id": "054",
 		"names": {
 			"en": "Pennsylvania",
+			"code": "USS Pennsylvania",
 			"cn": "宾夕法尼亚",
 			"jp": "ペンシルベニア",
 			"kr": "펜실베이니아"
@@ -78357,6 +79396,7 @@
 		"id": "055",
 		"names": {
 			"en": "Arizona",
+			"code": "USS Arizona",
 			"cn": "亚利桑那",
 			"jp": "アリゾナ",
 			"kr": "애리조나"
@@ -78516,6 +79556,7 @@
 		"id": "058",
 		"names": {
 			"en": "Tennessee",
+			"code": "USS Tennessee",
 			"cn": "田纳西",
 			"jp": "テネシー",
 			"kr": "테네시"
@@ -78678,6 +79719,7 @@
 		"id": "059",
 		"names": {
 			"en": "California",
+			"code": "USS California",
 			"cn": "加利福尼亚",
 			"jp": "カリフォルニア",
 			"kr": "캘리포니아"
@@ -78840,6 +79882,7 @@
 		"id": "060",
 		"names": {
 			"en": "Colorado",
+			"code": "USS Colorado",
 			"cn": "科罗拉多",
 			"jp": "コロラド",
 			"kr": "콜로라도"
@@ -79009,6 +80052,7 @@
 		"id": "061",
 		"names": {
 			"en": "Maryland",
+			"code": "USS Maryland",
 			"cn": "马里兰",
 			"jp": "メリーランド",
 			"kr": "메릴랜드"
@@ -79185,6 +80229,7 @@
 		"id": "062",
 		"names": {
 			"en": "West Virginia",
+			"code": "USS West Virginia",
 			"cn": "西弗吉尼亚",
 			"jp": "ウェストバージニア",
 			"kr": "웨스트버지니아"
@@ -79303,7 +80348,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -79347,6 +80399,7 @@
 		"id": "063",
 		"names": {
 			"en": "North Carolina",
+			"code": "USS North Carolina",
 			"cn": "北卡罗来纳",
 			"jp": "ノースカロライナ",
 			"kr": "노스캐롤라이나"
@@ -79472,7 +80525,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [
 			{
@@ -79514,6 +80574,7 @@
 		"id": "064",
 		"names": {
 			"en": "Washington",
+			"code": "USS Washington",
 			"cn": "华盛顿",
 			"jp": "ワシントン",
 			"kr": "워싱턴"
@@ -79696,6 +80757,7 @@
 		"id": "065",
 		"names": {
 			"en": "South Dakota",
+			"code": "USS South Dakota",
 			"cn": "南达科他",
 			"jp": "サウスダコタ",
 			"kr": "사우스다코타"
@@ -79821,7 +80883,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -79872,6 +80941,7 @@
 		"id": "070",
 		"names": {
 			"en": "Long Island",
+			"code": "USS Long Island",
 			"cn": "长岛",
 			"jp": "ロング・アイランド",
 			"kr": "롱 아일랜드"
@@ -80091,6 +81161,7 @@
 		"id": "071",
 		"names": {
 			"en": "Bogue",
+			"code": "USS Bogue",
 			"cn": "博格",
 			"jp": "ボーグ",
 			"kr": "보그"
@@ -80300,6 +81371,7 @@
 		"id": "072",
 		"names": {
 			"en": "Langley",
+			"code": "USS Langley",
 			"cn": "兰利",
 			"jp": "ラングレー",
 			"kr": "랭글리"
@@ -80509,6 +81581,7 @@
 		"id": "073",
 		"names": {
 			"en": "Lexington",
+			"code": "USS Lexington",
 			"cn": "列克星敦",
 			"jp": "レキシントン",
 			"kr": "렉싱턴"
@@ -80701,6 +81774,7 @@
 		"id": "074",
 		"names": {
 			"en": "Saratoga",
+			"code": "USS Saratoga",
 			"cn": "萨拉托加",
 			"jp": "サラトガ",
 			"kr": "새러토가"
@@ -80972,6 +82046,7 @@
 		"id": "075",
 		"names": {
 			"en": "Ranger",
+			"code": "USS Ranger",
 			"cn": "突击者",
 			"jp": "レンジャー",
 			"kr": "레인저"
@@ -81181,6 +82256,7 @@
 		"id": "076",
 		"names": {
 			"en": "Yorktown",
+			"code": "USS Yorktown",
 			"cn": "约克城",
 			"jp": "ヨークタウン",
 			"kr": "요크타운"
@@ -81393,6 +82469,7 @@
 		"id": "077",
 		"names": {
 			"en": "Enterprise",
+			"code": "USS Enterprise",
 			"cn": "企业",
 			"jp": "エンタープライズ",
 			"kr": "엔터프라이즈"
@@ -81660,6 +82737,7 @@
 		"id": "078",
 		"names": {
 			"en": "Hornet",
+			"code": "USS Hornet",
 			"cn": "大黄蜂",
 			"jp": "ホーネット",
 			"kr": "호넷"
@@ -81856,6 +82934,7 @@
 		"id": "079",
 		"names": {
 			"en": "Wasp",
+			"code": "USS Wasp",
 			"cn": "胡蜂",
 			"jp": "ワスプ",
 			"kr": "와스프"
@@ -81974,7 +83053,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Drop Only"
+			"construction_time": "Drop Only",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -82008,6 +83094,7 @@
 		"id": "080",
 		"names": {
 			"en": "Vestal",
+			"code": "USS Vestal",
 			"cn": "女灶神",
 			"jp": "ヴェスタル",
 			"kr": "베스탈"
@@ -82189,6 +83276,7 @@
 		"id": "081",
 		"names": {
 			"en": "Amazon",
+			"code": "HMS Amazon",
 			"cn": "女将",
 			"jp": "アマゾン",
 			"kr": "아마존"
@@ -82377,6 +83465,7 @@
 		"id": "082",
 		"names": {
 			"en": "Acasta",
+			"code": "HMS Acasta",
 			"cn": "阿卡司塔",
 			"jp": "アカスタ",
 			"kr": "아카스타"
@@ -82607,6 +83696,7 @@
 		"id": "083",
 		"names": {
 			"en": "Ardent",
+			"code": "HMS Ardent",
 			"cn": "热心",
 			"jp": "アーデント",
 			"kr": "아덴트"
@@ -82823,6 +83913,7 @@
 		"id": "086",
 		"names": {
 			"en": "Beagle",
+			"code": "HMS Beagle",
 			"cn": "小猎兔犬",
 			"jp": "ビーグル",
 			"kr": "비글"
@@ -82992,6 +84083,7 @@
 		"id": "087",
 		"names": {
 			"en": "Bulldog",
+			"code": "HMS Bulldog",
 			"cn": "大斗犬",
 			"jp": "ブルドッグ",
 			"kr": "불독"
@@ -83161,6 +84253,7 @@
 		"id": "088",
 		"names": {
 			"en": "Comet",
+			"code": "HMS Comet",
 			"cn": "彗星",
 			"jp": "コメット",
 			"kr": "코멧"
@@ -83377,6 +84470,7 @@
 		"id": "089",
 		"names": {
 			"en": "Crescent",
+			"code": "HMS Crescent",
 			"cn": "新月",
 			"jp": "クレセント",
 			"kr": "크레센트"
@@ -83593,6 +84687,7 @@
 		"id": "090",
 		"names": {
 			"en": "Cygnet",
+			"code": "HMS Cygnet",
 			"cn": "小天鹅",
 			"jp": "シグニット",
 			"kr": "시그넷"
@@ -83863,6 +84958,7 @@
 		"id": "091",
 		"names": {
 			"en": "Foxhound",
+			"code": "HMS Foxhound",
 			"cn": "狐提",
 			"jp": "フォックスハウンド",
 			"kr": "폭스하운드"
@@ -84076,6 +85172,7 @@
 		"id": "092",
 		"names": {
 			"en": "Fortune",
+			"code": "HMS Fortune",
 			"cn": "命运女神",
 			"jp": "フォーチュン",
 			"kr": "포춘"
@@ -84289,6 +85386,7 @@
 		"id": "093",
 		"names": {
 			"en": "Grenville",
+			"code": "HMS Grenville",
 			"cn": "格伦维尔",
 			"jp": "グレンヴィル",
 			"kr": "그렌빌"
@@ -84462,6 +85560,7 @@
 		"id": "094",
 		"names": {
 			"en": "Glowworm",
+			"code": "HMS Glowworm",
 			"cn": "萤火虫",
 			"jp": "グローウォーム",
 			"kr": "글로우웜"
@@ -84643,6 +85742,7 @@
 		"id": "096",
 		"names": {
 			"en": "Hardy",
+			"code": "HMS Hardy",
 			"cn": "勇敢",
 			"jp": "ハーディ",
 			"kr": "하디"
@@ -84816,6 +85916,7 @@
 		"id": "Plan001",
 		"names": {
 			"en": "HMS Neptune",
+			"code": "HMS Neptune",
 			"cn": "海王星",
 			"jp": "ネプチューン",
 			"kr": "넵튠"
@@ -84983,6 +86084,7 @@
 		"id": "Plan002",
 		"names": {
 			"en": "Monarch",
+			"code": "HMS Monarch",
 			"cn": "君主",
 			"jp": "モナーク",
 			"kr": "모나크"
@@ -85183,6 +86285,7 @@
 		"id": "Plan003",
 		"names": {
 			"en": "Ibuki",
+			"code": "IJN Ibuki",
 			"cn": "伊吹",
 			"jp": "伊吹",
 			"kr": "이부키"
@@ -85387,6 +86490,7 @@
 		"id": "Plan004",
 		"names": {
 			"en": "Izumo",
+			"code": "IJN Izumo",
 			"cn": "出云",
 			"jp": "出雲",
 			"kr": "이즈모"
@@ -85570,6 +86674,7 @@
 		"id": "Plan005",
 		"names": {
 			"en": "Roon",
+			"code": "KMS Roon",
 			"cn": "罗恩",
 			"jp": "ローン",
 			"kr": "론"
@@ -85751,6 +86856,7 @@
 		"id": "Plan006",
 		"names": {
 			"en": "Saint Louis",
+			"code": "FFNF Saint Louis",
 			"cn": "路易九世",
 			"jp": "サン・ルイ",
 			"kr": "생 루이"
@@ -85918,6 +87024,7 @@
 		"id": "Plan007",
 		"names": {
 			"en": "Seattle",
+			"code": "USS Seattle",
 			"cn": "西雅图",
 			"jp": "シアトル",
 			"kr": "시애틀"
@@ -86112,6 +87219,7 @@
 		"id": "Plan008",
 		"names": {
 			"en": "Georgia",
+			"code": "USS Georgia",
 			"cn": "佐治亚",
 			"jp": "ジョージア",
 			"kr": "조지아"
@@ -86309,6 +87417,7 @@
 		"id": "Plan009",
 		"names": {
 			"en": "Kitakaze",
+			"code": "IJN Kitakaze",
 			"cn": "北风",
 			"jp": "北風",
 			"kr": "키타카제"
@@ -86487,6 +87596,7 @@
 		"id": "Plan010",
 		"names": {
 			"en": "Azuma",
+			"code": "IJN Azuma",
 			"cn": "吾妻",
 			"jp": "吾妻",
 			"kr": "아즈마"
@@ -86654,6 +87764,7 @@
 		"id": "Plan011",
 		"names": {
 			"en": "Friedrich der Grosse",
+			"code": "KMS Friedrich der Grosse",
 			"cn": "腓特烈大帝",
 			"jp": "フリードリヒ・デア・グローセ",
 			"kr": "프리드리히 데어 그로세"
@@ -86817,6 +87928,7 @@
 		"id": "Plan012",
 		"names": {
 			"en": "Gascogne",
+			"code": "MNF Gascogne",
 			"cn": "加斯科涅",
 			"jp": "ガスコーニュ",
 			"kr": "가스코뉴"
@@ -87007,6 +88119,7 @@
 		"id": "Collab001",
 		"names": {
 			"en": "HDN Neptune",
+			"code": "HDN Neptune",
 			"cn": "涅普顿",
 			"jp": "ネプテューヌ",
 			"kr": "넵튠"
@@ -87125,7 +88238,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -87156,6 +88276,7 @@
 		"id": "Collab002",
 		"names": {
 			"en": "Noire",
+			"code": "HDN Noire",
 			"cn": "诺瓦露",
 			"jp": "ノワール",
 			"kr": "느와르"
@@ -87312,6 +88433,7 @@
 		"id": "Collab003",
 		"names": {
 			"en": "Blanc",
+			"code": "HDN Blanc",
 			"cn": "布兰",
 			"jp": "ブラン",
 			"kr": "블랑"
@@ -87468,6 +88590,7 @@
 		"id": "Collab004",
 		"names": {
 			"en": "Vert",
+			"code": "HDN Vert",
 			"cn": "贝露",
 			"jp": "ベール",
 			"kr": "벨"
@@ -87586,7 +88709,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -87617,6 +88747,7 @@
 		"id": "Collab005",
 		"names": {
 			"en": "Purple Heart",
+			"code": "HDN Purple Heart",
 			"cn": "绀紫之心",
 			"jp": "パープルハート",
 			"kr": "퍼플 하트"
@@ -87801,6 +88932,7 @@
 		"id": "Collab006",
 		"names": {
 			"en": "Black Heart",
+			"code": "HDN Black Heart",
 			"cn": "圣黑之心",
 			"jp": "ブラックハート",
 			"kr": "블랙 하트"
@@ -87978,6 +89110,7 @@
 		"id": "Collab007",
 		"names": {
 			"en": "White Heart",
+			"code": "HDN White Heart",
 			"cn": "群白之心",
 			"jp": "ホワイトハート",
 			"kr": "화이트 하트"
@@ -88155,6 +89288,7 @@
 		"id": "Collab008",
 		"names": {
 			"en": "Green Heart",
+			"code": "HDN Green Heart",
 			"cn": "翡绿之心",
 			"jp": "グリーンハート",
 			"kr": "그린 하트"
@@ -88332,6 +89466,7 @@
 		"id": "Collab021",
 		"names": {
 			"en": "22",
+			"code": "22",
 			"cn": "22",
 			"jp": null,
 			"kr": null
@@ -88457,7 +89592,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -88494,6 +89636,7 @@
 		"id": "Collab022",
 		"names": {
 			"en": "33",
+			"code": "33",
 			"cn": "33",
 			"jp": null,
 			"kr": null
@@ -88619,7 +89762,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": true
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -88656,6 +89806,7 @@
 		"id": "Collab031",
 		"names": {
 			"en": "Kuon",
+			"code": "Kuon",
 			"cn": "久远",
 			"jp": "クオン",
 			"kr": "쿠온"
@@ -88833,6 +89984,7 @@
 		"id": "Collab032",
 		"names": {
 			"en": "Nekone",
+			"code": "Nekone",
 			"cn": "猫音",
 			"jp": "ネコネ",
 			"kr": "네코네"
@@ -89010,6 +90162,7 @@
 		"id": "Collab033",
 		"names": {
 			"en": "Rurutie",
+			"code": "Rurutie",
 			"cn": "露露缇耶",
 			"jp": "ルルティエ",
 			"kr": "루루티에"
@@ -89187,6 +90340,7 @@
 		"id": "Collab034",
 		"names": {
 			"en": "Uruuru",
+			"code": "Uruuru",
 			"cn": "乌璐露",
 			"jp": "ウルゥル",
 			"kr": "우루루"
@@ -89364,6 +90518,7 @@
 		"id": "Collab035",
 		"names": {
 			"en": "Saraana",
+			"code": "Saraana",
 			"cn": "萨拉娜",
 			"jp": "サラァナ",
 			"kr": "사라나"
@@ -89489,7 +90644,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -89534,6 +90696,7 @@
 		"id": "Collab036",
 		"names": {
 			"en": "Fumiruiru",
+			"code": "Fumiruiru",
 			"cn": "芙米露露",
 			"jp": "フミルィル",
 			"kr": "후미뤼르"
@@ -89659,7 +90822,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -89704,6 +90874,7 @@
 		"id": "Collab041",
 		"names": {
 			"en": "Kizuna AI",
+			"code": "Kizuna AI",
 			"cn": "绊爱",
 			"jp": "キズナアイ",
 			"kr": "키즈나 아이"
@@ -89829,7 +91000,14 @@
 			}
 		],
 		"construction": {
-			"available_in": "Cannot Be Constructed"
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
 		},
 		"gallery": [],
 		"misc": {
@@ -89880,6 +91058,7 @@
 		"id": "Collab042",
 		"names": {
 			"en": "Elegant Kizuna AI",
+			"code": "Elegant Kizuna AI",
 			"cn": "绊爱·Elegant",
 			"jp": "キズナアイ・エレガント",
 			"kr": "키즈나 아이 - 엘레강트"
@@ -90049,6 +91228,7 @@
 		"id": "Collab043",
 		"names": {
 			"en": "Anniversary Kizuna AI",
+			"code": "Anniversary Kizuna AI",
 			"cn": "绊爱·Anniversary",
 			"jp": "キズナアイ・アニバーサリー",
 			"kr": "키즈나 아이 - 애니버서리"
@@ -90218,6 +91398,7 @@
 		"id": "Collab044",
 		"names": {
 			"en": "Super Gamer Kizuna AI",
+			"code": "Super Gamer Kizuna AI",
 			"cn": "绊爱·SuperGamer",
 			"jp": "キズナアイ・スーパーゲーマー",
 			"kr": "키즈나 아이 - 슈퍼 게이머"
@@ -90387,6 +91568,7 @@
 		"id": "Collab051",
 		"names": {
 			"en": "Shirakami Fubuki",
+			"code": "Shirakami Fubuki",
 			"cn": "白上吹雪",
 			"jp": "白上フブキ",
 			"kr": null
@@ -90564,6 +91746,7 @@
 		"id": "Collab052",
 		"names": {
 			"en": "Tokino Sora",
+			"code": "Tokino Sora",
 			"cn": "时乃空",
 			"jp": "ときのそら",
 			"kr": null
@@ -90744,6 +91927,7 @@
 		"id": "Collab053",
 		"names": {
 			"en": "Minato Aqua",
+			"code": "Minato Aqua",
 			"cn": "湊阿库娅",
 			"jp": "湊あくあ",
 			"kr": null
@@ -91126,6 +92310,7 @@
 		"id": "Collab054",
 		"names": {
 			"en": "Natsuiro Matsuri",
+			"code": "Natsuiro Matsuri",
 			"cn": "夏色祭",
 			"jp": "夏色まつり",
 			"kr": null
@@ -91300,6 +92485,7 @@
 		"id": "Collab055",
 		"names": {
 			"en": "Nakiri Ayame",
+			"code": "Nakiri Ayame",
 			"cn": "百鬼绫目",
 			"jp": "百鬼あやめ",
 			"kr": null
@@ -91474,6 +92660,7 @@
 		"id": "Collab056",
 		"names": {
 			"en": "Murasaki Shion",
+			"code": "Murasaki Shion",
 			"cn": "紫咲诗音",
 			"jp": "紫咲シオン",
 			"kr": null
@@ -91654,6 +92841,7 @@
 		"id": "Collab057",
 		"names": {
 			"en": "Ookami Mio",
+			"code": "Ookami Mio",
 			"cn": "大神澪",
 			"jp": "大神ミオ",
 			"kr": null

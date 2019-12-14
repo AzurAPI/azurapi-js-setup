@@ -54,11 +54,13 @@ async function refreshShips(online) {
     let keys = Object.keys(SHIP_LIST);
     for (key of keys) {
         let ship = await refreshShip(key, online);
-        SHIPS_INTERNAL[key] = ship;
         shipCounter++;
         if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
+        if (!ship) continue;
+        SHIPS_INTERNAL[key] = ship;
         fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
     }
+    console.log("\nDone");
 }
 
 async function refreshImages(overwrite) {
@@ -81,10 +83,10 @@ async function refreshImages(overwrite) {
                 await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
             process.stdout.write("-");
             for (let skin of ship.skins) {
-                let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, ''));
+                let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
                 if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
-                let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image');
-                let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi');
+                let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_");
+                let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_");
                 if (skin.image !== null && (!fs.existsSync(image_path) || overwrite))
                     await fetchImage(skin.image, image_path);
                 process.stdout.write(".");
@@ -153,6 +155,16 @@ async function refreshEquipments(online) {
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
+async function refreshChapter(online) {
+    for (let i = 1; i <= 13; i++) {
+        let data;
+        process.stdout.write("Refreshing Chapter " + a + " Details");
+        if (!fs.existsSync('./web/equipments/equipment_list.html') || online) fs.writeFileSync('./web/equipments/equipment_list.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
+        else data = fs.readFileSync('./web/equipments/equipment_list.html', 'utf8');
+        process.stdout.write(" Loaded\n");
+    }
+}
+
 function publish() {
     console.log("** WARNING, the program will publish the current ships.internal.json!");
     console.log(`SHIPS_INTERNAL.length = ${SHIPS_INTERNAL.length}\nSHIPS.length = ${SHIPS.length}`);
@@ -200,7 +212,7 @@ async function refreshShip(id, online) {
         return await fetchShip(SHIP_LIST[id].name, online);
     } else {
         process.stdout.write("-");
-        return SHIPS_INTERNAL[id];
+        return false;
     }
 }
 
@@ -275,12 +287,17 @@ async function fetchEquipment(href, name, category, online) {
 // Parse ship page html body, need a name
 function parseShip(name, body) {
     const doc = new JSDOM(body).window.document;
+    let code;
+    if (doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)")) {
+        code = doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)").childNodes[0].textContent.trim();
+        code = code.substring(0, code.lastIndexOf(" "))
+    } else code = doc.querySelector(".nomobile:nth-child(2) > div > div:nth-child(1)").textContent;
     let ship = {
         wikiUrl: "https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_"),
         id: doc.querySelector('div:nth-child(4) > .wikitable:nth-child(1) tr:nth-child(1) > td').textContent.trim(),
         names: {
             en: doc.querySelector('#firstHeading').textContent,
-            code: doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)").childNodes[0].textContent,
+            code: code,
             cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
             jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
             kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
@@ -291,20 +308,17 @@ function parseShip(name, body) {
     }
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) { // Unreleased
         let images = doc.getElementsByTagName("img");
-        ship.unreleased = true,
-            ship.names = {
-                en: doc.querySelector('#firstHeading').textContent,
-                cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
-                jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
-                kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
-            };
+        ship.unreleased = true;
         ship.thumbnail = "https://azurlane.koumakan.jp" + images[1].getAttribute("src");
         ship.skins = [{
             name: name,
             image: "https://azurlane.koumakan.jp" + doc.querySelector(".tabbertab .image > img").getAttribute("src"),
-            background: null,
+            background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
             chibi: doc.querySelector("td > div > div:nth-child(2) img") ? "https://azurlane.koumakan.jp" + doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
-            info: null
+            "info": {
+                "Obtained From": "Default",
+                "Live2D Model": "No"
+            }
         }];
         ship.rarity = "Unreleased";
         return ship;
@@ -456,12 +470,9 @@ function parseShipConstruction(construction_tbody) {
         else value = value === '✓';
         available[construction_types[i]] = value;
     }
-    if (construction_time !== "Drop Only" && construction_time !== "Cannot Be Constructed") return {
+    return {
         construction_time: construction_time,
         available_in: available
-    };
-    else return {
-        available_in: construction_time
     };
 }
 
