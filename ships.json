@@ -70666,20 +70666,57 @@
 		"nationality": "Sakura Empire",
 		"hullType": "Heavy Cruiser",
 		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/62/ToneIcon.png",
+		"thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9001/thumbnail.png",
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/d/d4/Tone.png",
-				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": "https://azurlane.koumakan.jp/w/images/7/7d/ToneChibi.png",
+				"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9001/Default/image.png",
+				"background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+				"chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9001/Default/chibi.png",
 				"info": {
 					"Obtained From": "Default",
 					"Live2D Model": "No"
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9002": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Chikuma",
@@ -70695,20 +70732,57 @@
 		"nationality": "Sakura Empire",
 		"hullType": "Heavy Cruiser",
 		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
+		"thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9002/thumbnail.png",
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/d/d6/Chikuma.png",
-				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": "https://azurlane.koumakan.jp/w/images/8/8a/ChikumaChibi.png",
+				"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9002/Default/image.png",
+				"background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+				"chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9002/Default/chibi.png",
 				"info": {
 					"Obtained From": "Default",
 					"Live2D Model": "No"
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9003": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Jeanne_d'Arc",
@@ -70724,20 +70798,57 @@
 		"nationality": "Iris Libre",
 		"hullType": "Light Cruiser",
 		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
+		"thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9003/thumbnail.png",
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c5/Jeanne_d%27Arc.png/1123px-Jeanne_d%27Arc.png",
-				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": null,
+				"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9003/Default/image.png",
+				"background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+				"chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9003/Default/chibi.png",
 				"info": {
 					"Obtained From": "Default",
 					"Live2D Model": "No"
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9004": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Richelieu",
@@ -70753,20 +70864,57 @@
 		"nationality": "Iris Libre",
 		"hullType": "Battleship",
 		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
+		"thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9004/thumbnail.png",
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/86/Richelieu.png/1254px-Richelieu.png",
-				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": null,
+				"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9004/Default/image.png",
+				"background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+				"chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9004/Default/chibi.png",
 				"info": {
 					"Obtained From": "Default",
 					"Live2D Model": "No"
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9006": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Pola",
@@ -70782,9 +70930,46 @@
 		"nationality": "Sardegna Empire",
 		"hullType": "Heavy Cruiser",
 		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/de/PolaIcon.png",
+		"thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9006/thumbnail.png",
 		"skins": [],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9007": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Vittorio_Veneto",
@@ -70800,9 +70985,46 @@
 		"nationality": "Sardegna Empire",
 		"hullType": "Battleship",
 		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
+		"thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9007/thumbnail.png",
 		"skins": [],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Universal_Bullin",

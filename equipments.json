@@ -17,7 +17,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/8/82/7320.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_130mm_Mle_1932.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -111,7 +111,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/9e/21000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_102mm_QF_Mk_V.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -193,7 +193,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/9e/21000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_102mm_QF_Mk_V.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -275,7 +275,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/9e/21000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_102mm_QF_Mk_V.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -369,7 +369,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3f/21300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_120mm_QF_Mark_IX.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -451,7 +451,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3f/21300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_120mm_QF_Mark_IX.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -533,7 +533,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3f/21300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_120mm_QF_Mark_IX.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -627,7 +627,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/53/31100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_120mm_Type_3.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -709,7 +709,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/53/31100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_120mm_Type_3.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -791,7 +791,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/53/31100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_120mm_Type_3.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -885,7 +885,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/cd/11100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_127mm_538_Mk_30.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -967,7 +967,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/cd/11100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_127mm_538_Mk_30.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -1049,7 +1049,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/cd/11100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_127mm_538_Mk_30.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -1143,7 +1143,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/3/33/41000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_127mm_SK_C34.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -1225,7 +1225,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/3/33/41000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_127mm_SK_C34.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -1307,7 +1307,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/3/33/41000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_127mm_SK_C34.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -1401,7 +1401,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/7/79/50000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_130mm_Mle_1924.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -1483,7 +1483,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/7/79/50000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_130mm_Mle_1924.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -1577,7 +1577,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/b/bc/50100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_1386mm_Mle_1929.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -1659,7 +1659,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/b/bc/50100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_1386mm_Mle_1929.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -1741,7 +1741,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/b/bc/50100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_1386mm_Mle_1929.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -1835,7 +1835,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/e/eb/11000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_76mm_350_caliber_gun.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -1917,7 +1917,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/e/eb/11000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_76mm_350_caliber_gun.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -1999,7 +1999,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/e/eb/11000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_76mm_350_caliber_gun.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -2093,7 +2093,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/67/21200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_102mm_BL_4_Mk_IX.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -2175,7 +2175,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/67/21200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_102mm_BL_4_Mk_IX.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -2257,7 +2257,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/67/21200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_102mm_BL_4_Mk_IX.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -2351,7 +2351,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/3d/31000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_100mm_Type_98.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -2433,7 +2433,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/3d/31000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_100mm_Type_98.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -2515,7 +2515,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/3d/31000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_100mm_Type_98.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -2609,7 +2609,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/39/21100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_102mm_QF_Mk_XVI.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -2691,7 +2691,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/39/21100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_102mm_QF_Mk_XVI.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -2773,7 +2773,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/39/21100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_102mm_QF_Mk_XVI.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -2867,7 +2867,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/e/e4/55460.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_Model_1933.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -2961,7 +2961,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/3/30/55400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_Model_1936.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -3043,7 +3043,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/3/30/55400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_Model_1936.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -3125,7 +3125,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/3/30/55400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_Model_1936.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -3219,7 +3219,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/40/21400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_QF_Mark_XII.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -3301,7 +3301,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/40/21400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_QF_Mark_XII.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -3383,7 +3383,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/40/21400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_120mm_QF_Mark_XII.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -3477,7 +3477,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/90/11200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_538_Mk_38.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -3559,7 +3559,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/90/11200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_538_Mk_38.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -3641,7 +3641,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/90/11200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_538_Mk_38.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -3735,7 +3735,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/a/a7/31200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_Type_3.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -3817,7 +3817,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/a/a7/31200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_Type_3.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -3899,7 +3899,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/a/a7/31200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_Type_3.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -3993,7 +3993,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/a/a1/41100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_128mm_SK_C41.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -4075,7 +4075,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/a/a1/41100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_128mm_SK_C41.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -4157,7 +4157,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/a/a1/41100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_128mm_SK_C41.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -4251,7 +4251,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/bf/21500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_134mm_QF_Mark_II.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -4333,7 +4333,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/bf/21500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_134mm_QF_Mark_II.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -4415,7 +4415,7 @@
 						"name": "DD Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/bf/21500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_134mm_QF_Mark_II.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -4511,7 +4511,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/63/32000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_140mm_3rd_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -4593,7 +4593,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/63/32000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_140mm_3rd_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -4675,7 +4675,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/63/32000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_140mm_3rd_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -4769,7 +4769,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/8/86/42000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_150mm_SK_C28.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -4851,7 +4851,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/8/86/42000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_150mm_SK_C28.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -4933,7 +4933,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/8/86/42000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_150mm_SK_C28.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -5027,7 +5027,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "North Union",
-					"image": "/w/images/c/c0/7000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_152mm_645_Pattern_1892.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -5109,7 +5109,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "North Union",
-					"image": "/w/images/c/c0/7000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_152mm_645_Pattern_1892.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -5203,7 +5203,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/7/72/22000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_152mm_BL_6_Mk_XII.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -5285,7 +5285,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/7/72/22000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_152mm_BL_6_Mk_XII.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -5367,7 +5367,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/7/72/22000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_152mm_BL_6_Mk_XII.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -5461,7 +5461,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/9f/42100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_150mm_SK_C25.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -5543,7 +5543,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/9f/42100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_150mm_SK_C25.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -5625,7 +5625,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/9f/42100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_150mm_SK_C25.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -5719,7 +5719,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c0/12100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_647_Mk_16.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -5801,7 +5801,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c0/12100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_647_Mk_16.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -5883,7 +5883,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c0/12100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_647_Mk_16.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -5977,7 +5977,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/b/b3/12200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_647_Mk_17_DP_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -6071,7 +6071,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/5e/22260.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_BL_6_Mk_XXV_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -6165,7 +6165,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/8/83/50200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_Mle_1930.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -6247,7 +6247,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/8/83/50200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_152mm_Mle_1930.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -6341,7 +6341,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/04/32200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_155mm_3rd_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -6423,7 +6423,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/04/32200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_155mm_3rd_Year_Type.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -6505,7 +6505,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/04/32200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_155mm_3rd_Year_Type.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -6599,7 +6599,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/86/32100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_140mm_3rd_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -6681,7 +6681,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/86/32100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_140mm_3rd_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -6763,7 +6763,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/86/32100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_140mm_3rd_Year_Type.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -6857,7 +6857,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/4/48/42200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_150mm_TbtsK_C36.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -6939,7 +6939,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/4/48/42200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_150mm_TbtsK_C36.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -7021,7 +7021,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/4/48/42200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_150mm_TbtsK_C36.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -7115,7 +7115,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/37/32300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_41st_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -7197,7 +7197,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/37/32300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_41st_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -7279,7 +7279,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/37/32300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_41st_Year_Type.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -7373,7 +7373,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d5/12000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_653_Mk_18.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -7455,7 +7455,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d5/12000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_653_Mk_18.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -7537,7 +7537,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d5/12000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_653_Mk_18.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -7631,7 +7631,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/a/a7/22100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_BL_6_Mk_XXII.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -7713,7 +7713,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/a/a7/22100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_BL_6_Mk_XXII.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -7795,7 +7795,7 @@
 						"name": "CL Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/a/a7/22100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_152mm_BL_6_Mk_XXII.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -7891,7 +7891,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d9/13100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_855_Mk_15.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -7973,7 +7973,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d9/13100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_855_Mk_15.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -8055,7 +8055,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d9/13100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_855_Mk_15.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -8149,7 +8149,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/04/13000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_855_Mk_9.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -8231,7 +8231,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/04/13000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_855_Mk_9.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -8313,7 +8313,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/04/13000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_855_Mk_9.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -8407,7 +8407,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/9/94/7300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_Mle_1934_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -8501,7 +8501,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/8/83/43060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_203mm_SK_C34_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -8595,7 +8595,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C28.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -8675,7 +8675,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C28.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -8755,7 +8755,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C28.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -8847,7 +8847,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/62/33100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_310mm_Type_0_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -8939,7 +8939,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/01/33060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_3rd_Year_Type_No_3_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -9033,7 +9033,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d0/33000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_3rd_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -9115,7 +9115,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d0/33000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_3rd_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -9197,7 +9197,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d0/33000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_3rd_Year_Type.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -9291,7 +9291,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/58/23000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_BL_8_Mk_VIII.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -9373,7 +9373,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/58/23000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_BL_8_Mk_VIII.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -9455,7 +9455,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/58/23000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_BL_8_Mk_VIII.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -9549,7 +9549,7 @@
 						"name": "SS Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/d/dc/7340.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_Mle_1924_Submarinemount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -9641,7 +9641,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/b/bc/55200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_Model_1927.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -9723,7 +9723,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/b/bc/55200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_Model_1927.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -9805,7 +9805,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/b/bc/55200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_Model_1927.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -9899,7 +9899,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/2/2f/43000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_SK_C34.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -9981,7 +9981,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/2/2f/43000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_SK_C34.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -10063,7 +10063,7 @@
 						"name": "CA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/2/2f/43000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_203mm_SK_C34.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -10159,7 +10159,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C28.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -10239,7 +10239,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C28.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -10319,7 +10319,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C28.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -10411,7 +10411,7 @@
 						"name": "CB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/62/33100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_310mm_Type_0_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -10505,7 +10505,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/d/df/50300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_330mm_Mle_1931.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -10587,7 +10587,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/d/df/50300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_330mm_Mle_1931.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -10669,7 +10669,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/d/df/50300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_330mm_Mle_1931.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -10763,7 +10763,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2d/24000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_356mm_BL_14_Mk_VII.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -10845,7 +10845,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2d/24000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_356mm_BL_14_Mk_VII.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -10927,7 +10927,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2d/24000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_356mm_BL_14_Mk_VII.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -11021,7 +11021,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/b/bf/50400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_380mm_Mle_1935.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -11103,7 +11103,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/b/bf/50400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_380mm_Mle_1935.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -11185,7 +11185,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Vichya Dominion",
-					"image": "/w/images/b/bf/50400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_380mm_Mle_1935.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -11279,7 +11279,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C34.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -11361,7 +11361,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C34.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -11443,7 +11443,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/9/99/43100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_283mm_SK_C34.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -11537,7 +11537,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/5/5b/55480.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_320mm_Model_1934.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -11631,7 +11631,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c9/14100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_356mm_1450_Mk_11.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -11713,7 +11713,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c9/14100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_356mm_1450_Mk_11.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -11795,7 +11795,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c9/14100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_356mm_1450_Mk_11.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -11889,7 +11889,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/7/78/24160.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_381mm_BL_15_Mk_III_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -11983,7 +11983,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/6/6d/55000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_381mm_Model_1934.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -12065,7 +12065,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/6/6d/55000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_381mm_Model_1934.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -12147,7 +12147,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/6/6d/55000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_381mm_Model_1934.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -12241,7 +12241,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9b/14300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_406mm_1645_Mk_6.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -12323,7 +12323,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9b/14300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_406mm_1645_Mk_6.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -12405,7 +12405,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9b/14300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_406mm_1645_Mk_6.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -12499,7 +12499,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/f/fc/24200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_406mm_BL_16_Mk_I.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -12581,7 +12581,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/f/fc/24200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_406mm_BL_16_Mk_I.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -12663,7 +12663,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/f/fc/24200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_406mm_BL_16_Mk_I.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -12757,7 +12757,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/83/34180.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_410mm_10th_Year_Type_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -12851,7 +12851,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/11/30000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_305mm_41st_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -12945,7 +12945,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/c/cf/34000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_356mm_41st_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -13027,7 +13027,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/c/cf/34000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_356mm_41st_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -13109,7 +13109,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/c/cf/34000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_356mm_41st_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -13203,7 +13203,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/c2/44100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_380mm_SK_C34.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -13285,7 +13285,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/c2/44100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_380mm_SK_C34.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -13367,7 +13367,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/c2/44100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_380mm_SK_C34.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -13461,7 +13461,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3d/24100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_381mm_BL_15_Mk_I.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -13543,7 +13543,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3d/24100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_381mm_BL_15_Mk_I.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -13625,7 +13625,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3d/24100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_381mm_BL_15_Mk_I.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -13719,7 +13719,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/b7/24300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_381mm_BL_15_Mk_II.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -13813,7 +13813,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c6/14200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_406mm_1645_Mk_5.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -13895,7 +13895,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c6/14200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_406mm_1645_Mk_5.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -13977,7 +13977,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c6/14200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_406mm_1645_Mk_5.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -14071,7 +14071,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/8/8a/44200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_406mm_SK_C34_Prototype.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -14165,7 +14165,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d8/34100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_410mm_3rd_Year_Type.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -14247,7 +14247,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d8/34100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_410mm_3rd_Year_Type.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -14329,7 +14329,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d8/34100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_410mm_3rd_Year_Type.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -14423,7 +14423,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/d/d8/34100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_410mm_Type_3_Shell.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -14517,7 +14517,7 @@
 						"name": "BB Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/3/3a/14500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_457mm_Mark_A_Prototype.png",
 					"rarity": "Ultra Rare",
 					"stars": {
 						"stars": "★★★★★★",
@@ -14613,7 +14613,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/5/51/45100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quadruple_Homing_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -14680,7 +14680,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/5/51/45100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quadruple_Homing_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -14747,7 +14747,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/5/51/45100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quadruple_Homing_Torpedo_Mount.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -14826,7 +14826,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/5a/5100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quadruple_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -14893,7 +14893,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/5a/5100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quadruple_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -14960,7 +14960,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/5a/5100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quadruple_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -15039,7 +15039,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/7/7b/45200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quintuple_Homing_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -15106,7 +15106,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/7/7b/45200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quintuple_Homing_Torpedo_Mount.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -15173,7 +15173,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/7/7b/45200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quintuple_Homing_Torpedo_Mount.png",
 					"rarity": "Ultra Rare",
 					"stars": {
 						"stars": "★★★★★★",
@@ -15252,7 +15252,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b3/5200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quintuple_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -15319,7 +15319,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b3/5200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quintuple_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -15386,7 +15386,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b3/5200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Quintuple_Torpedo_Mount.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -15465,7 +15465,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/1/1e/45000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Triple_Homing_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -15532,7 +15532,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/1/1e/45000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Triple_Homing_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -15599,7 +15599,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/1/1e/45000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Triple_Homing_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -15678,7 +15678,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/7/7c/5000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Triple_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -15745,7 +15745,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/7/7c/5000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Triple_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -15812,7 +15812,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/7/7c/5000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/533mm_Triple_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -15891,7 +15891,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/9/98/5400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/550mm_Triple_Torpedo_Launcher.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -15958,7 +15958,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/9/98/5400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/550mm_Triple_Torpedo_Launcher.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -16037,7 +16037,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/a/a2/5300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/550mm_Twin_Torpedo_Launcher.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -16104,7 +16104,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/a/a2/5300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/550mm_Twin_Torpedo_Launcher.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -16183,7 +16183,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/14/35200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Quadruple_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -16250,7 +16250,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/14/35200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Quadruple_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -16317,7 +16317,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/14/35200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Quadruple_Torpedo_Mount.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -16396,7 +16396,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/bd/35100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Triple_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -16463,7 +16463,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/bd/35100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Triple_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -16530,7 +16530,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/bd/35100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Triple_Torpedo_Mount.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -16609,7 +16609,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/82/35000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Twin_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -16676,7 +16676,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/82/35000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Twin_Torpedo_Mount.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -16743,7 +16743,7 @@
 						"name": "Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/82/35000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/610mm_Twin_Torpedo_Mount.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -16824,7 +16824,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/e/ec/5500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_550mm_24V_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -16903,7 +16903,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/cc/45300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_G7a_Torpedo.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -16970,7 +16970,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/cc/45300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_G7a_Torpedo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -17037,7 +17037,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/cc/45300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_G7a_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -17116,7 +17116,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/6/6b/45400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_G7e_Acoustic_Homing_Torpedo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -17183,7 +17183,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/6/6b/45400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_G7e_Acoustic_Homing_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -17250,7 +17250,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/6/6b/45400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_G7e_Acoustic_Homing_Torpedo.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -17329,7 +17329,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/e/e7/15000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Mark_14_Torpedo.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -17396,7 +17396,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/e/e7/15000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Mark_14_Torpedo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -17463,7 +17463,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/e/e7/15000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Mark_14_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -17542,7 +17542,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/b/bd/15100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Mark_16_Torpedo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -17609,7 +17609,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/b/bd/15100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Mark_16_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -17676,7 +17676,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/b/bd/15100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Mark_16_Torpedo.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -17755,7 +17755,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/c/ce/35400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Type_92_Batterypowered_Torpedo.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -17822,7 +17822,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/c/ce/35400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Type_92_Batterypowered_Torpedo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -17889,7 +17889,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/c/ce/35400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Type_92_Batterypowered_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -17968,7 +17968,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/7/70/35500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Type_95_Oxygen_Torpedo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -18035,7 +18035,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/7/70/35500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Type_95_Oxygen_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -18102,7 +18102,7 @@
 						"name": "Submarine Torpedo"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/7/70/35500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Submarinemounted_Type_95_Oxygen_Torpedo.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -18183,7 +18183,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/6e/17000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Brewster_F2A_Buffalo.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -18250,7 +18250,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/6e/17000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Brewster_F2A_Buffalo.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -18317,7 +18317,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/6e/17000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Brewster_F2A_Buffalo.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -18396,7 +18396,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/08/17060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Brewster_F2A_Buffalo_Thach_Squadron.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -18475,7 +18475,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/97/27200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gloster_Sea_Gladiator.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -18542,7 +18542,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/97/27200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gloster_Sea_Gladiator.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -18609,7 +18609,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/97/27200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gloster_Sea_Gladiator.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -18688,7 +18688,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/62/17100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_F4F_Wildcat.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -18755,7 +18755,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/62/17100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_F4F_Wildcat.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -18822,7 +18822,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/62/17100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_F4F_Wildcat.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -18901,7 +18901,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/0d/17300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_F6F_Hellcat.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -18978,7 +18978,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/0d/17300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_F6F_Hellcat.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -19055,7 +19055,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/0d/17300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_F6F_Hellcat.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -19144,7 +19144,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c3/17400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_XF5F_Skyrocket.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -19227,7 +19227,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/d/da/27300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Hawker_Sea_Fury.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -19312,7 +19312,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/f/f9/47000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Messerschmitt_BF109T.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -19383,7 +19383,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/f/f9/47000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Messerschmitt_BF109T.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -19454,7 +19454,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/f/f9/47000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Messerschmitt_BF109T.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -19537,7 +19537,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/f/f9/47100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Messerschmitt_Me155A.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -19608,7 +19608,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/f/f9/47100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Messerschmitt_Me155A.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -19679,7 +19679,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/f/f9/47100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Messerschmitt_Me155A.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -19762,7 +19762,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/55/37000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A5M_Type_96.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -19829,7 +19829,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/55/37000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A5M_Type_96.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -19896,7 +19896,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/55/37000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A5M_Type_96.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -19975,7 +19975,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/6f/37100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A6M2_Zero.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -20052,7 +20052,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/6f/37100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A6M2_Zero.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -20129,7 +20129,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/6f/37100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A6M2_Zero.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -20218,7 +20218,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/09/37200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A6M5_Zero.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -20295,7 +20295,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/09/37200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A6M5_Zero.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -20372,7 +20372,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/09/37200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A6M5_Zero.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -20461,7 +20461,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8c/37300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A7M_Reppuu.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -20534,7 +20534,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8c/37300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A7M_Reppuu.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -20607,7 +20607,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8c/37300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Mitsubishi_A7M_Reppuu.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -20692,7 +20692,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/5b/27100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Supermarine_Seafang.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -20765,7 +20765,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/5b/27100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Supermarine_Seafang.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -20838,7 +20838,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/5b/27100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Supermarine_Seafang.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -20923,7 +20923,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/34/27000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Supermarine_Seafire.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -21000,7 +21000,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/34/27000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Supermarine_Seafire.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -21077,7 +21077,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/34/27000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Supermarine_Seafire.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -21166,7 +21166,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/5/5e/17200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Vought_F4U_Corsair.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -21239,7 +21239,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/5/5e/17200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Vought_F4U_Corsair.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -21312,7 +21312,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/5/5e/17200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Vought_F4U_Corsair.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -21397,7 +21397,7 @@
 						"name": "Fighter"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/f/f7/17260.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Vought_F4U_Corsair_VF17_Squadron.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -21484,7 +21484,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/a/a2/39000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_D3A_Type_99.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -21561,7 +21561,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/a/a2/39000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_D3A_Type_99.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -21638,7 +21638,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/a/a2/39000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_D3A_Type_99.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -21727,7 +21727,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/be/29000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Blackburn_Skua.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -21800,7 +21800,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/be/29000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Blackburn_Skua.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -21873,7 +21873,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/b/be/29000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Blackburn_Skua.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -21958,7 +21958,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/5/56/19100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Curtiss_SB2C_Helldiver.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -22035,7 +22035,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/5/56/19100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Curtiss_SB2C_Helldiver.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -22112,7 +22112,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/5/56/19100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Curtiss_SB2C_Helldiver.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -22201,7 +22201,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/4/45/19200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_BTD1_Destroyer.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -22274,7 +22274,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/4/45/19200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_BTD1_Destroyer.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -22347,7 +22347,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/4/45/19200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_BTD1_Destroyer.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -22432,7 +22432,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/7/74/19000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_SBD_Dauntless.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -22509,7 +22509,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/7/74/19000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_SBD_Dauntless.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -22586,7 +22586,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/7/74/19000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_SBD_Dauntless.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -22675,7 +22675,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/1/18/19060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_SBD_Dauntless_McClusky.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -22758,7 +22758,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/47/29300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Barracuda_831_Squadron.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -22843,7 +22843,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/1/19/29200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Firefly.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -22928,7 +22928,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/1/15/29100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Fulmar.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -23001,7 +23001,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/1/15/29100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Fulmar.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -23074,7 +23074,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/1/15/29100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Fulmar.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -23159,7 +23159,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/5/53/49000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Junkers_Ju87C.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -23236,7 +23236,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/5/53/49000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Junkers_Ju87C.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -23313,7 +23313,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/5/53/49000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Junkers_Ju87C.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -23402,7 +23402,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/2/21/39100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Yokosuka_D4Y_Suisei.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -23479,7 +23479,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/2/21/39100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Yokosuka_D4Y_Suisei.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -23556,7 +23556,7 @@
 						"name": "Dive Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/2/21/39100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Yokosuka_D4Y_Suisei.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -23647,7 +23647,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/33/38200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_B7A_Ryuusei.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -23729,7 +23729,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/33/38200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_B7A_Ryuusei.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -23811,7 +23811,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/33/38200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_B7A_Ryuusei.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -23905,7 +23905,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/0/03/28200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Blackburn_Firebrand.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -23995,7 +23995,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/1/10/18000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_TBD_Devastator.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -24073,7 +24073,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/1/10/18000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_TBD_Devastator.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -24151,7 +24151,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/1/10/18000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Douglas_TBD_Devastator.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -24241,7 +24241,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/a/a6/28300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Albacore.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -24319,7 +24319,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/a/a6/28300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Albacore.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -24397,7 +24397,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/a/a6/28300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Albacore.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -24487,7 +24487,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/0/06/28100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Barracuda.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -24565,7 +24565,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/0/06/28100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Barracuda.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -24643,7 +24643,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/0/06/28100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Barracuda.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -24733,7 +24733,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/57/28000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -24811,7 +24811,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/57/28000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -24889,7 +24889,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/5/57/28000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -24979,7 +24979,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/7/73/28060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish_818_Squadron.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -25069,7 +25069,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/f/f6/18100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_TBF_Avenger.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -25147,7 +25147,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/f/f6/18100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_TBF_Avenger.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -25225,7 +25225,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/f/f6/18100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Grumman_TBF_Avenger.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -25315,7 +25315,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/3e/38000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Nakajima_B5N_Type_97.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -25393,7 +25393,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/3e/38000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Nakajima_B5N_Type_97.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -25471,7 +25471,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/3/3e/38000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Nakajima_B5N_Type_97.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -25561,7 +25561,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/16/38100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Nakajima_B6N_Tenzan.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -25639,7 +25639,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/16/38100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Nakajima_B6N_Tenzan.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -25717,7 +25717,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/16/38100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Nakajima_B6N_Tenzan.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -25807,7 +25807,7 @@
 						"name": "Torpedo Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/0/02/18060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Torpedo_Squadron_8_VT8.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -25899,7 +25899,7 @@
 						"name": "Seaplane"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/0c/39200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_E16A_Zuiun.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -25976,7 +25976,7 @@
 						"name": "Seaplane"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/0c/39200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_E16A_Zuiun.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -26053,7 +26053,7 @@
 						"name": "Seaplane"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/0c/39200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_E16A_Zuiun.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -26142,7 +26142,7 @@
 						"name": "Seaplane"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/4/4e/39300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_M6A_Seiran.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -26229,7 +26229,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/9e/21000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/102mm_AA_QF_4_Mk_V.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -26287,7 +26287,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/9e/21000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/102mm_AA_QF_4_Mk_V.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -26345,7 +26345,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/9/9e/21000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/102mm_AA_QF_4_Mk_V.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -26415,7 +26415,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/4/40/6000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/127mm_AA_M2_Browning.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -26473,7 +26473,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/4/40/6000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/127mm_AA_M2_Browning.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -26531,7 +26531,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/4/40/6000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/127mm_AA_M2_Browning.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -26601,7 +26601,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/6e/16000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/20mm_AA_Oerlikon.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -26659,7 +26659,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/6e/16000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/20mm_AA_Oerlikon.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -26717,7 +26717,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/6/6e/16000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/20mm_AA_Oerlikon.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -26787,7 +26787,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/b8/36100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/25mm_AA_Type_96.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -26845,7 +26845,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/b8/36100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/25mm_AA_Type_96.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -26903,7 +26903,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/b8/36100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/25mm_AA_Type_96.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -26973,7 +26973,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/b/b6/46100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/37mm_AA_Gun_Flak_M42.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -27031,7 +27031,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/b/b6/46100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/37mm_AA_Gun_Flak_M42.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -27089,7 +27089,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/b/b6/46100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/37mm_AA_Gun_Flak_M42.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -27159,7 +27159,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9b/26300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/76mm_AA_Gun_350_Mk_22.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -27217,7 +27217,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9b/26300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/76mm_AA_Gun_350_Mk_22.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -27275,7 +27275,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9b/26300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/76mm_AA_Gun_350_Mk_22.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -27345,7 +27345,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2c/26200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Octuple_40mm_PomPom.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -27403,7 +27403,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2c/26200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Octuple_40mm_PomPom.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -27461,7 +27461,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2c/26200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Octuple_40mm_PomPom.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -27531,7 +27531,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/6/66/46000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_20mm_AA_Flakvierling_38.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -27589,7 +27589,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/6/66/46000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_20mm_AA_Flakvierling_38.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -27647,7 +27647,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/6/66/46000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_20mm_AA_Flakvierling_38.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -27717,7 +27717,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/3/39/16200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_28mm_AA_Chicago_Piano.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -27775,7 +27775,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/3/39/16200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_28mm_AA_Chicago_Piano.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -27833,7 +27833,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/3/39/16200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_28mm_AA_Chicago_Piano.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -27903,7 +27903,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/6c/26100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_40mm_AA_Vickers_Pom_Pom.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -27961,7 +27961,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/6c/26100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_40mm_AA_Vickers_Pom_Pom.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -28019,7 +28019,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/6c/26100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_40mm_AA_Vickers_Pom_Pom.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -28089,7 +28089,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c1/16400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_40mm_L60_Mk2_Bofors.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -28147,7 +28147,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c1/16400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_40mm_L60_Mk2_Bofors.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -28205,7 +28205,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/c/c1/16400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Quadruple_40mm_L60_Mk2_Bofors.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -28275,7 +28275,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/f/fd/55100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_90mm_HighAngle_Model_1939.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -28333,7 +28333,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/f/fd/55100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_90mm_HighAngle_Model_1939.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -28391,7 +28391,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/f/fd/55100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Single_90mm_HighAngle_Model_1939.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -28461,7 +28461,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8d/36300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_25mm_AA_Type_96.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -28519,7 +28519,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8d/36300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_25mm_AA_Type_96.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -28577,7 +28577,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8d/36300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Triple_25mm_AA_Type_96.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -28647,7 +28647,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/2/20/36560.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_100mm_HighAngle_Type_98.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -28717,7 +28717,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/3/38/6100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_100mm_HighAngle_Mle_1931.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -28787,7 +28787,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/e/e6/46300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_105mm_SK_C33.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -28845,7 +28845,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/e/e6/46300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_105mm_SK_C33.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -28903,7 +28903,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/e/e6/46300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_105mm_SK_C33.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -28973,7 +28973,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3f/26500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_113mm_4545_QF_Mk_I.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -29031,7 +29031,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3f/26500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_113mm_4545_QF_Mk_I.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -29089,7 +29089,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/3/3f/26500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_113mm_4545_QF_Mk_I.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -29159,7 +29159,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/19/36600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_AA_Gun_Type_89.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -29217,7 +29217,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/19/36600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_AA_Gun_Type_89.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -29275,7 +29275,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/1/19/36600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_127mm_AA_Gun_Type_89.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -29345,7 +29345,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/8/87/16100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_20mm_AA_Oerlikon.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -29403,7 +29403,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/8/87/16100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_20mm_AA_Oerlikon.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -29461,7 +29461,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/8/87/16100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_20mm_AA_Oerlikon.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -29531,7 +29531,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/6c/36000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_25mm_AA_Type_96.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -29589,7 +29589,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/6c/36000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_25mm_AA_Type_96.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -29647,7 +29647,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/6c/36000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_25mm_AA_Type_96.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -29717,7 +29717,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/8/81/55500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_AA_Model_1932.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -29775,7 +29775,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/8/81/55500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_AA_Model_1932.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -29833,7 +29833,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sardegna Empire",
-					"image": "/w/images/8/81/55500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_AA_Model_1932.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -29903,7 +29903,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/4/4e/46200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_AA_Gun_SK_C30.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -29961,7 +29961,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/4/4e/46200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_AA_Gun_SK_C30.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -30019,7 +30019,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/4/4e/46200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_AA_Gun_SK_C30.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -30089,7 +30089,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Iris Libre",
-					"image": "/w/images/a/a8/50600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_37mm_ACAD_Mle_1936.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -30159,7 +30159,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/2/20/16300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_AA_L60_Bofors.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -30217,7 +30217,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/2/20/16300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_AA_L60_Bofors.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -30275,7 +30275,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/2/20/16300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_AA_L60_Bofors.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -30345,7 +30345,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/2/2f/26620.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -30418,7 +30418,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/06/36700.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_Bofors_HighAngle_Type_98.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -30488,7 +30488,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/1/18/26600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_Bofors_STAAG_Mk_II.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -30561,7 +30561,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/67/26000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_PomPom.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -30619,7 +30619,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/67/26000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_PomPom.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -30677,7 +30677,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/6/67/26000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_PomPom.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -30747,7 +30747,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/64/36400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_Vickers_HI_Shiki_Type_91.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -30805,7 +30805,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/64/36400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_Vickers_HI_Shiki_Type_91.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -30863,7 +30863,7 @@
 						"name": "AA Gun"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/64/36400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Twin_40mm_Vickers_HI_Shiki_Type_91.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -30935,7 +30935,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/d4/660.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/100150_Aviation_Gasoline.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -30987,7 +30987,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/0/09/560.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Aichi_AB3.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31039,7 +31039,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b7/1100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Air_Radar.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -31079,7 +31079,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b7/1100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Air_Radar.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -31119,7 +31119,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b7/1100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Air_Radar.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31171,7 +31171,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Hololive",
-					"image": "/w/images/f/f4/89120.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Ankimo.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -31227,7 +31227,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b6/1300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/AntiTorpedo_Bulge.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -31267,7 +31267,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b6/1300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/AntiTorpedo_Bulge.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -31307,7 +31307,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b6/1300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/AntiTorpedo_Bulge.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31359,7 +31359,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/4e/2200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Autoloader.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -31403,7 +31403,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/4e/2200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Autoloader.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -31447,7 +31447,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/4e/2200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Autoloader.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31503,7 +31503,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/9/9b/3100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Compressed_Oxygen_Cylinder.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31555,7 +31555,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Hololive",
-					"image": "/w/images/a/af/89100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Corn_Lantern.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -31611,7 +31611,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/2b/2100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Drop_Tank.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -31655,7 +31655,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/2b/2100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Drop_Tank.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -31699,7 +31699,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/2b/2100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Drop_Tank.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31755,7 +31755,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/22/1200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fire_Control_Radar.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -31799,7 +31799,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/22/1200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fire_Control_Radar.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -31843,7 +31843,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/22/1200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fire_Control_Radar.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -31899,7 +31899,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/e/ee/2500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fire_Extinguisher.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -31939,7 +31939,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/e/ee/2500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fire_Extinguisher.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -31979,7 +31979,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/e/ee/2500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fire_Extinguisher.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -32031,7 +32031,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/2b/2000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fuel_Filter.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -32074,7 +32074,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/2b/2000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fuel_Filter.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -32118,7 +32118,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/2b/2000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fuel_Filter.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -32174,7 +32174,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Hololive",
-					"image": "/w/images/d/db/89080.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gamers_Mark.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -32226,7 +32226,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b8/2300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gyroscope.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -32269,7 +32269,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b8/2300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gyroscope.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -32313,7 +32313,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/b8/2300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Gyroscope.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -32369,7 +32369,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/b0/540.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Healing_Cats_Paw.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -32421,7 +32421,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/5c/1160.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/High_Performance_AntiAir_Radar.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -32473,7 +32473,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/3/3e/1260.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/High_Performance_Fire_Control_Radar.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -32529,7 +32529,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/2/24/680.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Homing_Beacon.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -32581,7 +32581,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/c/c1/1700.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Hydraulic_Steering_Gear.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -32625,7 +32625,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/c/c1/1700.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Hydraulic_Steering_Gear.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -32669,7 +32669,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/c/c1/1700.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Hydraulic_Steering_Gear.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -32725,7 +32725,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/de/1800.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Boiler.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -32768,7 +32768,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/de/1800.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Boiler.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -32812,7 +32812,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/de/1800.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Boiler.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -32868,7 +32868,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/48/1760.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Hydraulic_Rudder.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -32924,7 +32924,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/4f/3120.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Snorkel.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -32976,7 +32976,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/bc/3140.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Storage_Battery.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33028,7 +33028,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "KizunaAI",
-					"image": "/w/images/a/a5/89040.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Intelligence_Chip.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33084,7 +33084,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/b/be/500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Little_Beaver_Squadron_Tag.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33140,7 +33140,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/a/ac/1900.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Naval_Camouflage.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -33184,7 +33184,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/a/ac/1900.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Naval_Camouflage.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -33228,7 +33228,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/a/ac/1900.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Naval_Camouflage.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -33284,7 +33284,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/d1/760.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/NY_City_Coast_Recon_Report.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -33340,7 +33340,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/7/78/520.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Pearl_Tears.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33392,7 +33392,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "KizunaAI",
-					"image": "/w/images/8/84/89020.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/PyokoPyoko.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33448,7 +33448,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/df/1600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Rammer.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -33492,7 +33492,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/df/1600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Rammer.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -33536,7 +33536,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/df/1600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Rammer.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -33592,7 +33592,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "KizunaAI",
-					"image": "/w/images/2/29/89000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Random_Word_Generator.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33648,7 +33648,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/d5/2400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Repair_Toolkit.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -33688,7 +33688,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/d5/2400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Repair_Toolkit.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -33728,7 +33728,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/d5/2400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Repair_Toolkit.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -33780,7 +33780,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Eastern Radiance",
-					"image": "/w/images/c/c9/3300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Seal_of_the_Four_Gods.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33832,7 +33832,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9f/1500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/SG_Radar.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -33876,7 +33876,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9f/1500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/SG_Radar.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -33920,7 +33920,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/9/9f/1500.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/SG_Radar.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -33976,7 +33976,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/46/1000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Ship_Maintenance_Crane.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -34016,7 +34016,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/46/1000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Ship_Maintenance_Crane.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34056,7 +34056,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/46/1000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Ship_Maintenance_Crane.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34108,7 +34108,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/9/96/1400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Steam_Catapult.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -34152,7 +34152,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/9/96/1400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Steam_Catapult.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34196,7 +34196,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/9/96/1400.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Steam_Catapult.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34252,7 +34252,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/8/8a/620.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Super_Heavy_Shell.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34304,7 +34304,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Hololive",
-					"image": "/w/images/5/55/89060.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Team_Emblem.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34360,7 +34360,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/4/43/600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_1_Armor_Piercing_Shell.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34416,7 +34416,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/6/61/580.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_91_Armor_Piercing_Shell.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34472,7 +34472,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/59/2600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_93_Pure_Oxygen_Torpedo.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34516,7 +34516,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/59/2600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_93_Pure_Oxygen_Torpedo.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34560,7 +34560,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/5/59/2600.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_93_Pure_Oxygen_Torpedo.png",
 					"rarity": "Ultra Rare",
 					"stars": {
 						"stars": "★★★★★★",
@@ -34616,7 +34616,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/8/8d/2800.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_94_High_Angle_Director.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34672,7 +34672,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/b/bc/700.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Type_98_Delayed_Firing_Device.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34724,7 +34724,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/8/8c/720.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Unfulfilled_Promise.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34780,7 +34780,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/9/95/3220.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/VC_Armor_Plating.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -34832,7 +34832,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Sakura Empire",
-					"image": "/w/images/7/73/3200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/VH_Armor_Plating.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",
@@ -34884,7 +34884,7 @@
 						"name": "Auxiliary"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/d/d0/640.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Z_Flag.png",
 					"rarity": "Ultra Rare",
 					"stars": {
 						"stars": "★★★★★★",
@@ -34942,7 +34942,7 @@
 						"name": "Depth Charge"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/0/08/4000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Basic_Depth_Charge.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★",
@@ -34987,7 +34987,7 @@
 						"name": "Depth Charge"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/0/08/4000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Basic_Depth_Charge.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -35035,7 +35035,7 @@
 						"name": "Depth Charge"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/0/08/4000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Basic_Depth_Charge.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -35095,7 +35095,7 @@
 						"name": "Sonar"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/52/2900.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Basic_Sonar.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -35146,7 +35146,7 @@
 						"name": "Sonar"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/52/2900.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Basic_Sonar.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -35197,7 +35197,7 @@
 						"name": "Sonar"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/5/52/2900.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Basic_Sonar.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -35260,7 +35260,7 @@
 						"name": "ASW Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/4e/4200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish_Mk_IIASV_ASW.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -35312,7 +35312,7 @@
 						"name": "ASW Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/4e/4200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish_Mk_IIASV_ASW.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -35364,7 +35364,7 @@
 						"name": "ASW Bomber"
 					},
 					"nationality": "Royal Navy",
-					"image": "/w/images/4/4e/4200.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Fairey_Swordfish_Mk_IIASV_ASW.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -35428,7 +35428,7 @@
 						"name": "ASW Helicopter"
 					},
 					"nationality": "Ironblood",
-					"image": "/w/images/c/c7/740.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Flettner_Fl_282_Kolibri.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -35480,7 +35480,7 @@
 						"name": "ASW Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d8/4300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/General_Motors_TBM3_Avenger_ASW.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -35532,7 +35532,7 @@
 						"name": "ASW Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d8/4300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/General_Motors_TBM3_Avenger_ASW.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -35584,7 +35584,7 @@
 						"name": "ASW Bomber"
 					},
 					"nationality": "Eagle Union",
-					"image": "/w/images/d/d8/4300.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/General_Motors_TBM3_Avenger_ASW.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -35648,7 +35648,7 @@
 						"name": "Depth Charge"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/a/aa/4100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Depth_Charge.png",
 					"rarity": "Normal",
 					"stars": {
 						"stars": "★★",
@@ -35696,7 +35696,7 @@
 						"name": "Depth Charge"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/a/aa/4100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Depth_Charge.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -35744,7 +35744,7 @@
 						"name": "Depth Charge"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/a/aa/4100.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Depth_Charge.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -35804,7 +35804,7 @@
 						"name": "Sonar"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/f/f6/3000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Sonar.png",
 					"rarity": "Rare",
 					"stars": {
 						"stars": "★★★",
@@ -35855,7 +35855,7 @@
 						"name": "Sonar"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/f/f6/3000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Sonar.png",
 					"rarity": "Elite",
 					"stars": {
 						"stars": "★★★★",
@@ -35906,7 +35906,7 @@
 						"name": "Sonar"
 					},
 					"nationality": "Universal",
-					"image": "/w/images/f/f6/3000.png",
+					"image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/equipments/Improved_Sonar.png",
 					"rarity": "Super Rare",
 					"stars": {
 						"stars": "★★★★★",

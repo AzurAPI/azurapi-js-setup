@@ -70679,7 +70679,44 @@
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9002": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Chikuma",
@@ -70708,7 +70745,44 @@
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9003": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Jeanne_d'Arc",
@@ -70737,7 +70811,44 @@
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9004": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Richelieu",
@@ -70766,7 +70877,44 @@
 				}
 			}
 		],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9006": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Pola",
@@ -70784,7 +70932,44 @@
 		"unreleased": true,
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/de/PolaIcon.png",
 		"skins": [],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"9007": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Vittorio_Veneto",
@@ -70802,7 +70987,44 @@
 		"unreleased": true,
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
 		"skins": [],
-		"rarity": "Unreleased"
+		"rarity": "Unreleased",
+		"enhance_value": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 0
+		},
+		"slots": [
+			{},
+			{},
+			{}
+		],
+		"scrap_value": {
+			"coin": 0,
+			"oil": 0,
+			"medal": 0
+		},
+		"gallery": [],
+		"construction": {
+			"construction_time": "Cannot Be Constructed",
+			"available_in": {
+				"Light": false,
+				"Heavy": false,
+				"Aviation": false,
+				"Limited": false,
+				"Exchange": false
+			}
+		},
+		"limit_breaks": [
+			{},
+			{},
+			{}
+		],
+		"skills": [
+			{},
+			{},
+			{}
+		]
 	},
 	"001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Universal_Bullin",
