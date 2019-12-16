@@ -5,6 +5,8 @@ const request = require('request');
 const JSDOM = require('jsdom').JSDOM;
 const srcset = require('srcset');
 
+const chapter = require('./chapter.js');
+
 const SKIN_PATH = 'images/skins/${id}/';
 const SKIN_NAME_PATH = '${name}/';
 const SKIN_FILE_NAME = '${type}.png';
@@ -13,7 +15,9 @@ const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-set
 
 let SHIP_LIST = require("./ship-list.json");
 let SHIPS = require("./ships.json");
-let EQUIPMENTS = require("./equipments.json");
+let EQUIPMENTS = require("./equipments.internal.json");
+let EQUIPMENTS_PUBLIC = require("./equipments.json");
+let CHAPTERS = require("./chapters.json");
 let SHIPS_INTERNAL = require("./ships.internal.json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
@@ -33,7 +37,8 @@ module.exports = {
     publish: publish,
     refreshShips: refreshShips,
     refreshImages: refreshImages,
-    refreshEquipments: refreshEquipments
+    refreshEquipments: refreshEquipments,
+    refreshChapter: refreshChapter
 }
 // Filtering the ship list
 function filter(callback) {
@@ -155,24 +160,22 @@ async function refreshEquipments(online) {
             let name = equipment_row.firstElementChild.firstElementChild.title;
             process.stdout.write("Fetching \"" + name + "\" calling => ");
             EQUIPMENTS[category][name] = await refreshEquipment(href, name, category, online);
-            fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS, null, '\t'));
+            fs.writeFileSync('./equipments.internal.json', JSON.stringify(EQUIPMENTS, null, '\t'));
             console.log(" Done");
         }
         console.log(category + " Done");
     }
-    VERSION_INFO.equipments["version-number"] += 1;
-    VERSION_INFO.equipments["last-data-refresh-date"] = Date.now();
-    VERSION_INFO.equipments["number-of-ships"] = SHIP_LIST.length;
-    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
 async function refreshChapter(online) {
     for (let i = 1; i <= 13; i++) {
         let data;
-        process.stdout.write("Refreshing Chapter " + a + " Details");
-        if (!fs.existsSync('./web/equipments/equipment_list.html') || online) fs.writeFileSync('./web/equipments/equipment_list.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
-        else data = fs.readFileSync('./web/equipments/equipment_list.html', 'utf8');
-        process.stdout.write(" Loaded\n");
+        process.stdout.write("Refreshing Chapter " + i + " Details");
+        if (!fs.existsSync('./web/chapters/' + i + '.html') || online) fs.writeFileSync('./web/chapters/' + i + '.html', data = await fetch("https://azurlane.koumakan.jp/Chapter_" + i));
+        else data = fs.readFileSync('./web/chapters/' + i + '.html', 'utf8');
+        CHAPTERS[i] = chapter.parseChapter(new JSDOM(data).window.document, i);
+        fs.writeFileSync('./chapters.json', JSON.stringify(CHAPTERS, null, '\t'));
+        console.log("\nDone");
     }
 }
 
@@ -212,10 +215,13 @@ function publish() {
     VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
     VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+    EQUIPMENTS_PUBLIC = {};
     for (let cat in EQUIPMENTS) {
+        EQUIPMENTS_PUBLIC[cat] = {};
         for (let key in EQUIPMENTS[cat]) {
-            for (let t in EQUIPMENTS[cat][key].tiers) {
-                let tier = EQUIPMENTS[cat][key].tiers[t];
+            EQUIPMENTS_PUBLIC[cat][key] = clone(EQUIPMENTS[cat][key]);
+            for (let t in EQUIPMENTS_PUBLIC[cat][key].tiers) {
+                let tier = EQUIPMENTS_PUBLIC[cat][key].tiers[t];
                 let cleanName = key.replace(/[^\w\s\d]/g, '').replace(/\s+/g, '_');
                 tier.image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
                 process.stdout.write('.');
@@ -223,7 +229,7 @@ function publish() {
             process.stdout.write('|');
         }
     }
-    fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS, null, '\t'));
+    fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS_PUBLIC, null, '\t'));
     VERSION_INFO.equipments["version-number"] += 1;
     VERSION_INFO.equipments["last-data-refresh-date"] = Date.now();
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
