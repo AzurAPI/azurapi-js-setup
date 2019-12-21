@@ -1,5 +1,5 @@
 // This file is for fetching data from wiki
-
+const crypto = require('crypto');
 const fs = require('fs');
 const request = require('request');
 const JSDOM = require('jsdom').JSDOM;
@@ -210,7 +210,9 @@ function publishShips() {
         SHIPS[key].gallery = newGallery;
         process.stdout.write("|");
     }
-    fs.writeFileSync('./ships.json', JSON.stringify(SHIPS, null, '\t'));
+    let ships_value = JSON.stringify(SHIPS);
+    fs.writeFileSync('./ships.json', ships_value);
+    VERSION_INFO.ships.hash = getHash(ships_value);
     VERSION_INFO.ships["version-number"] += 1;
     VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
     VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
@@ -226,7 +228,9 @@ function publishEQ() {
         EQUIPMENTS_PUBLIC[key].misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
         process.stdout.write('.');
     }
-    fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS_PUBLIC, null, '\t'));
+    let equipments_value = JSON.stringify(EQUIPMENTS_PUBLIC);
+    fs.writeFileSync('./equipments.json', equipments_value);
+    VERSION_INFO.equipments.hash = getHash(equipments_value);
     VERSION_INFO.equipments["version-number"] += 1;
     VERSION_INFO.equipments["last-data-refresh-date"] = Date.now();
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
@@ -750,4 +754,12 @@ function compare(a, b) {
     } else {
         return "bruh";
     }
+}
+
+function getHash(text) {
+    var hash = crypto.createHash('sha1');
+    hash.setEncoding('hex');
+    hash.write(text);
+    hash.end();
+    return hash.read();
 }
