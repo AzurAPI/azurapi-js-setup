@@ -34,7 +34,8 @@ function timeout(ms) {
 
 module.exports = {
     filter: filter,
-    publish: publish,
+    publishShips: publishShips,
+    publishEQ: publishEQ,
     refreshShips: refreshShips,
     refreshImages: refreshImages,
     refreshEquipments: refreshEquipments,
@@ -122,12 +123,15 @@ async function refreshImages(overwrite) {
     console.log("Equipments...");
     for (let cat in EQUIPMENTS) {
         for (let key in EQUIPMENTS[cat]) {
-            let t = EQUIPMENTS[cat][key].tiers['T0'] || EQUIPMENTS[cat][key].tiers['T1'] || EQUIPMENTS[cat][key].tiers['T2'] || EQUIPMENTS[cat][key].tiers['T3']; // some how this works
+            let eq = EQUIPMENTS[cat][key];
             process.stdout.write(key);
             let cleanName = key.replace(/[^\w\s\d]/g, '').replace(/\s+/g, '_');
             if (!fs.existsSync("./images/equipments/" + cleanName + ".png") || overwrite)
-                await fetchImage("https://azurlane.koumakan.jp" + t.image, "./images/equipments/" + cleanName + ".png");
+                await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
             process.stdout.write('.');
+            if (eq.misc.animation && !fs.existsSync("./images/equipments.animation/" + cleanName + ".gif") || overwrite)
+                await fetchImage(eq.misc.animation, "./images/equipments.animation/" + cleanName + ".gif");
+            process.stdout.write('.\n');
         }
     }
     console.log("\nDone");
@@ -142,7 +146,6 @@ async function refreshEquipments(online) {
     for (let equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
         let category = equipment_type.textContent;
         console.log("Refreshing Equipments type= " + category + "...");
-        if (!EQUIPMENTS[category]) EQUIPMENTS[category] = {};
         if (!fs.existsSync('./web/equipments/' + category + '_list.html') || online) {
             process.stdout.write("Getting List...");
             data = await fetch("https://azurlane.koumakan.jp" + equipment_type.firstElementChild.getAttribute("href"))
@@ -159,7 +162,7 @@ async function refreshEquipments(online) {
             let href = "https://azurlane.koumakan.jp" + equipment_row.firstElementChild.firstElementChild.href;
             let name = equipment_row.firstElementChild.firstElementChild.title;
             process.stdout.write("Fetching \"" + name + "\" calling => ");
-            EQUIPMENTS[category][name] = await refreshEquipment(href, name, category, online);
+            EQUIPMENTS[name] = await refreshEquipment(href, name, category, online);
             fs.writeFileSync('./equipments.internal.json', JSON.stringify(EQUIPMENTS, null, '\t'));
             console.log(" Done");
         }
@@ -179,11 +182,8 @@ async function refreshChapter(online) {
     }
 }
 
-function publish() {
-    console.log("** WARNING, the program will publish the current ships.internal.json!");
-    console.log(`SHIPS_INTERNAL.length = ${SHIPS_INTERNAL.length}\nSHIPS.length = ${SHIPS.length}`);
+function publishShips() {
     SHIPS = {};
-    console.log("Starting...")
     for (let key in SHIPS_INTERNAL) {
         process.stdout.write(">");
         SHIPS[key] = clone(SHIPS_INTERNAL[key]); //simple clone!
@@ -215,19 +215,16 @@ function publish() {
     VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
     VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+}
+
+function publishEQ() {
     EQUIPMENTS_PUBLIC = {};
-    for (let cat in EQUIPMENTS) {
-        EQUIPMENTS_PUBLIC[cat] = {};
-        for (let key in EQUIPMENTS[cat]) {
-            EQUIPMENTS_PUBLIC[cat][key] = clone(EQUIPMENTS[cat][key]);
-            for (let t in EQUIPMENTS_PUBLIC[cat][key].tiers) {
-                let tier = EQUIPMENTS_PUBLIC[cat][key].tiers[t];
-                let cleanName = key.replace(/[^\w\s\d]/g, '').replace(/\s+/g, '_');
-                tier.image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
-                process.stdout.write('.');
-            }
-            process.stdout.write('|');
-        }
+    for (let key in EQUIPMENTS) {
+        EQUIPMENTS_PUBLIC[key] = clone(EQUIPMENTS[key]);
+        let cleanName = key.replace(/[^\w\s\d]/g, '').replace(/\s+/g, '_');
+        EQUIPMENTS_PUBLIC[key].image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
+        EQUIPMENTS_PUBLIC[key].misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
+        process.stdout.write('.');
     }
     fs.writeFileSync('./equipments.json', JSON.stringify(EQUIPMENTS_PUBLIC, null, '\t'));
     VERSION_INFO.equipments["version-number"] += 1;
@@ -549,14 +546,7 @@ function parseEquipment(href, category, body) {
     const doc = new JSDOM(body).window.document;
     let tabs = doc.getElementsByClassName("eqbox");
     process.stdout.write("tab count = " + tabs.length + " .");
-    let tiers = {};
-    for (tab of tabs) {
-        let t = parseEquipmentInfo(tab);
-        process.stdout.write("tier = " + t.tier + " .");
-        tiers[t.tier] = t;
-    }
-    process.stdout.write("");
-    return {
+    let eq = {
         wikiUrl: href,
         category: category,
         names: {
@@ -564,9 +554,27 @@ function parseEquipment(href, category, body) {
             cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
             jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
             kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
-        },
-        tiers: tiers
+        }
     };
+    let tiers = {};
+    for (tab of tabs) {
+        let t = parseEquipmentInfo(tab);
+        process.stdout.write("tier = " + t.tier + " .");
+        eq.type = t.type;
+        eq.nationality = t.nationality;
+        eq.image = "https://azurlane.koumakan.jp" + t.image;
+        eq.fits = t.fits;
+        eq.misc = t.misc;
+        delete t.type;
+        delete t.nationality;
+        delete t.image;
+        delete t.fits;
+        delete t.misc;
+        tiers[t.tier] = t;
+    }
+    process.stdout.write("");
+    eq.tiers = tiers;
+    return eq;
 }
 
 function parseEquipmentInfo(eqbox) {
@@ -613,6 +621,7 @@ function parseEquipmentStatsSlot(valueNode) {
         if (value !== (rawData = value.replace(/(.+) → (.+) per (.+)/g, "$1|$2|$3"))) { //X → X' per P
             rawData = rawData.split(/\|/);
             data = {
+                type: "min_max_per",
                 min: rawData[0].trim(),
                 max: rawData[1].trim(),
                 per: rawData[2].trim()
@@ -620,17 +629,20 @@ function parseEquipmentStatsSlot(valueNode) {
         } else if (value !== (rawData = value.replace(/([^×]+) × ([^×]+) → ([^×]+) × ([^×]+)/g, "$1|$2|$3|$4"))) { //X × C → X' × C
             rawData = rawData.split(/\|/);
             data = {
+                type: "min_max_multiplier",
                 min: rawData[0].trim(),
                 max: rawData[2].trim()
             };
             if (rawData[1].trim() === rawData[3].trim()) data.multiplier = rawData[1].trim(); // Why? coz I do not trust the source
             else {
+                data.type = "min_max_min_max_multiplier";
                 data.minMultiplier = rawData[1].trim();
                 data.maxMultiplier = rawData[3].trim();
             }
         } else if (value !== (rawData = value.replace(/([^×]+) × ([0-9]+)([^×→]+)/g, "$1|$2|$3"))) { // X × C U
             rawData = rawData.split(/\|/);
             data = {
+                type: "multiplier_count_unit",
                 multiplier: rawData[0].trim(),
                 count: rawData[1].trim(),
                 unit: rawData[2].trim()
@@ -638,22 +650,26 @@ function parseEquipmentStatsSlot(valueNode) {
         } else if (value !== (rawData = value.replace(/([0-9]+) [×x] ([^×→\n]+)/g, "$1|$2"))) { // X × U
             rawData = rawData.split(/\|/);
             data = {
+                type: "count_unit",
                 count: rawData[0].trim(),
                 unit: rawData[1].trim()
             };
         } else if (value !== (rawData = value.replace(/([^→]+)→([^→\n]+)/g, "$1|$2"))) { // X → X'
             rawData = rawData.split(/\|/);
             data = {
+                type: "min_max",
                 min: rawData[0].trim(),
                 max: rawData[1].trim()
             };
         } else if (value !== (rawData = value.replace(/([0-9\.]+)([^0-9\.]+)/g, "$1|$2"))) { // X U
             rawData = rawData.split(/\|/);
             data = {
+                type: "value_unit",
                 value: rawData[0].trim(),
                 unit: rawData[1].trim()
             };
         } else data = { // ¯\_(ツ)_/¯
+            type: "value",
             value: value
         }
         return data;
@@ -664,9 +680,11 @@ function parseEquipmentFit(eqfits) {
     let fits = {};
     for (row of eqfits.getElementsByTagName("tr")) { // GRR, it was an one liner, unlucky me had to debug it
         let name = row.children[1].textContent.trim();
-        if (row.children[2].textContent.trim() === "✘") fits[name] = false;
-        else if (row.children[2].textContent.trim() === "✔") fits[name] = true;
-        else fits[name] = row.children[2].getElementsByClassName("tooltiptext")[0] ? row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim() : "Unspecified";
+        if (row.children[2].textContent.trim() === "✘") fits[name] = null;
+        else if (row.children[2].textContent.trim() === "✔") fits[name] = "primary";
+        else fits[name] = row.children[2].getElementsByClassName("tooltiptext")[0] ? row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim() : "unspecified";
+        if (fits[name] !== null && /^(.+) Only$/.test(fits[name])) fits[name] = fits[name].replace(/^(.+) Only$/, '\"$1\" only'); // XXX Only,
+        if (fits[name] === "Secondary gun") fits[name] = "secondary";
     }
     return fits;
 }
@@ -676,7 +694,7 @@ function parseEquipmentMisc(eqmisc) {
     return {
         obtained_from: datas[0].textContent,
         notes: datas[1].textContent,
-        animation: datas.length > 2 ? datas[2].firstElementChild.firstElementChild.src : null
+        animation: datas.length > 2 ? ("https://azurlane.koumakan.jp" + datas[2].firstElementChild.firstElementChild.src) : null
     };
 }
 

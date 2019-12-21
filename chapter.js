@@ -152,24 +152,31 @@ const BGCOLOR_DICT = {
 function parseNodeMap(div) {
     let nodemap = {};
     nodemap.preview = "https://azurlane.koumakan.jp" + galleryThumbnailUrlToActualUrl(div.getElementsByTagName("img")[0].src);
+    let nodes = [];
     let map = [];
     let rows = div.querySelectorAll(".nodemap tr");
     let width, height = 0;
     for (let row of rows) {
         let cols = row.getElementsByTagName("td");
         if (cols.length === 0) continue;
-        height++;
         let map_cols = [];
         if (!width) width = cols.length;
         for (let i = 0; i < cols.length; i++) {
             if (cols[i].children.length !== 0) map_cols[i] = cols[i].children[0].title
             else map_cols[i] = BGCOLOR_DICT[cols[i].style.backgroundColor];
+            if (map_cols[i] !== "Sea") nodes.push({
+                x: i,
+                y: height,
+                node: map_cols[i]
+            });
         }
         map.push(map_cols);
+        height++;
     }
     nodemap.width = width;
     nodemap.height = height;
     nodemap.map = map;
+    nodemap.nodes = nodes;
     return nodemap;
 }
 
