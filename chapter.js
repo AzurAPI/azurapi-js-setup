@@ -20,18 +20,27 @@ let parsers = {
     "Node Map": parseNodeMap
 }
 
-function parseChapter(doc, index) {
+function parseChapter(doc, index, names) {
     let chapter = {};
     let boxes = doc.getElementsByClassName("mapbox");
     let hasHardMode = boxes.length > 5;
-    for (let i = 1; i <= 4; i++) chapter[i] = {
-        normal: hasHardMode ? parseMap(doc.querySelector("div[title='" + index + "-" + i + "']"), index + "-" + i) : parseMap(boxes[i - 1], index + "-" + i),
-        hard: hasHardMode ? parseMap(doc.querySelector("div[title='" + index + "-" + i + " Hard']"), index + "-" + i) : null
+    chapter['names'] = names[index] || {};
+    chapter['names'].en = doc.querySelector(".mw-collapsible th").childNodes[0].textContent.replace(/^Chapter \d: (.+)/, '$1').trim();
+    for (let i = 1; i <= 4; i++) {
+        chapter[i] = {
+            names: {
+                cn: names[index + "-" + i] ? names[index + "-" + i].cn : undefined,
+                jp: names[index + "-" + i] ? names[index + "-" + i].jp : undefined
+            },
+            normal: hasHardMode ? parseMap(doc.querySelector("div[title='" + index + "-" + i + "']"), index + "-" + i) : parseMap(boxes[i - 1], index + "-" + i),
+            hard: hasHardMode ? parseMap(doc.querySelector("div[title='" + index + "-" + i + " Hard']"), index + "-" + i) : null
+        };
+        chapter[i].names.en = chapter[i].normal.title;
     };
     return chapter;
 }
 
-function parseMap(div, code) {
+function parseMap(div, code, names) {
     if (!div) return null;
     let name_list = div.getElementsByTagName("th");
     let data_list = div.getElementsByTagName("td");

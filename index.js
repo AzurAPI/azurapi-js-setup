@@ -171,12 +171,19 @@ async function refreshEquipments(online) {
 }
 
 async function refreshChapter(online) {
+    let namesHTML;
+    process.stdout.write("Refreshing Chapter Names");
+    if (!fs.existsSync('./web/chapters/names.html') || online) fs.writeFileSync('./web/chapters/names.html', namesHTML = await fetch("https://azurlane.koumakan.jp/Campaign"));
+    else namesHTML = fs.readFileSync('./web/chapters/names.html', 'utf8');
+    let names = parseChaptersNames(namesHTML);
+    process.stdout.write("  Done\n");
+    console.log(JSON.stringify(names));
     for (let i = 1; i <= 13; i++) {
         let data;
         process.stdout.write("Refreshing Chapter " + i + " Details");
         if (!fs.existsSync('./web/chapters/' + i + '.html') || online) fs.writeFileSync('./web/chapters/' + i + '.html', data = await fetch("https://azurlane.koumakan.jp/Chapter_" + i));
         else data = fs.readFileSync('./web/chapters/' + i + '.html', 'utf8');
-        CHAPTERS[i] = chapter.parseChapter(new JSDOM(data).window.document, i);
+        CHAPTERS[i] = chapter.parseChapter(new JSDOM(data).window.document, i, names);
         fs.writeFileSync('./chapters.json', JSON.stringify(CHAPTERS, null, '\t'));
         console.log("\nDone");
     }
@@ -702,6 +709,36 @@ function parseEquipmentMisc(eqmisc) {
     };
 }
 
+function parseChaptersNames(body) {
+    let names = {};
+    const doc = new JSDOM(body).window.document;
+    let chapters = doc.querySelectorAll(".mw-parser-output>ul>li");
+    for (let i = 0; i < 12; i++) {
+        let cn = parseChapterNames(chapters[i]);
+        let jp = parseChapterNames(chapters[i + 12]);
+        names[i + 1] = {
+            cn: cn.name,
+            jp: jp.name
+        };
+        for (let j = 1; j <= 4; j++) names[(i + 1) + "-" + j] = {
+            cn: cn.maps[j - 1],
+            jp: jp.maps[j - 1]
+        };
+    }
+    return names;
+}
+
+function parseChapterNames(li) {
+    let names = [];
+    let maps = li.lastElementChild.children;
+    for (let i = 0; i < 4; i++) {
+        names[i] = maps[i].childNodes[1].textContent.replace(/^:/, '').replace(/\(.+\)/, '').trim();
+    }
+    return {
+        name: li.childNodes[1].textContent.replace(/^:/, '').replace(/\(.+\)/, '').trim(),
+        maps: names
+    }
+}
 // Promise Wrapper for request, I dont trust their own promise support
 function fetch(url) {
     return new Promise((resolve, reject) => request({

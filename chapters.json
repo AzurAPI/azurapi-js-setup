@@ -1,6 +1,11 @@
 {
 	"1": {
 		"1": {
+			"names": {
+				"cn": "近海演习",
+				"jp": "近海演習",
+				"en": "Offshore Exercises"
+			},
 			"normal": {
 				"title": "Offshore Exercises",
 				"code": "1-1",
@@ -172,6 +177,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "虎！虎！虎！",
+				"jp": "トラトラトラ",
+				"en": "Tora! Tora! Tora!"
+			},
 			"normal": {
 				"title": "Tora! Tora! Tora!",
 				"code": "1-2",
@@ -446,6 +456,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "燃烧的军港",
+				"jp": "軍港燃ゆ",
+				"en": "The Harbor Clash"
+			},
 			"normal": {
 				"title": "The Harbor Clash",
 				"code": "1-3",
@@ -743,6 +758,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "来自东方的舰队",
+				"jp": "東より来る敵",
+				"en": "Sakura Fleet"
+			},
 			"normal": {
 				"title": "Sakura Fleet",
 				"code": "1-4",
@@ -1202,10 +1222,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "Tora! Tora! Tora!",
+			"jp": "トラ！トラ！トラ！",
+			"en": "Tora! Tora! Tora!"
 		}
 	},
 	"2": {
 		"1": {
+			"names": {
+				"cn": "支援图拉岛",
+				"jp": "ツラギ支援",
+				"en": "Fuerteventura"
+			},
 			"normal": {
 				"title": "Fuerteventura",
 				"code": "2-1",
@@ -1701,6 +1731,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "乌云蔽日",
+				"jp": "太陽を隠す暗雲",
+				"en": "Dark Clouds"
+			},
 			"normal": {
 				"title": "Dark Clouds",
 				"code": "2-2",
@@ -2314,6 +2349,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "珊瑚海的首秀",
+				"jp": "初陣!珊瑚海",
+				"en": "Coral Sea Fortune"
+			},
 			"normal": {
 				"title": "Coral Sea Fortune",
 				"code": "2-3",
@@ -2853,6 +2893,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "救援约克城",
+				"jp": "空母対空母",
+				"en": "Rescuing Yorktown"
+			},
 			"normal": {
 				"title": "Rescuing Yorktown",
 				"code": "2-4",
@@ -3386,10 +3431,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "珊瑚海首秀",
+			"jp": "初陣!珊瑚海",
+			"en": "Battle of Coral Sea"
 		}
 	},
 	"3": {
 		"1": {
+			"names": {
+				"cn": "决战中途岛！",
+				"jp": "AF決戦へ",
+				"en": "Midway Showdown!"
+			},
 			"normal": {
 				"title": "Midway Showdown!",
 				"code": "3-1",
@@ -3943,6 +3998,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "命运的五分钟",
+				"jp": "運命の5分間",
+				"en": "The Five Minutes"
+			},
 			"normal": {
 				"title": "The Five Minutes",
 				"code": "3-2",
@@ -4534,6 +4594,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "背水一战",
+				"jp": "背水の戦い",
+				"en": "The Last Stand"
+			},
 			"normal": {
 				"title": "The Last Stand",
 				"code": "3-3",
@@ -5115,6 +5180,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "最后的反击",
+				"jp": "最後の反撃",
+				"en": "Counterattack!"
+			},
 			"normal": {
 				"title": "Counterattack!",
 				"code": "3-4",
@@ -5709,10 +5779,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "决战中途岛",
+			"jp": "",
+			"en": "Midway Showdown"
 		}
 	},
 	"4": {
 		"1": {
+			"names": {
+				"cn": "午夜惊魂",
+				"jp": "宵闇の死神",
+				"en": "Midnight Fright"
+			},
 			"normal": {
 				"title": "Midnight Fright",
 				"code": "4-1",
@@ -6314,6 +6394,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "血色黎明",
+				"jp": "血染めの暁",
+				"en": "Scarlet Dawn"
+			},
 			"normal": {
 				"title": "Scarlet Dawn",
 				"code": "4-2",
@@ -6915,6 +7000,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "东所罗门遭遇战",
+				"jp": "東ソロモンにて",
+				"en": "Solomon Skirmish"
+			},
 			"normal": {
 				"title": "Solomon Skirmish",
 				"code": "4-3",
@@ -7452,6 +7542,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "复仇之战",
+				"jp": "仇討ちの戦い",
+				"en": "War of Vengeance"
+			},
 			"normal": {
 				"title": "War of Vengeance",
 				"code": "4-4",
@@ -8196,10 +8291,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "所罗门的噩梦上",
+			"jp": "ソロモン海にて·上",
+			"en": "Solomon's Nightmare Pt. 1"
 		}
 	},
 	"5": {
 		"1": {
+			"names": {
+				"cn": "物资拦截战",
+				"jp": "輸送阻止作戦",
+				"en": "Interception"
+			},
 			"normal": {
 				"title": "Interception",
 				"code": "5-1",
@@ -8911,6 +9016,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "圣克鲁斯的天空",
+				"jp": "聖十字の空",
+				"en": "Santa Cruz Skies"
+			},
 			"normal": {
 				"title": "Santa Cruz Skies",
 				"code": "5-2",
@@ -9536,6 +9646,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "大黄蜂的陨落",
+				"jp": "ホーネット墜つ",
+				"en": "Hornet's Fall"
+			},
 			"normal": {
 				"title": "Hornet's Fall",
 				"code": "5-3",
@@ -10151,6 +10266,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "撤离战区",
+				"jp": "戦域から脱出",
+				"en": "Evacuation"
+			},
 			"normal": {
 				"title": "Evacuation",
 				"code": "5-4",
@@ -10825,10 +10945,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "所罗门的噩梦中",
+			"jp": "ソロモン海にて·中",
+			"en": "Solomon's Nightmare Pt. 2"
 		}
 	},
 	"6": {
 		"1": {
+			"names": {
+				"cn": "夜战精英",
+				"jp": "夜戦対決",
+				"en": "Darkness Elites"
+			},
 			"normal": {
 				"title": "Darkness Elites",
 				"code": "6-1",
@@ -11520,6 +11650,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "反攻",
+				"jp": "全面反撃",
+				"en": "Counterattack"
+			},
 			"normal": {
 				"title": "Counterattack",
 				"code": "6-2",
@@ -12255,6 +12390,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "巨炮最后的对决",
+				"jp": "巨砲最後の戦い",
+				"en": "Cannon Showdown"
+			},
 			"normal": {
 				"title": "Cannon Showdown",
 				"code": "6-3",
@@ -12918,6 +13058,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "所罗门的噩梦",
+				"jp": "ソロモンの悪夢",
+				"en": "Solomon's Tears"
+			},
 			"normal": {
 				"title": "Solomon's Tears",
 				"code": "6-4",
@@ -13665,10 +13810,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "所罗门的噩梦下",
+			"jp": "ソロモン海にて·下",
+			"en": "Solomon's Nightmare Pt. 3"
 		}
 	},
 	"7": {
 		"1": {
+			"names": {
+				"cn": "增援拦截",
+				"jp": "増援阻止",
+				"en": "The Ambush"
+			},
 			"normal": {
 				"title": "The Ambush",
 				"code": "7-1",
@@ -14199,6 +14354,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "短兵相接",
+				"jp": "乱戦",
+				"en": "Close Combat"
+			},
 			"normal": {
 				"title": "Close Combat",
 				"code": "7-2",
@@ -14888,6 +15048,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "措手不及",
+				"jp": "奇襲",
+				"en": "Unprepared"
+			},
 			"normal": {
 				"title": "Unprepared",
 				"code": "7-3",
@@ -15669,6 +15834,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "预料外的混乱",
+				"jp": "予想外の混乱",
+				"en": "Unforeseen Chaos"
+			},
 			"normal": {
 				"title": "Unforeseen Chaos",
 				"code": "7-4",
@@ -16408,10 +16578,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "混沌之夜",
+			"jp": "混沌の夜",
+			"en": "Night of Chaos"
 		}
 	},
 	"8": {
 		"1": {
+			"names": {
+				"cn": "寒风",
+				"jp": "極北の風",
+				"en": "Cold Wind"
+			},
 			"normal": {
 				"title": "Cold Wind",
 				"code": "8-1",
@@ -16969,6 +17149,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "北极圈的拂晓",
+				"jp": "北極圏の朝霧",
+				"en": "Arctic Daybreak"
+			},
 			"normal": {
 				"title": "Arctic Daybreak",
 				"code": "8-2",
@@ -17670,6 +17855,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "冰海怒涛",
+				"jp": "氷の荒波",
+				"en": "Arctic Fury"
+			},
 			"normal": {
 				"title": "Arctic Fury",
 				"code": "8-3",
@@ -18445,6 +18635,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "被遗忘的战场",
+				"jp": "忘れられし戦場",
+				"en": "Old Battlefield"
+			},
 			"normal": {
 				"title": "Old Battlefield",
 				"code": "8-4",
@@ -19272,10 +19467,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "科曼多尔海战役",
+			"jp": "極北の海戦",
+			"en": "Battle Komandorski"
 		}
 	},
 	"9": {
 		"1": {
+			"names": {
+				"cn": "不祥之夜",
+				"jp": "凶兆の夜",
+				"en": "The Night is Dark"
+			},
 			"normal": {
 				"title": "The Night is Dark",
 				"code": "9-1",
@@ -19971,6 +20176,11 @@
 			}
 		},
 		"2": {
+			"names": {
+				"cn": "拦截作战",
+				"jp": "迎撃作戦",
+				"en": "Torpedo Rush"
+			},
 			"normal": {
 				"title": "Torpedo Rush",
 				"code": "9-2",
@@ -20671,6 +20881,11 @@
 			}
 		},
 		"3": {
+			"names": {
+				"cn": "黑夜中的光芒",
+				"jp": "暗闇の光",
+				"en": "Light in the Dark"
+			},
 			"normal": {
 				"title": "Light in the Dark",
 				"code": "9-3",
@@ -21434,6 +21649,11 @@
 			}
 		},
 		"4": {
+			"names": {
+				"cn": "海伦娜",
+				"jp": "ヘレナ",
+				"en": "Helena"
+			},
 			"normal": {
 				"title": "Helena",
 				"code": "9-4",
@@ -22197,10 +22417,20 @@
 					]
 				}
 			}
+		},
+		"names": {
+			"cn": "库拉湾海战",
+			"jp": "クラ湾海戦",
+			"en": "Battle of Kula Gulf"
 		}
 	},
 	"10": {
 		"1": {
+			"names": {
+				"cn": "再次出击，再次！",
+				"jp": "二度目の出撃",
+				"en": "Once More, Sortie Again!"
+			},
 			"normal": {
 				"title": "Once More, Sortie Again!",
 				"code": "10-1",
@@ -22548,6 +22778,11 @@
 			"hard": null
 		},
 		"2": {
+			"names": {
+				"cn": "先发制人",
+				"jp": "先制攻撃!",
+				"en": "Preemptive Strike"
+			},
 			"normal": {
 				"title": "Preemptive Strike",
 				"code": "10-2",
@@ -22941,6 +23176,11 @@
 			"hard": null
 		},
 		"3": {
+			"names": {
+				"cn": "乘胜追击",
+				"jp": "勝利に乗じて",
+				"en": "Press the Attack"
+			},
 			"normal": {
 				"title": "Press the Attack",
 				"code": "10-3",
@@ -23343,6 +23583,11 @@
 			"hard": null
 		},
 		"4": {
+			"names": {
+				"cn": "回马枪",
+				"jp": "釣り野伏",
+				"en": "Counterattack"
+			},
 			"normal": {
 				"title": "Counterattack",
 				"code": "10-4",
@@ -23748,10 +23993,20 @@
 				}
 			},
 			"hard": null
+		},
+		"names": {
+			"cn": "科隆班加拉岛夜战",
+			"jp": "コロンバンガラ島沖海戦",
+			"en": "Chapter 10: Night Battle of Kolombangara Island"
 		}
 	},
 	"11": {
 		"1": {
+			"names": {
+				"cn": "拂晓登陆！",
+				"jp": "夜明けの上陸作戦",
+				"en": "Landing Operation"
+			},
 			"normal": {
 				"title": "Landing Operation",
 				"code": "11-1",
@@ -24109,6 +24364,11 @@
 			"hard": null
 		},
 		"2": {
+			"names": {
+				"cn": "暴风雨之夜",
+				"jp": "嵐の夜",
+				"en": "Stormy Night"
+			},
 			"normal": {
 				"title": "Stormy Night",
 				"code": "11-2",
@@ -24527,6 +24787,11 @@
 			"hard": null
 		},
 		"3": {
+			"names": {
+				"cn": "所罗门四骑士",
+				"jp": "海上騎士団",
+				"en": "Knights of the Sea"
+			},
 			"normal": {
 				"title": "Knights of the Sea",
 				"code": "11-3",
@@ -24941,6 +25206,11 @@
 			"hard": null
 		},
 		"4": {
+			"names": {
+				"cn": "撕裂黑夜！",
+				"jp": "夜を切り裂いて",
+				"en": "Part the Night"
+			},
 			"normal": {
 				"title": "Part the Night",
 				"code": "11-4",
@@ -25396,10 +25666,20 @@
 				}
 			},
 			"hard": null
+		},
+		"names": {
+			"cn": "奥古斯塔皇后湾海战",
+			"jp": "エンプレスオーガスタ",
+			"en": "Chapter 11: Battle of Empress Augusta Bay"
 		}
 	},
 	"12": {
 		"1": {
+			"names": {
+				"cn": "先声夺人",
+				"jp": "先声夺人",
+				"en": "Information Warfare"
+			},
 			"normal": {
 				"title": "Information Warfare",
 				"code": "12-1",
@@ -25787,6 +26067,11 @@
 			"hard": null
 		},
 		"2": {
+			"names": {
+				"cn": "鲁莽的后果",
+				"jp": "鲁莽的后果",
+				"en": "Ambush"
+			},
 			"normal": {
 				"title": "Ambush",
 				"code": "12-2",
@@ -26226,6 +26511,11 @@
 			"hard": null
 		},
 		"3": {
+			"names": {
+				"cn": "空中对决",
+				"jp": "空中对决",
+				"en": "Carrier Showdown"
+			},
 			"normal": {
 				"title": "Carrier Showdown",
 				"code": "12-3",
@@ -26677,6 +26967,11 @@
 			"hard": null
 		},
 		"4": {
+			"names": {
+				"cn": "TF58，翱翔于天际",
+				"jp": "TF58，翱翔于天际",
+				"en": "Task Force"
+			},
 			"normal": {
 				"title": "Task Force",
 				"code": "12-4",
@@ -27245,10 +27540,18 @@
 				}
 			},
 			"hard": null
+		},
+		"names": {
+			"cn": "马里亚纳风云上",
+			"jp": "马里亚纳风云•上",
+			"en": "Chapter 12: Choppy water in the Mariana - Part 1"
 		}
 	},
 	"13": {
 		"1": {
+			"names": {
+				"en": "激战的长空"
+			},
 			"normal": {
 				"title": "激战的长空",
 				"code": "13-1",
@@ -27626,6 +27929,9 @@
 			"hard": null
 		},
 		"2": {
+			"names": {
+				"en": "羽栖之鹤"
+			},
 			"normal": {
 				"title": "羽栖之鹤",
 				"code": "13-2",
@@ -28070,6 +28376,9 @@
 			"hard": null
 		},
 		"3": {
+			"names": {
+				"en": "奋起之鹤"
+			},
 			"normal": {
 				"title": "奋起之鹤",
 				"code": "13-3",
@@ -28531,6 +28840,9 @@
 			"hard": null
 		},
 		"4": {
+			"names": {
+				"en": "起舞之凤"
+			},
 			"normal": {
 				"title": "起舞之凤",
 				"code": "13-4",
@@ -29069,6 +29381,9 @@
 				}
 			},
 			"hard": null
+		},
+		"names": {
+			"en": "Chapter 13"
 		}
 	}
 }
