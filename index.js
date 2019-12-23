@@ -37,8 +37,9 @@ module.exports = {
     publishShips: publishShips,
     publishEQ: publishEQ,
     refreshShips: refreshShips,
-    refreshImages: refreshImages,
     refreshEquipments: refreshEquipments,
+    refreshShipImages: refreshShipImages,
+    refreshEQImages: refreshEQImages,
     refreshChapter: refreshChapter
 }
 // Filtering the ship list
@@ -70,10 +71,10 @@ async function refreshShips(online) {
     console.log("\nDone");
 }
 
-async function refreshImages(overwrite) {
+async function refreshShipImages(overwrite) {
     if (IMAGE_PROGRESS.last_id) {
         console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
-        //deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
+        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
         console.log("Done")
     }
     console.log("Refreshing images...");
@@ -120,12 +121,26 @@ async function refreshImages(overwrite) {
     }
     IMAGE_PROGRESS.last_id = null;
     fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+    console.log("\nDone");
+}
+
+async function refreshEQImages(overwrite) {
+    if (IMAGE_PROGRESS.last_id) {
+        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + "./images/equipments/" + IMAGE_PROGRESS.last_id + ".png", IMAGE_PROGRESS.last_id);
+        if (fs.existsSync("./images/equipments/" + IMAGE_PROGRESS.last_id + ".png"))
+            fs.unlinkSync("./images/equipments/" + IMAGE_PROGRESS.last_id + ".png");
+        if (fs.existsSync("./images/equipments.animation/" + IMAGE_PROGRESS.last_id + ".gif"))
+            fs.unlinkSync("./images/equipments.animation/" + IMAGE_PROGRESS.last_id + ".gif");
+        console.log("Done")
+    }
     console.log("Equipments...");
     for (let cat in EQUIPMENTS) {
-        for (let key in EQUIPMENTS[cat]) {
-            let eq = EQUIPMENTS[cat][key];
+        for (let key in EQUIPMENTS) {
+            let eq = EQUIPMENTS[key];
             process.stdout.write(key);
-            let cleanName = key.replace(/[^\w\s\d]/g, '').replace(/\s+/g, '_');
+            let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            IMAGE_PROGRESS.last_id = cleanName;
+            fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
             if (!fs.existsSync("./images/equipments/" + cleanName + ".png") || overwrite)
                 await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
             process.stdout.write('.');
@@ -134,6 +149,8 @@ async function refreshImages(overwrite) {
             process.stdout.write('.\n');
         }
     }
+    IMAGE_PROGRESS.last_id = null;
+    fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
 }
 
@@ -201,8 +218,8 @@ function publishShips() {
         for (let skin of SHIPS[key].skins) {
             process.stdout.write(".");
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
-            skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_");
-            skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_");
+            skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.background = IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
             newSkins.push(skin); //not sure why but this feels safer
         }
@@ -211,7 +228,7 @@ function publishShips() {
         let newGallery = [];
         for (let item of SHIPS[key].gallery) {
             process.stdout.write(".");
-            item.url = IMAGE_REPO_URL + "images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1);
+            item.url = IMAGE_REPO_URL + "images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1).replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             newGallery.push(item);
         }
         SHIPS[key].gallery = newGallery;
@@ -230,7 +247,7 @@ function publishEQ() {
     EQUIPMENTS_PUBLIC = {};
     for (let key in EQUIPMENTS) {
         EQUIPMENTS_PUBLIC[key] = clone(EQUIPMENTS[key]);
-        let cleanName = key.replace(/[^\w\s\d]/g, '').replace(/\s+/g, '_');
+        let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
         EQUIPMENTS_PUBLIC[key].image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
         EQUIPMENTS_PUBLIC[key].misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
         process.stdout.write('.');

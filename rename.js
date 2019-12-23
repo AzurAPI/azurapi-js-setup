@@ -6,7 +6,7 @@ function renameAll(path) {
         files = fs.readdirSync(path);
         files.forEach(function(file, index) {
             var curPath = path + "/" + file;
-            var correctPath = path + "/" + file.replace(/ +/g, "_");
+            var correctPath = path + "/" + file.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             if (fs.statSync(curPath).isDirectory()) { // recurse
                 renameAll(curPath);
                 fs.renameSync(curPath, correctPath);
