@@ -578,7 +578,7 @@ function parseEquipment(href, category, body) {
         wikiUrl: href,
         category: category,
         names: {
-            en: doc.querySelector('[lang="en"]') ? doc.querySelector('[lang="en"]').textContent : null,
+            en: doc.querySelector('[lang="en"]') ? doc.querySelector('[lang="en"]').textContent : tabs[0].querySelector(".eqtitle").childNodes[0].textContent,
             cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
             jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
             kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
