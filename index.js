@@ -67,14 +67,18 @@ async function refreshShips(online) {
         if (!ship) continue;
         SHIPS_INTERNAL[key] = ship;
         fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
+        if (shipCounter === 200 || shipCounter === 400) {
+            console.log("Program Stopped to prevent a crush")
+            break;
+        }
     }
     console.log("\nDone");
 }
 
 async function refreshShipImages(overwrite) {
-    if (IMAGE_PROGRESS.last_id) {
-        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
-        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
+    if (IMAGE_PROGRESS.inProgress) {
+        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.inProgress + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.inProgress));
+        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.inProgress));
         console.log("Done")
     }
     console.log("Refreshing images...");
@@ -82,7 +86,7 @@ async function refreshShipImages(overwrite) {
     console.log("Images from ships...");
     for (let key in SHIPS_INTERNAL) {
         let ship = SHIPS_INTERNAL[key];
-        IMAGE_PROGRESS.last_id = key;
+        IMAGE_PROGRESS.inProgress = key;
         fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
         let root_folder = SKIN_PATH.replace('${id}', ship.id);
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
@@ -119,18 +123,18 @@ async function refreshShipImages(overwrite) {
         shipCounter++;
         if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
-    IMAGE_PROGRESS.last_id = null;
+    IMAGE_PROGRESS.inProgress = null;
     fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
 }
 
 async function refreshEQImages(overwrite) {
-    if (IMAGE_PROGRESS.last_id) {
-        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + "./images/equipments/" + IMAGE_PROGRESS.last_id + ".png", IMAGE_PROGRESS.last_id);
-        if (fs.existsSync("./images/equipments/" + IMAGE_PROGRESS.last_id + ".png"))
-            fs.unlinkSync("./images/equipments/" + IMAGE_PROGRESS.last_id + ".png");
-        if (fs.existsSync("./images/equipments.animation/" + IMAGE_PROGRESS.last_id + ".gif"))
-            fs.unlinkSync("./images/equipments.animation/" + IMAGE_PROGRESS.last_id + ".gif");
+    if (IMAGE_PROGRESS.inProgress) {
+        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.inProgress + "\". Deleting " + "./images/equipments/" + IMAGE_PROGRESS.inProgress + ".png", IMAGE_PROGRESS.inProgress);
+        if (fs.existsSync("./images/equipments/" + IMAGE_PROGRESS.inProgress + ".png"))
+            fs.unlinkSync("./images/equipments/" + IMAGE_PROGRESS.inProgress + ".png");
+        if (fs.existsSync("./images/equipments.animation/" + IMAGE_PROGRESS.inProgress + ".gif"))
+            fs.unlinkSync("./images/equipments.animation/" + IMAGE_PROGRESS.inProgress + ".gif");
         console.log("Done")
     }
     console.log("Equipments...");
@@ -139,7 +143,7 @@ async function refreshEQImages(overwrite) {
             let eq = EQUIPMENTS[key];
             process.stdout.write(key);
             let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-            IMAGE_PROGRESS.last_id = cleanName;
+            IMAGE_PROGRESS.inProgress = cleanName;
             fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
             if (!fs.existsSync("./images/equipments/" + cleanName + ".png") || overwrite)
                 await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
@@ -149,7 +153,7 @@ async function refreshEQImages(overwrite) {
             process.stdout.write('.\n');
         }
     }
-    IMAGE_PROGRESS.last_id = null;
+    IMAGE_PROGRESS.inProgress = null;
     fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
 }
@@ -376,31 +380,39 @@ function parseShip(name, body) {
             }
         }];
         ship.rarity = "Unreleased";
-        ship.enhance_value = {
+        ship.enhanceValue = {
             firepower: 0,
             torpedo: 0,
             aviation: 0,
             reload: 0
         };
         ship.slots = [{}, {}, {}];
-        ship.scrap_value = {
+        ship.scrapValue = {
             coin: 0,
             oil: 0,
             medal: 0
         };
         ship.gallery = [];
         ship.construction = {
-            "construction_time": "Cannot Be Constructed",
-            "available_in": {
-                "Light": false,
-                "Heavy": false,
-                "Aviation": false,
-                "Limited": false,
-                "Exchange": false
+            "constructionTime": "Cannot Be Constructed",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": false,
+                "exchange": false
             }
         };
-        ship.limit_breaks = [{}, {}, {}];
-        ship.skills = [{}, {}, {}];
+        ship.limitBreaks = {
+            "1": {},
+            "2": {},
+            "3": {}
+        };
+        ship.skills = {
+            "1": {},
+            "2": {},
+            "3": {}
+        };
         return ship;
     }
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
@@ -412,26 +424,25 @@ function parseShip(name, body) {
         value: stars.split("★").length - 1
     };
     ship.stats = parseStats(doc);
-    let eqslots = [doc.querySelector(".nomobile > div > .wikitable tr:nth-child(3)"), doc.querySelector(".nomobile > div > .wikitable tr:nth-child(4)"), doc.querySelector(".nomobile > div > .wikitable tr:nth-child(5)")];
-    ship.slots = eqslots.map(slot => parseShipEQSlot(slot));
-    let enhance_values = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
-    if (enhance_values.length < 7) ship.enhance_value = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
-    else ship.enhance_value = {
-        firepower: parseInt(enhance_values[0].textContent.trim()),
-        torpedo: parseInt(enhance_values[2].textContent.trim()),
-        aviation: parseInt(enhance_values[4].textContent.trim()),
-        reload: parseInt(enhance_values[6].textContent.trim())
+    ship.slots = {};
+    for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector(".nomobile > div > .wikitable tr:nth-child(" + (i + 3) + ")"));
+    let enhanceValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
+    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
+    else ship.enhanceValue = {
+        firepower: parseInt(enhanceValues[0].textContent.trim()),
+        torpedo: parseInt(enhanceValues[2].textContent.trim()),
+        aviation: parseInt(enhanceValues[4].textContent.trim()),
+        reload: parseInt(enhanceValues[6].textContent.trim())
     };
-    let scrap_values = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
-    if (scrap_values.length < 5) ship.scrap_value = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
-    else ship.scrap_value = {
-        coin: parseInt(scrap_values[0].textContent.trim()),
-        oil: parseInt(scrap_values[2].textContent.trim()),
-        medal: parseInt(scrap_values[4].textContent.trim())
+    let scrapValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
+    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
+    else ship.scrapValue = {
+        coin: parseInt(scrapValues[0].textContent.trim()),
+        oil: parseInt(scrapValues[2].textContent.trim()),
+        medal: parseInt(scrapValues[4].textContent.trim())
     };
-    let shipLSk = parseShipLSKTable(doc.querySelector(".nomobile:nth-child(5)"));
-    ship.skills = shipLSk.skills;
-    ship.limit_breaks = shipLSk.limits;
+    ship.skills = parseSkills(doc.getElementById("Skills"));
+    ship.limitBreaks = parseShipLimits(doc.querySelector(".nomobile:nth-child(5)"));
     ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
     ship.gallery = parseShipGallery(doc);
     ship.misc = {
@@ -448,18 +459,19 @@ function parseShip(name, body) {
             name: misc_selectors[3].textContent,
             url: misc_selectors[3].getAttribute("href")
         } : null,
-        voice: misc_selectors[4] ? misc_selectors[4].textContent : null
+        voice: misc_selectors[4] ? {
+            name: misc_selectors[4].parentElement.lastElementChild.textContent,
+            url: misc_selectors[4].parentElement.lastElementChild.href
+        } : null
     };
     return ship;
 }
 
-function parseShipLSKTable(skill_table) {
+function parseShipLimits(skill_table) {
     let rows = skill_table.getElementsByTagName("tr");
-    rows = [rows[1], rows[2], rows[3]];
-    return {
-        skills: rows.map(parseSkill),
-        limits: rows.map(parseLimitBreak)
-    };
+    let limits = {};
+    for (let i = 1; i < 4; i++) limits[i] = parseLimitBreak(rows[i]);
+    return limits;
 }
 
 function parseLimitBreak(row) {
@@ -469,30 +481,33 @@ function parseLimitBreak(row) {
     };
 }
 
-function parseSkill(row) {
-    let skill = {
-        description: row.lastElementChild.textContent.trim()
-    };
-    if (skill.description) {
-        let cn_name = row.children[2].children[2] ? row.children[2].children[2].textContent.trim() : null;
-        let jp_name = row.children[2].children[4] ? row.children[2].children[4].textContent.trim() : null;
-        skill.names = {
-            en: row.children[2].firstElementChild.textContent.trim(),
-            cn: cn_name ? cn_name.substring(cn_name.indexOf(":") + 2) : null,
-            jp: jp_name ? jp_name.substring(jp_name.indexOf(":") + 2) : null
-        };
-        return skill;
-    } else return {};
+function parseSkills(table) {
+    let rows = table.getElementsByTagName("tr");
+    let skills = {};
+    for (let i = 1, j = 1; j < 4; i += 4, j++) skills[j] = parseSkill(rows[i], rows[i + 2]);
+    return skills;
+}
+
+function parseSkill(title, body) {
+    if (!title || !body) return null;
+    return {
+        icon: title.getElementsByTagName("a")[0].href,
+        names: {
+            en: title.lastElementChild.lastElementChild.lastElementChild.childNodes[0].textContent,
+            cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
+            jp: title.querySelector("[lang='ja']") ? title.querySelector("[lang='ja']").textContent : null
+        },
+        description: body.textContent.trim()
+    }
 }
 
 function parseShipEQSlot(slot) {
     let eqslot = {
-        index: parseInt(slot.children[0].textContent.trim()),
         type: slot.children[2].textContent.trim()
     };
     if (slot.children[1].firstElementChild) {
-        eqslot.min_efficiency = parseInt(slot.children[1].firstElementChild.textContent.replace('%', ''));
-        eqslot.max_efficiency = parseInt(slot.children[1].lastElementChild.textContent.replace('%', ''));
+        eqslot.minEfficiency = parseInt(slot.children[1].firstElementChild.textContent.replace('%', ''));
+        eqslot.maxEfficiency = parseInt(slot.children[1].lastElementChild.textContent.replace('%', ''));
     }
     return eqslot;
 }
@@ -514,10 +529,10 @@ function parseStats(doc) {
                     row.querySelectorAll("td").forEach(cell => rangeRow.push(cell.style.backgroundColor ? cell.style.backgroundColor === "PaleGreen" ? "S" : (cell.textContent.trim() ? cell.textContent.trim() : "*") : ""));
                     range.push(rangeRow);
                 });
-                stats[type] = range;
-            } else stats[type] = bodies[j].textContent.trim();
+                stats[camelize(type.replace(/[^\w ]/g, ''))] = range;
+            } else stats[camelize(type.replace(/[^\w ]/g, ''))] = bodies[j].textContent.trim();
         }
-        allStats[title] = stats;
+        allStats[camelize(title.replace(/[^\w ]/g, ''))] = stats;
     });
     return allStats;
 }
@@ -542,7 +557,7 @@ function parseGallery(name, body) {
 function parseShipConstruction(construction_tbody) {
     let construction_time = construction_tbody.children[1].firstElementChild.textContent.trim();
     let available = {};
-    let construction_types = ["Light", "Heavy", "Aviation", "Limited", "Exchange"];
+    let construction_types = ["light", "heavy", "aviation", "limited", "exchange"];
     for (let i = 0; i < 5; i++) {
         let elem = construction_tbody.children[3].children[i];
         let value = elem.textContent.trim();
@@ -551,8 +566,8 @@ function parseShipConstruction(construction_tbody) {
         available[construction_types[i]] = value;
     }
     return {
-        construction_time: construction_time,
-        available_in: available
+        constructionTime: construction_time,
+        availableIn: available
     };
 }
 
@@ -631,8 +646,8 @@ function parseEquipmentInfo(eqbox) {
 
 function parseEquipmentStats(eqstats) {
     let stats = {};
-    for (row of eqstats.getElementsByClassName("eq-tr")) stats[row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()] =
-        parseEquipmentStatsSlot(row.lastElementChild)
+    for (row of eqstats.getElementsByClassName("eq-tr"))
+        stats[camelize((row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()).replace(/[^\w ]/g, ''))] = parseEquipmentStatsSlot(row.lastElementChild);
     return stats;
 }
 
@@ -707,7 +722,7 @@ function parseEquipmentStatsSlot(valueNode) {
 function parseEquipmentFit(eqfits) {
     let fits = {};
     for (row of eqfits.getElementsByTagName("tr")) { // GRR, it was an one liner, unlucky me had to debug it
-        let name = row.children[1].textContent.trim();
+        let name = camelize(row.children[1].textContent.trim());
         if (row.children[2].textContent.trim() === "✘") fits[name] = null;
         else if (row.children[2].textContent.trim() === "✔") fits[name] = "primary";
         else fits[name] = row.children[2].getElementsByClassName("tooltiptext")[0] ? row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim() : "unspecified";
@@ -720,7 +735,7 @@ function parseEquipmentFit(eqfits) {
 function parseEquipmentMisc(eqmisc) {
     let datas = eqmisc.getElementsByClassName("eq-td");
     return {
-        obtained_from: datas[0].textContent,
+        obtainedFrom: datas[0].textContent,
         notes: datas[1].textContent,
         animation: datas.length > 2 ? ("https://azurlane.koumakan.jp" + datas[2].firstElementChild.firstElementChild.src) : null
     };
@@ -816,4 +831,11 @@ function getHash(text) {
     hash.write(text);
     hash.end();
     return hash.read();
+}
+
+function camelize(str) {
+    return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, (match, i) => {
+        if (+match === 0) return "";
+        return i == 0 ? match.toLowerCase() : match.toUpperCase();
+    });
 }
