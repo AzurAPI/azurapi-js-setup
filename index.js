@@ -130,27 +130,21 @@ async function refreshShipImages() {
     console.log("\nDone");
 }
 
-async function refreshEQImages(overwrite) {
+async function refreshEQImages() {
     if (IMAGE_PROGRESS.inProgress) {
         console.log("Program Last Stopped at \"" + IMAGE_PROGRESS.inProgress + "\"");
         if (fs.existsSync(IMAGE_PROGRESS.inProgress)) fs.unlinkSync(IMAGE_PROGRESS.inProgress);
         console.log("Done")
     }
     console.log("Equipments...");
-    for (let cat in EQUIPMENTS) {
-        for (let key in EQUIPMENTS) {
-            let eq = EQUIPMENTS[key];
-            process.stdout.write(key);
-            let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-            IMAGE_PROGRESS.inProgress = cleanName;
-            fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-            if (!fs.existsSync("./images/equipments/" + cleanName + ".png") || overwrite)
-                await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
-            process.stdout.write('.');
-            if (eq.misc.animation && !fs.existsSync("./images/equipments.animation/" + cleanName + ".gif") || overwrite)
-                await fetchImage(eq.misc.animation, "./images/equipments.animation/" + cleanName + ".gif");
-            process.stdout.write('.\n');
-        }
+    for (let key in EQUIPMENTS) {
+        let eq = EQUIPMENTS[key];
+        let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+        IMAGE_PROGRESS.inProgress = cleanName;
+        fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+        await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
+        if (eq.misc.animation)
+            await fetchImage(eq.misc.animation, "./images/equipments.animation/" + cleanName + ".gif");
     }
     IMAGE_PROGRESS.inProgress = null;
     fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
@@ -160,18 +154,18 @@ async function refreshEQImages(overwrite) {
 async function refreshEquipments(online) {
     let data;
     process.stdout.write("Refreshing Equipments");
-    if (!fs.existsSync('./web/equipments/equipment_list.html') || online) fs.writeFileSync('./web/equipments/equipment_list.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
-    else data = fs.readFileSync('./web/equipments/equipment_list.html', 'utf8');
+    if (!fs.existsSync('./web/equipments/index.html') || online) fs.writeFileSync('./web/equipments/index.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
+    else data = fs.readFileSync('./web/equipments/index.html', 'utf8');
     process.stdout.write("EQ Menu Loaded\n");
     for (let equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
         let category = equipment_type.textContent;
         console.log("Refreshing Equipments type= " + category + "...");
-        if (!fs.existsSync('./web/equipments/' + category + '_list.html') || online) {
+        if (!fs.existsSync('./web/equipments/' + category + '.html') || online) {
             process.stdout.write("Getting List...");
             data = await fetch("https://azurlane.koumakan.jp" + equipment_type.firstElementChild.getAttribute("href"))
-            fs.writeFileSync('./web/equipments/' + category + '_list.html', data);
+            fs.writeFileSync('./web/equipments/' + category + '.html', data);
             process.stdout.write("Done\n");
-        } else data = fs.readFileSync('./web/equipments/' + category + '_list.html', 'utf8');
+        } else data = fs.readFileSync('./web/equipments/' + category + '.html', 'utf8');
         if (!fs.existsSync('./web/equipments/' + category)) fs.mkdirSync('./web/equipments/' + category);
         let doc = new JSDOM(data).window.document;
         console.log("List Done");

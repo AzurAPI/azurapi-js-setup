@@ -5645,7 +5645,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_17_DP_Prototype)",
 		"category": "Light Cruiser Guns",
 		"names": {
-			"en": "试作型三联装152mm高平两用炮Mk17",
+			"en": "Prototype Triple 152mm Main Gun (DP MK17)",
 			"cn": "试作型三联装152mm高平两用炮Mk17",
 			"jp": "試作型三連装152mm両用砲Mk17",
 			"kr": "시제형 3연장 152mm 양용포 Mk17"
@@ -8415,7 +8415,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype)",
 		"category": "Heavy Cruiser Guns",
 		"names": {
-			"en": "试作型三联装310mm主炮",
+			"en": "Prototype Triple 310mm Main Gun (Type 0)",
 			"cn": "试作型三联装310mm主炮",
 			"jp": "試作型三連装310mm砲",
 			"kr": "시제형 3연장 310mm 포"
@@ -8444,7 +8444,7 @@
 		"misc": {
 			"obtainedFrom": "Acquired through research only.",
 			"notes": "No notes",
-			"animation": null
+			"animation": "https://azurlane.koumakan.jp/w/images/c/cc/Bullet_pattern_equip_33100.gif"
 		},
 		"tiers": {
 			"T0": {
@@ -9758,9 +9758,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9826,9 +9825,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9894,9 +9892,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10000,9 +9997,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "25",
-						"unit": "°"
+						"type": "value",
+						"value": "22"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10068,9 +10064,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "25",
-						"unit": "°"
+						"type": "value",
+						"value": "22"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10136,9 +10131,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "25",
-						"unit": "°"
+						"type": "value",
+						"value": "22"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10242,9 +10236,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10310,9 +10303,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10378,9 +10370,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10484,9 +10475,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10552,9 +10542,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10620,9 +10609,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10726,9 +10714,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10832,9 +10819,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10900,9 +10886,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10968,9 +10953,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11074,9 +11058,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11180,9 +11163,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11248,9 +11230,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11316,9 +11297,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "24",
-						"unit": "°"
+						"type": "value",
+						"value": "21"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11422,9 +11402,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11490,9 +11469,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11558,9 +11536,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11664,9 +11641,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11732,9 +11708,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11800,9 +11775,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11906,9 +11880,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "19"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12012,9 +11985,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12118,9 +12090,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12186,9 +12157,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12254,9 +12224,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12360,9 +12329,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12428,9 +12396,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12496,9 +12463,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12602,9 +12568,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12670,9 +12635,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12738,9 +12702,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12844,9 +12807,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "22",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -12950,9 +12912,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13018,9 +12979,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13086,9 +13046,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13131,7 +13090,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)",
 		"category": "Battleship Guns",
 		"names": {
-			"en": "试作型双联装406mmSKC主炮",
+			"en": "Prototype Twin 406mm Main Gun (SK C/34)",
 			"cn": "试作型双联装406mmSKC主炮",
 			"jp": "試作型406mmSKC連装砲",
 			"kr": "시제형 406mm SKC 연장포"
@@ -13192,9 +13151,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13298,9 +13256,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13366,9 +13323,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13434,9 +13390,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "16"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13507,7 +13462,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Acquired for 2500  in Visitors Dyed in Red and Visitors Dyed in Red Rerun event shop, or through research.",
-			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes.",
+			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread.",
 			"animation": null
 		},
 		"tiers": {
@@ -13540,9 +13495,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "20",
-						"unit": "°"
+						"type": "value",
+						"value": "12"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -13585,7 +13539,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_457mm_(Mark_A_Prototype)",
 		"category": "Battleship Guns",
 		"names": {
-			"en": "试作型双联装457mm主炮MKA",
+			"en": "Prototype Twin 457mm Main Gun (18\" MKA)",
 			"cn": "试作型双联装457mm主炮MKA",
 			"jp": "試作型457mm連装砲MKA",
 			"kr": "시제형 457mm 연장포 MKA"
@@ -13613,7 +13567,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
+			"notes": "Has a splash radius of 16, compared to 15 for most BB shells.",
 			"animation": null
 		},
 		"tiers": {
@@ -13646,9 +13600,8 @@
 						"per": "volley"
 					},
 					"spread": {
-						"type": "value_unit",
-						"value": "23",
-						"unit": "°"
+						"type": "value",
+						"value": "17"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -27451,7 +27404,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936",
 		"category": "Anti-Air Guns",
 		"names": {
-			"en": "双联37mm高射炮Mle1936",
+			"en": "Twin 37mm AA Gun (Mle 1936)",
 			"cn": "双联37mm高射炮Mle1936",
 			"jp": "二連装37mm高射砲Mle1936",
 			"kr": "2연장 37mm 고사포 Mle1936"
@@ -27679,7 +27632,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV",
 		"category": "Anti-Air Guns",
 		"names": {
-			"en": "Twin 40mm Bofors Hazemeyer Mount Mk IV",
+			"en": "Twin 40mm Bofors \"Hazemeyer\" AA Gun",
 			"cn": "双联装40mm博福斯海兹梅耶",
 			"jp": "連装ボフォース40mm機関砲「Hazemeyer」",
 			"kr": "40mm 연장 보포스 해즐미어"
@@ -27759,7 +27712,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98",
 		"category": "Anti-Air Guns",
 		"names": {
-			"en": "试作型五式40mm高射机关炮",
+			"en": "Prototype 40mm AA Gun (Type 5)",
 			"cn": "试作型五式40mm高射机关炮",
 			"jp": "試作型五式40mm高射機関砲",
 			"kr": "시제형 5식 40mm 고사기관포"
