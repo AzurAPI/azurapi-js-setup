@@ -21,6 +21,7 @@ let CHAPTERS = require("./chapters.json");
 let SHIPS_INTERNAL = require("./ships.internal.json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
+let PATH_SIZE = require("./path-sizes.json")
 
 const HEADERS = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
@@ -58,7 +59,7 @@ async function refreshShips(online) {
     let shipCounter = 0;
     fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
     console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
-    console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
+    console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS_INTERNAL).length + " ships from cache.");
     let keys = Object.keys(SHIP_LIST);
     for (key of keys) {
         let ship = await refreshShip(key, online);
@@ -75,10 +76,10 @@ async function refreshShips(online) {
     console.log("\nDone");
 }
 
-async function refreshShipImages(overwrite) {
+async function refreshShipImages() {
     if (IMAGE_PROGRESS.inProgress) {
-        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.inProgress + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.inProgress));
-        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.inProgress));
+        console.log("Program Last Stopped at \"" + IMAGE_PROGRESS.inProgress + "\"");
+        if (fs.existsSync(IMAGE_PROGRESS.inProgress)) fs.unlinkSync(IMAGE_PROGRESS.inProgress);
         console.log("Done")
     }
     console.log("Refreshing images...");
@@ -86,55 +87,53 @@ async function refreshShipImages(overwrite) {
     console.log("Images from ships...");
     for (let key in SHIPS_INTERNAL) {
         let ship = SHIPS_INTERNAL[key];
-        IMAGE_PROGRESS.inProgress = key;
-        fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
         let root_folder = SKIN_PATH.replace('${id}', ship.id);
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
         process.stdout.write(`${key}`);
-        if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
-            await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
+        await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
         process.stdout.write("-");
         for (let skin of ship.skins) {
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
             let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_");
             let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_");
-            if (skin.image !== null && (!fs.existsSync(image_path) || overwrite))
-                await fetchImage(skin.image, image_path);
+            if (skin.image !== null) await fetchImage(skin.image, image_path);
             process.stdout.write(".");
-            if (skin.chibi !== null && (!fs.existsSync(chibi_path) || overwrite))
-                await fetchImage(skin.chibi, chibi_path);
+            if (skin.chibi !== null) await fetchImage(skin.chibi, chibi_path);
             process.stdout.write("|");
-            if (skin.background !== null && (!fs.existsSync("./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1)) || overwrite)) {
-                await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
-                console.log("\nDownloaded " + skin.background);
-            }
+            if (skin.background !== null) await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
         }
         process.stdout.write("G");
         for (let item of ship.gallery) {
-            if (item.url !== null && (!fs.existsSync("./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1)) || overwrite)) {
-                IMAGE_PROGRESS.last_gallery_item = item.url.substring(item.url.lastIndexOf('/') + 1);
-                fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-                process.stdout.write("\nDownloading gallery item " + IMAGE_PROGRESS.last_gallery_item);
-                await fetchImage(item.url, "./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1));
-                console.log("Done");
+            if (item.url !== null) {
+                let path = "./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1);
+                await fetchImage(item.url, path);
             }
         }
+        process.stdout.write("S");
+        let getSkillIcon = async (skill) => {
+            if (!skill) return;
+            let path = "./images/skills/" + key + "/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
+            if (skill.icon !== null)
+                await fetchImage(skill.icon, path);
+        };
+        if (!fs.existsSync("./images/skills/" + key)) fs.mkdirSync("./images/skills/" + key);
+        await getSkillIcon(ship.skills["1"]);
+        process.stdout.write("1");
+        await getSkillIcon(ship.skills["2"]);
+        process.stdout.write("2");
+        await getSkillIcon(ship.skills["3"]);
+        process.stdout.write("3|");
         shipCounter++;
         if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
-    IMAGE_PROGRESS.inProgress = null;
-    fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
 }
 
 async function refreshEQImages(overwrite) {
     if (IMAGE_PROGRESS.inProgress) {
-        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.inProgress + "\". Deleting " + "./images/equipments/" + IMAGE_PROGRESS.inProgress + ".png", IMAGE_PROGRESS.inProgress);
-        if (fs.existsSync("./images/equipments/" + IMAGE_PROGRESS.inProgress + ".png"))
-            fs.unlinkSync("./images/equipments/" + IMAGE_PROGRESS.inProgress + ".png");
-        if (fs.existsSync("./images/equipments.animation/" + IMAGE_PROGRESS.inProgress + ".gif"))
-            fs.unlinkSync("./images/equipments.animation/" + IMAGE_PROGRESS.inProgress + ".gif");
+        console.log("Program Last Stopped at \"" + IMAGE_PROGRESS.inProgress + "\"");
+        if (fs.existsSync(IMAGE_PROGRESS.inProgress)) fs.unlinkSync(IMAGE_PROGRESS.inProgress);
         console.log("Done")
     }
     console.log("Equipments...");
@@ -236,6 +235,14 @@ function publishShips() {
             newGallery.push(item);
         }
         SHIPS[key].gallery = newGallery;
+        let publishSkill = async (skill) => {
+            if (!skill) return {};
+            let path = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
+            skill.icon = path;
+            return skill;
+        };
+        for (let i = 1; i <= 3; i++)
+            SHIPS[key].skills[i] = publishSkill(SHIPS[key].skills[i]);
         process.stdout.write("|");
     }
     let ships_value = JSON.stringify(SHIPS);
@@ -287,7 +294,7 @@ async function refreshEquipment(href, name, category, online) {
 
 // Get the updated list of ships
 async function fetchShipList(online) {
-    if (!online || SHIP_LIST.length != 0) return SHIP_LIST;
+    if (!online && Object.keys(SHIP_LIST).length !== 0) return SHIP_LIST;
     let LIST = {};
     new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships")).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
         let columns = table_ship.childNodes;
@@ -305,20 +312,23 @@ async function fetchShipList(online) {
 async function fetchShip(name, online) {
     let data;
     if (online) { // Fetch from the wiki directly
-        data = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
+        data = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name) + "?useformat=desktop")
         fs.writeFileSync('./web/ships/' + name + '.html', data);
     } else {
         if (!fs.existsSync('./web/ships/' + name + '.html')) return fetchShip(name, true); // Enforcing
         data = fs.readFileSync('./web/ships/' + name + '.html', 'utf8'); // Read from local cache
     }
+    process.stdout.write(".");
     let ship = parseShip(name, data);
+    process.stdout.write("|");
     ship.skins = await fetchGallery(name, online)
+    process.stdout.write("|");
     return ship;
 }
 
 async function fetchGallery(name, online) {
     if (online) {
-        const body = await fetch("https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_") + "/Gallery");
+        const body = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name) + "/Gallery");
         fs.writeFileSync('./web/ships.gallery/' + name + '.html', body);
         return parseGallery(name, body);
     } else {
@@ -404,14 +414,14 @@ function parseShip(name, body) {
             }
         };
         ship.limitBreaks = {
-            "1": {},
-            "2": {},
-            "3": {}
+            "1": null,
+            "2": null,
+            "3": null
         };
         ship.skills = {
-            "1": {},
-            "2": {},
-            "3": {}
+            "1": null,
+            "2": null,
+            "3": null
         };
         return ship;
     }
@@ -493,12 +503,12 @@ function parseSkill(title, body) {
     return {
         icon: title.getElementsByTagName("a")[0].href,
         names: {
-            en: title.lastElementChild.lastElementChild.lastElementChild.childNodes[0].textContent,
+            en: title.firstElementChild.firstElementChild.lastElementChild.childNodes[0].textContent,
             cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
             jp: title.querySelector("[lang='ja']") ? title.querySelector("[lang='ja']").textContent : null
         },
         description: body.textContent.trim()
-    }
+    };
 }
 
 function parseShipEQSlot(slot) {
@@ -778,13 +788,60 @@ function fetch(url) {
         headers: HEADERS
     }, (error, res, body) => {
         if (error) reject(error);
-        else setTimeout(() => resolve(body), 5500); // Added a delay of 5.5s to prevent wiki server overload
+        else resolve(body);
+        //else setTimeout(() => resolve(body), 5500); // Added a delay of 5.5s to prevent wiki server overload
     }));
 }
-// Downloading images
-async function fetchImage(url, localPath) {
-    await timeout(5500);
-    return new Promise((resolve, reject) => request(url).pipe(fs.createWriteStream(localPath)).on('finish', resolve).on('error', reject));
+
+function head(url) {
+    return new Promise((resolve, reject) => {
+        request.head(url, function(err, res, body) {
+            resolve({
+                err: err,
+                res: res,
+                body: body
+            });
+        });
+    });
+}
+
+function fetchImage(url, localPath) {
+    //await timeout(5500);
+    return new Promise((resolve, reject) => {
+        if (fs.existsSync(localPath)) { // Check local file
+            verifyFile(url, localPath).then(valid => {
+                if (valid) {
+                    process.stdout.write("-");
+                    resolve();
+                } else {
+                    fs.unlinkSync(localPath);
+                    fetchImage(url, localPath).then(resolve);
+                }
+            });
+        } else {
+            IMAGE_PROGRESS.inProgress = localPath;
+            fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+            request(url).pipe(fs.createWriteStream(localPath)).on('close', () => {
+                IMAGE_PROGRESS.inProgress = null;
+                fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+                resolve();
+            }).on('error', reject);
+        }
+    });
+}
+
+async function verifyFile(url, localPath) {
+    let correctSize;
+    if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
+    else {
+        PATH_SIZE[url] = correctSize = parseInt((await head(url)).res.headers['content-length']);
+        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE));
+    }
+    if (fs.statSync(localPath)["size"] === correctSize) return true;
+    else {
+        console.log("File Corrupted: " + localPath);
+        return false;
+    }
 }
 
 function deleteAll(path) {
