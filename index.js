@@ -520,7 +520,7 @@ function parseDevelopmentLevelBuff(row) {
                 image = row.childNodes[i];
                 text = row.childNodes[i + 1];
             }
-            buffs[camelize(image.title)] = text.textContent.replace(',', '').trim();
+            buffs[camelize(image.title.replace(/[^\w ]/g, ''))] = text.textContent.replace(',', '').trim();
             i += 2;
         }
         return buffs;
@@ -836,6 +836,7 @@ function head(url) {
 
 function fetchImage(url, localPath) {
     //await timeout(5500);
+    if (url.includes("thumb")) url = galleryThumbnailUrlToActualUrl(url);
     return new Promise((resolve, reject) => {
         if (fs.existsSync(localPath)) { // Check local file
             verifyFile(url, localPath).then(valid => {
