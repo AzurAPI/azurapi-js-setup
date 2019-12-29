@@ -446,7 +446,8 @@ function parseShip(name, body) {
         medal: parseInt(scrapValues[4].textContent.trim())
     };
     ship.skills = parseSkills(doc.getElementById("Skills"));
-    ship.limitBreaks = parseShipLimits(doc.querySelector(".nomobile:nth-child(5)"));
+    if (ship.rarity === "Priority" || ship.rarity === "Decisive") ship.devLevels = parseDevelopmentLevels(doc.querySelector("#Development_levels tbody"));
+    else ship.limitBreaks = parseShipLimits(doc.querySelector("#Limit_breaks tbody"));
     ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
     ship.gallery = parseShipGallery(doc);
     ship.misc = {
@@ -479,17 +480,51 @@ function parseShipLimits(skill_table) {
 }
 
 function parseLimitBreak(row) {
-    return {
-        limit: row.children[0].textContent.trim(),
-        description: row.children[1].textContent.trim()
-    };
+    let buffs = [];
+    let rows = row.children[1].children;
+    for (let i = 0; i < rows.length; i++) buffs.push(rows[i].textContent.trim())
+    return buffs;
 }
 
 function parseSkills(table) {
     let rows = table.getElementsByTagName("tr");
     let skills = {};
-    for (let i = 1, j = 1; j < 4; i += 4, j++) skills[j] = parseSkill(rows[i], rows[i + 2]);
+    let skill_count = 3;
+    if (rows.length >= 20) skill_count = 5;
+    for (let i = 1, j = 1; j < 1 + skill_count; i += 4, j++) skills[j] = parseSkill(rows[i], rows[i + 2]);
     return skills;
+}
+
+function parseDevelopmentLevels(table) {
+    let rows = table.getElementsByTagName("tr");
+    let levels = {};
+    for (let i = 1; i < rows.length; i++) {
+        let buff_rows = rows[i].lastElementChild.children;
+        let buffs = [];
+        for (let j = 0; j < buff_rows.length; j++) buffs.push(parseDevelopmentLevelBuff(buff_rows[j]));
+        levels[rows[i].firstElementChild.textContent.trim()] = buffs;
+    }
+    return levels;
+}
+
+function parseDevelopmentLevelBuff(row) {
+    if (row.childElementCount === 0) return row.textContent.trim(); // pure text
+    else {
+        let buffs = {};
+        for (let i = 0; i < row.childNodes.length;) {
+            let image, text;
+            if (row.childNodes[i].tagName === "DIV") {
+                image = row.childNodes[i].childNodes[0];
+                text = row.childNodes[i].childNodes[1];
+            } else {
+                image = row.childNodes[i];
+                text = row.childNodes[i + 1];
+            }
+            buffs[camelize(image.title)] = text.textContent.replace(',', '').trim();
+            i += 2;
+        }
+        return buffs;
+    }
 }
 
 function parseSkill(title, body) {
@@ -545,7 +580,7 @@ function parseGallery(name, body) {
     let skins = [];
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
-        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[row.getElementsByTagName("th")[0].textContent.trim()] = row.getElementsByTagName("td")[0].textContent.trim());
+        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         let parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").srcset);
         skins.push({
             name: tab.title,
@@ -889,4 +924,10 @@ function camelize(str) {
         if (+match === 0) return "";
         return i == 0 ? match.toLowerCase() : match.toUpperCase();
     });
+}
+
+function unwrap(el) {
+    var parent = el.parentNode;
+    while (el.firstChild) parent.insertBefore(el.firstChild, el);
+    parent.removeChild(el);
 }
