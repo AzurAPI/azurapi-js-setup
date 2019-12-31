@@ -113,7 +113,10 @@ async function refreshShipImages() {
         process.stdout.write("S");
         let getSkillIcon = async (skill) => {
             if (!skill) return;
-            let path = "./images/skills/" + key + "/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
+            let skillName = skill.names.en.toLowerCase();
+            if (skillName.includes('(retrofit)')) skillName = skillName.replace('(retrofit)', '') + ".kai";
+            skillName = skillName.trim().replace(/\s+/g, '_');
+            let path = "./images/skills/" + key + "/" + skillName + ".png";
             if (skill.icon !== null)
                 await fetchImage(skill.icon, path);
         };
