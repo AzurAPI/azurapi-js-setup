@@ -34,23 +34,26 @@ function timeout(ms) {
 }
 
 module.exports = {
-    filter: filter,
     publishShips: publishShips,
     publishEQ: publishEQ,
     refreshShips: refreshShips,
     refreshEquipments: refreshEquipments,
     refreshShipImages: refreshShipImages,
     refreshEQImages: refreshEQImages,
-    refreshChapter: refreshChapter
+    refreshChapter: refreshChapter,
+    removeShip: removeShip
 }
-// Filtering the ship list
-function filter(callback) {
-    let newShips = {};
-    Object.keys(SHIPS_INTERNAL).forEach(key => {
-        if (callback(SHIPS_INTERNAL[key]))
-            newShips[key] = SHIPS_INTERNAL[key]
-    });
-    return newShips;
+
+function removeShip(name) {
+    for (let key in SHIPS_INTERNAL)
+        if (SHIPS_INTERNAL[key].names.en === name) delete SHIPS_INTERNAL[key];
+    fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
+}
+
+function removeShips(tester) {
+    for (let key in SHIPS_INTERNAL)
+        if (tester(SHIPS_INTERNAL[key])) delete SHIPS_INTERNAL[key];
+    fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
 }
 
 // Refresh ships
@@ -62,6 +65,7 @@ async function refreshShips(online) {
     console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS_INTERNAL).length + " ships from cache.");
     let keys = Object.keys(SHIP_LIST);
     for (key of keys) {
+        if (key.length === 4 && key.startsWith("3")) continue; // Retrofited ship ids
         let ship = await refreshShip(key, online);
         shipCounter++;
         if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
@@ -372,6 +376,7 @@ function parseShip(name, body) {
         nationality: doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent,
         hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(2)").textContent
     }
+    //console.log(ship.names.en); // If any parsing error arised
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) { // Unreleased
         let images = doc.getElementsByTagName("img");
         ship.unreleased = true;
@@ -381,45 +386,12 @@ function parseShip(name, body) {
             image: "https://azurlane.koumakan.jp" + doc.querySelector(".tabbertab .image > img").getAttribute("src"),
             background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
             chibi: doc.querySelector("td > div > div:nth-child(2) img") ? "https://azurlane.koumakan.jp" + doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
-            "info": {
-                "Obtained From": "Default",
-                "Live2D Model": "No"
+            info: {
+                obtainedFrom: "Default",
+                live2DModel: "No"
             }
         }];
         ship.rarity = "Unreleased";
-        ship.enhanceValue = {
-            firepower: 0,
-            torpedo: 0,
-            aviation: 0,
-            reload: 0
-        };
-        ship.slots = [{}, {}, {}];
-        ship.scrapValue = {
-            coin: 0,
-            oil: 0,
-            medal: 0
-        };
-        ship.gallery = [];
-        ship.construction = {
-            "constructionTime": "Cannot Be Constructed",
-            "availableIn": {
-                "light": false,
-                "heavy": false,
-                "aviation": false,
-                "limited": false,
-                "exchange": false
-            }
-        };
-        ship.limitBreaks = {
-            "1": null,
-            "2": null,
-            "3": null
-        };
-        ship.skills = {
-            "1": null,
-            "2": null,
-            "3": null
-        };
         return ship;
     }
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
@@ -451,6 +423,12 @@ function parseShip(name, body) {
     ship.skills = parseSkills(doc.getElementById("Skills"));
     if (ship.rarity === "Priority" || ship.rarity === "Decisive") ship.devLevels = parseDevelopmentLevels(doc.querySelector("#Development_levels tbody"));
     else ship.limitBreaks = parseShipLimits(doc.querySelector("#Limit_breaks tbody"));
+    ship.fleet_tech = parseFleetTech(doc.getElementById("Fleet_technology"));
+    if (doc.getElementById("Retrofit")) { // This ship can be retrofited
+        ship.retrofit = true;
+        ship.retrofit_id = (3000 + parseInt(ship.id)) + "";
+        ship.retrofit_projects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
+    }
     ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
     ship.gallery = parseShipGallery(doc);
     ship.misc = {
@@ -539,8 +517,66 @@ function parseSkill(title, body) {
             cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
             jp: title.querySelector("[lang='ja']") ? title.querySelector("[lang='ja']").textContent : null
         },
-        description: body.textContent.trim()
+        description: body.textContent.trim(),
+        color: title.firstElementChild.getAttribute("style").replace(/^.+background-color:([^;]+).+$/, '$1').toLowerCase() // cant use style.backgroundColor, jsdom's issue
     };
+}
+
+function parseFleetTech(table_p) {
+    let fleet_tech = {};
+    let cells = table_p.getElementsByTagName("td");
+    fleet_tech.statsBonus = {
+        collection: parseStatsBonus(cells[0]),
+        maxLevel: parseStatsBonus(cells[1])
+    };
+    fleet_tech.techPoints = {
+        collection: parseTechPoints(cells[2]),
+        maxLimitBreak: parseTechPoints(cells[4]),
+        maxLevel: parseTechPoints(cells[5]),
+        total: parseTechPoints(cells[3])
+    };
+    return fleet_tech;
+}
+
+function parseStatsBonus(cell) {
+    if (!cell || cell.childElementCount === 0) return null;
+    let i = 0;
+    let statsBonus = {};
+    statsBonus.applicable = [];
+    for (; cell.children[i].tagName === "A"; i++) statsBonus.applicable.push(cell.children[i].title.replace(/\(\w+\)/, '').trim());
+    statsBonus.stat = cell.children[i].title;
+    statsBonus.bonus = cell.lastChild.textContent.trim();
+    return statsBonus;
+}
+
+function parseTechPoints(cell) {
+    if (!cell || cell.childElementCount === 0) return 0;
+    return parseInt(cell.lastChild.textContent.trim());
+}
+
+function parseRetrofit(tbody) {
+    let projects = {};
+    let rows = tbody.children;
+    for (let i = 1; i < rows.length; i++) {
+        let cols = rows[i].children;
+        let index = cols[0].textContent.trim();
+        let split = cols[1].textContent.replace(/([^(]+)\((.+)\)/, '$1|$2').split("|");
+        let split2 = cols[6].textContent.trim().split(" ");
+        projects[index] = {
+            name: split[0].trim(),
+            grade: split[1] ? split[1].trim() : undefined,
+            attributes: deepToString(cols[2]).trim().replace(/\s{2,}/g, ' ').split(/ ?and ?|, ?/g),
+            materials: deepToString(cols[3]).trim().replace(/\s{2,}/g, ' ').split(/ ?and ?|, ?/g),
+            coins: parseInt(cols[4].textContent),
+            level: parseInt(cols[5].textContent),
+            levelBreakLevel: parseInt(split2[0]),
+            levelBreakStars: split2[1],
+            recurrence: parseInt(cols[7].textContent),
+            require: cols[8].textContent.trim().split(/, ?/g)
+        };
+        if (projects[index].require[0] === "") projects[index].require = [];
+    }
+    return projects;
 }
 
 function parseShipEQSlot(slot) {
@@ -548,8 +584,9 @@ function parseShipEQSlot(slot) {
         type: slot.children[2].textContent.trim()
     };
     if (slot.children[1].firstElementChild) {
-        eqslot.minEfficiency = parseInt(slot.children[1].firstElementChild.textContent.replace('%', ''));
-        eqslot.maxEfficiency = parseInt(slot.children[1].lastElementChild.textContent.replace('%', ''));
+        eqslot.minEfficiency = parseInt(slot.children[1].children[0].textContent.replace('%', ''));
+        eqslot.maxEfficiency = parseInt(slot.children[1].children[1].textContent.replace('%', ''));
+        if (slot.children[1].children[2]) eqslot.kaiEfficiency = parseInt(slot.children[1].children[2].textContent.replace('%', ''));
     }
     return eqslot;
 }
@@ -934,4 +971,18 @@ function unwrap(el) {
     var parent = el.parentNode;
     while (el.firstChild) parent.insertBefore(el.firstChild, el);
     parent.removeChild(el);
+}
+
+function deepToString(parent) {
+    if (parent.nodeType === 3) return parent.textContent;
+    if (parent.tagName === "IMG" && parent.title) return `"${parent.title}"`;
+    if (parent.tagName === "IMG") return `"${parent.alt.replace(/(Icon)?.png/, '')}"`;
+    if (parent.childNodes.length > 0) {
+        let text = "";
+        for (node of parent.childNodes) text += deepToString(node);
+        return text;
+    } else {
+        if (parent.title) return parent.title;
+        return parent.textContent;
+    }
 }
