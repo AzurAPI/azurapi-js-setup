@@ -12704,6 +12704,228 @@
 			}
 		]
 	},
+	"160": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Hibiki",
+		"id": "160",
+		"names": {
+			"en": "Hibiki",
+			"code": "IJN Hibiki",
+			"cn": "栀",
+			"jp": "響",
+			"kr": null
+		},
+		"class": "Fubuki",
+		"nationality": "Sakura Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7b/HibikiIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120": {
+				"health": "1798",
+				"armor": "Light",
+				"reload": "215",
+				"luck": "88",
+				"firepower": "62",
+				"torpedo": "524",
+				"evasion": "194",
+				"speed": "45",
+				"antiair": "154",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracyHit": "178",
+				"antisubmarineWarfare": "195"
+			},
+			"level100": {
+				"health": "1498",
+				"armor": "Light",
+				"reload": "187",
+				"luck": "88",
+				"firepower": "54",
+				"torpedo": "477",
+				"evasion": "188",
+				"speed": "45",
+				"antiair": "134",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracyHit": "170",
+				"antisubmarineWarfare": "175"
+			},
+			"baseStats": {
+				"health": "290",
+				"armor": "Light",
+				"reload": "79",
+				"luck": "88",
+				"firepower": "12",
+				"torpedo": "101",
+				"evasion": "72",
+				"speed": "45",
+				"antiair": "29",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracyHit": "65",
+				"antisubmarineWarfare": "48"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 135,
+				"maxEfficiency": 155
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			}
+		},
+		"enhanceValue": {
+			"firepower": 4,
+			"torpedo": 33,
+			"aviation": 0,
+			"reload": 15
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": {
+			"1": {
+				"icon": null,
+				"names": {
+					"en": "Phoenix's Plumage",
+					"cn": "不死鸟之羽",
+					"jp": "フェニックスフェザー！"
+				},
+				"description": "When this ship fires its torpedoes: 15.0% (30.0%) chance to launch a second wave of torpedoes. Once per battle, when this ship's HP drops below 20.0%: restores 10.0% (20.0%) of this ship's max HP.",
+				"color": "pink"
+			},
+			"2": {
+				"icon": null,
+				"names": {
+					"en": "Destroyer Division 6: Hibiki",
+					"cn": "六驱精锐·栀",
+					"jp": "第六駆逐隊・響"
+				},
+				"description": "When sortied with Akatsuki, Ikazuchi, or Inazuma: increases this ship's FP, TRP, and RLD by 5.0% (15.0%). Effect does not stack.",
+				"color": "pink"
+			},
+			"3": {
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-暁型"
+				},
+				"description": "Activates All Out Assault Ⅱ: Akatsuki Class once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		},
+		"limitBreaks": {
+			"1": [
+				"Unlock All Out Assault Ⅰ",
+				"Torpedo efficiency +5%"
+			],
+			"2": [
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			"3": [
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		},
+		"fleet_tech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Accuracy (Hit)",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 6,
+				"maxLimitBreak": 12,
+				"maxLevel": 9,
+				"total": 27
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "大月紅葉",
+			"web": {
+				"name": "大月紅葉",
+				"url": "http://weibo.com/ootsukimomiji"
+			},
+			"pixiv": {
+				"name": "大月紅葉",
+				"url": "https://www.pixiv.net/member.php?id=591937"
+			},
+			"twitter": {
+				"name": "大月紅葉",
+				"url": "https://twitter.com/dayuehongye"
+			},
+			"voice": {
+				"name": "Maaya Uchida",
+				"url": "https://en.wikipedia.org/wiki/Maaya_Uchida"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bc/Hibiki.png/1173px-Hibiki.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b6/HibikiChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "New Year's Little Imp",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a9/HibikiNew_Year.png/956px-HibikiNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/60/HibikiNew_YearChibi.png",
+				"info": {
+					"eNClient": "New Year's Little Imp",
+					"cNClient": "正月小恶魔",
+					"jPClient": "正月デビル響ちゃん",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2DModel": "No"
+				}
+			}
+		]
+	},
 	"161": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Ikazuchi",
 		"id": "161",
@@ -18328,6 +18550,472 @@
 					"jPClient": "ポカポカクリスマス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
+					"live2DModel": "No"
+				}
+			}
+		]
+	},
+	"186": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Kinu",
+		"id": "186",
+		"names": {
+			"en": "Kinu",
+			"code": "IJN Kinu",
+			"cn": "猤",
+			"jp": "鬼怒",
+			"kr": null
+		},
+		"class": "Nagara",
+		"nationality": "Sakura Empire",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/91/KinuIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120Retrofit": {
+				"health": "3126",
+				"armor": "Light",
+				"reload": "186",
+				"luck": "52",
+				"firepower": "158",
+				"torpedo": "354",
+				"evasion": "105",
+				"speed": "36",
+				"antiair": "319",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracyHit": "150",
+				"antisubmarineWarfare": "123"
+			},
+			"level120": {
+				"health": "2886",
+				"armor": "Light",
+				"reload": "181",
+				"luck": "52",
+				"firepower": "148",
+				"torpedo": "289",
+				"evasion": "105",
+				"speed": "36",
+				"antiair": "304",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracyHit": "145",
+				"antisubmarineWarfare": "123"
+			},
+			"level100Retrofit": {
+				"health": "2794",
+				"armor": "Light",
+				"reload": "162",
+				"luck": "52",
+				"firepower": "139",
+				"torpedo": "319",
+				"evasion": "80",
+				"speed": "36",
+				"antiair": "282",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracyHit": "134",
+				"antisubmarineWarfare": "109"
+			},
+			"level100": {
+				"health": "2554",
+				"armor": "Light",
+				"reload": "157",
+				"luck": "52",
+				"firepower": "129",
+				"torpedo": "254",
+				"evasion": "80",
+				"speed": "36",
+				"antiair": "267",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracyHit": "129",
+				"antisubmarineWarfare": "109"
+			},
+			"baseStats": {
+				"health": "494",
+				"armor": "Light",
+				"reload": "66",
+				"luck": "52",
+				"firepower": "27",
+				"torpedo": "54",
+				"evasion": "31",
+				"speed": "36",
+				"antiair": "57",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracyHit": "50",
+				"antisubmarineWarfare": "30"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 120,
+				"kaiEfficiency": 120
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 140,
+				"maxEfficiency": 165,
+				"kaiEfficiency": 180
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 125,
+				"kaiEfficiency": 130
+			}
+		},
+		"enhanceValue": {
+			"firepower": 11,
+			"torpedo": 18,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": {
+			"1": {
+				"icon": null,
+				"names": {
+					"en": "Demonblade",
+					"cn": "恶鬼怒刀",
+					"jp": "水鬼雷戦刃"
+				},
+				"description": "At the start of the battle: increases this ship's FP, AA, and ASW by 5.0% (15.0%). While this ship is afloat: decreases the DMG your SSs and SSVs take by 5.0% (15.0%).",
+				"color": "deepskyblue"
+			},
+			"2": {
+				"icon": null,
+				"names": {
+					"en": "(Retrofit) Demon's Wish",
+					"cn": "恶鬼之愿",
+					"jp": "水鬼雷装衝"
+				},
+				"description": "Increases the torpedo DMG this ship deals by 5.0% (15.0%). When this ship fires its torpedoes: 15.0% (30.0%) chance to launch a second wave of torpedoes.",
+				"color": "pink"
+			},
+			"3": {
+				"icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-長良型"
+				},
+				"description": "Activates All Out Assault Ⅱ: Nagara Class once every 8 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		},
+		"limitBreaks": {
+			"1": [
+				"Unlock All Out Assault Ⅰ",
+				"AA gun efficiency +5%"
+			],
+			"2": [
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			"3": [
+				"Improve All Out Assault",
+				"Torpedo efficiency +15%"
+			]
+		},
+		"fleet_tech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Torpedo",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 6,
+				"maxLimitBreak": 12,
+				"maxLevel": 9,
+				"total": 27
+			}
+		},
+		"retrofit": true,
+		"retrofit_id": "3186",
+		"retrofit_projects": {
+			"A": {
+				"name": "Hull Improvement Ⅰ",
+				"attributes": [
+					"\"Health\" +70"
+				],
+				"materials": [
+					"2x \"CruiserT1BP\""
+				],
+				"coins": 400,
+				"level": 1,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": []
+			},
+			"B": {
+				"name": "Reload Enhancement Ⅰ",
+				"attributes": [
+					"\"Reload\" +5"
+				],
+				"materials": [
+					"3x \"CruiserT1BP\""
+				],
+				"coins": 600,
+				"level": 5,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"C": {
+				"name": "Torpedo Improvement Ⅰ",
+				"attributes": [
+					"Equip 2 Efficiency +5%"
+				],
+				"materials": [
+					"3x \"CruiserT1BP\""
+				],
+				"coins": 800,
+				"level": 20,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"D": {
+				"name": "Torpedo Enhancement Ⅰ",
+				"attributes": [
+					"\"Torpedo\" +10"
+				],
+				"materials": [
+					"5x \"CruiserT1BP\""
+				],
+				"coins": 1000,
+				"level": 25,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"E": {
+				"name": "Main Gun Improvement Ⅰ",
+				"attributes": [
+					"Equip 1 Efficiency +5%"
+				],
+				"materials": [
+					"3x \"CruiserT2BP\""
+				],
+				"coins": 1200,
+				"level": 35,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"F": {
+				"name": "Antiaircraft Enhancement Ⅰ",
+				"attributes": [
+					"\"Anti-air\" +15"
+				],
+				"materials": [
+					"2x \"CruiserT2BP\""
+				],
+				"coins": 1500,
+				"level": 40,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"B",
+					"E"
+				]
+			},
+			"G": {
+				"name": "Hull Improvement Ⅱ",
+				"attributes": [
+					"\"Health\" +70 / \"Health\" +100"
+				],
+				"materials": [
+					"2 / 3x \"CruiserT2BP\""
+				],
+				"coins": 1800,
+				"level": 50,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 2,
+				"require": [
+					"E"
+				]
+			},
+			"H": {
+				"name": "Accuracy Enhancement Ⅰ",
+				"attributes": [
+					"Acc +5"
+				],
+				"materials": [
+					"3x \"CruiserT2BP\""
+				],
+				"coins": 2000,
+				"level": 55,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"G"
+				]
+			},
+			"I": {
+				"name": "Torpedo Improvement Ⅱ",
+				"attributes": [
+					"Equip 2 Efficiency +5% / Equip 2 Efficiency +5%"
+				],
+				"materials": [
+					"1 / 1x \"CruiserT3BP\""
+				],
+				"coins": 2500,
+				"level": 70,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 2,
+				"require": [
+					"G"
+				]
+			},
+			"J": {
+				"name": "Torpedo Enhancement Ⅱ",
+				"attributes": [
+					"\"Torpedo\" +5 / \"Torpedo\" +15"
+				],
+				"materials": [
+					"1 / 2x \"CruiserT3BP\"",
+					"5 / 15x \"TorpT3Plate\""
+				],
+				"coins": 3000,
+				"level": 75,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 2,
+				"require": [
+					"D",
+					"I"
+				]
+			},
+			"K": {
+				"name": "Modernization",
+				"attributes": [
+					"\"Firepower\" +10",
+					"\"Torpedo\" +35"
+				],
+				"materials": [
+					"3x \"CruiserT3BP\"",
+					"1x \"Kinu\" or \"Universal Bullin\""
+				],
+				"coins": 4000,
+				"level": 80,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"I",
+					"J"
+				]
+			},
+			"L": {
+				"name": "Tactical Learning",
+				"attributes": [
+					"Unlock Skill"
+				],
+				"materials": [
+					"2x \"CruiserT3BP\"",
+					"50x \"AuxT3Plate\""
+				],
+				"coins": 3000,
+				"level": 90,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"H",
+					"K"
+				]
+			}
+		},
+		"construction": {
+			"constructionTime": "01:05:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Swirling Cherry Blossoms",
+				"exchange": "Only during event: Swirling Cherry Blossoms"
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": null,
+			"web": null,
+			"pixiv": null,
+			"twitter": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/4/47/Kinu.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/7a/KinuChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "Retrofit",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/3c/KinuKai.png/1211px-KinuKai.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/0e/KinuKaiChibi.png",
+				"info": {
+					"obtainedFrom": "Retrofit",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "New Year's Blade Demon",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/16/KinuNew_Year.png/1126px-KinuNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/79/KinuNew_YearChibi.png",
+				"info": {
+					"eNClient": "New Year's Blade Demon",
+					"cNClient": "新年的剑鬼",
+					"jPClient": "正月の剣鬼",
+					"obtainedFrom": "Swirling Cherry Blossoms  Minigames",
 					"live2DModel": "No"
 				}
 			}
@@ -46606,6 +47294,228 @@
 			}
 		]
 	},
+	"322": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Noshiro",
+		"id": "322",
+		"names": {
+			"en": "Noshiro",
+			"code": "IJN Noshiro",
+			"cn": "貅",
+			"jp": "能代",
+			"kr": null
+		},
+		"class": "Agano",
+		"nationality": "Sakura Empire",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/fd/NoshiroIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "3278",
+				"armor": "Light",
+				"reload": "181",
+				"luck": "55",
+				"firepower": "175",
+				"torpedo": "373",
+				"evasion": "104",
+				"speed": "35",
+				"antiair": "333",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracyHit": "171",
+				"antisubmarineWarfare": "97"
+			},
+			"level100": {
+				"health": "2896",
+				"armor": "Light",
+				"reload": "157",
+				"luck": "55",
+				"firepower": "152",
+				"torpedo": "332",
+				"evasion": "76",
+				"speed": "35",
+				"antiair": "295",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracyHit": "153",
+				"antisubmarineWarfare": "85"
+			},
+			"baseStats": {
+				"health": "560",
+				"armor": "Light",
+				"reload": "66",
+				"luck": "55",
+				"firepower": "32",
+				"torpedo": "70",
+				"evasion": "29",
+				"speed": "35",
+				"antiair": "63",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracyHit": "59",
+				"antisubmarineWarfare": "23"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 150,
+				"maxEfficiency": 175
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": {
+			"firepower": 13,
+			"torpedo": 23,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": {
+			"1": {
+				"icon": null,
+				"names": {
+					"en": "Noshiro's Hoarfrost",
+					"cn": "从容指顾",
+					"jp": "氷風の能代"
+				},
+				"description": "While this ship is afloat: increases this ship's Evasion Rate by 5.0% (15.0%) and decreases the torpedo DMG your Vanguard takes by 5.0% (20.0%).",
+				"color": "deepskyblue"
+			},
+			"2": {
+				"icon": null,
+				"names": {
+					"en": "Skyslayer's Edge",
+					"cn": "新锐之刃",
+					"jp": "天征す刃"
+				},
+				"description": "Increases the DMG this ship deals to enemy CVs and CVLs by 5% (20%). While this ship is afloat: increases the TRP of your Vanguard by 5% (20%). Also increases Vanguard's Crit Rate by 3% (12%) starting at skill level 7.",
+				"color": "gold"
+			},
+			"3": {
+				"icon": null,
+				"names": {
+					"en": "All Out Assault",
+					"cn": "专属弹幕-貅",
+					"jp": "特殊弾幕-能代"
+				},
+				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Noshiro I (II)",
+				"color": "pink"
+			}
+		},
+		"limitBreaks": {
+			"1": [
+				"Unlock EX Barrage Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			"2": [
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			"3": [
+				"Improve EX Barrage",
+				"Torpedo efficiency +15%"
+			]
+		},
+		"fleet_tech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Torpedo",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Anti-air",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 9,
+				"maxLimitBreak": 19,
+				"maxLevel": 14,
+				"total": 42
+			}
+		},
+		"construction": {
+			"constructionTime": "01:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Swirling Cherry Blossoms",
+				"exchange": "Only during event: Swirling Cherry Blossoms"
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "ATDAN",
+			"web": {
+				"name": "小原原原子Dan",
+				"url": "http://www.weibo.com/atdan"
+			},
+			"pixiv": {
+				"name": "ATDAN-",
+				"url": "https://www.pixiv.net/member.php?id=6662895"
+			},
+			"twitter": {
+				"name": "ATDAN",
+				"url": "https://twitter.com/Atdan86"
+			},
+			"voice": {
+				"name": "Anju Inami",
+				"url": "https://en.wikipedia.org/wiki/Anju_Inami"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/09/Noshiro.png/982px-Noshiro.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/1/11/NoshiroChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "Uncharted Festival Grounds?",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/25/NoshiroNew_Year.png/782px-NoshiroNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/22/NoshiroNew_YearChibi.png",
+				"info": {
+					"eNClient": "Uncharted Festival Grounds?",
+					"cNClient": "祭典的秘境?",
+					"jPClient": "祭りの秘境？",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1180",
+					"live2DModel": "Yes"
+				}
+			}
+		]
+	},
 	"325": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Matchless",
 		"id": "325",
@@ -72929,6 +73839,650 @@
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
+				}
+			}
+		]
+	},
+	"424": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Kasumi",
+		"id": "424",
+		"names": {
+			"en": "Kasumi",
+			"code": "IJN Kasumi",
+			"cn": "蕸",
+			"jp": "霞",
+			"kr": null
+		},
+		"class": "Asashio",
+		"nationality": "Sakura Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7d/KasumiIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120": {
+				"health": "1999",
+				"armor": "Light",
+				"reload": "201",
+				"luck": "70",
+				"firepower": "65",
+				"torpedo": "526",
+				"evasion": "191",
+				"speed": "42",
+				"antiair": "156",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracyHit": "183",
+				"antisubmarineWarfare": "192"
+			},
+			"level100": {
+				"health": "1666",
+				"armor": "Light",
+				"reload": "175",
+				"luck": "70",
+				"firepower": "56",
+				"torpedo": "478",
+				"evasion": "185",
+				"speed": "42",
+				"antiair": "136",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracyHit": "174",
+				"antisubmarineWarfare": "172"
+			},
+			"baseStats": {
+				"health": "322",
+				"armor": "Light",
+				"reload": "74",
+				"luck": "70",
+				"firepower": "12",
+				"torpedo": "101",
+				"evasion": "71",
+				"speed": "42",
+				"antiair": "29",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracyHit": "67",
+				"antisubmarineWarfare": "47"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 75,
+				"maxEfficiency": 80
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 130,
+				"maxEfficiency": 150
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			}
+		},
+		"enhanceValue": {
+			"firepower": 4,
+			"torpedo": 33,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": {
+			"1": {
+				"icon": null,
+				"names": {
+					"en": "Foo and Friends",
+					"cn": "霞光之绊",
+					"jp": "ふわりんと仲間たちと"
+				},
+				"description": "At the start of the battle, if your Vanguard has no fewer than 3 ships: increases the TRP stat of your Sakura Empire Vanguard ships by 5.0% (15.0%).",
+				"color": "pink"
+			},
+			"2": {
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_4070.png",
+				"names": {
+					"en": "Emergency Maneuvers",
+					"cn": "紧急回避",
+					"jp": "緊急回避"
+				},
+				"description": "Every 20s: 15.0% (30.0%) chance for this ship to evade all enemy attacks for 6s.",
+				"color": "deepskyblue"
+			},
+			"3": {
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-朝潮型"
+				},
+				"description": "Activates All Out Assault Ⅱ: Asashio Class once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		},
+		"limitBreaks": {
+			"1": [
+				"Unlock All Out Assault Ⅰ",
+				"Torpedo efficiency +5%"
+			],
+			"2": [
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			"3": [
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		},
+		"fleet_tech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Torpedo",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 8,
+				"maxLimitBreak": 16,
+				"maxLevel": 12,
+				"total": 36
+			}
+		},
+		"construction": {
+			"constructionTime": "00:28:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Swirling Cherry Blossoms",
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "Byulzzi",
+			"web": null,
+			"pixiv": {
+				"name": "ビョルチ⋆",
+				"url": "https://www.pixiv.net/member.php?id=5882726"
+			},
+			"twitter": {
+				"name": "Byul_zzi",
+				"url": "https://twitter.com/byul_zzi"
+			},
+			"voice": {
+				"name": "Play",
+				"url": "https://azurlane.koumakan.jp/w/images/0/01/Kasumi_TitleScreen.ogg"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/6/6b/Kasumi.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/22/KasumiChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "New Year's Comfort",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/38/KasumiNew_Year.png/1322px-KasumiNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/6b/KasumiNew_YearChibi.png",
+				"info": {
+					"eNClient": "New Year's Comfort",
+					"cNClient": "新年暖洋洋",
+					"jPClient": "ぽかぽか正月",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2DModel": "No"
+				}
+			}
+		]
+	},
+	"425": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Suruga",
+		"id": "425",
+		"names": {
+			"en": "Suruga",
+			"code": "IJN Suruga",
+			"cn": "鲪",
+			"jp": "駿河",
+			"kr": null
+		},
+		"class": "Kii",
+		"nationality": "Sakura Empire",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/b/b9/SurugaIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "8229",
+				"armor": "Heavy",
+				"reload": "139",
+				"luck": "37",
+				"firepower": "421",
+				"torpedo": "213",
+				"evasion": "37",
+				"speed": "28",
+				"antiair": "215",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracyHit": "68",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "7051",
+				"armor": "Heavy",
+				"reload": "120",
+				"luck": "37",
+				"firepower": "379",
+				"torpedo": "186",
+				"evasion": "18",
+				"speed": "28",
+				"antiair": "187",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracyHit": "55",
+				"antisubmarineWarfare": "0"
+			},
+			"baseStats": {
+				"health": "1364",
+				"armor": "Heavy",
+				"reload": "51",
+				"luck": "37",
+				"firepower": "80",
+				"torpedo": "39",
+				"evasion": "7",
+				"speed": "28",
+				"antiair": "40",
+				"aviation": "0",
+				"oilConsumption": "5",
+				"accuracyHit": "21",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "BB Guns",
+				"minEfficiency": 105,
+				"maxEfficiency": 135
+			},
+			"2": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 200,
+				"maxEfficiency": 200
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			}
+		},
+		"enhanceValue": {
+			"firepower": 67,
+			"torpedo": 4,
+			"aviation": 0,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 11,
+			"oil": 4,
+			"medal": 10
+		},
+		"skills": {
+			"1": {
+				"icon": null,
+				"names": {
+					"en": "Unleashed Tactics",
+					"cn": "战术解放",
+					"jp": "駿河艦隊・戦術解放！"
+				},
+				"description": "Every 20s: 40.0% (70.0%) chance to fire a special barrage (DMG is based on the skill's level). While in an Exercise: improves the firing pattern of the barrage.",
+				"color": "pink"
+			},
+			"2": {
+				"icon": null,
+				"names": {
+					"en": "Unyielding Shield",
+					"cn": "不灭之盾",
+					"jp": "不滅の盾"
+				},
+				"description": "While this ship is afloat, when one of your Main Fleet ship takes DMG: 40.0% (70.0%) chance to decrease the DMG your Main Fleet takes by 4.5% (12%) for 15s. Has a 20s cooldown between activations. Once per battle, when this ship's HP drops below 20.0%: restores 10.0% of this ship's max HP.",
+				"color": "deepskyblue"
+			},
+			"3": null
+		},
+		"limitBreaks": {
+			"1": [
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			"2": [
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			"3": [
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		},
+		"fleet_tech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Health",
+					"bonus": "+2"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 22,
+				"maxLimitBreak": 44,
+				"maxLevel": 33,
+				"total": 99
+			}
+		},
+		"construction": {
+			"constructionTime": "04:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Swirling Cherry Blossoms",
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "fuzichoco",
+			"web": {
+				"name": "fuzichoco",
+				"url": "https://www.weibo.com/fuzichoco"
+			},
+			"pixiv": {
+				"name": "藤原",
+				"url": "https://www.pixiv.net/member.php?id=27517"
+			},
+			"twitter": {
+				"name": "fuzichoco",
+				"url": "https://twitter.com/fuzichoco"
+			},
+			"voice": {
+				"name": "Aya Endou",
+				"url": "https://en.wikipedia.org/wiki/Aya_End%C5%8D"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/71/Suruga.png/1188px-Suruga.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/a2/SurugaChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "Hundred Flowers' Auspice",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2f/SurugaNew_Year.png/1049px-SurugaNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/8/85/SurugaNew_YearChibi.png",
+				"info": {
+					"eNClient": "Hundred Flowers' Auspice",
+					"cNClient": "百花庆云",
+					"jPClient": "百花の慶雲",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1180",
+					"live2DModel": "Yes"
+				}
+			}
+		]
+	},
+	"426": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Ryuuhou",
+		"id": "426",
+		"names": {
+			"en": "Ryuuhou",
+			"code": "IJN Ryuuhou",
+			"cn": "鸗",
+			"jp": "龍鳳",
+			"kr": null
+		},
+		"class": "Ryuuhou",
+		"nationality": "Sakura Empire",
+		"hullType": "Light Aircraft Carrier",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d0/RyuuhouIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "4986",
+				"armor": "Medium",
+				"reload": "189",
+				"luck": "70",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "69",
+				"speed": "26",
+				"antiair": "276",
+				"aviation": "317",
+				"oilConsumption": "12",
+				"accuracyHit": "84",
+				"antisubmarineWarfare": "112"
+			},
+			"level100": {
+				"health": "4261",
+				"armor": "Medium",
+				"reload": "164",
+				"luck": "70",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "49",
+				"speed": "26",
+				"antiair": "242",
+				"aviation": "280",
+				"oilConsumption": "12",
+				"accuracyHit": "70",
+				"antisubmarineWarfare": "99"
+			},
+			"baseStats": {
+				"health": "824",
+				"armor": "Medium",
+				"reload": "69",
+				"luck": "70",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "19",
+				"speed": "26",
+				"antiair": "52",
+				"aviation": "59",
+				"oilConsumption": "4",
+				"accuracyHit": "27",
+				"antisubmarineWarfare": "27"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Fighters",
+				"minEfficiency": 115,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "Torpedo Bombers",
+				"minEfficiency": 135,
+				"maxEfficiency": 145
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 80,
+				"maxEfficiency": 80
+			}
+		},
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 39,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 7,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": {
+			"1": {
+				"icon": null,
+				"names": {
+					"en": "Swirling Cherry Blossoms",
+					"cn": "樱绽凤华",
+					"jp": "波舞う龍鳳"
+				},
+				"description": "The first 3 Airstrikes launched by this ship will heal 3 times over 3 seconds, each heal targeting the allied surface ship with lowest percentage of remaining HP. Each heal restores HP equal to 1.2% (3.0%) of Ryuuhou's maximum HP. If the fleet this ship is in enters battle with 3 ships afloat in the Main Fleet, the healing from this skill is increased by 100.0%.",
+				"color": "gold"
+			},
+			"2": {
+				"icon": null,
+				"names": {
+					"en": "Dancing Waves",
+					"cn": "缘结舞鲸",
+					"jp": "世話焼きクジラ"
+				},
+				"description": "While this ship is afloat: decreases the DMG your Vanguard takes from enemy SS torpedoes by 4.5% (12.0%). When your Submarine Fleet enters combat: heals 10.0% (20.0%) HP to each boat in your Submarine Fleet. Whenever your SSs or SSVs sink an enemy ship: increases Ryuuhou's DMG by 1.0% (3.5%). Can be stacked up to 6 times.",
+				"color": "deepskyblue"
+			},
+			"3": null
+		},
+		"limitBreaks": {
+			"1": [
+				"All Torpedo Bombers +1",
+				"Fighter efficiency +5%"
+			],
+			"2": [
+				"Hangar capacity +1",
+				"All fighters +1",
+				"Fighter efficiency +10%"
+			],
+			"3": [
+				"All aircraft +1",
+				"Torpedo Bomber efficiency +10%"
+			]
+		},
+		"fleet_tech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"stat": "Anti-submarine warfare",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"stat": "Accuracy (Hit)",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 9,
+				"maxLimitBreak": 19,
+				"maxLevel": 14,
+				"total": 42
+			}
+		},
+		"construction": {
+			"constructionTime": "02:22:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Swirling Cherry Blossoms",
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "Tony",
+			"web": null,
+			"pixiv": null,
+			"twitter": {
+				"name": "Tony",
+				"url": "https://twitter.com/Tony_T2ARTWORKS"
+			},
+			"voice": {
+				"name": "Juri Nagatsuma",
+				"url": "https://en.wikipedia.org/wiki/Juri_Nagatsuma"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Ryuuhou.png/1482px-Ryuuhou.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3d/RyuuhouChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2DModel": "No"
+				}
+			},
+			{
+				"name": "Firebird's New Year Dance",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/27/RyuuhouNew_Year.png/840px-RyuuhouNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/39/RyuuhouNew_YearChibi.png",
+				"info": {
+					"eNClient": "Firebird's New Year Dance",
+					"cNClient": "凤舞新年",
+					"jPClient": "鳳舞う正月",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1180",
+					"live2DModel": "Yes"
 				}
 			}
 		]

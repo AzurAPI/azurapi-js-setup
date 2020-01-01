@@ -107,6 +107,7 @@ async function refreshShipImages() {
             process.stdout.write("|");
             if (skin.background !== null) await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
         }
+        if (ship.unreleased) continue;
         process.stdout.write("G");
         for (let item of ship.gallery) {
             if (item.url !== null) {
@@ -396,6 +397,7 @@ function parseShip(name, body) {
         return ship;
     }
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
+    console.log(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
     let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim();
@@ -512,7 +514,7 @@ function parseDevelopmentLevelBuff(row) {
 function parseSkill(title, body) {
     if (!title || !body) return null;
     return {
-        icon: title.getElementsByTagName("a")[0].href,
+        icon: title.getElementsByTagName("a")[0] ? title.getElementsByTagName("a")[0].href : null,
         names: {
             en: title.firstElementChild.firstElementChild.lastElementChild.childNodes[0].textContent,
             cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
