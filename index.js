@@ -229,6 +229,7 @@ function publishShips() {
         }
         SHIPS[key].skins = newSkins;
         process.stdout.write("|");
+        if (SHIPS[key].unreleased) continue;
         let newGallery = [];
         for (let item of SHIPS[key].gallery) {
             process.stdout.write(".");
@@ -794,6 +795,7 @@ function parseEquipmentStatsSlot(valueNode) {
             type: "value",
             value: value
         }
+        data.formated = value;
         return data;
     }
 }
