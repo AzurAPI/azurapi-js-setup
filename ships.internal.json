@@ -131,7 +131,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -369,7 +369,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -871,7 +871,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -1083,7 +1083,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -1387,7 +1387,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -1833,7 +1833,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -2287,7 +2287,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -2713,7 +2713,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -2935,7 +2935,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -3162,7 +3162,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -3398,7 +3398,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -3684,7 +3684,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -3874,7 +3874,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -4073,7 +4073,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -4347,7 +4347,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -4774,7 +4774,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -4977,7 +4977,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -5222,7 +5222,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -5629,7 +5629,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -5832,7 +5832,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -6077,7 +6077,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -6568,7 +6568,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -6992,7 +6992,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -7180,7 +7180,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -7368,7 +7368,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -7604,7 +7604,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -7866,7 +7866,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -8300,7 +8300,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -8512,7 +8512,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -8746,7 +8746,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -8953,7 +8953,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -9188,7 +9188,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -9437,7 +9437,7 @@
 				"Torpedo Bomber Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -9849,7 +9849,7 @@
 				"Torpedo Bombers Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -10129,7 +10129,7 @@
 				"Torpedo Bomber Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -10372,7 +10372,7 @@
 				"Fighter Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -10665,7 +10665,7 @@
 				"All Plane Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -10899,7 +10899,7 @@
 				"Can Equip Dive Bombers in the Fighters slot"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -11123,7 +11123,7 @@
 				"Fighter Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -11328,7 +11328,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -11558,7 +11558,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -11784,7 +11784,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -12076,7 +12076,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -12609,7 +12609,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -12845,7 +12845,7 @@
 				"All weapons' efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -13058,7 +13058,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -13290,7 +13290,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -13522,7 +13522,7 @@
 				"All Weapons Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -13735,7 +13735,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -14039,7 +14039,7 @@
 				"All Weapons Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -14497,7 +14497,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -14765,7 +14765,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -15219,7 +15219,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -15631,7 +15631,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -15860,7 +15860,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -16277,7 +16277,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -16489,7 +16489,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -16690,7 +16690,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -16933,7 +16933,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -17386,7 +17386,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -17591,7 +17591,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -17829,7 +17829,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -18261,7 +18261,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -18460,7 +18460,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -18729,7 +18729,7 @@
 				"Torpedo efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -19195,7 +19195,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -19640,7 +19640,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -20072,7 +20072,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -20313,7 +20313,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -20761,7 +20761,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -21167,7 +21167,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -21370,7 +21370,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -21573,7 +21573,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -21776,7 +21776,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -21979,7 +21979,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -22202,7 +22202,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -22486,7 +22486,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -22765,7 +22765,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -22977,7 +22977,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -23170,7 +23170,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -23375,7 +23375,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -23585,7 +23585,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -23795,7 +23795,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -24070,7 +24070,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -24541,7 +24541,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -25077,7 +25077,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -25529,7 +25529,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -25939,7 +25939,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -26170,7 +26170,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -26375,7 +26375,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -26563,7 +26563,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -26760,7 +26760,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -27003,7 +27003,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -27422,7 +27422,7 @@
 				"Torpedo Bombers Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -27624,7 +27624,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -27899,7 +27899,7 @@
 				"Torpedo Bombers Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -28220,7 +28220,7 @@
 				"Dive Bomber Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -28722,7 +28722,7 @@
 				"Torpedo Bomber Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -29168,7 +29168,7 @@
 				"Torpedo Bomber Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -29400,7 +29400,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -29615,7 +29615,7 @@
 				"Torpedo Bombers Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -29842,7 +29842,7 @@
 				"Anti-Air Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -30133,7 +30133,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -30619,7 +30619,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -31113,7 +31113,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -31323,7 +31323,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -31564,7 +31564,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -32009,7 +32009,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -32454,7 +32454,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -32875,7 +32875,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -33091,7 +33091,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -33354,7 +33354,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -33604,7 +33604,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -33879,7 +33879,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -34081,7 +34081,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -34306,7 +34306,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -34528,7 +34528,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -34768,7 +34768,7 @@
 				"Dive Bomber Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -34992,7 +34992,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -35205,7 +35205,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -35404,7 +35404,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -35617,7 +35617,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -35838,7 +35838,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -36084,7 +36084,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -36588,7 +36588,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -37049,7 +37049,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -37290,7 +37290,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -37707,7 +37707,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -37906,7 +37906,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -38102,7 +38102,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -38312,7 +38312,7 @@
 				"Anti-Air Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -38589,7 +38589,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -39031,7 +39031,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -39473,7 +39473,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -39947,7 +39947,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -40371,7 +40371,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -40589,7 +40589,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -40788,7 +40788,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -41001,7 +41001,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -41200,7 +41200,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -41427,7 +41427,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -41662,7 +41662,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -41881,7 +41881,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -42077,7 +42077,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -42276,7 +42276,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -42489,7 +42489,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -42688,7 +42688,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -42929,7 +42929,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -43378,7 +43378,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -43576,7 +43576,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -43852,7 +43852,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -44096,7 +44096,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -44305,7 +44305,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -44548,7 +44548,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -44991,7 +44991,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -45424,7 +45424,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -45625,7 +45625,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -45835,7 +45835,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -46087,7 +46087,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -46551,7 +46551,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -46964,7 +46964,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -47213,7 +47213,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -47435,7 +47435,7 @@
 				"Torpedo efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -47657,7 +47657,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -47867,7 +47867,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -48063,7 +48063,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -48281,7 +48281,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -48515,7 +48515,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -48741,7 +48741,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -48949,7 +48949,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -49159,7 +49159,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -49381,7 +49381,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -49577,7 +49577,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -49782,7 +49782,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -49959,7 +49959,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -50173,7 +50173,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -50599,7 +50599,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -51020,7 +51020,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -51454,7 +51454,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -51861,7 +51861,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -52291,7 +52291,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -52701,7 +52701,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -53139,7 +53139,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -53340,7 +53340,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -53553,7 +53553,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -53761,7 +53761,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -54002,7 +54002,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -54472,7 +54472,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -55117,7 +55117,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -55374,7 +55374,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -55790,7 +55790,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -56027,7 +56027,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -56234,7 +56234,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -56437,7 +56437,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -56650,7 +56650,7 @@
 				"Torpedo Bombers Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -56882,7 +56882,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -57311,7 +57311,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -57521,7 +57521,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -57717,7 +57717,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -57985,7 +57985,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -58413,7 +58413,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -58623,7 +58623,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -58841,7 +58841,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -59058,7 +59058,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -59257,7 +59257,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -59489,7 +59489,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -59716,7 +59716,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -59919,7 +59919,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -60127,7 +60127,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -60335,7 +60335,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -60602,7 +60602,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -61070,7 +61070,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -61497,7 +61497,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -61709,7 +61709,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -61922,7 +61922,7 @@
 				"Torpedo Bomber Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -62149,7 +62149,7 @@
 				"Torpedo Bombers Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -62368,7 +62368,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -62592,7 +62592,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -62791,7 +62791,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -63202,7 +63202,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -63414,7 +63414,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -63616,7 +63616,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -63803,7 +63803,7 @@
 				"Aircraft efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -63995,7 +63995,7 @@
 				"Slot 1 & Slot 2 Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -64391,7 +64391,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -64820,7 +64820,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -65031,7 +65031,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -65227,7 +65227,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -65431,7 +65431,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -65626,7 +65626,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -65822,7 +65822,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -66018,7 +66018,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -66240,7 +66240,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -66462,7 +66462,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -66881,7 +66881,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -67310,7 +67310,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -67730,7 +67730,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -68154,7 +68154,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -68578,7 +68578,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -68778,7 +68778,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -69195,7 +69195,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -69406,7 +69406,7 @@
 				"Torpedo Bombers Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -69621,7 +69621,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -69824,7 +69824,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -70033,7 +70033,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -70248,7 +70248,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -70470,7 +70470,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -70683,7 +70683,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -70878,7 +70878,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -71090,7 +71090,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -71289,7 +71289,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -71519,7 +71519,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -71741,7 +71741,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -71955,7 +71955,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -72377,7 +72377,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -72592,7 +72592,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -72800,7 +72800,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -72986,7 +72986,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -73180,7 +73180,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -73375,7 +73375,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -73570,7 +73570,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -73765,7 +73765,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -73984,7 +73984,7 @@
 				"All weapons' efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -74193,7 +74193,7 @@
 				"Main gun efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -74410,7 +74410,7 @@
 				"Torpedo Bomber efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -74752,7 +74752,7 @@
 			"2": [],
 			"3": []
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -74925,7 +74925,7 @@
 			"2": [],
 			"3": []
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": null,
 				"maxLevel": null
@@ -75117,7 +75117,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -75383,7 +75383,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -75828,7 +75828,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -76240,7 +76240,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -76457,7 +76457,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -76669,7 +76669,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -76877,7 +76877,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -77085,7 +77085,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -77293,7 +77293,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -77492,7 +77492,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -77691,7 +77691,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -77890,7 +77890,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -78089,7 +78089,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -78288,7 +78288,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -78529,7 +78529,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -79075,7 +79075,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -79529,7 +79529,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -79947,7 +79947,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -80212,7 +80212,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -80402,7 +80402,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -80591,7 +80591,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -80794,7 +80794,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -80992,7 +80992,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -81245,7 +81245,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -81458,7 +81458,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -81699,7 +81699,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -82157,7 +82157,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -82454,7 +82454,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -82657,7 +82657,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -82859,7 +82859,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -83061,7 +83061,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -83263,7 +83263,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -83465,7 +83465,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -83709,7 +83709,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -84139,7 +84139,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -84369,7 +84369,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -84599,7 +84599,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -84829,7 +84829,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -85073,7 +85073,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -85284,7 +85284,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -85535,7 +85535,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -85974,7 +85974,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -86371,7 +86371,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -86561,7 +86561,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -86751,7 +86751,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -86944,7 +86944,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -87137,7 +87137,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -87346,7 +87346,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -87546,7 +87546,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -87755,7 +87755,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -87962,7 +87962,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -88177,7 +88177,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -88427,7 +88427,7 @@
 				"Dive Bomber Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -88876,7 +88876,7 @@
 				"Dive Bomber Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -89313,7 +89313,7 @@
 				"Fighter Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -89721,7 +89721,7 @@
 				"Dive Bomber Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -89987,7 +89987,7 @@
 				"Dive Bomber Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -90501,7 +90501,7 @@
 				"Dive Bomber Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -90908,7 +90908,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -91143,7 +91143,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -91449,7 +91449,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -91668,7 +91668,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -91864,7 +91864,7 @@
 				"Anti-Air Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -92077,7 +92077,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -92334,7 +92334,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -92793,7 +92793,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -93196,7 +93196,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -93395,7 +93395,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -93636,7 +93636,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -94081,7 +94081,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -94526,7 +94526,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -95025,7 +95025,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -95467,7 +95467,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -95876,7 +95876,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -96081,7 +96081,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -96294,7 +96294,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -96533,7 +96533,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -96769,7 +96769,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -97053,7 +97053,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -97316,7 +97316,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -97580,7 +97580,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -97841,7 +97841,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -98067,7 +98067,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -98329,7 +98329,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -98587,7 +98587,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -98819,7 +98819,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -99045,7 +99045,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -99279,7 +99279,7 @@
 				"Stars increase to ★★★★★★"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
@@ -99494,7 +99494,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -99672,7 +99672,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -99850,7 +99850,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -100030,7 +100030,7 @@
 				"Dive Bombers Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -100227,7 +100227,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -100429,7 +100429,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -100631,7 +100631,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -100834,7 +100834,7 @@
 				"Dive Bombers Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -101037,7 +101037,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -101229,7 +101229,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -101423,7 +101423,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -101625,7 +101625,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -101827,7 +101827,7 @@
 				"Torpedo Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -102030,7 +102030,7 @@
 				"Dive Bombers Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -102233,7 +102233,7 @@
 				"Torpedo Bombers Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -102436,7 +102436,7 @@
 				"All Plane Efficiency +7%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -102637,7 +102637,7 @@
 				"All Weapons' Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -102843,7 +102843,7 @@
 				"All Weapons' Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -103039,7 +103039,7 @@
 				"Aircraft Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -103233,7 +103233,7 @@
 				"Main Gun Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -103427,7 +103427,7 @@
 				"Number of All Planes +1"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -103636,7 +103636,7 @@
 				"All Planes Efficiency +15%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -104049,7 +104049,7 @@
 				"Torpedo Efficiency +10%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -104247,7 +104247,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -104444,7 +104444,7 @@
 				"All Weapon Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -104644,7 +104644,7 @@
 				"Torpedo Bombers Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],
@@ -104850,7 +104850,7 @@
 				"All Planes Efficiency +5%"
 			]
 		},
-		"fleet_tech": {
+		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [],

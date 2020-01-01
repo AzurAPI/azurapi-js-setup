@@ -426,7 +426,7 @@ function parseShip(name, body) {
     ship.skills = parseSkills(doc.getElementById("Skills"));
     if (ship.rarity === "Priority" || ship.rarity === "Decisive") ship.devLevels = parseDevelopmentLevels(doc.querySelector("#Development_levels tbody"));
     else ship.limitBreaks = parseShipLimits(doc.querySelector("#Limit_breaks tbody"));
-    ship.fleet_tech = parseFleetTech(doc.getElementById("Fleet_technology"));
+    ship.fleetTech = parseFleetTech(doc.getElementById("Fleet_technology"));
     if (doc.getElementById("Retrofit")) { // This ship can be retrofited
         ship.retrofit = true;
         ship.retrofit_id = (3000 + parseInt(ship.id)) + "";
