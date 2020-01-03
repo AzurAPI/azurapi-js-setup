@@ -21,6 +21,7 @@ let CHAPTERS = require("./chapters.json");
 let SHIPS_INTERNAL = require("./ships.internal.json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
+let PATH_SIZE = require("./path-sizes.json")
 
 const HEADERS = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
@@ -33,23 +34,26 @@ function timeout(ms) {
 }
 
 module.exports = {
-    filter: filter,
     publishShips: publishShips,
     publishEQ: publishEQ,
     refreshShips: refreshShips,
     refreshEquipments: refreshEquipments,
     refreshShipImages: refreshShipImages,
     refreshEQImages: refreshEQImages,
-    refreshChapter: refreshChapter
+    refreshChapter: refreshChapter,
+    removeShip: removeShip
 }
-// Filtering the ship list
-function filter(callback) {
-    let newShips = {};
-    Object.keys(SHIPS_INTERNAL).forEach(key => {
-        if (callback(SHIPS_INTERNAL[key]))
-            newShips[key] = SHIPS_INTERNAL[key]
-    });
-    return newShips;
+
+function removeShip(name) {
+    for (let key in SHIPS_INTERNAL)
+        if (SHIPS_INTERNAL[key].names.en === name) delete SHIPS_INTERNAL[key];
+    fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
+}
+
+function removeShips(tester) {
+    for (let key in SHIPS_INTERNAL)
+        if (tester(SHIPS_INTERNAL[key])) delete SHIPS_INTERNAL[key];
+    fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
 }
 
 // Refresh ships
@@ -58,23 +62,28 @@ async function refreshShips(online) {
     let shipCounter = 0;
     fs.writeFileSync('./ship-list.json', JSON.stringify(SHIP_LIST));
     console.log("Updated ship list, current ship count = " + Object.keys(SHIP_LIST).length);
-    console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS).length + " ships from cache.");
+    console.log("Loaded a ship list of " + Object.keys(SHIP_LIST).length + " ships.\nLoaded " + Object.keys(SHIPS_INTERNAL).length + " ships from cache.");
     let keys = Object.keys(SHIP_LIST);
     for (key of keys) {
+        if (key.length === 4 && key.startsWith("3")) continue; // Retrofited ship ids
         let ship = await refreshShip(key, online);
         shipCounter++;
         if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
         if (!ship) continue;
         SHIPS_INTERNAL[key] = ship;
         fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
+        if (shipCounter === 200 || shipCounter === 400) {
+            console.log("Program Stopped to prevent a crush")
+            break;
+        }
     }
     console.log("\nDone");
 }
 
-async function refreshShipImages(overwrite) {
-    if (IMAGE_PROGRESS.last_id) {
-        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
-        deleteAll(SKIN_PATH.replace('${id}', IMAGE_PROGRESS.last_id));
+async function refreshShipImages() {
+    if (IMAGE_PROGRESS.inProgress) {
+        console.log("Program Last Stopped at \"" + IMAGE_PROGRESS.inProgress + "\"");
+        if (fs.existsSync(IMAGE_PROGRESS.inProgress)) fs.unlinkSync(IMAGE_PROGRESS.inProgress);
         console.log("Done")
     }
     console.log("Refreshing images...");
@@ -82,74 +91,69 @@ async function refreshShipImages(overwrite) {
     console.log("Images from ships...");
     for (let key in SHIPS_INTERNAL) {
         let ship = SHIPS_INTERNAL[key];
-        IMAGE_PROGRESS.last_id = key;
-        fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
         let root_folder = SKIN_PATH.replace('${id}', ship.id);
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
         process.stdout.write(`${key}`);
-        if (!fs.existsSync(root_folder + "thumbnail.png") || overwrite)
-            await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
+        await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
         process.stdout.write("-");
         for (let skin of ship.skins) {
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
             let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_");
             let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_");
-            if (skin.image !== null && (!fs.existsSync(image_path) || overwrite))
-                await fetchImage(skin.image, image_path);
+            if (skin.image !== null) await fetchImage(skin.image, image_path);
             process.stdout.write(".");
-            if (skin.chibi !== null && (!fs.existsSync(chibi_path) || overwrite))
-                await fetchImage(skin.chibi, chibi_path);
+            if (skin.chibi !== null) await fetchImage(skin.chibi, chibi_path);
             process.stdout.write("|");
-            if (skin.background !== null && (!fs.existsSync("./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1)) || overwrite)) {
-                await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
-                console.log("\nDownloaded " + skin.background);
-            }
+            if (skin.background !== null) await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
         }
+        if (ship.unreleased) continue;
         process.stdout.write("G");
         for (let item of ship.gallery) {
-            if (item.url !== null && (!fs.existsSync("./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1)) || overwrite)) {
-                IMAGE_PROGRESS.last_gallery_item = item.url.substring(item.url.lastIndexOf('/') + 1);
-                fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-                process.stdout.write("\nDownloading gallery item " + IMAGE_PROGRESS.last_gallery_item);
-                await fetchImage(item.url, "./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1));
-                console.log("Done");
+            if (item.url !== null) {
+                let path = "./images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1);
+                await fetchImage(item.url, path);
             }
+        }
+        process.stdout.write("S");
+        let getSkillIcon = async (skill) => {
+            if (!skill) return;
+            let skillName = skill.names.en.toLowerCase();
+            if (skillName.includes('(retrofit)')) skillName = skillName.replace('(retrofit)', '') + ".kai";
+            skillName = skillName.trim().replace(/\s+/g, '_');
+            let path = "./images/skills/" + key + "/" + skillName + ".png";
+            if (skill.icon !== null)
+                await fetchImage(skill.icon, path);
+            return;
+        };
+        if (!fs.existsSync("./images/skills/" + key)) fs.mkdirSync("./images/skills/" + key);
+        for (let skill of ship.skills) {
+            await getSkillIcon(skill);
+            process.stdout.write(".");
         }
         shipCounter++;
         if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
-    IMAGE_PROGRESS.last_id = null;
-    fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
 }
 
-async function refreshEQImages(overwrite) {
-    if (IMAGE_PROGRESS.last_id) {
-        console.log("Program Last Stopped at ID \"" + IMAGE_PROGRESS.last_id + "\". Deleting " + "./images/equipments/" + IMAGE_PROGRESS.last_id + ".png", IMAGE_PROGRESS.last_id);
-        if (fs.existsSync("./images/equipments/" + IMAGE_PROGRESS.last_id + ".png"))
-            fs.unlinkSync("./images/equipments/" + IMAGE_PROGRESS.last_id + ".png");
-        if (fs.existsSync("./images/equipments.animation/" + IMAGE_PROGRESS.last_id + ".gif"))
-            fs.unlinkSync("./images/equipments.animation/" + IMAGE_PROGRESS.last_id + ".gif");
+async function refreshEQImages() {
+    if (IMAGE_PROGRESS.inProgress) {
+        console.log("Program Last Stopped at \"" + IMAGE_PROGRESS.inProgress + "\"");
+        if (fs.existsSync(IMAGE_PROGRESS.inProgress)) fs.unlinkSync(IMAGE_PROGRESS.inProgress);
         console.log("Done")
     }
     console.log("Equipments...");
-    for (let cat in EQUIPMENTS) {
-        for (let key in EQUIPMENTS) {
-            let eq = EQUIPMENTS[key];
-            process.stdout.write(key);
-            let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-            IMAGE_PROGRESS.last_id = cleanName;
-            fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
-            if (!fs.existsSync("./images/equipments/" + cleanName + ".png") || overwrite)
-                await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
-            process.stdout.write('.');
-            if (eq.misc.animation && !fs.existsSync("./images/equipments.animation/" + cleanName + ".gif") || overwrite)
-                await fetchImage(eq.misc.animation, "./images/equipments.animation/" + cleanName + ".gif");
-            process.stdout.write('.\n');
-        }
+    for (let key in EQUIPMENTS) {
+        let eq = EQUIPMENTS[key];
+        let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+        IMAGE_PROGRESS.inProgress = cleanName;
+        fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+        await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
+        if (eq.misc.animation)
+            await fetchImage(eq.misc.animation, "./images/equipments.animation/" + cleanName + ".gif");
     }
-    IMAGE_PROGRESS.last_id = null;
+    IMAGE_PROGRESS.inProgress = null;
     fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
     console.log("\nDone");
 }
@@ -157,18 +161,18 @@ async function refreshEQImages(overwrite) {
 async function refreshEquipments(online) {
     let data;
     process.stdout.write("Refreshing Equipments");
-    if (!fs.existsSync('./web/equipments/equipment_list.html') || online) fs.writeFileSync('./web/equipments/equipment_list.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
-    else data = fs.readFileSync('./web/equipments/equipment_list.html', 'utf8');
+    if (!fs.existsSync('./web/equipments/index.html') || online) fs.writeFileSync('./web/equipments/index.html', data = await fetch("https://azurlane.koumakan.jp/Equipment_List"));
+    else data = fs.readFileSync('./web/equipments/index.html', 'utf8');
     process.stdout.write("EQ Menu Loaded\n");
     for (let equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
         let category = equipment_type.textContent;
         console.log("Refreshing Equipments type= " + category + "...");
-        if (!fs.existsSync('./web/equipments/' + category + '_list.html') || online) {
+        if (!fs.existsSync('./web/equipments/' + category + '.html') || online) {
             process.stdout.write("Getting List...");
             data = await fetch("https://azurlane.koumakan.jp" + equipment_type.firstElementChild.getAttribute("href"))
-            fs.writeFileSync('./web/equipments/' + category + '_list.html', data);
+            fs.writeFileSync('./web/equipments/' + category + '.html', data);
             process.stdout.write("Done\n");
-        } else data = fs.readFileSync('./web/equipments/' + category + '_list.html', 'utf8');
+        } else data = fs.readFileSync('./web/equipments/' + category + '.html', 'utf8');
         if (!fs.existsSync('./web/equipments/' + category)) fs.mkdirSync('./web/equipments/' + category);
         let doc = new JSDOM(data).window.document;
         console.log("List Done");
@@ -225,6 +229,7 @@ function publishShips() {
         }
         SHIPS[key].skins = newSkins;
         process.stdout.write("|");
+        if (SHIPS[key].unreleased) continue;
         let newGallery = [];
         for (let item of SHIPS[key].gallery) {
             process.stdout.write(".");
@@ -232,6 +237,14 @@ function publishShips() {
             newGallery.push(item);
         }
         SHIPS[key].gallery = newGallery;
+        let publishSkill = async (skill) => {
+            if (!skill) return {};
+            let path = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
+            skill.icon = path;
+            return skill;
+        };
+        for (let i = 1; i <= 3; i++)
+            SHIPS[key].skills[i] = publishSkill(SHIPS[key].skills[i]);
         process.stdout.write("|");
     }
     let ships_value = JSON.stringify(SHIPS);
@@ -283,7 +296,7 @@ async function refreshEquipment(href, name, category, online) {
 
 // Get the updated list of ships
 async function fetchShipList(online) {
-    if (!online || SHIP_LIST.length != 0) return SHIP_LIST;
+    if (!online && Object.keys(SHIP_LIST).length !== 0) return SHIP_LIST;
     let LIST = {};
     new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships")).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
         let columns = table_ship.childNodes;
@@ -301,20 +314,23 @@ async function fetchShipList(online) {
 async function fetchShip(name, online) {
     let data;
     if (online) { // Fetch from the wiki directly
-        data = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name.replace(/ +/g, "_")) + "?useformat=desktop")
+        data = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name) + "?useformat=desktop")
         fs.writeFileSync('./web/ships/' + name + '.html', data);
     } else {
         if (!fs.existsSync('./web/ships/' + name + '.html')) return fetchShip(name, true); // Enforcing
         data = fs.readFileSync('./web/ships/' + name + '.html', 'utf8'); // Read from local cache
     }
+    process.stdout.write(".");
     let ship = parseShip(name, data);
+    process.stdout.write("|");
     ship.skins = await fetchGallery(name, online)
+    process.stdout.write("|");
     return ship;
 }
 
 async function fetchGallery(name, online) {
     if (online) {
-        const body = await fetch("https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_") + "/Gallery");
+        const body = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name) + "/Gallery");
         fs.writeFileSync('./web/ships.gallery/' + name + '.html', body);
         return parseGallery(name, body);
     } else {
@@ -361,6 +377,7 @@ function parseShip(name, body) {
         nationality: doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent,
         hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(2)").textContent
     }
+    //console.log(ship.names.en); // If any parsing error arised
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) { // Unreleased
         let images = doc.getElementsByTagName("img");
         ship.unreleased = true;
@@ -370,40 +387,16 @@ function parseShip(name, body) {
             image: "https://azurlane.koumakan.jp" + doc.querySelector(".tabbertab .image > img").getAttribute("src"),
             background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
             chibi: doc.querySelector("td > div > div:nth-child(2) img") ? "https://azurlane.koumakan.jp" + doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
-            "info": {
-                "Obtained From": "Default",
-                "Live2D Model": "No"
+            info: {
+                obtainedFrom: "Default",
+                live2DModel: "No"
             }
         }];
         ship.rarity = "Unreleased";
-        ship.enhance_value = {
-            firepower: 0,
-            torpedo: 0,
-            aviation: 0,
-            reload: 0
-        };
-        ship.slots = [{}, {}, {}];
-        ship.scrap_value = {
-            coin: 0,
-            oil: 0,
-            medal: 0
-        };
-        ship.gallery = [];
-        ship.construction = {
-            "construction_time": "Cannot Be Constructed",
-            "available_in": {
-                "Light": false,
-                "Heavy": false,
-                "Aviation": false,
-                "Limited": false,
-                "Exchange": false
-            }
-        };
-        ship.limit_breaks = [{}, {}, {}];
-        ship.skills = [{}, {}, {}];
         return ship;
     }
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
+    console.log(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
     let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim();
@@ -412,26 +405,32 @@ function parseShip(name, body) {
         value: stars.split("★").length - 1
     };
     ship.stats = parseStats(doc);
-    let eqslots = [doc.querySelector(".nomobile > div > .wikitable tr:nth-child(3)"), doc.querySelector(".nomobile > div > .wikitable tr:nth-child(4)"), doc.querySelector(".nomobile > div > .wikitable tr:nth-child(5)")];
-    ship.slots = eqslots.map(slot => parseShipEQSlot(slot));
-    let enhance_values = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
-    if (enhance_values.length < 7) ship.enhance_value = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
-    else ship.enhance_value = {
-        firepower: parseInt(enhance_values[0].textContent.trim()),
-        torpedo: parseInt(enhance_values[2].textContent.trim()),
-        aviation: parseInt(enhance_values[4].textContent.trim()),
-        reload: parseInt(enhance_values[6].textContent.trim())
+    ship.slots = {};
+    for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector(".nomobile > div > .wikitable tr:nth-child(" + (i + 3) + ")"));
+    let enhanceValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
+    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
+    else ship.enhanceValue = {
+        firepower: parseInt(enhanceValues[0].textContent.trim()),
+        torpedo: parseInt(enhanceValues[2].textContent.trim()),
+        aviation: parseInt(enhanceValues[4].textContent.trim()),
+        reload: parseInt(enhanceValues[6].textContent.trim())
     };
-    let scrap_values = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
-    if (scrap_values.length < 5) ship.scrap_value = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
-    else ship.scrap_value = {
-        coin: parseInt(scrap_values[0].textContent.trim()),
-        oil: parseInt(scrap_values[2].textContent.trim()),
-        medal: parseInt(scrap_values[4].textContent.trim())
+    let scrapValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
+    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
+    else ship.scrapValue = {
+        coin: parseInt(scrapValues[0].textContent.trim()),
+        oil: parseInt(scrapValues[2].textContent.trim()),
+        medal: parseInt(scrapValues[4].textContent.trim())
     };
-    let shipLSk = parseShipLSKTable(doc.querySelector(".nomobile:nth-child(5)"));
-    ship.skills = shipLSk.skills;
-    ship.limit_breaks = shipLSk.limits;
+    ship.skills = parseSkills(doc.getElementById("Skills"));
+    if (ship.rarity === "Priority" || ship.rarity === "Decisive") ship.devLevels = parseDevelopmentLevels(doc.querySelector("#Development_levels tbody"));
+    else ship.limitBreaks = parseShipLimits(doc.querySelector("#Limit_breaks tbody"));
+    ship.fleetTech = parseFleetTech(doc.getElementById("Fleet_technology"));
+    if (doc.getElementById("Retrofit")) { // This ship can be retrofited
+        ship.retrofit = true;
+        ship.retrofitId = (3000 + parseInt(ship.id)) + "";
+        ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
+    }
     ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
     ship.gallery = parseShipGallery(doc);
     ship.misc = {
@@ -448,51 +447,148 @@ function parseShip(name, body) {
             name: misc_selectors[3].textContent,
             url: misc_selectors[3].getAttribute("href")
         } : null,
-        voice: misc_selectors[4] ? misc_selectors[4].textContent : null
+        voice: misc_selectors[4] ? {
+            name: misc_selectors[4].parentElement.lastElementChild.textContent,
+            url: misc_selectors[4].parentElement.lastElementChild.href
+        } : null
     };
     return ship;
 }
 
-function parseShipLSKTable(skill_table) {
+function parseShipLimits(skill_table) {
     let rows = skill_table.getElementsByTagName("tr");
-    rows = [rows[1], rows[2], rows[3]];
-    return {
-        skills: rows.map(parseSkill),
-        limits: rows.map(parseLimitBreak)
-    };
+    let limits = [];
+    for (let i = 1; i < 4; i++) limits.push(parseLimitBreak(rows[i]));
+    return limits;
 }
 
 function parseLimitBreak(row) {
+    let buffs = [];
+    let rows = row.children[1].children;
+    for (let i = 0; i < rows.length; i++) buffs.push(rows[i].textContent.trim())
+    return buffs;
+}
+
+function parseSkills(table) {
+    let rows = table.getElementsByTagName("tr");
+    let skills = [];
+    let skill_count = 3;
+    let skill;
+    for (let i = 1; skill = parseSkill(rows[i], rows[i + 2]); i += 4) skills.push(skill);
+    return skills;
+}
+
+function parseDevelopmentLevels(table) {
+    let rows = table.getElementsByTagName("tr");
+    let levels = {};
+    for (let i = 1; i < rows.length; i++) {
+        let buff_rows = rows[i].lastElementChild.children;
+        let buffs = [];
+        for (let j = 0; j < buff_rows.length; j++) buffs.push(parseDevelopmentLevelBuff(buff_rows[j]));
+        levels[rows[i].firstElementChild.textContent.trim()] = buffs;
+    }
+    return levels;
+}
+
+function parseDevelopmentLevelBuff(row) {
+    if (row.childElementCount === 0) return row.textContent.trim(); // pure text
+    else {
+        let buffs = {};
+        for (let i = 0; i < row.childNodes.length;) {
+            let image, text;
+            if (row.childNodes[i].tagName === "DIV") {
+                image = row.childNodes[i].childNodes[0];
+                text = row.childNodes[i].childNodes[1];
+            } else {
+                image = row.childNodes[i];
+                text = row.childNodes[i + 1];
+            }
+            buffs[camelize(image.title.replace(/[^\w ]/g, ''))] = text.textContent.replace(',', '').trim();
+            i += 2;
+        }
+        return buffs;
+    }
+}
+
+function parseSkill(title, body) {
+    if (!title || !body) return null;
     return {
-        limit: row.children[0].textContent.trim(),
-        description: row.children[1].textContent.trim()
+        icon: title.getElementsByTagName("a")[0] ? title.getElementsByTagName("a")[0].href : null,
+        names: {
+            en: title.firstElementChild.firstElementChild.lastElementChild.childNodes[0].textContent,
+            cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
+            jp: title.querySelector("[lang='ja']") ? title.querySelector("[lang='ja']").textContent : null
+        },
+        description: body.textContent.trim(),
+        color: title.firstElementChild.getAttribute("style").replace(/^.+background-color:([^;]+).+$/, '$1').toLowerCase() // cant use style.backgroundColor, jsdom's issue
     };
 }
 
-function parseSkill(row) {
-    let skill = {
-        description: row.lastElementChild.textContent.trim()
+function parseFleetTech(table_p) {
+    let fleet_tech = {};
+    let cells = table_p.getElementsByTagName("td");
+    fleet_tech.statsBonus = {
+        collection: parseStatsBonus(cells[0]),
+        maxLevel: parseStatsBonus(cells[1])
     };
-    if (skill.description) {
-        let cn_name = row.children[2].children[2] ? row.children[2].children[2].textContent.trim() : null;
-        let jp_name = row.children[2].children[4] ? row.children[2].children[4].textContent.trim() : null;
-        skill.names = {
-            en: row.children[2].firstElementChild.textContent.trim(),
-            cn: cn_name ? cn_name.substring(cn_name.indexOf(":") + 2) : null,
-            jp: jp_name ? jp_name.substring(jp_name.indexOf(":") + 2) : null
+    fleet_tech.techPoints = {
+        collection: parseTechPoints(cells[2]),
+        maxLimitBreak: parseTechPoints(cells[4]),
+        maxLevel: parseTechPoints(cells[5]),
+        total: parseTechPoints(cells[3])
+    };
+    return fleet_tech;
+}
+
+function parseStatsBonus(cell) {
+    if (!cell || cell.childElementCount === 0) return null;
+    let i = 0;
+    let statsBonus = {};
+    statsBonus.applicable = [];
+    for (; cell.children[i].tagName === "A"; i++) statsBonus.applicable.push(cell.children[i].title.replace(/\(\w+\)/, '').trim());
+    statsBonus.stat = cell.children[i].title;
+    statsBonus.bonus = cell.lastChild.textContent.trim();
+    return statsBonus;
+}
+
+function parseTechPoints(cell) {
+    if (!cell || cell.childElementCount === 0) return 0;
+    return parseInt(cell.lastChild.textContent.trim());
+}
+
+function parseRetrofit(tbody) {
+    let projects = {};
+    let rows = tbody.children;
+    for (let i = 1; i < rows.length; i++) {
+        let cols = rows[i].children;
+        let index = cols[0].textContent.trim();
+        let split = cols[1].textContent.replace(/([^(]+)\((.+)\)/, '$1|$2').split("|");
+        let split2 = cols[6].textContent.trim().split(" ");
+        projects[index] = {
+            name: split[0].trim(),
+            grade: split[1] ? split[1].trim() : undefined,
+            attributes: deepToString(cols[2]).trim().replace(/\s{2,}/g, ' ').split(/ ?and ?|, ?/g),
+            materials: deepToString(cols[3]).trim().replace(/\s{2,}/g, ' ').split(/ ?and ?|, ?/g),
+            coins: parseInt(cols[4].textContent),
+            level: parseInt(cols[5].textContent),
+            levelBreakLevel: parseInt(split2[0]),
+            levelBreakStars: split2[1],
+            recurrence: parseInt(cols[7].textContent),
+            require: cols[8].textContent.trim().split(/, ?/g)
         };
-        return skill;
-    } else return {};
+        if (projects[index].require[0] === "") projects[index].require = [];
+    }
+    return projects;
 }
 
 function parseShipEQSlot(slot) {
     let eqslot = {
-        index: parseInt(slot.children[0].textContent.trim()),
         type: slot.children[2].textContent.trim()
     };
     if (slot.children[1].firstElementChild) {
-        eqslot.min_efficiency = parseInt(slot.children[1].firstElementChild.textContent.replace('%', ''));
-        eqslot.max_efficiency = parseInt(slot.children[1].lastElementChild.textContent.replace('%', ''));
+        eqslot.minEfficiency = parseInt(slot.children[1].children[0].textContent.replace('%', ''));
+        eqslot.maxEfficiency = parseInt(slot.children[1].children[1].textContent.replace('%', ''));
+        if (slot.children[1].children[2]) eqslot.kaiEfficiency = parseInt(slot.children[1].children[2].textContent.replace('%', ''));
     }
     return eqslot;
 }
@@ -514,10 +610,10 @@ function parseStats(doc) {
                     row.querySelectorAll("td").forEach(cell => rangeRow.push(cell.style.backgroundColor ? cell.style.backgroundColor === "PaleGreen" ? "S" : (cell.textContent.trim() ? cell.textContent.trim() : "*") : ""));
                     range.push(rangeRow);
                 });
-                stats[type] = range;
-            } else stats[type] = bodies[j].textContent.trim();
+                stats[camelize(type.replace(/[^\w ]/g, ''))] = range;
+            } else stats[camelize(type.replace(/[^\w ]/g, ''))] = bodies[j].textContent.trim();
         }
-        allStats[title] = stats;
+        allStats[camelize(title.replace(/[^\w ]/g, ''))] = stats;
     });
     return allStats;
 }
@@ -526,7 +622,7 @@ function parseGallery(name, body) {
     let skins = [];
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
-        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[row.getElementsByTagName("th")[0].textContent.trim()] = row.getElementsByTagName("td")[0].textContent.trim());
+        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         let parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").srcset);
         skins.push({
             name: tab.title,
@@ -542,7 +638,7 @@ function parseGallery(name, body) {
 function parseShipConstruction(construction_tbody) {
     let construction_time = construction_tbody.children[1].firstElementChild.textContent.trim();
     let available = {};
-    let construction_types = ["Light", "Heavy", "Aviation", "Limited", "Exchange"];
+    let construction_types = ["light", "heavy", "aviation", "limited", "exchange"];
     for (let i = 0; i < 5; i++) {
         let elem = construction_tbody.children[3].children[i];
         let value = elem.textContent.trim();
@@ -551,8 +647,8 @@ function parseShipConstruction(construction_tbody) {
         available[construction_types[i]] = value;
     }
     return {
-        construction_time: construction_time,
-        available_in: available
+        constructionTime: construction_time,
+        availableIn: available
     };
 }
 
@@ -631,8 +727,8 @@ function parseEquipmentInfo(eqbox) {
 
 function parseEquipmentStats(eqstats) {
     let stats = {};
-    for (row of eqstats.getElementsByClassName("eq-tr")) stats[row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()] =
-        parseEquipmentStatsSlot(row.lastElementChild)
+    for (row of eqstats.getElementsByClassName("eq-tr"))
+        stats[camelize((row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()).replace(/[^\w ]/g, ''))] = parseEquipmentStatsSlot(row.lastElementChild);
     return stats;
 }
 
@@ -700,6 +796,7 @@ function parseEquipmentStatsSlot(valueNode) {
             type: "value",
             value: value
         }
+        data.formated = value;
         return data;
     }
 }
@@ -707,7 +804,7 @@ function parseEquipmentStatsSlot(valueNode) {
 function parseEquipmentFit(eqfits) {
     let fits = {};
     for (row of eqfits.getElementsByTagName("tr")) { // GRR, it was an one liner, unlucky me had to debug it
-        let name = row.children[1].textContent.trim();
+        let name = camelize(row.children[1].textContent.trim());
         if (row.children[2].textContent.trim() === "✘") fits[name] = null;
         else if (row.children[2].textContent.trim() === "✔") fits[name] = "primary";
         else fits[name] = row.children[2].getElementsByClassName("tooltiptext")[0] ? row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim() : "unspecified";
@@ -720,7 +817,7 @@ function parseEquipmentFit(eqfits) {
 function parseEquipmentMisc(eqmisc) {
     let datas = eqmisc.getElementsByClassName("eq-td");
     return {
-        obtained_from: datas[0].textContent,
+        obtainedFrom: datas[0].textContent,
         notes: datas[1].textContent,
         animation: datas.length > 2 ? ("https://azurlane.koumakan.jp" + datas[2].firstElementChild.firstElementChild.src) : null
     };
@@ -763,13 +860,61 @@ function fetch(url) {
         headers: HEADERS
     }, (error, res, body) => {
         if (error) reject(error);
-        else setTimeout(() => resolve(body), 5500); // Added a delay of 5.5s to prevent wiki server overload
+        else resolve(body);
+        //else setTimeout(() => resolve(body), 5500); // Added a delay of 5.5s to prevent wiki server overload
     }));
 }
-// Downloading images
-async function fetchImage(url, localPath) {
-    await timeout(5500);
-    return new Promise((resolve, reject) => request(url).pipe(fs.createWriteStream(localPath)).on('finish', resolve).on('error', reject));
+
+function head(url) {
+    return new Promise((resolve, reject) => {
+        request.head(url, function(err, res, body) {
+            resolve({
+                err: err,
+                res: res,
+                body: body
+            });
+        });
+    });
+}
+
+function fetchImage(url, localPath) {
+    //await timeout(5500);
+    if (url.includes("thumb")) url = galleryThumbnailUrlToActualUrl(url);
+    return new Promise((resolve, reject) => {
+        if (fs.existsSync(localPath)) { // Check local file
+            verifyFile(url, localPath).then(valid => {
+                if (valid) {
+                    process.stdout.write("-");
+                    resolve();
+                } else {
+                    fs.unlinkSync(localPath);
+                    fetchImage(url, localPath).then(resolve);
+                }
+            });
+        } else {
+            IMAGE_PROGRESS.inProgress = localPath;
+            fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+            request(url).pipe(fs.createWriteStream(localPath)).on('close', () => {
+                IMAGE_PROGRESS.inProgress = null;
+                fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
+                resolve();
+            }).on('error', reject);
+        }
+    });
+}
+
+async function verifyFile(url, localPath) {
+    let correctSize;
+    if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
+    else {
+        PATH_SIZE[url] = correctSize = parseInt((await head(url)).res.headers['content-length']);
+        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE));
+    }
+    if (fs.statSync(localPath)["size"] === correctSize) return true;
+    else {
+        console.log("File Corrupted: " + localPath);
+        return false;
+    }
 }
 
 function deleteAll(path) {
@@ -816,4 +961,31 @@ function getHash(text) {
     hash.write(text);
     hash.end();
     return hash.read();
+}
+
+function camelize(str) {
+    return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, (match, i) => {
+        if (+match === 0) return "";
+        return i == 0 ? match.toLowerCase() : match.toUpperCase();
+    });
+}
+
+function unwrap(el) {
+    var parent = el.parentNode;
+    while (el.firstChild) parent.insertBefore(el.firstChild, el);
+    parent.removeChild(el);
+}
+
+function deepToString(parent) {
+    if (parent.nodeType === 3) return parent.textContent;
+    if (parent.tagName === "IMG" && parent.title) return `"${parent.title}"`;
+    if (parent.tagName === "IMG") return `"${parent.alt.replace(/(Icon)?.png/, '')}"`;
+    if (parent.childNodes.length > 0) {
+        let text = "";
+        for (node of parent.childNodes) text += deepToString(node);
+        return text;
+    } else {
+        if (parent.title) return parent.title;
+        return parent.textContent;
+    }
 }

@@ -1,9 +1,8 @@
 const azurlane = require("./index.js");
-
 // azurlane.refreshShips(false);
 // azurlane.refreshEquipments(false);
-//azurlane.refreshShipImages(false);
-// azurlane.refreshEQImages(false);
-//azurlane.refreshChapter(false);
-// azurlane.publishShips();
- azurlane.publishEQ();
+// azurlane.refreshChapter(false);
+// azurlane.refreshShipImages();
+// azurlane.refreshEQImages();
+ azurlane.publishShips();
+// azurlane.publishEQ();

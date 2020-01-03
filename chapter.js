@@ -50,7 +50,7 @@ function parseMap(div, code, names) {
     for (let i = 0; i < name_list.length; i++) {
         let parser = parsers[name_list[i].textContent];
         if (!parser) console.log("\n(" + i + ") Missing Parser: " + name_list[i].textContent)
-        map[name_list[i].textContent.replace(/\([^()]+\)/g, '').trim().replace(/\s+/g, '_').toLowerCase()] = parser(data_list[i]);
+        map[camelize(name_list[i].textContent.replace(/\(.+\)/, ''))] = parser(data_list[i]);
         if (name_list[i].textContent === "Node Map") break; // 100% the last valid head
     }
     return map;
@@ -68,7 +68,7 @@ function parseUnlockReq(div) {
     let value = div.textContent.trim();
     return {
         text: value,
-        required_level: parseInt(value.substring(7))
+        requiredLevel: parseInt(value.substring(7))
     };
 }
 
@@ -91,8 +91,8 @@ function parse3StarRewards(div) {
 
 function parseEnermyLevel(div) {
     let info = {
-        mob_level: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
-        boss_level: parseInt(div.childNodes[4].textContent.replace(/[^\d]+/g, ''))
+        mobLevel: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
+        bossLevel: parseInt(div.childNodes[4].textContent.replace(/[^\d]+/g, ''))
     };
     if (div.childNodes.length === 7) info.boss = div.childNodes[5].textContent;
     else info.boss = div.childNodes[4].textContent.replace(/[^()]+\((.+)\)/, '$1');
@@ -101,10 +101,10 @@ function parseEnermyLevel(div) {
 
 function parseBaseXP(div) {
     return {
-        small_fleet: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
-        medium_fleet: parseInt(div.childNodes[3].textContent.replace(/[^\d]+/g, '')),
-        large_fleet: parseInt(div.childNodes[5].textContent.replace(/[^\d]+/g, '')),
-        boss_fleet: parseInt(div.childNodes[7].textContent.replace(/[^\d]+/g, '')),
+        smallFleet: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
+        mediumFleet: parseInt(div.childNodes[3].textContent.replace(/[^\d]+/g, '')),
+        largeFleet: parseInt(div.childNodes[5].textContent.replace(/[^\d]+/g, '')),
+        bossFleet: parseInt(div.childNodes[7].textContent.replace(/[^\d]+/g, '')),
     };
 }
 
@@ -120,15 +120,53 @@ function parseAirSuprem(div) {
 }
 
 function parseFleetRestriction(div) {
-
+    let fleet_1_res = {};
+    let i = 0;
+    for (; div.childNodes[i] && div.childNodes[i + 1];) {
+        if (div.childNodes[i].tagName === "HR" || div.childNodes[i + 1].tagName === "HR") break;
+        if (div.childNodes[i].tagName === "B") {
+            i++;
+            continue;
+        }
+        fleet_1_res[camelize(div.childNodes[i + 1].title.replace(/\(.+\)/g, '').trim())] = parseInt(div.childNodes[i].textContent.replace(/[^\d]/g, ''));
+        i += 2;
+    }
+    i += 3;
+    let fleet_2_res = {};
+    for (; div.childNodes[i] && div.childNodes[i + 1];) {
+        if (div.childNodes[i].tagName === "B") {
+            i++;
+            continue;
+        }
+        fleet_2_res[camelize(div.childNodes[i + 1].title.replace(/\(.+\)/g, '').trim())] = parseInt(div.childNodes[i].textContent.replace(/[^\d]/g, ''));
+        i += 2;
+    }
+    return {
+        fleet1: fleet_1_res,
+        fleet2: fleet_2_res
+    };
 }
 
 function parseStatsRestriction(div) {
-
+    let restrictions = {};
+    div.childNodes.forEach(n => {
+        if (n.textContent === ": Not available") return;
+        if (n.nodeType === 3) {
+            let restriction = n.textContent.replace(/, $/, '').replace(':', '').trim();
+            let data = restriction.replace(/(?:Total )?(.+)(?: >|(?: total value)? greater than) (\d+)/, '$1|$2').split('|');
+            data[0] = data[0].replace(/(total value|stat)/gi, '').trim();
+            restrictions[camelize(data[0])] = parseInt(data[1]);
+        }
+    });
+    return restrictions;
 }
 
 function parseMapDrops(div) {
-
+    let rewards = [];
+    div.childNodes.forEach(n => {
+        if (n.nodeType === 3) rewards.push(n.textContent.replace(',', '').trim());
+    });
+    return rewards;
 }
 
 function parseEQBPDrops(div) {
@@ -191,4 +229,11 @@ function parseNodeMap(div) {
 
 function galleryThumbnailUrlToActualUrl(tdir) {
     return tdir.replace(/\/w\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, '/w/images/$1/$2');
+}
+
+function camelize(str) {
+    return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, (match, i) => {
+        if (+match === 0) return "";
+        return i == 0 ? match.toLowerCase() : match.toUpperCase();
+    });
 }

@@ -10,39 +10,44 @@
 				"title": "Offshore Exercises",
 				"code": "1-1",
 				"introduction": "We are conducting a joint military exercise with the Eagle Union's elite Task Force.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 0",
-					"required_level": 0
+					"requiredLevel": 0
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 1,
-					"boss_level": 2,
+				"enemyLevel": {
+					"mobLevel": 1,
+					"bossLevel": 2,
 					"boss": "Hornet"
 				},
-				"base_xp": {
-					"small_fleet": 80,
-					"medium_fleet": 100,
-					"large_fleet": 110,
-					"boss_fleet": 150
+				"baseXP": {
+					"smallFleet": 80,
+					"mediumFleet": 100,
+					"largeFleet": 110,
+					"bossFleet": 150
 				},
-				"required_battles": 1,
-				"boss_kills_to_clear": 1,
-				"star_conditions": [
+				"requiredBattles": 1,
+				"bossKillsToClear": 1,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 3 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 6
 				},
-				"equipment_blueprint_drops": [],
-				"ship_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [],
+				"shipDrops": [
 					{
 						"name": "Craven"
 					},
@@ -59,7 +64,7 @@
 						"name": "Cygnet"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/6/67/1-1.png",
 					"width": 7,
 					"height": 1,
@@ -97,34 +102,53 @@
 				"title": "Offshore Exercises",
 				"code": "1-1",
 				"introduction": "We are conducting a joint military exercise with the Eagle Union's elite Task Force.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"enemy_level": {
-					"mob_level": 21,
-					"boss_level": 22,
+				"enemyLevel": {
+					"mobLevel": 21,
+					"bossLevel": 22,
 					"boss": "Hornet"
 				},
-				"base_xp": {
-					"small_fleet": 80,
-					"medium_fleet": 100,
-					"large_fleet": 110,
-					"boss_fleet": 150
+				"baseXP": {
+					"smallFleet": 80,
+					"mediumFleet": 100,
+					"largeFleet": 110,
+					"bossFleet": 150
 				},
-				"required_battles": 1,
-				"boss_kills_to_clear": 1,
-				"star_conditions": [
+				"requiredBattles": 1,
+				"bossKillsToClear": 1,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 3 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 45
 				},
-				"equipment_blueprint_drops": [],
-				"ship_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"destroyer": 1
+					},
+					"fleet2": {}
+				},
+				"statRestrictions": {
+					"averageLevel": 15,
+					"firepower": 50,
+					"aviation": 50
+				},
+				"mapDrops": [
+					"T1-T2 Destroyer Retrofit Blueprint",
+					"4 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [],
+				"shipDrops": [
 					{
 						"name": "Craven"
 					},
@@ -141,7 +165,7 @@
 						"name": "Cygnet"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/9/9d/1-1_Hard.png",
 					"width": 7,
 					"height": 1,
@@ -186,39 +210,44 @@
 				"title": "Tora! Tora! Tora!",
 				"code": "1-2",
 				"introduction": "Report! Our home port is being bombed by an unknown fleet. Commander, we need you on defense!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 0",
-					"required_level": 0
+					"requiredLevel": 0
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 3,
-					"boss_level": 4,
+				"enemyLevel": {
+					"mobLevel": 3,
+					"bossLevel": 4,
 					"boss": "Tone"
 				},
-				"base_xp": {
-					"small_fleet": 100,
-					"medium_fleet": 110,
-					"large_fleet": 120,
-					"boss_fleet": 170
+				"baseXP": {
+					"smallFleet": 100,
+					"mediumFleet": 110,
+					"largeFleet": 120,
+					"bossFleet": 170
 				},
-				"required_battles": 2,
-				"boss_kills_to_clear": 1,
-				"star_conditions": [
+				"requiredBattles": 2,
+				"bossKillsToClear": 1,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 12
 				},
-				"equipment_blueprint_drops": [],
-				"ship_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [],
+				"shipDrops": [
 					{
 						"name": "Craven"
 					},
@@ -247,7 +276,7 @@
 						"name": "Foxhound"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/12/1-2.png",
 					"width": 5,
 					"height": 3,
@@ -327,34 +356,53 @@
 				"title": "Tora! Tora! Tora!",
 				"code": "1-2",
 				"introduction": "Report! Our home port is being bombed by an unknown fleet. Commander, we need you on defense!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"enemy_level": {
-					"mob_level": 23,
-					"boss_level": 24,
+				"enemyLevel": {
+					"mobLevel": 23,
+					"bossLevel": 24,
 					"boss": "Tone"
 				},
-				"base_xp": {
-					"small_fleet": 100,
-					"medium_fleet": 110,
-					"large_fleet": 120,
-					"boss_fleet": 170
+				"baseXP": {
+					"smallFleet": 100,
+					"mediumFleet": 110,
+					"largeFleet": 120,
+					"bossFleet": 170
 				},
-				"required_battles": 2,
-				"boss_kills_to_clear": 1,
-				"star_conditions": [
+				"requiredBattles": 2,
+				"bossKillsToClear": 1,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 50
 				},
-				"equipment_blueprint_drops": [],
-				"ship_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"destroyer": 1
+					},
+					"fleet2": {}
+				},
+				"statRestrictions": {
+					"averageLevel": 16,
+					"firepower": 60,
+					"aviation": 60
+				},
+				"mapDrops": [
+					"T1-T2 Cruiser Retrofit Blueprint",
+					"4 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [],
+				"shipDrops": [
 					{
 						"name": "Craven"
 					},
@@ -383,7 +431,7 @@
 						"name": "Foxhound"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/2/2e/1-2_Hard.png",
 					"width": 5,
 					"height": 3,
@@ -465,39 +513,44 @@
 				"title": "The Harbor Clash",
 				"code": "1-3",
 				"introduction": "The enemy's reconnaissance force has been detected up ahead - prepare to intercept them!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 0",
-					"required_level": 0
+					"requiredLevel": 0
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 5,
-					"boss_level": 6,
+				"enemyLevel": {
+					"mobLevel": 5,
+					"bossLevel": 6,
 					"boss": "Kirishima"
 				},
-				"base_xp": {
-					"small_fleet": 110,
-					"medium_fleet": 120,
-					"large_fleet": 130,
-					"boss_fleet": 180
+				"baseXP": {
+					"smallFleet": 110,
+					"mediumFleet": 120,
+					"largeFleet": 130,
+					"bossFleet": 180
 				},
-				"required_battles": 2,
-				"boss_kills_to_clear": 1,
-				"star_conditions": [
+				"requiredBattles": 2,
+				"bossKillsToClear": 1,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 18
 				},
-				"equipment_blueprint_drops": [],
-				"ship_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [],
+				"shipDrops": [
 					{
 						"name": "Cassin"
 					},
@@ -532,7 +585,7 @@
 						"name": "Foxhound"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/d1/1-3.png",
 					"width": 6,
 					"height": 3,
@@ -615,34 +668,53 @@
 				"title": "The Harbor Clash",
 				"code": "1-3",
 				"introduction": "The enemy's reconnaissance force has been detected up ahead - prepare to intercept them!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"enemy_level": {
-					"mob_level": 25,
-					"boss_level": 26,
+				"enemyLevel": {
+					"mobLevel": 25,
+					"bossLevel": 26,
 					"boss": "Kirishima"
 				},
-				"base_xp": {
-					"small_fleet": 110,
-					"medium_fleet": 120,
-					"large_fleet": 130,
-					"boss_fleet": 180
+				"baseXP": {
+					"smallFleet": 110,
+					"mediumFleet": 120,
+					"largeFleet": 130,
+					"bossFleet": 180
 				},
-				"required_battles": 2,
-				"boss_kills_to_clear": 1,
-				"star_conditions": [
+				"requiredBattles": 2,
+				"bossKillsToClear": 1,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 60
 				},
-				"equipment_blueprint_drops": [],
-				"ship_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"destroyer": 1
+					},
+					"fleet2": {}
+				},
+				"statRestrictions": {
+					"averageLevel": 18,
+					"firepower": 70,
+					"aviation": 70
+				},
+				"mapDrops": [
+					"T1-T2 Battleship Retrofit Blueprint",
+					"4 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [],
+				"shipDrops": [
 					{
 						"name": "Cassin"
 					},
@@ -677,7 +749,7 @@
 						"name": "Foxhound"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/d0/1-3_Hard.png",
 					"width": 6,
 					"height": 3,
@@ -767,38 +839,43 @@
 				"title": "Sakura Fleet",
 				"code": "1-4",
 				"introduction": "A fleet from the East, the Sakura Empire, has crossed the ocean to launch an attack against us!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 0",
-					"required_level": 0
+					"requiredLevel": 0
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 8,
-					"boss_level": 10,
+				"enemyLevel": {
+					"mobLevel": 8,
+					"bossLevel": 10,
 					"boss": ": 10 ("
 				},
-				"base_xp": {
-					"small_fleet": 130,
-					"medium_fleet": 140,
-					"large_fleet": 150,
-					"boss_fleet": 210
+				"baseXP": {
+					"smallFleet": 130,
+					"mediumFleet": 140,
+					"largeFleet": 150,
+					"bossFleet": 210
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 7 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 24
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Rammer",
 						"tier": "T3"
@@ -820,7 +897,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Renown"
 					},
@@ -873,7 +950,7 @@
 						"name": "Leander"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/00/1-4.png",
 					"width": 7,
 					"height": 3,
@@ -999,33 +1076,51 @@
 				"title": "Sakura Fleet",
 				"code": "1-4",
 				"introduction": "A fleet from the East, the Sakura Empire, has crossed the ocean to launch an attack against us!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"enemy_level": {
-					"mob_level": 28,
-					"boss_level": 30,
+				"enemyLevel": {
+					"mobLevel": 28,
+					"bossLevel": 30,
 					"boss": ": 30 ("
 				},
-				"base_xp": {
-					"small_fleet": 130,
-					"medium_fleet": 140,
-					"large_fleet": 150,
-					"boss_fleet": 210
+				"baseXP": {
+					"smallFleet": 130,
+					"mediumFleet": 140,
+					"largeFleet": 150,
+					"bossFleet": 210
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 7 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 80
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"destroyer": 1
+					},
+					"fleet2": {}
+				},
+				"statRestrictions": {
+					"averageLevel": 20,
+					"firepower": 100,
+					"aviation": 100
+				},
+				"mapDrops": [
+					"T1-T2 Carrier Retrofit Blueprint",
+					"4 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Rammer",
 						"tier": "T3"
@@ -1047,7 +1142,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Renown"
 					},
@@ -1100,7 +1195,7 @@
 						"name": "Leander"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/5/5b/1-4_Hard.png",
 					"width": 7,
 					"height": 3,
@@ -1240,38 +1335,43 @@
 				"title": "Fuerteventura",
 				"code": "2-1",
 				"introduction": "Intel reports that a large Sakura fleet has gathered around Fuerteventura. We can't afford to lose it!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 0",
-					"required_level": 0
+					"requiredLevel": 0
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 11,
-					"boss_level": 12,
+				"enemyLevel": {
+					"mobLevel": 11,
+					"bossLevel": 12,
 					"boss": "Aoba"
 				},
-				"base_xp": {
-					"small_fleet": 150,
-					"medium_fleet": 165,
-					"large_fleet": 180,
-					"boss_fleet": 225
+				"baseXP": {
+					"smallFleet": 150,
+					"mediumFleet": 165,
+					"largeFleet": 180,
+					"bossFleet": 225
 				},
-				"required_battles": 2,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 2,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 10 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 45
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Hydraulic Steering Gear",
 						"tier": "T3"
@@ -1293,7 +1393,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -1358,7 +1458,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/9/96/2-1.png",
 					"width": 6,
 					"height": 4,
@@ -1489,33 +1589,56 @@
 				"title": "Fuerteventura",
 				"code": "2-1",
 				"introduction": "Intel reports that a large Sakura fleet has gathered around Fuerteventura. We can't afford to lose it!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"enemy_level": {
-					"mob_level": 31,
-					"boss_level": 32,
+				"enemyLevel": {
+					"mobLevel": 31,
+					"bossLevel": 32,
 					"boss": "Aoba"
 				},
-				"base_xp": {
-					"small_fleet": 150,
-					"medium_fleet": 165,
-					"large_fleet": 180,
-					"boss_fleet": 225
+				"baseXP": {
+					"smallFleet": 150,
+					"mediumFleet": 165,
+					"largeFleet": 180,
+					"bossFleet": 225
 				},
-				"required_battles": 2,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 2,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 10 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 110
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 24,
+					"evasion": 50,
+					"aviation": 150
+				},
+				"mapDrops": [
+					"T1-T2 Destroyer Retrofit Blueprint",
+					"8 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Hydraulic Steering Gear",
 						"tier": "T3"
@@ -1537,7 +1660,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -1602,7 +1725,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/7/74/2-1_Hard.png",
 					"width": 6,
 					"height": 4,
@@ -1740,38 +1863,43 @@
 				"title": "Dark Clouds",
 				"code": "2-2",
 				"introduction": "Enemy fighters are continuing to attack! We have to split into two groups and find them.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 14,
-					"boss_level": 15,
+				"enemyLevel": {
+					"mobLevel": 14,
+					"bossLevel": 15,
 					"boss": "Zuikaku"
 				},
-				"base_xp": {
-					"small_fleet": 165,
-					"medium_fleet": 182,
-					"large_fleet": 198,
-					"boss_fleet": 247
+				"baseXP": {
+					"smallFleet": 165,
+					"mediumFleet": 182,
+					"largeFleet": 198,
+					"bossFleet": 247
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 55
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Naval Camouflage",
 						"tier": "T3"
@@ -1793,7 +1921,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -1864,7 +1992,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/19/2-2.png",
 					"width": 7,
 					"height": 5,
@@ -2048,33 +2176,56 @@
 				"title": "Dark Clouds",
 				"code": "2-2",
 				"introduction": "Enemy fighters are continuing to attack! We've have to split into two groups and find them.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"enemy_level": {
-					"mob_level": 34,
-					"boss_level": 35,
+				"enemyLevel": {
+					"mobLevel": 34,
+					"bossLevel": 35,
 					"boss": "Zuikaku"
 				},
-				"base_xp": {
-					"small_fleet": 165,
-					"medium_fleet": 182,
-					"large_fleet": 198,
-					"boss_fleet": 247
+				"baseXP": {
+					"smallFleet": 165,
+					"mediumFleet": 182,
+					"largeFleet": 198,
+					"bossFleet": 247
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 180,
 					"actual": 135
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 26,
+					"evasion": 60,
+					"aviation": 180
+				},
+				"mapDrops": [
+					"T1-T2 Cruiser Retrofit Blueprint",
+					"8 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Naval Camouflage",
 						"tier": "T3"
@@ -2096,7 +2247,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -2167,7 +2318,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/5/54/2-2_Hard.png",
 					"width": 7,
 					"height": 5,
@@ -2358,38 +2509,43 @@
 				"title": "Coral Sea Fortune",
 				"code": "2-3",
 				"introduction": "An enemy aircraft carrier is up ahead. This is a rare chance to strike the enemy where it hurts the most.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 17,
-					"boss_level": 18,
+				"enemyLevel": {
+					"mobLevel": 17,
+					"bossLevel": 18,
 					"boss": "Shouhou"
 				},
-				"base_xp": {
-					"small_fleet": 180,
-					"medium_fleet": 198,
-					"large_fleet": 216,
-					"boss_fleet": 268
+				"baseXP": {
+					"smallFleet": 180,
+					"mediumFleet": 198,
+					"largeFleet": 216,
+					"bossFleet": 268
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 65
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Air Radar",
 						"tier": "T3"
@@ -2411,7 +2567,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -2485,7 +2641,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/7/7a/2-3.png",
 					"width": 6,
 					"height": 5,
@@ -2629,33 +2785,56 @@
 				"title": "Coral Sea Fortune",
 				"code": "2-3",
 				"introduction": "An enemy aircraft carrier is up ahead. This is a rare chance to strike the enemy where it hurts the most.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"enemy_level": {
-					"mob_level": 37,
-					"boss_level": 38,
+				"enemyLevel": {
+					"mobLevel": 37,
+					"bossLevel": 38,
 					"boss": "Shouhou"
 				},
-				"base_xp": {
-					"small_fleet": 180,
-					"medium_fleet": 198,
-					"large_fleet": 216,
-					"boss_fleet": 268
+				"baseXP": {
+					"smallFleet": 180,
+					"mediumFleet": 198,
+					"largeFleet": 216,
+					"bossFleet": 268
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 210,
 					"actual": 160
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 28,
+					"evasion": 70,
+					"aviation": 200
+				},
+				"mapDrops": [
+					"T1-T2 Battleship Retrofit Blueprint",
+					"8 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Air Radar",
 						"tier": "T3"
@@ -2677,7 +2856,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -2751,7 +2930,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/8/85/2-3_Hard.png",
 					"width": 6,
 					"height": 5,
@@ -2902,38 +3081,43 @@
 				"title": "Rescuing Yorktown",
 				"code": "2-4",
 				"introduction": "Yorktown and Lexington are under siege from Sakura fleet. We can't afford to lose them!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 10",
-					"required_level": 10
+					"requiredLevel": 10
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 20,
-					"boss_level": 21,
+				"enemyLevel": {
+					"mobLevel": 20,
+					"bossLevel": 21,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 195,
-					"medium_fleet": 215,
-					"large_fleet": 234,
-					"boss_fleet": 290
+				"baseXP": {
+					"smallFleet": 195,
+					"mediumFleet": 215,
+					"largeFleet": 234,
+					"bossFleet": 290
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 80
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Single 150mm (SK C/28)",
 						"tier": "T3"
@@ -2959,7 +3143,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -3036,7 +3220,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/c/cd/2-4.png",
 					"width": 7,
 					"height": 4,
@@ -3171,33 +3355,56 @@
 				"title": "Rescuing Yorktown",
 				"code": "2-4",
 				"introduction": "Yorktown and Lexington are under siege from Sakura fleet. We can't afford to lose them!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"enemy_level": {
-					"mob_level": 40,
-					"boss_level": 41,
+				"enemyLevel": {
+					"mobLevel": 40,
+					"bossLevel": 41,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 195,
-					"medium_fleet": 215,
-					"large_fleet": 234,
-					"boss_fleet": 290
+				"baseXP": {
+					"smallFleet": 195,
+					"mediumFleet": 215,
+					"largeFleet": 234,
+					"bossFleet": 290
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 250,
 					"actual": 190
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 30,
+					"evasion": 100,
+					"aviation": 250
+				},
+				"mapDrops": [
+					"T1-T2 Carrier Retrofit Blueprint",
+					"8 Core Data",
+					"T1 Upgrade Parts",
+					"T1 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Single 150mm (SK C/28)",
 						"tier": "T3"
@@ -3223,7 +3430,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -3300,7 +3507,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/a/a5/2-4_Hard.png",
 					"width": 7,
 					"height": 4,
@@ -3449,38 +3656,43 @@
 				"title": "Midway Showdown!",
 				"code": "3-1",
 				"introduction": "We received an intel that the Sakura are amassing a large fleet at Midway. Launch a preemptive strike!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 23,
-					"boss_level": 24,
+				"enemyLevel": {
+					"mobLevel": 23,
+					"bossLevel": 24,
 					"boss": "Kaga"
 				},
-				"base_xp": {
-					"small_fleet": 210,
-					"medium_fleet": 231,
-					"large_fleet": 252,
-					"boss_fleet": 312
+				"baseXP": {
+					"smallFleet": 210,
+					"mediumFleet": 231,
+					"largeFleet": 252,
+					"bossFleet": 312
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 150,
 					"actual": 110
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Fuel Filter",
 						"tier": "T3"
@@ -3502,7 +3714,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -3582,7 +3794,7 @@
 						"name": "Leander"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/4/44/3-1.png",
 					"width": 7,
 					"height": 4,
@@ -3727,33 +3939,55 @@
 				"title": "Midway Showdown!",
 				"code": "3-1",
 				"introduction": "We received an intel that the Sakura are amassing a large fleet at Midway. Launch a preemptive strike!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"enemy_level": {
-					"mob_level": 43,
-					"boss_level": 44,
+				"enemyLevel": {
+					"mobLevel": 43,
+					"bossLevel": 44,
 					"boss": "Kaga"
 				},
-				"base_xp": {
-					"small_fleet": 210,
-					"medium_fleet": 231,
-					"large_fleet": 252,
-					"boss_fleet": 312
+				"baseXP": {
+					"smallFleet": 210,
+					"mediumFleet": 231,
+					"largeFleet": 252,
+					"bossFleet": 312
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 320,
 					"actual": 245
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"lightCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 34,
+					"anti-Air": 150,
+					"aviation": 200
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"10 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Fuel Filter",
 						"tier": "T3"
@@ -3775,7 +4009,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -3855,7 +4089,7 @@
 						"name": "Leander"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/0b/3-1_Hard.png",
 					"width": 7,
 					"height": 4,
@@ -4007,38 +4241,43 @@
 				"title": "The Five Minutes",
 				"code": "3-2",
 				"introduction": "Our aircraft have found enemy's aircraft carriers. Their fleet is in disarray. Now is the time to attack!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 26,
-					"boss_level": 27,
+				"enemyLevel": {
+					"mobLevel": 26,
+					"bossLevel": 27,
 					"boss": "Akagi"
 				},
-				"base_xp": {
-					"small_fleet": 225,
-					"medium_fleet": 248,
-					"large_fleet": 270,
-					"boss_fleet": 334
+				"baseXP": {
+					"smallFleet": 225,
+					"mediumFleet": 248,
+					"largeFleet": 270,
+					"bossFleet": 334
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 165,
 					"actual": 125
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Steam Catapult",
 						"tier": "T2"
@@ -4060,7 +4299,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -4140,7 +4379,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/3/3c/3-2.png",
 					"width": 8,
 					"height": 4,
@@ -4304,33 +4543,55 @@
 				"title": "The Five Minutes",
 				"code": "3-2",
 				"introduction": "Our aircraft have found enemy's aircraft carriers. Their fleet is in disarray. Now is the time to attack!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"enemy_level": {
-					"mob_level": 46,
-					"boss_level": 47,
+				"enemyLevel": {
+					"mobLevel": 46,
+					"bossLevel": 47,
 					"boss": "Akagi"
 				},
-				"base_xp": {
-					"small_fleet": 225,
-					"medium_fleet": 248,
-					"large_fleet": 270,
-					"boss_fleet": 334
+				"baseXP": {
+					"smallFleet": 225,
+					"mediumFleet": 248,
+					"largeFleet": 270,
+					"bossFleet": 334
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 2,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 2,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 375,
 					"actual": 285
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"lightCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 36,
+					"anti-Air": 180,
+					"aviation": 220
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"10 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Steam Catapult",
 						"tier": "T2"
@@ -4352,7 +4613,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -4432,7 +4693,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/01/3-2_Hard.png",
 					"width": 8,
 					"height": 4,
@@ -4603,38 +4864,43 @@
 				"title": "The Last Stand",
 				"code": "3-3",
 				"introduction": "Our aviation fleet has been attacked by enemy fighters. Yorktown has suffered severe damage!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 29,
-					"boss_level": 30,
+				"enemyLevel": {
+					"mobLevel": 29,
+					"bossLevel": 30,
 					"boss": "Souryuu"
 				},
-				"base_xp": {
-					"small_fleet": 240,
-					"medium_fleet": 264,
-					"large_fleet": 288,
-					"boss_fleet": 355
+				"baseXP": {
+					"smallFleet": 240,
+					"mediumFleet": 264,
+					"largeFleet": 288,
+					"bossFleet": 355
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 190,
 					"actual": 145
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Quadruple 28mm AA Chicago Piano",
 						"tier": "T3"
@@ -4656,7 +4922,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -4736,7 +5002,7 @@
 						"name": "Kako"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/0d/3-3.png",
 					"width": 6,
 					"height": 5,
@@ -4895,33 +5161,55 @@
 				"title": "The Last Stand",
 				"code": "3-3",
 				"introduction": "Our aviation fleet has been attacked by enemy fighters. Yorktown has suffered severe damage!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"enemy_level": {
-					"mob_level": 49,
-					"boss_level": 50,
+				"enemyLevel": {
+					"mobLevel": 49,
+					"bossLevel": 50,
 					"boss": "Souryuu"
 				},
-				"base_xp": {
-					"small_fleet": 240,
-					"medium_fleet": 264,
-					"large_fleet": 288,
-					"boss_fleet": 355
+				"baseXP": {
+					"smallFleet": 240,
+					"mediumFleet": 264,
+					"largeFleet": 288,
+					"bossFleet": 355
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 430,
 					"actual": 330
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"lightCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 38,
+					"anti-Air": 200,
+					"aviation": 250
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"10 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Quadruple 28mm AA Chicago Piano",
 						"tier": "T3"
@@ -4943,7 +5231,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -5023,7 +5311,7 @@
 						"name": "Kako"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/f/f5/3-3_Hard.png",
 					"width": 6,
 					"height": 5,
@@ -5189,38 +5477,43 @@
 				"title": "Counterattack!",
 				"code": "3-4",
 				"introduction": "We've sunk three enemy carriers. Victory is close, but Hiryuu is going for her final counterattack!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 20",
-					"required_level": 20
+					"requiredLevel": 20
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 32,
-					"boss_level": 33,
+				"enemyLevel": {
+					"mobLevel": 32,
+					"bossLevel": 33,
 					"boss": "Hiryuu"
 				},
-				"base_xp": {
-					"small_fleet": 255,
-					"medium_fleet": 281,
-					"large_fleet": 306,
-					"boss_fleet": 377
+				"baseXP": {
+					"smallFleet": 255,
+					"mediumFleet": 281,
+					"largeFleet": 306,
+					"bossFleet": 377
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 230,
 					"actual": 175
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Repair Toolkit",
 						"tier": "T3"
@@ -5242,7 +5535,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Akagi",
 						"note": "Boss only"
@@ -5327,7 +5620,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/3/3f/3-4.png",
 					"width": 8,
 					"height": 4,
@@ -5491,33 +5784,55 @@
 				"title": "Counterattack!",
 				"code": "3-4",
 				"introduction": "We've sunk three enemy carriers. Victory is close, but Hiryuu is going for her final counterattack!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"enemy_level": {
-					"mob_level": 52,
-					"boss_level": 53,
+				"enemyLevel": {
+					"mobLevel": 52,
+					"bossLevel": 53,
 					"boss": "Hiryuu"
 				},
-				"base_xp": {
-					"small_fleet": 255,
-					"medium_fleet": 281,
-					"large_fleet": 306,
-					"boss_fleet": 377
+				"baseXP": {
+					"smallFleet": 255,
+					"mediumFleet": 281,
+					"largeFleet": 306,
+					"bossFleet": 377
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 495,
 					"actual": 380
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"lightCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 40,
+					"anti-Air": 250,
+					"aviation": 300
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"10 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Repair Toolkit",
 						"tier": "T3"
@@ -5539,7 +5854,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Akagi",
 						"note": "Boss only"
@@ -5624,7 +5939,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/7/73/3-4_Hard.png",
 					"width": 8,
 					"height": 4,
@@ -5797,38 +6112,43 @@
 				"title": "Midnight Fright",
 				"code": "4-1",
 				"introduction": "The Sakura have disrupted our supply shipments to Savo Island. Provide the escort for our next shipment.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 35,
-					"boss_level": 36,
+				"enemyLevel": {
+					"mobLevel": 35,
+					"bossLevel": 36,
 					"boss": "Aoba"
 				},
-				"base_xp": {
-					"small_fleet": 270,
-					"medium_fleet": 297,
-					"large_fleet": 324,
-					"boss_fleet": 399
+				"baseXP": {
+					"smallFleet": 270,
+					"mediumFleet": 297,
+					"largeFleet": 324,
+					"bossFleet": 399
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 160,
 					"actual": 120
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Anti-Torpedo Bulge",
 						"tier": "T3"
@@ -5850,7 +6170,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -5927,7 +6247,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/ba/4-1.png",
 					"width": 6,
 					"height": 6,
@@ -6099,33 +6419,56 @@
 				"title": "Midnight Fright",
 				"code": "4-1",
 				"introduction": "The Sakura have disrupted our supply shipments to Savo Island. Provide the escort for our next shipment.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"enemy_level": {
-					"mob_level": 55,
-					"boss_level": 56,
+				"enemyLevel": {
+					"mobLevel": 55,
+					"bossLevel": 56,
 					"boss": "Aoba"
 				},
-				"base_xp": {
-					"small_fleet": 270,
-					"medium_fleet": 297,
-					"large_fleet": 324,
-					"boss_fleet": 399
+				"baseXP": {
+					"smallFleet": 270,
+					"mediumFleet": 297,
+					"largeFleet": 324,
+					"bossFleet": 399
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 250,
 					"actual": 190
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 40,
+					"torpedo": 250,
+					"evasion": 70
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"12 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Anti-Torpedo Bulge",
 						"tier": "T3"
@@ -6147,7 +6490,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -6224,7 +6567,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/d5/4-1_Hard.png",
 					"width": 6,
 					"height": 6,
@@ -6403,38 +6746,43 @@
 				"title": "Scarlet Dawn",
 				"code": "4-2",
 				"introduction": "We suffered heavy losses during the night. More enemies approaching. We need to leave this area ASAP!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 38,
-					"boss_level": 39,
+				"enemyLevel": {
+					"mobLevel": 38,
+					"bossLevel": 39,
 					"boss": "Furutaka"
 				},
-				"base_xp": {
-					"small_fleet": 285,
-					"medium_fleet": 314,
-					"large_fleet": 342,
-					"boss_fleet": 421
+				"baseXP": {
+					"smallFleet": 285,
+					"mediumFleet": 314,
+					"largeFleet": 342,
+					"bossFleet": 421
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 180,
 					"actual": 135
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 152mm (6\"/47 Mk 16)",
 						"tier": "T3"
@@ -6456,7 +6804,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -6533,7 +6881,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/f/f3/4-2.png",
 					"width": 6,
 					"height": 6,
@@ -6705,33 +7053,56 @@
 				"title": "Scarlet Dawn",
 				"code": "4-2",
 				"introduction": "We suffered heavy losses during the night. More enemies approaching. We need to leave this area ASAP!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"enemy_level": {
-					"mob_level": 58,
-					"boss_level": 59,
+				"enemyLevel": {
+					"mobLevel": 58,
+					"bossLevel": 59,
 					"boss": "Furutaka"
 				},
-				"base_xp": {
-					"small_fleet": 285,
-					"medium_fleet": 314,
-					"large_fleet": 342,
-					"boss_fleet": 421
+				"baseXP": {
+					"smallFleet": 285,
+					"mediumFleet": 314,
+					"largeFleet": 342,
+					"bossFleet": 421
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 290,
 					"actual": 220
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 46,
+					"torpedo": 270,
+					"evasion": 100
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"12 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 152mm (6\"/47 Mk 16)",
 						"tier": "T3"
@@ -6753,7 +7124,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -6830,7 +7201,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/1d/4-2_Hard.png",
 					"width": 6,
 					"height": 6,
@@ -7009,38 +7380,43 @@
 				"title": "Solomon Skirmish",
 				"code": "4-3",
 				"introduction": "HQ has ordered reinforcements to the Solomon Islands after we suffered heavy losses at Savo Island.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 41,
-					"boss_level": 42,
+				"enemyLevel": {
+					"mobLevel": 41,
+					"bossLevel": 42,
 					"boss": "Ryuujou"
 				},
-				"base_xp": {
-					"small_fleet": 300,
-					"medium_fleet": 330,
-					"large_fleet": 360,
-					"boss_fleet": 442
+				"baseXP": {
+					"smallFleet": 300,
+					"mediumFleet": 330,
+					"largeFleet": 360,
+					"bossFleet": 442
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 205,
 					"actual": 155
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Fire Control Radar",
 						"tier": "T3"
@@ -7062,7 +7438,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -7139,7 +7515,7 @@
 						"name": "Shiranui"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/4/4e/4-3.png",
 					"width": 7,
 					"height": 4,
@@ -7279,33 +7655,56 @@
 				"title": "Solomon Skirmish",
 				"code": "4-3",
 				"introduction": "HQ has ordered reinforcements to the Solomon Islands after we suffered heavy losses at Savo Island.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"enemy_level": {
-					"mob_level": 61,
-					"boss_level": 62,
+				"enemyLevel": {
+					"mobLevel": 61,
+					"bossLevel": 62,
 					"boss": "Ryuujou"
 				},
-				"base_xp": {
-					"small_fleet": 300,
-					"medium_fleet": 330,
-					"large_fleet": 360,
-					"boss_fleet": 442
+				"baseXP": {
+					"smallFleet": 300,
+					"mediumFleet": 330,
+					"largeFleet": 360,
+					"bossFleet": 442
 				},
-				"required_battles": 3,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 3,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 325,
 					"actual": 250
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 48,
+					"torpedo": 300,
+					"evasion": 150
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"12 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Fire Control Radar",
 						"tier": "T3"
@@ -7327,7 +7726,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -7404,7 +7803,7 @@
 						"name": "Shiranui"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/2/2f/4-3_Hard.png",
 					"width": 7,
 					"height": 4,
@@ -7551,38 +7950,43 @@
 				"title": "War of Vengeance",
 				"code": "4-4",
 				"introduction": "After half a day of fighting, we finally managed to catch the enemy fleet. Keep an eye on AA defenses!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 25",
-					"required_level": 25
+					"requiredLevel": 25
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 44,
-					"boss_level": 45,
+				"enemyLevel": {
+					"mobLevel": 44,
+					"bossLevel": 45,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 315,
-					"medium_fleet": 347,
-					"large_fleet": 378,
-					"boss_fleet": 464
+				"baseXP": {
+					"smallFleet": 315,
+					"mediumFleet": 347,
+					"largeFleet": 378,
+					"bossFleet": 464
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 235,
 					"actual": 180
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T2"
@@ -7604,7 +8008,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -7684,7 +8088,7 @@
 						"name": "Shiranui"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/f/f9/4-4.png",
 					"width": 8,
 					"height": 6,
@@ -7928,33 +8332,56 @@
 				"title": "War of Vengeance",
 				"code": "4-4",
 				"introduction": "After half a day of fighting, we finally managed to catch the enemy fleet. Keep an eye on AA defenses!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"enemy_level": {
-					"mob_level": 64,
-					"boss_level": 65,
+				"enemyLevel": {
+					"mobLevel": 64,
+					"bossLevel": 65,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 315,
-					"medium_fleet": 347,
-					"large_fleet": 378,
-					"boss_fleet": 464
+				"baseXP": {
+					"smallFleet": 315,
+					"mediumFleet": 347,
+					"largeFleet": 378,
+					"bossFleet": 464
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 375,
 					"actual": 285
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 50,
+					"torpedo": 350,
+					"evasion": 250
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"12 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T2"
@@ -7976,7 +8403,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -8056,7 +8483,7 @@
 						"name": "Shiranui"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/4-4_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -8309,38 +8736,43 @@
 				"title": "Interception",
 				"code": "5-1",
 				"introduction": "The enemy is preparing to ship supplies around Solomon through Espas. We must intercept their shipment.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 47,
-					"boss_level": 48,
+				"enemyLevel": {
+					"mobLevel": 47,
+					"bossLevel": 48,
 					"boss": "Myoukou"
 				},
-				"base_xp": {
-					"small_fleet": 330,
-					"medium_fleet": 363,
-					"large_fleet": 396,
-					"boss_fleet": 486
+				"baseXP": {
+					"smallFleet": 330,
+					"mediumFleet": 363,
+					"largeFleet": 396,
+					"bossFleet": 486
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 280,
 					"actual": 215
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
 						"tier": "T3"
@@ -8362,7 +8794,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -8442,7 +8874,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/15/5-1.png",
 					"width": 8,
 					"height": 6,
@@ -8666,33 +9098,57 @@
 				"title": "Interception",
 				"code": "5-1",
 				"introduction": "The enemy is preparing to ship supplies around Solomon through Espas. We must intercept their shipment.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"enemy_level": {
-					"mob_level": 67,
-					"boss_level": 68,
+				"enemyLevel": {
+					"mobLevel": 67,
+					"bossLevel": 68,
 					"boss": "Myoukou"
 				},
-				"base_xp": {
-					"small_fleet": 330,
-					"medium_fleet": 363,
-					"large_fleet": 396,
-					"boss_fleet": 486
+				"baseXP": {
+					"smallFleet": 330,
+					"mediumFleet": 363,
+					"largeFleet": 396,
+					"bossFleet": 486
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 445,
 					"actual": 340
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 54,
+					"firepower": 320,
+					"anti-Air": 320
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"14 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
 						"tier": "T3"
@@ -8714,7 +9170,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -8794,7 +9250,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/0d/5-1_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -9025,38 +9481,43 @@
 				"title": "Santa Cruz Skies",
 				"code": "5-2",
 				"introduction": "We've located another enemy carrier fleet. We're too far from shore to call for air support.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 50,
-					"boss_level": 51,
+				"enemyLevel": {
+					"mobLevel": 50,
+					"bossLevel": 51,
 					"boss": "Tone"
 				},
-				"base_xp": {
-					"small_fleet": 345,
-					"medium_fleet": 380,
-					"large_fleet": 414,
-					"boss_fleet": 508
+				"baseXP": {
+					"smallFleet": 345,
+					"mediumFleet": 380,
+					"largeFleet": 414,
+					"bossFleet": 508
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 325,
 					"actual": 250
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Grumman F6F Hellcat",
 						"tier": "T3"
@@ -9078,7 +9539,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -9155,7 +9616,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/de/5-2.png",
 					"width": 8,
 					"height": 5,
@@ -9339,33 +9800,57 @@
 				"title": "Santa Cruz Skies",
 				"code": "5-2",
 				"introduction": "We've located another enemy carrier fleet. We're too far from shore to call for air support.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"enemy_level": {
-					"mob_level": 70,
-					"boss_level": 71,
+				"enemyLevel": {
+					"mobLevel": 70,
+					"bossLevel": 71,
 					"boss": "Tone"
 				},
-				"base_xp": {
-					"small_fleet": 345,
-					"medium_fleet": 380,
-					"large_fleet": 414,
-					"boss_fleet": 508
+				"baseXP": {
+					"smallFleet": 345,
+					"mediumFleet": 380,
+					"largeFleet": 414,
+					"bossFleet": 508
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 3,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 3,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 495,
 					"actual": 380
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 56,
+					"firepower": 360,
+					"anti-Air": 360
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"14 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Grumman F6F Hellcat",
 						"tier": "T3"
@@ -9387,7 +9872,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -9464,7 +9949,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/bd/5-2_Hard.png",
 					"width": 8,
 					"height": 5,
@@ -9655,38 +10140,43 @@
 				"title": "Hornet's Fall",
 				"code": "5-3",
 				"introduction": "Hornet has been attacked by an enemy fleet at a nearby location and is sending out her distress signal.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 53,
-					"boss_level": 54,
+				"enemyLevel": {
+					"mobLevel": 53,
+					"bossLevel": 54,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 360,
-					"medium_fleet": 396,
-					"large_fleet": 432,
-					"boss_fleet": 529
+				"baseXP": {
+					"smallFleet": 360,
+					"mediumFleet": 396,
+					"largeFleet": 432,
+					"bossFleet": 529
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 385,
 					"actual": 295
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Douglas BTD-1 Destroyer",
 						"tier": "T3"
@@ -9708,7 +10198,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -9785,7 +10275,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/9/96/5-3.png",
 					"width": 7,
 					"height": 5,
@@ -9964,33 +10454,57 @@
 				"title": "Hornet's Fall",
 				"code": "5-3",
 				"introduction": "Hornet has been attacked by an enemy fleet at a nearby location and is sending out her distress signal.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"enemy_level": {
-					"mob_level": 73,
-					"boss_level": 74,
+				"enemyLevel": {
+					"mobLevel": 73,
+					"bossLevel": 74,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 360,
-					"medium_fleet": 396,
-					"large_fleet": 432,
-					"boss_fleet": 529
+				"baseXP": {
+					"smallFleet": 360,
+					"mediumFleet": 396,
+					"largeFleet": 432,
+					"bossFleet": 529
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 555,
 					"actual": 425
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 58,
+					"firepower": 420,
+					"anti-Air": 420
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"14 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Douglas BTD-1 Destroyer",
 						"tier": "T3"
@@ -10012,7 +10526,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -10089,7 +10603,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/2/20/5-3_Hard.png",
 					"width": 7,
 					"height": 5,
@@ -10275,38 +10789,43 @@
 				"title": "Evacuation",
 				"code": "5-4",
 				"introduction": "An enemy main fleet has intercepted our fleet. Prepare for battle!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 30",
-					"required_level": 30
+					"requiredLevel": 30
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 56,
-					"boss_level": 57,
+				"enemyLevel": {
+					"mobLevel": 56,
+					"bossLevel": 57,
 					"boss": "Zuikaku"
 				},
-				"base_xp": {
-					"small_fleet": 375,
-					"medium_fleet": 413,
-					"large_fleet": 450,
-					"boss_fleet": 551
+				"baseXP": {
+					"smallFleet": 375,
+					"mediumFleet": 413,
+					"largeFleet": 450,
+					"bossFleet": 551
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 450,
 					"actual": 345
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T2 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Quadruple 40mm L60 Mk2 Bofors",
 						"tier": "T3"
@@ -10328,7 +10847,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -10408,7 +10927,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/03/5-4.png",
 					"width": 8,
 					"height": 5,
@@ -10617,33 +11136,57 @@
 				"title": "Evacuation",
 				"code": "5-4",
 				"introduction": "An enemy main fleet has intercepted our fleet. Prepare for battle!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"enemy_level": {
-					"mob_level": 76,
-					"boss_level": 77,
+				"enemyLevel": {
+					"mobLevel": 76,
+					"bossLevel": 77,
 					"boss": "Zuikaku"
 				},
-				"base_xp": {
-					"small_fleet": 375,
-					"medium_fleet": 413,
-					"large_fleet": 450,
-					"boss_fleet": 551
+				"baseXP": {
+					"smallFleet": 375,
+					"mediumFleet": 413,
+					"largeFleet": 450,
+					"bossFleet": 551
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 620,
 					"actual": 475
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 60,
+					"firepower": 500,
+					"anti-Air": 500
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"14 Core Data",
+					"T1-T2 Upgrade Parts",
+					"T1-T2 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Quadruple 40mm L60 Mk2 Bofors",
 						"tier": "T3"
@@ -10665,7 +11208,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -10745,7 +11288,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/e/e3/5-4_Hard.png",
 					"width": 8,
 					"height": 5,
@@ -10963,38 +11506,43 @@
 				"title": "Darkness Elites",
 				"code": "6-1",
 				"introduction": "In a desperate attempt to turn the tide of the war, the Sakura have begun attacking in the dead of night.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 59,
-					"boss_level": 60,
+				"enemyLevel": {
+					"mobLevel": 59,
+					"bossLevel": 60,
 					"boss": "Kinugasa"
 				},
-				"base_xp": {
-					"small_fleet": 390,
-					"medium_fleet": 429,
-					"large_fleet": 468,
-					"boss_fleet": 573
+				"baseXP": {
+					"smallFleet": 390,
+					"mediumFleet": 429,
+					"largeFleet": 468,
+					"bossFleet": 573
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 295,
 					"actual": 225
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "SG Radar",
 						"tier": "T3"
@@ -11016,7 +11564,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -11101,7 +11649,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/4/42/6-1.png",
 					"width": 8,
 					"height": 5,
@@ -11310,33 +11858,58 @@
 				"title": "Darkness Elites",
 				"code": "6-1",
 				"introduction": "In a desperate attempt to turn the tide of the war, the Sakura have begun attacking in the dead of night.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"enemy_level": {
-					"mob_level": 77,
-					"boss_level": 78,
+				"enemyLevel": {
+					"mobLevel": 77,
+					"bossLevel": 78,
 					"boss": "Kinugasa"
 				},
-				"base_xp": {
-					"small_fleet": 390,
-					"medium_fleet": 429,
-					"large_fleet": 468,
-					"boss_fleet": 573
+				"baseXP": {
+					"smallFleet": 390,
+					"mediumFleet": 429,
+					"largeFleet": 468,
+					"bossFleet": 573
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 580,
 					"actual": 445
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 64,
+					"torpedo": 500,
+					"evasion": 250
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"16 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "SG Radar",
 						"tier": "T3"
@@ -11358,7 +11931,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -11443,7 +12016,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/7/70/6-1_Hard.png",
 					"width": 8,
 					"height": 5,
@@ -11659,38 +12232,43 @@
 				"title": "Counterattack",
 				"code": "6-2",
 				"introduction": "Though we failed before, we'll show the Sakura the true strength of the Eagles tonight! For freedom!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 62,
-					"boss_level": 63,
+				"enemyLevel": {
+					"mobLevel": 62,
+					"bossLevel": 63,
 					"boss": "Hiei"
 				},
-				"base_xp": {
-					"small_fleet": 405,
-					"medium_fleet": 446,
-					"large_fleet": 486,
-					"boss_fleet": 595
+				"baseXP": {
+					"smallFleet": 405,
+					"mediumFleet": 446,
+					"largeFleet": 486,
+					"bossFleet": 595
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 335,
 					"actual": 255
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 155mm (3rd Year Type)",
 						"tier": "T3"
@@ -11712,7 +12290,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -11789,7 +12367,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/5/51/6-2.png",
 					"width": 8,
 					"height": 6,
@@ -12028,33 +12606,58 @@
 				"title": "Counterattack",
 				"code": "6-2",
 				"introduction": "Though we failed before, we'll show the Sakura the true strength of the Eagles tonight! For freedom!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"enemy_level": {
-					"mob_level": 79,
-					"boss_level": 80,
+				"enemyLevel": {
+					"mobLevel": 79,
+					"bossLevel": 80,
 					"boss": "Hiei"
 				},
-				"base_xp": {
-					"small_fleet": 405,
-					"medium_fleet": 446,
-					"large_fleet": 486,
-					"boss_fleet": 595
+				"baseXP": {
+					"smallFleet": 405,
+					"mediumFleet": 446,
+					"largeFleet": 486,
+					"bossFleet": 595
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 665,
 					"actual": 510
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 66,
+					"torpedo": 600,
+					"evasion": 300
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"16 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 155mm (3rd Year Type)",
 						"tier": "T3"
@@ -12076,7 +12679,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -12153,7 +12756,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/11/6-2_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -12399,38 +13002,43 @@
 				"title": "Cannon Showdown",
 				"code": "6-3",
 				"introduction": "South Dakota was hit by a savage strike from 雾岛. Lend her your support now!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 65,
-					"boss_level": 66,
+				"enemyLevel": {
+					"mobLevel": 65,
+					"bossLevel": 66,
 					"boss": "Kirishima"
 				},
-				"base_xp": {
-					"small_fleet": 420,
-					"medium_fleet": 462,
-					"large_fleet": 504,
-					"boss_fleet": 616
+				"baseXP": {
+					"smallFleet": 420,
+					"mediumFleet": 462,
+					"largeFleet": 504,
+					"bossFleet": 616
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 380,
 					"actual": 290
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 406mm (BL 16\" Mk I)",
 						"tier": "T3"
@@ -12452,7 +13060,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -12533,7 +13141,7 @@
 						"name": "Kako"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/8/8d/6-3.png",
 					"width": 8,
 					"height": 5,
@@ -12732,33 +13340,58 @@
 				"title": "Cannon Showdown",
 				"code": "6-3",
 				"introduction": "South Dakota was hit by a savage strike from 雾岛. Lend her your support now!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"enemy_level": {
-					"mob_level": 81,
-					"boss_level": 82,
+				"enemyLevel": {
+					"mobLevel": 81,
+					"bossLevel": 82,
 					"boss": "Kirishima"
 				},
-				"base_xp": {
-					"small_fleet": 420,
-					"medium_fleet": 462,
-					"large_fleet": 504,
-					"boss_fleet": 616
+				"baseXP": {
+					"smallFleet": 420,
+					"mediumFleet": 462,
+					"largeFleet": 504,
+					"bossFleet": 616
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 750,
 					"actual": 575
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 68,
+					"torpedo": 700,
+					"evasion": 350
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"16 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 406mm (BL 16\" Mk I)",
 						"tier": "T3"
@@ -12780,7 +13413,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -12861,7 +13494,7 @@
 						"name": "Kako"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/1c/6-3_Hard.png",
 					"width": 8,
 					"height": 5,
@@ -13067,38 +13700,43 @@
 				"title": "Solomon's Tears",
 				"code": "6-4",
 				"introduction": "We're winning the battle at the Solomon Islands, but the enemy is preparing to launch their final attack.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 40",
-					"required_level": 40
+					"requiredLevel": 40
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 68,
-					"boss_level": 69,
+				"enemyLevel": {
+					"mobLevel": 68,
+					"bossLevel": 69,
 					"boss": "Yuudachi"
 				},
-				"base_xp": {
-					"small_fleet": 435,
-					"medium_fleet": 479,
-					"large_fleet": 522,
-					"boss_fleet": 638
+				"baseXP": {
+					"smallFleet": 435,
+					"mediumFleet": 479,
+					"largeFleet": 522,
+					"bossFleet": 638
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 425,
 					"actual": 325
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -13120,7 +13758,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Yuudachi",
 						"note": "Boss only"
@@ -13204,7 +13842,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/0c/6-4.png",
 					"width": 8,
 					"height": 6,
@@ -13448,33 +14086,58 @@
 				"title": "Solomon's Tears",
 				"code": "6-4",
 				"introduction": "We're winning the battle at the Solomon Islands, but the enemy is preparing to launch their final attack.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"enemy_level": {
-					"mob_level": 83,
-					"boss_level": 84,
+				"enemyLevel": {
+					"mobLevel": 83,
+					"bossLevel": 84,
 					"boss": "Yuudachi"
 				},
-				"base_xp": {
-					"small_fleet": 435,
-					"medium_fleet": 479,
-					"large_fleet": 522,
-					"boss_fleet": 638
+				"baseXP": {
+					"smallFleet": 435,
+					"mediumFleet": 479,
+					"largeFleet": 522,
+					"bossFleet": 638
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 840,
 					"actual": 645
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"battleship": 1,
+						"heavyCruiser": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 70,
+					"torpedo": 800,
+					"evasion": 400
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"16 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -13496,7 +14159,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Yuudachi",
 						"note": "Boss only"
@@ -13580,7 +14243,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/18/6-4_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -13828,28 +14491,33 @@
 				"title": "The Ambush",
 				"code": "7-1",
 				"introduction": "The Sakura are shipping supplies to Guadalcanal. HQ has given us orders to intercept them at once!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"enemy_level": {
-					"mob_level": 71,
-					"boss_level": 72,
+				"enemyLevel": {
+					"mobLevel": 71,
+					"bossLevel": 72,
 					"boss": "Shiranui"
 				},
-				"base_xp": {
-					"small_fleet": 445,
-					"medium_fleet": 490,
-					"large_fleet": 534,
-					"boss_fleet": 653
+				"baseXP": {
+					"smallFleet": 445,
+					"mediumFleet": 490,
+					"largeFleet": 534,
+					"bossFleet": 653
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"air_supremacy": {
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"airSupremacy": {
 					"suggested": 485,
 					"actual": 370
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Octuple 40mm Pom-Pom",
 						"tier": "T3"
@@ -13871,7 +14539,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -13948,7 +14616,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/4/4d/7-1.png",
 					"width": 8,
 					"height": 3,
@@ -14092,28 +14760,51 @@
 				"title": "The Ambush",
 				"code": "7-1",
 				"introduction": "The Sakura are shipping supplies to Guadalcanal. HQ has given us orders to intercept them at once!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"enemy_level": {
-					"mob_level": 85,
-					"boss_level": 86,
+				"enemyLevel": {
+					"mobLevel": 85,
+					"bossLevel": 86,
 					"boss": "Shiranui"
 				},
-				"base_xp": {
-					"small_fleet": 445,
-					"medium_fleet": 489,
-					"large_fleet": 534,
-					"boss_fleet": 652
+				"baseXP": {
+					"smallFleet": 445,
+					"mediumFleet": 489,
+					"largeFleet": 534,
+					"bossFleet": 652
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"air_supremacy": {
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"airSupremacy": {
 					"suggested": 940,
 					"actual": 720
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 2,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battleship": 1,
+						"lightCruiser": 1,
+						"destroyer": 2
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 73,
+					"torpedo": 650,
+					"evasion": 300
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"18 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Octuple 40mm Pom-Pom",
 						"tier": "T3"
@@ -14135,7 +14826,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -14212,7 +14903,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/b3/7-1_Hard.png",
 					"width": 8,
 					"height": 3,
@@ -14363,38 +15054,43 @@
 				"title": "Close Combat",
 				"code": "7-2",
 				"introduction": "Enemy managed to approach us under the cover of night. This next battle is going to be in close quarters!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 73,
-					"boss_level": 74,
+				"enemyLevel": {
+					"mobLevel": 73,
+					"bossLevel": 74,
 					"boss": "Kagerou"
 				},
-				"base_xp": {
-					"small_fleet": 455,
-					"medium_fleet": 501,
-					"large_fleet": 546,
-					"boss_fleet": 667
+				"baseXP": {
+					"smallFleet": 455,
+					"mediumFleet": 501,
+					"largeFleet": 546,
+					"bossFleet": 667
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 555,
 					"actual": 425
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
 						"tier": "T3"
@@ -14420,7 +15116,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -14505,7 +15201,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/b7/7-2.png",
 					"width": 8,
 					"height": 5,
@@ -14709,33 +15405,56 @@
 				"title": "Close Combat",
 				"code": "7-2",
 				"introduction": "Enemy managed to approach us under the cover of night. This next battle is going to be in close quarters!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"enemy_level": {
-					"mob_level": 87,
-					"boss_level": 88,
+				"enemyLevel": {
+					"mobLevel": 87,
+					"bossLevel": 88,
 					"boss": "Kagerou"
 				},
-				"base_xp": {
-					"small_fleet": 455,
-					"medium_fleet": 500,
-					"large_fleet": 546,
-					"boss_fleet": 667
+				"baseXP": {
+					"smallFleet": 455,
+					"mediumFleet": 500,
+					"largeFleet": 546,
+					"bossFleet": 667
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1040,
 					"actual": 800
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 2,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battleship": 1,
+						"lightCruiser": 1,
+						"destroyer": 2
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 75,
+					"torpedo": 750,
+					"evasion": 350
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"18 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
 						"tier": "T3"
@@ -14761,7 +15480,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -14846,7 +15565,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/8/8f/7-2_Hard.png",
 					"width": 8,
 					"height": 5,
@@ -15057,38 +15776,43 @@
 				"title": "Unprepared",
 				"code": "7-3",
 				"introduction": "The Sakura torpedo fleet managed to sneak behind our main fleet. Prepare to engage evasive maneuvers!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 75,
-					"boss_level": 76,
+				"enemyLevel": {
+					"mobLevel": 75,
+					"bossLevel": 76,
 					"boss": "Shiratsuyu and Shigure"
 				},
-				"base_xp": {
-					"small_fleet": 465,
-					"medium_fleet": 512,
-					"large_fleet": 558,
-					"boss_fleet": 682
+				"baseXP": {
+					"smallFleet": 465,
+					"mediumFleet": 512,
+					"largeFleet": 558,
+					"bossFleet": 682
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 625,
 					"actual": 480
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 203mm (SK C/34)",
 						"tier": "T3"
@@ -15110,7 +15834,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -15190,7 +15914,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/b7/7-3.png",
 					"width": 8,
 					"height": 6,
@@ -15449,33 +16173,56 @@
 				"title": "Unprepared",
 				"code": "7-3",
 				"introduction": "The Sakura torpedo fleet managed to sneak behind our main fleet. Prepare to engage evasive maneuvers!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"enemy_level": {
-					"mob_level": 89,
-					"boss_level": 90,
+				"enemyLevel": {
+					"mobLevel": 89,
+					"bossLevel": 90,
 					"boss": "Shiratsuyu"
 				},
-				"base_xp": {
-					"small_fleet": 465,
-					"medium_fleet": 511,
-					"large_fleet": 558,
-					"boss_fleet": 681
+				"baseXP": {
+					"smallFleet": 465,
+					"mediumFleet": 511,
+					"largeFleet": 558,
+					"bossFleet": 681
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1145,
 					"actual": 880
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 2,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battleship": 1,
+						"lightCruiser": 1,
+						"destroyer": 2
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 77,
+					"torpedo": 850,
+					"evasion": 400
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"18 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 203mm (SK C/34)",
 						"tier": "T3"
@@ -15497,7 +16244,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -15577,7 +16324,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/11/7-3_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -15843,38 +16590,43 @@
 				"title": "Unforeseen Chaos",
 				"code": "7-4",
 				"introduction": "The Sakura have an unmatchable advantage when fighting under the cover of darkness. Commander, take care!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 50",
-					"required_level": 50
+					"requiredLevel": 50
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 77,
-					"boss_level": 78,
+				"enemyLevel": {
+					"mobLevel": 77,
+					"bossLevel": 78,
 					"boss": "Yukikaze"
 				},
-				"base_xp": {
-					"small_fleet": 475,
-					"medium_fleet": 523,
-					"large_fleet": 570,
-					"boss_fleet": 696
+				"baseXP": {
+					"smallFleet": 475,
+					"mediumFleet": 523,
+					"largeFleet": 570,
+					"bossFleet": 696
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 700,
 					"actual": 535
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "533mm Quintuple Torpedo Mount",
 						"tier": "T3"
@@ -15896,7 +16648,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -15976,7 +16728,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/a/a2/7-4.png",
 					"width": 8,
 					"height": 6,
@@ -16220,33 +16972,56 @@
 				"title": "Unforeseen Chaos",
 				"code": "7-4",
 				"introduction": "The Sakura have an unmatchable advantage when fighting under the cover of darkness. Commander, take care!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"enemy_level": {
-					"mob_level": 91,
-					"boss_level": 92,
+				"enemyLevel": {
+					"mobLevel": 91,
+					"bossLevel": 92,
 					"boss": "Yukikaze"
 				},
-				"base_xp": {
-					"small_fleet": 475,
-					"medium_fleet": 522,
-					"large_fleet": 570,
-					"boss_fleet": 696
+				"baseXP": {
+					"smallFleet": 475,
+					"mediumFleet": 522,
+					"largeFleet": 570,
+					"bossFleet": 696
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1255,
 					"actual": 965
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"aircraftCarrier": 1,
+						"lightCruiser": 2,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battleship": 1,
+						"lightCruiser": 1,
+						"destroyer": 2
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 80,
+					"torpedo": 1000,
+					"evasion": 500
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"18 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "533mm Quintuple Torpedo Mount",
 						"tier": "T3"
@@ -16268,7 +17043,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -16348,7 +17123,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/c/cc/7-4_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -16596,38 +17371,43 @@
 				"title": "Cold Wind",
 				"code": "8-1",
 				"introduction": "We lost the Arctic Sea during the previous battle with the Sakura at Midway. Let's take it back!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 79,
-					"boss_level": 80,
+				"enemyLevel": {
+					"mobLevel": 79,
+					"bossLevel": 80,
 					"boss": "Inazuma"
 				},
-				"base_xp": {
-					"small_fleet": 460,
-					"medium_fleet": 506,
-					"large_fleet": 552,
-					"boss_fleet": 674
+				"baseXP": {
+					"smallFleet": 460,
+					"mediumFleet": 506,
+					"largeFleet": 552,
+					"bossFleet": 674
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 770,
 					"actual": 590
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
 						"tier": "T3"
@@ -16649,7 +17429,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -16729,7 +17509,7 @@
 						"name": "Ranger"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/4/46/8-1.png",
 					"width": 9,
 					"height": 3,
@@ -16876,33 +17656,57 @@
 				"title": "Cold Wind",
 				"code": "8-1",
 				"introduction": "We lost the Arctic Sea during the previous battle with the Sakura at Midway. Let's take it back!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"enemy_level": {
-					"mob_level": 93,
-					"boss_level": 94,
+				"enemyLevel": {
+					"mobLevel": 93,
+					"bossLevel": 94,
 					"boss": "Inazuma"
 				},
-				"base_xp": {
-					"small_fleet": 485,
-					"medium_fleet": 533,
-					"large_fleet": 582,
-					"boss_fleet": 710
+				"baseXP": {
+					"smallFleet": 485,
+					"mediumFleet": 533,
+					"largeFleet": 582,
+					"bossFleet": 710
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1375,
 					"actual": 1055
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 83,
+					"torpedo": 700,
+					"firepower": 700
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"20 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
 						"tier": "T3"
@@ -16924,7 +17728,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -17004,7 +17808,7 @@
 						"name": "Ranger"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/2/22/8-1_Hard.png",
 					"width": 9,
 					"height": 3,
@@ -17158,38 +17962,43 @@
 				"title": "Arctic Daybreak",
 				"code": "8-2",
 				"introduction": "The waters near the Aleutian Islands are frigid and piercing. Dawn in the Arctic has come.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 81,
-					"boss_level": 82,
+				"enemyLevel": {
+					"mobLevel": 81,
+					"bossLevel": 82,
 					"boss": "Ikazuchi"
 				},
-				"base_xp": {
-					"small_fleet": 470,
-					"medium_fleet": 517,
-					"large_fleet": 564,
-					"boss_fleet": 689
+				"baseXP": {
+					"smallFleet": 470,
+					"mediumFleet": 517,
+					"largeFleet": 564,
+					"bossFleet": 689
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 845,
 					"actual": 650
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -17211,7 +18020,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -17291,7 +18100,7 @@
 						"name": "Ranger"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/0/01/8-2.png",
 					"width": 8,
 					"height": 5,
@@ -17510,33 +18319,57 @@
 				"title": "Arctic Daybreak",
 				"code": "8-2",
 				"introduction": "The waters near the Aleutian Islands are frigid and piercing. Dawn in the Arctic has come.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"enemy_level": {
-					"mob_level": 95,
-					"boss_level": 96,
+				"enemyLevel": {
+					"mobLevel": 95,
+					"bossLevel": 96,
 					"boss": "Ikazuchi"
 				},
-				"base_xp": {
-					"small_fleet": 495,
-					"medium_fleet": 544,
-					"large_fleet": 594,
-					"boss_fleet": 725
+				"baseXP": {
+					"smallFleet": 495,
+					"mediumFleet": 544,
+					"largeFleet": 594,
+					"bossFleet": 725
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1495,
 					"actual": 1150
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 85,
+					"torpedo": 850,
+					"firepower": 850
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"20 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -17558,7 +18391,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -17638,7 +18471,7 @@
 						"name": "Ranger"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/9/90/8-2_Hard.png",
 					"width": 8,
 					"height": 5,
@@ -17864,38 +18697,43 @@
 				"title": "Arctic Fury",
 				"code": "8-3",
 				"introduction": "Salt Lake City has maintained heavy damage. The situation is critical!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 83,
-					"boss_level": 84,
+				"enemyLevel": {
+					"mobLevel": 83,
+					"bossLevel": 84,
 					"boss": "Nachi"
 				},
-				"base_xp": {
-					"small_fleet": 480,
-					"medium_fleet": 528,
-					"large_fleet": 576,
-					"boss_fleet": 703
+				"baseXP": {
+					"smallFleet": 480,
+					"mediumFleet": 528,
+					"largeFleet": 576,
+					"bossFleet": 703
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 925,
 					"actual": 710
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 155mm (3rd Year Type)",
 						"tier": "T3"
@@ -17917,7 +18755,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -17994,7 +18832,7 @@
 						"name": "Langley"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/2/29/8-3.png",
 					"width": 8,
 					"height": 6,
@@ -18258,33 +19096,57 @@
 				"title": "Arctic Fury",
 				"code": "8-3",
 				"introduction": "Salt Lake City has maintained heavy damage. The situation is critical!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"enemy_level": {
-					"mob_level": 97,
-					"boss_level": 98,
+				"enemyLevel": {
+					"mobLevel": 97,
+					"bossLevel": 98,
 					"boss": "Nachi"
 				},
-				"base_xp": {
-					"small_fleet": 505,
-					"medium_fleet": 555,
-					"large_fleet": 606,
-					"boss_fleet": 739
+				"baseXP": {
+					"smallFleet": 505,
+					"mediumFleet": 555,
+					"largeFleet": 606,
+					"bossFleet": 739
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1620,
 					"actual": 1245
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 87,
+					"torpedo": 1000,
+					"firepower": 1000
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"20 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 155mm (3rd Year Type)",
 						"tier": "T3"
@@ -18306,7 +19168,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -18383,7 +19245,7 @@
 						"name": "Langley"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/b4/8-3_Hard.png",
 					"width": 8,
 					"height": 6,
@@ -18644,38 +19506,43 @@
 				"title": "Old Battlefield",
 				"code": "8-4",
 				"introduction": "The enemy flagships have been destroyed, but new enemies have appeared. This is the old battlefield.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 60",
-					"required_level": 60
+					"requiredLevel": 60
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 85,
-					"boss_level": 86,
+				"enemyLevel": {
+					"mobLevel": 85,
+					"bossLevel": 86,
 					"boss": "Maya"
 				},
-				"base_xp": {
-					"small_fleet": 490,
-					"medium_fleet": 539,
-					"large_fleet": 588,
-					"boss_fleet": 711
+				"baseXP": {
+					"smallFleet": 490,
+					"mediumFleet": 539,
+					"largeFleet": 588,
+					"bossFleet": 711
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1005,
 					"actual": 770
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 203mm (SK C/34)",
 						"tier": "T3"
@@ -18697,7 +19564,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Maya",
 						"note": "Boss only"
@@ -18781,7 +19648,7 @@
 						"name": "Ranger"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/e/e1/8-4.png",
 					"width": 8,
 					"height": 7,
@@ -19065,33 +19932,57 @@
 				"title": "Old Battlefield",
 				"code": "8-4",
 				"introduction": "The enemy flagships have been destroyed, but new enemies have appeared. This is the old battlefield.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"enemy_level": {
-					"mob_level": 99,
-					"boss_level": 100,
+				"enemyLevel": {
+					"mobLevel": 99,
+					"bossLevel": 100,
 					"boss": "Maya"
 				},
-				"base_xp": {
-					"small_fleet": 515,
-					"medium_fleet": 566,
-					"large_fleet": 618,
-					"boss_fleet": 754
+				"baseXP": {
+					"smallFleet": 515,
+					"mediumFleet": 566,
+					"largeFleet": 618,
+					"bossFleet": 754
 				},
-				"required_battles": 4,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 4,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1755,
 					"actual": 1350
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 90,
+					"torpedo": 1200,
+					"firepower": 1200
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"20 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 203mm (SK C/34)",
 						"tier": "T3"
@@ -19113,7 +20004,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Maya",
 						"note": "Boss only"
@@ -19197,7 +20088,7 @@
 						"name": "Ranger"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/f/f2/8-4_Hard.png",
 					"width": 8,
 					"height": 7,
@@ -19485,38 +20376,43 @@
 				"title": "The Night is Dark",
 				"code": "9-1",
 				"introduction": "Under the cover of darkness, the Sakura's elite destroyers are heading towards Cologne Island.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 65",
-					"required_level": 65
+					"requiredLevel": 65
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 88,
-					"boss_level": 89,
+				"enemyLevel": {
+					"mobLevel": 88,
+					"bossLevel": 89,
 					"boss": "Tanikaze"
 				},
-				"base_xp": {
-					"small_fleet": 500,
-					"medium_fleet": 550,
-					"large_fleet": 600,
-					"boss_fleet": 727
+				"baseXP": {
+					"smallFleet": 500,
+					"mediumFleet": 550,
+					"largeFleet": 600,
+					"bossFleet": 727
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1095,
 					"actual": 840
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 105mm (SK C/33)",
 						"tier": "T3"
@@ -19538,7 +20434,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Charles Ausburne"
 					},
@@ -19615,7 +20511,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/11/9-1.png",
 					"width": 8,
 					"height": 5,
@@ -19834,33 +20730,57 @@
 				"title": "不祥之夜",
 				"code": "9-1",
 				"introduction": "伴随着夜色，重樱的精锐驱逐舰编队正悄悄的驶向科隆班加拉岛方向，然而，我方的拦截舰队早已在此守株待兔。",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 101,
-					"boss_level": 102,
+				"enemyLevel": {
+					"mobLevel": 101,
+					"bossLevel": 102,
 					"boss": "Tanikaze"
 				},
-				"base_xp": {
-					"small_fleet": 500,
-					"medium_fleet": 550,
-					"large_fleet": 600,
-					"boss_fleet": 727
+				"baseXP": {
+					"smallFleet": 500,
+					"mediumFleet": 550,
+					"largeFleet": 600,
+					"bossFleet": 727
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1875,
 					"actual": 1440
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 83,
+					"firepower": 700,
+					"torpedo": 700
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"22 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 105mm (SK C/33)",
 						"tier": "T3"
@@ -19882,7 +20802,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Charles Ausburne"
 					},
@@ -19959,7 +20879,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/7/76/Flag.png",
 					"width": 8,
 					"height": 5,
@@ -20185,38 +21105,43 @@
 				"title": "Torpedo Rush",
 				"code": "9-2",
 				"introduction": "The enemy is close, Commander. Which will win out - the Sakura's torpedoes or the Eagles' light cruisers?",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 65",
-					"required_level": 65
+					"requiredLevel": 65
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 90,
-					"boss_level": 91,
+				"enemyLevel": {
+					"mobLevel": 90,
+					"bossLevel": 91,
 					"boss": "Hamakaze"
 				},
-				"base_xp": {
-					"small_fleet": 510,
-					"medium_fleet": 561,
-					"large_fleet": 612,
-					"boss_fleet": 742
+				"baseXP": {
+					"smallFleet": 510,
+					"mediumFleet": 561,
+					"largeFleet": 612,
+					"bossFleet": 742
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1190,
 					"actual": 915
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Ship Maintenance Crane",
 						"tier": "T3"
@@ -20238,7 +21163,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Erebus"
 					},
@@ -20315,7 +21240,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/5/5d/9-2.png",
 					"width": 9,
 					"height": 5,
@@ -20534,38 +21459,62 @@
 				"title": "拦截作战",
 				"code": "9-2",
 				"introduction": "双方的舰队近距离接触了，在夜色中，究竟会是重樱引以为傲的纯氧鱼雷还是白鹰的巡洋舰炮更胜一筹？",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 103,
-					"boss_level": 104,
+				"enemyLevel": {
+					"mobLevel": 103,
+					"bossLevel": 104,
 					"boss": "Hamakaze"
 				},
-				"base_xp": {
-					"small_fleet": 510,
-					"medium_fleet": 561,
-					"large_fleet": 612,
-					"boss_fleet": 742
+				"baseXP": {
+					"smallFleet": 510,
+					"mediumFleet": 561,
+					"largeFleet": 612,
+					"bossFleet": 742
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2000,
 					"actual": 1535
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 85,
+					"firepower": 850,
+					"torpedo": 850
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"22 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Ship Maintenance Crane",
 						"tier": "T3"
@@ -20587,7 +21536,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Erebus"
 					},
@@ -20664,7 +21613,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/Swordicon2.png",
 					"width": 9,
 					"height": 5,
@@ -20890,38 +21839,43 @@
 				"title": "Light in the Dark",
 				"code": "9-3",
 				"introduction": "Helena's guns lit up the night sky, scattering light across the violent waters. Her position is exposed.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 65",
-					"required_level": 65
+					"requiredLevel": 65
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 92,
-					"boss_level": 93,
+				"enemyLevel": {
+					"mobLevel": 92,
+					"bossLevel": 93,
 					"boss": "Oyashio"
 				},
-				"base_xp": {
-					"small_fleet": 520,
-					"medium_fleet": 572,
-					"large_fleet": 624,
-					"boss_fleet": 756
+				"baseXP": {
+					"smallFleet": 520,
+					"mediumFleet": 572,
+					"largeFleet": 624,
+					"bossFleet": 756
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1290,
 					"actual": 990
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
 						"tier": "T3"
@@ -20943,7 +21897,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Nicholas",
 						"note": "Boss only"
@@ -21024,7 +21978,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/de/9-3.png",
 					"width": 8,
 					"height": 6,
@@ -21273,33 +22227,57 @@
 				"title": "黑夜中的光芒",
 				"code": "9-3",
 				"introduction": "海伦娜炮口的火舌照亮了夜晚的海面，她将火力毫无保留的倾泻在敌人身上，然而，却也因此暴露了自己的位置...",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 105,
-					"boss_level": 106,
+				"enemyLevel": {
+					"mobLevel": 105,
+					"bossLevel": 106,
 					"boss": "Oyashio"
 				},
-				"base_xp": {
-					"small_fleet": 520,
-					"medium_fleet": 572,
-					"large_fleet": 624,
-					"boss_fleet": 756
+				"baseXP": {
+					"smallFleet": 520,
+					"mediumFleet": 572,
+					"largeFleet": 624,
+					"bossFleet": 756
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2130,
 					"actual": 1635
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 87,
+					"firepower": 1000,
+					"torpedo": 1000
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"22 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
 						"tier": "T3"
@@ -21321,7 +22299,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Nicholas",
 						"note": "Boss only"
@@ -21402,7 +22380,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/6/68/Boss_node.png",
 					"width": 8,
 					"height": 6,
@@ -21658,38 +22636,43 @@
 				"title": "Helena",
 				"code": "9-4",
 				"introduction": "The enemy's destroyers showed some serious skill when fighting during the night. Heads up!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 65",
-					"required_level": 65
+					"requiredLevel": 65
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 94,
-					"boss_level": 95,
+				"enemyLevel": {
+					"mobLevel": 94,
+					"bossLevel": 95,
 					"boss": "Niizuki"
 				},
-				"base_xp": {
-					"small_fleet": 530,
-					"medium_fleet": 583,
-					"large_fleet": 636,
-					"boss_fleet": 770
+				"baseXP": {
+					"smallFleet": 530,
+					"mediumFleet": 583,
+					"largeFleet": 636,
+					"bossFleet": 770
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1385,
 					"actual": 1065
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 100mm (Type 98)",
 						"tier": "T3"
@@ -21711,7 +22694,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Niizuki",
 						"note": "Boss only"
@@ -21792,7 +22775,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/b1/9-4.png",
 					"width": 9,
 					"height": 6,
@@ -22042,33 +23025,57 @@
 				"title": "海伦娜",
 				"code": "9-4",
 				"introduction": "敌方的新型驱逐舰展现出了不同以往的夜战实力，多枚鱼雷准确的命中了海伦娜，战斗陷入一片混乱。",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 107,
-					"boss_level": 108,
+				"enemyLevel": {
+					"mobLevel": 107,
+					"bossLevel": 108,
 					"boss": "Niizuki"
 				},
-				"base_xp": {
-					"small_fleet": 530,
-					"medium_fleet": 583,
-					"large_fleet": 636,
-					"boss_fleet": 770
+				"baseXP": {
+					"smallFleet": 530,
+					"mediumFleet": 583,
+					"largeFleet": 636,
+					"bossFleet": 770
 				},
-				"required_battles": 5,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 5,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2260,
 					"actual": 1735
 				},
-				"equipment_blueprint_drops": [
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 90,
+					"firepower": 1200,
+					"torpedo": 1200
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"22 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T3 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 100mm (Type 98)",
 						"tier": "T3"
@@ -22090,7 +23097,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Niizuki",
 						"note": "Boss only"
@@ -22171,7 +23178,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/6/68/Boss_node.png",
 					"width": 9,
 					"height": 6,
@@ -22435,39 +23442,44 @@
 				"title": "Once More, Sortie Again!",
 				"code": "10-1",
 				"introduction": "Less than a week after the Battle of Kula Gulf, the Sakura Fleet reassembled again to launch a covert transport operation to the Kolombangara Islands. Task Force 18, led by Honolulu and St Louis, was once again instructed to intercept the transport.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 95,
-					"boss_level": 96,
+				"enemyLevel": {
+					"mobLevel": 95,
+					"bossLevel": 96,
 					"boss": "Yuugure and Matsukaze"
 				},
-				"base_xp": {
-					"small_fleet": 540,
-					"medium_fleet": 594,
-					"large_fleet": 648,
-					"boss_fleet": 790
+				"baseXP": {
+					"smallFleet": 540,
+					"mediumFleet": 594,
+					"largeFleet": 648,
+					"bossFleet": 790
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1505,
 					"actual": 1155
 				},
-				"additional_notes": "Once the boss shows up, it will spawn a chain of several suicide boats in a horizontal formation against your fleet which aims straight at your flagship.",
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"additionalNotes": "Once the boss shows up, it will spawn a chain of several suicide boats in a horizontal formation against your fleet which aims straight at your flagship.",
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 105mm (SK C/33)",
 						"tier": "T3"
@@ -22489,7 +23501,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Unicorn"
 					},
@@ -22566,7 +23578,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/f/f1/10-1.png",
 					"width": 7,
 					"height": 6,
@@ -22787,39 +23799,44 @@
 				"title": "Preemptive Strike",
 				"code": "10-2",
 				"introduction": "Our PBY recons have detected enemy forces to the south. However, they had already detected our radar signals first. The night battle is about to commence!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 97,
-					"boss_level": 98,
+				"enemyLevel": {
+					"mobLevel": 97,
+					"bossLevel": 98,
 					"boss": "Hamakaze"
 				},
-				"base_xp": {
-					"small_fleet": 545,
-					"medium_fleet": 600,
-					"large_fleet": 654,
-					"boss_fleet": 798
+				"baseXP": {
+					"smallFleet": 545,
+					"mediumFleet": 600,
+					"largeFleet": 654,
+					"bossFleet": 798
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1625,
 					"actual": 1250
 				},
-				"additional_notes": "The boss is escorted by 2 Heavy Cruisers which shield it from your escort ships. Best way to handle it is to have Battleships/Battlecruisers that can target the boss directly.",
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"additionalNotes": "The boss is escorted by 2 Heavy Cruisers which shield it from your escort ships. Best way to handle it is to have Battleships/Battlecruisers that can target the boss directly.",
+				"equipmentBlueprintDrops": [
 					{
 						"name": "SG Radar",
 						"tier": "T3"
@@ -22841,7 +23858,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Lexington"
 					},
@@ -22918,7 +23935,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/a/ab/10-2.png",
 					"width": 8,
 					"height": 6,
@@ -23185,39 +24202,44 @@
 				"title": "Press the Attack",
 				"code": "10-3",
 				"introduction": "Under the cover of night, the Sakura fleet scored several hits on our light cruisers with their prized oxygen torpedoes. However, their flagship, Jintsuu, has been heavily damaged concentrated fire from 152mm cannons, and is now retreating.",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 99,
-					"boss_level": 100,
+				"enemyLevel": {
+					"mobLevel": 99,
+					"bossLevel": 100,
 					"boss": "Yukikaze"
 				},
-				"base_xp": {
-					"small_fleet": 555,
-					"medium_fleet": 610,
-					"large_fleet": 666,
-					"boss_fleet": 812
+				"baseXP": {
+					"smallFleet": 555,
+					"mediumFleet": 610,
+					"largeFleet": 666,
+					"bossFleet": 812
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1750,
 					"actual": 1345
 				},
-				"additional_notes": "Enemy Boss is backed by 2 Battleships who will directly attack your backline ships, whereas the Boss will continuously spawn a volley of torpedoes. Over time some Suicide Boats will appear and head straight for your flagship.",
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"additionalNotes": "Enemy Boss is backed by 2 Battleships who will directly attack your backline ships, whereas the Boss will continuously spawn a volley of torpedoes. Over time some Suicide Boats will appear and head straight for your flagship.",
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
 						"tier": "T3"
@@ -23239,7 +24261,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "St. Louis"
 					},
@@ -23319,7 +24341,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/3/3e/10-3.png",
 					"width": 9,
 					"height": 6,
@@ -23592,38 +24614,43 @@
 				"title": "Counterattack",
 				"code": "10-4",
 				"introduction": "Just as Honolulu and St. Louis were seizing on the advantage, a Sakura torpedo squadron emerged from the cover of darkness to launch a vicious counterattack! Honolulu and St. Louis have been struck by torpedoes, and the situation is critical!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 70",
-					"required_level": 70
+					"requiredLevel": 70
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 101,
-					"boss_level": 102,
+				"enemyLevel": {
+					"mobLevel": 101,
+					"bossLevel": 102,
 					"boss": "Jintsuu"
 				},
-				"base_xp": {
-					"small_fleet": 565,
-					"medium_fleet": 621,
-					"large_fleet": 678,
-					"boss_fleet": 826
+				"baseXP": {
+					"smallFleet": 565,
+					"mediumFleet": 621,
+					"largeFleet": 678,
+					"bossFleet": 826
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1875,
 					"actual": 1440
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -23645,7 +24672,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Jintsuu",
 						"note": "Boss only"
@@ -23726,7 +24753,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/d/d8/10-4.png",
 					"width": 9,
 					"height": 6,
@@ -24011,38 +25038,43 @@
 				"title": "Landing Operation",
 				"code": "11-1",
 				"introduction": "We have successfully drawn the enemy fleet's attention towards our air wings. Come morning, we should be able to anchor at Bougainville Island!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 75",
-					"required_level": 75
+					"requiredLevel": 75
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 103,
-					"boss_level": 104,
+				"enemyLevel": {
+					"mobLevel": 103,
+					"bossLevel": 104,
 					"boss": "Shigure and Shiratsuyu"
 				},
-				"base_xp": {
-					"small_fleet": 718,
-					"medium_fleet": 790,
-					"large_fleet": 862,
-					"boss_fleet": 1051
+				"baseXP": {
+					"smallFleet": 718,
+					"mediumFleet": 790,
+					"largeFleet": 862,
+					"bossFleet": 1051
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 1980,
 					"actual": 1520
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
 						"tier": "T3"
@@ -24064,7 +25096,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -24141,7 +25173,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/6/68/11-1.png",
 					"width": 8,
 					"height": 6,
@@ -24373,38 +25405,43 @@
 				"title": "Stormy Night",
 				"code": "11-2",
 				"introduction": "A Sakura Empire fleet has been sighted advancing quickly through the storm! Only Task Force 39, exhausted after several consecutive battles, can stop them...",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 75",
-					"required_level": 75
+					"requiredLevel": 75
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 104,
-					"boss_level": 105,
+				"enemyLevel": {
+					"mobLevel": 104,
+					"bossLevel": 105,
 					"boss": "Myoukou"
 				},
-				"base_xp": {
-					"small_fleet": 725,
-					"medium_fleet": 797,
-					"large_fleet": 870,
-					"boss_fleet": 1060
+				"baseXP": {
+					"smallFleet": 725,
+					"mediumFleet": 797,
+					"largeFleet": 870,
+					"bossFleet": 1060
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2095,
 					"actual": 1610
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -24426,7 +25463,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -24506,7 +25543,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/9/90/11-2.png",
 					"width": 11,
 					"height": 6,
@@ -24796,38 +25833,43 @@
 				"title": "Knights of the Sea",
 				"code": "11-3",
 				"introduction": "\"Escorting our allies is our duty! Cleveland, Montpelier, Columbia, and Denver; the Knights of the Sea, shall be your shields!\"",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 75",
-					"required_level": 75
+					"requiredLevel": 75
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 105,
-					"boss_level": 106,
+				"enemyLevel": {
+					"mobLevel": 105,
+					"bossLevel": 106,
 					"boss": "Uzuki and Agano"
 				},
-				"base_xp": {
-					"small_fleet": 731,
-					"medium_fleet": 803,
-					"large_fleet": 877,
-					"boss_fleet": 1068
+				"baseXP": {
+					"smallFleet": 731,
+					"mediumFleet": 803,
+					"largeFleet": 877,
+					"bossFleet": 1068
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2210,
 					"actual": 1700
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Quadruple 40mm L60 Mk2 Bofors",
 						"tier": "T3"
@@ -24849,7 +25891,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Laffey"
 					},
@@ -24926,7 +25968,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/5/5c/11-3.png",
 					"width": 9,
 					"height": 7,
@@ -25215,38 +26257,43 @@
 				"title": "Part the Night",
 				"code": "11-4",
 				"introduction": "The gallant Knights of the Sea stand face to face with the Sakura Empire's relentless heavy cruisers. The clouds in the night sky will be parted not by sunlight, but by boundless cannon fire!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 75",
-					"required_level": 75
+					"requiredLevel": 75
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 106,
-					"boss_level": 107,
+				"enemyLevel": {
+					"mobLevel": 106,
+					"bossLevel": 107,
 					"boss": "Sendai"
 				},
-				"base_xp": {
-					"small_fleet": 737,
-					"medium_fleet": 811,
-					"large_fleet": 885,
-					"boss_fleet": 1078
+				"baseXP": {
+					"smallFleet": 737,
+					"mediumFleet": 811,
+					"largeFleet": 885,
+					"bossFleet": 1078
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 45 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2330,
 					"actual": 1790
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
 						"tier": "T3"
@@ -25268,7 +26315,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Columbia",
 						"note": "Boss only"
@@ -25349,7 +26396,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/b/b6/11-4.png",
 					"width": 10,
 					"height": 8,
@@ -25684,33 +26731,38 @@
 				"title": "Information Warfare",
 				"code": "12-1",
 				"introduction": "Our submarines say the enemy is preparing a large-scale counterattack. We must make use of this information, stage an attack, and surprise the enemy!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 107,
-					"boss_level": 108,
+				"enemyLevel": {
+					"mobLevel": 107,
+					"bossLevel": 108,
 					"boss": "Myoukou"
 				},
-				"base_xp": {
-					"small_fleet": 750,
-					"medium_fleet": 825,
-					"large_fleet": 900,
-					"boss_fleet": 1096
+				"baseXP": {
+					"smallFleet": 750,
+					"mediumFleet": 825,
+					"largeFleet": 900,
+					"bossFleet": 1096
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2460,
 					"actual": 1890
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
 						"tier": "T3"
@@ -25732,7 +26784,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Helena"
 					},
@@ -25809,7 +26861,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/3/3b/12-1.png",
 					"width": 8,
 					"height": 6,
@@ -26076,33 +27128,38 @@
 				"title": "Ambush",
 				"code": "12-2",
 				"introduction": "The Mobile Fleet is being protected by a Destroyer Fleet as they practice! This is a superb opportunity to launch an all-out attack!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 109,
-					"boss_level": 110,
+				"enemyLevel": {
+					"mobLevel": 109,
+					"bossLevel": 110,
 					"boss": "Tanikaze and Oyashio"
 				},
-				"base_xp": {
-					"small_fleet": 756,
-					"medium_fleet": 831,
-					"large_fleet": 907,
-					"boss_fleet": 1105
+				"baseXP": {
+					"smallFleet": 756,
+					"mediumFleet": 831,
+					"largeFleet": 907,
+					"bossFleet": 1105
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2595,
 					"actual": 1995
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
 						"tier": "T3"
@@ -26124,7 +27181,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Cleveland"
 					},
@@ -26201,7 +27258,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/1/14/12-2.png",
 					"width": 9,
 					"height": 7,
@@ -26520,33 +27577,38 @@
 				"title": "Carrier Showdown",
 				"code": "12-3",
 				"introduction": "We've detected incoming large squadrons of enemy aircraft! Scramble your fighters and pull back the curtains on this decisive battle in the skies!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 111,
-					"boss_level": 112,
+				"enemyLevel": {
+					"mobLevel": 111,
+					"bossLevel": 112,
 					"boss": "Hiyou and Junyou"
 				},
-				"base_xp": {
-					"small_fleet": 762,
-					"medium_fleet": 838,
-					"large_fleet": 915,
-					"boss_fleet": 1115
+				"baseXP": {
+					"smallFleet": 762,
+					"mediumFleet": 838,
+					"largeFleet": 915,
+					"bossFleet": 1115
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2730,
 					"actual": 2100
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Yokosuka D4Y Suisei",
 						"tier": "T3"
@@ -26568,7 +27630,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Lexington"
 					},
@@ -26645,7 +27707,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/e/e0/12-3.png",
 					"width": 10,
 					"height": 7,
@@ -26976,33 +28038,38 @@
 				"title": "Task Force",
 				"code": "12-4",
 				"introduction": "War has changed. Victory favors those who have gained air superiority. Launch your planes and seize control of the Mariana skies!",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 80",
-					"required_level": 80
+					"requiredLevel": 80
 				},
-				"enemy_level": {
-					"mob_level": 113,
-					"boss_level": 114,
+				"enemyLevel": {
+					"mobLevel": 113,
+					"bossLevel": 114,
 					"boss": "Choukai and Maya"
 				},
-				"base_xp": {
-					"small_fleet": 768,
-					"medium_fleet": 845,
-					"large_fleet": 922,
-					"boss_fleet": 1123
+				"baseXP": {
+					"smallFleet": 768,
+					"mediumFleet": 845,
+					"largeFleet": 922,
+					"bossFleet": 1123
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 45 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 2870,
 					"actual": 2205
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Twin 100mm (Type 98)",
 						"tier": "T3"
@@ -27024,7 +28091,7 @@
 						"tier": "T3"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Choukai",
 						"note": "Boss only"
@@ -27105,7 +28172,7 @@
 						"name": "Köln"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/5/5b/12-4.png",
 					"width": 11,
 					"height": 8,
@@ -27556,38 +28623,43 @@
 				"title": "激战的长空",
 				"code": "13-1",
 				"introduction": "敌方的第一波航空队即将进入防空圈！猎物已经落入陷阱，TF58，起飞迎击！",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 85",
-					"required_level": 85
+					"requiredLevel": 85
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 115,
-					"boss_level": 116,
+				"enemyLevel": {
+					"mobLevel": 115,
+					"bossLevel": 116,
 					"boss": "Mogami"
 				},
-				"base_xp": {
-					"small_fleet": 780,
-					"medium_fleet": 858,
-					"large_fleet": 936,
-					"boss_fleet": 1141
+				"baseXP": {
+					"smallFleet": 780,
+					"mediumFleet": 858,
+					"largeFleet": 936,
+					"bossFleet": 1141
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 3010,
 					"actual": 2315
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Triple 155mm (3rd Year Type)",
 						"tier": "T3"
@@ -27609,7 +28681,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Arizona"
 					},
@@ -27686,7 +28758,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/8/8f/13-1.png",
 					"width": 8,
 					"height": 6,
@@ -27936,38 +29008,43 @@
 				"title": "羽栖之鹤",
 				"code": "13-2",
 				"introduction": "伴随着悠远的笛声，敌方的第二波攻击袭来！这是第几次交手了呢，翔鹤？",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 85",
-					"required_level": 85
+					"requiredLevel": 85
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 117,
-					"boss_level": 118,
+				"enemyLevel": {
+					"mobLevel": 117,
+					"bossLevel": 118,
 					"boss": "Shoukaku"
 				},
-				"base_xp": {
-					"small_fleet": 786,
-					"medium_fleet": 864,
-					"large_fleet": 943,
-					"boss_fleet": 1150
+				"baseXP": {
+					"smallFleet": 786,
+					"mediumFleet": 864,
+					"largeFleet": 943,
+					"bossFleet": 1150
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 4,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 3185,
 					"actual": 2450
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
 						"tier": "T3"
@@ -27989,7 +29066,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Lexington"
 					},
@@ -28066,7 +29143,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/2/27/13-2.png",
 					"width": 9,
 					"height": 7,
@@ -28383,38 +29460,43 @@
 				"title": "奋起之鹤",
 				"code": "13-3",
 				"introduction": "在潜艇的帮助下，我方已获得了相当的优势。然而来自五航战的宿敌——瑞鹤，却在此时发起了新一轮的猛烈攻势！",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 85",
-					"required_level": 85
+					"requiredLevel": 85
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 300,
 					"oil": 50
 				},
-				"enemy_level": {
-					"mob_level": 119,
-					"boss_level": 120,
+				"enemyLevel": {
+					"mobLevel": 119,
+					"bossLevel": 120,
 					"boss": "Shoukaku and Zuikaku"
 				},
-				"base_xp": {
-					"small_fleet": 792,
-					"medium_fleet": 871,
-					"large_fleet": 950,
-					"boss_fleet": 1159
+				"baseXP": {
+					"smallFleet": 792,
+					"mediumFleet": 871,
+					"largeFleet": 950,
+					"bossFleet": 1159
 				},
-				"required_battles": 6,
-				"boss_kills_to_clear": 5,
-				"star_conditions": [
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 3365,
 					"actual": 2585
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Grumman F6F Hellcat",
 						"tier": "T3"
@@ -28436,7 +29518,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Yorktown"
 					},
@@ -28513,7 +29595,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/c/ca/13-3.png",
 					"width": 10,
 					"height": 7,
@@ -28847,38 +29929,43 @@
 				"title": "起舞之凤",
 				"code": "13-4",
 				"introduction": "最后的对决！目标是敌方旗舰，以重型装甲为傲的最新锐航母——大凤，慎重地进行战斗吧！",
-				"unlock_requirements": {
+				"unlockRequirements": {
 					"text": "HQ Lv. 85",
-					"required_level": 85
+					"requiredLevel": 85
 				},
-				"clear_reward": {
+				"clearReward": {
 					"cube": 1,
 					"coin": 1000,
 					"oil": 150
 				},
-				"enemy_level": {
-					"mob_level": 121,
-					"boss_level": 122,
+				"enemyLevel": {
+					"mobLevel": 121,
+					"bossLevel": 122,
 					"boss": "Taihou"
 				},
-				"base_xp": {
-					"small_fleet": 798,
-					"medium_fleet": 878,
-					"large_fleet": 957,
-					"boss_fleet": 1168
+				"baseXP": {
+					"smallFleet": 798,
+					"mediumFleet": 878,
+					"largeFleet": 957,
+					"bossFleet": 1168
 				},
-				"required_battles": 7,
-				"boss_kills_to_clear": 6,
-				"star_conditions": [
+				"requiredBattles": 7,
+				"bossKillsToClear": 6,
+				"starConditions": [
 					"Sink Boss",
 					"Sink 50 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"air_supremacy": {
+				"airSupremacy": {
 					"suggested": 3540,
 					"actual": 2720
 				},
-				"equipment_blueprint_drops": [
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
 					{
 						"name": "Submarine-mounted Mark 16 Torpedo",
 						"tier": "T3"
@@ -28900,7 +29987,7 @@
 						"tier": "T2"
 					}
 				],
-				"ship_drops": [
+				"shipDrops": [
 					{
 						"name": "Bunker Hill",
 						"note": "Boss only"
@@ -28981,7 +30068,7 @@
 						"name": "Hermes"
 					}
 				],
-				"node_map": {
+				"nodeMap": {
 					"preview": "https://azurlane.koumakan.jp/w/images/c/c4/13-4.png",
 					"width": 11,
 					"height": 8,
