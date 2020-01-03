@@ -124,14 +124,13 @@ async function refreshShipImages() {
             let path = "./images/skills/" + key + "/" + skillName + ".png";
             if (skill.icon !== null)
                 await fetchImage(skill.icon, path);
+            return;
         };
         if (!fs.existsSync("./images/skills/" + key)) fs.mkdirSync("./images/skills/" + key);
-        await getSkillIcon(ship.skills["1"]);
-        process.stdout.write("1");
-        await getSkillIcon(ship.skills["2"]);
-        process.stdout.write("2");
-        await getSkillIcon(ship.skills["3"]);
-        process.stdout.write("3|");
+        for (let skill of ship.skills) {
+            await getSkillIcon(skill);
+            process.stdout.write(".");
+        }
         shipCounter++;
         if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
@@ -429,8 +428,8 @@ function parseShip(name, body) {
     ship.fleetTech = parseFleetTech(doc.getElementById("Fleet_technology"));
     if (doc.getElementById("Retrofit")) { // This ship can be retrofited
         ship.retrofit = true;
-        ship.retrofit_id = (3000 + parseInt(ship.id)) + "";
-        ship.retrofit_projects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
+        ship.retrofitId = (3000 + parseInt(ship.id)) + "";
+        ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
     }
     ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
     ship.gallery = parseShipGallery(doc);
@@ -458,8 +457,8 @@ function parseShip(name, body) {
 
 function parseShipLimits(skill_table) {
     let rows = skill_table.getElementsByTagName("tr");
-    let limits = {};
-    for (let i = 1; i < 4; i++) limits[i] = parseLimitBreak(rows[i]);
+    let limits = [];
+    for (let i = 1; i < 4; i++) limits.push(parseLimitBreak(rows[i]));
     return limits;
 }
 
@@ -472,10 +471,10 @@ function parseLimitBreak(row) {
 
 function parseSkills(table) {
     let rows = table.getElementsByTagName("tr");
-    let skills = {};
+    let skills = [];
     let skill_count = 3;
-    if (rows.length >= 20) skill_count = 5;
-    for (let i = 1, j = 1; j < 1 + skill_count; i += 4, j++) skills[j] = parseSkill(rows[i], rows[i + 2]);
+    let skill;
+    for (let i = 1; skill = parseSkill(rows[i], rows[i + 2]); i += 4) skills.push(skill);
     return skills;
 }
 
