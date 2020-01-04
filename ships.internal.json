@@ -661,9 +661,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/65/JavelinWeddingChibi.png",
 				"info": {
-					"eNClient": "Blissful Purity",
-					"cNClient": "幸福纯白",
-					"jPClient": "幸せのジューンブライド",
+					"lENClient": "Blissful Purity",
+					"lCNClient": "幸福纯白",
+					"lJPClient": "幸せのジューンブライド",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -674,9 +674,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2c/JavelinBilibiliChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "22娘",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "22娘",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Bilibili 8th Anniversary  Event Shop",
 					"cost": "300",
 					"live2DModel": "No"
@@ -688,9 +688,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5e/JavelinSummerChibi.png",
 				"info": {
-					"eNClient": "Beach Picnic!",
-					"cNClient": "沙滩野餐会",
-					"jPClient": "ビーチピクニック！",
+					"lENClient": "Beach Picnic!",
+					"lCNClient": "沙滩野餐会",
+					"lJPClient": "ビーチピクニック！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -702,9 +702,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/76/JavelinCoCoChibi.png",
 				"info": {
-					"eNClient": "Let’s Become Waitresses!",
-					"cNClient": "一起成为服务生！",
-					"jPClient": "制服はお揃い♪",
+					"lENClient": "Let’s Become Waitresses!",
+					"lCNClient": "一起成为服务生！",
+					"lJPClient": "制服はお揃い♪",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -716,9 +716,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/dd/JavelinSchoolChibi.png",
 				"info": {
-					"eNClient": "Very Slow Advance!",
-					"cNClient": "微速前进！",
-					"jPClient": "びそくぜんしんっ！",
+					"lENClient": "Very Slow Advance!",
+					"lCNClient": "微速前进！",
+					"lJPClient": "びそくぜんしんっ！",
 					"obtainedFrom": "Monthly Manga Javelin  - Collect all Puzzle Pieces",
 					"live2DModel": "No"
 				}
@@ -729,9 +729,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/64/JavelinIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "王道偶像·元气120！",
-					"jPClient": "元気アイドル・やる気120％！",
+					"lENClient": "skin unavailable",
+					"lCNClient": "王道偶像·元气120！",
+					"lJPClient": "元気アイドル・やる気120％！",
 					"obtainedFrom": "Crescendo of Polaris  Milestone Reward",
 					"live2DModel": "No"
 				}
@@ -940,9 +940,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/JunoFestivalChibi.png",
 				"info": {
-					"eNClient": "Fairly Flavourful Festival",
-					"cNClient": "美味的祭典？",
-					"jPClient": "ちょっと美味しい日",
+					"lENClient": "Fairly Flavourful Festival",
+					"lCNClient": "美味的祭典？",
+					"lJPClient": "ちょっと美味しい日",
 					"obtainedFrom": "Summer Festival  - Collect 14 Stamps",
 					"live2DModel": "No"
 				}
@@ -1160,9 +1160,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d2/VampireWeddingChibi.png",
 				"info": {
-					"eNClient": "Eloi's Blessing",
-					"cNClient": "以罗伊的赐福",
-					"jPClient": "エロイの祝福",
+					"lENClient": "Eloi's Blessing",
+					"lCNClient": "以罗伊的赐福",
+					"lJPClient": "エロイの祝福",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -1173,9 +1173,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c7/VampireSpringChibi.png",
 				"info": {
-					"eNClient": "The Breath of Spring",
-					"cNClient": "春之风",
-					"jPClient": "春の風",
+					"lENClient": "The Breath of Spring",
+					"lCNClient": "春之风",
+					"lJPClient": "春の風",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -1187,9 +1187,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c3/VampireNurseChibi.png",
 				"info": {
-					"eNClient": "Little Devil in White",
-					"cNClient": "白衣小恶魔",
-					"jPClient": "白衣の小悪魔",
+					"lENClient": "Little Devil in White",
+					"lCNClient": "白衣小恶魔",
+					"lJPClient": "白衣の小悪魔",
 					"obtainedFrom": "Angel or Devil in White?  Event Questline",
 					"live2DModel": "No"
 				}
@@ -1200,9 +1200,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/02/VampireFestivalChibi.png",
 				"info": {
-					"eNClient": "Night Princess's Regalia",
-					"cNClient": "夜姬的正装?",
-					"jPClient": "夜姫の正装",
+					"lENClient": "Night Princess's Regalia",
+					"lCNClient": "夜姬的正装?",
+					"lJPClient": "夜姫の正装",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -2559,9 +2559,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/80/AjaxPartyChibi.png",
 				"info": {
-					"eNClient": "Party Queen",
-					"cNClient": "晚会女王",
-					"jPClient": "パーティークイーン",
+					"lENClient": "Party Queen",
+					"lCNClient": "晚会女王",
+					"lJPClient": "パーティークイーン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -2781,9 +2781,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/ee/SouthamptonNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Little Knight",
-					"cNClient": "新年的LittleKnight",
-					"jPClient": "お正月のリトルナイト",
+					"lENClient": "New Year's Little Knight",
+					"lCNClient": "新年的LittleKnight",
+					"lJPClient": "お正月のリトルナイト",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -3003,9 +3003,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a3/SheffieldCasualChibi.png",
 				"info": {
-					"eNClient": "Cloak and Dagger",
-					"cNClient": "二重生活？",
-					"jPClient": "クローク&ダガー",
+					"lENClient": "Cloak and Dagger",
+					"lCNClient": "二重生活？",
+					"lJPClient": "クローク&ダガー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -3017,9 +3017,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/91/SheffieldFestivalChibi.png",
 				"info": {
-					"eNClient": "A Moment's Respite",
-					"cNClient": "小憩一刻",
-					"jPClient": "憩いのひととき",
+					"lENClient": "A Moment's Respite",
+					"lCNClient": "小憩一刻",
+					"lJPClient": "憩いのひととき",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -3229,9 +3229,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/70/EdinburghSchoolChibi.png",
 				"info": {
-					"eNClient": "The Library Fairy",
-					"cNClient": "图书室的妖精",
-					"jPClient": "図書室の妖精さん",
+					"lENClient": "The Library Fairy",
+					"lCNClient": "图书室的妖精",
+					"lJPClient": "図書室の妖精さん",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -3243,9 +3243,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/42/EdinburghHalloweenChibi.png",
 				"info": {
-					"eNClient": "Candy Maid",
-					"cNClient": "Candy Maid",
-					"jPClient": "キャンディ（配りの）メイドさん",
+					"lENClient": "Candy Maid",
+					"lCNClient": "Candy Maid",
+					"lJPClient": "キャンディ（配りの）メイドさん",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -3498,9 +3498,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/57/BelfastWeddingChibi.png",
 				"info": {
-					"eNClient": "The Pledge of Claddagh",
-					"cNClient": "克拉达的誓约",
-					"jPClient": "クラダリングの誓い",
+					"lENClient": "The Pledge of Claddagh",
+					"lCNClient": "克拉达的誓约",
+					"lJPClient": "クラダリングの誓い",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -3511,9 +3511,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/BelfastSpringChibi.png",
 				"info": {
-					"eNClient": "Iridescent Rosa",
-					"cNClient": "彩云之玫瑰",
-					"jPClient": "彩雲の薔薇",
+					"lENClient": "Iridescent Rosa",
+					"lCNClient": "彩云之玫瑰",
+					"lJPClient": "彩雲の薔薇",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -3525,9 +3525,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/79/BelfastPartyChibi.png",
 				"info": {
-					"eNClient": "The Noble Attendant",
-					"cNClient": "优雅而高贵的从者",
-					"jPClient": "優雅にして高貴な従者",
+					"lENClient": "The Noble Attendant",
+					"lCNClient": "优雅而高贵的从者",
+					"lJPClient": "優雅にして高貴な従者",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -3539,9 +3539,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/61/Skin_BG_104.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f6/BelfastCasualChibi.png",
 				"info": {
-					"eNClient": "Shopping with the Head Maid",
-					"cNClient": "女仆长的购物日",
-					"jPClient": "メイド長とお買い物",
+					"lENClient": "Shopping with the Head Maid",
+					"lCNClient": "女仆长的购物日",
+					"lJPClient": "メイド長とお買い物",
 					"obtainedFrom": "Manjuu Manufactory  - Complete all \"Manjuu Manufactory\" tasks",
 					"live2DModel": "No"
 				}
@@ -4143,9 +4143,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/41/AuroraSpringChibi.png",
 				"info": {
-					"eNClient": "The Tale of Spring",
-					"cNClient": "春之语",
-					"jPClient": "春の語り",
+					"lENClient": "The Tale of Spring",
+					"lCNClient": "春之语",
+					"lJPClient": "春の語り",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -4157,9 +4157,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/41/AuroraPartyChibi.png",
 				"info": {
-					"eNClient": "Dawn's Paean",
-					"cNClient": "黎明的赞歌",
-					"jPClient": "黎明に捧げる賛歌",
+					"lENClient": "Dawn's Paean",
+					"lCNClient": "黎明的赞歌",
+					"lJPClient": "黎明に捧げる賛歌",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -6374,9 +6374,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/96/YorkSchoolChibi.png",
 				"info": {
-					"eNClient": "Truth Seeker",
-					"cNClient": "真理探寻者/truth seeker",
-					"jPClient": "真理を求めし者",
+					"lENClient": "Truth Seeker",
+					"lCNClient": "真理探寻者/truth seeker",
+					"lJPClient": "真理を求めし者",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -7453,9 +7453,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c2/HoodWeddingChibi.png",
 				"info": {
-					"eNClient": "Rosey Love Poem",
-					"cNClient": "蔷薇恋诗",
-					"jPClient": "薔薇恋詩",
+					"lENClient": "Rosey Love Poem",
+					"lCNClient": "蔷薇恋诗",
+					"lJPClient": "薔薇恋詩",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -7466,9 +7466,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/88/HoodSummerChibi.png",
 				"info": {
-					"eNClient": "Lady of the Shining Sun",
-					"cNClient": "照耀太阳的淑女",
-					"jPClient": "日差しの淑女",
+					"lENClient": "Lady of the Shining Sun",
+					"lCNClient": "照耀太阳的淑女",
+					"lJPClient": "日差しの淑女",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -7675,9 +7675,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e2/Queen_ElizabethPartyChibi.png",
 				"info": {
-					"eNClient": "The Queen's Ball",
-					"cNClient": "女王的舞踏会",
-					"jPClient": "女王さまの舞踏会",
+					"lENClient": "The Queen's Ball",
+					"lCNClient": "女王的舞踏会",
+					"lJPClient": "女王さまの舞踏会",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -8160,9 +8160,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/03/WarspiteChristmasChibi.png",
 				"info": {
-					"eNClient": "Christmas Warrior",
-					"cNClient": "战士的圣诞任务",
-					"jPClient": "戦士からの贈り物",
+					"lENClient": "Christmas Warrior",
+					"lCNClient": "战士的圣诞任务",
+					"lJPClient": "戦士からの贈り物",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -8370,9 +8370,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/39/NelsonHalloweenChibi.png",
 				"info": {
-					"eNClient": "Luna Witch",
-					"cNClient": "月之魔女",
-					"jPClient": "月の魔女",
+					"lENClient": "Luna Witch",
+					"lCNClient": "月之魔女",
+					"lJPClient": "月の魔女",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -8580,9 +8580,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a8/RodneySummerChibi.png",
 				"info": {
-					"eNClient": "Future Seaside Admiral",
-					"cNClient": "未来的海滨上将",
-					"jPClient": "未来の海浜大将",
+					"lENClient": "Future Seaside Admiral",
+					"lCNClient": "未来的海滨上将",
+					"lJPClient": "未来の海浜大将",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -8594,9 +8594,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f4/RodneyShopChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "一日见习店员",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "一日见习店员",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Lawson Collaboration  - Complete the event tasks.",
 					"live2DModel": "No"
 				}
@@ -8808,9 +8808,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/King_George_VPartyChibi.png",
 				"info": {
-					"eNClient": "Rose's Regalia",
-					"cNClient": "温莎的玫瑰",
-					"jPClient": "ウィンザー・ローズ",
+					"lENClient": "Rose's Regalia",
+					"lCNClient": "温莎的玫瑰",
+					"lJPClient": "ウィンザー・ローズ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -9018,9 +9018,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2c/Prince_of_WalesSummerChibi.png",
 				"info": {
-					"eNClient": "Sun Shining Upon Windsor",
-					"cNClient": "阳光照耀着温莎",
-					"jPClient": "ウィンザー・サン",
+					"lENClient": "Sun Shining Upon Windsor",
+					"lCNClient": "阳光照耀着温莎",
+					"lJPClient": "ウィンザー・サン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -9032,9 +9032,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/27/Prince_of_WalesNew_YearChibi.png",
 				"info": {
-					"eNClient": "Sakura Elegance",
-					"cNClient": "皇家式风流",
-					"jPClient": "風流装束・桜",
+					"lENClient": "Sakura Elegance",
+					"lCNClient": "皇家式风流",
+					"lJPClient": "風流装束・桜",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -9247,9 +9247,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c9/Duke_of_YorkPartyChibi.png",
 				"info": {
-					"eNClient": "Eternal Night's Carola",
-					"cNClient": "永夜的卡罗拉",
-					"jPClient": "永夜のカローラ",
+					"lENClient": "Eternal Night's Carola",
+					"lCNClient": "永夜的卡罗拉",
+					"lJPClient": "永夜のカローラ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -9928,9 +9928,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/82/UnicornEventChibi.png",
 				"info": {
-					"eNClient": "Little Star Songstress",
-					"cNClient": "小小的星之歌姬",
-					"jPClient": "小さな星の歌姫",
+					"lENClient": "Little Star Songstress",
+					"lCNClient": "小小的星之歌姬",
+					"lJPClient": "小さな星の歌姫",
 					"obtainedFrom": "Bits of Courage  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -9941,9 +9941,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/73/UnicornSpringChibi.png",
 				"info": {
-					"eNClient": "The Gift of Spring",
-					"cNClient": "春之礼",
-					"jPClient": "春の贈り物",
+					"lENClient": "The Gift of Spring",
+					"lCNClient": "春之礼",
+					"lJPClient": "春の贈り物",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -9955,9 +9955,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f9/Skin_BG_108.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/UnicornCasualChibi.png",
 				"info": {
-					"eNClient": "Long-Awaited Date",
-					"cNClient": "憧憬的约会日",
-					"jPClient": "憧れの遊園地？",
+					"lENClient": "Long-Awaited Date",
+					"lCNClient": "憧憬的约会日",
+					"lJPClient": "憧れの遊園地？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -9969,9 +9969,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/92/UnicornNew_YearChibi.png",
 				"info": {
-					"eNClient": "Prayer of Plum and Snow",
-					"cNClient": "祈愿的雪与梅",
-					"jPClient": "祈りのウメとスノー",
+					"lENClient": "Prayer of Plum and Snow",
+					"lCNClient": "祈愿的雪与梅",
+					"lJPClient": "祈りのウメとスノー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -10192,9 +10192,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a2/Ark_RoyalSummerChibi.png",
 				"info": {
-					"eNClient": "Coast Watcher",
-					"cNClient": "沙滩守望者",
-					"jPClient": "コーストウォッチャー",
+					"lENClient": "Coast Watcher",
+					"lCNClient": "沙滩守望者",
+					"lJPClient": "コーストウォッチャー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -10206,9 +10206,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6d/Ark_RoyalPartyChibi.png",
 				"info": {
-					"eNClient": "Guardian of the Ball",
-					"cNClient": "晚会的守护者",
-					"jPClient": "バンケットガーディアン",
+					"lENClient": "Guardian of the Ball",
+					"lCNClient": "晚会的守护者",
+					"lJPClient": "バンケットガーディアン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -10220,9 +10220,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c5/Ark_RoyalNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Protectress",
-					"cNClient": "新年的守护者",
-					"jPClient": "お正月の守護者",
+					"lENClient": "New Year's Protectress",
+					"lCNClient": "新年的守护者",
+					"lJPClient": "お正月の守護者",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -10461,9 +10461,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8b/IllustriousWeddingChibi.png",
 				"info": {
-					"eNClient": "Morning Star of Love and Hope",
-					"cNClient": "爱与希望的晨星",
-					"jPClient": "愛と希望の暁星",
+					"lENClient": "Morning Star of Love and Hope",
+					"lCNClient": "爱与希望的晨星",
+					"lJPClient": "愛と希望の暁星",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -10474,9 +10474,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4f/IllustriousTea_PartyChibi.png",
 				"info": {
-					"eNClient": "Never-Ending Tea Party",
-					"cNClient": "永不落幕的茶会",
-					"jPClient": "終わらないお茶会",
+					"lENClient": "Never-Ending Tea Party",
+					"lCNClient": "永不落幕的茶会",
+					"lJPClient": "終わらないお茶会",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -10488,9 +10488,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a9/IllustriousPartyChibi.png",
 				"info": {
-					"eNClient": "Illustrious Ball",
-					"cNClient": "光辉的舞会",
-					"jPClient": "輝きの舞踏会",
+					"lENClient": "Illustrious Ball",
+					"lCNClient": "光辉的舞会",
+					"lJPClient": "輝きの舞踏会",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -10502,9 +10502,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/52/IllustriousHanbokChibi.png",
 				"info": {
-					"eNClient": "Resplendent Hibiscus",
-					"cNClient": "异国的光辉",
-					"jPClient": "skin unavailable",
+					"lENClient": "Resplendent Hibiscus",
+					"lCNClient": "异国的光辉",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -10725,9 +10725,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/VictoriousCasualChibi.png",
 				"info": {
-					"eNClient": "The Goddess' Day Off",
-					"cNClient": "女神的休憩日",
-					"jPClient": "女神の休日",
+					"lENClient": "The Goddess' Day Off",
+					"lCNClient": "女神的休憩日",
+					"lJPClient": "女神の休日",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -10959,9 +10959,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/16/FormidableSummerChibi.png",
 				"info": {
-					"eNClient": "The Lady of the Beach",
-					"cNClient": "海边的“皇家淑女”",
-					"jPClient": "ロイヤルレディの海",
+					"lENClient": "The Lady of the Beach",
+					"lCNClient": "海边的“皇家淑女”",
+					"lJPClient": "ロイヤルレディの海",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -11173,9 +11173,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fe/GloriousSchoolChibi.png",
 				"info": {
-					"eNClient": "Glorious School Life",
-					"cNClient": "荣光的校园生活",
-					"jPClient": "栄光なる学園生活",
+					"lENClient": "Glorious School Life",
+					"lCNClient": "荣光的校园生活",
+					"lJPClient": "栄光なる学園生活",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -11387,9 +11387,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/ErebusFestivalChibi.png",
 				"info": {
-					"eNClient": "Illusory Happiness",
-					"cNClient": "虚幻的幸福",
-					"jPClient": "幻の幸福",
+					"lENClient": "Illusory Happiness",
+					"lCNClient": "虚幻的幸福",
+					"lJPClient": "幻の幸福",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -11401,9 +11401,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/57/ErebusHalloweenChibi.png",
 				"info": {
-					"eNClient": "Wardrobe Witchery",
-					"cNClient": "变装魔法",
-					"jPClient": "仮装のウィッチクラフト",
+					"lENClient": "Wardrobe Witchery",
+					"lCNClient": "变装魔法",
+					"lJPClient": "仮装のウィッチクラフト",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -11615,9 +11615,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/73/TerrorHalloweenChibi.png",
 				"info": {
-					"eNClient": "Halloween Terror",
-					"cNClient": "万圣夜的恐怖",
-					"jPClient": "ハロウィンテラー",
+					"lENClient": "Halloween Terror",
+					"lCNClient": "万圣夜的恐怖",
+					"lJPClient": "ハロウィンテラー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -11824,9 +11824,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0e/FubukiSchoolChibi.png",
 				"info": {
-					"eNClient": "5 Minutes Till I'm Late",
-					"cNClient": "迟到前的一刻",
-					"jPClient": "遅刻五分前",
+					"lENClient": "5 Minutes Till I'm Late",
+					"lCNClient": "迟到前的一刻",
+					"lJPClient": "遅刻五分前",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -11838,9 +11838,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9b/FubukiShopChibi.png",
 				"info": {
-					"eNClient": "Mascot Bucky",
-					"cNClient": "小鸡看板娘",
-					"jPClient": "看板娘ブッキー",
+					"lENClient": "Mascot Bucky",
+					"lCNClient": "小鸡看板娘",
+					"lJPClient": "看板娘ブッキー",
 					"obtainedFrom": "Atré Collaboration  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -11851,9 +11851,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/ce/FubukiPartyChibi.png",
 				"info": {
-					"eNClient": "Music Pixy",
-					"cNClient": "Music Pixy",
-					"jPClient": "Music Pixy",
+					"lENClient": "Music Pixy",
+					"lCNClient": "Music Pixy",
+					"lJPClient": "Music Pixy",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -11865,9 +11865,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8b/FubukiIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "特型偶像Fubuki",
-					"jPClient": "スノーストーム！",
+					"lENClient": "skin unavailable",
+					"lCNClient": "特型偶像Fubuki",
+					"lJPClient": "スノーストーム！",
 					"obtainedFrom": "Crescendo of Polaris  Special Questline",
 					"live2DModel": "No"
 				}
@@ -12343,9 +12343,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/46/AyanamiWeddingChibi.png",
 				"info": {
-					"eNClient": "Demon's Finest Dress",
-					"cNClient": "鬼神之华裳",
-					"jPClient": "鬼神華裳",
+					"lENClient": "Demon's Finest Dress",
+					"lCNClient": "鬼神之华裳",
+					"lJPClient": "鬼神華裳",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -12356,9 +12356,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f2/AyanamiHalloweenChibi.png",
 				"info": {
-					"eNClient": "Witch in Ambush",
-					"cNClient": "待宵的魔女",
-					"jPClient": "宵闇待ちの魔女",
+					"lENClient": "Witch in Ambush",
+					"lCNClient": "待宵的魔女",
+					"lJPClient": "宵闇待ちの魔女",
 					"obtainedFrom": "Halloween 2018   Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -12370,9 +12370,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f4/AyanamiNicoNicoChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "skin unavailable",
-					"jPClient": "ニコニコ",
+					"lENClient": "skin unavailable",
+					"lCNClient": "skin unavailable",
+					"lJPClient": "ニコニコ",
 					"obtainedFrom": "NicoNico Collaboration  Event Questline",
 					"live2DModel": "No"
 				}
@@ -12383,9 +12383,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/ea/AyanamiRockChibi.png",
 				"info": {
-					"eNClient": "Rock 'n' Demon",
-					"cNClient": "乐队型鬼神",
-					"jPClient": "ROCK'n KIJIN",
+					"lENClient": "Rock 'n' Demon",
+					"lCNClient": "乐队型鬼神",
+					"lJPClient": "ROCK'n KIJIN",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -12397,9 +12397,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fa/AyanamiSpringChibi.png",
 				"info": {
-					"eNClient": "Lunar Demon",
-					"cNClient": "新岁之鬼神",
-					"jPClient": "波濤新歳",
+					"lENClient": "Lunar Demon",
+					"lCNClient": "新岁之鬼神",
+					"lJPClient": "波濤新歳",
 					"obtainedFrom": "Lunar New Year 2019   Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -12411,9 +12411,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bc/AyanamiCoCoChibi.png",
 				"info": {
-					"eNClient": "Grade A Sailor Uniform",
-					"cNClient": "一式水手风制服",
-					"jPClient": "壱式給仕海軍制服",
+					"lENClient": "Grade A Sailor Uniform",
+					"lCNClient": "一式水手风制服",
+					"lJPClient": "壱式給仕海軍制服",
 					"obtainedFrom": "Coco Ichibanya and Pasta de Coco Collab  Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -12425,9 +12425,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/43/AyanamiIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "冷静偶像·迷惑中",
-					"jPClient": "おませアイドル・困惑中",
+					"lENClient": "skin unavailable",
+					"lCNClient": "冷静偶像·迷惑中",
+					"lJPClient": "おませアイドル・困惑中",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -12439,9 +12439,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7b/AyanamiNew_YearChibi.png",
 				"info": {
-					"eNClient": "Pulse of the New Year",
-					"cNClient": "新年的愿望",
-					"jPClient": "年越しの鼓動",
+					"lENClient": "Pulse of the New Year",
+					"lCNClient": "新年的愿望",
+					"lJPClient": "年越しの鼓動",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -12651,9 +12651,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/17/AkatsukiCampChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "北极的迷途",
-					"jPClient": "暁、北極に行く",
+					"lENClient": "skin unavailable",
+					"lCNClient": "北极的迷途",
+					"lJPClient": "暁、北極に行く",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -12665,9 +12665,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/51/AkatsukiCasualChibi.png",
 				"info": {
-					"eNClient": "Motoninja Akatsuki",
-					"cNClient": "摩托忍者，出击！",
-					"jPClient": "モーターニンジャ暁",
+					"lENClient": "Motoninja Akatsuki",
+					"lCNClient": "摩托忍者，出击！",
+					"lJPClient": "モーターニンジャ暁",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -12887,9 +12887,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/60/HibikiNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Little Imp",
-					"cNClient": "正月小恶魔",
-					"jPClient": "正月デビル響ちゃん",
+					"lENClient": "New Year's Little Imp",
+					"lCNClient": "正月小恶魔",
+					"lJPClient": "正月デビル響ちゃん",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -13104,9 +13104,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4a/IkazuchiTea_PartyChibi.png",
 				"info": {
-					"eNClient": "Sakura Tea",
-					"cNClient": "樱花茶",
-					"jPClient": "サクラブレイク",
+					"lENClient": "Sakura Tea",
+					"lCNClient": "樱花茶",
+					"lJPClient": "サクラブレイク",
 					"obtainedFrom": "Skin Shop",
 					"cost": "650",
 					"live2DModel": "No"
@@ -13118,9 +13118,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f0/IkazuchiFestivalChibi.png",
 				"info": {
-					"eNClient": "Thunderous Festival",
-					"cNClient": "祭典Ikatuchi",
-					"jPClient": "オマツリイカツチ",
+					"lENClient": "Thunderous Festival",
+					"lCNClient": "祭典Ikatuchi",
+					"lJPClient": "オマツリイカツチ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -13335,9 +13335,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1c/InazumaTea_PartyChibi.png",
 				"info": {
-					"eNClient": "Vanilla Pudding",
-					"cNClient": "香草布丁",
-					"jPClient": "バニラプリン",
+					"lENClient": "Vanilla Pudding",
+					"lCNClient": "香草布丁",
+					"lJPClient": "バニラプリン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "650",
 					"live2DModel": "No"
@@ -13349,9 +13349,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/00/InazumaFestivalChibi.png",
 				"info": {
-					"eNClient": "Flash of Fireworks",
-					"cNClient": "花火Inatuma",
-					"jPClient": "オハナビイナヅマ",
+					"lENClient": "Flash of Fireworks",
+					"lCNClient": "花火Inatuma",
+					"lJPClient": "オハナビイナヅマ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -13561,9 +13561,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/61/Skin_BG_104.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5f/ShiratsuyuMaidChibi.png",
 				"info": {
-					"eNClient": "Is The Order A Torpedo?",
-					"cNClient": "要来点鱼雷吗？",
-					"jPClient": "ご注文はギョライですか？",
+					"lENClient": "Is The Order A Torpedo?",
+					"lCNClient": "要来点鱼雷吗？",
+					"lJPClient": "ご注文はギョライですか？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -13782,9 +13782,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/76/YuudachiWeddingChibi.png",
 				"info": {
-					"eNClient": "The Bride of Solomon",
-					"cNClient": "所罗门的新娘",
-					"jPClient": "ソロモンのハナヨメ",
+					"lENClient": "The Bride of Solomon",
+					"lCNClient": "所罗门的新娘",
+					"lJPClient": "ソロモンのハナヨメ",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -13795,9 +13795,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2c/YuudachiNew_YearChibi.png",
 				"info": {
-					"eNClient": "Shogun of Snowballs",
-					"cNClient": "雪仗将军",
-					"jPClient": "新年雪合戦！",
+					"lENClient": "Shogun of Snowballs",
+					"lCNClient": "雪仗将军",
+					"lJPClient": "新年雪合戦！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -13809,9 +13809,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/20/YuudachiShopChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "肉包杀手",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "肉包杀手",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Lawson Collaboration (part 2)  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -13822,9 +13822,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7b/YuudachiPartyChibi.png",
 				"info": {
-					"eNClient": "Carnivore Carnival!",
-					"cNClient": "肉肉之宴！",
-					"jPClient": "お肉パーティー！",
+					"lENClient": "Carnivore Carnival!",
+					"lCNClient": "肉肉之宴！",
+					"lJPClient": "お肉パーティー！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -14299,9 +14299,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5d/ShigureSummerChibi.png",
 				"info": {
-					"eNClient": "Attack, I-490!",
-					"cNClient": "进击，伊490！",
-					"jPClient": "進め！伊490！",
+					"lENClient": "Attack, I-490!",
+					"lCNClient": "进击，伊490！",
+					"lJPClient": "進め！伊490！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "500",
 					"live2DModel": "No"
@@ -14313,9 +14313,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e3/ShigurePartyChibi.png",
 				"info": {
-					"eNClient": "The Ballroom's Lucky Star",
-					"cNClient": "晚会幸运星！",
-					"jPClient": "イブニングラッキースター",
+					"lENClient": "The Ballroom's Lucky Star",
+					"lCNClient": "晚会幸运星！",
+					"lJPClient": "イブニングラッキースター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -14535,9 +14535,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/97/YukikazeWeddingChibi.png",
 				"info": {
-					"eNClient": "The Warmth of Spring",
-					"cNClient": "春日的暖风",
-					"jPClient": "ポカポカ春模様",
+					"lENClient": "The Warmth of Spring",
+					"lCNClient": "春日的暖风",
+					"lJPClient": "ポカポカ春模様",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -14548,9 +14548,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3e/YukikazeEventChibi.png",
 				"info": {
-					"eNClient": "Sovereign of the Swing",
-					"cNClient": "秋千上的天津风大人",
-					"jPClient": "ブランコ様",
+					"lENClient": "Sovereign of the Swing",
+					"lCNClient": "秋千上的天津风大人",
+					"lJPClient": "ブランコ様",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -15012,9 +15012,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/KagerouHalloweenChibi.png",
 				"info": {
-					"eNClient": "Pumpkins and Festivities!",
-					"cNClient": "南瓜与万圣夜",
-					"jPClient": "南瓜諸聖祭じゃ！",
+					"lENClient": "Pumpkins and Festivities!",
+					"lCNClient": "南瓜与万圣夜",
+					"lJPClient": "南瓜諸聖祭じゃ！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -15467,9 +15467,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/40/ShiranuiEventChibi.png",
 				"info": {
-					"eNClient": "Mooncake Merchant",
-					"cNClient": "月饼、不来一点吗？",
-					"jPClient": "月餅はいかが？",
+					"lENClient": "Mooncake Merchant",
+					"lCNClient": "月饼、不来一点吗？",
+					"lJPClient": "月餅はいかが？",
 					"obtainedFrom": "Would you like a Mooncake?  Event Questline",
 					"live2DModel": "No"
 				}
@@ -16110,9 +16110,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8a/HatsuharuSnowChibi.png",
 				"info": {
-					"eNClient": "Snow Day Hatsuharu",
-					"cNClient": "初春之雪",
-					"jPClient": "雪の初春",
+					"lENClient": "Snow Day Hatsuharu",
+					"lCNClient": "初春之雪",
+					"lJPClient": "雪の初春",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -16322,9 +16322,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/WakabaChristmasChibi.png",
 				"info": {
-					"eNClient": "Holiday Special Wakaba!",
-					"cNClient": "限时圣诞Wakaba",
-					"jPClient": "若葉、クリスマス限定！",
+					"lENClient": "Holiday Special Wakaba!",
+					"lCNClient": "限时圣诞Wakaba",
+					"lJPClient": "若葉、クリスマス限定！",
 					"obtainedFrom": "",
 					"live2DModel": "No"
 				}
@@ -17180,9 +17180,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/61/Skin_BG_104.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/YuugureMaidChibi.png",
 				"info": {
-					"eNClient": "Maid-In-Training!",
-					"cNClient": "女仆练习生",
-					"jPClient": "見習いはメイドさん！",
+					"lENClient": "Maid-In-Training!",
+					"lCNClient": "女仆练习生",
+					"lJPClient": "見習いはメイドさん！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -17194,9 +17194,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4d/YuugureSpringChibi.png",
 				"info": {
-					"eNClient": "Twilight Blossom",
-					"cNClient": "夕暮春华",
-					"jPClient": "春の夕暮",
+					"lENClient": "Twilight Blossom",
+					"lCNClient": "夕暮春华",
+					"lJPClient": "春の夕暮",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -17208,9 +17208,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/38/YuugurePartyChibi.png",
 				"info": {
-					"eNClient": "Evening Flower",
-					"cNClient": "盛绽樱华",
-					"jPClient": "遊宴の花",
+					"lENClient": "Evening Flower",
+					"lCNClient": "盛绽樱华",
+					"lJPClient": "遊宴の花",
 					"obtainedFrom": "A Prayer for Peace  - Special Login Reward on the 7th day",
 					"live2DModel": "No"
 				}
@@ -18511,9 +18511,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/95/IsuzuHalloweenChibi.png",
 				"info": {
-					"eNClient": "Night of Fairy Tale",
-					"cNClient": "童话之夜",
-					"jPClient": "フェアリーテイルナイト",
+					"lENClient": "Night of Fairy Tale",
+					"lCNClient": "童话之夜",
+					"lJPClient": "フェアリーテイルナイト",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -18525,9 +18525,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/78/IsuzuChristmasChibi.png",
 				"info": {
-					"eNClient": "Cozy Christmas Eve",
-					"cNClient": "暖洋洋的圣诞夜",
-					"jPClient": "ポカポカクリスマス",
+					"lENClient": "Cozy Christmas Eve",
+					"lCNClient": "暖洋洋的圣诞夜",
+					"lJPClient": "ポカポカクリスマス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -18992,9 +18992,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/79/KinuNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Blade Demon",
-					"cNClient": "新年的剑鬼",
-					"jPClient": "正月の剣鬼",
+					"lENClient": "New Year's Blade Demon",
+					"lCNClient": "新年的剑鬼",
+					"lJPClient": "正月の剣鬼",
 					"obtainedFrom": "Swirling Cherry Blossoms  Minigames",
 					"live2DModel": "No"
 				}
@@ -22036,9 +22036,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8a/AshigaraNew_YearChibi.png",
 				"info": {
-					"eNClient": "Brief Intermission",
-					"cNClient": "幕间小憩",
-					"jPClient": "幕間少憩",
+					"lENClient": "Brief Intermission",
+					"lCNClient": "幕间小憩",
+					"lJPClient": "幕間少憩",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -22279,9 +22279,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fc/TakaoWeddingChibi.png",
 				"info": {
-					"eNClient": "Sakura Hanami",
-					"cNClient": "神护樱华",
-					"jPClient": "神護ノ風華",
+					"lENClient": "Sakura Hanami",
+					"lCNClient": "神护樱华",
+					"lJPClient": "神護ノ風華",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -22292,9 +22292,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b4/TakaoSummerChibi.png",
 				"info": {
-					"eNClient": "Beach Rhapsody",
-					"cNClient": "沙滩狂想曲",
-					"jPClient": "砂浜ラプソディ",
+					"lENClient": "Beach Rhapsody",
+					"lCNClient": "沙滩狂想曲",
+					"lJPClient": "砂浜ラプソディ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -22306,9 +22306,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/68/TakaoSpringChibi.png",
 				"info": {
-					"eNClient": "The Lessons of Spring",
-					"cNClient": "春之意",
-					"jPClient": "春の習い",
+					"lENClient": "The Lessons of Spring",
+					"lCNClient": "春之意",
+					"lJPClient": "春の習い",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -22320,9 +22320,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/03/TakaoSchoolChibi.png",
 				"info": {
-					"eNClient": "School Romanza",
-					"cNClient": "校园浪漫曲",
-					"jPClient": "学園ロマンチカ",
+					"lENClient": "School Romanza",
+					"lCNClient": "校园浪漫曲",
+					"lJPClient": "学園ロマンチカ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -22567,9 +22567,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1e/AtagoWeddingChibi.png",
 				"info": {
-					"eNClient": "Lily-White Vow",
-					"cNClient": "白花的誓言",
-					"jPClient": "白き約束",
+					"lENClient": "Lily-White Vow",
+					"lCNClient": "白花的誓言",
+					"lJPClient": "白き約束",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -22580,9 +22580,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/01/AtagoSummerChibi.png",
 				"info": {
-					"eNClient": "Summer March",
-					"cNClient": "盛夏进行曲",
-					"jPClient": "真夏の行進曲",
+					"lENClient": "Summer March",
+					"lCNClient": "盛夏进行曲",
+					"lJPClient": "真夏の行進曲",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "Yes"
@@ -22594,9 +22594,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8b/AtagoNew_YearChibi.png",
 				"info": {
-					"eNClient": "Hallmarks of Winter",
-					"cNClient": "冬季风物诗",
-					"jPClient": "冬の風物詩",
+					"lENClient": "Hallmarks of Winter",
+					"lCNClient": "冬季风物诗",
+					"lJPClient": "冬の風物詩",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -22608,9 +22608,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/49/AtagoSchoolChibi.png",
 				"info": {
-					"eNClient": "School Traumerei",
-					"cNClient": "学园幻想曲",
-					"jPClient": "学園トロイメライ",
+					"lENClient": "School Traumerei",
+					"lCNClient": "学园幻想曲",
+					"lJPClient": "学園トロイメライ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -23225,9 +23225,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a6/KongouFestivalChibi.png",
 				"info": {
-					"eNClient": "The Beauties of Nature",
-					"cNClient": "华鸟风月",
-					"jPClient": "華鳥風月",
+					"lENClient": "The Beauties of Nature",
+					"lCNClient": "华鸟风月",
+					"lJPClient": "華鳥風月",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -23433,9 +23433,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/HieiSleepyChibi.png",
 				"info": {
-					"eNClient": "Moonlit Cruise",
-					"cNClient": "月下巡游",
-					"jPClient": "月花の巡礼",
+					"lENClient": "Moonlit Cruise",
+					"lCNClient": "月下巡游",
+					"lJPClient": "月花の巡礼",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -23641,9 +23641,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1c/HarunaSchoolChibi.png",
 				"info": {
-					"eNClient": "Free Time Before Class",
-					"cNClient": "授课前的自由时间",
-					"jPClient": "授業前休憩ブレイク",
+					"lENClient": "Free Time Before Class",
+					"lCNClient": "授课前的自由时间",
+					"lJPClient": "授業前休憩ブレイク",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -23844,9 +23844,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/KirishimaEventChibi.png",
 				"info": {
-					"eNClient": "After-School Cannon Time",
-					"cNClient": "放学后的退敌时间",
-					"jPClient": "放課後砲撃タイム",
+					"lENClient": "After-School Cannon Time",
+					"lCNClient": "放学后的退敌时间",
+					"lJPClient": "放課後砲撃タイム",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -23858,9 +23858,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b5/KirishimaCasualChibi.png",
 				"info": {
-					"eNClient": "Summery Audacity",
-					"cNClient": "夏日的大胆尝试",
-					"jPClient": "ブレイブリーサマー",
+					"lENClient": "Summery Audacity",
+					"lCNClient": "夏日的大胆尝试",
+					"lJPClient": "ブレイブリーサマー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -23872,9 +23872,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b6/KirishimaNew_YearChibi.png",
 				"info": {
-					"eNClient": "Casual Dazzle",
-					"cNClient": "随性的闪耀之星",
-					"jPClient": "着流し烈光",
+					"lENClient": "Casual Dazzle",
+					"lCNClient": "随性的闪耀之星",
+					"lJPClient": "着流し烈光",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -24328,9 +24328,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/ce/FusouSpringChibi.png",
 				"info": {
-					"eNClient": "The Celebration of Spring",
-					"cNClient": "春之祝",
-					"jPClient": "春の祝い",
+					"lENClient": "The Celebration of Spring",
+					"lCNClient": "春之祝",
+					"lJPClient": "春の祝い",
 					"obtainedFrom": "Skin Shop",
 					"cost": "680",
 					"live2DModel": "No"
@@ -24342,9 +24342,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f0/FusouCasualChibi.png",
 				"info": {
-					"eNClient": "Perfect Partner?",
-					"cNClient": "家有贤妻？",
-					"jPClient": "モフモフ内助？",
+					"lENClient": "Perfect Partner?",
+					"lCNClient": "家有贤妻？",
+					"lJPClient": "モフモフ内助？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -24798,9 +24798,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/YamashiroWeddingChibi.png",
 				"info": {
-					"eNClient": "Bridal Attack!",
-					"cNClient": "花嫁攻势！",
-					"jPClient": "白無垢大作戦？",
+					"lENClient": "Bridal Attack!",
+					"lCNClient": "花嫁攻势！",
+					"lJPClient": "白無垢大作戦？",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -24811,9 +24811,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/10/YamashiroSummerChibi.png",
 				"info": {
-					"eNClient": "Summer Offensive?",
-					"cNClient": "季夏攻势？",
-					"jPClient": "夏の大作戦？",
+					"lENClient": "Summer Offensive?",
+					"lCNClient": "季夏攻势？",
+					"lJPClient": "夏の大作戦？",
 					"obtainedFrom": "Summer's Big Operation  - Complete the event task",
 					"live2DModel": "No"
 				}
@@ -24824,9 +24824,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c8/YamashiroChristmasChibi.png",
 				"info": {
-					"eNClient": "Holiday Offensive",
-					"cNClient": "圣诞攻势！",
-					"jPClient": "聖夜の大作戦？",
+					"lENClient": "Holiday Offensive",
+					"lCNClient": "圣诞攻势！",
+					"lJPClient": "聖夜の大作戦？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "680",
 					"live2DModel": "No"
@@ -24838,9 +24838,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1c/YamashiroPartyChibi.png",
 				"info": {
-					"eNClient": "Dressy Black Cat",
-					"cNClient": "盛装的黑猫",
-					"jPClient": "盛装の黒猫",
+					"lENClient": "Dressy Black Cat",
+					"lCNClient": "盛装的黑猫",
+					"lJPClient": "盛装の黒猫",
 					"obtainedFrom": "Special Party by the Harbor  - Complete the event task",
 					"live2DModel": "No"
 				}
@@ -24851,9 +24851,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/16/YamashiroShopChibi.png",
 				"info": {
-					"eNClient": "Sales Clerk Offensive?!",
-					"cNClient": "看板娘攻势！？",
-					"jPClient": "看板娘大作戦！",
+					"lENClient": "Sales Clerk Offensive?!",
+					"lCNClient": "看板娘攻势！？",
+					"lJPClient": "看板娘大作戦！",
 					"obtainedFrom": "Atré Collab  - Spend 8000 Oil Total",
 					"live2DModel": "No"
 				}
@@ -24864,9 +24864,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c5/YamashiroBeachChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "skin unavailable",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "skin unavailable",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "TW Client Exclusive Skin",
 					"live2DModel": "No"
 				}
@@ -24877,9 +24877,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a2/YamashiroSchoolChibi.png",
 				"info": {
-					"eNClient": "Street Corner Offensive!",
-					"cNClient": "制服攻势！",
-					"jPClient": "制服大作戦！",
+					"lENClient": "Street Corner Offensive!",
+					"lCNClient": "制服攻势！",
+					"lJPClient": "制服大作戦！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -25983,9 +25983,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/71/NagatoWeddingChibi.png",
 				"info": {
-					"eNClient": "Great Fox's White Gown",
-					"cNClient": "御狐的白装束",
-					"jPClient": "御狐の白装束",
+					"lENClient": "Great Fox's White Gown",
+					"lCNClient": "御狐的白装束",
+					"lJPClient": "御狐の白装束",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -25996,9 +25996,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/79/Skin_BG_111.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f1/NagatoSleepyChibi.png",
 				"info": {
-					"eNClient": "Great Fox's Respite",
-					"cNClient": "神子的休憩",
-					"jPClient": "御狐の寝間着",
+					"lENClient": "Great Fox's Respite",
+					"lCNClient": "神子的休憩",
+					"lJPClient": "御狐の寝間着",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -26010,9 +26010,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c1/NagatoNew_YearChibi.png",
 				"info": {
-					"eNClient": "Guardian Fox's Shining Furisode",
-					"cNClient": "御狐的辉振袖",
-					"jPClient": "御狐の輝振袖",
+					"lENClient": "Guardian Fox's Shining Furisode",
+					"lCNClient": "御狐的辉振袖",
+					"lJPClient": "御狐の輝振袖",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -26212,9 +26212,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/79/Skin_BG_111.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/MutsuEventChibi.png",
 				"info": {
-					"eNClient": "Warring States Warship",
-					"cNClient": "战国风云少女",
-					"jPClient": "センゴク☆センカン",
+					"lENClient": "Warring States Warship",
+					"lCNClient": "战国风云少女",
+					"lJPClient": "センゴク☆センカン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -26794,9 +26794,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/56/HoushouFestivalChibi.png",
 				"info": {
-					"eNClient": "The Dream of the Autumn Pillow",
-					"cNClient": "秋枕梦",
-					"jPClient": "宵の夢",
+					"lENClient": "The Dream of the Autumn Pillow",
+					"lCNClient": "秋枕梦",
+					"lJPClient": "宵の夢",
 					"obtainedFrom": "Memory Lane  - Collect Memory Cards",
 					"live2DModel": "No"
 				}
@@ -27244,9 +27244,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/23/ShouhouHalloweenChibi.png",
 				"info": {
-					"eNClient": "Patrolling Witch",
-					"cNClient": "夜巡的魔女",
-					"jPClient": "夜回りウィッチ",
+					"lENClient": "Patrolling Witch",
+					"lCNClient": "夜巡的魔女",
+					"lJPClient": "夜回りウィッチ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -27692,9 +27692,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/71/AkagiWeddingChibi.png",
 				"info": {
-					"eNClient": "Deep Crimson Poppy",
-					"cNClient": "深红的虞美人",
-					"jPClient": "真紅の雛罌粟",
+					"lENClient": "Deep Crimson Poppy",
+					"lCNClient": "深红的虞美人",
+					"lJPClient": "真紅の雛罌粟",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -27705,9 +27705,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4a/AkagiSummerChibi.png",
 				"info": {
-					"eNClient": "Paradise Amaryllis",
-					"cNClient": "乐园的彼岸花",
-					"jPClient": "楽園の彼岸花",
+					"lENClient": "Paradise Amaryllis",
+					"lCNClient": "乐园的彼岸花",
+					"lJPClient": "楽園の彼岸花",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -27719,9 +27719,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5a/AkagiNew_YearChibi.png",
 				"info": {
-					"eNClient": "Plum and Snow",
-					"cNClient": "梅与雪",
-					"jPClient": "梅と雪",
+					"lENClient": "Plum and Snow",
+					"lCNClient": "梅与雪",
+					"lJPClient": "梅と雪",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -27970,9 +27970,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d6/KagaWeddingChibi.png",
 				"info": {
-					"eNClient": "Sacred Blue Lily",
-					"cNClient": "苍染的君子兰",
-					"jPClient": "浄界の君子蘭",
+					"lENClient": "Sacred Blue Lily",
+					"lCNClient": "苍染的君子兰",
+					"lJPClient": "浄界の君子蘭",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -27983,9 +27983,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0d/KagaSummerChibi.png",
 				"info": {
-					"eNClient": "Everlasting Killing Stone",
-					"cNClient": "常夏的杀生石",
-					"jPClient": "常夏の殺生石",
+					"lENClient": "Everlasting Killing Stone",
+					"lCNClient": "常夏的杀生石",
+					"lJPClient": "常夏の殺生石",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -27997,9 +27997,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/cf/KagaNew_YearChibi.png",
 				"info": {
-					"eNClient": "White Fox's New Year",
-					"cNClient": "白狐贺正",
-					"jPClient": "白狐賀正",
+					"lENClient": "White Fox's New Year",
+					"lCNClient": "白狐贺正",
+					"lJPClient": "白狐賀正",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -28485,9 +28485,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9a/SouryuuNew_YearChibi.png",
 				"info": {
-					"eNClient": "The Crane Amidst the Pines",
-					"cNClient": "松间鹤",
-					"jPClient": "松に鶴",
+					"lENClient": "The Crane Amidst the Pines",
+					"lCNClient": "松间鹤",
+					"lJPClient": "松に鶴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "680",
 					"live2DModel": "No"
@@ -28499,9 +28499,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/35/SouryuuSchoolChibi.png",
 				"info": {
-					"eNClient": "The Counselor Girl",
-					"cNClient": "走廊上的风纪委员",
-					"jPClient": "廊下の風紀委員",
+					"lENClient": "The Counselor Girl",
+					"lCNClient": "走廊上的风纪委员",
+					"lJPClient": "廊下の風紀委員",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -28987,9 +28987,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0a/HiryuuSchoolChibi.png",
 				"info": {
-					"eNClient": "After School Bullies",
-					"cNClient": "放学后的极道少女",
-					"jPClient": "放課後スケバンガール",
+					"lENClient": "After School Bullies",
+					"lCNClient": "放学后的极道少女",
+					"lJPClient": "放課後スケバンガール",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -29218,9 +29218,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/db/ShoukakuPartyChibi.png",
 				"info": {
-					"eNClient": "The Crane that Dances With the Wind",
-					"cNClient": "散花舞鹤",
-					"jPClient": "風と舞う鶴",
+					"lENClient": "The Crane that Dances With the Wind",
+					"lCNClient": "散花舞鹤",
+					"lJPClient": "風と舞う鶴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -29432,9 +29432,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a8/ZuikakuFestivalChibi.png",
 				"info": {
-					"eNClient": "Ceremonial Crane",
-					"cNClient": "祭华之鹤",
-					"jPClient": "祭華の鶴",
+					"lENClient": "Ceremonial Crane",
+					"lCNClient": "祭华之鹤",
+					"lJPClient": "祭華の鶴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -29651,9 +29651,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/19/TaihouPartyChibi.png",
 				"info": {
-					"eNClient": "Forbidden Fruit",
-					"cNClient": "毒苹果",
-					"jPClient": "禁断の宴",
+					"lENClient": "Forbidden Fruit",
+					"lCNClient": "毒苹果",
+					"lJPClient": "禁断の宴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -29880,9 +29880,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/31/AkashiNew_YearChibi.png",
 				"info": {
-					"eNClient": "Akashi's in the Red, Nya!",
-					"cNClient": "正月，浴衣，赤字",
-					"jPClient": "あかしのあかじにゃ！",
+					"lENClient": "Akashi's in the Red, Nya!",
+					"lCNClient": "正月，浴衣，赤字",
+					"lJPClient": "あかしのあかじにゃ！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -29894,9 +29894,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6d/AkashiPartyChibi.png",
 				"info": {
-					"eNClient": "The Black Cat Cometh!",
-					"cNClient": "黑猫来袭！",
-					"jPClient": "黒猫来襲す！",
+					"lENClient": "The Black Cat Cometh!",
+					"lCNClient": "黑猫来袭！",
+					"lJPClient": "黒猫来襲す！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -29908,9 +29908,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4f/AkashiEventChibi.png",
 				"info": {
-					"eNClient": "Welcome to AzurCon!",
-					"cNClient": "IJN_在A1摊位喵！",
-					"jPClient": "島へようこそ！",
+					"lENClient": "Welcome to AzurCon!",
+					"lCNClient": "IJN_在A1摊位喵！",
+					"lJPClient": "島へようこそ！",
 					"obtainedFrom": "Akashi's Fanbook  - Complete Painting No. 3",
 					"live2DModel": "No"
 				}
@@ -30393,9 +30393,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2b/Z1SchoolChibi.png",
 				"info": {
-					"eNClient": "\"Rebellious\" Top Student",
-					"cNClient": "“叛逆”的优等生",
-					"jPClient": "反逆のフィアツェーン",
+					"lENClient": "\"Rebellious\" Top Student",
+					"lCNClient": "“叛逆”的优等生",
+					"lJPClient": "反逆のフィアツェーン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -30879,9 +30879,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/89/Z23BilibiliChibi.png",
 				"info": {
-					"eNClient": "Philosophy Sensei",
-					"cNClient": "哲学讲师",
-					"jPClient": "哲学講師",
+					"lENClient": "Philosophy Sensei",
+					"lCNClient": "哲学讲师",
+					"lJPClient": "哲学講師",
 					"obtainedFrom": "Class Z-23 Sensei  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -30892,9 +30892,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/39/Z23CoCoChibi.png",
 				"info": {
-					"eNClient": "Perfect Smile?",
-					"cNClient": "标准笑容？",
-					"jPClient": "マニュアルスタイル",
+					"lENClient": "Perfect Smile?",
+					"lCNClient": "标准笑容？",
+					"lJPClient": "マニュアルスタイル",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -30906,9 +30906,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5a/Z23PartyChibi.png",
 				"info": {
-					"eNClient": "The Banquet's Honor Student",
-					"cNClient": "宴会上的优等生",
-					"jPClient": "麗しきアーベントクライト",
+					"lENClient": "The Banquet's Honor Student",
+					"lCNClient": "宴会上的优等生",
+					"lJPClient": "麗しきアーベントクライト",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -30920,9 +30920,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/ae/Z23IdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "正经偶像·经纪人担当？",
-					"jPClient": "真面目アイドル・マネージャー兼任!?",
+					"lENClient": "skin unavailable",
+					"lCNClient": "正经偶像·经纪人担当？",
+					"lJPClient": "真面目アイドル・マネージャー兼任!?",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -31139,9 +31139,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f5/Z25SummerChibi.png",
 				"info": {
-					"eNClient": "Hot Summer's Cool Breeze",
-					"cNClient": "暑夏的海风",
-					"jPClient": "暑夏の涼風",
+					"lENClient": "Hot Summer's Cool Breeze",
+					"lCNClient": "暑夏的海风",
+					"lJPClient": "暑夏の涼風",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -33127,9 +33127,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/dd/Prinz_EugenWeddingChibi.png",
 				"info": {
-					"eNClient": "Symphonic Fate",
-					"cNClient": "命运交响曲",
-					"jPClient": "運命シンフォニック",
+					"lENClient": "Symphonic Fate",
+					"lCNClient": "命运交响曲",
+					"lJPClient": "運命シンフォニック",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -33140,9 +33140,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/59/Prinz_EugenSummerChibi.png",
 				"info": {
-					"eNClient": "Unfading Smile",
-					"cNClient": "永不褪色的笑容",
-					"jPClient": "色褪せないエガオ",
+					"lENClient": "Unfading Smile",
+					"lCNClient": "永不褪色的笑容",
+					"lJPClient": "色褪せないエガオ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -33154,9 +33154,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d3/Prinz_EugenNew_YearChibi.png",
 				"info": {
-					"eNClient": "Profusion of Flowers",
-					"cNClient": "百花缭乱",
-					"jPClient": "百花繚乱",
+					"lENClient": "Profusion of Flowers",
+					"lCNClient": "百花缭乱",
+					"lJPClient": "百花繚乱",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -33168,9 +33168,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/44/Prinz_EugenPartyChibi.png",
 				"info": {
-					"eNClient": "Cordial Cornflower",
-					"cNClient": "Wein Kornblume",
-					"jPClient": "ヴァイン・コーンブルメ",
+					"lENClient": "Cordial Cornflower",
+					"lCNClient": "Wein Kornblume",
+					"lJPClient": "ヴァイン・コーンブルメ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -33389,9 +33389,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4e/DeutschlandEventChibi.png",
 				"info": {
-					"eNClient": "Dark Demon Princess",
-					"cNClient": "漆黑的魔姬",
-					"jPClient": "漆黒の魔姫",
+					"lENClient": "Dark Demon Princess",
+					"lCNClient": "漆黑的魔姬",
+					"lJPClient": "漆黒の魔姫",
 					"obtainedFrom": "Divergent Chessboard  Event Shop",
 					"cost": "4000 ( 1000 in CN server)",
 					"live2DModel": "No"
@@ -33403,9 +33403,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/aa/DeutschlandSummerChibi.png",
 				"info": {
-					"eNClient": "Service Time?!",
-					"cNClient": "艳阳下的“福利”时间",
-					"jPClient": "サービスタイム？",
+					"lENClient": "Service Time?!",
+					"lCNClient": "艳阳下的“福利”时间",
+					"lJPClient": "サービスタイム？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -33417,9 +33417,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/DeutschlandPartyChibi.png",
 				"info": {
-					"eNClient": "Demon Princess' Dark Hour Banquet",
-					"cNClient": "魔姬的夜宴",
-					"jPClient": "魔姫の夜宴",
+					"lENClient": "Demon Princess' Dark Hour Banquet",
+					"lCNClient": "魔姬的夜宴",
+					"lJPClient": "魔姫の夜宴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -33650,9 +33650,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/52/Admiral_Graf_SpeeEventChibi.png",
 				"info": {
-					"eNClient": "Girl's Sunday",
-					"cNClient": "少女的星期日",
-					"jPClient": "少女の日曜日",
+					"lENClient": "Girl's Sunday",
+					"lCNClient": "少女的星期日",
+					"lJPClient": "少女の日曜日",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -33664,9 +33664,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/97/Admiral_Graf_SpeeEvent2Chibi.png",
 				"info": {
-					"eNClient": "Peaceful Days",
-					"cNClient": "平和的每一天",
-					"jPClient": "平穏な毎日",
+					"lENClient": "Peaceful Days",
+					"lCNClient": "平和的每一天",
+					"lJPClient": "平穏な毎日",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -33678,9 +33678,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/32/Admiral_Graf_SpeePartyChibi.png",
 				"info": {
-					"eNClient": "A Novel Anniversary",
-					"cNClient": "未知的晚会",
-					"jPClient": "未知の記念日",
+					"lENClient": "A Novel Anniversary",
+					"lCNClient": "未知的晚会",
+					"lJPClient": "未知の記念日",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -33692,9 +33692,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bd/Admiral_Graf_SpeeIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "铁血♥最可爱",
-					"jPClient": "Tekketsu♥Kawaii",
+					"lENClient": "skin unavailable",
+					"lCNClient": "铁血♥最可爱",
+					"lJPClient": "Tekketsu♥Kawaii",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1100",
 					"live2DModel": "Yes"
@@ -34108,9 +34108,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/GneisenauHalloweenChibi.png",
 				"info": {
-					"eNClient": "Nightmarish Succubus",
-					"cNClient": "梦魇魅影",
-					"jPClient": "サキュバスナイトメア",
+					"lENClient": "Nightmarish Succubus",
+					"lCNClient": "梦魇魅影",
+					"lJPClient": "サキュバスナイトメア",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -34338,9 +34338,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a3/BismarckPartyChibi.png",
 				"info": {
-					"eNClient": "Beacon of the Iron Blood",
-					"cNClient": "铁血的辉光",
-					"jPClient": "鉄血の威光",
+					"lENClient": "Beacon of the Iron Blood",
+					"lCNClient": "铁血的辉光",
+					"lJPClient": "鉄血の威光",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -34563,9 +34563,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2e/TirpitzSummerChibi.png",
 				"info": {
-					"eNClient": "Snow-Melting Summer",
-					"cNClient": "冰雪消融的夏日",
-					"jPClient": "氷溶ける夏",
+					"lENClient": "Snow-Melting Summer",
+					"lCNClient": "冰雪消融的夏日",
+					"lJPClient": "氷溶ける夏",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -34577,9 +34577,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/00/TirpitzPartyChibi.png",
 				"info": {
-					"eNClient": "Iron Blood Snowstorm",
-					"cNClient": "铁血的冰风",
-					"jPClient": "鉄血の氷風",
+					"lENClient": "Iron Blood Snowstorm",
+					"lCNClient": "铁血的冰风",
+					"lJPClient": "鉄血の氷風",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -34800,9 +34800,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/29/Graf_ZeppelinSummerChibi.png",
 				"info": {
-					"eNClient": "Beachside Urd",
-					"cNClient": "沙滩上的乌尔德",
-					"jPClient": "砂浜のウルズ",
+					"lENClient": "Beachside Urd",
+					"lCNClient": "沙滩上的乌尔德",
+					"lJPClient": "砂浜のウルズ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -35012,9 +35012,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/An_ShanNavyChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "和平的号角",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "和平的号角",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -35422,9 +35422,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/37/Chang_ChunSpringChibi.png",
 				"info": {
-					"eNClient": "The Joy of Spring",
-					"cNClient": "春之嬉",
-					"jPClient": "春季仕様",
+					"lENClient": "The Joy of Spring",
+					"lCNClient": "春之嬉",
+					"lJPClient": "春季仕様",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -35634,9 +35634,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/63/Tai_YuanSpringChibi.png",
 				"info": {
-					"eNClient": "The Golden Dragon's Festivities",
-					"cNClient": "金蛇闹春",
-					"jPClient": "春騒ぎの玄亀",
+					"lENClient": "The Golden Dragon's Festivities",
+					"lCNClient": "金蛇闹春",
+					"lJPClient": "春騒ぎの玄亀",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -36332,9 +36332,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/36/Ning_HaiSummerChibi.png",
 				"info": {
-					"eNClient": "Summer Hunger",
-					"cNClient": "食欲之夏",
-					"jPClient": "食欲の夏！",
+					"lENClient": "Summer Hunger",
+					"lCNClient": "食欲之夏",
+					"lJPClient": "食欲の夏！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -36346,9 +36346,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/Ning_HaiFestivalChibi.png",
 				"info": {
-					"eNClient": "Moon Palace Rabbit",
-					"cNClient": "月宫玉兔",
-					"jPClient": "月宮の玉兎",
+					"lENClient": "Moon Palace Rabbit",
+					"lCNClient": "月宫玉兔",
+					"lJPClient": "月宮の玉兎",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -36360,9 +36360,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c6/Ning_HaiIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "东煌姐妹！·N",
-					"jPClient": "東煌シスターズ！・N",
+					"lENClient": "skin unavailable",
+					"lCNClient": "东煌姐妹！·N",
+					"lJPClient": "東煌シスターズ！・N",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1100",
 					"live2DModel": "Yes"
@@ -36846,9 +36846,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/62/Ping_HaiSummerChibi.png",
 				"info": {
-					"eNClient": "Summer Vacation",
-					"cNClient": "游兴之夏",
-					"jPClient": "遊興の夏？",
+					"lENClient": "Summer Vacation",
+					"lCNClient": "游兴之夏",
+					"lJPClient": "遊興の夏？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "500",
 					"live2DModel": "No"
@@ -36860,9 +36860,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/46/Ping_HaiFestivalChibi.png",
 				"info": {
-					"eNClient": "Osmanthus Moon Rabbit",
-					"cNClient": "桂花月兔",
-					"jPClient": "モクセイラビット",
+					"lENClient": "Osmanthus Moon Rabbit",
+					"lCNClient": "桂花月兔",
+					"lJPClient": "モクセイラビット",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -36874,9 +36874,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/Ping_HaiIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "东煌姐妹！·P",
-					"jPClient": "東煌シスターズ！・P",
+					"lENClient": "skin unavailable",
+					"lCNClient": "东煌姐妹！·P",
+					"lJPClient": "東煌シスターズ！・P",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1100",
 					"live2DModel": "Yes"
@@ -37531,9 +37531,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2b/BaileyHalloweenChibi.png",
 				"info": {
-					"eNClient": "Trickster Black Rabbit",
-					"cNClient": "捣蛋黑兔",
-					"jPClient": "トリッキーベイリー",
+					"lENClient": "Trickster Black Rabbit",
+					"lCNClient": "捣蛋黑兔",
+					"lJPClient": "トリッキーベイリー",
 					"obtainedFrom": "Halloween  - Finish the \"Mischievous Halloween\" questline",
 					"live2DModel": "No"
 				}
@@ -38367,9 +38367,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/36/Z46SummerChibi.png",
 				"info": {
-					"eNClient": "Her First Summer",
-					"cNClient": "夏之初体验",
-					"jPClient": "ファーストサマー",
+					"lENClient": "Her First Summer",
+					"lCNClient": "夏之初体验",
+					"lJPClient": "ファーストサマー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -39711,9 +39711,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e7/MutsukiChristmasChibi.png",
 				"info": {
-					"eNClient": "Mr. Reindeer, Depart!",
-					"cNClient": "驯鹿先生，出发！",
-					"jPClient": "トナカイさん発進！",
+					"lENClient": "Mr. Reindeer, Depart!",
+					"lCNClient": "驯鹿先生，出发！",
+					"lJPClient": "トナカイさん発進！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -39725,9 +39725,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b3/MutsukiFestivalChibi.png",
 				"info": {
-					"eNClient": "Candy Festival!",
-					"cNClient": "糖果祭典！",
-					"jPClient": "アメさん祭り！",
+					"lENClient": "Candy Festival!",
+					"lCNClient": "糖果祭典！",
+					"lJPClient": "アメさん祭り！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -40192,9 +40192,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/97/KisaragiNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Wish",
-					"cNClient": "新年祈愿",
-					"jPClient": "正月のお願い",
+					"lENClient": "New Year's Wish",
+					"lCNClient": "新年祈愿",
+					"lJPClient": "正月のお願い",
 					"obtainedFrom": "Happy New Year  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -40408,9 +40408,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/70/UzukiSleepyChibi.png",
 				"info": {
-					"eNClient": "Sleepy Uzuki",
-					"cNClient": "贪睡的天使",
-					"jPClient": "眠たがりのうづき",
+					"lENClient": "Sleepy Uzuki",
+					"lCNClient": "贪睡的天使",
+					"lJPClient": "眠たがりのうづき",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -40818,9 +40818,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9e/FumizukiSleepyChibi.png",
 				"info": {
-					"eNClient": "Sleepy Fairy",
-					"cNClient": "迷糊的妖精",
-					"jPClient": "ねぼけてフェアリー",
+					"lENClient": "Sleepy Fairy",
+					"lCNClient": "迷糊的妖精",
+					"lJPClient": "ねぼけてフェアリー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -41233,9 +41233,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/MikazukiHalloweenChibi.png",
 				"info": {
-					"eNClient": "Sweet Zombie",
-					"cNClient": "僵尸小姐驾到！",
-					"jPClient": "タイヤキョンシー",
+					"lENClient": "Sweet Zombie",
+					"lCNClient": "僵尸小姐驾到！",
+					"lJPClient": "タイヤキョンシー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -41455,9 +41455,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fd/KawakazeWeddingChibi.png",
 				"info": {
-					"eNClient": "Unsullied White Fox",
-					"cNClient": "美梦构造论",
-					"jPClient": "甘夢のアーキテクチャ",
+					"lENClient": "Unsullied White Fox",
+					"lCNClient": "美梦构造论",
+					"lJPClient": "甘夢のアーキテクチャ",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -41468,9 +41468,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/36/KawakazeEventChibi.png",
 				"info": {
-					"eNClient": "Monochromatic Interlude",
-					"cNClient": "间奏·黑白",
-					"jPClient": "間奏モノクローム",
+					"lENClient": "Monochromatic Interlude",
+					"lCNClient": "间奏·黑白",
+					"lJPClient": "間奏モノクローム",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -41687,9 +41687,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/72/KiyonamiChristmasChibi.png",
 				"info": {
-					"eNClient": "Festive Riding Hood?",
-					"cNClient": "圣诞小红帽？",
-					"jPClient": "クリスマスの赤ずきんさん？",
+					"lENClient": "Festive Riding Hood?",
+					"lCNClient": "圣诞小红帽？",
+					"lJPClient": "クリスマスの赤ずきんさん？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -42302,9 +42302,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/4d/Skin_BG_112.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/YoizukiSchoolChibi.png",
 				"info": {
-					"eNClient": "Sports Festival Preparations",
-					"cNClient": "运动会的准备",
-					"jPClient": "運動会の準備",
+					"lENClient": "Sports Festival Preparations",
+					"lCNClient": "运动会的准备",
+					"lJPClient": "運動会の準備",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -43185,9 +43185,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e2/NicholasNurseChibi.png",
 				"info": {
-					"eNClient": "Nurse Nicholas",
-					"cNClient": "尼古纳斯",
-					"jPClient": "ニコナース",
+					"lENClient": "Nurse Nicholas",
+					"lCNClient": "尼古纳斯",
+					"lJPClient": "ニコナース",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -43199,9 +43199,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d7/NicholasChristmasChibi.png",
 				"info": {
-					"eNClient": "Surprise!?",
-					"cNClient": "装错的圣诞礼物",
-					"jPClient": "ミスパッケージング？",
+					"lENClient": "Surprise!?",
+					"lCNClient": "装错的圣诞礼物",
+					"lJPClient": "ミスパッケージング？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -43621,9 +43621,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/87/HonoluluSchoolChibi.png",
 				"info": {
-					"eNClient": "Umbrella Girl",
-					"cNClient": "阳伞下的同桌",
-					"jPClient": "日傘のカノジョ",
+					"lENClient": "Umbrella Girl",
+					"lCNClient": "阳伞下的同桌",
+					"lJPClient": "日傘のカノジョ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -43635,9 +43635,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d0/HonoluluSummerChibi.png",
 				"info": {
-					"eNClient": "Summer Accident?!",
-					"cNClient": "盛夏的「灾难」",
-					"jPClient": "夏の災難！？",
+					"lENClient": "Summer Accident?!",
+					"lCNClient": "盛夏的「灾难」",
+					"lJPClient": "夏の災難！？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -43649,9 +43649,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/75/HonoluluChristmasChibi.png",
 				"info": {
-					"eNClient": "Manjuu Mischief",
-					"cNClient": "大胆(?)的麋鹿小姐",
-					"jPClient": "プレゼント・ファイアレッド",
+					"lENClient": "Manjuu Mischief",
+					"lCNClient": "大胆(?)的麋鹿小姐",
+					"lJPClient": "プレゼント・ファイアレッド",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -43663,9 +43663,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/df/HonoluluFestivalChibi.png",
 				"info": {
-					"eNClient": "Among the Stalls",
-					"cNClient": "两人的夏日祭",
-					"jPClient": "二人のお祭り",
+					"lENClient": "Among the Stalls",
+					"lCNClient": "两人的夏日祭",
+					"lJPClient": "二人のお祭り",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -43901,9 +43901,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5b/St._LouisSpringChibi.png",
 				"info": {
-					"eNClient": "Blue and White Pottery",
-					"cNClient": "春之华",
-					"jPClient": "春の華",
+					"lENClient": "Blue and White Pottery",
+					"lCNClient": "春之华",
+					"lJPClient": "春の華",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "Yes"
@@ -43915,9 +43915,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/19/St._LouisNew_YearChibi.png",
 				"info": {
-					"eNClient": "Spirits in the Snow",
-					"cNClient": "雪下之饮",
-					"jPClient": "ティプシースノー",
+					"lENClient": "Spirits in the Snow",
+					"lCNClient": "雪下之饮",
+					"lJPClient": "ティプシースノー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -44124,9 +44124,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/ef/JupiterCasualChibi.png",
 				"info": {
-					"eNClient": "Fanclub Sleepover",
-					"cNClient": "新番组之夜",
-					"jPClient": "放送待機中",
+					"lENClient": "Fanclub Sleepover",
+					"lCNClient": "新番组之夜",
+					"lJPClient": "放送待機中",
 					"obtainedFrom": "Fanclub Sleepover  Event Questline",
 					"live2DModel": "No"
 				}
@@ -45241,9 +45241,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/JintsuuSummerChibi.png",
 				"info": {
-					"eNClient": "The Tactician’s Vacation",
-					"cNClient": "军师大人@休假中",
-					"jPClient": "軍師さんは休暇中",
+					"lENClient": "The Tactician’s Vacation",
+					"lCNClient": "军师大人@休假中",
+					"lJPClient": "軍師さんは休暇中",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -45650,9 +45650,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/70/UrakazeChristmasChibi.png",
 				"info": {
-					"eNClient": "Seasonal Shogun",
-					"cNClient": "圣诞大将军",
-					"jPClient": "ショーグンナタラ",
+					"lENClient": "Seasonal Shogun",
+					"lCNClient": "圣诞大将军",
+					"lJPClient": "ショーグンナタラ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -45859,9 +45859,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c6/IsokazeNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Campaign",
-					"cNClient": "新年合战",
-					"jPClient": "新年大合戦",
+					"lENClient": "New Year's Campaign",
+					"lCNClient": "新年合战",
+					"lJPClient": "新年大合戦",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -46323,9 +46323,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/dd/HamakazeSchoolChibi.png",
 				"info": {
-					"eNClient": "The Honors Student",
-					"cNClient": "模范优等生",
-					"jPClient": "ザ・優等生",
+					"lENClient": "The Honors Student",
+					"lCNClient": "模范优等生",
+					"lJPClient": "ザ・優等生",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -46779,9 +46779,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a4/TanikazeLostChibi.png",
 				"info": {
-					"eNClient": "Lost Girl and Labyrinth Butterfly",
-					"cNClient": "海边的迷路少女",
-					"jPClient": "はぐれ少女と迷路蝶",
+					"lENClient": "Lost Girl and Labyrinth Butterfly",
+					"lCNClient": "海边的迷路少女",
+					"lJPClient": "はぐれ少女と迷路蝶",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -47003,9 +47003,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/23/MikasaSchoolChibi.png",
 				"info": {
-					"eNClient": "Style of the Sakura Capital",
-					"cNClient": "樱都之风",
-					"jPClient": "桜都の風",
+					"lENClient": "Style of the Sakura Capital",
+					"lCNClient": "樱都之风",
+					"lJPClient": "桜都の風",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -47017,9 +47017,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/a/a8/Skin_BG_113.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e9/MikasaNew_YearChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "赏樱日和",
-					"jPClient": "花見日和",
+					"lENClient": "skin unavailable",
+					"lCNClient": "赏樱日和",
+					"lJPClient": "花見日和",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -47239,9 +47239,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5c/AganoChristmasChibi.png",
 				"info": {
-					"eNClient": "Christmas Eve Tease",
-					"cNClient": "圣夜的小小捉弄",
-					"jPClient": "聖夜のカラカイ",
+					"lENClient": "Christmas Eve Tease",
+					"lCNClient": "圣夜的小小捉弄",
+					"lJPClient": "聖夜のカラカイ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -47461,9 +47461,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/22/NoshiroNew_YearChibi.png",
 				"info": {
-					"eNClient": "Uncharted Festival Grounds?",
-					"cNClient": "祭典的秘境?",
-					"jPClient": "祭りの秘境？",
+					"lENClient": "Uncharted Festival Grounds?",
+					"lCNClient": "祭典的秘境?",
+					"lJPClient": "祭りの秘境？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -47680,9 +47680,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/a/a8/Skin_BG_113.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d5/MatchlessCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "护花使者？",
-					"jPClient": "エスコートしてくださーい！",
+					"lENClient": "skin unavailable",
+					"lCNClient": "护花使者？",
+					"lJPClient": "エスコートしてくださーい！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -48092,9 +48092,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/65/FijiCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "时尚风情？",
-					"jPClient": "ファッションスタイル？",
+					"lENClient": "skin unavailable",
+					"lCNClient": "时尚风情？",
+					"lJPClient": "ファッションスタイル？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -48304,9 +48304,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/34/JamaicaCasualChibi.png",
 				"info": {
-					"eNClient": "Dark Bolt",
-					"cNClient": "地下行者",
-					"jPClient": "Dark Bolt",
+					"lENClient": "Dark Bolt",
+					"lCNClient": "地下行者",
+					"lJPClient": "Dark Bolt",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -48318,9 +48318,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f5/JamaicaCasual2Chibi.png",
 				"info": {
-					"eNClient": "Highway Star",
-					"cNClient": "Highway·Star",
-					"jPClient": "ハイウェイ・スター",
+					"lENClient": "Highway Star",
+					"lCNClient": "Highway·Star",
+					"lJPClient": "ハイウェイ・スター",
 					"obtainedFrom": "Highway Star  Event Questline",
 					"live2DModel": "No"
 				}
@@ -48543,9 +48543,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/40/MontpelierNew_YearChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "雪夜之花",
-					"jPClient": "雪夜の華",
+					"lENClient": "skin unavailable",
+					"lCNClient": "雪夜之花",
+					"lJPClient": "雪夜の華",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -48969,9 +48969,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4c/AsashioSchoolChibi.png",
 				"info": {
-					"eNClient": "The Transfer Student Underneath the Dancing Petals",
-					"cNClient": "樱花下的转校生",
-					"jPClient": "花舞う季節の転校生",
+					"lENClient": "The Transfer Student Underneath the Dancing Petals",
+					"lCNClient": "樱花下的转校生",
+					"lJPClient": "花舞う季節の転校生",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -49178,9 +49178,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/71/OoshioChristmasChibi.png",
 				"info": {
-					"eNClient": "The Reindeer's Present",
-					"cNClient": "驯鹿与圣诞礼物",
-					"jPClient": "トナカイさんの土産や～♪",
+					"lENClient": "The Reindeer's Present",
+					"lCNClient": "驯鹿与圣诞礼物",
+					"lJPClient": "トナカイさんの土産や～♪",
 					"obtainedFrom": "Operation: Christmas  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -49191,9 +49191,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/68/OoshioPartyChibi.png",
 				"info": {
-					"eNClient": "Woozy Party",
-					"cNClient": "夜宴微醺",
-					"jPClient": "ほろ酔いパーティー",
+					"lENClient": "Woozy Party",
+					"lCNClient": "夜宴微醺",
+					"lJPClient": "ほろ酔いパーティー",
 					"obtainedFrom": "Woozy Party  - Complete the event tasks",
 					"live2DModel": "No"
 				}
@@ -49978,9 +49978,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/37/AbercrombieHalloweenChibi.png",
 				"info": {
-					"eNClient": "Pumpkin Blast!",
-					"cNClient": "惊叫南瓜！",
-					"jPClient": "ドッキリカボチャ！",
+					"lENClient": "Pumpkin Blast!",
+					"lCNClient": "惊叫南瓜！",
+					"lJPClient": "ドッキリカボチャ！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -50194,9 +50194,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6a/SussexSummerChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "艳阳与郁金香",
-					"jPClient": "太陽とチューリップ",
+					"lENClient": "skin unavailable",
+					"lCNClient": "艳阳与郁金香",
+					"lJPClient": "太陽とチューリップ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -50615,9 +50615,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/12/I-19KidsChibi.png",
 				"info": {
-					"eNClient": "Departure's Gentle Breeze",
-					"cNClient": "skin unavailable",
-					"jPClient": "旅立ちのそよ風",
+					"lENClient": "Departure's Gentle Breeze",
+					"lCNClient": "skin unavailable",
+					"lJPClient": "旅立ちのそよ風",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -51044,9 +51044,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7b/I-26KidsChibi.png",
 				"info": {
-					"eNClient": "Deep-Sea Rabbit",
-					"cNClient": "skin unavailable",
-					"jPClient": "ウサギと深海魚",
+					"lENClient": "Deep-Sea Rabbit",
+					"lCNClient": "skin unavailable",
+					"lJPClient": "ウサギと深海魚",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -51058,9 +51058,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0c/I-26FestivalChibi.png",
 				"info": {
-					"eNClient": "Shortly Before the Fireworks",
-					"cNClient": "烟火大会前",
-					"jPClient": "花火見物の前に",
+					"lENClient": "Shortly Before the Fireworks",
+					"lCNClient": "烟火大会前",
+					"lJPClient": "花火見物の前に",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -51885,9 +51885,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/52/U-81PartyChibi.png",
 				"info": {
-					"eNClient": "Soft Serenade",
-					"cNClient": "静谧小夜曲",
-					"jPClient": "静謐なセレナーデ",
+					"lENClient": "Soft Serenade",
+					"lCNClient": "静谧小夜曲",
+					"lJPClient": "静謐なセレナーデ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -52719,9 +52719,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/68/U-47BikeChibi.png",
 				"info": {
-					"eNClient": "Rookie Rider",
-					"cNClient": "新晋骑行达人？",
-					"jPClient": "ビギナーライダー",
+					"lENClient": "Rookie Rider",
+					"lCNClient": "新晋骑行达人？",
+					"lJPClient": "ビギナーライダー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -52733,9 +52733,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/05/U-47PartyChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "静谧一隅",
-					"jPClient": "Eigenen Raum",
+					"lENClient": "skin unavailable",
+					"lCNClient": "静谧一隅",
+					"lJPClient": "Eigenen Raum",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -53355,9 +53355,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/85/Z35New_YearChibi.png",
 				"info": {
-					"eNClient": "Projekt Kirschblüte",
-					"cNClient": "projekt Kirschblüte",
-					"jPClient": "projekt Kirschblüte",
+					"lENClient": "Projekt Kirschblüte",
+					"lCNClient": "projekt Kirschblüte",
+					"lJPClient": "projekt Kirschblüte",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -54217,9 +54217,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/69/ForbinSummerChibi.png",
 				"info": {
-					"eNClient": "Fleur Blanche",
-					"cNClient": "纯白花语",
-					"jPClient": "フルール・ド・ブラン",
+					"lENClient": "Fleur Blanche",
+					"lCNClient": "纯白花语",
+					"lJPClient": "フルール・ド・ブラン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -54231,9 +54231,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8d/ForbinSchoolChibi.png",
 				"info": {
-					"eNClient": "École de Chevalier",
-					"cNClient": "学园的见习骑士",
-					"jPClient": "エコール・ド・シュヴァリエ",
+					"lENClient": "École de Chevalier",
+					"lCNClient": "学园的见习骑士",
+					"lJPClient": "エコール・ド・シュヴァリエ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -54719,9 +54719,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b4/Emile_BertinSummerChibi.png",
 				"info": {
-					"eNClient": "Côte d'Azur",
-					"cNClient": "Côte d'Azur",
-					"jPClient": "Côte d'Azur",
+					"lENClient": "Côte d'Azur",
+					"lCNClient": "Côte d'Azur",
+					"lJPClient": "Côte d'Azur",
 					"obtainedFrom": "Iris of Light and Dark   Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -55143,9 +55143,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/41/SurcoufCasualChibi.png",
 				"info": {
-					"eNClient": "Shopping Time!",
-					"cNClient": "购物时光！",
-					"jPClient": "ショッピングデイズ",
+					"lENClient": "Shopping Time!",
+					"lCNClient": "购物时光！",
+					"lJPClient": "ショッピングデイズ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -55598,9 +55598,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/ab/Le_MarsSummerChibi.png",
 				"info": {
-					"eNClient": "Été Brillant",
-					"cNClient": "闪耀的夏天",
-					"jPClient": "エテ・ブリリアント",
+					"lENClient": "Été Brillant",
+					"lCNClient": "闪耀的夏天",
+					"lJPClient": "エテ・ブリリアント",
 					"obtainedFrom": "Iris of Light and Dark  - 8000  Oil Usage Milestone reward",
 					"live2DModel": "No"
 				}
@@ -55611,9 +55611,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/71/Le_MarsSchoolChibi.png",
 				"info": {
-					"eNClient": "Écolière Heureuse",
-					"cNClient": "闪耀的幸福学园",
-					"jPClient": "スコレア・ウルーズ",
+					"lENClient": "Écolière Heureuse",
+					"lCNClient": "闪耀的幸福学园",
+					"lJPClient": "スコレア・ウルーズ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -55823,9 +55823,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1c/DunkerqueSummerChibi.png",
 				"info": {
-					"eNClient": "Summer Sucré",
-					"cNClient": "“甜蜜”夏日",
-					"jPClient": "夏のスュクレ",
+					"lENClient": "Summer Sucré",
+					"lCNClient": "“甜蜜”夏日",
+					"lJPClient": "夏のスュクレ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -55837,9 +55837,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/09/Skin_BG_116.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/36/DunkerqueCasualChibi.png",
 				"info": {
-					"eNClient": "Afternoon Venus",
-					"cNClient": "午后三时的Venus",
-					"jPClient": "昼下がりのヴィーニュス",
+					"lENClient": "Afternoon Venus",
+					"lCNClient": "午后三时的Venus",
+					"lJPClient": "昼下がりのヴィーニュス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -56456,9 +56456,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2f/BushCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "小小画家",
-					"jPClient": "リトルペインター",
+					"lENClient": "skin unavailable",
+					"lCNClient": "小小画家",
+					"lJPClient": "リトルペインター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -56664,9 +56664,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/07/CentaurSummerChibi.png",
 				"info": {
-					"eNClient": "Beachside Undine",
-					"cNClient": "沙滨的水之精灵",
-					"jPClient": "砂浜のウンディーネ",
+					"lENClient": "Beachside Undine",
+					"lCNClient": "沙滨的水之精灵",
+					"lJPClient": "砂浜のウンディーネ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -56678,9 +56678,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/CentaurSpringChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "清冽的春风",
-					"jPClient": "清冽な春風",
+					"lENClient": "skin unavailable",
+					"lCNClient": "清冽的春风",
+					"lJPClient": "清冽な春風",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -56907,9 +56907,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c5/EssexCasualChibi.png",
 				"info": {
-					"eNClient": "A Trip Down Route 66",
-					"cNClient": "66号公路之旅",
-					"jPClient": "ルート66の旅",
+					"lENClient": "A Trip Down Route 66",
+					"lCNClient": "66号公路之旅",
+					"lJPClient": "ルート66の旅",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -57734,9 +57734,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fd/MemphisCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "海风之旅",
-					"jPClient": "カジュアルバケーション",
+					"lENClient": "skin unavailable",
+					"lCNClient": "海风之旅",
+					"lJPClient": "カジュアルバケーション",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -57748,9 +57748,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/47/MemphisHalloweenChibi.png",
 				"info": {
-					"eNClient": "Mystical Night",
-					"cNClient": "Mystical Night",
-					"jPClient": "ミスティックナイト",
+					"lENClient": "Mystical Night",
+					"lCNClient": "Mystical Night",
+					"lJPClient": "ミスティックナイト",
 					"obtainedFrom": "Halloween Chaos  - Complete all \"Halloween Chaos\" tasks",
 					"live2DModel": "No"
 				}
@@ -58227,9 +58227,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/26/NewcastleFlowerChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "木槿风情",
-					"jPClient": "むくげげいしょう",
+					"lENClient": "skin unavailable",
+					"lCNClient": "木槿风情",
+					"lJPClient": "むくげげいしょう",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -58436,9 +58436,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4a/HobbySchoolChibi.png",
 				"info": {
-					"eNClient": "Little Idol Schoolgirl",
-					"cNClient": "小小学园偶像",
-					"jPClient": "リトルスクールスター",
+					"lENClient": "Little Idol Schoolgirl",
+					"lCNClient": "小小学园偶像",
+					"lJPClient": "リトルスクールスター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -58645,9 +58645,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c4/KalkSchoolChibi.png",
 				"info": {
-					"eNClient": "Snow Fairy Schoolgirl",
-					"cNClient": "学园的雪之妖精",
-					"jPClient": "学園の雪妖精",
+					"lENClient": "Snow Fairy Schoolgirl",
+					"lCNClient": "学园的雪之妖精",
+					"lJPClient": "学園の雪妖精",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -58870,9 +58870,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/40/MinneapolisSchoolChibi.png",
 				"info": {
-					"eNClient": "Wild Huntress Schoolgirl",
-					"cNClient": "野性派学生",
-					"jPClient": "ワイルドステューデント",
+					"lENClient": "Wild Huntress Schoolgirl",
+					"lCNClient": "野性派学生",
+					"lJPClient": "ワイルドステューデント",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -59277,9 +59277,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/63/ConcordFestivalChibi.png",
 				"info": {
-					"eNClient": "Red Apple Candy",
-					"cNClient": "红色苹果糖",
-					"jPClient": "スウィーティーアップル",
+					"lENClient": "Red Apple Candy",
+					"lCNClient": "红色苹果糖",
+					"lJPClient": "スウィーティーアップル",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -59291,9 +59291,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/eb/ConcordChristmasChibi.png",
 				"info": {
-					"eNClient": "Sweet☆Christmas",
-					"cNClient": "圣诞☆糖分天国",
-					"jPClient": "スウィーティークリスマス",
+					"lENClient": "Sweet☆Christmas",
+					"lCNClient": "圣诞☆糖分天国",
+					"lJPClient": "スウィーティークリスマス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -60356,9 +60356,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/78/SiriusPartyChibi.png",
 				"info": {
-					"eNClient": "White Rose",
-					"cNClient": "纯白蔷薇",
-					"jPClient": "ホワイトローズ",
+					"lENClient": "White Rose",
+					"lCNClient": "纯白蔷薇",
+					"lJPClient": "ホワイトローズ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -60370,9 +60370,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/20/SiriusSummerChibi.png",
 				"info": {
-					"eNClient": "Midsummer Seirios",
-					"cNClient": "盛夏的Seirios",
-					"jPClient": "盛夏のセイリオス",
+					"lENClient": "Midsummer Seirios",
+					"lCNClient": "盛夏的Seirios",
+					"lJPClient": "盛夏のセイリオス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -60838,9 +60838,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/CuracoaSpringChibi.png",
 				"info": {
-					"eNClient": "Eastern Grace",
-					"cNClient": "东煌之雅",
-					"jPClient": "東国の艶彩",
+					"lENClient": "Eastern Grace",
+					"lCNClient": "东煌之雅",
+					"lJPClient": "東国の艶彩",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -61305,9 +61305,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/58/CurlewSpringChibi.png",
 				"info": {
-					"eNClient": "Rhythm of the Dragon Empery",
-					"cNClient": "东煌之韵",
-					"jPClient": "東国の清麗",
+					"lENClient": "Rhythm of the Dragon Empery",
+					"lCNClient": "东煌之韵",
+					"lJPClient": "東国の清麗",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -61517,9 +61517,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/47/KimberlySpringChibi.png",
 				"info": {
-					"eNClient": "Style of the East",
-					"cNClient": "东煌之风",
-					"jPClient": "安陽の異文化勉強",
+					"lENClient": "Style of the East",
+					"lCNClient": "东煌之风",
+					"lJPClient": "安陽の異文化勉強",
 					"obtainedFrom": "Lunar New Year 2019  - Complete 10 laps in the board game",
 					"live2DModel": "No"
 				}
@@ -61728,9 +61728,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f3/MullanySpringChibi.png",
 				"info": {
-					"eNClient": "Eastern Etiquette",
-					"cNClient": "东煌之仪",
-					"jPClient": "慶陽の手料理特訓",
+					"lENClient": "Eastern Etiquette",
+					"lCNClient": "东煌之仪",
+					"lJPClient": "慶陽の手料理特訓",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -61940,9 +61940,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/aa/ChaserSpringChibi.png",
 				"info": {
-					"eNClient": "The Way of the Dragon Empery",
-					"cNClient": "东煌之道",
-					"jPClient": "東煌見聞録",
+					"lENClient": "The Way of the Dragon Empery",
+					"lCNClient": "东煌之道",
+					"lJPClient": "東煌見聞録",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -61954,9 +61954,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b3/ChaserCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "Gamer Style",
-					"jPClient": "ゲーマースタイル",
+					"lENClient": "skin unavailable",
+					"lCNClient": "Gamer Style",
+					"lJPClient": "ゲーマースタイル",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -62172,9 +62172,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/IndependenceSchoolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "远道而来的转校生",
-					"jPClient": "此方の学園へ",
+					"lENClient": "skin unavailable",
+					"lCNClient": "远道而来的转校生",
+					"lJPClient": "此方の学園へ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -62386,9 +62386,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/d/d7/Skin_BG_110.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2f/Shangri-LaCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "乐园的收藏家",
-					"jPClient": "ユートピアの蒐集家",
+					"lENClient": "skin unavailable",
+					"lCNClient": "乐园的收藏家",
+					"lJPClient": "ユートピアの蒐集家",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -64411,9 +64411,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7a/U-556PartyChibi.png",
 				"info": {
-					"eNClient": "Party Knight!",
-					"cNClient": "嬉闹之夜！",
-					"jPClient": "ハッピーナイト",
+					"lENClient": "Party Knight!",
+					"lCNClient": "嬉闹之夜！",
+					"lJPClient": "ハッピーナイト",
 					"obtainedFrom": "Scherzo of Iron and Blood  -  15,000",
 					"live2DModel": "No"
 				}
@@ -64831,9 +64831,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4a/U-73SchoolChibi.png",
 				"info": {
-					"eNClient": "Science Rules!",
-					"cNClient": "理科实验时间！",
-					"jPClient": "理科実験タイム！",
+					"lENClient": "Science Rules!",
+					"lCNClient": "理科实验时间！",
+					"lJPClient": "理科実験タイム！",
 					"obtainedFrom": "Science Rules!  - Complete the event tasks.",
 					"live2DModel": "No"
 				}
@@ -66028,9 +66028,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f5/SwiftsureSchoolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "自习室的Cyclamen",
-					"jPClient": "自習室のシクラメン",
+					"lENClient": "skin unavailable",
+					"lCNClient": "自习室的Cyclamen",
+					"lJPClient": "自習室のシクラメン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -66250,9 +66250,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/Le_MalinCasualChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "懒懒的星期天",
-					"jPClient": "ぐーだらディマンシュ",
+					"lENClient": "skin unavailable",
+					"lCNClient": "懒懒的星期天",
+					"lJPClient": "ぐーだらディマンシュ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -66469,9 +66469,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/L%27Opini%C3%A2treSummerChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "沙滩上的魔法使(?)",
-					"jPClient": "マホウツカイの夏",
+					"lENClient": "skin unavailable",
+					"lCNClient": "沙滩上的魔法使(?)",
+					"lJPClient": "マホウツカイの夏",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -66898,9 +66898,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f0/I-25SchoolChibi.png",
 				"info": {
-					"eNClient": "Coral Reef Bunny",
-					"cNClient": "兔兔与珊瑚礁",
-					"jPClient": "ウサギとサンゴ礁",
+					"lENClient": "Coral Reef Bunny",
+					"lCNClient": "兔兔与珊瑚礁",
+					"lJPClient": "ウサギとサンゴ礁",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -67319,9 +67319,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2b/I-56SchoolChibi.png",
 				"info": {
-					"eNClient": "Wallflower in the Corner",
-					"cNClient": "角落的向日葵",
-					"jPClient": "隅っコのひまわり",
+					"lENClient": "Wallflower in the Corner",
+					"lCNClient": "角落的向日葵",
+					"lJPClient": "隅っコのひまわり",
 					"obtainedFrom": "Wallflower in the Corner  Event Questline",
 					"live2DModel": "No"
 				}
@@ -67742,9 +67742,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d4/I-168FestivalChibi.png",
 				"info": {
-					"eNClient": "Festive Mood!",
-					"cNClient": "祭典之日！",
-					"jPClient": "今日はお祭り気分！",
+					"lENClient": "Festive Mood!",
+					"lCNClient": "祭典之日！",
+					"lJPClient": "今日はお祭り気分！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -68166,9 +68166,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/19/U-101SchoolChibi.png",
 				"info": {
-					"eNClient": "Ironbrass Trombonist",
-					"cNClient": "学园的Posaunist",
-					"jPClient": "学園のPosaunist",
+					"lENClient": "Ironbrass Trombonist",
+					"lCNClient": "学园的Posaunist",
+					"lJPClient": "学園のPosaunist",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -69202,9 +69202,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e6/CavallaSchoolChibi.png",
 				"info": {
-					"eNClient": "Convenience Store Raid!",
-					"cNClient": "便利店大作战！",
-					"jPClient": "コンビニ作戦！",
+					"lENClient": "Convenience Store Raid!",
+					"lCNClient": "便利店大作战！",
+					"lJPClient": "コンビニ作戦！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -69416,9 +69416,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/27/BataanSleepyChibi.png",
 				"info": {
-					"eNClient": "Comfy Cotton Jammies",
-					"cNClient": "软绵绵睡衣",
-					"jPClient": "ふわふわパジャマ",
+					"lENClient": "Comfy Cotton Jammies",
+					"lCNClient": "软绵绵睡衣",
+					"lJPClient": "ふわふわパジャマ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -69827,9 +69827,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6d/BirminghamCasualChibi.png",
 				"info": {
-					"eNClient": "Rider of Red",
-					"cNClient": "赤色的骑行者",
-					"jPClient": "ナイト・イン・レッド",
+					"lENClient": "Rider of Red",
+					"lCNClient": "赤色的骑行者",
+					"lJPClient": "ナイト・イン・レッド",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -70041,9 +70041,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/AylwinCasualChibi.png",
 				"info": {
-					"eNClient": "Sunday Aquarium Visit",
-					"cNClient": "星期天的水族馆",
-					"jPClient": "サンデー・アクアリウム",
+					"lENClient": "Sunday Aquarium Visit",
+					"lCNClient": "星期天的水族馆",
+					"lJPClient": "サンデー・アクアリウム",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -70253,9 +70253,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/be/BacheCasualChibi.png",
 				"info": {
-					"eNClient": "Gorgeous Speed-star",
-					"cNClient": "华丽的速度之星",
-					"jPClient": "華麗なるスピードスター",
+					"lENClient": "Gorgeous Speed-star",
+					"lCNClient": "华丽的速度之星",
+					"lJPClient": "華麗なるスピードスター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -70475,9 +70475,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/24/Black_PrinceSummerChibi.png",
 				"info": {
-					"eNClient": "White Princess",
-					"cNClient": "White Princess",
-					"jPClient": "ホワイトプリンセス",
+					"lENClient": "White Princess",
+					"lCNClient": "White Princess",
+					"lJPClient": "ホワイトプリンセス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -70890,9 +70890,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7d/LittorioSummerChibi.png",
 				"info": {
-					"eNClient": "The Glory of Naples",
-					"cNClient": "那不勒斯之光",
-					"jPClient": "ナポリに輝け",
+					"lENClient": "The Glory of Naples",
+					"lCNClient": "那不勒斯之光",
+					"lJPClient": "ナポリに輝け",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -71298,9 +71298,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a6/Giulio_CesareCasualChibi.png",
 				"info": {
-					"eNClient": "Fitness Master",
-					"cNClient": "锻炼达人？",
-					"jPClient": "フィットネスマスター",
+					"lENClient": "Fitness Master",
+					"lCNClient": "锻炼达人？",
+					"lJPClient": "フィットネスマスター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -71528,9 +71528,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/6e/Skin_BG_117.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/39/ZaraSummerChibi.png",
 				"info": {
-					"eNClient": "Poolside Coincidence",
-					"cNClient": "泳池边的“偶遇”",
-					"jPClient": "水辺の出逢い",
+					"lENClient": "Poolside Coincidence",
+					"lCNClient": "泳池边的“偶遇”",
+					"lJPClient": "水辺の出逢い",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -71732,9 +71732,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/TrentoSummerChibi.png",
 				"info": {
-					"eNClient": "Summer's Hotness?",
-					"cNClient": "盛夏的多重诱惑？",
-					"jPClient": "マルチプル・テンプテーション",
+					"lENClient": "Summer's Hotness?",
+					"lCNClient": "盛夏的多重诱惑？",
+					"lJPClient": "マルチプル・テンプテーション",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -71954,9 +71954,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b5/CarabiniereCasualChibi.png",
 				"info": {
-					"eNClient": "Refreshing Sundress",
-					"cNClient": "清爽的夏日Choice",
-					"jPClient": "スッキリ日曜チョイス",
+					"lENClient": "Refreshing Sundress",
+					"lCNClient": "清爽的夏日Choice",
+					"lJPClient": "スッキリ日曜チョイス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -72378,9 +72378,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3b/U-110SchoolChibi.png",
 				"info": {
-					"eNClient": "Kleiner Hai",
-					"cNClient": "Kleiner Hai",
-					"jPClient": "Kleiner Hai",
+					"lENClient": "Kleiner Hai",
+					"lCNClient": "Kleiner Hai",
+					"lJPClient": "Kleiner Hai",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -72587,9 +72587,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b4/SmalleyHalloweenChibi.png",
 				"info": {
-					"eNClient": "Candy Courier",
-					"cNClient": "魔女快递",
-					"jPClient": "お菓子トランスレーター",
+					"lENClient": "Candy Courier",
+					"lCNClient": "魔女快递",
+					"lJPClient": "お菓子トランスレーター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -73758,9 +73758,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f5/GlasgowSchoolChibi.png",
 				"info": {
-					"eNClient": "A Maid in Class",
-					"cNClient": "女仆小姐是同级生",
-					"jPClient": "メイドさんは同級生",
+					"lENClient": "A Maid in Class",
+					"lCNClient": "女仆小姐是同级生",
+					"lJPClient": "メイドさんは同級生",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -73977,9 +73977,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6b/KasumiNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Comfort",
-					"cNClient": "新年暖洋洋",
-					"jPClient": "ぽかぽか正月",
+					"lENClient": "New Year's Comfort",
+					"lCNClient": "新年暖洋洋",
+					"lJPClient": "ぽかぽか正月",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -74192,9 +74192,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/85/SurugaNew_YearChibi.png",
 				"info": {
-					"eNClient": "Hundred Flowers' Auspice",
-					"cNClient": "百花庆云",
-					"jPClient": "百花の慶雲",
+					"lENClient": "Hundred Flowers' Auspice",
+					"lCNClient": "百花庆云",
+					"lJPClient": "百花の慶雲",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -74400,9 +74400,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/39/RyuuhouNew_YearChibi.png",
 				"info": {
-					"eNClient": "Firebird's New Year Dance",
-					"cNClient": "凤舞新年",
-					"jPClient": "鳳舞う正月",
+					"lENClient": "Firebird's New Year Dance",
+					"lCNClient": "凤舞新年",
+					"lJPClient": "鳳舞う正月",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -75103,9 +75103,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/DeweySummerChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "夏日憧憬",
-					"jPClient": "夏に憧れ",
+					"lENClient": "skin unavailable",
+					"lCNClient": "夏日憧憬",
+					"lJPClient": "夏に憧れ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -75117,9 +75117,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2f/DeweyChristmasChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "冬夜的感谢",
-					"jPClient": "冬に感謝",
+					"lENClient": "skin unavailable",
+					"lCNClient": "冬夜的感谢",
+					"lJPClient": "冬に感謝",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -76234,9 +76234,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/22/GridleyChristmasChibi.png",
 				"info": {
-					"eNClient": "Christmas Photoshoot",
-					"cNClient": "圣诞摄影会！",
-					"jPClient": "聖夜撮影会！",
+					"lENClient": "Christmas Photoshoot",
+					"lCNClient": "圣诞摄影会！",
+					"lJPClient": "聖夜撮影会！",
 					"obtainedFrom": "Christmas 2017  - Complete the \"Holy Night of Love and Peace\" questline",
 					"live2DModel": "No"
 				}
@@ -76445,9 +76445,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6f/CravenSchoolChibi.png",
 				"info": {
-					"eNClient": "Cheerleader On The Playground",
-					"cNClient": "操场边的拉拉队长",
-					"jPClient": "場外のチアリーダー",
+					"lENClient": "Cheerleader On The Playground",
+					"lCNClient": "操场边的拉拉队长",
+					"lJPClient": "場外のチアリーダー",
 					"obtainedFrom": "School Term  - Complete the \"School Term\" questline",
 					"live2DModel": "No"
 				}
@@ -78733,9 +78733,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/70/LaffeyWeddingChibi.png",
 				"info": {
-					"eNClient": "White Rabbit's Oath",
-					"cNClient": "白兔与誓约",
-					"jPClient": "ウサウサブライド",
+					"lENClient": "White Rabbit's Oath",
+					"lCNClient": "白兔与誓约",
+					"lJPClient": "ウサウサブライド",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -78746,9 +78746,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/40/LaffeyBilibiliChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "33娘",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "33娘",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Bilibili 8th Anniversary  Event Shop",
 					"cost": "300",
 					"live2DModel": "No"
@@ -78760,9 +78760,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a9/LaffeyNew_YearChibi.png",
 				"info": {
-					"eNClient": "Snow Rabbit and Candy Apple",
-					"cNClient": "雪兔与苹果糖",
-					"jPClient": "雪うさぎとりんご飴",
+					"lENClient": "Snow Rabbit and Candy Apple",
+					"lCNClient": "雪兔与苹果糖",
+					"lJPClient": "雪うさぎとりんご飴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "680",
 					"live2DModel": "No"
@@ -78774,9 +78774,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/00/LaffeySpringChibi.png",
 				"info": {
-					"eNClient": "White Rabbit Welcomes the Spring",
-					"cNClient": "白兔迎春",
-					"jPClient": "春待ちウサギ",
+					"lENClient": "White Rabbit Welcomes the Spring",
+					"lCNClient": "白兔迎春",
+					"lJPClient": "春待ちウサギ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -78788,9 +78788,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3a/LaffeyCoCoChibi.png",
 				"info": {
-					"eNClient": "Bunny Clerk?",
-					"cNClient": "兔兔店员？",
-					"jPClient": "ウサウサ店員さん",
+					"lENClient": "Bunny Clerk?",
+					"lCNClient": "兔兔店员？",
+					"lJPClient": "ウサウサ店員さん",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -78802,9 +78802,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/LaffeyIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "兔兔偶像·提不起劲",
-					"jPClient": "ウサウサアイドル・てきとー",
+					"lENClient": "skin unavailable",
+					"lCNClient": "兔兔偶像·提不起劲",
+					"lJPClient": "ウサウサアイドル・てきとー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -79716,9 +79716,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/68/HammannSummerChibi.png",
 				"info": {
-					"eNClient": "Rebellious Summer",
-					"cNClient": "skin unavailable",
-					"jPClient": "ひねくれサマー",
+					"lENClient": "Rebellious Summer",
+					"lCNClient": "skin unavailable",
+					"lJPClient": "ひねくれサマー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -79938,9 +79938,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/21/EldridgeChristmasChibi.png",
 				"info": {
-					"eNClient": "Holy Night's Embrace",
-					"cNClient": "圣夜的拥抱",
-					"jPClient": "聖夜のだっこ",
+					"lENClient": "Holy Night's Embrace",
+					"lCNClient": "圣夜的拥抱",
+					"lJPClient": "聖夜のだっこ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -79952,9 +79952,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/EldridgeSchoolChibi.png",
 				"info": {
-					"eNClient": "The Inquisitive Recluse",
-					"cNClient": "空教室的不可思议",
-					"jPClient": "空き教室の不思議",
+					"lENClient": "The Inquisitive Recluse",
+					"lCNClient": "空教室的不可思议",
+					"lJPClient": "空き教室の不思議",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -79966,9 +79966,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d9/EldridgeNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Outing",
-					"cNClient": "正月的牵手",
-					"jPClient": "正月のおてて",
+					"lENClient": "New Year's Outing",
+					"lCNClient": "正月的牵手",
+					"lJPClient": "正月のおてて",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -79980,9 +79980,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/30/EldridgeIdolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "喵喵偶像团？",
-					"jPClient": "ニャンニャンアイドル？",
+					"lENClient": "skin unavailable",
+					"lCNClient": "喵喵偶像团？",
+					"lJPClient": "ニャンニャンアイドル？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1100",
 					"live2DModel": "Yes"
@@ -80985,9 +80985,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d9/HelenaNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Bluebird",
-					"cNClient": "正月与青鸟",
-					"jPClient": "青い鳥の正月",
+					"lENClient": "New Year's Bluebird",
+					"lCNClient": "正月与青鸟",
+					"lJPClient": "青い鳥の正月",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -80999,9 +80999,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4a/HelenaPartyChibi.png",
 				"info": {
-					"eNClient": "May I Have this Dance?",
-					"cNClient": "与君共舞",
-					"jPClient": "君と踊りを",
+					"lENClient": "May I Have this Dance?",
+					"lCNClient": "与君共舞",
+					"lJPClient": "君と踊りを",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -81912,9 +81912,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b6/San_DiegoChristmasChibi.png",
 				"info": {
-					"eNClient": "Sandy Claus",
-					"cNClient": "圣诞亚哥！",
-					"jPClient": "メリクリディエゴ！",
+					"lENClient": "Sandy Claus",
+					"lCNClient": "圣诞亚哥！",
+					"lJPClient": "メリクリディエゴ！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "680",
 					"live2DModel": "No"
@@ -82154,9 +82154,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d3/ClevelandWeddingChibi.png",
 				"info": {
-					"eNClient": "Heartfelt Moment",
-					"cNClient": "心动一刻",
-					"jPClient": "ときめきモメント",
+					"lENClient": "Heartfelt Moment",
+					"lCNClient": "心动一刻",
+					"lJPClient": "ときめきモメント",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -82167,9 +82167,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bc/ClevelandHalloweenChibi.png",
 				"info": {
-					"eNClient": "Reaper Fever",
-					"cNClient": "恶魔降临之夜",
-					"jPClient": "デビルフィーバー",
+					"lENClient": "Reaper Fever",
+					"lCNClient": "恶魔降临之夜",
+					"lJPClient": "デビルフィーバー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -82181,9 +82181,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5c/ClevelandPartyChibi.png",
 				"info": {
-					"eNClient": "Gentry Knight",
-					"cNClient": "骑士之夜",
-					"jPClient": "ジェントリーナイト",
+					"lENClient": "Gentry Knight",
+					"lCNClient": "骑士之夜",
+					"lJPClient": "ジェントリーナイト",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2DModel": "Yes"
@@ -82195,9 +82195,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e1/ClevelandRoadtripChibi.png",
 				"info": {
-					"eNClient": "Road Trip!",
-					"cNClient": "Road·Traveler",
-					"jPClient": "ロード・トラベラー",
+					"lENClient": "Road Trip!",
+					"lCNClient": "Road·Traveler",
+					"lJPClient": "ロード・トラベラー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -82209,9 +82209,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f4/ClevelandNew_YearChibi.png",
 				"info": {
-					"eNClient": "New Year's Challenge!",
-					"cNClient": "新年对决！",
-					"jPClient": "お正月バーサス！",
+					"lENClient": "New Year's Challenge!",
+					"lCNClient": "新年对决！",
+					"lJPClient": "お正月バーサス！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -83889,9 +83889,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/dd/PortlandSchoolChibi.png",
 				"info": {
-					"eNClient": "At School With Indy!",
-					"cNClient": "与印第一起的校园生活",
-					"jPClient": "学園でインディちゃんと！",
+					"lENClient": "At School With Indy!",
+					"lCNClient": "与印第一起的校园生活",
+					"lJPClient": "学園でインディちゃんと！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -84119,9 +84119,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/81/IndianapolisSchoolChibi.png",
 				"info": {
-					"eNClient": "At School With My Sister...",
-					"cNClient": "与姐姐一起的校园生活？",
-					"jPClient": "学園でお姉ちゃんと……",
+					"lENClient": "At School With My Sister...",
+					"lCNClient": "与姐姐一起的校园生活？",
+					"lJPClient": "学園でお姉ちゃんと……",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -84349,9 +84349,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c1/AstoriaSchoolChibi.png",
 				"info": {
-					"eNClient": "Pure \"Gurl?\"",
-					"cNClient": "清纯系辣妹？",
-					"jPClient": "純情ギャル？",
+					"lENClient": "Pure \"Gurl?\"",
+					"lCNClient": "清纯系辣妹？",
+					"lJPClient": "純情ギャル？",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -84579,9 +84579,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/cf/QuincySummerChibi.png",
 				"info": {
-					"eNClient": "Sizzling Summer, Brisk Breeze",
-					"cNClient": "炎夏凉风",
-					"jPClient": "サマー・ブリーズ",
+					"lENClient": "Sizzling Summer, Brisk Breeze",
+					"lCNClient": "炎夏凉风",
+					"lJPClient": "サマー・ブリーズ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -84809,9 +84809,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/08/VincennesSleepyChibi.png",
 				"info": {
-					"eNClient": "Sweet Dreams",
-					"cNClient": "喵喵的美梦",
-					"jPClient": "スイートドリーム",
+					"lENClient": "Sweet Dreams",
+					"lCNClient": "喵喵的美梦",
+					"lJPClient": "スイートドリーム",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -84823,9 +84823,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/VincennesSchoolChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "悠哉进行曲",
-					"jPClient": "イージースクール",
+					"lENClient": "skin unavailable",
+					"lCNClient": "悠哉进行曲",
+					"lJPClient": "イージースクール",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -85261,9 +85261,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/84/BaltimoreSchoolChibi.png",
 				"info": {
-					"eNClient": "After-School Ace",
-					"cNClient": "放学后的ACE",
-					"jPClient": "エースの放課後",
+					"lENClient": "After-School Ace",
+					"lCNClient": "放学后的ACE",
+					"lJPClient": "エースの放課後",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -87094,9 +87094,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d1/ColoradoOriginalChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "科罗拉多",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "科罗拉多",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Unobtainable",
 					"live2DModel": "No"
 				}
@@ -87302,9 +87302,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/69/MarylandOriginalChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "马里兰",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "马里兰",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Unobtainable",
 					"live2DModel": "No"
 				}
@@ -87500,9 +87500,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/13/West_VirginiaOriginalChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "西弗吉尼亚",
-					"jPClient": "skin unavailable",
+					"lENClient": "skin unavailable",
+					"lCNClient": "西弗吉尼亚",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Unobtainable",
 					"live2DModel": "No"
 				}
@@ -88134,9 +88134,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/83/South_DakotaPartyChibi.png",
 				"info": {
-					"eNClient": "Solo Concert",
-					"cNClient": "剧场上的独奏",
-					"jPClient": "ソロコンサート",
+					"lENClient": "Solo Concert",
+					"lCNClient": "剧场上的独奏",
+					"lJPClient": "ソロコンサート",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -88583,9 +88583,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a5/Long_IslandBilibiliChibi.png",
 				"info": {
-					"eNClient": "Indoor Slacker",
-					"cNClient": "干物三连！",
-					"jPClient": "干物三連！",
+					"lENClient": "Indoor Slacker",
+					"lCNClient": "干物三连！",
+					"lJPClient": "干物三連！",
 					"obtainedFrom": "Long Island's Secretary Task  Reward",
 					"live2DModel": "No"
 				}
@@ -89681,9 +89681,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/LexingtonSpringChibi.png",
 				"info": {
-					"eNClient": "The Beauty of Spring",
-					"cNClient": "春华佳人",
-					"jPClient": "春華の歌",
+					"lENClient": "The Beauty of Spring",
+					"lCNClient": "春华佳人",
+					"lJPClient": "春華の歌",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -90163,9 +90163,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/00/SaratogaSummerChibi.png",
 				"info": {
-					"eNClient": "Seven Seas of Rest",
-					"cNClient": "七海的憩日",
-					"jPClient": "大洋の休日",
+					"lENClient": "Seven Seas of Rest",
+					"lCNClient": "七海的憩日",
+					"lJPClient": "大洋の休日",
 					"obtainedFrom": "Skin Shop",
 					"cost": "600",
 					"live2DModel": "No"
@@ -90177,9 +90177,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1f/SaratogaHanbokChibi.png",
 				"info": {
-					"eNClient": "Hibiscus-scented Idol",
-					"cNClient": "异国的偶像？",
-					"jPClient": "skin unavailable",
+					"lENClient": "Hibiscus-scented Idol",
+					"lCNClient": "异国的偶像？",
+					"lJPClient": "skin unavailable",
 					"obtainedFrom": "Hibiscus-scented Idol  Event Shop",
 					"cost": "300",
 					"live2DModel": "No"
@@ -90191,9 +90191,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0b/Skin_BG_210.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/15/SaratogaKizunaChibi.png",
 				"info": {
-					"eNClient": "Virtual Idol",
-					"cNClient": "虚拟偶像？",
-					"jPClient": "バーチャルアイドル",
+					"lENClient": "Virtual Idol",
+					"lCNClient": "虚拟偶像？",
+					"lJPClient": "バーチャルアイドル",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -90205,9 +90205,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2b/SaratogaEventChibi.png",
 				"info": {
-					"eNClient": "Superstar of the Blue Seas",
-					"cNClient": "碧海的偶像",
-					"jPClient": "青き海のチャリティーライブ",
+					"lENClient": "Superstar of the Blue Seas",
+					"lCNClient": "碧海的偶像",
+					"lJPClient": "青き海のチャリティーライブ",
 					"obtainedFrom": "Superstar of the Blue Seas  - 4000 Point Milestone",
 					"live2DModel": "No"
 				}
@@ -90886,9 +90886,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f4/YorktownPartyChibi.png",
 				"info": {
-					"eNClient": "Evening I Can't Remember",
-					"cNClient": "优雅与朦胧之夜",
-					"jPClient": "優雅と微酔の夜",
+					"lENClient": "Evening I Can't Remember",
+					"lCNClient": "优雅与朦胧之夜",
+					"lJPClient": "優雅と微酔の夜",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -91127,9 +91127,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/64/EnterpriseWeddingChibi.png",
 				"info": {
-					"eNClient": "Starlight Oath",
-					"cNClient": "誓约的星光",
-					"jPClient": "マリースター",
+					"lENClient": "Starlight Oath",
+					"lCNClient": "誓约的星光",
+					"lJPClient": "マリースター",
 					"obtainedFrom": "Oath",
 					"live2DModel": "No"
 				}
@@ -91140,9 +91140,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/43/EnterpriseChristmasChibi.png",
 				"info": {
-					"eNClient": "Reindeer Master",
-					"cNClient": "驯鹿之主",
-					"jPClient": "トナカイ・マスター",
+					"lENClient": "Reindeer Master",
+					"lCNClient": "驯鹿之主",
+					"lJPClient": "トナカイ・マスター",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -91154,9 +91154,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f7/EnterpriseSpringChibi.png",
 				"info": {
-					"eNClient": "Blooming Peony",
-					"cNClient": "傲春之牡丹",
-					"jPClient": "ブライトピオニー",
+					"lENClient": "Blooming Peony",
+					"lCNClient": "傲春之牡丹",
+					"lJPClient": "ブライトピオニー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -91168,9 +91168,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/EnterpriseRoadtripChibi.png",
 				"info": {
-					"eNClient": "Anniversary Ride",
-					"cNClient": "Anniversary Drive！",
-					"jPClient": "アニバーサリードライブ！",
+					"lENClient": "Anniversary Ride",
+					"lCNClient": "Anniversary Drive！",
+					"lJPClient": "アニバーサリードライブ！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -91182,9 +91182,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/35/EnterpriseBlurayChibi.png",
 				"info": {
-					"eNClient": "Soaring Wings of Freedom",
-					"cNClient": "翱翔的自由之翼",
-					"jPClient": "羽ばたける自由の翼",
+					"lENClient": "Soaring Wings of Freedom",
+					"lCNClient": "翱翔的自由之翼",
+					"lJPClient": "羽ばたける自由の翼",
 					"obtainedFrom": "Anime Blu-Ray First Press Edition bonus",
 					"live2DModel": "No"
 				}
@@ -91408,9 +91408,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b0/HornetPartyChibi.png",
 				"info": {
-					"eNClient": "Bubbly Anniversary!",
-					"cNClient": "Bubbly Anniversary！",
-					"jPClient": "Bubbly Anniversary！",
+					"lENClient": "Bubbly Anniversary!",
+					"lCNClient": "Bubbly Anniversary！",
+					"lJPClient": "Bubbly Anniversary！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -91805,9 +91805,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/03/VestalSummerChibi.png",
 				"info": {
-					"eNClient": "Revigorating Hestia",
-					"cNClient": "清凉的赫斯提亚",
-					"jPClient": "清爽なヘスティアー",
+					"lENClient": "Revigorating Hestia",
+					"lCNClient": "清凉的赫斯提亚",
+					"lJPClient": "清爽なヘスティアー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -92019,9 +92019,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8f/AmazonPartyChibi.png",
 				"info": {
-					"eNClient": "Little Orchestra",
-					"cNClient": "小小的管弦乐队",
-					"jPClient": "リトルオーケストラ",
+					"lENClient": "Little Orchestra",
+					"lCNClient": "小小的管弦乐队",
+					"lJPClient": "リトルオーケストラ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -92488,9 +92488,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b2/AcastaSchoolChibi.png",
 				"info": {
-					"eNClient": "Fashionable Outing",
-					"cNClient": "外出模式",
-					"jPClient": "お出かけスタイル",
+					"lENClient": "Fashionable Outing",
+					"lCNClient": "外出模式",
+					"lJPClient": "お出かけスタイル",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2DModel": "No"
@@ -94688,9 +94688,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/81/CygnetSummerChibi.png",
 				"info": {
-					"eNClient": "Sea Star on Shore",
-					"cNClient": "海滨的十字星",
-					"jPClient": "海辺の十字星",
+					"lENClient": "Sea Star on Shore",
+					"lCNClient": "海滨的十字星",
+					"lJPClient": "海辺の十字星",
 					"obtainedFrom": "Sea Star on Shore  - Complete the \"Sea Star on Shore\" questline",
 					"live2DModel": "No"
 				}
@@ -94701,9 +94701,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e7/CygnetChristmasChibi.png",
 				"info": {
-					"eNClient": "Holy Night's Hymn",
-					"cNClient": "圣夜的赞美诗",
-					"jPClient": "聖夜の賛美歌",
+					"lENClient": "Holy Night's Hymn",
+					"lCNClient": "圣夜的赞美诗",
+					"lJPClient": "聖夜の賛美歌",
 					"obtainedFrom": "Skin Shop",
 					"cost": "680",
 					"live2DModel": "No"
@@ -94715,9 +94715,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7a/CygnetNew_YearChibi.png",
 				"info": {
-					"eNClient": "Winter Date",
-					"cNClient": "冬日的约会",
-					"jPClient": "冬のデート",
+					"lENClient": "Winter Date",
+					"lCNClient": "冬日的约会",
+					"lJPClient": "冬のデート",
 					"obtainedFrom": "Blessed New Year  - Participate in the event for 7 days",
 					"live2DModel": "No"
 				}
@@ -94728,9 +94728,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/61/Skin_BG_104.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f6/CygnetMaidChibi.png",
 				"info": {
-					"eNClient": "An Offer To Be Maid",
-					"cNClient": "女仆体验周？",
-					"jPClient": "オファーはメイドさん",
+					"lENClient": "An Offer To Be Maid",
+					"lCNClient": "女仆体验周？",
+					"lJPClient": "オファーはメイドさん",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -96491,9 +96491,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d2/HMS_NeptuneChristmasChibi.png",
 				"info": {
-					"eNClient": "Princess of the Reindeers",
-					"cNClient": "圣诞麋鹿公主",
-					"jPClient": "トナカイプリンセス",
+					"lENClient": "Princess of the Reindeers",
+					"lCNClient": "圣诞麋鹿公主",
+					"lJPClient": "トナカイプリンセス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "900",
 					"live2DModel": "No"
@@ -96746,9 +96746,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9e/MonarchPartyChibi.png",
 				"info": {
-					"eNClient": "White Warrick",
-					"cNClient": "素罗华威",
-					"jPClient": "ホワイト・ウォリック",
+					"lENClient": "White Warrick",
+					"lCNClient": "素罗华威",
+					"lJPClient": "ホワイト・ウォリック",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -96760,9 +96760,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/64/MonarchSpringChibi.png",
 				"info": {
-					"eNClient": "Black Gerard",
-					"cNClient": "赭红爵祿",
-					"jPClient": "ブラック・ジェラード",
+					"lENClient": "Black Gerard",
+					"lCNClient": "赭红爵祿",
+					"lJPClient": "ブラック・ジェラード",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -97034,9 +97034,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fd/IbukiNew_YearChibi.png",
 				"info": {
-					"eNClient": "Winter Sylph's Reverie",
-					"cNClient": "永梦的青女",
-					"jPClient": "冬籠の夢",
+					"lENClient": "Winter Sylph's Reverie",
+					"lCNClient": "永梦的青女",
+					"lJPClient": "冬籠の夢",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2DModel": "Yes"
@@ -97048,9 +97048,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/96/IbukiPartyChibi.png",
 				"info": {
-					"eNClient": "Snow on the Wind",
-					"cNClient": "轻扬的风花",
-					"jPClient": "宴のかざばな",
+					"lENClient": "Snow on the Wind",
+					"lCNClient": "轻扬的风花",
+					"lJPClient": "宴のかざばな",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -97290,9 +97290,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f1/IzumoNew_YearChibi.png",
 				"info": {
-					"eNClient": "Izumo's Thousand Cherry Trees",
-					"cNClient": "出云千本樱",
-					"jPClient": "出雲千本桜",
+					"lENClient": "Izumo's Thousand Cherry Trees",
+					"lCNClient": "出云千本樱",
+					"lJPClient": "出雲千本桜",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -97550,9 +97550,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c8/RoonPartyChibi.png",
 				"info": {
-					"eNClient": "Dark Red Grin",
-					"cNClient": "暗红色的微笑",
-					"jPClient": "灰と紅の微笑み",
+					"lENClient": "Dark Red Grin",
+					"lCNClient": "暗红色的微笑",
+					"lJPClient": "灰と紅の微笑み",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -98058,9 +98058,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/27/SeattlePartyChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "绚烂的盛宴",
-					"jPClient": "ゴージャスパーティー",
+					"lENClient": "skin unavailable",
+					"lCNClient": "绚烂的盛宴",
+					"lJPClient": "ゴージャスパーティー",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -98072,9 +98072,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bc/SeattleChristmasChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "圣诞派对准备中！",
-					"jPClient": "クリスマス納会！",
+					"lENClient": "skin unavailable",
+					"lCNClient": "圣诞派对准备中！",
+					"lJPClient": "クリスマス納会！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "900",
 					"live2DModel": "No"
@@ -98316,9 +98316,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4c/GeorgiaPartyChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "南方的黑珍珠",
-					"jPClient": "サウスタウンパール",
+					"lENClient": "skin unavailable",
+					"lCNClient": "南方的黑珍珠",
+					"lJPClient": "サウスタウンパール",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -98330,9 +98330,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2e/GeorgiaSummerChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "Lanier Swan",
-					"jPClient": "ラニアースワン",
+					"lENClient": "skin unavailable",
+					"lCNClient": "Lanier Swan",
+					"lJPClient": "ラニアースワン",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -98572,9 +98572,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bf/KitakazeFestivalChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "祭典制霸！",
-					"jPClient": "会場制覇！",
+					"lENClient": "skin unavailable",
+					"lCNClient": "祭典制霸！",
+					"lJPClient": "会場制覇！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -99053,9 +99053,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/31/Friedrich_der_GrosseNew_YearChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "雅乐的黯衣",
-					"jPClient": "雅楽の闇衣",
+					"lENClient": "skin unavailable",
+					"lCNClient": "雅乐的黯衣",
+					"lJPClient": "雅楽の闇衣",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -99300,9 +99300,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/GascogneSummerChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "夏季环境应对外装",
-					"jPClient": "夏期環境対応シェル",
+					"lENClient": "skin unavailable",
+					"lCNClient": "夏季环境应对外装",
+					"lJPClient": "夏期環境対応シェル",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -100217,9 +100217,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_201.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/be/Purple_HeartCollabChibi.png",
 				"info": {
-					"eNClient": "Goddesses' Promise",
-					"cNClient": "女神的约定",
-					"jPClient": "女神との約束",
+					"lENClient": "Goddesses' Promise",
+					"lCNClient": "女神的约定",
+					"lJPClient": "女神との約束",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -100418,9 +100418,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/4f/Skin_BG_202.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/23/Black_HeartCollab_CNChibi.png",
 				"info": {
-					"eNClient": "Goddesses' Smile",
-					"cNClient": "女神的微笑",
-					"jPClient": "女神の微笑み",
+					"lENClient": "Goddesses' Smile",
+					"lCNClient": "女神的微笑",
+					"lJPClient": "女神の微笑み",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -100619,9 +100619,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/0/06/Skin_BG_203.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/White_HeartCollabChibi.png",
 				"info": {
-					"eNClient": "Goddesses' Humility",
-					"cNClient": "女神的羞怯",
-					"jPClient": "女神の恥じらい",
+					"lENClient": "Goddesses' Humility",
+					"lCNClient": "女神的羞怯",
+					"lJPClient": "女神の恥じらい",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -100821,9 +100821,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/8/88/Skin_BG_204.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f5/Green_HeartCollab_CNChibi.png",
 				"info": {
-					"eNClient": "Goddesses' Moment",
-					"cNClient": "女神的一刻",
-					"jPClient": "女神とのひと時",
+					"lENClient": "Goddesses' Moment",
+					"lCNClient": "女神的一刻",
+					"lJPClient": "女神とのひと時",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -101407,9 +101407,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/17/Skin_BG_206.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/KuonCollabChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "久远(传颂之物)",
-					"jPClient": "クオン(うたわれるもの)",
+					"lENClient": "skin unavailable",
+					"lCNClient": "久远(传颂之物)",
+					"lJPClient": "クオン(うたわれるもの)",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -101608,9 +101608,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/17/Skin_BG_208.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fb/NekoneCollabChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "猫音(传颂之物)",
-					"jPClient": "ネコネ(うたわれるもの)",
+					"lENClient": "skin unavailable",
+					"lCNClient": "猫音(传颂之物)",
+					"lJPClient": "ネコネ(うたわれるもの)",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -101809,9 +101809,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/34/Skin_BG_207.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4c/RurutieCollabChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "露露缇耶(传颂之物)",
-					"jPClient": "ルルティエ(うたわれるもの)",
+					"lENClient": "skin unavailable",
+					"lCNClient": "露露缇耶(传颂之物)",
+					"lJPClient": "ルルティエ(うたわれるもの)",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2DModel": "No"
@@ -102011,9 +102011,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/63/Skin_BG_209.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c9/UruuruCollabChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "乌璐露(传颂之物)",
-					"jPClient": "ウルゥル(うたわれるもの)",
+					"lENClient": "skin unavailable",
+					"lCNClient": "乌璐露(传颂之物)",
+					"lJPClient": "ウルゥル(うたわれるもの)",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -102213,9 +102213,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/63/Skin_BG_209.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/SaraanaCollabChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "萨拉娜(传颂之物)",
-					"jPClient": "サラァナ(うたわれるもの)",
+					"lENClient": "skin unavailable",
+					"lCNClient": "萨拉娜(传颂之物)",
+					"lJPClient": "サラァナ(うたわれるもの)",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -102415,9 +102415,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/16/Skin_BG_205.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e7/FumiruiruCollabChibi.png",
 				"info": {
-					"eNClient": "skin unavailable",
-					"cNClient": "芙米露露(传颂之物)",
-					"jPClient": "フミルィル(うたわれるもの)",
+					"lENClient": "skin unavailable",
+					"lCNClient": "芙米露露(传颂之物)",
+					"lJPClient": "フミルィル(うたわれるもの)",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -102621,9 +102621,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/ec/Kizuna_AIYukataChibi.png",
 				"info": {
-					"eNClient": "Festive Kizuna AI",
-					"cNClient": "Sakura Festival",
-					"jPClient": "Sakura Festival",
+					"lENClient": "Festive Kizuna AI",
+					"lCNClient": "Sakura Festival",
+					"lJPClient": "Sakura Festival",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2DModel": "No"
@@ -103407,9 +103407,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/26/Shirakami_FubukiSummerChibi.png",
 				"info": {
-					"eNClient": "Beachside Fox",
-					"cNClient": "沙滩之狐",
-					"jPClient": "ビーチのキツネ",
+					"lENClient": "Beachside Fox",
+					"lCNClient": "沙滩之狐",
+					"lJPClient": "ビーチのキツネ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "900",
 					"live2DModel": "No"
@@ -103612,9 +103612,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": null,
 				"info": {
-					"eNClient": "Under the Clear Sky",
-					"cNClient": "晴空之夏",
-					"jPClient": "晴れた夏空の下で",
+					"lENClient": "Under the Clear Sky",
+					"lCNClient": "晴空之夏",
+					"lJPClient": "晴れた夏空の下で",
 					"obtainedFrom": "Skin Shop",
 					"cost": "900",
 					"live2DModel": "No"
@@ -104019,9 +104019,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/b/be/Skin_BG_124.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/21/Minato_AquaMaidChibi.png",
 				"info": {
-					"eNClient": "Marine Maid",
-					"cNClient": "海之女仆",
-					"jPClient": "マリンメイド",
+					"lENClient": "Marine Maid",
+					"lCNClient": "海之女仆",
+					"lJPClient": "マリンメイド",
 					"obtainedFrom": "Skin Shop",
 					"cost": "900",
 					"live2DModel": "No"
@@ -104216,9 +104216,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/9/9d/Skin_BG_122.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e8/Natsuiro_MatsuriSummerChibi.png",
 				"info": {
-					"eNClient": "Matsuri's Day Off",
-					"cNClient": "祭的居家日",
-					"jPClient": "まつりの休日",
+					"lENClient": "Matsuri's Day Off",
+					"lCNClient": "祭的居家日",
+					"lJPClient": "まつりの休日",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -104412,9 +104412,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/91/Nakiri_AyameSummerChibi.png",
 				"info": {
-					"eNClient": "Summertime Nakiri",
-					"cNClient": "夏之百鬼",
-					"jPClient": "夏の百鬼",
+					"lENClient": "Summertime Nakiri",
+					"lCNClient": "夏之百鬼",
+					"lJPClient": "夏の百鬼",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -104617,9 +104617,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/6/6e/Skin_BG_123.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8a/Murasaki_ShionMagicianChibi.png",
 				"info": {
-					"eNClient": "Virtual Magician",
-					"cNClient": "虚拟魔法使",
-					"jPClient": "バーチャル魔法使い",
+					"lENClient": "Virtual Magician",
+					"lCNClient": "虚拟魔法使",
+					"lJPClient": "バーチャル魔法使い",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
@@ -104816,9 +104816,9 @@
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/Ookami_MioSummerChibi.png",
 				"info": {
-					"eNClient": "Summer Vacation",
-					"cNClient": "Summer Vacance",
-					"jPClient": "サマーバカンス",
+					"lENClient": "Summer Vacation",
+					"lCNClient": "Summer Vacance",
+					"lJPClient": "サマーバカンス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2DModel": "No"
