@@ -243,17 +243,23 @@ function publishShips() {
             skill.icon = path;
             return skill;
         };
-        for (let i = 1; i <= 3; i++)
+        for (let i = 0; i < SHIPS[key].skills.length; i++)
             SHIPS[key].skills[i] = publishSkill(SHIPS[key].skills[i]);
         process.stdout.write("|");
     }
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync('./ships.json', ships_value);
-    VERSION_INFO.ships.hash = getHash(ships_value);
-    VERSION_INFO.ships["version-number"] += 1;
-    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
-    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
-    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+    let newHash = getHash(ships_value);
+    if (VERSION_INFO.ships.hash === newHash) {
+        console.log("Version did not changed");
+        fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+    } else {
+        VERSION_INFO.ships.hash = newHash;
+        VERSION_INFO.ships["version-number"] += 1;
+        VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
+        VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
+        fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+    }
 }
 
 function publishEQ() {
