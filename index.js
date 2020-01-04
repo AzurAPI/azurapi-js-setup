@@ -237,7 +237,7 @@ function publishShips() {
             newGallery.push(item);
         }
         SHIPS[key].gallery = newGallery;
-        let publishSkill = async (skill) => {
+        let publishSkill = (skill) => {
             if (!skill) return {};
             let path = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
             skill.icon = path;
