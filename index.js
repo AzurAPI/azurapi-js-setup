@@ -628,7 +628,10 @@ function parseGallery(name, body) {
     let skins = [];
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
-        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.replace(/(EN|CN|JP|KR)/, '\L$1').trim())] = row.getElementsByTagName("td")[0].textContent.trim());
+        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => {
+            let value = row.getElementsByTagName("td")[0].textContent;
+            info[camelize(row.getElementsByTagName("th")[0].textContent.replace(/(EN|CN|JP|KR)/, v => v.toLowerCase()).trim())] = value === 'Yes' ? true : value === 'No' ? false : isNaN(value) ? value.trim() : parseInt(value);
+        });
         let parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").srcset);
         skins.push({
             name: tab.title,
