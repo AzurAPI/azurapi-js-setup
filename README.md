@@ -32,7 +32,7 @@ azurlane.publishShips();
 azurlane.publishEQ();
 ```
 
--   Bewarned that this update program will use up a lot of bandwidth and processing power
+-   Bewared that this update program will use up a lot of bandwidth and processing power
 -   To rely on local cache, remove all the `true` parameters
 
 ![Graf Spee looking at you meaningfully](https://res.cloudinary.com/kumori/image/upload/v1576125260/Bg_graf_spee_1_dqumrm.png)
