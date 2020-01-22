@@ -21,7 +21,7 @@ let CHAPTERS = require("./chapters.json");
 let SHIPS_INTERNAL = require("./ships.internal.json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
-let PATH_SIZE = require("./path-sizes.json")
+let PATH_SIZE = require("./path-sizes.json");
 
 const HEADERS = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
@@ -237,29 +237,23 @@ function publishShips() {
             newGallery.push(item);
         }
         SHIPS[key].gallery = newGallery;
-        let publishSkill = (skill) => {
+        let publishSkill = async (skill) => {
             if (!skill) return {};
             let path = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
             skill.icon = path;
             return skill;
         };
-        for (let i = 0; i < SHIPS[key].skills.length; i++)
+        for (let i = 1; i <= 3; i++)
             SHIPS[key].skills[i] = publishSkill(SHIPS[key].skills[i]);
         process.stdout.write("|");
     }
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync('./ships.json', ships_value);
-    let newHash = getHash(ships_value);
-    if (VERSION_INFO.ships.hash === newHash) {
-        console.log("Version did not changed");
-        fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
-    } else {
-        VERSION_INFO.ships.hash = newHash;
-        VERSION_INFO.ships["version-number"] += 1;
-        VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
-        VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
-        fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
-    }
+    VERSION_INFO.ships.hash = getHash(ships_value);
+    VERSION_INFO.ships["version-number"] += 1;
+    VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
+    VERSION_INFO.ships["number-of-ships"] = SHIP_LIST.length;
+    fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
 }
 
 function publishEQ() {
@@ -303,6 +297,7 @@ async function refreshEquipment(href, name, category, online) {
 // Get the updated list of ships
 async function fetchShipList(online) {
     if (!online && Object.keys(SHIP_LIST).length !== 0) return SHIP_LIST;
+    console.log("Getting new ship list...");
     let LIST = {};
     new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships")).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
         let columns = table_ship.childNodes;
@@ -390,7 +385,7 @@ function parseShip(name, body) {
         ship.thumbnail = "https://azurlane.koumakan.jp" + images[1].getAttribute("src");
         ship.skins = [{
             name: name,
-            image: "https://azurlane.koumakan.jp" + doc.querySelector(".tabbertab .image > img").getAttribute("src"),
+            image: "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].src,
             background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
             chibi: doc.querySelector("td > div > div:nth-child(2) img") ? "https://azurlane.koumakan.jp" + doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
             info: {
@@ -628,14 +623,10 @@ function parseGallery(name, body) {
     let skins = [];
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
-        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => {
-            let value = row.getElementsByTagName("td")[0].textContent;
-            info[camelize(row.getElementsByTagName("th")[0].textContent.replace(/(EN|CN|JP|KR)/, v => v.toLowerCase()).trim())] = value === 'Yes' ? true : value === 'No' ? false : isNaN(value) ? value.trim() : parseInt(value);
-        });
-        let parsedSet = srcset.parse(tab.querySelector(".ship-skin-image img").srcset);
+        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
             name: tab.title,
-            image: "https://azurlane.koumakan.jp" + parsedSet.sort((s1, s2) => compare(s2.density, s1.density))[0].url,
+            image: tab.querySelector(".ship-skin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-image img").src : null,
             background: "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src"),
             chibi: tab.querySelector(".ship-skin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-chibi img").getAttribute("src") : null,
             info: info
@@ -897,6 +888,7 @@ function fetchImage(url, localPath) {
                     resolve();
                 } else {
                     fs.unlinkSync(localPath);
+                    console.log("Redownloading " + localPath);
                     fetchImage(url, localPath).then(resolve);
                 }
             });
