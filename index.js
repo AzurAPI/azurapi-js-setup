@@ -244,12 +244,13 @@ function publishShips() {
             skill.icon = path;
             return skill;
         };
-        for (let i = 1; i <= 3; i++)
+        for (let i = 0; i < SHIPS[key].skills[i].length; i++)
             SHIPS[key].skills[i] = publishSkill(SHIPS[key].skills[i]);
         process.stdout.write("|");
     }
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync('./ships.json', ships_value);
+    fs.writeFileSync('./ships.formated.json', JSON.stringify(SHIPS, null, 4));
     VERSION_INFO.ships.hash = getHash(ships_value);
     VERSION_INFO.ships["version-number"] += 1;
     VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
