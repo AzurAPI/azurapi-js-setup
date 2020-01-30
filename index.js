@@ -232,11 +232,11 @@ async function refreshMemory(online) {
             MEMORIES[simple_name] = memory.parseMemory(new JSDOM(data).window.document, name, icon, url);
             const used = process.memoryUsage().heapUsed / 1024 / 1024;
             process.stdout.write(` done. ${Math.round(used * 100) / 100}MB used\n`);
-            fs.writeFileSync('./memories.json', JSON.stringify(MEMORIES, null, '\t'));
+            fs.writeFileSync('./memories.internal.json', JSON.stringify(MEMORIES, null, '\t'));
             if (used > 1000) await timeout(1000);
         }
     }
-    fs.writeFileSync('./memories.json', JSON.stringify(MEMORIES, null, '\t'));
+    fs.writeFileSync('./memories.internal.json', JSON.stringify(MEMORIES, null, '\t'));
     console.log("\nDone");
 }
 
@@ -303,6 +303,14 @@ function publishEQ() {
     VERSION_INFO.equipments["version-number"] += 1;
     VERSION_INFO.equipments["last-data-refresh-date"] = Date.now();
     fs.writeFileSync('./version-info.json', JSON.stringify(VERSION_INFO));
+}
+
+async function publishMemoriesAndImages() {
+    for (let key of Object.keys(MEMORIES)) {
+        let memory = MEMORIES[key];
+        let thumbnailFile = "./images/memoryThumbnails/" + memory.thumbnail.substring(memory.thumbnail.lastIndexOf('/') + 1);
+        await fetchImage(memory.thumbnail, thumbnailFile);
+    }
 }
 
 // Refresh a ship with specified id

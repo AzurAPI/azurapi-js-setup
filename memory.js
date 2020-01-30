@@ -76,7 +76,7 @@ function parseChapter(div) {
         let row = rows[i];
         let line = {};
         line.bannerSrc = "https://azurlane.koumakan.jp" + (row.firstElementChild.firstElementChild && row.firstElementChild.firstElementChild.tagName === "IMG" ? galleryThumbnailUrlToActualUrl(row.firstElementChild.firstElementChild.src) : null);
-        line.name = row.firstElementChild.lastElementChild ? row.firstElementChild.lastElementChild.textContent : null;
+        line.name = row.firstElementChild ? row.firstElementChild.textContent.trim() : null;
         if (row.children[1]) line.content = row.children[1].textContent;
         else console.log(row.textContent);
         if (row.lastElementChild && row.lastElementChild.childNodes.length > 0) { // Notes
