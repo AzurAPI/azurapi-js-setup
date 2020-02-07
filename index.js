@@ -74,10 +74,13 @@ async function refreshShips(online) {
         if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
         if (!ship) continue;
         SHIPS_INTERNAL[key] = ship;
+        const used = process.memoryUsage().heapUsed / 1024 / 1024;
+        process.stdout.write(` done. ${Math.round(used * 100) / 100}MB used\n`);
         fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
+        if (used > 1000) await timeout(1000);
         if (shipCounter === 200 || shipCounter === 400) {
             console.log("Program Stopped to prevent a crush")
-            break;
+            //break;
         }
     }
     console.log("\nDone");
@@ -254,7 +257,7 @@ function publishShips() {
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
             skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-            skin.background = IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1);
+            skin.background = skin.background ? IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1) : null;
             if (skin.info.live2dModel) skin.info.live2dModel = skin.info.live2dModel === "Yes" ? true : skin.info.live2dModel === "No" ? false : skin.info.live2dModel;
             newSkins.push(skin); //not sure why but this feels safer
         }
@@ -663,12 +666,12 @@ function parseGallery(name, body) {
     let skins = [];
     Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
-        tab.querySelectorAll(".ship-skin-infotable tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
+        tab.querySelectorAll(".shipskin-table tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
             name: tab.title,
-            image: tab.querySelector(".ship-skin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-image img").src : null,
-            background: "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src"),
-            chibi: tab.querySelector(".ship-skin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".ship-skin-chibi img").getAttribute("src") : null,
+            image: tab.querySelector(".shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-image img").src : null,
+            background: (tab.querySelector(".res img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src") : null),
+            chibi: tab.querySelector(".shipskin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-chibi img").getAttribute("src") : null,
             info: info
         });
     });

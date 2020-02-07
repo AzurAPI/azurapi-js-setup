@@ -677,7 +677,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "22娘",
 					"jpClient": "skin unavailable",
-					"obtainedFrom": "Bilibili 8th Anniversary  Event Shop",
+					"obtainedFrom": "Bilibili 8th Anniversary Event Shop",
 					"cost": "300",
 					"live2dModel": "No"
 				}
@@ -719,7 +719,7 @@
 					"enClient": "Very Slow Advance!",
 					"cnClient": "微速前进！",
 					"jpClient": "びそくぜんしんっ！",
-					"obtainedFrom": "Monthly Manga Javelin  - Collect all Puzzle Pieces",
+					"obtainedFrom": "Monthly Manga Javelin - Collect all Puzzle Pieces",
 					"live2dModel": "No"
 				}
 			},
@@ -732,7 +732,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "王道偶像·元气120！",
 					"jpClient": "元気アイドル・やる気120％！",
-					"obtainedFrom": "Crescendo of Polaris  Milestone Reward",
+					"obtainedFrom": "Crescendo of Polaris Milestone Reward",
 					"live2dModel": "No"
 				}
 			}
@@ -943,7 +943,7 @@
 					"enClient": "Fairly Flavourful Festival",
 					"cnClient": "美味的祭典？",
 					"jpClient": "ちょっと美味しい日",
-					"obtainedFrom": "Summer Festival  - Collect 14 Stamps",
+					"obtainedFrom": "Summer Festival - Collect 14 Stamps",
 					"live2dModel": "No"
 				}
 			}
@@ -1190,7 +1190,7 @@
 					"enClient": "Little Devil in White",
 					"cnClient": "白衣小恶魔",
 					"jpClient": "白衣の小悪魔",
-					"obtainedFrom": "Angel or Devil in White?  Event Questline",
+					"obtainedFrom": "Angel or Devil in White? Event Questline",
 					"live2dModel": "No"
 				}
 			},
@@ -2569,6 +2569,214 @@
 			}
 		]
 	},
+	"107": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Dido",
+		"id": "107",
+		"names": {
+			"en": "Dido",
+			"code": "HMS Dido",
+			"cn": "黛朵",
+			"jp": "ダイドー",
+			"kr": null
+		},
+		"class": "Dido",
+		"nationality": "Royal Navy",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d6/DidoIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "3745",
+				"armor": "Light",
+				"reload": "194",
+				"luck": "85",
+				"firepower": "158",
+				"torpedo": "178",
+				"evasion": "97",
+				"speed": "32",
+				"antiair": "388",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "160",
+				"antisubmarineWarfare": "169"
+			},
+			"level100": {
+				"health": "3343",
+				"armor": "Light",
+				"reload": "168",
+				"luck": "85",
+				"firepower": "137",
+				"torpedo": "155",
+				"evasion": "73",
+				"speed": "32",
+				"antiair": "347",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "143",
+				"antisubmarineWarfare": "151"
+			},
+			"baseStats": {
+				"health": "647",
+				"armor": "Light",
+				"reload": "71",
+				"luck": "85",
+				"firepower": "29",
+				"torpedo": "33",
+				"evasion": "28",
+				"speed": "32",
+				"antiair": "74",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "55",
+				"antisubmarineWarfare": "41"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 140
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 120,
+				"maxEfficiency": 130
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 135,
+				"maxEfficiency": 135
+			}
+		},
+		"enhanceValue": {
+			"firepower": 12,
+			"torpedo": 11,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/e9/Skill_12930.png",
+				"names": {
+					"en": "Dido's Aria",
+					"cn": "Arias of Dido",
+					"jp": "Arias of Dido"
+				},
+				"description": "Increase the FP, TRP and AA of all your Dido-class CLs by 5% (15.0%). At the start of the battle: increase this ship's AA and EVA by 5% (15.0%) for 30s.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/f/ff/Skill_12940.png",
+				"names": {
+					"en": "For the Queen",
+					"cn": "For The Queen",
+					"jp": "陛下のために"
+				},
+				"description": "Increase this ship's FP, AA and RLD by 1.5% (6.0%) for every Royal Navy ship in your fleet at the start of the battle (Can be stacked up to 4 time). When sortied with Queen Elizabeth: increase Queen Elizabeth's FP, RLD, EVA and Accuracy by 2.5% (7.0%) and Main Gun Crit Rate by 5% (20.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b8/Skill_29490.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "专属弹幕-黛朵",
+					"jp": "特殊弾幕-ダイドー"
+				},
+				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Dido I (II)",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gained Special Barrage I",
+				"Main Gun Efficiency +5%"
+			],
+			[
+				"Max Torpedo Capacity +1",
+				"Pre-Loaded Torpedo +1",
+				"Torpedo Efficiency +10%"
+			],
+			[
+				"Upgrades Special Barrage I→II",
+				"Main Gun Efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Anti-air",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 10,
+				"maxLimitBreak": 21,
+				"maxLevel": 16,
+				"total": 47
+			}
+		},
+		"construction": {
+			"constructionTime": "00:55:00",
+			"availableIn": {
+				"light": "Fight On, Royal Maids!",
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "Kincora",
+			"web": {
+				"name": "KIncora",
+				"url": "http://weibo.com/u/2061731981"
+			},
+			"pixiv": {
+				"name": "KIn",
+				"url": "https://www.pixiv.net/member.php?id=3054186"
+			},
+			"twitter": {
+				"name": "KIncora",
+				"url": "https://twitter.com/KIncoraK"
+			},
+			"voice": {
+				"name": "Ruriko Aoki",
+				"url": "https://myanimelist.net/people/23831/Ruriko_Aoki"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9c/Dido.png/508px-Dido.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/a3/DidoChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		]
+	},
 	"110": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Southampton",
 		"id": "110",
@@ -3022,6 +3230,219 @@
 					"jpClient": "憩いのひととき",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
+					"live2dModel": "No"
+				}
+			}
+		]
+	},
+	"113": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Gloucester",
+		"id": "113",
+		"names": {
+			"en": "Gloucester",
+			"code": "HMS Gloucester",
+			"cn": "格罗斯特",
+			"jp": "グロスター",
+			"kr": null
+		},
+		"class": "Town",
+		"nationality": "Royal Navy",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/ea/GloucesterIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120": {
+				"health": "3789",
+				"armor": "Light",
+				"reload": "176",
+				"luck": "45",
+				"firepower": "156",
+				"torpedo": "281",
+				"evasion": "101",
+				"speed": "32",
+				"antiair": "317",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "157",
+				"antisubmarineWarfare": "142"
+			},
+			"level100": {
+				"health": "3445",
+				"armor": "Light",
+				"reload": "154",
+				"luck": "45",
+				"firepower": "136",
+				"torpedo": "246",
+				"evasion": "76",
+				"speed": "32",
+				"antiair": "280",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "140",
+				"antisubmarineWarfare": "126"
+			},
+			"baseStats": {
+				"health": "666",
+				"armor": "Light",
+				"reload": "65",
+				"luck": "45",
+				"firepower": "29",
+				"torpedo": "52",
+				"evasion": "29",
+				"speed": "32",
+				"antiair": "60",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "54",
+				"antisubmarineWarfare": "34"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 130,
+				"maxEfficiency": 150
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 140,
+				"maxEfficiency": 150
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": {
+			"firepower": 12,
+			"torpedo": 17,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/e7/Skill_2190.png",
+				"names": {
+					"en": "Ammunition Command",
+					"cn": "备弹指令",
+					"jp": "予備弾薬"
+				},
+				"description": "When the fleet this ship is in is Out of Ammo: decreases the effect of the DMG debuff by 5% (15%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/a/a4/Skill_12950.png",
+				"names": {
+					"en": "The Fighting G",
+					"cn": "The Fighting G",
+					"jp": "The FightingG"
+				},
+				"description": "Increases this ship's FP and Accuracy by 5.0%. Every time this ship sinks an enemy: increases this ship's FP and Accuracy by 1.0% (2.0%) for the rest of the battle (can be stacked up to 5 times.)",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-グロスター級"
+				},
+				"description": "Activates All Out Assault Ⅱ: Gloucester Class once every 8 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Anti-air",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 10,
+				"maxLimitBreak": 20,
+				"maxLevel": 15,
+				"total": 45
+			}
+		},
+		"construction": {
+			"constructionTime": "01:25:00",
+			"availableIn": {
+				"light": "Fight On, Royal Maids!",
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": null,
+			"web": null,
+			"pixiv": null,
+			"twitter": null,
+			"voice": {
+				"name": "Reina Ueda",
+				"url": "https://en.wikipedia.org/wiki/Reina_Ueda"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/67/Gloucester.png/776px-Gloucester.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/d/d6/GloucesterChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Brilliance in Purple",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/73/GloucesterSpring.png/515px-GloucesterSpring.png",
+				"background": "https://azurlane.koumakan.jp/w/images/b/b4/Skin_BG_127.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/45/GloucesterSpringChibi.png",
+				"info": {
+					"enClient": "Brilliance in Purple",
+					"cnClient": "绛紫奢情",
+					"jpClient": "ピオレ・ブリリアント",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
 					"live2dModel": "No"
 				}
 			}
@@ -3556,7 +3977,7 @@
 					"enClient": "Shopping with the Head Maid",
 					"cnClient": "女仆长的购物日",
 					"jpClient": "メイド長とお買い物",
-					"obtainedFrom": "Manjuu Manufactory  - Complete all \"Manjuu Manufactory\" tasks",
+					"obtainedFrom": "Manjuu Manufactory - Complete all \"Manjuu Manufactory\" tasks",
 					"live2dModel": "No"
 				}
 			}
@@ -8624,7 +9045,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "一日见习店员",
 					"jpClient": "skin unavailable",
-					"obtainedFrom": "Lawson Collaboration  - Complete the event tasks.",
+					"obtainedFrom": "Lawson Collaboration - Complete the event tasks.",
 					"live2dModel": "No"
 				}
 			}
@@ -9971,7 +10392,7 @@
 					"enClient": "Little Star Songstress",
 					"cnClient": "小小的星之歌姬",
 					"jpClient": "小さな星の歌姫",
-					"obtainedFrom": "Bits of Courage  - Complete the event tasks",
+					"obtainedFrom": "Bits of Courage - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -11896,7 +12317,7 @@
 					"enClient": "Mascot Bucky",
 					"cnClient": "小鸡看板娘",
 					"jpClient": "看板娘ブッキー",
-					"obtainedFrom": "Atré Collaboration  - Complete the event tasks",
+					"obtainedFrom": "Atré Collaboration - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -11923,7 +12344,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "特型偶像Fubuki",
 					"jpClient": "スノーストーム！",
-					"obtainedFrom": "Crescendo of Polaris  Special Questline",
+					"obtainedFrom": "Crescendo of Polaris Special Questline",
 					"live2dModel": "No"
 				}
 			}
@@ -12414,7 +12835,7 @@
 					"enClient": "Witch in Ambush",
 					"cnClient": "待宵的魔女",
 					"jpClient": "宵闇待ちの魔女",
-					"obtainedFrom": "Halloween 2018   Skin Shop",
+					"obtainedFrom": "Halloween 2018 Skin Shop",
 					"cost": "700",
 					"live2dModel": "No"
 				}
@@ -12428,7 +12849,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "skin unavailable",
 					"jpClient": "ニコニコ",
-					"obtainedFrom": "NicoNico Collaboration  Event Questline",
+					"obtainedFrom": "NicoNico Collaboration Event Questline",
 					"live2dModel": "No"
 				}
 			},
@@ -12455,7 +12876,7 @@
 					"enClient": "Lunar Demon",
 					"cnClient": "新岁之鬼神",
 					"jpClient": "波濤新歳",
-					"obtainedFrom": "Lunar New Year 2019   Skin Shop",
+					"obtainedFrom": "Lunar New Year 2019 Skin Shop",
 					"cost": "780",
 					"live2dModel": "No"
 				}
@@ -12469,7 +12890,7 @@
 					"enClient": "Grade A Sailor Uniform",
 					"cnClient": "一式水手风制服",
 					"jpClient": "壱式給仕海軍制服",
-					"obtainedFrom": "Coco Ichibanya and Pasta de Coco Collab  Skin Shop",
+					"obtainedFrom": "Coco Ichibanya and Pasta de Coco Collab Skin Shop",
 					"cost": "700",
 					"live2dModel": "No"
 				}
@@ -12701,7 +13122,7 @@
 				}
 			},
 			{
-				"name": "Akatsuki, Goes to the Artic",
+				"name": "Akatsuki, Goes to the Arctic",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a8/AkatsukiCamp.png/626px-AkatsukiCamp.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/17/AkatsukiCampChibi.png",
@@ -13867,7 +14288,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "肉包杀手",
 					"jpClient": "skin unavailable",
-					"obtainedFrom": "Lawson Collaboration (part 2)  - Complete the event tasks",
+					"obtainedFrom": "Lawson Collaboration (part 2) - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -14613,7 +15034,7 @@
 			},
 			{
 				"name": "Winter's Snowy Wind",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/51/YukikazeSpring.png/541px-YukikazeSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/b/b4/Skin_BG_127.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b3/YukikazeSpringChibi.png",
 				"info": {
@@ -15539,7 +15960,7 @@
 					"enClient": "Mooncake Merchant",
 					"cnClient": "月饼、不来一点吗？",
 					"jpClient": "月餅はいかが？",
-					"obtainedFrom": "Would you like a Mooncake?  Event Questline",
+					"obtainedFrom": "Would you like a Mooncake? Event Questline",
 					"live2dModel": "No"
 				}
 			}
@@ -15647,7 +16068,7 @@
 					"cn": "幸运舰？",
 					"jp": "幸運艦？"
 				},
-				"description": "Every 20 seconds, gain one of three random effect for 5 (10) seconds:30% chance to get +30% evasion30% chance to get +20% critical chance and +50% critical damage40% chance to get +20% damage taken.",
+				"description": "Every 20 seconds, gain one of three random effect for 5 (10) seconds:30% - Evasion: Increases Evasion by 30%30% - Critical: Increases critical chance by 20% and critical damage by 50%40% - Sunder: Increases damage taken by 20%.",
 				"color": "deepskyblue"
 			},
 			{
@@ -16407,7 +16828,7 @@
 					"enClient": "Holiday Special Wakaba!",
 					"cnClient": "限时圣诞Wakaba",
 					"jpClient": "若葉、クリスマス限定！",
-					"obtainedFrom": "",
+					"obtainedFrom": "Christmas 2019 Event tasks",
 					"live2dModel": "No"
 				}
 			}
@@ -17293,7 +17714,7 @@
 					"enClient": "Evening Flower",
 					"cnClient": "盛绽樱华",
 					"jpClient": "遊宴の花",
-					"obtainedFrom": "A Prayer for Peace  - Special Login Reward on the 7th day",
+					"obtainedFrom": "A Prayer for Peace - Special Login Reward on the 7th day",
 					"live2dModel": "No"
 				}
 			}
@@ -19080,7 +19501,7 @@
 					"enClient": "New Year's Blade Demon",
 					"cnClient": "新年的剑鬼",
 					"jpClient": "正月の剣鬼",
-					"obtainedFrom": "Swirling Cherry Blossoms  Minigames",
+					"obtainedFrom": "Swirling Cherry Blossoms Minigames",
 					"live2dModel": "No"
 				}
 			}
@@ -23507,7 +23928,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": "Only during event: The Return of the War God",
 				"exchange": false
 			}
 		},
@@ -24987,7 +25408,7 @@
 					"enClient": "Summer Offensive?",
 					"cnClient": "季夏攻势？",
 					"jpClient": "夏の大作戦？",
-					"obtainedFrom": "Summer's Big Operation  - Complete the event task",
+					"obtainedFrom": "Summer's Big Operation Event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -25014,7 +25435,7 @@
 					"enClient": "Dressy Black Cat",
 					"cnClient": "盛装的黑猫",
 					"jpClient": "盛装の黒猫",
-					"obtainedFrom": "Special Party by the Harbor  - Complete the event task",
+					"obtainedFrom": "Special Party by the Harbor Event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -25027,7 +25448,7 @@
 					"enClient": "Sales Clerk Offensive?!",
 					"cnClient": "看板娘攻势！？",
 					"jpClient": "看板娘大作戦！",
-					"obtainedFrom": "Atré Collab  - Spend 8000 Oil Total",
+					"obtainedFrom": "Atré Collab - Spend 8000 Oil Total",
 					"live2dModel": "No"
 				}
 			},
@@ -26983,7 +27404,7 @@
 					"enClient": "The Dream of the Autumn Pillow",
 					"cnClient": "秋枕梦",
 					"jpClient": "宵の夢",
-					"obtainedFrom": "Memory Lane  - Collect Memory Cards",
+					"obtainedFrom": "Memory Lane - Collect Memory Cards",
 					"live2dModel": "No"
 				}
 			}
@@ -30150,7 +30571,7 @@
 					"enClient": "Welcome to AzurCon!",
 					"cnClient": "IJN_在A1摊位喵！",
 					"jpClient": "島へようこそ！",
-					"obtainedFrom": "Akashi's Fanbook  - Complete Painting No. 3",
+					"obtainedFrom": "Akashi's Fanbook - Complete Painting No. 3",
 					"live2dModel": "No"
 				}
 			}
@@ -31121,7 +31542,7 @@
 					"enClient": "Philosophy Sensei",
 					"cnClient": "哲学讲师",
 					"jpClient": "哲学講師",
-					"obtainedFrom": "Class Z-23 Sensei  - Complete the event tasks",
+					"obtainedFrom": "Class Z-23 Sensei - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -33631,7 +34052,7 @@
 					"enClient": "Dark Demon Princess",
 					"cnClient": "漆黑的魔姬",
 					"jpClient": "漆黒の魔姫",
-					"obtainedFrom": "Divergent Chessboard  Event Shop",
+					"obtainedFrom": "Divergent Chessboard Event Shop",
 					"cost": "4000 ( 1000 in CN server)",
 					"live2dModel": "No"
 				}
@@ -33948,7 +34369,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "铁血♥最可爱",
 					"jpClient": "Tekketsu♥Kawaii",
-					"obtainedFrom": "Skin Shop",
+					"obtainedFrom": "Crescendo of Polaris Skin Shop",
 					"cost": "1100",
 					"live2dModel": "Yes"
 				}
@@ -36622,7 +37043,7 @@
 			},
 			{
 				"name": "Moon Palace Rabbit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/13/Ning_HaiFestival.png/558px-Ning_HaiFestival.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9a/Ning_HaiFestivalJP.png/558px-Ning_HaiFestivalJP.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/Ning_HaiFestivalChibi.png",
 				"info": {
@@ -36635,6 +37056,20 @@
 				}
 			},
 			{
+				"name": "Normal",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9a/Ning_HaiFestivalJP.png/558px-Ning_HaiFestivalJP.png",
+				"background": null,
+				"chibi": null,
+				"info": {}
+			},
+			{
+				"name": "Censored",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/13/Ning_HaiFestival.png/558px-Ning_HaiFestival.png",
+				"background": null,
+				"chibi": null,
+				"info": {}
+			},
+			{
 				"name": "Dragon Sisters! ・N",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b7/Ning_HaiIdol.png/448px-Ning_HaiIdol.png",
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
@@ -36643,7 +37078,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "东煌姐妹！·N",
 					"jpClient": "東煌シスターズ！・N",
-					"obtainedFrom": "Skin Shop",
+					"obtainedFrom": "Crescendo of Polaris Skin Shop",
 					"cost": "1100",
 					"live2dModel": "Yes"
 				}
@@ -37150,7 +37585,7 @@
 			},
 			{
 				"name": "Osmanthus Moon Rabbit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bf/Ping_HaiFestival.png/578px-Ping_HaiFestival.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Ping_HaiFestivalJP.png/578px-Ping_HaiFestivalJP.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/46/Ping_HaiFestivalChibi.png",
 				"info": {
@@ -37163,6 +37598,20 @@
 				}
 			},
 			{
+				"name": "Normal",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Ping_HaiFestivalJP.png/578px-Ping_HaiFestivalJP.png",
+				"background": null,
+				"chibi": null,
+				"info": {}
+			},
+			{
+				"name": "Censored",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bf/Ping_HaiFestival.png/578px-Ping_HaiFestival.png",
+				"background": null,
+				"chibi": null,
+				"info": {}
+			},
+			{
 				"name": "Dragon Sisters! ・P",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/Ping_HaiIdol.png/456px-Ping_HaiIdol.png",
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
@@ -37171,7 +37620,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "东煌姐妹！·P",
 					"jpClient": "東煌シスターズ！・P",
-					"obtainedFrom": "Skin Shop",
+					"obtainedFrom": "Crescendo of Polaris Skin Shop",
 					"cost": "1100",
 					"live2dModel": "Yes"
 				}
@@ -37842,7 +38291,7 @@
 					"enClient": "Trickster Black Rabbit",
 					"cnClient": "捣蛋黑兔",
 					"jpClient": "トリッキーベイリー",
-					"obtainedFrom": "Halloween  - Finish the \"Mischievous Halloween\" questline",
+					"obtainedFrom": "Halloween - Finish the \"Mischievous Halloween\" questline",
 					"live2dModel": "No"
 				}
 			}
@@ -40050,7 +40499,7 @@
 					"enClient": "Spring Festival Sweets",
 					"cnClient": "春节的糖果",
 					"jpClient": "春節アメさん！",
-					"obtainedFrom": "",
+					"obtainedFrom": "Spring Festival Event tasks",
 					"live2dModel": "No"
 				}
 			}
@@ -40516,7 +40965,7 @@
 					"enClient": "New Year's Wish",
 					"cnClient": "新年祈愿",
 					"jpClient": "正月のお願い",
-					"obtainedFrom": "Happy New Year  - Complete the event tasks",
+					"obtainedFrom": "Happy New Year - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			}
@@ -41989,7 +42438,10 @@
 				"name": "PHI",
 				"url": "https://twitter.com/phi_owo"
 			},
-			"voice": null
+			"voice": {
+				"name": "Azusa Iwakura",
+				"url": "https://twitter.com/iwakura_azusa"
+			}
 		},
 		"skins": [
 			{
@@ -44448,7 +44900,7 @@
 					"enClient": "Fanclub Sleepover",
 					"cnClient": "新番组之夜",
 					"jpClient": "放送待機中",
-					"obtainedFrom": "Fanclub Sleepover  Event Questline",
+					"obtainedFrom": "Fanclub Sleepover Event Questline",
 					"live2dModel": "No"
 				}
 			}
@@ -48669,7 +49121,7 @@
 					"enClient": "Highway Star",
 					"cnClient": "Highway·Star",
 					"jpClient": "ハイウェイ・スター",
-					"obtainedFrom": "Highway Star  Event Questline",
+					"obtainedFrom": "Highway Star Event Questline",
 					"live2dModel": "No"
 				}
 			}
@@ -49529,7 +49981,7 @@
 					"enClient": "The Reindeer's Present",
 					"cnClient": "驯鹿与圣诞礼物",
 					"jpClient": "トナカイさんの土産や～♪",
-					"obtainedFrom": "Operation: Christmas  - Complete the event tasks",
+					"obtainedFrom": "Operation: Christmas - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			},
@@ -49542,7 +49994,7 @@
 					"enClient": "Woozy Party",
 					"cnClient": "夜宴微醺",
 					"jpClient": "ほろ酔いパーティー",
-					"obtainedFrom": "Woozy Party  - Complete the event tasks",
+					"obtainedFrom": "Woozy Party - Complete the event tasks",
 					"live2dModel": "No"
 				}
 			}
@@ -55070,7 +55522,7 @@
 					"enClient": "Côte d'Azur",
 					"cnClient": "蓝色海岸",
 					"jpClient": "コート・ダジュール",
-					"obtainedFrom": "Iris of Light and Dark   Skin Shop",
+					"obtainedFrom": "Iris of Light and Dark Skin Shop",
 					"cost": "1080",
 					"live2dModel": "Yes"
 				}
@@ -55949,7 +56401,7 @@
 					"enClient": "Été Brillant",
 					"cnClient": "闪耀的夏天",
 					"jpClient": "エテ・ブリリアント",
-					"obtainedFrom": "Iris of Light and Dark  - 8000  Oil Usage Milestone reward",
+					"obtainedFrom": "Iris of Light and Dark - 8000  Oil Usage Milestone reward",
 					"live2dModel": "No"
 				}
 			},
@@ -56527,7 +56979,7 @@
 					"cn": "2700磅的正义",
 					"jp": "2700ポンドの正義"
 				},
-				"description": "Main gun property is changed to SHS. Increases salvo damage depending on max distances Salvo traveled, dealing bonus damage up to 15% (30%).SHS Damage Modifier against Light armor is 60%, Medium is 135%, and Heavy is 115%.",
+				"description": "Main gun property is changed to SHS with 60/135/115 modifiers. Increases salvo damage depending on max distances Salvo traveled, dealing bonus damage up to 15% (30%).",
 				"color": "pink"
 			}
 		],
@@ -58113,7 +58565,7 @@
 					"enClient": "Mystical Night",
 					"cnClient": "Mystical Night",
 					"jpClient": "ミスティックナイト",
-					"obtainedFrom": "Halloween Chaos  - Complete all \"Halloween Chaos\" tasks",
+					"obtainedFrom": "Halloween Chaos - Complete all \"Halloween Chaos\" tasks",
 					"live2dModel": "No"
 				}
 			}
@@ -61896,7 +62348,7 @@
 					"enClient": "Style of the East",
 					"cnClient": "东煌之风",
 					"jpClient": "安陽の異文化勉強",
-					"obtainedFrom": "Lunar New Year 2019  - Complete 10 laps in the board game",
+					"obtainedFrom": "Lunar New Year 2019 - Complete 10 laps in the board game",
 					"live2dModel": "No"
 				}
 			}
@@ -63078,7 +63530,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/9/96/Skill_11980.png",
 				"names": {
-					"en": "Task Group",
+					"en": "Task Force Leader",
 					"cn": "特混分队旗舰",
 					"jp": "タスクグループ"
 				},
@@ -63088,7 +63540,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/7/73/Skill_11990.png",
 				"names": {
-					"en": "Relentless Persistence",
+					"en": "Unwavering Resolution",
 					"cn": "恪尽职守",
 					"jp": "堅忍不抜"
 				},
@@ -64790,7 +65242,7 @@
 					"enClient": "Party Knight!",
 					"cnClient": "嬉闹之夜！",
 					"jpClient": "ハッピーナイト",
-					"obtainedFrom": "Scherzo of Iron and Blood  -  15,000",
+					"obtainedFrom": "Scherzo of Iron and Blood -  15,000",
 					"live2dModel": "No"
 				}
 			}
@@ -65210,7 +65662,7 @@
 					"enClient": "Science Rules!",
 					"cnClient": "理科实验时间！",
 					"jpClient": "理科実験タイム！",
-					"obtainedFrom": "Science Rules!  - Complete the event tasks.",
+					"obtainedFrom": "Science Rules! - Complete the event tasks.",
 					"live2dModel": "No"
 				}
 			}
@@ -66414,7 +66866,7 @@
 			},
 			{
 				"name": "白玉佳人",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/30/SwiftsureSpring.png/547px-SwiftsureSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/ab/SwiftsureSpringChibi.png",
 				"info": {
@@ -67712,7 +68164,7 @@
 					"enClient": "Wallflower in the Corner",
 					"cnClient": "角落的向日葵",
 					"jpClient": "隅っコのひまわり",
-					"obtainedFrom": "Wallflower in the Corner  Event Questline",
+					"obtainedFrom": "Wallflower in the Corner Event Questline",
 					"live2dModel": "No"
 				}
 			}
@@ -74817,6 +75269,620 @@
 			}
 		]
 	},
+	"427": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Halsey_Powell",
+		"id": "427",
+		"names": {
+			"en": "Halsey Powell",
+			"code": "USS Halsey Powell",
+			"cn": "哈尔西·鲍威尔",
+			"jp": "ハルゼー・パウエル",
+			"kr": null
+		},
+		"class": "Fletcher",
+		"nationality": "Eagle Union",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/6a/Halsey_PowellIcon.png",
+		"rarity": "Rare",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120": {
+				"health": "2095",
+				"armor": "Light",
+				"reload": "203",
+				"luck": "55",
+				"firepower": "81",
+				"torpedo": "281",
+				"evasion": "160",
+				"speed": "42",
+				"antiair": "220",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "198",
+				"antisubmarineWarfare": "214"
+			},
+			"level100": {
+				"health": "1746",
+				"armor": "Light",
+				"reload": "177",
+				"luck": "55",
+				"firepower": "70",
+				"torpedo": "246",
+				"evasion": "154",
+				"speed": "42",
+				"antiair": "191",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "188",
+				"antisubmarineWarfare": "193"
+			},
+			"baseStats": {
+				"health": "338",
+				"armor": "Light",
+				"reload": "74",
+				"luck": "55",
+				"firepower": "15",
+				"torpedo": "52",
+				"evasion": "59",
+				"speed": "42",
+				"antiair": "41",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "72",
+				"antisubmarineWarfare": "53"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 120
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 120,
+				"maxEfficiency": 130
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 125,
+				"maxEfficiency": 135
+			}
+		},
+		"enhanceValue": {
+			"firepower": 5,
+			"torpedo": 17,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 1
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/37/Skill_2180.png",
+				"names": {
+					"en": "Comprehensive Defense",
+					"cn": "全面戒备",
+					"jp": "全面警戒"
+				},
+				"description": "After the start of the battle and every 30 seconds after that: increases this ship's AA and ASW by 5.0% (15.0%) for 20s.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-フレッチャー級"
+				},
+				"description": "Every 15 (10) shots from the main battery, trigger Full Barrage - Fletcher-Class I (II)",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gains Full Barrage I",
+				"All Weapon Efficiency +2%"
+			],
+			[
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
+				"All Weapon Efficiency +3%"
+			],
+			[
+				"Upgrades Full Barrage I→II",
+				"All Weapon Efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Anti-air",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 6,
+				"maxLimitBreak": 13,
+				"maxLevel": 9,
+				"total": 28
+			}
+		},
+		"construction": {
+			"constructionTime": "00:28:00",
+			"availableIn": {
+				"light": "Fight On, Royal Maids!",
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": "Rain Lan",
+			"web": {
+				"name": "Rain_Lan_其实叫乳量",
+				"url": "https://weibo.com/u/2120756483"
+			},
+			"pixiv": {
+				"name": "Rain Lan",
+				"url": "https://www.pixiv.net/member.php?id=2922722"
+			},
+			"twitter": {
+				"name": "Rain Lan",
+				"url": "https://twitter.com/h49889577"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b2/Halsey_Powell.png/615px-Halsey_Powell.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/02/Halsey_PowellChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Spring's Lucky Star",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2d/Halsey_PowellSpring.png/516px-Halsey_PowellSpring.png",
+				"background": "https://azurlane.koumakan.jp/w/images/b/b4/Skin_BG_127.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/62/Halsey_PowellSpringChibi.png",
+				"info": {
+					"enClient": "Spring's Lucky Star",
+					"cnClient": "春节小福星！",
+					"jpClient": "新春のラッキースター！",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			}
+		]
+	},
+	"428": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Biloxi",
+		"id": "428",
+		"names": {
+			"en": "Biloxi",
+			"code": "USS Biloxi",
+			"cn": "比洛克西",
+			"jp": "ビロクシ",
+			"kr": null
+		},
+		"class": "Cleveland",
+		"nationality": "Eagle Union",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/52/BiloxiIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120": {
+				"health": "4308",
+				"armor": "Light",
+				"reload": "187",
+				"luck": "68",
+				"firepower": "151",
+				"torpedo": "0",
+				"evasion": "96",
+				"speed": "33",
+				"antiair": "323",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "169",
+				"antisubmarineWarfare": "101"
+			},
+			"level100": {
+				"health": "3881",
+				"armor": "Light",
+				"reload": "163",
+				"luck": "68",
+				"firepower": "132",
+				"torpedo": "0",
+				"evasion": "78",
+				"speed": "33",
+				"antiair": "286",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "151",
+				"antisubmarineWarfare": "89"
+			},
+			"baseStats": {
+				"health": "751",
+				"armor": "Light",
+				"reload": "69",
+				"luck": "68",
+				"firepower": "28",
+				"torpedo": "0",
+				"evasion": "30",
+				"speed": "33",
+				"antiair": "61",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "58",
+				"antisubmarineWarfare": "24"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "DD Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 70
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 120
+			}
+		},
+		"enhanceValue": {
+			"firepower": 12,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/37/Skill_2200.png",
+				"names": {
+					"en": "Air-Surface Switch",
+					"cn": "空海切换",
+					"jp": "両用兵装-127mm連装両用砲MK12"
+				},
+				"description": "While this ship is equipping the Twin 127mm (5\"/38 Mk 38): increases this ship's AA by 5% (15%) but decreases its FP by 15% (5%); while not equipping this gun: increases this ship's FP by 5% (15%) but decreases its AA by 15% (5%).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/e6/Skill_12960.png",
+				"names": {
+					"en": "Protective Blaze",
+					"cn": "守护之焰",
+					"jp": "守りの炎"
+				},
+				"description": "Once per battle, when the HP of any ship in your fleet falls below 50.0%: for 12s, increases this ship's AA by 5.0% (15.0%) and decreases the DMG taken by the ship whose HP fell below the threshold by 5.0% (15.0%).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-クリーブランド級"
+				},
+				"description": "Activates All Out Assault Ⅱ: Cleveland Class once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Anti-air",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 10,
+				"maxLimitBreak": 20,
+				"maxLevel": 15,
+				"total": 45
+			}
+		},
+		"construction": {
+			"constructionTime": "01:25:00",
+			"availableIn": {
+				"light": "Fight On, Royal Maids!",
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": null,
+			"web": null,
+			"pixiv": null,
+			"twitter": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/04/Biloxi.png/593px-Biloxi.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/2c/BiloxiChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Dapper Gangstress",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5f/BiloxiSpring.png/553px-BiloxiSpring.png",
+				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c6/BiloxiSpringChibi.png",
+				"info": {
+					"enClient": "Dapper Gangstress",
+					"cnClient": "俊俏丽人",
+					"jpClient": "麗人ギャング",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			}
+		]
+	},
+	"429": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Uranami",
+		"id": "429",
+		"names": {
+			"en": "Uranami",
+			"code": "IJN Uranami",
+			"cn": "朴",
+			"jp": "浦波",
+			"kr": null
+		},
+		"class": "Fubuki",
+		"nationality": "Sakura Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/da/UranamiIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★☆☆☆",
+			"value": 2
+		},
+		"stats": {
+			"level120": {
+				"health": "1798",
+				"armor": "Light",
+				"reload": "208",
+				"luck": "75",
+				"firepower": "65",
+				"torpedo": "504",
+				"evasion": "195",
+				"speed": "46",
+				"antiair": "146",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "189",
+				"antisubmarineWarfare": "195"
+			},
+			"level100": {
+				"health": "1499",
+				"armor": "Light",
+				"reload": "181",
+				"luck": "75",
+				"firepower": "57",
+				"torpedo": "458",
+				"evasion": "188",
+				"speed": "46",
+				"antiair": "127",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "180",
+				"antisubmarineWarfare": "176"
+			},
+			"baseStats": {
+				"health": "290",
+				"armor": "Light",
+				"reload": "76",
+				"luck": "75",
+				"firepower": "12",
+				"torpedo": "97",
+				"evasion": "72",
+				"speed": "46",
+				"antiair": "27",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "69",
+				"antisubmarineWarfare": "48"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 140,
+				"maxEfficiency": 160
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			}
+		},
+		"enhanceValue": {
+			"firepower": 4,
+			"torpedo": 32,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b2/Skill_2140.png",
+				"names": {
+					"en": "Anti-Destroyer Tactics",
+					"cn": "驱逐战强化",
+					"jp": "対駆逐艦戦法"
+				},
+				"description": "Increases this ship's Hit Rate against enemy DDs by 5.0% (20.0%) and decreases the DMG it takes from enemy DD Torpedoes by 5.0% (20.0%).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/5/51/Skill_10900.png",
+				"names": {
+					"en": "Rescue Operations",
+					"cn": "救援组",
+					"jp": "救助活動"
+				},
+				"description": "When an allied ship's HP falls to 0: 30.0% (60.0%) chance to heal self by 3.5% (8.0%) of own max HP and other allied ships' HP by 1.2% (3.0%) of their max HP.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-吹雪型"
+				},
+				"description": "Activates All Out Assault Ⅱ: Fubuki Class once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gains Full Barrage I",
+				"Torpedo Efficiency +5%"
+			],
+			[
+				"Max Torpedo Capacity +1",
+				"Pre-Loaded Torpedo +1",
+				"Torpedo Efficiency +10%"
+			],
+			[
+				"Upgrades Full Barrage I→II",
+				"All Weapon Efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Reload",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 5,
+				"maxLimitBreak": 11,
+				"maxLevel": 8,
+				"total": 24
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"gallery": [],
+		"misc": {
+			"artist": null,
+			"web": null,
+			"pixiv": null,
+			"twitter": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/Uranami.png/616px-Uranami.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/f0/UranamiChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		]
+	},
 	"9001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tone",
 		"id": "9001",
@@ -75409,7 +76475,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/a/a4/Skill_12000.png",
 				"names": {
-					"en": "Comrades From the Far East",
+					"en": "Here to Help",
 					"cn": "远东的羁绊",
 					"jp": "推し仲間"
 				},
@@ -76644,7 +77710,7 @@
 					"enClient": "Christmas Photoshoot",
 					"cnClient": "圣诞摄影会！",
 					"jpClient": "聖夜撮影会！",
-					"obtainedFrom": "Christmas 2017  - Complete the \"Holy Night of Love and Peace\" questline",
+					"obtainedFrom": "Christmas 2017 - Complete the \"Holy Night of Love and Peace\" questline",
 					"live2dModel": "No"
 				}
 			}
@@ -76855,7 +77921,7 @@
 					"enClient": "Cheerleader On The Playground",
 					"cnClient": "操场边的拉拉队长",
 					"jpClient": "場外のチアリーダー",
-					"obtainedFrom": "School Term  - Complete the \"School Term\" questline",
+					"obtainedFrom": "School Term - Complete the \"School Term\" questline",
 					"live2dModel": "No"
 				}
 			}
@@ -79156,7 +80222,7 @@
 					"enClient": "skin unavailable",
 					"cnClient": "33娘",
 					"jpClient": "skin unavailable",
-					"obtainedFrom": "Bilibili 8th Anniversary  Event Shop",
+					"obtainedFrom": "Bilibili 8th Anniversary Event Shop",
 					"cost": "300",
 					"live2dModel": "No"
 				}
@@ -88993,7 +90059,7 @@
 					"enClient": "Long Island - Indoor Slacker",
 					"cnClient": "干物三连！",
 					"jpClient": "干物三連！",
-					"obtainedFrom": "Long Island's Secretary Task  Reward",
+					"obtainedFrom": "Long Island's Secretary Task Reward",
 					"live2dModel": "No"
 				}
 			}
@@ -90587,7 +91653,7 @@
 					"enClient": "Hibiscus-scented Idol",
 					"cnClient": "异国的偶像？",
 					"jpClient": "skin unavailable",
-					"obtainedFrom": "Hibiscus-scented Idol  Event Shop",
+					"obtainedFrom": "Hibiscus-scented Idol Event Shop",
 					"cost": "300",
 					"live2dModel": "No"
 				}
@@ -90615,7 +91681,7 @@
 					"enClient": "Superstar of the Blue Seas",
 					"cnClient": "碧海的偶像",
 					"jpClient": "青き海のチャリティーライブ",
-					"obtainedFrom": "Superstar of the Blue Seas  - 4000 Point Milestone",
+					"obtainedFrom": "Superstar of the Blue Seas - 4000 Point Milestone",
 					"live2dModel": "No"
 				}
 			}
@@ -92242,6 +93308,21 @@
 			"value": 2
 		},
 		"stats": {
+			"level120Retrofit": {
+				"health": "1535",
+				"armor": "Light",
+				"reload": "192",
+				"luck": "72",
+				"firepower": "65",
+				"torpedo": "360",
+				"evasion": "231",
+				"speed": "47",
+				"antiair": "194",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "186",
+				"antisubmarineWarfare": "216"
+			},
 			"level120": {
 				"health": "1370",
 				"armor": "Light",
@@ -92256,6 +93337,21 @@
 				"oilConsumption": "8",
 				"accuracy": "186",
 				"antisubmarineWarfare": "176"
+			},
+			"level100Retrofit": {
+				"health": "1307",
+				"armor": "Light",
+				"reload": "167",
+				"luck": "72",
+				"firepower": "56",
+				"torpedo": "320",
+				"evasion": "225",
+				"speed": "47",
+				"antiair": "174",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "177",
+				"antisubmarineWarfare": "198"
 			},
 			"level100": {
 				"health": "1142",
@@ -92292,17 +93388,20 @@
 			"1": {
 				"type": "DD Guns",
 				"minEfficiency": 100,
-				"maxEfficiency": 120
+				"maxEfficiency": 120,
+				"kaiEfficiency": 120
 			},
 			"2": {
 				"type": "Torpedoes",
 				"minEfficiency": 130,
-				"maxEfficiency": 135
+				"maxEfficiency": 135,
+				"kaiEfficiency": 135
 			},
 			"3": {
 				"type": "Anti-Air Guns",
 				"minEfficiency": 100,
-				"maxEfficiency": 105
+				"maxEfficiency": 105,
+				"kaiEfficiency": 115
 			}
 		},
 		"enhanceValue": {
@@ -92328,13 +93427,23 @@
 				"color": "gold"
 			},
 			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/e7/Skill_12970.png",
+				"names": {
+					"en": "(Retrofit) Practical Teaching",
+					"cn": "实战教导",
+					"jp": "実技指導"
+				},
+				"description": "For 80 seconds after battle starts, increases damage dealt by self by 5% (15%), and reduces damage taken by self by 3.5% (8%) and by other Destroyers in the same fleet by 4.5% (12%).",
+				"color": "deepskyblue"
+			},
+			{
 				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "全弹发射",
 					"jp": "全弾発射-A級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - A-Class I(II)",
+				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - A-Class I (II)",
 				"color": "pink"
 			}
 		],
@@ -92377,6 +93486,202 @@
 				"total": 15
 			}
 		},
+		"retrofit": true,
+		"retrofitId": "3081",
+		"retrofitProjects": {
+			"A": {
+				"name": "Hull Improvement Ⅰ",
+				"attributes": [
+					"\"Health\" +45"
+				],
+				"materials": [
+					"2x \"DestroyerT1BP\""
+				],
+				"coins": 300,
+				"level": 1,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": []
+			},
+			"B": {
+				"name": "Evasion Enhancement Ⅰ",
+				"attributes": [
+					"\"Evasion\" +5"
+				],
+				"materials": [
+					"2x \"DestroyerT1BP\""
+				],
+				"coins": 400,
+				"level": 5,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"C": {
+				"name": "AA Gun Improvement Ⅰ",
+				"attributes": [
+					"Equip 3 Efficiency +5%"
+				],
+				"materials": [
+					"3x \"DestroyerT1BP\""
+				],
+				"coins": 600,
+				"level": 20,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"D": {
+				"name": "Antiaircraft Enhancement Ⅰ",
+				"attributes": [
+					"\"Anti-air\" +15"
+				],
+				"materials": [
+					"3x \"DestroyerT1BP\""
+				],
+				"coins": 800,
+				"level": 25,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"E": {
+				"name": "Anti-Air Gun Improvement Ⅰ",
+				"attributes": [
+					"Equip 3 Efficiency +5%"
+				],
+				"materials": [
+					"3x \"DestroyerT1BP\""
+				],
+				"coins": 1000,
+				"level": 35,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"F": {
+				"name": "Anti-Air Enhancement Ⅰ",
+				"attributes": [
+					"\"Anti-air\" +15"
+				],
+				"materials": [
+					"4x \"DestroyerT1BP\""
+				],
+				"coins": 1200,
+				"level": 40,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"E"
+				]
+			},
+			"G": {
+				"name": "Hull Improvement Ⅱ",
+				"attributes": [
+					"\"Health\" +45 / \"Health\" +75"
+				],
+				"materials": [
+					"1 / 2x \"DestroyerT2BP\""
+				],
+				"coins": 1500,
+				"level": 50,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 2,
+				"require": [
+					"E"
+				]
+			},
+			"H": {
+				"name": "Motor Enhancement",
+				"attributes": [
+					"Spd +3"
+				],
+				"materials": [
+					"3x \"DestroyerT2BP\""
+				],
+				"coins": 1800,
+				"level": 70,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"G"
+				]
+			},
+			"I": {
+				"name": "Evasion Enhancement Ⅱ",
+				"attributes": [
+					"\"Evasion\" +5 / \"Evasion\" +10"
+				],
+				"materials": [
+					"2 / 2x \"DestroyerT2BP\""
+				],
+				"coins": 2000,
+				"level": 75,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 2,
+				"require": [
+					"B",
+					"H"
+				]
+			},
+			"J": {
+				"name": "Modernization",
+				"attributes": [
+					"\"Anti-air\" +10",
+					"\"Anti-submarine warfare\" +40",
+					"Torpedo Mount -1",
+					"AA Mount +1"
+				],
+				"materials": [
+					"1x \"DestroyerT3BP\"",
+					"1x \"Amazon\" or \"Universal Bullin\""
+				],
+				"coins": 2500,
+				"level": 80,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"H",
+					"I"
+				]
+			},
+			"K": {
+				"name": "Tactical Learning",
+				"attributes": [
+					"Unlock Skill \"Practical Teaching\""
+				],
+				"materials": [
+					"1x \"DestroyerT3BP\""
+				],
+				"coins": 3000,
+				"level": 85,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"F",
+					"J"
+				]
+			}
+		},
 		"construction": {
 			"constructionTime": "00:19:00",
 			"availableIn": {
@@ -92387,12 +93692,7 @@
 				"exchange": false
 			}
 		},
-		"gallery": [
-			{
-				"description": "Amagi, Amazon, Z46, North Carolina, and i-13 at an arcade",
-				"url": "https://azurlane.koumakan.jp/w/images/6/61/Bg_arcade.png"
-			}
-		],
+		"gallery": [],
 		"misc": {
 			"artist": "时辰",
 			"web": {
@@ -92422,7 +93722,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2a/AmazonKai.png/729px-AmazonKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/11/AmazonKaiChibi.png",
 				"info": {
@@ -95108,7 +96408,7 @@
 					"enClient": "Sea Star on Shore",
 					"cnClient": "海滨的十字星",
 					"jpClient": "海辺の十字星",
-					"obtainedFrom": "Sea Star on Shore  - Complete the \"Sea Star on Shore\" questline",
+					"obtainedFrom": "Sea Star on Shore - Complete the \"Sea Star on Shore\" questline",
 					"live2dModel": "No"
 				}
 			},
@@ -95135,7 +96435,7 @@
 					"enClient": "Winter Date",
 					"cnClient": "冬日的约会",
 					"jpClient": "冬のデート",
-					"obtainedFrom": "Blessed New Year  - Participate in the event for 7 days",
+					"obtainedFrom": "Blessed New Year - Participate in the event for 7 days",
 					"live2dModel": "No"
 				}
 			},
@@ -104449,9 +105749,18 @@
 		"gallery": [],
 		"misc": {
 			"artist": "Gaou",
-			"web": null,
-			"pixiv": null,
-			"twitter": null,
+			"web": {
+				"name": "matsulatte",
+				"url": "http://matsulatte.uunyan.com/"
+			},
+			"pixiv": {
+				"name": "がおう",
+				"url": "https://www.pixiv.net/member.php?id=3569577"
+			},
+			"twitter": {
+				"name": "がおう",
+				"url": "https://twitter.com/umaiyo_puyoman"
+			},
 			"voice": {
 				"name": "Play",
 				"url": "https://azurlane.koumakan.jp/w/images/5/50/Minato_Aqua_TitleScreen.ogg"
@@ -104647,8 +105956,14 @@
 		"misc": {
 			"artist": "Minamura Haruki",
 			"web": null,
-			"pixiv": null,
-			"twitter": null,
+			"pixiv": {
+				"name": "皆村春樹",
+				"url": "https://www.pixiv.net/en/users/6098"
+			},
+			"twitter": {
+				"name": "皆村春樹",
+				"url": "https://twitter.com/blackgate_info"
+			},
 			"voice": {
 				"name": "Play",
 				"url": "https://azurlane.koumakan.jp/w/images/0/0a/Natsuiro_Matsuri_TitleScreen.ogg"
@@ -104843,8 +106158,14 @@
 		"misc": {
 			"artist": "Nanakagura",
 			"web": null,
-			"pixiv": null,
-			"twitter": null,
+			"pixiv": {
+				"name": "ななかぐら",
+				"url": "https://www.pixiv.net/en/users/5816407"
+			},
+			"twitter": {
+				"name": "ななかぐら",
+				"url": "https://twitter.com/nana_kaguraaa"
+			},
 			"voice": {
 				"name": "Play",
 				"url": "https://azurlane.koumakan.jp/w/images/6/64/Nakiri_Ayame_TitleScreen.ogg"
@@ -105246,9 +106567,18 @@
 		"gallery": [],
 		"misc": {
 			"artist": "Izumi Sai",
-			"web": null,
-			"pixiv": null,
-			"twitter": null,
+			"web": {
+				"name": "wakabapeage",
+				"url": "http://www016.upp.so-net.ne.jp/wakaba-sprout/"
+			},
+			"pixiv": {
+				"name": "わかば",
+				"url": "https://www.pixiv.net/en/users/113222"
+			},
+			"twitter": {
+				"name": "わかば",
+				"url": "https://twitter.com/wakaba_sprout"
+			},
 			"voice": {
 				"name": "Play",
 				"url": "https://azurlane.koumakan.jp/w/images/4/4c/Ookami_Mio_TitleScreen.ogg"
