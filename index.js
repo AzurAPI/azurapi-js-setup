@@ -258,7 +258,7 @@ function publishShips() {
             skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.background = skin.background ? IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1) : null;
-            if (skin.info.live2dModel) skin.info.live2dModel = skin.info.live2dModel === "Yes" ? true : skin.info.live2dModel === "No" ? false : skin.info.live2dModel;
+            skin.info.live2dModel = skin.info.live2dModel === "Yes" ? true : skin.info.live2dModel === "No" ? false : false;
             newSkins.push(skin); //not sure why but this feels safer
         }
         SHIPS[key].skins = newSkins;
