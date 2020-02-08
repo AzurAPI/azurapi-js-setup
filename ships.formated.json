@@ -37060,14 +37060,18 @@
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Normal/image.png",
                 "background": null,
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Normal/chibi.png",
-                "info": {}
+                "info": {
+                    "live2dModel": false
+                }
             },
             {
                 "name": "Censored",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Censored/image.png",
                 "background": null,
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Censored/chibi.png",
-                "info": {}
+                "info": {
+                    "live2dModel": false
+                }
             },
             {
                 "name": "Dragon Sisters! ・N",
@@ -37602,14 +37606,18 @@
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Normal/image.png",
                 "background": null,
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Normal/chibi.png",
-                "info": {}
+                "info": {
+                    "live2dModel": false
+                }
             },
             {
                 "name": "Censored",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Censored/image.png",
                 "background": null,
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Censored/chibi.png",
-                "info": {}
+                "info": {
+                    "live2dModel": false
+                }
             },
             {
                 "name": "Dragon Sisters! ・P",
