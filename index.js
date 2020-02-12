@@ -258,7 +258,7 @@ function publishShips() {
             skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.background = skin.background ? IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1) : null;
-            skin.info.live2dModel = skin.info.live2dModel === "Yes" ? true : skin.info.live2dModel === "No" ? false : false;
+            skin.info.live2dModel = skin.info.live2dModel === "Yes" // true if and only if "Yes"
             newSkins.push(skin); //not sure why but this feels safer
         }
         SHIPS[key].skins = newSkins;
@@ -839,7 +839,7 @@ function parseEquipmentStatsSlot(valueNode) {
             type: "value",
             value: value
         }
-        data.formated = value;
+        data.formatted = value;
         return data;
     }
 }
