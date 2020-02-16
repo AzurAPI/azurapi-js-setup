@@ -283,7 +283,7 @@ function publishShips() {
     }
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync('./ships.json', ships_value);
-    fs.writeFileSync('./ships.formated.json', JSON.stringify(SHIPS, null, 4));
+    fs.writeFileSync('./ships.formatted.json', JSON.stringify(SHIPS, null, 4));
     VERSION_INFO.ships.hash = getHash(ships_value);
     VERSION_INFO.ships["version-number"] += 1;
     VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
@@ -711,20 +711,20 @@ function galleryThumbnailUrlToActualUrl(tdir) {
 
 function parseEquipment(href, category, body) {
     const doc = new JSDOM(body).window.document;
-    let tabs = doc.getElementsByClassName("eqbox");
+    let tabs = doc.getElementsByClassName("eq-box");
     process.stdout.write("tab count = " + tabs.length + " .");
     let eq = {
         wikiUrl: href,
         category: category,
         names: {
-            en: doc.querySelector('[lang="en"]') ? doc.querySelector('[lang="en"]').textContent : tabs[0].querySelector(".eqtitle").childNodes[0].textContent,
-            cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
-            jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
-            kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
+            en: doc.querySelector('[lang="en"]') ? doc.querySelector('[lang="en"]').childNodes[1].textContent.trim() : tabs[0].querySelector(".eq-title").childNodes[0].textContent.trim(),
+            cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').childNodes[1].textContent.trim() : null,
+            jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').childNodes[1].textContent.trim() : null,
+            kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').childNodes[1].textContent.trim() : null
         }
     };
     let tiers = {};
-    for (tab of tabs) {
+    for (let tab of tabs) {
         let t = parseEquipmentInfo(tab);
         process.stdout.write("tier = " + t.tier + " .");
         eq.type = t.type;
@@ -745,7 +745,7 @@ function parseEquipment(href, category, body) {
 }
 
 function parseEquipmentInfo(eqbox) {
-    let primaryRows = eqbox.querySelectorAll(".eqinfo:nth-child(2) td");
+    let primaryRows = eqbox.querySelectorAll(".eq-info:nth-child(2) td");
     let stars = primaryRows[1].firstElementChild.lastChild.innerHTML.split("<br>")[1];
     let image = srcset.parse(eqbox.getElementsByTagName("img")[0].srcset).sort((s1, s2) => compare(s2.density, s1.density))[0].url;
     if (!image || image == null || image === "null") image = eqbox.getElementsByTagName("img")[0].src;
@@ -762,21 +762,31 @@ function parseEquipmentInfo(eqbox) {
             stars: stars,
             value: stars.split("★").length - 1
         },
-        stats: parseEquipmentStats(eqbox.getElementsByClassName("eqstats")[0]),
-        fits: parseEquipmentFit(eqbox.getElementsByClassName("eqfits")[0]),
-        misc: parseEquipmentMisc(eqbox.getElementsByClassName("eqmisc")[0])
+        stats: parseEquipmentStats(eqbox.getElementsByClassName("eq-stats")[0]),
+        fits: parseEquipmentFit(eqbox.getElementsByClassName("eq-fits")[0]),
+        misc: parseEquipmentMisc(eqbox.getElementsByClassName("eq-misc")[0])
     };
 }
 
 function parseEquipmentStats(eqstats) {
     let stats = {};
-    for (row of eqstats.getElementsByClassName("eq-tr"))
-        stats[camelize((row.firstElementChild.firstElementChild.title ? row.firstElementChild.firstElementChild.title : row.firstElementChild.textContent.trim()).replace(/[^\w ]/g, ''))] = parseEquipmentStatsSlot(row.lastElementChild);
+    let rows = eqstats.getElementsByTagName("tr");
+    for (let i = 1; i < rows.length; i++) {
+        stats[camelize((rows[i].firstElementChild.firstElementChild.title ? rows[i].firstElementChild.firstElementChild.title : rows[i].firstElementChild.textContent.trim()).replace(/[^\w ]/g, ''))] = parseEquipmentStatsSlot(rows[i].lastElementChild);
+    }
     return stats;
 }
 
 function parseEquipmentStatsSlot(valueNode) {
-    if (valueNode.children.length > 0) {
+    if (valueNode.childNodes.length === 6) {
+        let data = {
+            type: "range",
+            firing: parseInt(valueNode.childNodes[2].textContent.trim()),
+            shell: parseInt(valueNode.childNodes[5].textContent.trim())
+        };
+        data.formatted = "Firing: " + data.firing + "\n" + "Shell: " + data.shell;
+        return data;
+    } else if (valueNode.children.length > 0) {
         let statValue = [];
         for (let i = 0; i < valueNode.children.length; i++)
             if (valueNode.children[i].textContent.trim()) statValue[i] = parseEquipmentStatsSlot(valueNode.children[i]);
@@ -847,10 +857,10 @@ function parseEquipmentStatsSlot(valueNode) {
 function parseEquipmentFit(eqfits) {
     let fits = {};
     for (row of eqfits.getElementsByTagName("tr")) { // GRR, it was an one liner, unlucky me had to debug it
-        let name = camelize(row.children[1].textContent.trim());
-        if (row.children[2].textContent.trim() === "✘") fits[name] = null;
-        else if (row.children[2].textContent.trim() === "✔") fits[name] = "primary";
-        else fits[name] = row.children[2].getElementsByClassName("tooltiptext")[0] ? row.children[2].getElementsByClassName("tooltiptext")[0].textContent.trim() : "unspecified";
+        let name = camelize(row.children[0].textContent.trim());
+        if (row.children[1].textContent.trim() === "✘") fits[name] = null;
+        else if (row.children[1].textContent.trim() === "✔") fits[name] = "primary";
+        else fits[name] = row.children[1].getElementsByClassName("tooltiptext")[0] ? row.children[1].getElementsByClassName("tooltiptext")[0].textContent.trim() : "unspecified";
         if (fits[name] !== null && /^(.+) Only$/.test(fits[name])) fits[name] = fits[name].replace(/^(.+) Only$/, '\"$1\" only'); // XXX Only,
         if (fits[name] === "Secondary gun") fits[name] = "secondary";
     }
@@ -858,7 +868,7 @@ function parseEquipmentFit(eqfits) {
 }
 
 function parseEquipmentMisc(eqmisc) {
-    let datas = eqmisc.getElementsByClassName("eq-td");
+    let datas = eqmisc.getElementsByTagName("td");
     return {
         obtainedFrom: datas[0].textContent,
         notes: datas[1].textContent,

@@ -69,9 +69,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -80,9 +80,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -188,8 +189,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "5",
-						"unit": "°",
-						"formatted": "5°"
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -198,9 +199,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 40,
+						"formatted": "Firing: 52\nShell: 40"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -268,8 +270,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "5",
-						"unit": "°",
-						"formatted": "5°"
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -278,9 +280,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 40,
+						"formatted": "Firing: 52\nShell: 40"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -348,8 +351,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "5",
-						"unit": "°",
-						"formatted": "5°"
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -358,9 +361,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 40,
+						"formatted": "Firing: 52\nShell: 40"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -465,9 +469,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "7",
-						"unit": "°",
-						"formatted": "7°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -476,9 +480,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -545,9 +550,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "7",
-						"unit": "°",
-						"formatted": "7°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -556,9 +561,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -625,9 +631,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "7",
-						"unit": "°",
-						"formatted": "7°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -636,9 +642,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -744,8 +751,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "5",
-						"unit": "°",
-						"formatted": "5°"
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -754,9 +761,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -824,8 +832,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "5",
-						"unit": "°",
-						"formatted": "5°"
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -834,9 +842,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -904,8 +913,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "5",
-						"unit": "°",
-						"formatted": "5°"
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -914,9 +923,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1021,9 +1031,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1032,9 +1042,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1101,9 +1112,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1112,9 +1123,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1181,9 +1193,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1192,9 +1204,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1299,9 +1312,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1310,9 +1323,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1379,9 +1393,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1390,9 +1404,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1459,9 +1474,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1470,9 +1485,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1497,6 +1513,287 @@
 						"type": "value",
 						"value": "AP",
 						"formatted": "AP"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
+	"Single 130mm (B13 Pattern 1936)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936)",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Single 130mm Main Gun",
+			"cn": "130mm单装炮",
+			"jp": "130mm単装砲",
+			"kr": "130mm 단장포"
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/1/1a/7200.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "secondary",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": "primary",
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Fight On, Royal Maids! individual point reward",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/f/f8/Bullet_pattern_equip_7240.gif"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "7",
+						"multiplier": "3",
+						"formatted": "4 × 3 → 7 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.73s",
+						"max": "1.61s",
+						"per": "volley",
+						"formatted": "1.73s → 1.61s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "22",
+						"unit": "° random aim",
+						"formatted": "22° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 50,
+						"formatted": "Firing: 65\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "3 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.2",
+						"unit": "s",
+						"formatted": "0.2s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "5",
+						"max": "12",
+						"multiplier": "3",
+						"formatted": "5 × 3 → 12 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.66s",
+						"max": "1.42s",
+						"per": "volley",
+						"formatted": "1.66s → 1.42s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "22",
+						"unit": "° random aim",
+						"formatted": "22° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 50,
+						"formatted": "Firing: 65\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "3 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.2",
+						"unit": "s",
+						"formatted": "0.2s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "6",
+						"max": "17",
+						"multiplier": "3",
+						"formatted": "6 × 3 → 17 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.60s",
+						"max": "1.20s",
+						"per": "volley",
+						"formatted": "1.60s → 1.20s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "22",
+						"unit": "° random aim",
+						"formatted": "22° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 50,
+						"formatted": "Firing: 65\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "3 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.2",
+						"unit": "s",
+						"formatted": "0.2s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE",
+						"formatted": "HE"
 					},
 					"characteristic": {
 						"type": "value",
@@ -1578,8 +1875,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1588,9 +1885,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1658,8 +1956,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1668,9 +1966,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1776,8 +2075,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1786,9 +2085,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1856,8 +2156,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1866,9 +2166,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -1936,8 +2237,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -1946,9 +2247,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2053,9 +2355,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "0",
-						"unit": "°",
-						"formatted": "0°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2064,9 +2366,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 50,
+						"shell": 40,
+						"formatted": "Firing: 50\nShell: 40"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2133,9 +2436,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "0",
-						"unit": "°",
-						"formatted": "0°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2144,9 +2447,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 50,
+						"shell": 40,
+						"formatted": "Firing: 50\nShell: 40"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2213,9 +2517,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "0",
-						"unit": "°",
-						"formatted": "0°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2224,9 +2528,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 50,
+						"shell": 40,
+						"formatted": "Firing: 50\nShell: 40"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2331,9 +2636,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
-						"unit": "°",
-						"formatted": "20°"
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2342,9 +2647,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 50,
+						"formatted": "Firing: 52\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2411,9 +2717,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
-						"unit": "°",
-						"formatted": "20°"
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2422,9 +2728,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 50,
+						"formatted": "Firing: 52\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2491,9 +2798,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
-						"unit": "°",
-						"formatted": "20°"
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2502,9 +2809,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 50,
+						"formatted": "Firing: 52\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2609,9 +2917,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
+						"value": "0",
 						"unit": "°",
-						"formatted": "10°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2620,9 +2928,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2689,9 +2998,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
+						"value": "0",
 						"unit": "°",
-						"formatted": "10°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2700,9 +3009,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2769,9 +3079,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
+						"value": "0",
 						"unit": "°",
-						"formatted": "10°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2780,9 +3090,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2887,9 +3198,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2898,9 +3209,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 50,
+						"formatted": "Firing: 52\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -2967,9 +3279,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -2978,9 +3290,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 50,
+						"formatted": "Firing: 52\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3047,9 +3360,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3058,9 +3371,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "40",
-						"formatted": "40"
+						"type": "range",
+						"firing": 52,
+						"shell": 50,
+						"formatted": "Firing: 52\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3165,9 +3479,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3176,9 +3490,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3283,9 +3598,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3294,9 +3609,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3363,9 +3679,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3374,9 +3690,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3443,9 +3760,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3454,9 +3771,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3561,9 +3879,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
+						"value": "0",
 						"unit": "°",
-						"formatted": "10°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3572,9 +3890,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3641,9 +3960,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
+						"value": "0",
 						"unit": "°",
-						"formatted": "10°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3652,9 +3971,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3721,9 +4041,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "10",
+						"value": "0",
 						"unit": "°",
-						"formatted": "10°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3732,9 +4052,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3839,9 +4160,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3850,9 +4171,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3919,9 +4241,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -3930,9 +4252,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -3999,9 +4322,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4010,9 +4333,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4117,9 +4441,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4128,9 +4452,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4197,9 +4522,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4208,9 +4533,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4277,9 +4603,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
+						"value": "0",
 						"unit": "°",
-						"formatted": "15°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4288,9 +4614,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4395,9 +4722,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
+						"value": "0",
 						"unit": "°",
-						"formatted": "20°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4406,9 +4733,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4475,9 +4803,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
+						"value": "0",
 						"unit": "°",
-						"formatted": "20°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4486,9 +4814,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4555,9 +4884,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
+						"value": "0",
 						"unit": "°",
-						"formatted": "20°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4566,9 +4895,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4673,9 +5003,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "12",
+						"value": "0",
 						"unit": "°",
-						"formatted": "12°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4684,9 +5014,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 62,
+						"shell": 50,
+						"formatted": "Firing: 62\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4753,9 +5084,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "12",
+						"value": "0",
 						"unit": "°",
-						"formatted": "12°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4764,9 +5095,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 62,
+						"shell": 50,
+						"formatted": "Firing: 62\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4833,9 +5165,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "12",
+						"value": "0",
 						"unit": "°",
-						"formatted": "12°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4844,9 +5176,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "45",
-						"formatted": "45"
+						"type": "range",
+						"firing": 62,
+						"shell": 50,
+						"formatted": "Firing: 62\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -4952,8 +5285,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -4962,9 +5295,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 63,
+						"shell": 55,
+						"formatted": "Firing: 63\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5032,8 +5366,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5042,9 +5376,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 63,
+						"shell": 55,
+						"formatted": "Firing: 63\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5112,8 +5447,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5122,9 +5457,10 @@
 						"formatted": "360°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 63,
+						"shell": 55,
+						"formatted": "Firing: 63\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5229,9 +5565,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5240,9 +5576,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5309,9 +5646,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5320,9 +5657,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5389,9 +5727,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "5",
+						"unit": "° random aim",
+						"formatted": "5° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5400,9 +5738,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5508,8 +5847,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° random aim",
+						"formatted": "40° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5518,9 +5857,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5588,8 +5928,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° random aim",
+						"formatted": "40° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5598,9 +5938,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5706,8 +6047,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "14",
-						"unit": "°",
-						"formatted": "14°"
+						"unit": "° cone pattern",
+						"formatted": "14° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5716,9 +6057,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5786,8 +6128,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "14",
-						"unit": "°",
-						"formatted": "14°"
+						"unit": "° cone pattern",
+						"formatted": "14° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5796,9 +6138,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5866,8 +6209,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "14",
-						"unit": "°",
-						"formatted": "14°"
+						"unit": "° cone pattern",
+						"formatted": "14° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5876,9 +6219,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -5984,8 +6328,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -5994,9 +6338,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6064,8 +6409,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6074,9 +6419,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6144,8 +6490,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6154,9 +6500,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6261,9 +6608,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "42",
-						"unit": "°",
-						"formatted": "42°"
+						"value": "45",
+						"unit": "° cone pattern",
+						"formatted": "45° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6272,9 +6619,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6341,9 +6689,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "42",
-						"unit": "°",
-						"formatted": "42°"
+						"value": "45",
+						"unit": "° cone pattern",
+						"formatted": "45° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6352,9 +6700,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6421,9 +6770,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "42",
-						"unit": "°",
-						"formatted": "42°"
+						"value": "45",
+						"unit": "° cone pattern",
+						"formatted": "45° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6432,9 +6781,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6540,8 +6890,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "16",
-						"unit": "°",
-						"formatted": "16°"
+						"unit": "° random aim",
+						"formatted": "16° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6550,9 +6900,10 @@
 						"formatted": "115°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 68,
+						"shell": 70,
+						"formatted": "Firing: 68\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6658,8 +7009,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "18",
-						"unit": "°",
-						"formatted": "18°"
+						"unit": "° random aim",
+						"formatted": "18° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6668,9 +7019,10 @@
 						"formatted": "115°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 68,
+						"shell": 70,
+						"formatted": "Firing: 68\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6775,9 +7127,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "42",
-						"unit": "°",
-						"formatted": "42°"
+						"value": "45",
+						"unit": "° cone pattern",
+						"formatted": "45° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6786,9 +7138,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "65",
-						"formatted": "65"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6855,9 +7208,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "42",
-						"unit": "°",
-						"formatted": "42°"
+						"value": "45",
+						"unit": "° cone pattern",
+						"formatted": "45° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6866,9 +7219,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "65",
-						"formatted": "65"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -6973,9 +7327,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "24",
-						"unit": "°",
-						"formatted": "24°"
+						"value": "18",
+						"unit": "° cone pattern",
+						"formatted": "18° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -6984,9 +7338,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7053,9 +7408,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "24",
-						"unit": "°",
-						"formatted": "24°"
+						"value": "18",
+						"unit": "° cone pattern",
+						"formatted": "18° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7064,9 +7419,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7133,9 +7489,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "24",
-						"unit": "°",
-						"formatted": "24°"
+						"value": "18",
+						"unit": "° cone pattern",
+						"formatted": "18° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7144,9 +7500,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7251,9 +7608,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7262,9 +7619,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 63,
+						"shell": 55,
+						"formatted": "Firing: 63\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7331,9 +7689,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7342,9 +7700,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 63,
+						"shell": 55,
+						"formatted": "Firing: 63\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7411,9 +7770,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7422,9 +7781,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 63,
+						"shell": 55,
+						"formatted": "Firing: 63\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7529,9 +7889,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
+						"value": "0",
 						"unit": "°",
-						"formatted": "20°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7540,9 +7900,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7609,9 +7970,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
+						"value": "0",
 						"unit": "°",
-						"formatted": "20°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7620,9 +7981,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7689,9 +8051,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "20",
+						"value": "0",
 						"unit": "°",
-						"formatted": "20°"
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7700,9 +8062,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7807,9 +8170,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7818,9 +8181,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 64,
+						"shell": 55,
+						"formatted": "Firing: 64\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7887,9 +8251,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7898,9 +8262,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 64,
+						"shell": 55,
+						"formatted": "Firing: 64\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -7967,9 +8332,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -7978,9 +8343,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 64,
+						"shell": 55,
+						"formatted": "Firing: 64\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8085,9 +8451,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8096,9 +8462,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8165,9 +8532,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8176,9 +8543,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8245,9 +8613,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8256,9 +8624,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8363,9 +8732,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8374,9 +8743,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8443,9 +8813,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8454,9 +8824,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8523,9 +8894,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "28",
-						"unit": "°",
-						"formatted": "28°"
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8534,9 +8905,10 @@
 						"formatted": "120°"
 					},
 					"range": {
-						"type": "value",
-						"value": "50",
-						"formatted": "50"
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8641,9 +9013,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "45",
-						"unit": "°",
-						"formatted": "45°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8652,9 +9024,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8721,9 +9094,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "45",
-						"unit": "°",
-						"formatted": "45°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8732,9 +9105,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8801,9 +9175,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "45",
-						"unit": "°",
-						"formatted": "45°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8812,9 +9186,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8919,9 +9294,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "45",
-						"unit": "°",
-						"formatted": "45°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -8930,9 +9305,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -8999,9 +9375,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "45",
-						"unit": "°",
-						"formatted": "45°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9010,9 +9386,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9079,9 +9456,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "45",
-						"unit": "°",
-						"formatted": "45°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9090,9 +9467,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9198,8 +9576,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "10",
-						"unit": "°",
-						"formatted": "10°"
+						"unit": "° random aim",
+						"formatted": "10° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9208,9 +9586,10 @@
 						"formatted": "38°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9316,8 +9695,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "22",
-						"unit": "°",
-						"formatted": "22°"
+						"unit": "° random aim",
+						"formatted": "22° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9326,9 +9705,10 @@
 						"formatted": "38°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9432,8 +9812,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9442,9 +9822,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 75,
+						"shell": 70,
+						"formatted": "Firing: 75\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9510,8 +9891,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9520,9 +9901,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 75,
+						"shell": 70,
+						"formatted": "Firing: 75\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9588,8 +9970,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "25",
-						"unit": "°",
-						"formatted": "25°"
+						"unit": "° random aim",
+						"formatted": "25° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9598,9 +9980,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "60",
-						"formatted": "60"
+						"type": "range",
+						"firing": 75,
+						"shell": 70,
+						"formatted": "Firing: 75\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9783,7 +10166,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange (800)",
-			"notes": "No notes",
+			"notes": "An enhanced prototype 203mm mounted gun issued in small quantities by the Department of Munitions.",
 			"animation": "https://azurlane.koumakan.jp/w/images/2/2c/Bullet_pattern_equip_33020.gif"
 		},
 		"tiers": {
@@ -9821,9 +10204,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9832,9 +10215,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -9939,9 +10323,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -9950,9 +10334,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10019,9 +10404,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10030,9 +10415,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10099,9 +10485,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10110,9 +10496,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10217,9 +10604,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10228,9 +10615,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10297,9 +10685,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10308,9 +10696,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10377,9 +10766,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10388,9 +10777,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10494,8 +10884,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "12",
-						"unit": "°",
-						"formatted": "12°"
+						"unit": "° random aim",
+						"formatted": "12° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10504,9 +10894,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "80",
-						"formatted": "80"
+						"type": "range",
+						"firing": 80,
+						"shell": 65,
+						"formatted": "Firing: 80\nShell: 65"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10612,8 +11003,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "16",
-						"unit": "°",
-						"formatted": "16°"
+						"unit": "° random aim",
+						"formatted": "16° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10622,9 +11013,10 @@
 						"formatted": "39°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10692,8 +11084,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "16",
-						"unit": "°",
-						"formatted": "16°"
+						"unit": "° random aim",
+						"formatted": "16° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10702,9 +11094,10 @@
 						"formatted": "39°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10772,8 +11165,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "16",
-						"unit": "°",
-						"formatted": "16°"
+						"unit": "° random aim",
+						"formatted": "16° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10782,9 +11175,10 @@
 						"formatted": "39°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10890,8 +11284,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10900,9 +11294,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -10970,8 +11365,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -10980,9 +11375,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -11050,8 +11446,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "15",
-						"unit": "°",
-						"formatted": "15°"
+						"unit": "° random aim",
+						"formatted": "15° random aim"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -11060,9 +11456,10 @@
 						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"value": "55",
-						"formatted": "55"
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -15679,9 +16076,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15689,11 +16086,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -15736,9 +16135,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15746,11 +16145,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -15793,9 +16194,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15803,11 +16204,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -15888,9 +16291,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15898,11 +16301,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -15945,9 +16350,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15955,11 +16360,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16002,9 +16409,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16012,11 +16419,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16098,8 +16507,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "60",
-						"unit": "°",
-						"formatted": "60°"
+						"unit": "° cone pattern",
+						"formatted": "60° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16107,11 +16516,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -16155,8 +16566,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "60",
-						"unit": "°",
-						"formatted": "60°"
+						"unit": "° cone pattern",
+						"formatted": "60° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16164,11 +16575,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -16212,8 +16625,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "60",
-						"unit": "°",
-						"formatted": "60°"
+						"unit": "° cone pattern",
+						"formatted": "60° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16221,11 +16634,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -16307,8 +16722,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "60",
-						"unit": "°",
-						"formatted": "60°"
+						"unit": "° cone pattern",
+						"formatted": "60° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16316,11 +16731,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16364,8 +16781,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "60",
-						"unit": "°",
-						"formatted": "60°"
+						"unit": "° cone pattern",
+						"formatted": "60° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16373,11 +16790,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16421,8 +16840,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "60",
-						"unit": "°",
-						"formatted": "60°"
+						"unit": "° cone pattern",
+						"formatted": "60° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16430,11 +16849,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16516,8 +16937,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16525,11 +16946,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -16573,8 +16996,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16582,11 +17005,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -16630,8 +17055,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16639,11 +17064,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Acoustic Homing",
@@ -16725,8 +17152,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16734,11 +17161,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16782,8 +17211,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16791,11 +17220,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16839,8 +17270,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16848,11 +17279,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16933,9 +17366,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "40",
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -16943,11 +17376,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -16990,9 +17425,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "40",
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17000,11 +17435,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17085,9 +17522,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"value": "30",
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17095,11 +17532,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17237,9 +17676,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17247,11 +17686,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17294,9 +17735,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17304,11 +17745,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17351,9 +17794,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "50",
-						"unit": "°",
-						"formatted": "50°"
+						"value": "48",
+						"unit": "° cone pattern",
+						"formatted": "48° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17361,11 +17804,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17447,8 +17892,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17456,11 +17901,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17504,8 +17951,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17513,11 +17960,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17561,8 +18010,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "40",
-						"unit": "°",
-						"formatted": "40°"
+						"unit": "° cone pattern",
+						"formatted": "40° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17570,11 +18019,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17656,8 +18107,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "30",
-						"unit": "°",
-						"formatted": "30°"
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17665,11 +18116,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17713,8 +18166,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "30",
-						"unit": "°",
-						"formatted": "30°"
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17722,11 +18175,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17770,8 +18225,8 @@
 					"spread": {
 						"type": "value_unit",
 						"value": "30",
-						"unit": "°",
-						"formatted": "30°"
+						"unit": "° cone pattern",
+						"formatted": "30° cone pattern"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -17779,11 +18234,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -17875,9 +18332,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -17970,9 +18428,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18027,9 +18486,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18084,9 +18544,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18179,9 +18640,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18236,9 +18698,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18293,9 +18756,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18388,9 +18852,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18445,9 +18910,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18502,9 +18968,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18597,9 +19064,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18654,9 +19122,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18711,9 +19180,10 @@
 						"formatted": "80°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18806,9 +19276,10 @@
 						"formatted": "90°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18863,9 +19334,10 @@
 						"formatted": "90°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18920,9 +19392,10 @@
 						"formatted": "90°"
 					},
 					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
 					},
 					"characteristic": {
 						"type": "value",
@@ -19015,9 +19488,10 @@
 						"formatted": "90°"
 					},
 					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
+						"type": "range",
+						"firing": 60,
+						"shell": 100,
+						"formatted": "Firing: 60\nShell: 100"
 					},
 					"characteristic": {
 						"type": "value",
@@ -19072,9 +19546,10 @@
 						"formatted": "90°"
 					},
 					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
+						"type": "range",
+						"firing": 60,
+						"shell": 100,
+						"formatted": "Firing: 60\nShell: 100"
 					},
 					"characteristic": {
 						"type": "value",
@@ -19129,9 +19604,10 @@
 						"formatted": "90°"
 					},
 					"range": {
-						"type": "value",
-						"value": "100",
-						"formatted": "100"
+						"type": "range",
+						"firing": 60,
+						"shell": 100,
+						"formatted": "Firing: 60\nShell: 100"
 					},
 					"characteristic": {
 						"type": "value",
@@ -20147,7 +20623,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "No notes",
+			"notes": "The Grumman XF5F Skyrocket prototype climbs at near-record speeds. Due to issues encountered during development and a lack of auxiliary gear, the Skyrocket was produced in limited quantities.",
 			"animation": null
 		},
 		"tiers": {
@@ -25458,8 +25934,8 @@
 			"battleship": null,
 			"battlecruiser": null,
 			"aviationBattleship": null,
-			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
 			"repairShip": null,
 			"submarine": null,
 			"submarineCarrier": null
@@ -30416,6 +30892,93 @@
 			}
 		}
 	},
+	"Twin 134mm High-Angle (QF Mark I)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mark_I)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "134mm Twin High-Angle Gun",
+			"cn": "双联装134mm高炮",
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/b/bf/21500.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Fight On, Royal Maids! individual point reward",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "15",
+						"formatted": "15"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "30",
+						"formatted": "30"
+					},
+					"damage": {
+						"type": "min_max",
+						"min": "53",
+						"max": "132",
+						"formatted": "53  → 132"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.11s",
+						"max": "1.77s",
+						"per": "volley",
+						"formatted": "2.11s → 1.77s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "35",
+						"formatted": "35"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			}
+		}
+	},
 	"Twin 20mm AA Oerlikon": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon",
 		"category": "Anti-Air Guns",
@@ -33142,7 +33705,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Acquired through research only.",
-			"notes": "Reduces likelihood of encountering Ambush/Airstrikes by 12%. Does not stack with SG Radar.",
+			"notes": "Reduces likelihood of encountering Ambush/Airstrikes by 12%.Does not improve likelihood of evading Ambushes.Does not stack with SG Radar.",
 			"animation": null
 		},
 		"tiers": {
@@ -33256,7 +33819,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "Decreases the cooldown of airstrikes by 4%.",
+			"notes": "Model 72/DM homing beacon. It is mounted on an aircraft carrier's mast to aid in adjusting the relative position between it and its aircraft during landing.Decreases the cooldown of airstrikes by 4%.",
 			"animation": null
 		},
 		"tiers": {
@@ -34393,7 +34956,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "When equipped on Anshan class: Increase main gun damage by 16% and improve their barrage",
+			"notes": "When equipped on Anshan class: Increase main gun damage by 16% and improve their barrage.\nEach Anshan class receives a different colored barrage (this does not affect damage type) when equipped:\n\nAn Shan - Green\nFu Shun - Red\nChang Chun - Yellow\nTai Yuan - Blue",
 			"animation": null
 		},
 		"tiers": {
@@ -35079,7 +35642,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "No notes",
+			"notes": "A high-angle anti-air device equipped with a rangefinder. Used to support anti-air guns for more effective anti-air defense.",
 			"animation": null
 		},
 		"tiers": {
@@ -35361,7 +35924,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Reward from The Return of the War God limited tasks.",
-			"notes": "Increases Luck by 5, critical rate by 5%, and increases fleet FP and Accuracy by 5% if equipped on Mikasa only.",
+			"notes": "Increases Critical Rate by 5%. When equipped on Mikasa: increases fleet FP and Accuracy by 5%.",
 			"animation": null
 		},
 		"tiers": {
@@ -35378,6 +35941,11 @@
 						"min": "5",
 						"max": "15",
 						"formatted": "5 → 15"
+					},
+					"luck": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
 					},
 					"accHit": {
 						"type": "min_max",
