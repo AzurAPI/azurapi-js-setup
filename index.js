@@ -342,7 +342,10 @@ async function fetchShipList(online) {
     if (!online && Object.keys(SHIP_LIST).length !== 0) return SHIP_LIST;
     console.log("Getting new ship list...");
     let LIST = {};
-    new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships")).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
+    let data;
+    if (!fs.existsSync('./web/ships.index.html') || online) fs.writeFileSync('./web/ships.index.html', data = await fetch("https://azurlane.koumakan.jp/List_of_Ships"));
+    else data = fs.readFileSync('./web/ships.index.html', 'utf8');
+    new JSDOM(data).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
         let columns = table_ship.childNodes;
         if (columns[0].tagName === "TD") LIST[columns[0].textContent] = {
             id: columns[0].textContent,

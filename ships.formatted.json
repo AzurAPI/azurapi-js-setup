@@ -3425,10 +3425,16 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
+            "artist": "Inayama",
             "web": null,
-            "pixiv": null,
-            "twitter": null,
+            "pixiv": {
+                "name": "稲山",
+                "url": "https://www.pixiv.net/member.php?id=3954"
+            },
+            "twitter": {
+                "name": "稲山",
+                "url": "https://twitter.com/inayama"
+            },
             "voice": {
                 "name": "Reina Ueda",
                 "url": "https://en.wikipedia.org/wiki/Reina_Ueda"
@@ -13355,19 +13361,13 @@
         },
         "gallery": [],
         "misc": {
-            "artist": "大月紅葉",
+            "artist": "侑了个侑",
             "web": {
-                "name": "大月紅葉",
-                "url": "http://weibo.com/ootsukimomiji"
+                "name": "侑了个侑",
+                "url": "https://www.weibo.com/soaryuna"
             },
-            "pixiv": {
-                "name": "大月紅葉",
-                "url": "https://www.pixiv.net/member.php?id=591937"
-            },
-            "twitter": {
-                "name": "大月紅葉",
-                "url": "https://twitter.com/dayuehongye"
-            },
+            "pixiv": null,
+            "twitter": null,
             "voice": {
                 "name": "Maaya Uchida",
                 "url": "https://en.wikipedia.org/wiki/Maaya_Uchida"
@@ -14476,7 +14476,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/f/f3/Skill_12680.png",
                 "names": {
-                    "en": "(Retrofit) Dance of Wind and Rain",
+                    "en": "(Retrofit) Rain and Snow",
                     "cn": "风雨舞踏",
                     "jp": "仲間思いの幸運艦"
                 },
@@ -14728,8 +14728,8 @@
             "L": {
                 "name": "Tactical Learning",
                 "attributes": [
-                    "Unlock Skill \"Dance of Wind",
-                    "Rain\""
+                    "Unlock Skill \"Rain",
+                    "Snow\""
                 ],
                 "materials": [
                     "2x \"DestroyerT3BP\"",
@@ -15230,7 +15230,7 @@
                     "cn": "火力干扰",
                     "jp": "かく乱射撃"
                 },
-                "description": "25% chance to activate every 20 seconds: reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes Elite (human-form) enemies. Does not stack with the same skill.",
+                "description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
                 "color": "gold"
             },
             {
@@ -19502,10 +19502,16 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
+            "artist": "Werkbau",
             "web": null,
-            "pixiv": null,
-            "twitter": null,
+            "pixiv": {
+                "name": "Werkbau",
+                "url": "https://www.pixiv.net/en/users/1962043"
+            },
+            "twitter": {
+                "name": "Werkbau",
+                "url": "https://twitter.com/Werkbau01"
+            },
             "voice": {
                 "name": "Sayuri Yahagi",
                 "url": "https://en.wikipedia.org/wiki/Sayuri_Yahagi"
@@ -31627,6 +31633,19 @@
                     "cost": "800",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "The Eyecatch in the Rye?",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/The_Eyecatch_in_the_Rye/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/The_Eyecatch_in_the_Rye/chibi.png",
+                "info": {
+                    "enClient": "The Eyecatch in the Rye?",
+                    "cnClient": "skin unavailable",
+                    "jpClient": "skin unavailable",
+                    "obtainedFrom": "Z23’s Picture Report - Complete all the drawings",
+                    "live2dModel": false
+                }
             }
         ]
     },
@@ -34788,7 +34807,7 @@
             }
         },
         "construction": {
-            "constructionTime": "Drop Only",
+            "constructionTime": "Cannot Be Constructed",
             "availableIn": {
                 "light": false,
                 "heavy": false,
@@ -37844,12 +37863,12 @@
             }
         },
         "construction": {
-            "constructionTime": "Cannot Be Constructed",
+            "constructionTime": "01:17:00",
             "availableIn": {
                 "light": false,
                 "heavy": false,
                 "aviation": false,
-                "limited": false,
+                "limited": "Only during event: Northern Overture",
                 "exchange": false
             }
         },
@@ -37881,6 +37900,20 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/262/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Shackled Saule",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/262/Shackled_Saule/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/262/Shackled_Saule/chibi.png",
+                "info": {
+                    "enClient": "Shackled Saule",
+                    "cnClient": "囚塔中的曙光公主",
+                    "jpClient": "囚われた曙光姫",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "880",
                     "live2dModel": false
                 }
             }
@@ -38031,7 +38064,7 @@
                     "cn": "火力干扰",
                     "jp": "かく乱射撃"
                 },
-                "description": "25% chance to activate every 20 seconds: reduce a random enemy's Reload and damage for 5 (10)s. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+                "description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
                 "color": "gold"
             },
             {
@@ -48445,7 +48478,7 @@
                     "cn": "火力干扰",
                     "jp": "かく乱射撃"
                 },
-                "description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload and damage for 5 (10)s. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+                "description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
                 "color": "gold"
             },
             {
@@ -50218,7 +50251,7 @@
             }
         },
         "construction": {
-            "constructionTime": "Cannot Be Contructed",
+            "constructionTime": "Cannot Be Constructed",
             "availableIn": {
                 "light": false,
                 "heavy": false,
@@ -73617,13 +73650,13 @@
                     "cn": "Cœur Battant",
                     "jp": "Cœur Battant 「μ」"
                 },
-                "description": "Main Gun ammo is changed to Musical Note ammo, alternating between red and blue notes. Red notes are HE shells with 140%/110%/90% (140%/115%/115%) modifier against Light/Medium/Heavy armor. Blue notes are AP shells with 45%/130%/110% (100%/130%/130%) modifier against Light/Medium/Heavy armor. Also, once per battle: reduces Reload time for the first Main Gun volley by 5% (25%).",
+                "description": "Main Gun can be fired twice per reload, and each salvo can be fired independently. Main Gun ammo is changed to Musical Note ammo, alternating between red and blue notes. Red notes are HE shells with 140%/110%/90% (140%/115%/115%) modifier against Light/Medium/Heavy armor. Blue notes are AP shells with 45%/130%/110% (100%/130%/130%) modifier against Light/Medium/Heavy armor. Also, once per battle: reduces Reload time for the first Main Gun volley by 5% (25%).",
                 "color": "pink"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/2/20/Skill_12790.png",
                 "names": {
-                    "en": "Leader of the Band",
+                    "en": "Polaris Protocol",
                     "cn": "乐队领袖",
                     "jp": "ポラリスプロトコル"
                 },
@@ -73796,7 +73829,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/c/c0/Skill_12740.png",
                 "names": {
-                    "en": "Dualism",
+                    "en": "Airborne Dualism",
                     "cn": "Dualism",
                     "jp": "連携機デュアリズムμ"
                 },
@@ -73806,11 +73839,11 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/d/d0/Skill_12750.png",
                 "names": {
-                    "en": "Overtune",
+                    "en": "Crimson Overture",
                     "cn": "Overture",
                     "jp": "クリムゾン・オーバーチュア"
                 },
-                "description": "Once per battle, reduces Reload time of own first airstrike by 20% (40%). Also, increases own Aviation stat by 1% (10%) per Muse ship in the fleet (effect can stack up to 4 times).",
+                "description": "Once per battle, reduces Reload time of own first airstrike by 20% (40%). Also, increases own Aviation stat by 1% (10%) per Muse ship in the fleet other than self (effect can stack up to 4 times).",
                 "color": "gold"
             }
         ],
@@ -73981,7 +74014,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/c/c7/Skill_12700.png",
                 "names": {
-                    "en": "Spiritual Chasing",
+                    "en": "Spirited Guidance",
                     "cn": "追随的Spiritual",
                     "jp": "誘導弾スピリチュアルμ"
                 },
@@ -73991,11 +74024,11 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/6/6f/Skill_12710.png",
                 "names": {
-                    "en": "Star-falling Passion",
+                    "en": "Passionate Tempo",
                     "cn": "降星的Passion",
                     "jp": "パッション・テンポ"
                 },
-                "description": "When enemy aircrafts are shot down within own AA range: increases own Anti-Air stat by 3.5% (8%) per shot down aircraft for 8 seconds (effect can stack up to 4 times).",
+                "description": "When enemy aircraft are shot down within own AA range: increases own Anti-Air stat by 3.5% (8%) per shot down aircraft for 8 seconds (effect can stack up to 4 times).",
                 "color": "deepskyblue"
             },
             {
@@ -74175,7 +74208,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/1/16/Skill_12720.png",
                 "names": {
-                    "en": "Precise Arrow",
+                    "en": "Armor-Penetrating Arrow",
                     "cn": "精准直击Arrow",
                     "jp": "貫通弾アローμ"
                 },
@@ -74185,7 +74218,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/3/30/Skill_12730.png",
                 "names": {
-                    "en": "Shine and Dance",
+                    "en": "Shining Steps",
                     "cn": "闪耀共舞",
                     "jp": "シャンニング・ステップ"
                 },
@@ -74370,7 +74403,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/7/72/Skill_12760.png",
                 "names": {
-                    "en": "Passionate Fever",
+                    "en": "High-Explosive Volley Fever",
                     "cn": "热情火炎Fever",
                     "jp": "速射榴弾フィーバーμ"
                 },
@@ -74380,7 +74413,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/a/a3/Skill_12770.png",
                 "names": {
-                    "en": "Nerve Calming Shield",
+                    "en": "Soothing Shield",
                     "cn": "沉着冷静Shield",
                     "jp": "カーム・シールド"
                 },
@@ -75571,7 +75604,7 @@
                 "speed": "33",
                 "antiair": "323",
                 "aviation": "0",
-                "oilConsumption": "11",
+                "oilConsumption": "10",
                 "accuracy": "169",
                 "antisubmarineWarfare": "101"
             },
@@ -75586,7 +75619,7 @@
                 "speed": "33",
                 "antiair": "286",
                 "aviation": "0",
-                "oilConsumption": "11",
+                "oilConsumption": "10",
                 "accuracy": "151",
                 "antisubmarineWarfare": "89"
             },
@@ -75954,6 +75987,1453 @@
                     "jpClient": "skin unavailable",
                     "obtainedFrom": "Skin Shop",
                     "cost": "700",
+                    "live2dModel": false
+                }
+            }
+        ]
+    },
+    "431": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Grozny",
+        "id": "431",
+        "names": {
+            "en": "Grozny",
+            "code": "SN Grozny",
+            "cn": "威严",
+            "jp": "グロズヌイ",
+            "kr": null
+        },
+        "class": "Gnevny",
+        "nationality": "North Union",
+        "hullType": "Destroyer",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/thumbnail.png",
+        "rarity": "Elite",
+        "stars": {
+            "stars": "★★☆☆☆",
+            "value": 2
+        },
+        "stats": {
+            "level120": {
+                "health": "2496",
+                "armor": "Light",
+                "reload": "200",
+                "luck": "60",
+                "firepower": "125",
+                "torpedo": "179",
+                "evasion": "166",
+                "speed": "46",
+                "antiair": "204",
+                "aviation": "0",
+                "oilConsumption": "10",
+                "accuracy": "184",
+                "antisubmarineWarfare": "200"
+            },
+            "level100": {
+                "health": "2080",
+                "armor": "Light",
+                "reload": "174",
+                "luck": "60",
+                "firepower": "109",
+                "torpedo": "156",
+                "evasion": "160",
+                "speed": "46",
+                "antiair": "178",
+                "aviation": "0",
+                "oilConsumption": "10",
+                "accuracy": "175",
+                "antisubmarineWarfare": "180"
+            },
+            "baseStats": {
+                "health": "402",
+                "armor": "Light",
+                "reload": "73",
+                "luck": "60",
+                "firepower": "23",
+                "torpedo": "33",
+                "evasion": "61",
+                "speed": "46",
+                "antiair": "38",
+                "aviation": "0",
+                "oilConsumption": "3",
+                "accuracy": "67",
+                "antisubmarineWarfare": "49"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "DD Guns",
+                "minEfficiency": 135,
+                "maxEfficiency": 155
+            },
+            "2": {
+                "type": "Torpedoes",
+                "minEfficiency": 95,
+                "maxEfficiency": 100
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 105,
+                "maxEfficiency": 110
+            }
+        },
+        "enhanceValue": {
+            "firepower": 8,
+            "torpedo": 11,
+            "aviation": 0,
+            "reload": 14
+        },
+        "scrapValue": {
+            "coin": 4,
+            "oil": 3,
+            "medal": 4
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/e/e6/Skill_2010.png",
+                "names": {
+                    "en": "Full Firepower",
+                    "cn": "火力全开",
+                    "jp": "火力全開"
+                },
+                "description": "Every 20s: 30.0% (60.0%) chance to increase this ship's FP by 20.0% (40.0%) for 10s.",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/a/a5/Skill_2170.png",
+                "names": {
+                    "en": "Anti-Air Vigilance",
+                    "cn": "防空警戒",
+                    "jp": "対空警戒"
+                },
+                "description": "Increases this ship's AA by 5% (15%).",
+                "color": "deepskyblue"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+                "names": {
+                    "en": "All Out Assault",
+                    "cn": "全弹发射",
+                    "jp": "全弾発射"
+                },
+                "description": "Activates All Out Assault Ⅱ: Gnevny once every 10 times the Main Guns are fired.",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Unlock All Out Assault Ⅰ",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Torpedo base +1",
+                "Torpedo preload +1",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Improve All Out Assault",
+                "All weapons' efficiency +5%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Anti-air",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 10,
+                "maxLimitBreak": 22,
+                "maxLevel": 16,
+                "total": 48
+            }
+        },
+        "construction": {
+            "constructionTime": "00:32:00",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": "Only during event: Northern Overture",
+                "exchange": false
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": null,
+            "web": null,
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Bad Bunny Behind Bars",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/Bad_Bunny_Behind_Bars/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/Bad_Bunny_Behind_Bars/chibi.png",
+                "info": {
+                    "enClient": "Bad Bunny Behind Bars",
+                    "cnClient": "囚牢里的危险兔",
+                    "jpClient": "囚われた危険兎",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "1080",
+                    "live2dModel": true
+                }
+            }
+        ]
+    },
+    "432": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Minsk",
+        "id": "432",
+        "names": {
+            "en": "Minsk",
+            "code": "SN Minsk",
+            "cn": "明斯克",
+            "jp": "ミンスク",
+            "kr": null
+        },
+        "class": "Leningrad",
+        "nationality": "North Union",
+        "hullType": "Destroyer",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/432/thumbnail.png",
+        "rarity": "Elite",
+        "stars": {
+            "stars": "★★☆☆☆",
+            "value": 2
+        },
+        "stats": {
+            "level120": {
+                "health": "2612",
+                "armor": "Light",
+                "reload": "201",
+                "luck": "58",
+                "firepower": "145",
+                "torpedo": "228",
+                "evasion": "177",
+                "speed": "48",
+                "antiair": "172",
+                "aviation": "0",
+                "oilConsumption": "10",
+                "accuracy": "184",
+                "antisubmarineWarfare": "203"
+            },
+            "level100": {
+                "health": "2176",
+                "armor": "Light",
+                "reload": "175",
+                "luck": "58",
+                "firepower": "126",
+                "torpedo": "198",
+                "evasion": "170",
+                "speed": "48",
+                "antiair": "150",
+                "aviation": "0",
+                "oilConsumption": "10",
+                "accuracy": "175",
+                "antisubmarineWarfare": "183"
+            },
+            "baseStats": {
+                "health": "421",
+                "armor": "Light",
+                "reload": "74",
+                "luck": "58",
+                "firepower": "27",
+                "torpedo": "42",
+                "evasion": "65",
+                "speed": "48",
+                "antiair": "32",
+                "aviation": "0",
+                "oilConsumption": "3",
+                "accuracy": "67",
+                "antisubmarineWarfare": "50"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "DD Guns",
+                "minEfficiency": 135,
+                "maxEfficiency": 155
+            },
+            "2": {
+                "type": "Torpedoes",
+                "minEfficiency": 105,
+                "maxEfficiency": 110
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 95,
+                "maxEfficiency": 100
+            }
+        },
+        "enhanceValue": {
+            "firepower": 9,
+            "torpedo": 14,
+            "aviation": 0,
+            "reload": 14
+        },
+        "scrapValue": {
+            "coin": 4,
+            "oil": 3,
+            "medal": 4
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/e/e8/Skill_4150.png",
+                "names": {
+                    "en": "Mobility Mastery",
+                    "cn": "机动制压",
+                    "jp": "機動制圧"
+                },
+                "description": "Decreases this ship's DMG taken from enemy DD guns and torpedoes by 5.0% (10.0%). Every 20s: increases this ship's Speed by 5 and FP by 5.0% (20.0%) for 10s.",
+                "color": "deepskyblue"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/2/27/Skill_4080.png",
+                "names": {
+                    "en": "Smokescreen",
+                    "cn": "烟雾弹",
+                    "jp": "煙幕散布"
+                },
+                "description": "After the battle begins and 15.0% (30.0%) chance every 15s after that: deploys a smokescreen that increases Evasion Rate by 20.0% (40.0%) for all your ships in it. Does not stack with other smokescreen skills. Smokescreen lasts 5s.",
+                "color": "deepskyblue"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+                "names": {
+                    "en": "All Out Assault",
+                    "cn": "全弹发射",
+                    "jp": "全弾発射"
+                },
+                "description": "Activates All Out Assault Ⅱ: Minsk once every 10 times the Main Guns are fired.",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Unlock All Out Assault Ⅰ",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Torpedo base +1",
+                "Torpedo preload +1",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Improve All Out Assault",
+                "All weapons' efficiency +5%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 12,
+                "maxLimitBreak": 24,
+                "maxLevel": 18,
+                "total": 54
+            }
+        },
+        "construction": {
+            "constructionTime": "Cannot Be Constructed",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": false,
+                "exchange": "Only during event: Northern Overture"
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": null,
+            "web": null,
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/432/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/432/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Thunderous Jailor",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/432/Thunderous_Jailor/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/432/Thunderous_Jailor/chibi.png",
+                "info": {
+                    "enClient": "Thunderous Jailor",
+                    "cnClient": "霹雳典狱长",
+                    "jpClient": "雷閃めく監獄長",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "780",
+                    "live2dModel": false
+                }
+            }
+        ]
+    },
+    "433": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Tashkent",
+        "id": "433",
+        "names": {
+            "en": "Tashkent",
+            "code": "SN Tashkent",
+            "cn": "塔什干",
+            "jp": "タシュケント",
+            "kr": null
+        },
+        "class": "Tashkent",
+        "nationality": "North Union",
+        "hullType": "Destroyer",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/thumbnail.png",
+        "rarity": "Super Rare",
+        "stars": {
+            "stars": "★★★☆☆☆",
+            "value": 3
+        },
+        "stats": {
+            "level120": {
+                "health": "2649",
+                "armor": "Light",
+                "reload": "205",
+                "luck": "86",
+                "firepower": "180",
+                "torpedo": "279",
+                "evasion": "179",
+                "speed": "51",
+                "antiair": "176",
+                "aviation": "0",
+                "oilConsumption": "11",
+                "accuracy": "187",
+                "antisubmarineWarfare": "208"
+            },
+            "level100": {
+                "health": "2208",
+                "armor": "Light",
+                "reload": "178",
+                "luck": "86",
+                "firepower": "156",
+                "torpedo": "245",
+                "evasion": "173",
+                "speed": "51",
+                "antiair": "153",
+                "aviation": "0",
+                "oilConsumption": "11",
+                "accuracy": "178",
+                "antisubmarineWarfare": "188"
+            },
+            "baseStats": {
+                "health": "427",
+                "armor": "Light",
+                "reload": "75",
+                "luck": "86",
+                "firepower": "33",
+                "torpedo": "52",
+                "evasion": "66",
+                "speed": "51",
+                "antiair": "33",
+                "aviation": "0",
+                "oilConsumption": "3",
+                "accuracy": "68",
+                "antisubmarineWarfare": "51"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "DD Guns",
+                "minEfficiency": 145,
+                "maxEfficiency": 165
+            },
+            "2": {
+                "type": "Torpedoes",
+                "minEfficiency": 120,
+                "maxEfficiency": 125
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 100,
+                "maxEfficiency": 105
+            }
+        },
+        "enhanceValue": {
+            "firepower": 11,
+            "torpedo": 17,
+            "aviation": 0,
+            "reload": 14
+        },
+        "scrapValue": {
+            "coin": 4,
+            "oil": 3,
+            "medal": 10
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/f/f1/Skill_12980.png",
+                "names": {
+                    "en": "The Blue Cruiser",
+                    "cn": "天蓝色的巡洋舰",
+                    "jp": "空色の氷結兵装"
+                },
+                "description": "At the start of the battle: increases this ship's FP by 4.0% (10.0%) and spawns Snezhinka, a summon which fights for 20 (50)s and lowers the Speed of enemies hit by it (its DMG dealt and active duration is based on the skill's level.) Additionally, when this ship sinks an enemy: increases this ship's FP by 0.5% (2.0%) (can be stacked up to 5 times.)",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/a/a7/Skill_12990.png",
+                "names": {
+                    "en": "Trajectory Marking",
+                    "cn": "火力向导",
+                    "jp": "火力投射指示"
+                },
+                "description": "At the start of the battle, increases Main Gun Efficiency by 4.0% (10.0%) and Accuracy by 5.0% (15.0%) for all your Northern Parliament DDs that have a Northern Parliament Main Gun equipped.",
+                "color": "gold"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/8/8f/Skill_29500.png",
+                "names": {
+                    "en": "All Out Assault",
+                    "cn": "专属弹幕-塔什干",
+                    "jp": "特殊弾幕-タシュケント"
+                },
+                "description": "Activates All Out Assault Ⅱ: Tashkent once every 10 times the Main Guns are fired.",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Unlock EX Barrage Ⅰ",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Torpedo base +1",
+                "Torpedo preload +1",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Improve EX Barrage",
+                "All weapons' efficiency +5%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+2"
+                }
+            },
+            "techPoints": {
+                "collection": 22,
+                "maxLimitBreak": 44,
+                "maxLevel": 32,
+                "total": 98
+            }
+        },
+        "construction": {
+            "constructionTime": "00:42:00",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": "Only during event: Northern Overture",
+                "exchange": false
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": null,
+            "web": null,
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "The Bound Cruiser",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/The_Bound_Cruiser/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/The_Bound_Cruiser/chibi.png",
+                "info": {
+                    "enClient": "The Bound Cruiser",
+                    "cnClient": "受缚的巡洋舰",
+                    "jpClient": "解かされし巡洋艦",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "880",
+                    "live2dModel": false
+                }
+            }
+        ]
+    },
+    "434": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Pamiat_Merkuria",
+        "id": "434",
+        "names": {
+            "en": "Pamiat Merkuria",
+            "code": "SN Pamiat Merkuria",
+            "cn": "水星纪念",
+            "jp": "パーミャチ・メルクーリヤ",
+            "kr": null
+        },
+        "class": "Bogatyr",
+        "nationality": "North Union",
+        "hullType": "Light Cruiser",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/434/thumbnail.png",
+        "rarity": "Elite",
+        "stars": {
+            "stars": "★★☆☆☆",
+            "value": 2
+        },
+        "stats": {
+            "level120": {
+                "health": "3061",
+                "armor": "Medium",
+                "reload": "139",
+                "luck": "88",
+                "firepower": "83",
+                "torpedo": "142",
+                "evasion": "88",
+                "speed": "23",
+                "antiair": "146",
+                "aviation": "0",
+                "oilConsumption": "11",
+                "accuracy": "137",
+                "antisubmarineWarfare": "56"
+            },
+            "level100": {
+                "health": "2745",
+                "armor": "Medium",
+                "reload": "121",
+                "luck": "88",
+                "firepower": "72",
+                "torpedo": "124",
+                "evasion": "70",
+                "speed": "23",
+                "antiair": "127",
+                "aviation": "0",
+                "oilConsumption": "11",
+                "accuracy": "122",
+                "antisubmarineWarfare": "49"
+            },
+            "baseStats": {
+                "health": "531",
+                "armor": "Medium",
+                "reload": "51",
+                "luck": "88",
+                "firepower": "15",
+                "torpedo": "26",
+                "evasion": "27",
+                "speed": "23",
+                "antiair": "27",
+                "aviation": "0",
+                "oilConsumption": "3",
+                "accuracy": "47",
+                "antisubmarineWarfare": "13"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "CL Guns",
+                "minEfficiency": 90,
+                "maxEfficiency": 120
+            },
+            "2": {
+                "type": "Torpedoes",
+                "minEfficiency": 120,
+                "maxEfficiency": 120
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 80,
+                "maxEfficiency": 80
+            }
+        },
+        "enhanceValue": {
+            "firepower": 6,
+            "torpedo": 9,
+            "aviation": 0,
+            "reload": 10
+        },
+        "scrapValue": {
+            "coin": 6,
+            "oil": 3,
+            "medal": 4
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/5/59/Skill_13040.png",
+                "names": {
+                    "en": "Mercurial Memories",
+                    "cn": "Mercury Memorial",
+                    "jp": "メルクーリイへ思い出を込めて"
+                },
+                "description": "Increases this ship's DMG dealt to BBs and CAs by 5.0% (20.0%). When this ship takes DMG: 15.0% chance to for it to evade all enemy attacks for 5.0 (10.0)s (has a 20s cooldown when activated.)",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+                "names": {
+                    "en": "All Out Assault",
+                    "cn": "全弹发射",
+                    "jp": "全弾発射"
+                },
+                "description": "Activates All Out Assault Ⅱ: Kagul Class once every 8 times the Main Guns are fired.",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Unlock All Out Assault Ⅰ",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Main gun base +1",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Improve All Out Assault",
+                "Main gun efficiency +15%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Accuracy",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 8,
+                "maxLimitBreak": 16,
+                "maxLevel": 12,
+                "total": 36
+            }
+        },
+        "construction": {
+            "constructionTime": "01:17:00",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": "Only during event: Northern Overture",
+                "exchange": false
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": null,
+            "web": null,
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/434/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/434/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Caged Minx",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/434/Caged_Minx/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/434/Caged_Minx/chibi.png",
+                "info": {
+                    "enClient": "Caged Minx",
+                    "cnClient": "囚牢与诱惑",
+                    "jpClient": "挫かれし生意気",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "780",
+                    "live2dModel": false
+                }
+            }
+        ]
+    },
+    "436": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Chapayev",
+        "id": "436",
+        "names": {
+            "en": "Chapayev",
+            "code": "SN Chapayev",
+            "cn": "恰巴耶夫",
+            "jp": "チャパエフ",
+            "kr": null
+        },
+        "class": "Chapayev",
+        "nationality": "North Union",
+        "hullType": "Light Cruiser",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/thumbnail.png",
+        "rarity": "Super Rare",
+        "stars": {
+            "stars": "★★★☆☆☆",
+            "value": 3
+        },
+        "stats": {
+            "level120": {
+                "health": "4352",
+                "armor": "Light",
+                "reload": "195",
+                "luck": "68",
+                "firepower": "172",
+                "torpedo": "0",
+                "evasion": "94",
+                "speed": "34",
+                "antiair": "334",
+                "aviation": "0",
+                "oilConsumption": "12",
+                "accuracy": "164",
+                "antisubmarineWarfare": "148"
+            },
+            "level100": {
+                "health": "3921",
+                "armor": "Light",
+                "reload": "170",
+                "luck": "68",
+                "firepower": "149",
+                "torpedo": "0",
+                "evasion": "78",
+                "speed": "34",
+                "antiair": "295",
+                "aviation": "0",
+                "oilConsumption": "12",
+                "accuracy": "146",
+                "antisubmarineWarfare": "131"
+            },
+            "baseStats": {
+                "health": "758",
+                "armor": "Light",
+                "reload": "72",
+                "luck": "68",
+                "firepower": "32",
+                "torpedo": "0",
+                "evasion": "30",
+                "speed": "34",
+                "antiair": "63",
+                "aviation": "0",
+                "oilConsumption": "4",
+                "accuracy": "56",
+                "antisubmarineWarfare": "36"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "CL Guns",
+                "minEfficiency": 100,
+                "maxEfficiency": 130
+            },
+            "2": {
+                "type": "DD Guns",
+                "minEfficiency": 75,
+                "maxEfficiency": 75
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 120,
+                "maxEfficiency": 120
+            }
+        },
+        "enhanceValue": {
+            "firepower": 13,
+            "torpedo": 0,
+            "aviation": 0,
+            "reload": 13
+        },
+        "scrapValue": {
+            "coin": 6,
+            "oil": 3,
+            "medal": 10
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/4/44/Skill_13000.png",
+                "names": {
+                    "en": "Cavalier of the Ether",
+                    "cn": "虚空的白骑兵",
+                    "jp": "虚空の白騎兵"
+                },
+                "description": "Every 15s: 40.0% (70.0%) chance to fire a special barrage and inflict Burn for 6s to all enemies hit by it (barrage DMG is based on the skill's level.)",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/c/c9/Skill_13010.png",
+                "names": {
+                    "en": "Cavalier's Acumen",
+                    "cn": "精准诱导",
+                    "jp": "白騎兵の目利き"
+                },
+                "description": "Increases this ship's Crit Rate by 5.0% (15.0%), DMG dealt to enemy DDs by 5.0% (20.0%), and Main Gun shell velocity by 15.0%. Additionally, decreases the Evasion Rate of enemy DDs by 4.0% (10.0%).",
+                "color": "gold"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/e/e7/Skill_29510.png",
+                "names": {
+                    "en": "All Out Assault",
+                    "cn": "专属弹幕-恰巴耶夫",
+                    "jp": "特殊弾幕-チャパエフ"
+                },
+                "description": "Activates All Out Assault Ⅱ: Chapayev once every 10 times the Main Guns are fired.",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Unlock All Out Assault Ⅰ",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Main gun base +1",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Improve All Out Assault",
+                "Main gun efficiency +15%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Accuracy",
+                    "bonus": "+2"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 24,
+                "maxLimitBreak": 48,
+                "maxLevel": 36,
+                "total": 108
+            }
+        },
+        "construction": {
+            "constructionTime": "01:26:00",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": "Only during event: Northern Overture",
+                "exchange": "Only during event: Northern Overture"
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": null,
+            "web": null,
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "The Captive Cavalier",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/The_Captive_Cavalier/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/The_Captive_Cavalier/chibi.png",
+                "info": {
+                    "enClient": "The Captive Cavalier",
+                    "cnClient": "拘束的白骑兵",
+                    "jpClient": "縛られし白騎兵",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "880",
+                    "live2dModel": false
+                }
+            }
+        ]
+    },
+    "437": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Gangut",
+        "id": "437",
+        "names": {
+            "en": "Gangut",
+            "code": "SN Gangut",
+            "cn": "甘古特",
+            "jp": "ガングート",
+            "kr": null
+        },
+        "class": "Gangut",
+        "nationality": "North Union",
+        "hullType": "Battleship",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/437/thumbnail.png",
+        "rarity": "Elite",
+        "stars": {
+            "stars": "★★☆☆☆",
+            "value": 2
+        },
+        "stats": {
+            "level120": {
+                "health": "6491",
+                "armor": "Heavy",
+                "reload": "150",
+                "luck": "85",
+                "firepower": "324",
+                "torpedo": "0",
+                "evasion": "34",
+                "speed": "24",
+                "antiair": "174",
+                "aviation": "0",
+                "oilConsumption": "15",
+                "accuracy": "61",
+                "antisubmarineWarfare": "0"
+            },
+            "level100": {
+                "health": "5596",
+                "armor": "Heavy",
+                "reload": "130",
+                "luck": "85",
+                "firepower": "292",
+                "torpedo": "0",
+                "evasion": "15",
+                "speed": "24",
+                "antiair": "152",
+                "aviation": "0",
+                "oilConsumption": "15",
+                "accuracy": "52",
+                "antisubmarineWarfare": "0"
+            },
+            "baseStats": {
+                "health": "1082",
+                "armor": "Heavy",
+                "reload": "55",
+                "luck": "85",
+                "firepower": "62",
+                "torpedo": "0",
+                "evasion": "6",
+                "speed": "24",
+                "antiair": "32",
+                "aviation": "0",
+                "oilConsumption": "5",
+                "accuracy": "20",
+                "antisubmarineWarfare": "0"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "BB Guns",
+                "minEfficiency": 80,
+                "maxEfficiency": 110
+            },
+            "2": {
+                "type": "CL/DD Guns",
+                "minEfficiency": 200,
+                "maxEfficiency": 200
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 100,
+                "maxEfficiency": 100
+            }
+        },
+        "enhanceValue": {
+            "firepower": 51,
+            "torpedo": 0,
+            "aviation": 0,
+            "reload": 10
+        },
+        "scrapValue": {
+            "coin": 11,
+            "oil": 4,
+            "medal": 4
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/7/70/Skill_13050.png",
+                "names": {
+                    "en": "Long Live the Revolution!",
+                    "cn": "为革命献上祝福",
+                    "jp": "革命に祝福よッ！"
+                },
+                "description": "When this ship fires a Salvo: increases the FP, TRP, AA, and RLD of all your Northern Parliament ships by 8.0% (18.0%) for 10s. While this ship has the Triple 305mm (Pattern 1907) equipped: increases this ship's Main Gun Efficiency by 50.0% (80.0%) and decreases its reload time by 20.0% (35.0%) for the first 4 reloads.",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/9/95/Skill_13060.png",
+                "names": {
+                    "en": "Icebreaker",
+                    "cn": "破冰移转",
+                    "jp": "氷結巡航"
+                },
+                "description": "Once per battle, when this ship's HP falls below 30.0%: decreases this ship's DMG taken by 5.0% (15.0%) and decreases your DDs' DMG taken by 5.0% (10.0%) until the end of the battle.",
+                "color": "deepskyblue"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Main gun base +1",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Auxiliary gun base +2",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Main gun base +1",
+                "Main gun efficiency +15%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Battleship",
+                        "Battlecruiser",
+                        "Aviation battleship"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Battleship",
+                        "Battlecruiser",
+                        "Aviation battleship"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 28,
+                "maxLimitBreak": 56,
+                "maxLevel": 42,
+                "total": 126
+            }
+        },
+        "construction": {
+            "constructionTime": "Cannot Be Constructed",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": false,
+                "exchange": false
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": null,
+            "web": null,
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/437/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/437/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Imposing Warden",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/437/Imposing_Warden/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_131.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/437/Imposing_Warden/chibi.png",
+                "info": {
+                    "enClient": "Imposing Warden",
+                    "cnClient": "坚定的执行者",
+                    "jpClient": "立ちはだかる執行者",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "780",
+                    "live2dModel": false
+                }
+            }
+        ]
+    },
+    "441": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Sovetskaya_Rossiya",
+        "id": "441",
+        "names": {
+            "en": "Sovetskaya Rossiya",
+            "code": "SN Sovetskaya Rossiya",
+            "cn": "苏维埃罗西亚",
+            "jp": "ソビエツカヤ・ロシア",
+            "kr": null
+        },
+        "class": "Sovetsky Soyuz",
+        "nationality": "North Union",
+        "hullType": "Battleship",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/thumbnail.png",
+        "rarity": "Super Rare",
+        "stars": {
+            "stars": "★★★☆☆☆",
+            "value": 3
+        },
+        "stats": {
+            "level120": {
+                "health": "8324",
+                "armor": "Heavy",
+                "reload": "139",
+                "luck": "46",
+                "firepower": "428",
+                "torpedo": "0",
+                "evasion": "35",
+                "speed": "28",
+                "antiair": "248",
+                "aviation": "0",
+                "oilConsumption": "16",
+                "accuracy": "59",
+                "antisubmarineWarfare": "0"
+            },
+            "level100": {
+                "health": "7145",
+                "armor": "Heavy",
+                "reload": "121",
+                "luck": "46",
+                "firepower": "386",
+                "torpedo": "0",
+                "evasion": "20",
+                "speed": "28",
+                "antiair": "216",
+                "aviation": "0",
+                "oilConsumption": "16",
+                "accuracy": "50",
+                "antisubmarineWarfare": "0"
+            },
+            "baseStats": {
+                "health": "1382",
+                "armor": "Heavy",
+                "reload": "51",
+                "luck": "46",
+                "firepower": "82",
+                "torpedo": "0",
+                "evasion": "8",
+                "speed": "28",
+                "antiair": "46",
+                "aviation": "0",
+                "oilConsumption": "6",
+                "accuracy": "19",
+                "antisubmarineWarfare": "0"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "BB Guns",
+                "minEfficiency": 105,
+                "maxEfficiency": 135
+            },
+            "2": {
+                "type": "CL/DD Guns",
+                "minEfficiency": 200,
+                "maxEfficiency": 200
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 100,
+                "maxEfficiency": 100
+            }
+        },
+        "enhanceValue": {
+            "firepower": 68,
+            "torpedo": 0,
+            "aviation": 0,
+            "reload": 10
+        },
+        "scrapValue": {
+            "coin": 11,
+            "oil": 4,
+            "medal": 10
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/1/1d/Skill_13020.png",
+                "names": {
+                    "en": "Lod Obstrel",
+                    "cn": "冰结锋芒",
+                    "jp": "リオート・オブストレル"
+                },
+                "description": "When this ship fires a Salvo: 45.0% (75.0%) chance to fire a special barrage. Barrage DMG is based on the skill's level.",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/1/12/Skill_13030.png",
+                "names": {
+                    "en": "Warcry of Unity",
+                    "cn": "北联的狂放",
+                    "jp": "北方連合の気迫"
+                },
+                "description": "For each Northern Parliament and/or Dragon Empery ship in the same fleet as this ship: increases this ship's FP and Accuracy by 1.0% (5.0%) (can be stacked up to 4 times.) This skill only works for the first 2 battles of each sortie this ship takes part in.",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Main gun base +1",
+                "Main gun efficiency +5%"
+            ],
+            [
+                "Auxiliary gun base +2",
+                "Main gun efficiency +10%"
+            ],
+            [
+                "Main gun base +1",
+                "Main gun efficiency +15%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Battleship",
+                        "Battlecruiser",
+                        "Aviation battleship"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+2"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Battleship",
+                        "Battlecruiser",
+                        "Aviation battleship"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 44,
+                "maxLimitBreak": 88,
+                "maxLevel": 66,
+                "total": 198
+            }
+        },
+        "construction": {
+            "constructionTime": "06:23:00",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": "Only during event: Northern Overture",
+                "exchange": false
+            }
+        },
+        "gallery": [],
+        "misc": {
+            "artist": "侑了个侑",
+            "web": {
+                "name": "侑了个侑",
+                "url": "https://www.weibo.com/soaryuna"
+            },
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "The Lackadaisical Lookout",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/The_Lackadaisical_Lookout/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/The_Lackadaisical_Lookout/chibi.png",
+                "info": {
+                    "enClient": "The Lackadaisical Lookout",
+                    "cnClient": "怠惰的监视者",
+                    "jpClient": "怠けぬ監視者",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "880",
                     "live2dModel": false
                 }
             }
@@ -89231,7 +90711,7 @@
             }
         },
         "construction": {
-            "constructionTime": "Drop Only",
+            "constructionTime": "Cannot Be Constructed",
             "availableIn": {
                 "light": false,
                 "heavy": false,
@@ -93129,7 +94609,7 @@
             }
         },
         "construction": {
-            "constructionTime": "Drop Only",
+            "constructionTime": "Cannot Be Constructed",
             "availableIn": {
                 "light": false,
                 "heavy": false,
@@ -94464,7 +95944,7 @@
                     "cn": "火力干扰",
                     "jp": "かく乱射撃"
                 },
-                "description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload and damage for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+                "description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
                 "color": "gold"
             },
             {
@@ -99020,7 +100500,7 @@
                     "cn": "特殊护甲",
                     "jp": "特殊装甲"
                 },
-                "description": "Increase the probability of being set on fire by 6% max (exact value depends on enemy's gun caliber) and increases duration of any fires by 3 seconds. Reduces AP damage taken by self by 15% (30%).",
+                "description": "Multiplies the chance of being set on fire by 1.12 and increases duration of any fires by 3 seconds. Reduces AP damage taken by self by 15% (30%).",
                 "color": "deepskyblue"
             },
             {
