@@ -6,4 +6,4 @@ const azurlane = require("./index.js");
 // azurlane.refreshEQImages();
 // azurlane.publishShips();
 // azurlane.publishEQ();
-// azurlane.refreshMemory();
+azurlane.refreshMemory();

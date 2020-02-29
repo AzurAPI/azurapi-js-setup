@@ -4933,6 +4933,206 @@
 			}
 		}
 	},
+	"Twin 130mm (B-2LM)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Twin 133m Main Gun (B-2LM)",
+			"cn": "B-13 双联装130mm主炮B-2LM",
+			"jp": "130mm連装砲B-2LM",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/a/ae/85000.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "unspecified",
+			"battlecruiser": "unspecified",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/a/a7/Bullet_pattern_equip_85040.gif"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "3",
+						"max": "7",
+						"multiplier": "6",
+						"formatted": "3 × 6 → 7 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.38s",
+						"max": "2.12s",
+						"per": "volley",
+						"formatted": "2.38s → 2.12s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "200",
+						"unit": "°",
+						"formatted": "200°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 55,
+						"shell": 55,
+						"formatted": "Firing: 55\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "3 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.16",
+						"unit": "s",
+						"formatted": "0.16s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal*",
+						"formatted": "Normal*"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "35",
+						"formatted": "35"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "6",
+						"max": "15",
+						"multiplier": "6",
+						"formatted": "6 × 6 → 15 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.14s",
+						"max": "1.73s",
+						"per": "volley",
+						"formatted": "2.14s → 1.73s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "200",
+						"unit": "°",
+						"formatted": "200°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 65,
+						"formatted": "Firing: 65\nShell: 65"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "3 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.16",
+						"unit": "s",
+						"formatted": "0.16s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal*",
+						"formatted": "Normal*"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Twin 134mm (QF Mark II)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_134mm_(QF_Mark_II)",
 		"category": "Destroyer Guns",
@@ -7057,6 +7257,287 @@
 			}
 		}
 	},
+	"Triple 152mm (MK-5)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(MK-5)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Triple 152mm Main Gun (B-38 MK5)",
+			"cn": "B-38 三联装152mm主炮MK5",
+			"jp": "152mm三連装砲B-38 MK5",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/8/85/85120.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "unspecified",
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/f/f6/Bullet_pattern_equip_85140.gif"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "5",
+						"max": "10",
+						"multiplier": "6",
+						"formatted": "5 × 6 → 10 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "4.34s",
+						"max": "4.10s",
+						"per": "volley",
+						"formatted": "4.34s → 4.10s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "18",
+						"unit": "° random aim",
+						"formatted": "18° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "°",
+						"formatted": "110°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 68,
+						"shell": 55,
+						"formatted": "Firing: 68\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "105",
+						"unit": "%",
+						"formatted": "105%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "6",
+						"max": "15",
+						"multiplier": "6",
+						"formatted": "6 × 6 → 15 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "4.26s",
+						"max": "3.66s",
+						"per": "volley",
+						"formatted": "4.26s → 3.66s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "18",
+						"unit": "° random aim",
+						"formatted": "18° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "°",
+						"formatted": "110°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 68,
+						"shell": 55,
+						"formatted": "Firing: 68\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "105",
+						"unit": "%",
+						"formatted": "105%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE+",
+						"formatted": "HE+"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "7",
+						"max": "16",
+						"multiplier": "6",
+						"formatted": "7 × 6 → 16 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "4.19s",
+						"max": "3.56s",
+						"per": "volley",
+						"formatted": "4.19s → 3.56s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "18",
+						"unit": "° random aim",
+						"formatted": "18° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "°",
+						"formatted": "110°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 68,
+						"shell": 55,
+						"formatted": "Firing: 68\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "105",
+						"unit": "%",
+						"formatted": "105%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE+",
+						"formatted": "HE+"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Triple 152mm (Mle 1930)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(Mle_1930)",
 		"category": "Light Cruiser Guns",
@@ -8933,6 +9414,125 @@
 						"type": "value",
 						"value": "AP",
 						"formatted": "AP"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
+	"Twin 152mm (Pattern 1892)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_152mm_(Pattern_1892)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Twin 152mm Main Gun (M1892)",
+			"cn": "双联装152mm主炮Model1892",
+			"jp": "152mm連装砲Model1892",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/5/54/85440.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "unspecified",
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T3": {
+				"tier": "T3",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "8",
+						"max": "14",
+						"multiplier": "4",
+						"formatted": "8 × 4 → 14 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "3.23s",
+						"max": "2.83s",
+						"per": "volley",
+						"formatted": "3.23s → 2.83s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "21",
+						"unit": "° cone pattern",
+						"formatted": "21° cone pattern"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 58,
+						"shell": 55,
+						"formatted": "Firing: 58\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "4",
+						"unit": "shells",
+						"formatted": "1 × 4 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
 					},
 					"characteristic": {
 						"type": "value",
@@ -12594,6 +13194,124 @@
 			}
 		}
 	},
+	"Triple 305mm (Pattern 1907)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_305mm_(Pattern_1907)",
+		"category": "Battleship Guns",
+		"names": {
+			"en": "Triple 305mm Main Gun (M1907)",
+			"cn": "三联装305mm主炮Model1907",
+			"jp": "305mm三連装砲Model1907",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/2/29/85420.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "54",
+						"max": "92",
+						"multiplier": "3",
+						"formatted": "54 × 3 → 92 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "30.59s",
+						"max": "27.40s",
+						"per": "volley",
+						"formatted": "30.59s → 27.40s per volley"
+					},
+					"spread": {
+						"type": "value",
+						"value": "16",
+						"formatted": "16"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 200,
+						"shell": 80,
+						"formatted": "Firing: 200\nShell: 80"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE",
+						"formatted": "HE"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Bracketing",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		}
+	},
 	"Triple 320mm (Model 1934)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_320mm_(Model_1934)",
 		"category": "Battleship Guns",
@@ -13913,6 +14631,204 @@
 						"value": "105",
 						"unit": "%",
 						"formatted": "105%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Bracketing",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		}
+	},
+	"Triple 406mm (MK-1)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_406mm_(MK-1)",
+		"category": "Battleship Guns",
+		"names": {
+			"en": "Triple 406mm Main Gun (B-37 MK1)",
+			"cn": "B-37 三联装406mm主炮MK-1",
+			"jp": "406mm三連装砲B-37 MK-1",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/3/34/85300.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "50",
+						"max": "101",
+						"multiplier": "3",
+						"formatted": "50 × 3 → 101 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "33.27s",
+						"max": "29.27s",
+						"per": "volley",
+						"formatted": "33.27s → 29.27s per volley"
+					},
+					"spread": {
+						"type": "value",
+						"value": "16",
+						"formatted": "16"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 200,
+						"shell": 80,
+						"formatted": "Firing: 200\nShell: 80"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "100",
+						"unit": "%",
+						"formatted": "100%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE",
+						"formatted": "HE"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Bracketing",
+						"formatted": "Bracketing"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "56",
+						"max": "149",
+						"multiplier": "3",
+						"formatted": "56 × 3 → 149 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "31.68s",
+						"max": "25.35s",
+						"per": "volley",
+						"formatted": "31.68s → 25.35s per volley"
+					},
+					"spread": {
+						"type": "value",
+						"value": "19",
+						"formatted": "19"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 200,
+						"shell": 80,
+						"formatted": "Firing: 200\nShell: 80"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "100",
+						"unit": "%",
+						"formatted": "100%"
 					},
 					"ammoType": {
 						"type": "value",
@@ -29878,6 +30794,146 @@
 			}
 		}
 	},
+	"Single 37mm (70-K)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Single_37mm_(70-K)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "Single 37mm AA Gun (70-K)",
+			"cn": "37mm防空炮70-K",
+			"jp": "37mm対空機関砲70-K",
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/d/dc/85180.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "9",
+						"max": "16",
+						"formatted": "9  → 16"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.07s",
+						"max": "1.00s",
+						"per": "volley",
+						"formatted": "1.07s → 1.00s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "26",
+						"formatted": "26"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "11",
+						"max": "28",
+						"formatted": "11  → 28"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.02s",
+						"max": "0.89s",
+						"per": "volley",
+						"formatted": "1.02s → 0.89s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "26",
+						"formatted": "26"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "14",
+						"max": "44",
+						"formatted": "14  → 44"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "0.96s",
+						"max": "0.76s",
+						"per": "volley",
+						"formatted": "0.96s → 0.76s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "26",
+						"formatted": "26"
+					}
+				}
+			}
+		}
+	},
 	"Single 90mm High-Angle (Model 1939)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Single_90mm_High-Angle_(Model_1939)",
 		"category": "Anti-Air Guns",
@@ -30213,6 +31269,252 @@
 						"type": "value",
 						"value": "Normal",
 						"formatted": "Normal"
+					}
+				}
+			}
+		}
+	},
+	"Twin 100mm (B-54)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_100mm_(B-54)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "Twin 100mm AA Gun (B-54)",
+			"cn": "B-54 100mm双联装防空炮",
+			"jp": "100mm連装高角砲B-54",
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/4/46/85240.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T2": {
+				"tier": "T2",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "36",
+						"max": "73",
+						"formatted": "36  → 73"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.90s",
+						"max": "1.67s",
+						"per": "volley",
+						"formatted": "1.90s → 1.67s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "32",
+						"formatted": "32"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "43",
+						"max": "110",
+						"formatted": "43  → 110"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.81s",
+						"max": "1.44s",
+						"per": "volley",
+						"formatted": "1.81s → 1.44s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "32",
+						"formatted": "32"
+					}
+				}
+			}
+		}
+	},
+	"Twin 100mm (MZ-14)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_100mm_(MZ-14)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "Twin 100mm DP AA Gun (B-34 MZ-14)",
+			"cn": "B-34 100mm双联装防空炮MZ-14",
+			"jp": "100mm連装両用砲B-34 MZ-14",
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/0/0c/85360.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "14",
+						"max": "22",
+						"formatted": "14  → 22"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.48s",
+						"max": "1.39s",
+						"per": "volley",
+						"formatted": "1.48s → 1.39s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "33",
+						"formatted": "33"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "33",
+						"max": "64",
+						"formatted": "33  → 64"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.41s",
+						"max": "1.24s",
+						"per": "volley",
+						"formatted": "1.41s → 1.24s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "33",
+						"formatted": "33"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "38",
+						"max": "96",
+						"formatted": "38  → 96"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.34s",
+						"max": "1.06s",
+						"per": "volley",
+						"formatted": "1.34s → 1.06s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "33",
+						"formatted": "33"
 					}
 				}
 			}
@@ -31679,7 +32981,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
-			"largeCruiser": null,
+			"largeCruiser": "primary",
 			"battleship": "primary",
 			"battlecruiser": "primary",
 			"aviationBattleship": "primary",
@@ -32018,7 +33320,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
-			"largeCruiser": null,
+			"largeCruiser": "primary",
 			"battleship": "primary",
 			"battlecruiser": "primary",
 			"aviationBattleship": "primary",
@@ -34211,6 +35513,66 @@
 						"min": "2",
 						"max": "15",
 						"formatted": "2 → 15"
+					}
+				}
+			}
+		}
+	},
+	"Intel Report-Arctic Stronghold": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Intel Report - Arctic Stronghold",
+			"cn": "机密文件·极地海峡",
+			"jp": "情報レポート・北極要塞",
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/6/6e/780.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies.",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"health": {
+						"type": "min_max",
+						"min": "100",
+						"max": "180",
+						"formatted": "100 → 180"
+					},
+					"firepower": {
+						"type": "min_max",
+						"min": "10",
+						"max": "20",
+						"formatted": "10 → 20"
 					}
 				}
 			}
