@@ -178,7 +178,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Ayaka Nanase",
-				"url": "https://myanimelist.net/people/39727/Ayaka_Nanase"
+				"url": "https://en.wikipedia.org/wiki/Ayaka_Nanase"
 			}
 		},
 		"skins": [
@@ -631,7 +631,7 @@
 			},
 			"voice": {
 				"name": "Nozomi Yamane",
-				"url": "https://myanimelist.net/people/34545/Nozomi_Yamane"
+				"url": "https://www.imdb.com/name/nm6806421/"
 			}
 		},
 		"skins": [
@@ -731,7 +731,7 @@
 				"info": {
 					"enClient": "Operation: Pillow Fight!",
 					"cnClient": "枕头大战！",
-					"jpClient": "skin unavailable",
+					"jpClient": "ジャベリン・枕投げ大戦！",
 					"obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 3 bonus",
 					"live2dModel": "No"
 				}
@@ -2774,7 +2774,7 @@
 			},
 			"voice": {
 				"name": "Ruriko Aoki",
-				"url": "https://myanimelist.net/people/23831/Ruriko_Aoki"
+				"url": "https://en.wikipedia.org/wiki/Ruriko_Aoki"
 			}
 		},
 		"skins": [
@@ -3947,7 +3947,7 @@
 			},
 			{
 				"name": "Iridescent Rosa",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/BelfastSpring.png/371px-BelfastSpring.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/BelfastSpring.png/370px-BelfastSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/BelfastSpringChibi.png",
 				"info": {
@@ -4607,7 +4607,7 @@
 			},
 			{
 				"name": "Dawn's Paean",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b8/AuroraParty.png/542px-AuroraParty.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b8/AuroraParty.png/543px-AuroraParty.png",
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/41/AuroraPartyChibi.png",
 				"info": {
@@ -4621,7 +4621,7 @@
 			},
 			{
 				"name": "Heritage of Yu City",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1f/AuroraSichuan.png/588px-AuroraSichuan.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1f/AuroraSichuan.png/589px-AuroraSichuan.png",
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/AuroraSichuanChibi.png",
 				"info": {
@@ -5931,7 +5931,7 @@
 			},
 			"voice": {
 				"name": "Akari Uehara",
-				"url": "https://myanimelist.net/people/42513/Akari_Uehara"
+				"url": "https://www.imdb.com/name/nm8801539/"
 			}
 		},
 		"skins": [
@@ -6812,7 +6812,7 @@
 			},
 			"voice": {
 				"name": "Nozomi Yamane",
-				"url": "https://myanimelist.net/people/34545/Nozomi_Yamane"
+				"url": "https://www.imdb.com/name/nm6806421/"
 			}
 		},
 		"skins": [
@@ -8127,6 +8127,10 @@
 			{
 				"description": "Belfast, Warspite, Queen Elizabeth, Akashi and Shiranui",
 				"url": "https://azurlane.koumakan.jp/w/images/c/c6/Bg_queen_elizabeth_1.png"
+			},
+			{
+				"description": "Queen Elizabeth",
+				"url": "https://azurlane.koumakan.jp/w/images/b/be/Bg_2019.11.14_1.png"
 			}
 		],
 		"misc": {
@@ -8142,7 +8146,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/53/Queen_Elizabeth.png/862px-Queen_Elizabeth.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/53/Queen_Elizabeth.png/863px-Queen_Elizabeth.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png",
 				"info": {
@@ -8627,7 +8631,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/WarspiteKai.png/648px-WarspiteKai.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/WarspiteKai.png/649px-WarspiteKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/15/WarspiteKaiChibi.png",
 				"info": {
@@ -9275,7 +9279,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/57/King_George_V.png/553px-King_George_V.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/57/King_George_V.png/555px-King_George_V.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5f/King_George_VChibi.png",
 				"info": {
@@ -9522,7 +9526,7 @@
 			},
 			{
 				"name": "Sakura Elegance",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f5/Prince_of_WalesNew_Year.png/539px-Prince_of_WalesNew_Year.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f5/Prince_of_WalesNew_Year.png/540px-Prince_of_WalesNew_Year.png",
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/27/Prince_of_WalesNew_YearChibi.png",
 				"info": {
@@ -11464,7 +11468,7 @@
 			},
 			{
 				"name": "The Lady of the Beach",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/FormidableSummer.png/670px-FormidableSummer.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/FormidableSummer.png/667px-FormidableSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/16/FormidableSummerChibi.png",
 				"info": {
@@ -12299,7 +12303,12 @@
 				"exchange": false
 			}
 		},
-		"gallery": [],
+		"gallery": [
+			{
+				"description": "Admiral Graf Spee, Fubuki",
+				"url": "https://azurlane.koumakan.jp/w/images/0/01/Bg_2019.11.14_3.png"
+			}
+		],
 		"misc": {
 			"artist": "Alisa",
 			"web": {
@@ -12902,7 +12911,7 @@
 			},
 			{
 				"name": "Lunar Demon",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/AyanamiSpring.png/627px-AyanamiSpring.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/AyanamiSpring.png/628px-AyanamiSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fa/AyanamiSpringChibi.png",
 				"info": {
@@ -13587,7 +13596,7 @@
 			},
 			"voice": {
 				"name": "Kazusa Aranami",
-				"url": "https://myanimelist.net/people/11304/Kazusa_Aranami"
+				"url": "https://www.imdb.com/name/nm5877942/"
 			}
 		},
 		"skins": [
@@ -17245,7 +17254,7 @@
 			},
 			"voice": {
 				"name": "Karin Isobe",
-				"url": "https://myanimelist.net/people/37014/Karin_Isobe"
+				"url": "https://www.imdb.com/name/nm9345796/"
 			}
 		},
 		"skins": [
@@ -17642,7 +17651,7 @@
 					"1x \"Yuugure\" or \"Universal Bullin\""
 				],
 				"coins": 3000,
-				"level": 80,
+				"level": 85,
 				"levelBreakLevel": 3,
 				"levelBreakStars": "★★★★★",
 				"recurrence": 1,
@@ -20678,7 +20687,7 @@
 			},
 			"voice": {
 				"name": "Anna Yamaki",
-				"url": "https://myanimelist.net/people/49110/Anna_Yamaki"
+				"url": "https://www.imdb.com/name/nm10868602/"
 			}
 		},
 		"skins": [
@@ -24451,7 +24460,7 @@
 			},
 			"voice": {
 				"name": "Chie Matsuura",
-				"url": "https://myanimelist.net/people/6172/Chie_Matsuura"
+				"url": "https://www.imdb.com/name/nm3040274/"
 			}
 		},
 		"skins": [
@@ -24552,7 +24561,7 @@
 				"evasion": "31",
 				"speed": "23",
 				"antiair": "303",
-				"aviation": "172",
+				"aviation": "202",
 				"oilConsumption": "13",
 				"accuracy": "77",
 				"antisubmarineWarfare": "0"
@@ -25022,7 +25031,7 @@
 				"evasion": "31",
 				"speed": "23",
 				"antiair": "303",
-				"aviation": "172",
+				"aviation": "202",
 				"oilConsumption": "13",
 				"accuracy": "77",
 				"antisubmarineWarfare": "0"
@@ -25434,7 +25443,7 @@
 			},
 			{
 				"name": "Oath",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/YamashiroWedding.png/495px-YamashiroWedding.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/YamashiroWedding.png/494px-YamashiroWedding.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/YamashiroWeddingChibi.png",
 				"info": {
@@ -25557,7 +25566,7 @@
 				"evasion": "31",
 				"speed": "23",
 				"antiair": "373",
-				"aviation": "224",
+				"aviation": "275",
 				"oilConsumption": "13",
 				"accuracy": "87",
 				"antisubmarineWarfare": "0"
@@ -25999,7 +26008,7 @@
 				"evasion": "31",
 				"speed": "23",
 				"antiair": "373",
-				"aviation": "224",
+				"aviation": "275",
 				"oilConsumption": "13",
 				"accuracy": "87",
 				"antisubmarineWarfare": "0"
@@ -26411,7 +26420,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e0/HyuugaKai.png/988px-HyuugaKai.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e0/HyuugaKai.png/989px-HyuugaKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b9/HyuugaKaiChibi.png",
 				"info": {
@@ -26609,7 +26618,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/46/Nagato.png/835px-Nagato.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/46/Nagato.png/836px-Nagato.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png",
 				"info": {
@@ -27427,7 +27436,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Chiaki Takahashi",
-				"url": "https://myanimelist.net/people/584/Chiaki_Takahashi"
+				"url": "https://en.wikipedia.org/wiki/Chiaki_Takahashi_(actress)"
 			}
 		},
 		"skins": [
@@ -28068,7 +28077,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "Only during event: Smoke-Smothered South Seas",
+				"aviation": "Only during event: The Solomon Ranger",
 				"limited": false,
 				"exchange": false
 			}
@@ -28824,7 +28833,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/7/7c/Skill_11830.png",
 				"names": {
-					"en": "(Retrofit) Flowers of Fate",
+					"en": "(Retrofit) Flowers of Fate (Souryuu)",
 					"cn": "花之牌",
 					"jp": "式機花札"
 				},
@@ -29326,7 +29335,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/6/6a/Skill_11840.png",
 				"names": {
-					"en": "(Retrofit) Flowers of Fate",
+					"en": "(Retrofit) Flowers of Fate (Hiryuu)",
 					"cn": "花之牌",
 					"jp": "式機花札"
 				},
@@ -29639,7 +29648,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6c/HiryuuKai.png/466px-HiryuuKai.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6c/HiryuuKai.png/465px-HiryuuKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/ef/HiryuuKaiChibi.png",
 				"info": {
@@ -30120,7 +30129,7 @@
 			},
 			{
 				"name": "Ceremonial Crane",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ZuikakuFestival.png/638px-ZuikakuFestival.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ZuikakuFestival.png/639px-ZuikakuFestival.png",
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a8/ZuikakuFestivalChibi.png",
 				"info": {
@@ -30353,7 +30362,7 @@
 			},
 			{
 				"name": "Phoenix's Spring Song",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9e/TaihouSpring.png/482px-TaihouSpring.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9e/TaihouSpring.png/481px-TaihouSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/db/TaihouSpringChibi.png",
 				"info": {
@@ -30618,6 +30627,19 @@
 					"cnClient": "IJN_在A1摊位喵！",
 					"jpClient": "島へようこそ！",
 					"obtainedFrom": "Akashi's Fanbook - Complete Painting No. 3",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Welcome to Sofmap!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/24/AkashiSofmap.png/460px-AkashiSofmap.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/0e/AkashiSofmapChibi.png",
+				"info": {
+					"enClient": "Welcome to Sofmap!",
+					"cnClient": "skin unavailable",
+					"jpClient": "skin unavailable",
+					"obtainedFrom": "Welcome to Sofmap! - 10000 point milestone",
 					"live2dModel": "No"
 				}
 			}
@@ -31555,7 +31577,7 @@
 			},
 			"voice": {
 				"name": "Rika Abe",
-				"url": "https://myanimelist.net/people/36750/Rika_Abe"
+				"url": "https://www.imdb.com/name/nm11062264/"
 			}
 		},
 		"skins": [
@@ -31622,7 +31644,7 @@
 			},
 			{
 				"name": "Serious Idol @Acting Manager?!",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f6/Z23Idol.png/516px-Z23Idol.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f6/Z23Idol.png/515px-Z23Idol.png",
 				"background": "https://azurlane.koumakan.jp/w/images/c/ce/Skin_BG_120.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/ae/Z23IdolChibi.png",
 				"info": {
@@ -31838,7 +31860,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Rika Abe",
-				"url": "https://myanimelist.net/people/36750/Rika_Abe"
+				"url": "https://www.imdb.com/name/nm11062264/"
 			}
 		},
 		"skins": [
@@ -33601,6 +33623,10 @@
 			{
 				"description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Admiral Graf Spee, and San Diego at a barbecue",
 				"url": "https://azurlane.koumakan.jp/w/images/6/6a/Bg_July4th_5.png"
+			},
+			{
+				"description": "Hornet, Admiral Hipper, San Diego, Downes",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ec/Bg_2019.10.31_12.png"
 			}
 		],
 		"misc": {
@@ -34146,7 +34172,7 @@
 			},
 			{
 				"name": "Lantern-Lit Ruler",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/af/DeutschlandSpring.png/626px-DeutschlandSpring.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/af/DeutschlandSpring.png/627px-DeutschlandSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/64/DeutschlandSpringChibi.png",
 				"info": {
@@ -34345,6 +34371,10 @@
 			{
 				"description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Admiral Graf Spee, and San Diego at a barbecue",
 				"url": "https://azurlane.koumakan.jp/w/images/6/6a/Bg_July4th_5.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Fubuki",
+				"url": "https://azurlane.koumakan.jp/w/images/0/01/Bg_2019.11.14_3.png"
 			}
 		],
 		"misc": {
@@ -34835,7 +34865,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Minami Shinoda",
-				"url": "https://myanimelist.net/people/40399/Minami_Shinoda"
+				"url": "https://www.imdb.com/name/nm7468916/"
 			}
 		},
 		"skins": [
@@ -34851,7 +34881,7 @@
 			},
 			{
 				"name": "Nightmarish Succubus",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/84/GneisenauHalloween.png/609px-GneisenauHalloween.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/84/GneisenauHalloween.png/610px-GneisenauHalloween.png",
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/GneisenauHalloweenChibi.png",
 				"info": {
@@ -37857,7 +37887,7 @@
 		"construction": {
 			"constructionTime": "01:17:00",
 			"availableIn": {
-				"light": false,
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Northern Overture",
@@ -37897,7 +37927,7 @@
 			},
 			{
 				"name": "Shackled Saule",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/09/AvroraPrison.png/396px-AvroraPrison.png",
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7e/AvroraPrisonChibi.png",
 				"info": {
@@ -41641,7 +41671,7 @@
 			},
 			"voice": {
 				"name": "Chiyo Ousaki",
-				"url": "https://myanimelist.net/people/19391/Chiyo_Ousaki"
+				"url": "https://www.imdb.com/name/nm6929961/"
 			}
 		},
 		"skins": [
@@ -41853,7 +41883,7 @@
 			},
 			"voice": {
 				"name": "Chiyo Ousaki",
-				"url": "https://myanimelist.net/people/19391/Chiyo_Ousaki"
+				"url": "https://www.imdb.com/name/nm6929961/"
 			}
 		},
 		"skins": [
@@ -42086,7 +42116,7 @@
 			},
 			{
 				"name": "Sweet Zombie",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/4e/MikazukiHalloween.png/499px-MikazukiHalloween.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/4e/MikazukiHalloween.png/498px-MikazukiHalloween.png",
 				"background": "https://azurlane.koumakan.jp/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/MikazukiHalloweenChibi.png",
 				"info": {
@@ -42944,7 +42974,7 @@
 			},
 			"voice": {
 				"name": "Rei Mochizuki",
-				"url": "https://myanimelist.net/people/12081/Rei_Mochizuki"
+				"url": "https://www.imdb.com/name/nm7652152/"
 			}
 		},
 		"skins": [
@@ -43142,7 +43172,7 @@
 			},
 			"voice": {
 				"name": "Rei Mochizuki",
-				"url": "https://myanimelist.net/people/12081/Rei_Mochizuki"
+				"url": "https://www.imdb.com/name/nm7652152/"
 			}
 		},
 		"skins": [
@@ -44251,7 +44281,7 @@
 			},
 			"voice": {
 				"name": "Riko Kohara",
-				"url": "https://myanimelist.net/people/39701/Riko_Kohara"
+				"url": "https://www.imdb.com/name/nm7840404/"
 			}
 		},
 		"skins": [
@@ -44964,7 +44994,7 @@
 			},
 			"voice": {
 				"name": "Tomoyo Takayanagi",
-				"url": "https://myanimelist.net/people/45241/Tomoyo_Takayanagi"
+				"url": "https://en.wikipedia.org/wiki/Tomoyo_Takayanagi"
 			}
 		},
 		"skins": [
@@ -46308,7 +46338,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Konomi Fujimura",
-				"url": "https://myanimelist.net/people/20787/Konomi_Fujimura"
+				"url": "https://www.imdb.com/name/nm8187824/"
 			}
 		},
 		"skins": [
@@ -47638,7 +47668,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/90/TanikazeKai.png/544px-TanikazeKai.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/90/TanikazeKai.png/545px-TanikazeKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png",
 				"info": {
@@ -49091,7 +49121,7 @@
 					"cn": "正义的伙伴",
 					"jp": "正義の仲間たち"
 				},
-				"description": "If sortied with Sheffield, increases own Firepower and Torpedo stat by 5% (15%).",
+				"description": "If sortied with Sheffield or Sheffield (Muse), increases own Firepower and Torpedo stat by 5% (15%).",
 				"color": "pink"
 			},
 			{
@@ -50265,8 +50295,8 @@
 			},
 			"twitter": null,
 			"voice": {
-				"name": "Hinata Tamari",
-				"url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=113233"
+				"name": "Tamari Hinata",
+				"url": "https://www.imdb.com/name/nm9008630/"
 			}
 		},
 		"skins": [
@@ -51941,7 +51971,7 @@
 			},
 			{
 				"name": "Shortly Before the Fireworks",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f3/I-26Festival.png/491px-I-26Festival.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f3/I-26Festival.png/490px-I-26Festival.png",
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0c/I-26FestivalChibi.png",
 				"info": {
@@ -53616,7 +53646,7 @@
 			},
 			{
 				"name": "Eigenen Raum",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/U-47Party.png/582px-U-47Party.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/U-47Party.png/583px-U-47Party.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/05/U-47PartyChibi.png",
 				"info": {
@@ -55592,7 +55622,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/82/Emile_BertinKai.png/622px-Emile_BertinKai.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/82/Emile_BertinKai.png/623px-Emile_BertinKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5e/Emile_BertinKaiChibi.png",
 				"info": {
@@ -56930,7 +56960,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d3/Jean_Bart.png/648px-Jean_Bart.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d3/Jean_Bart.png/649px-Jean_Bart.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0f/Jean_BartChibi.png",
 				"info": {
@@ -57145,7 +57175,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/Massachusetts.png/661px-Massachusetts.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/Massachusetts.png/663px-Massachusetts.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/46/MassachusettsChibi.png",
 				"info": {
@@ -57551,7 +57581,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bc/Centaur.png/616px-Centaur.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bc/Centaur.png/617px-Centaur.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f7/CentaurChibi.png",
 				"info": {
@@ -59317,7 +59347,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Miyuki Kobori",
-				"url": "https://myanimelist.net/people/23839/Miyuki_Kobori"
+				"url": "https://www.imdb.com/name/nm5842715/"
 			}
 		},
 		"skins": [
@@ -59526,7 +59556,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Miyuki Kobori",
-				"url": "https://myanimelist.net/people/23839/Miyuki_Kobori"
+				"url": "https://www.imdb.com/name/nm5842715/"
 			}
 		},
 		"skins": [
@@ -60188,7 +60218,7 @@
 			},
 			{
 				"name": "Sweet☆Christmas",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2e/ConcordChristmas.png/516px-ConcordChristmas.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2e/ConcordChristmas.png/515px-ConcordChristmas.png",
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/eb/ConcordChristmasChibi.png",
 				"info": {
@@ -60428,7 +60458,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/Amagi.png/568px-Amagi.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/Amagi.png/569px-Amagi.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png",
 				"info": {
@@ -61237,7 +61267,7 @@
 			},
 			"voice": {
 				"name": "Ruriko Aoki",
-				"url": "https://myanimelist.net/people/23831/Ruriko_Aoki"
+				"url": "https://en.wikipedia.org/wiki/Ruriko_Aoki"
 			}
 		},
 		"skins": [
@@ -61729,7 +61759,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/Curacoa.png/470px-Curacoa.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/Curacoa.png/469px-Curacoa.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a2/CuracoaChibi.png",
 				"info": {
@@ -62418,7 +62448,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bb/Kimberly.png/514px-Kimberly.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bb/Kimberly.png/513px-Kimberly.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7e/KimberlyChibi.png",
 				"info": {
@@ -63503,7 +63533,7 @@
 			},
 			"voice": {
 				"name": "Maki Kawase",
-				"url": "https://myanimelist.net/people/46800/Maki_Kawase"
+				"url": "https://www.imdb.com/name/nm10017584/"
 			}
 		},
 		"skins": [
@@ -63631,7 +63661,7 @@
 					"cn": "恪尽职守",
 					"jp": "堅忍不抜"
 				},
-				"description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level).",
+				"description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level): \n 1 CVs/CVLs - Launches Fighters. \n 2 CVs/CVLs - Launches Fighters and Dive Bombers \n 3 CVs/CVLs - Launches Dive Bombers and Torpedo Bombers",
 				"color": "pink"
 			}
 		],
@@ -63703,7 +63733,7 @@
 			},
 			"voice": {
 				"name": "Kana Ichinose",
-				"url": "https://myanimelist.net/people/47097/Kana_Ichinose"
+				"url": "https://en.wikipedia.org/wiki/Kana_Ichinose"
 			}
 		},
 		"skins": [
@@ -65726,7 +65756,7 @@
 			},
 			"voice": {
 				"name": "Rimo Hasegawa",
-				"url": "http://asianwiki.com/Rimo_Hasegawa"
+				"url": "https://www.imdb.com/name/nm7727921/"
 			}
 		},
 		"skins": [
@@ -65934,7 +65964,7 @@
 			},
 			"voice": {
 				"name": "Sayuri Hara",
-				"url": "https://myanimelist.net/people/12013/Sayuri_Hara"
+				"url": "https://en.wikipedia.org/wiki/Sayuri_Hara"
 			}
 		},
 		"skins": [
@@ -66129,7 +66159,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Mizuki Yuina",
-				"url": "https://myanimelist.net/people/25179/Mizuki_Yuina"
+				"url": "https://www.imdb.com/name/nm9806312/"
 			}
 		},
 		"skins": [
@@ -68657,7 +68687,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d5/I-168.png/528px-I-168.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d5/I-168.png/527px-I-168.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png",
 				"info": {
@@ -69711,7 +69741,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0f/Alabama.png/650px-Alabama.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0f/Alabama.png/651px-Alabama.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/25/AlabamaChibi.png",
 				"info": {
@@ -71158,11 +71188,11 @@
 			},
 			"twitter": {
 				"name": "Waterkuma",
-				"url": "https://twitter.com/waterkuma0?lang=en"
+				"url": "https://twitter.com/waterkuma0"
 			},
 			"voice": {
 				"name": "Sayaka Kaneko",
-				"url": "https://myanimelist.net/people/40913/Sayaka_Kaneko"
+				"url": "https://www.imdb.com/name/nm10116901/"
 			}
 		},
 		"skins": [
@@ -71829,7 +71859,7 @@
 			},
 			{
 				"name": "The Glory of Naples",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/39/LittorioSummer.png/718px-LittorioSummer.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/39/LittorioSummer.png/630px-LittorioSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7d/LittorioSummerChibi.png",
 				"info": {
@@ -72015,7 +72045,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Ayaka Shimizu",
-				"url": "https://myanimelist.net/people/9108/Ayaka_Shimizu"
+				"url": "https://www.imdb.com/name/nm3646875/"
 			}
 		},
 		"skins": [
@@ -72221,7 +72251,7 @@
 			},
 			"voice": {
 				"name": "Ayaka Shimizu",
-				"url": "https://myanimelist.net/people/9108/Ayaka_Shimizu"
+				"url": "https://www.imdb.com/name/nm3646875/"
 			}
 		},
 		"skins": [
@@ -72237,7 +72267,7 @@
 			},
 			{
 				"name": "Fitness Master",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/21/Giulio_CesareCasual.png/623px-Giulio_CesareCasual.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/21/Giulio_CesareCasual.png/624px-Giulio_CesareCasual.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a6/Giulio_CesareCasualChibi.png",
 				"info": {
@@ -72656,7 +72686,10 @@
 			"web": null,
 			"pixiv": null,
 			"twitter": null,
-			"voice": null
+			"voice": {
+				"name": "Sakura Nakamura",
+				"url": "https://www.imdb.com/name/nm5066910/"
+			}
 		},
 		"skins": [
 			{
@@ -72671,7 +72704,7 @@
 			},
 			{
 				"name": "Summer's Hotness?",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/TrentoSummer.png/714px-TrentoSummer.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/TrentoSummer.png/715px-TrentoSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/TrentoSummerChibi.png",
 				"info": {
@@ -73699,7 +73732,16 @@
 				"exchange": false
 			}
 		},
-		"gallery": [],
+		"gallery": [
+			{
+				"description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/2/27/Bg_2019.10.31_11.png"
+			},
+			{
+				"description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/7/7e/Bg_2019.11.14_4.png"
+			}
+		],
 		"misc": {
 			"artist": null,
 			"web": null,
@@ -73713,7 +73755,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/06/Gascogne_%28Muse%29.png/748px-Gascogne_%28Muse%29.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/06/Gascogne_%28Muse%29.png/749px-Gascogne_%28Muse%29.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c5/Gascogne_%28Muse%29Chibi.png",
 				"info": {
@@ -73884,7 +73926,16 @@
 				"exchange": false
 			}
 		},
-		"gallery": [],
+		"gallery": [
+			{
+				"description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/2/27/Bg_2019.10.31_11.png"
+			},
+			{
+				"description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/7/7e/Bg_2019.11.14_4.png"
+			}
+		],
 		"misc": {
 			"artist": null,
 			"web": null,
@@ -74078,7 +74129,16 @@
 				"exchange": false
 			}
 		},
-		"gallery": [],
+		"gallery": [
+			{
+				"description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/2/27/Bg_2019.10.31_11.png"
+			},
+			{
+				"description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/7/7e/Bg_2019.11.14_4.png"
+			}
+		],
 		"misc": {
 			"artist": null,
 			"web": null,
@@ -74273,7 +74333,16 @@
 				"exchange": false
 			}
 		},
-		"gallery": [],
+		"gallery": [
+			{
+				"description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/2/27/Bg_2019.10.31_11.png"
+			},
+			{
+				"description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/7/7e/Bg_2019.11.14_4.png"
+			}
+		],
 		"misc": {
 			"artist": null,
 			"web": null,
@@ -74468,7 +74537,16 @@
 				"exchange": false
 			}
 		},
-		"gallery": [],
+		"gallery": [
+			{
+				"description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/2/27/Bg_2019.10.31_11.png"
+			},
+			{
+				"description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+				"url": "https://azurlane.koumakan.jp/w/images/7/7e/Bg_2019.11.14_4.png"
+			}
+		],
 		"misc": {
 			"artist": null,
 			"web": null,
@@ -74683,8 +74761,8 @@
 				"url": "https://twitter.com/lpmya"
 			},
 			"voice": {
-				"name": "Play",
-				"url": "https://azurlane.koumakan.jp/w/images/b/b3/Glasgow_TitleScreen.ogg"
+				"name": "Tomori Kusunoki",
+				"url": "https://en.wikipedia.org/wiki/Tomori_Kusunoki"
 			}
 		},
 		"skins": [
@@ -74902,14 +74980,14 @@
 				"url": "https://twitter.com/byul_zzi"
 			},
 			"voice": {
-				"name": "Play",
-				"url": "https://azurlane.koumakan.jp/w/images/0/01/Kasumi_TitleScreen.ogg"
+				"name": "Mariko Takeda",
+				"url": "https://twitter.com/takeda_mariko"
 			}
 		},
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6b/Kasumi.png/730px-Kasumi.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6b/Kasumi.png/731px-Kasumi.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/22/KasumiChibi.png",
 				"info": {
@@ -75035,7 +75113,7 @@
 					"cn": "战术解放",
 					"jp": "駿河艦隊・戦術解放！"
 				},
-				"description": "Every 20s: 40.0% (70.0%) chance to fire a special barrage (DMG is based on the skill's level). While in an Exercise: improves the firing pattern of the barrage.Barrage preview (gif), Enhanced barrage preview (gif)",
+				"description": "Every 20s: 40.0% (70.0%) chance to fire a special barrage (DMG is based on skill level). While in an Exercise: improves the firing pattern of the barrage.Barrage preview (gif), Enhanced barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -75536,7 +75614,10 @@
 				"name": "Rain Lan",
 				"url": "https://twitter.com/h49889577"
 			},
-			"voice": null
+			"voice": {
+				"name": "Rika Momokawa",
+				"url": "http://earlywing.co.jp/talent_w/momokawarika.php"
+			}
 		},
 		"skins": [
 			{
@@ -75745,12 +75826,15 @@
 			"web": null,
 			"pixiv": null,
 			"twitter": null,
-			"voice": null
+			"voice": {
+				"name": "Kaoru Komatsu",
+				"url": "http://earlywing.co.jp/talent_w/komatsukaoru.html"
+			}
 		},
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/04/Biloxi.png/593px-Biloxi.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/04/Biloxi.png/594px-Biloxi.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2c/BiloxiChibi.png",
 				"info": {
@@ -75805,7 +75889,7 @@
 				"speed": "46",
 				"antiair": "146",
 				"aviation": "0",
-				"oilConsumption": "10",
+				"oilConsumption": "9",
 				"accuracy": "189",
 				"antisubmarineWarfare": "195"
 			},
@@ -75820,7 +75904,7 @@
 				"speed": "46",
 				"antiair": "127",
 				"aviation": "0",
-				"oilConsumption": "10",
+				"oilConsumption": "9",
 				"accuracy": "180",
 				"antisubmarineWarfare": "176"
 			},
@@ -75955,12 +76039,15 @@
 			"web": null,
 			"pixiv": null,
 			"twitter": null,
-			"voice": null
+			"voice": {
+				"name": "Kaoru Komatsu",
+				"url": "http://earlywing.co.jp/talent_w/komatsukaoru.html"
+			}
 		},
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/Uranami.png/616px-Uranami.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/Uranami.png/617px-Uranami.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f0/UranamiChibi.png",
 				"info": {
@@ -76015,7 +76102,7 @@
 				"speed": "46",
 				"antiair": "204",
 				"aviation": "0",
-				"oilConsumption": "10",
+				"oilConsumption": "9",
 				"accuracy": "184",
 				"antisubmarineWarfare": "200"
 			},
@@ -76030,7 +76117,7 @@
 				"speed": "46",
 				"antiair": "178",
 				"aviation": "0",
-				"oilConsumption": "10",
+				"oilConsumption": "9",
 				"accuracy": "175",
 				"antisubmarineWarfare": "180"
 			},
@@ -76045,7 +76132,7 @@
 				"speed": "46",
 				"antiair": "38",
 				"aviation": "0",
-				"oilConsumption": "3",
+				"oilConsumption": "2",
 				"accuracy": "67",
 				"antisubmarineWarfare": "49"
 			}
@@ -76161,11 +76248,20 @@
 		},
 		"gallery": [],
 		"misc": {
-			"artist": null,
-			"web": null,
-			"pixiv": null,
+			"artist": "黑猫",
+			"web": {
+				"name": "黑猫桃园-专注潜水20年",
+				"url": "https://weibo.com/u/2959771544"
+			},
+			"pixiv": {
+				"name": "近所黒モモ",
+				"url": "https://www.pixiv.net/member.php?id=2331978"
+			},
 			"twitter": null,
-			"voice": null
+			"voice": {
+				"name": "Chiyo Tomaru",
+				"url": "https://www.imdb.com/name/nm7459345/"
+			}
 		},
 		"skins": [
 			{
@@ -76225,7 +76321,7 @@
 				"speed": "48",
 				"antiair": "172",
 				"aviation": "0",
-				"oilConsumption": "10",
+				"oilConsumption": "9",
 				"accuracy": "184",
 				"antisubmarineWarfare": "203"
 			},
@@ -76240,7 +76336,7 @@
 				"speed": "48",
 				"antiair": "150",
 				"aviation": "0",
-				"oilConsumption": "10",
+				"oilConsumption": "9",
 				"accuracy": "175",
 				"antisubmarineWarfare": "183"
 			},
@@ -76255,7 +76351,7 @@
 				"speed": "48",
 				"antiair": "32",
 				"aviation": "0",
-				"oilConsumption": "3",
+				"oilConsumption": "2",
 				"accuracy": "67",
 				"antisubmarineWarfare": "50"
 			}
@@ -76371,10 +76467,19 @@
 		},
 		"gallery": [],
 		"misc": {
-			"artist": null,
-			"web": null,
-			"pixiv": null,
-			"twitter": null,
+			"artist": "shisantian",
+			"web": {
+				"name": "土狗十三天",
+				"url": "https://www.weibo.com/p/1005053082090661"
+			},
+			"pixiv": {
+				"name": "13日(十三天)",
+				"url": "https://www.pixiv.net/en/users/13138388"
+			},
+			"twitter": {
+				"name": "真明",
+				"url": "https://twitter.com/shisantian"
+			},
 			"voice": null
 		},
 		"skins": [
@@ -76435,7 +76540,7 @@
 				"speed": "51",
 				"antiair": "176",
 				"aviation": "0",
-				"oilConsumption": "11",
+				"oilConsumption": "10",
 				"accuracy": "187",
 				"antisubmarineWarfare": "208"
 			},
@@ -76450,7 +76555,7 @@
 				"speed": "51",
 				"antiair": "153",
 				"aviation": "0",
-				"oilConsumption": "11",
+				"oilConsumption": "10",
 				"accuracy": "178",
 				"antisubmarineWarfare": "188"
 			},
@@ -76506,7 +76611,7 @@
 					"cn": "天蓝色的巡洋舰",
 					"jp": "空色の氷結兵装"
 				},
-				"description": "At the start of the battle: increases this ship's FP by 4.0% (10.0%) and spawns Snezhinka, a summon which fights for 20 (50)s and lowers the Speed of enemies hit by it (its DMG dealt and active duration is based on the skill's level.) Additionally, when this ship sinks an enemy: increases this ship's FP by 0.5% (2.0%) (can be stacked up to 5 times.)",
+				"description": "At the start of the battle: increases this ship's FP by 4.0% (10.0%) and spawns Snezhinka, a summon which fights for 20 (50)s and lowers the Speed of enemies hit by it by 1.5% stacking up to 15% for 4 seconds (its DMG dealt is based on skill level). Additionally, when this ship sinks an enemy: increases this ship's FP by 0.5% (2.0%) (can be stacked up to 5 times.)",
 				"color": "pink"
 			},
 			{
@@ -76526,23 +76631,23 @@
 					"cn": "专属弹幕-塔什干",
 					"jp": "特殊弾幕-タシュケント"
 				},
-				"description": "Activates All Out Assault Ⅱ: Tashkent once every 10 times the Main Guns are fired.",
+				"description": "Activates All Out Assault Ⅰ (Ⅱ): Tashkent once every 15 (10) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock EX Barrage Ⅰ",
-				"Main gun efficiency +5%"
+				"Unlock All Out Assault Ⅰ",
+				"Main Gun Efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
-				"Main gun efficiency +10%"
+				"Torpedo Base +1",
+				"Torpedo Preload +1",
+				"Main Gun Efficiency +10%"
 			],
 			[
-				"Improve EX Barrage",
-				"All weapons' efficiency +5%"
+				"Upgrade All Out Assault Ⅰ→Ⅱ",
+				"All Weapons' Efficiency +5%"
 			]
 		],
 		"fleetTech": {
@@ -76581,16 +76686,28 @@
 		},
 		"gallery": [],
 		"misc": {
-			"artist": null,
-			"web": null,
-			"pixiv": null,
-			"twitter": null,
-			"voice": null
+			"artist": "Kincora",
+			"web": {
+				"name": "KIncora",
+				"url": "http://weibo.com/u/2061731981"
+			},
+			"pixiv": {
+				"name": "KIn",
+				"url": "https://www.pixiv.net/member.php?id=3054186"
+			},
+			"twitter": {
+				"name": "KIncora",
+				"url": "https://twitter.com/KIncoraK"
+			},
+			"voice": {
+				"name": "Shiori Izawa",
+				"url": "https://en.wikipedia.org/wiki/Shiori_Izawa"
+			}
 		},
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/Tashkent.png/645px-Tashkent.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/Tashkent.png/644px-Tashkent.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c3/TashkentChibi.png",
 				"info": {
@@ -76645,7 +76762,7 @@
 				"speed": "23",
 				"antiair": "146",
 				"aviation": "0",
-				"oilConsumption": "11",
+				"oilConsumption": "10",
 				"accuracy": "137",
 				"antisubmarineWarfare": "56"
 			},
@@ -76660,7 +76777,7 @@
 				"speed": "23",
 				"antiair": "127",
 				"aviation": "0",
-				"oilConsumption": "11",
+				"oilConsumption": "10",
 				"accuracy": "122",
 				"antisubmarineWarfare": "49"
 			},
@@ -76716,7 +76833,7 @@
 					"cn": "Mercury Memorial",
 					"jp": "メルクーリイへ思い出を込めて"
 				},
-				"description": "Increases this ship's DMG dealt to BBs and CAs by 5.0% (20.0%). When this ship takes DMG: 15.0% chance to for it to evade all enemy attacks for 5.0 (10.0)s (has a 20s cooldown when activated.)",
+				"description": "Increases this ship's DMG dealt to BBs and CAs by 5.0% (20.0%). When this ship takes DMG: 15.0% chance to for it to evade all enemy attacks for 5.0 (10.0) seconds. (Has a 20s cooldown when activated.)",
 				"color": "pink"
 			},
 			{
@@ -76780,11 +76897,20 @@
 		},
 		"gallery": [],
 		"misc": {
-			"artist": null,
+			"artist": "Byulzzi",
 			"web": null,
-			"pixiv": null,
-			"twitter": null,
-			"voice": null
+			"pixiv": {
+				"name": "ビョルチ⋆",
+				"url": "https://www.pixiv.net/member.php?id=5882726"
+			},
+			"twitter": {
+				"name": "Byul_zzi",
+				"url": "https://twitter.com/byul_zzi"
+			},
+			"voice": {
+				"name": "Maya Yoshioka",
+				"url": "https://www.imdb.com/name/nm2933394/"
+			}
 		},
 		"skins": [
 			{
@@ -76844,7 +76970,7 @@
 				"speed": "34",
 				"antiair": "334",
 				"aviation": "0",
-				"oilConsumption": "12",
+				"oilConsumption": "11",
 				"accuracy": "164",
 				"antisubmarineWarfare": "148"
 			},
@@ -76859,7 +76985,7 @@
 				"speed": "34",
 				"antiair": "295",
 				"aviation": "0",
-				"oilConsumption": "12",
+				"oilConsumption": "11",
 				"accuracy": "146",
 				"antisubmarineWarfare": "131"
 			},
@@ -76874,7 +77000,7 @@
 				"speed": "34",
 				"antiair": "63",
 				"aviation": "0",
-				"oilConsumption": "4",
+				"oilConsumption": "3",
 				"accuracy": "56",
 				"antisubmarineWarfare": "36"
 			}
@@ -76915,7 +77041,7 @@
 					"cn": "虚空的白骑兵",
 					"jp": "虚空の白騎兵"
 				},
-				"description": "Every 15s: 40.0% (70.0%) chance to fire a special barrage and inflict Burn for 6s to all enemies hit by it (barrage DMG is based on the skill's level.)",
+				"description": "Every 15s: 40.0% (70.0%) chance to fire a special barrage and inflict Burn for 6s to all enemies hit by it. (Barrage DMG is based on skill level.)",
 				"color": "pink"
 			},
 			{
@@ -76935,22 +77061,22 @@
 					"cn": "专属弹幕-恰巴耶夫",
 					"jp": "特殊弾幕-チャパエフ"
 				},
-				"description": "Activates All Out Assault Ⅱ: Chapayev once every 10 times the Main Guns are fired.",
+				"description": "Activates All Out Assault Ⅰ (Ⅱ): Chapayev once every 15 (10) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
 				"Unlock All Out Assault Ⅰ",
-				"Main gun efficiency +5%"
+				"Main Gun Efficiency +5%"
 			],
 			[
-				"Main gun base +1",
-				"Main gun efficiency +10%"
+				"Main Gun Base +1",
+				"Main Gun Efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
-				"Main gun efficiency +15%"
+				"Upgrade All Out Assault Ⅰ→Ⅱ",
+				"Main Gun Efficiency +15%"
 			]
 		],
 		"fleetTech": {
@@ -76989,11 +77115,23 @@
 		},
 		"gallery": [],
 		"misc": {
-			"artist": null,
-			"web": null,
-			"pixiv": null,
-			"twitter": null,
-			"voice": null
+			"artist": "股间少女",
+			"web": {
+				"name": "Gujianshaov",
+				"url": "https://www.weibo.com/u/5205759948"
+			},
+			"pixiv": {
+				"name": "Gujianshaov",
+				"url": "https://www.pixiv.net/member.php?id=12834728"
+			},
+			"twitter": {
+				"name": "Gujianshaonv",
+				"url": "https://twitter.com/gujianshaonv"
+			},
+			"voice": {
+				"name": "Masumi Tazawa",
+				"url": "https://en.wikipedia.org/wiki/Masumi_Tazawa"
+			}
 		},
 		"skins": [
 			{
@@ -77053,7 +77191,7 @@
 				"speed": "24",
 				"antiair": "174",
 				"aviation": "0",
-				"oilConsumption": "15",
+				"oilConsumption": "14",
 				"accuracy": "61",
 				"antisubmarineWarfare": "0"
 			},
@@ -77068,7 +77206,7 @@
 				"speed": "24",
 				"antiair": "152",
 				"aviation": "0",
-				"oilConsumption": "15",
+				"oilConsumption": "14",
 				"accuracy": "52",
 				"antisubmarineWarfare": "0"
 			},
@@ -77140,16 +77278,16 @@
 		],
 		"limitBreaks": [
 			[
-				"Main gun base +1",
-				"Main gun efficiency +5%"
+				"Main Gun Base +1",
+				"Main Gun Efficiency +5%"
 			],
 			[
-				"Auxiliary gun base +2",
-				"Main gun efficiency +10%"
+				"Auxiliary Gun Base +2",
+				"Main Gun Efficiency +10%"
 			],
 			[
-				"Main gun base +1",
-				"Main gun efficiency +15%"
+				"Main Gun Base +1",
+				"Main Gun Efficiency +15%"
 			]
 		],
 		"fleetTech": {
@@ -77192,11 +77330,23 @@
 		},
 		"gallery": [],
 		"misc": {
-			"artist": null,
-			"web": null,
-			"pixiv": null,
-			"twitter": null,
-			"voice": null
+			"artist": "股间少女",
+			"web": {
+				"name": "Gujianshaov",
+				"url": "https://www.weibo.com/u/5205759948"
+			},
+			"pixiv": {
+				"name": "Gujianshaov",
+				"url": "https://www.pixiv.net/member.php?id=12834728"
+			},
+			"twitter": {
+				"name": "Gujianshaonv",
+				"url": "https://twitter.com/gujianshaonv"
+			},
+			"voice": {
+				"name": "Fuyuka Ono",
+				"url": "https://www.imdb.com/name/nm8654296/"
+			}
 		},
 		"skins": [
 			{
@@ -77256,7 +77406,7 @@
 				"speed": "28",
 				"antiair": "248",
 				"aviation": "0",
-				"oilConsumption": "16",
+				"oilConsumption": "15",
 				"accuracy": "59",
 				"antisubmarineWarfare": "0"
 			},
@@ -77271,7 +77421,7 @@
 				"speed": "28",
 				"antiair": "216",
 				"aviation": "0",
-				"oilConsumption": "16",
+				"oilConsumption": "15",
 				"accuracy": "50",
 				"antisubmarineWarfare": "0"
 			},
@@ -77327,7 +77477,7 @@
 					"cn": "冰结锋芒",
 					"jp": "リオート・オブストレル"
 				},
-				"description": "When this ship fires a Salvo: 45.0% (75.0%) chance to fire a special barrage. Barrage DMG is based on the skill's level.",
+				"description": "When this ship fires a Salvo: 45.0% (75.0%) chance to fire a special barrage. Barrage DMG is based on skill level.",
 				"color": "pink"
 			},
 			{
@@ -77402,7 +77552,10 @@
 			},
 			"pixiv": null,
 			"twitter": null,
-			"voice": null
+			"voice": {
+				"name": "Manami Numakura",
+				"url": "https://en.wikipedia.org/wiki/Manami_Numakura"
+			}
 		},
 		"skins": [
 			{
@@ -77577,6 +77730,42 @@
 		},
 		"class": "Littorio",
 		"nationality": "Sardegna Empire",
+		"hullType": "Battleship",
+		"unreleased": true,
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
+		"skins": [],
+		"rarity": "Unreleased"
+	},
+	"9008": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Kirov",
+		"id": "9008",
+		"names": {
+			"en": "Kirov",
+			"code": "SN",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": "Kirov",
+		"nationality": "North Union",
+		"hullType": "Light Cruiser",
+		"unreleased": true,
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
+		"skins": [],
+		"rarity": "Unreleased"
+	},
+	"9009": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Sovetsky_Soyuz",
+		"id": "9009",
+		"names": {
+			"en": "Sovetsky Soyuz",
+			"code": "SN Sovetsky",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": "Sovetsky Soyuz",
+		"nationality": "North Union",
 		"hullType": "Battleship",
 		"unreleased": true,
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
@@ -80479,7 +80668,7 @@
 			},
 			"voice": {
 				"name": "Ruka Nemoto",
-				"url": "https://myanimelist.net/people/38948/Ruka_Nemoto"
+				"url": "https://www.imdb.com/name/nm10221517/"
 			}
 		},
 		"skins": [
@@ -80677,7 +80866,7 @@
 			},
 			"voice": {
 				"name": "Yuna Yoshino",
-				"url": "https://myanimelist.net/people/37495/Yuna_Yoshino"
+				"url": "https://www.imdb.com/name/nm7304680/"
 			}
 		},
 		"skins": [
@@ -80875,7 +81064,7 @@
 			},
 			"voice": {
 				"name": "Yuna Yoshino",
-				"url": "https://myanimelist.net/people/37495/Yuna_Yoshino"
+				"url": "https://www.imdb.com/name/nm7304680/"
 			}
 		},
 		"skins": [
@@ -81073,7 +81262,7 @@
 			},
 			"voice": {
 				"name": "Yuna Yoshino",
-				"url": "https://myanimelist.net/people/37495/Yuna_Yoshino"
+				"url": "https://www.imdb.com/name/nm7304680/"
 			}
 		},
 		"skins": [
@@ -82924,6 +83113,10 @@
 			{
 				"description": "Ping Hai, York, Jersey, Haruna, Souryuu, Eldridge and Ryuujou in a town setting",
 				"url": "https://azurlane.koumakan.jp/w/images/1/16/Bg_in_town.png"
+			},
+			{
+				"description": "Z23, Javelin, Laffey, Eldridge, Ayanami",
+				"url": "https://azurlane.koumakan.jp/w/images/e/e9/Bg_2019.11.14_2.png"
 			}
 		],
 		"misc": {
@@ -84002,7 +84195,7 @@
 			},
 			{
 				"name": "New Year's Bluebird",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0c/HelenaNew_Year.png/441px-HelenaNew_Year.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0c/HelenaNew_Year.png/440px-HelenaNew_Year.png",
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d9/HelenaNew_YearChibi.png",
 				"info": {
@@ -84227,7 +84420,7 @@
 			},
 			"voice": {
 				"name": "Kazusa Aranami",
-				"url": "https://myanimelist.net/people/11304/Kazusa_Aranami"
+				"url": "https://www.imdb.com/name/nm5877942/"
 			}
 		},
 		"skins": [
@@ -85171,7 +85364,7 @@
 			},
 			{
 				"name": "Oath",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/ClevelandWedding.png/583px-ClevelandWedding.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/ClevelandWedding.png/582px-ClevelandWedding.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d3/ClevelandWeddingChibi.png",
 				"info": {
@@ -85212,7 +85405,7 @@
 			},
 			{
 				"name": "Road Trip!",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ClevelandRoadtrip.png/378px-ClevelandRoadtrip.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ClevelandRoadtrip.png/377px-ClevelandRoadtrip.png",
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e1/ClevelandRoadtripChibi.png",
 				"info": {
@@ -86254,7 +86447,7 @@
 			},
 			"voice": {
 				"name": "Ruka Nemoto",
-				"url": "https://myanimelist.net/people/38948/Ruka_Nemoto"
+				"url": "https://www.imdb.com/name/nm10221517/"
 			}
 		},
 		"skins": [
@@ -89354,7 +89547,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Nozomi Yamane",
-				"url": "https://myanimelist.net/people/34545/Nozomi_Yamane"
+				"url": "https://www.imdb.com/name/nm6806421/"
 			}
 		},
 		"skins": [
@@ -90115,7 +90308,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/Colorado.png/673px-Colorado.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/Colorado.png/672px-Colorado.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png",
 				"info": {
@@ -90317,13 +90510,13 @@
 			},
 			"voice": {
 				"name": "Aya Saitou",
-				"url": "https://myanimelist.net/people/30121/Aya_Saitou"
+				"url": "https://www.imdb.com/name/nm7925435/"
 			}
 		},
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Maryland.png/571px-Maryland.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Maryland.png/572px-Maryland.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a9/MarylandChibi.png",
 				"info": {
@@ -90948,7 +91141,7 @@
 			},
 			"voice": {
 				"name": "Rika Abe",
-				"url": "https://myanimelist.net/people/36750/Rika_Abe"
+				"url": "https://www.imdb.com/name/nm11062264/"
 			}
 		},
 		"skins": [
@@ -91165,7 +91358,7 @@
 			},
 			{
 				"name": "Solo Concert",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/46/South_DakotaParty.png/556px-South_DakotaParty.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/46/South_DakotaParty.png/557px-South_DakotaParty.png",
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/83/South_DakotaPartyChibi.png",
 				"info": {
@@ -92696,7 +92889,7 @@
 			},
 			"voice": {
 				"name": "Minami Shinoda",
-				"url": "https://myanimelist.net/people/40399/Minami_Shinoda"
+				"url": "https://www.imdb.com/name/nm7468916/"
 			}
 		},
 		"skins": [
@@ -94185,7 +94378,7 @@
 			},
 			{
 				"name": "Blooming Peony",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/66/EnterpriseSpring.png/370px-EnterpriseSpring.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/66/EnterpriseSpring.png/369px-EnterpriseSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f7/EnterpriseSpringChibi.png",
 				"info": {
@@ -94199,7 +94392,7 @@
 			},
 			{
 				"name": "Anniversary Ride",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d7/EnterpriseRoadtrip.png/428px-EnterpriseRoadtrip.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d7/EnterpriseRoadtrip.png/427px-EnterpriseRoadtrip.png",
 				"background": "https://azurlane.koumakan.jp/w/images/0/0f/Skin_BG_118.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/67/EnterpriseRoadtripChibi.png",
 				"info": {
@@ -94405,6 +94598,10 @@
 			{
 				"description": "Portland, Hornet, Enterprise, Yorktown and Hammann",
 				"url": "https://azurlane.koumakan.jp/w/images/0/0f/Bg_enterprise_3.png"
+			},
+			{
+				"description": "Hornet, Admiral Hipper, San Diego, Downes",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ec/Bg_2019.10.31_12.png"
 			}
 		],
 		"misc": {
@@ -94624,7 +94821,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Tomoyo Takayanagi",
-				"url": "https://myanimelist.net/people/45241/Tomoyo_Takayanagi"
+				"url": "https://en.wikipedia.org/wiki/Tomoyo_Takayanagi"
 			}
 		},
 		"skins": [
@@ -95284,7 +95481,7 @@
 			},
 			{
 				"name": "Retrofit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2a/AmazonKai.png/729px-AmazonKai.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2a/AmazonKai.png/730px-AmazonKai.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/11/AmazonKaiChibi.png",
 				"info": {
@@ -96220,7 +96417,7 @@
 			},
 			"voice": {
 				"name": "Mami Kamikura",
-				"url": "https://myanimelist.net/people/38412/Mami_Kamikura"
+				"url": "https://twitter.com/s_kamyu"
 			}
 		},
 		"skins": [
@@ -99536,7 +99733,7 @@
 			"twitter": null,
 			"voice": {
 				"name": "Ayaka Nanase",
-				"url": "https://myanimelist.net/people/39727/Ayaka_Nanase"
+				"url": "https://en.wikipedia.org/wiki/Ayaka_Nanase"
 			}
 		},
 		"skins": [
@@ -100063,7 +100260,7 @@
 			},
 			{
 				"name": "Black Gerard",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/42/MonarchSpring.png/474px-MonarchSpring.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/42/MonarchSpring.png/473px-MonarchSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/64/MonarchSpringChibi.png",
 				"info": {
@@ -100607,7 +100804,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/60/Izumo.png/892px-Izumo.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/60/Izumo.png/893px-Izumo.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png",
 				"info": {
@@ -101399,7 +101596,7 @@
 			},
 			{
 				"name": "Christmas Party Prep!",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/11/SeattleChristmas.png/400px-SeattleChristmas.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/11/SeattleChristmas.png/399px-SeattleChristmas.png",
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bc/SeattleChristmasChibi.png",
 				"info": {
@@ -102138,7 +102335,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/42/Azuma.png/977px-Azuma.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/42/Azuma.png/978px-Azuma.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/df/AzumaChibi.png",
 				"info": {
@@ -102641,7 +102838,7 @@
 			},
 			{
 				"name": "Tropical Environs Acclimation Service Equipment",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/GascogneSummer.png/527px-GascogneSummer.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/GascogneSummer.png/516px-GascogneSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/GascogneSummerChibi.png",
 				"info": {
@@ -103759,7 +103956,7 @@
 			},
 			{
 				"name": "Goddesses' Smile",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9d/Black_HeartCollab.png/464px-Black_HeartCollab.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9d/Black_HeartCollab.png/454px-Black_HeartCollab.png",
 				"background": "https://azurlane.koumakan.jp/w/images/4/4f/Skin_BG_202.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/23/Black_HeartCollab_CNChibi.png",
 				"info": {
@@ -105342,7 +105539,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d5/Uruuru.png/652px-Uruuru.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d5/Uruuru.png/653px-Uruuru.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/85/UruuruChibi.png",
 				"info": {
@@ -106738,7 +106935,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0c/Shirakami_Fubuki.png/668px-Shirakami_Fubuki.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0c/Shirakami_Fubuki.png/669px-Shirakami_Fubuki.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8c/Shirakami_FubukiChibi.png",
 				"info": {
@@ -107290,7 +107487,7 @@
 					"cn": "向日葵的约定",
 					"jp": "ひまわりの約束"
 				},
-				"description": "When entering battle: fires a special barrage with 100% critical hit chance. If fleet consists of at least 2 other Hololive ships, the barrage is enhanced.",
+				"description": "When entering battle: fires a special barrage with 100% critical hit chance (damage scales with skill level). If fleet consists of at least 2 other Hololive ships, improves the barrage.",
 				"color": "pink"
 			}
 		],

@@ -178,7 +178,7 @@
             "twitter": null,
             "voice": {
                 "name": "Ayaka Nanase",
-                "url": "https://myanimelist.net/people/39727/Ayaka_Nanase"
+                "url": "https://en.wikipedia.org/wiki/Ayaka_Nanase"
             }
         },
         "skins": [
@@ -631,7 +631,7 @@
             },
             "voice": {
                 "name": "Nozomi Yamane",
-                "url": "https://myanimelist.net/people/34545/Nozomi_Yamane"
+                "url": "https://www.imdb.com/name/nm6806421/"
             }
         },
         "skins": [
@@ -731,7 +731,7 @@
                 "info": {
                     "enClient": "Operation: Pillow Fight!",
                     "cnClient": "枕头大战！",
-                    "jpClient": "skin unavailable",
+                    "jpClient": "ジャベリン・枕投げ大戦！",
                     "obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 3 bonus",
                     "live2dModel": false
                 }
@@ -2774,7 +2774,7 @@
             },
             "voice": {
                 "name": "Ruriko Aoki",
-                "url": "https://myanimelist.net/people/23831/Ruriko_Aoki"
+                "url": "https://en.wikipedia.org/wiki/Ruriko_Aoki"
             }
         },
         "skins": [
@@ -5931,7 +5931,7 @@
             },
             "voice": {
                 "name": "Akari Uehara",
-                "url": "https://myanimelist.net/people/42513/Akari_Uehara"
+                "url": "https://www.imdb.com/name/nm8801539/"
             }
         },
         "skins": [
@@ -6812,7 +6812,7 @@
             },
             "voice": {
                 "name": "Nozomi Yamane",
-                "url": "https://myanimelist.net/people/34545/Nozomi_Yamane"
+                "url": "https://www.imdb.com/name/nm6806421/"
             }
         },
         "skins": [
@@ -8127,6 +8127,10 @@
             {
                 "description": "Belfast, Warspite, Queen Elizabeth, Akashi and Shiranui",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_queen_elizabeth_1.png"
+            },
+            {
+                "description": "Queen Elizabeth",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_1.png"
             }
         ],
         "misc": {
@@ -12299,7 +12303,12 @@
                 "exchange": false
             }
         },
-        "gallery": [],
+        "gallery": [
+            {
+                "description": "Admiral Graf Spee, Fubuki",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_3.png"
+            }
+        ],
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -13587,7 +13596,7 @@
             },
             "voice": {
                 "name": "Kazusa Aranami",
-                "url": "https://myanimelist.net/people/11304/Kazusa_Aranami"
+                "url": "https://www.imdb.com/name/nm5877942/"
             }
         },
         "skins": [
@@ -17245,7 +17254,7 @@
             },
             "voice": {
                 "name": "Karin Isobe",
-                "url": "https://myanimelist.net/people/37014/Karin_Isobe"
+                "url": "https://www.imdb.com/name/nm9345796/"
             }
         },
         "skins": [
@@ -17642,7 +17651,7 @@
                     "1x \"Yuugure\" or \"Universal Bullin\""
                 ],
                 "coins": 3000,
-                "level": 80,
+                "level": 85,
                 "levelBreakLevel": 3,
                 "levelBreakStars": "★★★★★",
                 "recurrence": 1,
@@ -20678,7 +20687,7 @@
             },
             "voice": {
                 "name": "Anna Yamaki",
-                "url": "https://myanimelist.net/people/49110/Anna_Yamaki"
+                "url": "https://www.imdb.com/name/nm10868602/"
             }
         },
         "skins": [
@@ -24451,7 +24460,7 @@
             },
             "voice": {
                 "name": "Chie Matsuura",
-                "url": "https://myanimelist.net/people/6172/Chie_Matsuura"
+                "url": "https://www.imdb.com/name/nm3040274/"
             }
         },
         "skins": [
@@ -24552,7 +24561,7 @@
                 "evasion": "31",
                 "speed": "23",
                 "antiair": "303",
-                "aviation": "172",
+                "aviation": "202",
                 "oilConsumption": "13",
                 "accuracy": "77",
                 "antisubmarineWarfare": "0"
@@ -25022,7 +25031,7 @@
                 "evasion": "31",
                 "speed": "23",
                 "antiair": "303",
-                "aviation": "172",
+                "aviation": "202",
                 "oilConsumption": "13",
                 "accuracy": "77",
                 "antisubmarineWarfare": "0"
@@ -25557,7 +25566,7 @@
                 "evasion": "31",
                 "speed": "23",
                 "antiair": "373",
-                "aviation": "224",
+                "aviation": "275",
                 "oilConsumption": "13",
                 "accuracy": "87",
                 "antisubmarineWarfare": "0"
@@ -25999,7 +26008,7 @@
                 "evasion": "31",
                 "speed": "23",
                 "antiair": "373",
-                "aviation": "224",
+                "aviation": "275",
                 "oilConsumption": "13",
                 "accuracy": "87",
                 "antisubmarineWarfare": "0"
@@ -27427,7 +27436,7 @@
             "twitter": null,
             "voice": {
                 "name": "Chiaki Takahashi",
-                "url": "https://myanimelist.net/people/584/Chiaki_Takahashi"
+                "url": "https://en.wikipedia.org/wiki/Chiaki_Takahashi_(actress)"
             }
         },
         "skins": [
@@ -28068,7 +28077,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": "Only during event: Smoke-Smothered South Seas",
+                "aviation": "Only during event: The Solomon Ranger",
                 "limited": false,
                 "exchange": false
             }
@@ -28824,7 +28833,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/7/7c/Skill_11830.png",
                 "names": {
-                    "en": "(Retrofit) Flowers of Fate",
+                    "en": "(Retrofit) Flowers of Fate (Souryuu)",
                     "cn": "花之牌",
                     "jp": "式機花札"
                 },
@@ -29326,7 +29335,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/6/6a/Skill_11840.png",
                 "names": {
-                    "en": "(Retrofit) Flowers of Fate",
+                    "en": "(Retrofit) Flowers of Fate (Hiryuu)",
                     "cn": "花之牌",
                     "jp": "式機花札"
                 },
@@ -30620,6 +30629,19 @@
                     "obtainedFrom": "Akashi's Fanbook - Complete Painting No. 3",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "Welcome to Sofmap!",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/232/Welcome_to_Sofmap/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/232/Welcome_to_Sofmap/chibi.png",
+                "info": {
+                    "enClient": "Welcome to Sofmap!",
+                    "cnClient": "skin unavailable",
+                    "jpClient": "skin unavailable",
+                    "obtainedFrom": "Welcome to Sofmap! - 10000 point milestone",
+                    "live2dModel": false
+                }
             }
         ]
     },
@@ -31555,7 +31577,7 @@
             },
             "voice": {
                 "name": "Rika Abe",
-                "url": "https://myanimelist.net/people/36750/Rika_Abe"
+                "url": "https://www.imdb.com/name/nm11062264/"
             }
         },
         "skins": [
@@ -31838,7 +31860,7 @@
             "twitter": null,
             "voice": {
                 "name": "Rika Abe",
-                "url": "https://myanimelist.net/people/36750/Rika_Abe"
+                "url": "https://www.imdb.com/name/nm11062264/"
             }
         },
         "skins": [
@@ -33601,6 +33623,10 @@
             {
                 "description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Admiral Graf Spee, and San Diego at a barbecue",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_5.png"
+            },
+            {
+                "description": "Hornet, Admiral Hipper, San Diego, Downes",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_12.png"
             }
         ],
         "misc": {
@@ -34345,6 +34371,10 @@
             {
                 "description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Admiral Graf Spee, and San Diego at a barbecue",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_5.png"
+            },
+            {
+                "description": "Admiral Graf Spee, Fubuki",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_3.png"
             }
         ],
         "misc": {
@@ -34835,7 +34865,7 @@
             "twitter": null,
             "voice": {
                 "name": "Minami Shinoda",
-                "url": "https://myanimelist.net/people/40399/Minami_Shinoda"
+                "url": "https://www.imdb.com/name/nm7468916/"
             }
         },
         "skins": [
@@ -37865,7 +37895,7 @@
         "construction": {
             "constructionTime": "01:17:00",
             "availableIn": {
-                "light": false,
+                "light": true,
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: Northern Overture",
@@ -41649,7 +41679,7 @@
             },
             "voice": {
                 "name": "Chiyo Ousaki",
-                "url": "https://myanimelist.net/people/19391/Chiyo_Ousaki"
+                "url": "https://www.imdb.com/name/nm6929961/"
             }
         },
         "skins": [
@@ -41861,7 +41891,7 @@
             },
             "voice": {
                 "name": "Chiyo Ousaki",
-                "url": "https://myanimelist.net/people/19391/Chiyo_Ousaki"
+                "url": "https://www.imdb.com/name/nm6929961/"
             }
         },
         "skins": [
@@ -42952,7 +42982,7 @@
             },
             "voice": {
                 "name": "Rei Mochizuki",
-                "url": "https://myanimelist.net/people/12081/Rei_Mochizuki"
+                "url": "https://www.imdb.com/name/nm7652152/"
             }
         },
         "skins": [
@@ -43150,7 +43180,7 @@
             },
             "voice": {
                 "name": "Rei Mochizuki",
-                "url": "https://myanimelist.net/people/12081/Rei_Mochizuki"
+                "url": "https://www.imdb.com/name/nm7652152/"
             }
         },
         "skins": [
@@ -44259,7 +44289,7 @@
             },
             "voice": {
                 "name": "Riko Kohara",
-                "url": "https://myanimelist.net/people/39701/Riko_Kohara"
+                "url": "https://www.imdb.com/name/nm7840404/"
             }
         },
         "skins": [
@@ -44972,7 +45002,7 @@
             },
             "voice": {
                 "name": "Tomoyo Takayanagi",
-                "url": "https://myanimelist.net/people/45241/Tomoyo_Takayanagi"
+                "url": "https://en.wikipedia.org/wiki/Tomoyo_Takayanagi"
             }
         },
         "skins": [
@@ -46316,7 +46346,7 @@
             "twitter": null,
             "voice": {
                 "name": "Konomi Fujimura",
-                "url": "https://myanimelist.net/people/20787/Konomi_Fujimura"
+                "url": "https://www.imdb.com/name/nm8187824/"
             }
         },
         "skins": [
@@ -49099,7 +49129,7 @@
                     "cn": "正义的伙伴",
                     "jp": "正義の仲間たち"
                 },
-                "description": "If sortied with Sheffield, increases own Firepower and Torpedo stat by 5% (15%).",
+                "description": "If sortied with Sheffield or Sheffield (Muse), increases own Firepower and Torpedo stat by 5% (15%).",
                 "color": "pink"
             },
             {
@@ -50273,8 +50303,8 @@
             },
             "twitter": null,
             "voice": {
-                "name": "Hinata Tamari",
-                "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=113233"
+                "name": "Tamari Hinata",
+                "url": "https://www.imdb.com/name/nm9008630/"
             }
         },
         "skins": [
@@ -59325,7 +59355,7 @@
             "twitter": null,
             "voice": {
                 "name": "Miyuki Kobori",
-                "url": "https://myanimelist.net/people/23839/Miyuki_Kobori"
+                "url": "https://www.imdb.com/name/nm5842715/"
             }
         },
         "skins": [
@@ -59534,7 +59564,7 @@
             "twitter": null,
             "voice": {
                 "name": "Miyuki Kobori",
-                "url": "https://myanimelist.net/people/23839/Miyuki_Kobori"
+                "url": "https://www.imdb.com/name/nm5842715/"
             }
         },
         "skins": [
@@ -61245,7 +61275,7 @@
             },
             "voice": {
                 "name": "Ruriko Aoki",
-                "url": "https://myanimelist.net/people/23831/Ruriko_Aoki"
+                "url": "https://en.wikipedia.org/wiki/Ruriko_Aoki"
             }
         },
         "skins": [
@@ -63511,7 +63541,7 @@
             },
             "voice": {
                 "name": "Maki Kawase",
-                "url": "https://myanimelist.net/people/46800/Maki_Kawase"
+                "url": "https://www.imdb.com/name/nm10017584/"
             }
         },
         "skins": [
@@ -63639,7 +63669,7 @@
                     "cn": "恪尽职守",
                     "jp": "堅忍不抜"
                 },
-                "description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level).",
+                "description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level): \n 1 CVs/CVLs - Launches Fighters. \n 2 CVs/CVLs - Launches Fighters and Dive Bombers \n 3 CVs/CVLs - Launches Dive Bombers and Torpedo Bombers",
                 "color": "pink"
             }
         ],
@@ -63711,7 +63741,7 @@
             },
             "voice": {
                 "name": "Kana Ichinose",
-                "url": "https://myanimelist.net/people/47097/Kana_Ichinose"
+                "url": "https://en.wikipedia.org/wiki/Kana_Ichinose"
             }
         },
         "skins": [
@@ -65734,7 +65764,7 @@
             },
             "voice": {
                 "name": "Rimo Hasegawa",
-                "url": "http://asianwiki.com/Rimo_Hasegawa"
+                "url": "https://www.imdb.com/name/nm7727921/"
             }
         },
         "skins": [
@@ -65942,7 +65972,7 @@
             },
             "voice": {
                 "name": "Sayuri Hara",
-                "url": "https://myanimelist.net/people/12013/Sayuri_Hara"
+                "url": "https://en.wikipedia.org/wiki/Sayuri_Hara"
             }
         },
         "skins": [
@@ -66137,7 +66167,7 @@
             "twitter": null,
             "voice": {
                 "name": "Mizuki Yuina",
-                "url": "https://myanimelist.net/people/25179/Mizuki_Yuina"
+                "url": "https://www.imdb.com/name/nm9806312/"
             }
         },
         "skins": [
@@ -71166,11 +71196,11 @@
             },
             "twitter": {
                 "name": "Waterkuma",
-                "url": "https://twitter.com/waterkuma0?lang=en"
+                "url": "https://twitter.com/waterkuma0"
             },
             "voice": {
                 "name": "Sayaka Kaneko",
-                "url": "https://myanimelist.net/people/40913/Sayaka_Kaneko"
+                "url": "https://www.imdb.com/name/nm10116901/"
             }
         },
         "skins": [
@@ -72023,7 +72053,7 @@
             "twitter": null,
             "voice": {
                 "name": "Ayaka Shimizu",
-                "url": "https://myanimelist.net/people/9108/Ayaka_Shimizu"
+                "url": "https://www.imdb.com/name/nm3646875/"
             }
         },
         "skins": [
@@ -72229,7 +72259,7 @@
             },
             "voice": {
                 "name": "Ayaka Shimizu",
-                "url": "https://myanimelist.net/people/9108/Ayaka_Shimizu"
+                "url": "https://www.imdb.com/name/nm3646875/"
             }
         },
         "skins": [
@@ -72664,7 +72694,10 @@
             "web": null,
             "pixiv": null,
             "twitter": null,
-            "voice": null
+            "voice": {
+                "name": "Sakura Nakamura",
+                "url": "https://www.imdb.com/name/nm5066910/"
+            }
         },
         "skins": [
             {
@@ -73707,7 +73740,16 @@
                 "exchange": false
             }
         },
-        "gallery": [],
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ],
         "misc": {
             "artist": null,
             "web": null,
@@ -73892,7 +73934,16 @@
                 "exchange": false
             }
         },
-        "gallery": [],
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ],
         "misc": {
             "artist": null,
             "web": null,
@@ -74086,7 +74137,16 @@
                 "exchange": false
             }
         },
-        "gallery": [],
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ],
         "misc": {
             "artist": null,
             "web": null,
@@ -74281,7 +74341,16 @@
                 "exchange": false
             }
         },
-        "gallery": [],
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ],
         "misc": {
             "artist": null,
             "web": null,
@@ -74476,7 +74545,16 @@
                 "exchange": false
             }
         },
-        "gallery": [],
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ],
         "misc": {
             "artist": null,
             "web": null,
@@ -74691,8 +74769,8 @@
                 "url": "https://twitter.com/lpmya"
             },
             "voice": {
-                "name": "Play",
-                "url": "https://azurlane.koumakan.jp/w/images/b/b3/Glasgow_TitleScreen.ogg"
+                "name": "Tomori Kusunoki",
+                "url": "https://en.wikipedia.org/wiki/Tomori_Kusunoki"
             }
         },
         "skins": [
@@ -74910,8 +74988,8 @@
                 "url": "https://twitter.com/byul_zzi"
             },
             "voice": {
-                "name": "Play",
-                "url": "https://azurlane.koumakan.jp/w/images/0/01/Kasumi_TitleScreen.ogg"
+                "name": "Mariko Takeda",
+                "url": "https://twitter.com/takeda_mariko"
             }
         },
         "skins": [
@@ -75043,7 +75121,7 @@
                     "cn": "战术解放",
                     "jp": "駿河艦隊・戦術解放！"
                 },
-                "description": "Every 20s: 40.0% (70.0%) chance to fire a special barrage (DMG is based on the skill's level). While in an Exercise: improves the firing pattern of the barrage.Barrage preview (gif), Enhanced barrage preview (gif)",
+                "description": "Every 20s: 40.0% (70.0%) chance to fire a special barrage (DMG is based on skill level). While in an Exercise: improves the firing pattern of the barrage.Barrage preview (gif), Enhanced barrage preview (gif)",
                 "color": "pink"
             },
             {
@@ -75544,7 +75622,10 @@
                 "name": "Rain Lan",
                 "url": "https://twitter.com/h49889577"
             },
-            "voice": null
+            "voice": {
+                "name": "Rika Momokawa",
+                "url": "http://earlywing.co.jp/talent_w/momokawarika.php"
+            }
         },
         "skins": [
             {
@@ -75753,7 +75834,10 @@
             "web": null,
             "pixiv": null,
             "twitter": null,
-            "voice": null
+            "voice": {
+                "name": "Kaoru Komatsu",
+                "url": "http://earlywing.co.jp/talent_w/komatsukaoru.html"
+            }
         },
         "skins": [
             {
@@ -75813,7 +75897,7 @@
                 "speed": "46",
                 "antiair": "146",
                 "aviation": "0",
-                "oilConsumption": "10",
+                "oilConsumption": "9",
                 "accuracy": "189",
                 "antisubmarineWarfare": "195"
             },
@@ -75828,7 +75912,7 @@
                 "speed": "46",
                 "antiair": "127",
                 "aviation": "0",
-                "oilConsumption": "10",
+                "oilConsumption": "9",
                 "accuracy": "180",
                 "antisubmarineWarfare": "176"
             },
@@ -75963,7 +76047,10 @@
             "web": null,
             "pixiv": null,
             "twitter": null,
-            "voice": null
+            "voice": {
+                "name": "Kaoru Komatsu",
+                "url": "http://earlywing.co.jp/talent_w/komatsukaoru.html"
+            }
         },
         "skins": [
             {
@@ -76023,7 +76110,7 @@
                 "speed": "46",
                 "antiair": "204",
                 "aviation": "0",
-                "oilConsumption": "10",
+                "oilConsumption": "9",
                 "accuracy": "184",
                 "antisubmarineWarfare": "200"
             },
@@ -76038,7 +76125,7 @@
                 "speed": "46",
                 "antiair": "178",
                 "aviation": "0",
-                "oilConsumption": "10",
+                "oilConsumption": "9",
                 "accuracy": "175",
                 "antisubmarineWarfare": "180"
             },
@@ -76053,7 +76140,7 @@
                 "speed": "46",
                 "antiair": "38",
                 "aviation": "0",
-                "oilConsumption": "3",
+                "oilConsumption": "2",
                 "accuracy": "67",
                 "antisubmarineWarfare": "49"
             }
@@ -76169,11 +76256,20 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
-            "web": null,
-            "pixiv": null,
+            "artist": "黑猫",
+            "web": {
+                "name": "黑猫桃园-专注潜水20年",
+                "url": "https://weibo.com/u/2959771544"
+            },
+            "pixiv": {
+                "name": "近所黒モモ",
+                "url": "https://www.pixiv.net/member.php?id=2331978"
+            },
             "twitter": null,
-            "voice": null
+            "voice": {
+                "name": "Chiyo Tomaru",
+                "url": "https://www.imdb.com/name/nm7459345/"
+            }
         },
         "skins": [
             {
@@ -76233,7 +76329,7 @@
                 "speed": "48",
                 "antiair": "172",
                 "aviation": "0",
-                "oilConsumption": "10",
+                "oilConsumption": "9",
                 "accuracy": "184",
                 "antisubmarineWarfare": "203"
             },
@@ -76248,7 +76344,7 @@
                 "speed": "48",
                 "antiair": "150",
                 "aviation": "0",
-                "oilConsumption": "10",
+                "oilConsumption": "9",
                 "accuracy": "175",
                 "antisubmarineWarfare": "183"
             },
@@ -76263,7 +76359,7 @@
                 "speed": "48",
                 "antiair": "32",
                 "aviation": "0",
-                "oilConsumption": "3",
+                "oilConsumption": "2",
                 "accuracy": "67",
                 "antisubmarineWarfare": "50"
             }
@@ -76379,10 +76475,19 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
-            "web": null,
-            "pixiv": null,
-            "twitter": null,
+            "artist": "shisantian",
+            "web": {
+                "name": "土狗十三天",
+                "url": "https://www.weibo.com/p/1005053082090661"
+            },
+            "pixiv": {
+                "name": "13日(十三天)",
+                "url": "https://www.pixiv.net/en/users/13138388"
+            },
+            "twitter": {
+                "name": "真明",
+                "url": "https://twitter.com/shisantian"
+            },
             "voice": null
         },
         "skins": [
@@ -76443,7 +76548,7 @@
                 "speed": "51",
                 "antiair": "176",
                 "aviation": "0",
-                "oilConsumption": "11",
+                "oilConsumption": "10",
                 "accuracy": "187",
                 "antisubmarineWarfare": "208"
             },
@@ -76458,7 +76563,7 @@
                 "speed": "51",
                 "antiair": "153",
                 "aviation": "0",
-                "oilConsumption": "11",
+                "oilConsumption": "10",
                 "accuracy": "178",
                 "antisubmarineWarfare": "188"
             },
@@ -76514,7 +76619,7 @@
                     "cn": "天蓝色的巡洋舰",
                     "jp": "空色の氷結兵装"
                 },
-                "description": "At the start of the battle: increases this ship's FP by 4.0% (10.0%) and spawns Snezhinka, a summon which fights for 20 (50)s and lowers the Speed of enemies hit by it (its DMG dealt and active duration is based on the skill's level.) Additionally, when this ship sinks an enemy: increases this ship's FP by 0.5% (2.0%) (can be stacked up to 5 times.)",
+                "description": "At the start of the battle: increases this ship's FP by 4.0% (10.0%) and spawns Snezhinka, a summon which fights for 20 (50)s and lowers the Speed of enemies hit by it by 1.5% stacking up to 15% for 4 seconds (its DMG dealt is based on skill level). Additionally, when this ship sinks an enemy: increases this ship's FP by 0.5% (2.0%) (can be stacked up to 5 times.)",
                 "color": "pink"
             },
             {
@@ -76534,23 +76639,23 @@
                     "cn": "专属弹幕-塔什干",
                     "jp": "特殊弾幕-タシュケント"
                 },
-                "description": "Activates All Out Assault Ⅱ: Tashkent once every 10 times the Main Guns are fired.",
+                "description": "Activates All Out Assault Ⅰ (Ⅱ): Tashkent once every 15 (10) times the Main Guns are fired.",
                 "color": "pink"
             }
         ],
         "limitBreaks": [
             [
-                "Unlock EX Barrage Ⅰ",
-                "Main gun efficiency +5%"
+                "Unlock All Out Assault Ⅰ",
+                "Main Gun Efficiency +5%"
             ],
             [
-                "Torpedo base +1",
-                "Torpedo preload +1",
-                "Main gun efficiency +10%"
+                "Torpedo Base +1",
+                "Torpedo Preload +1",
+                "Main Gun Efficiency +10%"
             ],
             [
-                "Improve EX Barrage",
-                "All weapons' efficiency +5%"
+                "Upgrade All Out Assault Ⅰ→Ⅱ",
+                "All Weapons' Efficiency +5%"
             ]
         ],
         "fleetTech": {
@@ -76589,11 +76694,23 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
-            "web": null,
-            "pixiv": null,
-            "twitter": null,
-            "voice": null
+            "artist": "Kincora",
+            "web": {
+                "name": "KIncora",
+                "url": "http://weibo.com/u/2061731981"
+            },
+            "pixiv": {
+                "name": "KIn",
+                "url": "https://www.pixiv.net/member.php?id=3054186"
+            },
+            "twitter": {
+                "name": "KIncora",
+                "url": "https://twitter.com/KIncoraK"
+            },
+            "voice": {
+                "name": "Shiori Izawa",
+                "url": "https://en.wikipedia.org/wiki/Shiori_Izawa"
+            }
         },
         "skins": [
             {
@@ -76653,7 +76770,7 @@
                 "speed": "23",
                 "antiair": "146",
                 "aviation": "0",
-                "oilConsumption": "11",
+                "oilConsumption": "10",
                 "accuracy": "137",
                 "antisubmarineWarfare": "56"
             },
@@ -76668,7 +76785,7 @@
                 "speed": "23",
                 "antiair": "127",
                 "aviation": "0",
-                "oilConsumption": "11",
+                "oilConsumption": "10",
                 "accuracy": "122",
                 "antisubmarineWarfare": "49"
             },
@@ -76724,7 +76841,7 @@
                     "cn": "Mercury Memorial",
                     "jp": "メルクーリイへ思い出を込めて"
                 },
-                "description": "Increases this ship's DMG dealt to BBs and CAs by 5.0% (20.0%). When this ship takes DMG: 15.0% chance to for it to evade all enemy attacks for 5.0 (10.0)s (has a 20s cooldown when activated.)",
+                "description": "Increases this ship's DMG dealt to BBs and CAs by 5.0% (20.0%). When this ship takes DMG: 15.0% chance to for it to evade all enemy attacks for 5.0 (10.0) seconds. (Has a 20s cooldown when activated.)",
                 "color": "pink"
             },
             {
@@ -76788,11 +76905,20 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
+            "artist": "Byulzzi",
             "web": null,
-            "pixiv": null,
-            "twitter": null,
-            "voice": null
+            "pixiv": {
+                "name": "ビョルチ⋆",
+                "url": "https://www.pixiv.net/member.php?id=5882726"
+            },
+            "twitter": {
+                "name": "Byul_zzi",
+                "url": "https://twitter.com/byul_zzi"
+            },
+            "voice": {
+                "name": "Maya Yoshioka",
+                "url": "https://www.imdb.com/name/nm2933394/"
+            }
         },
         "skins": [
             {
@@ -76852,7 +76978,7 @@
                 "speed": "34",
                 "antiair": "334",
                 "aviation": "0",
-                "oilConsumption": "12",
+                "oilConsumption": "11",
                 "accuracy": "164",
                 "antisubmarineWarfare": "148"
             },
@@ -76867,7 +76993,7 @@
                 "speed": "34",
                 "antiair": "295",
                 "aviation": "0",
-                "oilConsumption": "12",
+                "oilConsumption": "11",
                 "accuracy": "146",
                 "antisubmarineWarfare": "131"
             },
@@ -76882,7 +77008,7 @@
                 "speed": "34",
                 "antiair": "63",
                 "aviation": "0",
-                "oilConsumption": "4",
+                "oilConsumption": "3",
                 "accuracy": "56",
                 "antisubmarineWarfare": "36"
             }
@@ -76923,7 +77049,7 @@
                     "cn": "虚空的白骑兵",
                     "jp": "虚空の白騎兵"
                 },
-                "description": "Every 15s: 40.0% (70.0%) chance to fire a special barrage and inflict Burn for 6s to all enemies hit by it (barrage DMG is based on the skill's level.)",
+                "description": "Every 15s: 40.0% (70.0%) chance to fire a special barrage and inflict Burn for 6s to all enemies hit by it. (Barrage DMG is based on skill level.)",
                 "color": "pink"
             },
             {
@@ -76943,22 +77069,22 @@
                     "cn": "专属弹幕-恰巴耶夫",
                     "jp": "特殊弾幕-チャパエフ"
                 },
-                "description": "Activates All Out Assault Ⅱ: Chapayev once every 10 times the Main Guns are fired.",
+                "description": "Activates All Out Assault Ⅰ (Ⅱ): Chapayev once every 15 (10) times the Main Guns are fired.",
                 "color": "pink"
             }
         ],
         "limitBreaks": [
             [
                 "Unlock All Out Assault Ⅰ",
-                "Main gun efficiency +5%"
+                "Main Gun Efficiency +5%"
             ],
             [
-                "Main gun base +1",
-                "Main gun efficiency +10%"
+                "Main Gun Base +1",
+                "Main Gun Efficiency +10%"
             ],
             [
-                "Improve All Out Assault",
-                "Main gun efficiency +15%"
+                "Upgrade All Out Assault Ⅰ→Ⅱ",
+                "Main Gun Efficiency +15%"
             ]
         ],
         "fleetTech": {
@@ -76997,11 +77123,23 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
-            "web": null,
-            "pixiv": null,
-            "twitter": null,
-            "voice": null
+            "artist": "股间少女",
+            "web": {
+                "name": "Gujianshaov",
+                "url": "https://www.weibo.com/u/5205759948"
+            },
+            "pixiv": {
+                "name": "Gujianshaov",
+                "url": "https://www.pixiv.net/member.php?id=12834728"
+            },
+            "twitter": {
+                "name": "Gujianshaonv",
+                "url": "https://twitter.com/gujianshaonv"
+            },
+            "voice": {
+                "name": "Masumi Tazawa",
+                "url": "https://en.wikipedia.org/wiki/Masumi_Tazawa"
+            }
         },
         "skins": [
             {
@@ -77061,7 +77199,7 @@
                 "speed": "24",
                 "antiair": "174",
                 "aviation": "0",
-                "oilConsumption": "15",
+                "oilConsumption": "14",
                 "accuracy": "61",
                 "antisubmarineWarfare": "0"
             },
@@ -77076,7 +77214,7 @@
                 "speed": "24",
                 "antiair": "152",
                 "aviation": "0",
-                "oilConsumption": "15",
+                "oilConsumption": "14",
                 "accuracy": "52",
                 "antisubmarineWarfare": "0"
             },
@@ -77148,16 +77286,16 @@
         ],
         "limitBreaks": [
             [
-                "Main gun base +1",
-                "Main gun efficiency +5%"
+                "Main Gun Base +1",
+                "Main Gun Efficiency +5%"
             ],
             [
-                "Auxiliary gun base +2",
-                "Main gun efficiency +10%"
+                "Auxiliary Gun Base +2",
+                "Main Gun Efficiency +10%"
             ],
             [
-                "Main gun base +1",
-                "Main gun efficiency +15%"
+                "Main Gun Base +1",
+                "Main Gun Efficiency +15%"
             ]
         ],
         "fleetTech": {
@@ -77200,11 +77338,23 @@
         },
         "gallery": [],
         "misc": {
-            "artist": null,
-            "web": null,
-            "pixiv": null,
-            "twitter": null,
-            "voice": null
+            "artist": "股间少女",
+            "web": {
+                "name": "Gujianshaov",
+                "url": "https://www.weibo.com/u/5205759948"
+            },
+            "pixiv": {
+                "name": "Gujianshaov",
+                "url": "https://www.pixiv.net/member.php?id=12834728"
+            },
+            "twitter": {
+                "name": "Gujianshaonv",
+                "url": "https://twitter.com/gujianshaonv"
+            },
+            "voice": {
+                "name": "Fuyuka Ono",
+                "url": "https://www.imdb.com/name/nm8654296/"
+            }
         },
         "skins": [
             {
@@ -77264,7 +77414,7 @@
                 "speed": "28",
                 "antiair": "248",
                 "aviation": "0",
-                "oilConsumption": "16",
+                "oilConsumption": "15",
                 "accuracy": "59",
                 "antisubmarineWarfare": "0"
             },
@@ -77279,7 +77429,7 @@
                 "speed": "28",
                 "antiair": "216",
                 "aviation": "0",
-                "oilConsumption": "16",
+                "oilConsumption": "15",
                 "accuracy": "50",
                 "antisubmarineWarfare": "0"
             },
@@ -77335,7 +77485,7 @@
                     "cn": "冰结锋芒",
                     "jp": "リオート・オブストレル"
                 },
-                "description": "When this ship fires a Salvo: 45.0% (75.0%) chance to fire a special barrage. Barrage DMG is based on the skill's level.",
+                "description": "When this ship fires a Salvo: 45.0% (75.0%) chance to fire a special barrage. Barrage DMG is based on skill level.",
                 "color": "pink"
             },
             {
@@ -77410,7 +77560,10 @@
             },
             "pixiv": null,
             "twitter": null,
-            "voice": null
+            "voice": {
+                "name": "Manami Numakura",
+                "url": "https://en.wikipedia.org/wiki/Manami_Numakura"
+            }
         },
         "skins": [
             {
@@ -77588,6 +77741,42 @@
         "hullType": "Battleship",
         "unreleased": true,
         "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9007/thumbnail.png",
+        "skins": [],
+        "rarity": "Unreleased"
+    },
+    "9008": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Kirov",
+        "id": "9008",
+        "names": {
+            "en": "Kirov",
+            "code": "SN",
+            "cn": null,
+            "jp": null,
+            "kr": null
+        },
+        "class": "Kirov",
+        "nationality": "North Union",
+        "hullType": "Light Cruiser",
+        "unreleased": true,
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9008/thumbnail.png",
+        "skins": [],
+        "rarity": "Unreleased"
+    },
+    "9009": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Sovetsky_Soyuz",
+        "id": "9009",
+        "names": {
+            "en": "Sovetsky Soyuz",
+            "code": "SN Sovetsky",
+            "cn": null,
+            "jp": null,
+            "kr": null
+        },
+        "class": "Sovetsky Soyuz",
+        "nationality": "North Union",
+        "hullType": "Battleship",
+        "unreleased": true,
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/9009/thumbnail.png",
         "skins": [],
         "rarity": "Unreleased"
     },
@@ -80487,7 +80676,7 @@
             },
             "voice": {
                 "name": "Ruka Nemoto",
-                "url": "https://myanimelist.net/people/38948/Ruka_Nemoto"
+                "url": "https://www.imdb.com/name/nm10221517/"
             }
         },
         "skins": [
@@ -80685,7 +80874,7 @@
             },
             "voice": {
                 "name": "Yuna Yoshino",
-                "url": "https://myanimelist.net/people/37495/Yuna_Yoshino"
+                "url": "https://www.imdb.com/name/nm7304680/"
             }
         },
         "skins": [
@@ -80883,7 +81072,7 @@
             },
             "voice": {
                 "name": "Yuna Yoshino",
-                "url": "https://myanimelist.net/people/37495/Yuna_Yoshino"
+                "url": "https://www.imdb.com/name/nm7304680/"
             }
         },
         "skins": [
@@ -81081,7 +81270,7 @@
             },
             "voice": {
                 "name": "Yuna Yoshino",
-                "url": "https://myanimelist.net/people/37495/Yuna_Yoshino"
+                "url": "https://www.imdb.com/name/nm7304680/"
             }
         },
         "skins": [
@@ -82932,6 +83121,10 @@
             {
                 "description": "Ping Hai, York, Jersey, Haruna, Souryuu, Eldridge and Ryuujou in a town setting",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_in_town.png"
+            },
+            {
+                "description": "Z23, Javelin, Laffey, Eldridge, Ayanami",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_2.png"
             }
         ],
         "misc": {
@@ -84235,7 +84428,7 @@
             },
             "voice": {
                 "name": "Kazusa Aranami",
-                "url": "https://myanimelist.net/people/11304/Kazusa_Aranami"
+                "url": "https://www.imdb.com/name/nm5877942/"
             }
         },
         "skins": [
@@ -86262,7 +86455,7 @@
             },
             "voice": {
                 "name": "Ruka Nemoto",
-                "url": "https://myanimelist.net/people/38948/Ruka_Nemoto"
+                "url": "https://www.imdb.com/name/nm10221517/"
             }
         },
         "skins": [
@@ -89362,7 +89555,7 @@
             "twitter": null,
             "voice": {
                 "name": "Nozomi Yamane",
-                "url": "https://myanimelist.net/people/34545/Nozomi_Yamane"
+                "url": "https://www.imdb.com/name/nm6806421/"
             }
         },
         "skins": [
@@ -90325,7 +90518,7 @@
             },
             "voice": {
                 "name": "Aya Saitou",
-                "url": "https://myanimelist.net/people/30121/Aya_Saitou"
+                "url": "https://www.imdb.com/name/nm7925435/"
             }
         },
         "skins": [
@@ -90956,7 +91149,7 @@
             },
             "voice": {
                 "name": "Rika Abe",
-                "url": "https://myanimelist.net/people/36750/Rika_Abe"
+                "url": "https://www.imdb.com/name/nm11062264/"
             }
         },
         "skins": [
@@ -92704,7 +92897,7 @@
             },
             "voice": {
                 "name": "Minami Shinoda",
-                "url": "https://myanimelist.net/people/40399/Minami_Shinoda"
+                "url": "https://www.imdb.com/name/nm7468916/"
             }
         },
         "skins": [
@@ -94413,6 +94606,10 @@
             {
                 "description": "Portland, Hornet, Enterprise, Yorktown and Hammann",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_enterprise_3.png"
+            },
+            {
+                "description": "Hornet, Admiral Hipper, San Diego, Downes",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_12.png"
             }
         ],
         "misc": {
@@ -94632,7 +94829,7 @@
             "twitter": null,
             "voice": {
                 "name": "Tomoyo Takayanagi",
-                "url": "https://myanimelist.net/people/45241/Tomoyo_Takayanagi"
+                "url": "https://en.wikipedia.org/wiki/Tomoyo_Takayanagi"
             }
         },
         "skins": [
@@ -96228,7 +96425,7 @@
             },
             "voice": {
                 "name": "Mami Kamikura",
-                "url": "https://myanimelist.net/people/38412/Mami_Kamikura"
+                "url": "https://twitter.com/s_kamyu"
             }
         },
         "skins": [
@@ -99544,7 +99741,7 @@
             "twitter": null,
             "voice": {
                 "name": "Ayaka Nanase",
-                "url": "https://myanimelist.net/people/39727/Ayaka_Nanase"
+                "url": "https://en.wikipedia.org/wiki/Ayaka_Nanase"
             }
         },
         "skins": [
@@ -107298,7 +107495,7 @@
                     "cn": "向日葵的约定",
                     "jp": "ひまわりの約束"
                 },
-                "description": "When entering battle: fires a special barrage with 100% critical hit chance. If fleet consists of at least 2 other Hololive ships, the barrage is enhanced.",
+                "description": "When entering battle: fires a special barrage with 100% critical hit chance (damage scales with skill level). If fleet consists of at least 2 other Hololive ships, improves the barrage.",
                 "color": "pink"
             }
         ],
