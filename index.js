@@ -71,17 +71,12 @@ async function refreshShips(online) {
         if (key.length === 4 && key.startsWith("3")) continue; // Retrofited ship ids
         let ship = await refreshShip(key, online);
         shipCounter++;
-        if (shipCounter % 32 == 0) process.stdout.write(" " + shipCounter + " Done\n");
+        process.stdout.write(" =>" + shipCounter + "/" + keys.length + "\n")
         if (!ship) continue;
         SHIPS_INTERNAL[key] = ship;
         const used = process.memoryUsage().heapUsed / 1024 / 1024;
-        process.stdout.write(` done. ${Math.round(used * 100) / 100}MB used\n`);
         fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
         if (used > 1000) await timeout(1000);
-        if (shipCounter === 200 || shipCounter === 400) {
-            console.log("Program Stopped to prevent a crush")
-            //break;
-        }
     }
     console.log("\nDone");
 }
@@ -370,7 +365,9 @@ async function fetchShip(name, online) {
     process.stdout.write(".");
     let ship = parseShip(name, data);
     process.stdout.write("|");
-    ship.skins = await fetchGallery(name, online)
+    let gallery = await fetchGallery(name, online);
+    ship.skins = gallery.skins;
+    ship.gallery = gallery.gallery;
     process.stdout.write("|");
     return ship;
 }
@@ -443,7 +440,7 @@ function parseShip(name, body) {
         return ship;
     }
     const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
-    console.log(ship.names.en);
+    process.stdout.write(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
     let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim();
@@ -479,7 +476,6 @@ function parseShip(name, body) {
         ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
     }
     ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
-    ship.gallery = parseShipGallery(doc);
     ship.misc = {
         artist: misc_selectors[0] ? misc_selectors[0].textContent : null,
         web: misc_selectors[1] ? {
@@ -667,7 +663,9 @@ function parseStats(doc) {
 // Parse ship's gallery page html body, need a name
 function parseGallery(name, body) {
     let skins = [];
-    Array.from(new JSDOM(body).window.document.getElementsByClassName("tabbertab")).forEach(tab => {
+    let gallery = [];
+    let doc = new JSDOM(body).window.document;
+    Array.from(doc.getElementsByClassName("tabbertab")).forEach(tab => {
         let info = {};
         tab.querySelectorAll(".shipskin-table tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
@@ -678,7 +676,16 @@ function parseGallery(name, body) {
             info: info
         });
     });
-    return skins;
+    Array.from(doc.getElementsByClassName("gallerybox")).forEach(box => {
+        gallery.push({
+            description: box.getElementsByClassName("gallerytext")[0].textContent.trim(),
+            url: galleryThumbnailUrlToActualUrl("https://azurlane.koumakan.jp" + box.getElementsByTagName("img")[0].src)
+        });
+    });
+    return {
+        skins: skins,
+        gallery: gallery
+    };
 }
 
 function parseShipConstruction(construction_tbody) {
@@ -698,15 +705,6 @@ function parseShipConstruction(construction_tbody) {
     };
 }
 
-function parseShipGallery(doc) {
-    let ship_galleries = doc.querySelectorAll(".nomobile:nth-child(8) > div>div >div>div");
-    let gallery = [];
-    for (let thumb of ship_galleries) gallery.push({
-        description: thumb.lastElementChild.textContent,
-        url: "https://azurlane.koumakan.jp" + galleryThumbnailUrlToActualUrl(thumb.firstElementChild.firstElementChild.src)
-    });
-    return gallery;
-}
 // Its only a prediction
 function galleryThumbnailUrlToActualUrl(tdir) {
     return tdir.replace(/\/w\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, '/w/images/$1/$2');
