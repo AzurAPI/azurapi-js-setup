@@ -30295,14 +30295,14 @@
 			},
 			{
 				"name": "Welcome to AzurCon!",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/24/AkashiSofmap.png/460px-AkashiSofmap.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/eb/AkashiEvent.png/366px-AkashiEvent.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": "https://azurlane.koumakan.jp/w/images/0/0e/AkashiSofmapChibi.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/4f/AkashiEventChibi.png",
 				"info": {
 					"enClient": "Welcome to AzurCon!",
-					"cnClient": "明石_在A1摊位喵！",
+					"cnClient": "IJN_在A1摊位喵！",
 					"jpClient": "島へようこそ！",
-					"obtainedFrom": "Welcome to Sofmap! - 10000 point milestone",
+					"obtainedFrom": "Akashi's Fanbook - Complete Painting No. 3",
 					"live2dModel": "No"
 				}
 			},
@@ -30315,12 +30315,29 @@
 					"enClient": "Welcome to Sofmap!",
 					"cnClient": "欢迎光临Sofmap！",
 					"jpClient": "ソフマップへようこそ！",
-					"obtainedFrom": "",
+					"obtainedFrom": "Welcome to Sofmap! - 10000 point milestone",
 					"live2dModel": "No"
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Shiranui and Akashi painting T3 tech boxes gold",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d2/Bg_shiranui_1.png"
+			},
+			{
+				"description": "Belfast, Warspite, Queen Elizabeth, Akashi and Shiranui",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c6/Bg_queen_elizabeth_1.png"
+			},
+			{
+				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
+				"url": "https://azurlane.koumakan.jp/w/images/7/77/Bg_2019.12.19_2.png"
+			},
+			{
+				"description": "Akashi, Shiranui",
+				"url": "https://azurlane.koumakan.jp/w/images/7/78/Bg_2019.12.26_2.png"
+			}
+		]
 	},
 	"233": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Z1",

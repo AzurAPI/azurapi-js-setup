@@ -30300,9 +30300,9 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/232/Welcome_to_AzurCon/chibi.png",
                 "info": {
                     "enClient": "Welcome to AzurCon!",
-                    "cnClient": "明石_在A1摊位喵！",
+                    "cnClient": "IJN_在A1摊位喵！",
                     "jpClient": "島へようこそ！",
-                    "obtainedFrom": "Welcome to Sofmap! - 10000 point milestone",
+                    "obtainedFrom": "Akashi's Fanbook - Complete Painting No. 3",
                     "live2dModel": false
                 }
             },
@@ -30315,12 +30315,29 @@
                     "enClient": "Welcome to Sofmap!",
                     "cnClient": "欢迎光临Sofmap！",
                     "jpClient": "ソフマップへようこそ！",
-                    "obtainedFrom": "",
+                    "obtainedFrom": "Welcome to Sofmap! - 10000 point milestone",
                     "live2dModel": false
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Shiranui and Akashi painting T3 tech boxes gold",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_shiranui_1.png"
+            },
+            {
+                "description": "Belfast, Warspite, Queen Elizabeth, Akashi and Shiranui",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_queen_elizabeth_1.png"
+            },
+            {
+                "description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.19_2.png"
+            },
+            {
+                "description": "Akashi, Shiranui",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.26_2.png"
+            }
+        ]
     },
     "233": {
         "wikiUrl": "https://azurlane.koumakan.jp/Z1",
