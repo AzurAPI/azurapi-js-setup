@@ -1,24 +1,23 @@
 {
-  "name": "azurapi-js-setup",
-  "version": "1.0.0",
-  "description": "Setup for azurapi-js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AzurAPI/azurapi-js-setup.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AzurAPI/azurapi-js-setup/issues"
-  },
-  "homepage": "https://github.com/AzurAPI/azurapi-js-setup#readme",
-  "dependencies": {
-    "jsdom": ">=15.2.1",
-    "request": "^2.88.0",
-    "srcset": ">=2.0.1"
-  }
+    "name": "azurapi-js-setup",
+    "version": "1.0.0",
+    "description": "Setup for azurapi-js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AzurAPI/azurapi-js-setup.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AzurAPI/azurapi-js-setup/issues"
+    },
+    "homepage": "https://github.com/AzurAPI/azurapi-js-setup#readme",
+    "dependencies": {
+        "jsdom": "^16.2.2",
+        "request": "^2.88.2"
+    }
 }
