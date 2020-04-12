@@ -150,7 +150,7 @@ async function refreshEQImages() {
         IMAGE_PROGRESS.inProgress = cleanName;
         fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
         await fetchImage(eq.image, "./images/equipments/" + cleanName + ".png");
-        if (eq.misc.animation)
+        if (eq.misc && eq.misc.animation)
             await fetchImage(eq.misc.animation, "./images/equipments.animation/" + cleanName + ".gif");
     }
     IMAGE_PROGRESS.inProgress = null;
@@ -288,6 +288,7 @@ function publishShips() {
 function publishEQ() {
     EQUIPMENTS_PUBLIC = {};
     for (let key in EQUIPMENTS) {
+        if (!EQUIPMENTS[key].names) continue;
         EQUIPMENTS_PUBLIC[key] = clone(EQUIPMENTS[key]);
         let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
         EQUIPMENTS_PUBLIC[key].image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
@@ -713,6 +714,10 @@ function parseEquipment(href, category, body) {
     const doc = new JSDOM(body).window.document;
     let tabs = doc.getElementsByClassName("eq-box");
     process.stdout.write("tab count = " + tabs.length + " .");
+    if (!doc || !tabs[0]) return {
+        wikiUrl: href,
+        category: category
+    };
     let eq = {
         wikiUrl: href,
         category: category,
@@ -932,6 +937,7 @@ function head(url) {
 
 function fetchImage(url, localPath) {
     //await timeout(5500);
+    if (!url) return new Promise((resolve, reject) => resolve());
     if (url.includes("thumb")) url = galleryThumbnailUrlToActualUrl(url);
     return new Promise((resolve, reject) => {
         if (fs.existsSync(localPath)) { // Check local file

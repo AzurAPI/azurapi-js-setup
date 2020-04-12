@@ -1010,11 +1010,6 @@
 						"value": "5",
 						"formatted": "5"
 					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
-					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "4",
@@ -1091,11 +1086,6 @@
 						"value": "12",
 						"formatted": "12"
 					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
-					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "4",
@@ -1171,11 +1161,6 @@
 						"type": "value",
 						"value": "25",
 						"formatted": "25"
-					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
 					},
 					"damage": {
 						"type": "min_max_multiplier",
@@ -1291,11 +1276,6 @@
 						"value": "0",
 						"formatted": "0"
 					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
-					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "4",
@@ -1372,11 +1352,6 @@
 						"value": "5",
 						"formatted": "5"
 					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
-					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "4",
@@ -1452,11 +1427,6 @@
 						"type": "value",
 						"value": "12",
 						"formatted": "12"
-					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
 					},
 					"damage": {
 						"type": "min_max_multiplier",
@@ -4950,21 +4920,21 @@
 		"image": "https://azurlane.koumakan.jp/w/images/a/ae/85000.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": null,
-			"heavyCruiser": null,
-			"monitor": null,
-			"largeCruiser": null,
-			"battleship": "unspecified",
-			"battlecruiser": "unspecified",
+			"lightCruiser": "secondary",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
 			"aviationBattleship": null,
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
-			"submarine": null,
+			"submarine": "primary",
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Northern Overture event shop",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/a/a7/Bullet_pattern_equip_85040.gif"
 		},
@@ -5123,6 +5093,125 @@
 						"type": "value",
 						"value": "Normal*",
 						"formatted": "Normal*"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
+	"Twin 130mm (Mle 1935)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_130mm_(Mle_1935)",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Twin 130mm (Mle 1935)",
+			"cn": "双联装130mm主炮Mle1935",
+			"jp": "130mm連装砲Mle1935",
+			"kr": "130mm 연장 주포 Mle1935"
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/5/50/50500.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "secondary",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": "primary",
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Stock equipment on Le Temeraire.",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/2/2f/Bullet_pattern_equip_90500.gif"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "9",
+						"max": "10",
+						"multiplier": "2",
+						"formatted": "9 × 2 → 10 × 2"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.56s",
+						"max": "1.46s",
+						"per": "volley",
+						"formatted": "1.56s → 1.46s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 55,
+						"shell": 50,
+						"formatted": "Firing: 55\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "1 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
 					},
 					"characteristic": {
 						"type": "value",
@@ -5690,6 +5779,125 @@
 						"type": "value",
 						"value": "Lock-On",
 						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
+	"Single 150mm (6\"/47 caliber gun)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Single_150mm_(6%22/47_caliber_gun)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Single 150mm Main Gun",
+			"cn": "单装150mm主炮",
+			"jp": "150mm主砲",
+			"kr": "150mm 단장포"
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "Eastern Radiance",
+		"image": "https://azurlane.koumakan.jp/w/images/b/bd/7100.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": "\"Zeppy\" only",
+			"lightCarrier": "\"Houshou\" only",
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Stock equipment on Yat Sen.",
+			"notes": "Volley Time currently unknown; 0.30s is an educated guess.",
+			"animation": "https://azurlane.koumakan.jp/w/images/8/86/Bullet_pattern_equip_7000.gif"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★",
+					"value": 1
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "14",
+						"max": "20",
+						"multiplier": "3",
+						"formatted": "14 × 3 → 20 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.99s",
+						"max": "2.77s",
+						"per": "volley",
+						"formatted": "2.99s → 2.77s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "40",
+						"unit": "° random aim",
+						"formatted": "40° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "3 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.40",
+						"unit": "s",
+						"formatted": "0.40s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Scattershot",
+						"formatted": "Scattershot"
 					}
 				}
 			}
@@ -7138,6 +7346,125 @@
 			}
 		}
 	},
+	"Triple 152mm (BL 6\" Mk XXIII)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXIII)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Triple 152mm Main Gun",
+			"cn": "三联装152mm主炮",
+			"jp": "152mm三連装砲",
+			"kr": "152mm 3연장포"
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/e/e6/22200.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": "\"Zeppy\" only",
+			"lightCarrier": "\"Houshou\" only",
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Stock equipment on Belfast.",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/3/38/Bullet_pattern_equip_22200.gif"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "8",
+						"max": "11",
+						"multiplier": "6",
+						"formatted": "8 × 6 → 11 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "5.71s",
+						"max": "5.36s",
+						"per": "volley",
+						"formatted": "5.71s → 5.36s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "45",
+						"unit": "° cone pattern",
+						"formatted": "45° cone pattern"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "6",
+						"unit": "shells",
+						"formatted": "1 × 6 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "105",
+						"unit": "%",
+						"formatted": "105%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "AP",
+						"formatted": "AP"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Triple 152mm (BL 6\" Mk XXV Prototype)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)",
 		"category": "Light Cruiser Guns",
@@ -7278,17 +7605,17 @@
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": null,
-			"battleship": "unspecified",
-			"battlecruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"aircraftCarrier": "\"Zeppy\" only",
+			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Northern Overture event shop and map drop",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/f/f6/Bullet_pattern_equip_85140.gif"
 		},
@@ -9445,17 +9772,17 @@
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": null,
-			"battleship": "unspecified",
-			"battlecruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"aircraftCarrier": "\"Zeppy\" only",
+			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Stock equipment on Pamiat Merkuria, Northern Overture map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -11532,6 +11859,125 @@
 			}
 		}
 	},
+	"Twin 203mm (Model 1924)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_203mm_(Model_1924)",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"en": "Twin 203mm (Model 1924)",
+			"cn": "双联203mm主炮Model1924",
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"nationality": "Sardegna Empire",
+		"image": "https://azurlane.koumakan.jp/w/images/1/1e/55300.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "22",
+						"max": "28",
+						"multiplier": "4",
+						"formatted": "22 × 4 → 28 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "10.57s",
+						"max": "9.88s",
+						"per": "volley",
+						"formatted": "10.57s → 9.88s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "40",
+						"unit": "°",
+						"formatted": "40°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Twin 203mm (Model 1927)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_203mm_(Model_1927)",
 		"category": "Heavy Cruiser Guns",
@@ -13217,7 +13663,7 @@
 			"largeCruiser": null,
 			"battleship": "primary",
 			"battlecruiser": "primary",
-			"aviationBattleship": null,
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
@@ -13225,7 +13671,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Stock equipment on Gangut.",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -14665,11 +15111,11 @@
 			"destroyer": null,
 			"lightCruiser": null,
 			"heavyCruiser": null,
-			"monitor": null,
+			"monitor": "primary",
 			"largeCruiser": null,
 			"battleship": "primary",
 			"battlecruiser": "primary",
-			"aviationBattleship": null,
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
@@ -14677,7 +15123,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Northern Overture map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -16718,7 +17164,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired for 2500  in Visitors Dyed in Red and Visitors Dyed in Red Rerun event shop, or through research.",
+			"obtainedFrom": "Acquired for 2500  in Visitors Dyed in Red and its rerun event shop, afterwards research only.",
 			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread.",
 			"animation": null
 		},
@@ -21639,7 +22085,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Midsummer Sagittarius",
+			"obtainedFrom": "Midsummer Sagittarius, Core Data Exchange",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -23857,7 +24303,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Fallen Wings points gacha reward",
+			"obtainedFrom": "Fallen Wings points gacha reward, Core Data Exchange",
 			"notes": "After launch, increase whole fleet's AA by 5%, lasts for 8 seconds.",
 			"animation": null
 		},
@@ -25383,7 +25829,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Winter's Crown Exchange Gacha",
+			"obtainedFrom": "Winter's Crown Exchange Gacha, Core Data Exchange",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -26493,7 +26939,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Winter's Crown Exchange Gacha",
+			"obtainedFrom": "Winter's Crown Exchange Gacha, Core Data Exchange",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -26820,6 +27266,116 @@
 							"count": "2",
 							"unit": "Aerial Torpedo T3",
 							"formatted": "2 x Aerial Torpedo T3"
+						}
+					]
+				}
+			}
+		}
+	},
+	"Torpedo Squadron 8 (VT-8)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8)",
+		"category": "Torpedo Bomber Planes",
+		"names": {
+			"en": "TBD蹂躏者(VT-8中队)",
+			"cn": "TBD蹂躏者(VT-8中队)",
+			"jp": "TBD蹂躏者(VT-8中队)",
+			"kr": "TBD蹂躏者(VT-8中队)"
+		},
+		"type": {
+			"focus": "Aviation",
+			"name": "Torpedo Bomber"
+		},
+		"nationality": "Eagle Union",
+		"image": "https://azurlane.koumakan.jp/w/images/0/02/18060.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Unknown",
+			"notes": "Cannot be equipped directly; upgraded form of the VT-8 TBD Devastator that is accessed after the first airstrike.",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_max",
+						"min": "38",
+						"max": "95",
+						"formatted": "38 → 95"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "132",
+						"max": "342",
+						"multiplier": "3",
+						"formatted": "132 × 3 → 342 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "14.03s",
+						"max": "12.04s",
+						"per": "wave",
+						"formatted": "14.03s → 12.04s per wave"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "3",
+						"unit": "torpedoes",
+						"formatted": "3 torpedoes"
+					},
+					"speed": {
+						"type": "value",
+						"value": "48",
+						"formatted": "48"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"value": "6",
+						"formatted": "6"
+					},
+					"crashDamage": {
+						"type": "value",
+						"value": "300",
+						"formatted": "300"
+					},
+					"aAGuns": [
+						{
+							"type": "count_unit",
+							"count": "2",
+							"unit": "7.7mm MG T3",
+							"formatted": "2 x 7.7mm MG T3"
+						}
+					],
+					"ordnance": [
+						{
+							"type": "count_unit",
+							"count": "3",
+							"unit": "Aerial Torpedo T0",
+							"formatted": "3 x Aerial Torpedo T0"
 						}
 					]
 				}
@@ -28460,21 +29016,21 @@
 			}
 		}
 	},
-	"Torpedo Squadron 8 (VT-8)": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8)",
+	"TBM Avenger (VT-18 Squadron)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/TBM_Avenger_(VT-18_Squadron)",
 		"category": "Torpedo Bomber Planes",
 		"names": {
-			"en": "TBD蹂躏者(VT-8中队)",
-			"cn": "TBD蹂躏者(VT-8中队)",
-			"jp": "TBD蹂躏者(VT-8中队)",
-			"kr": "TBD蹂躏者(VT-8中队)"
+			"en": "TBM Avenger (VT-18 Squadron)",
+			"cn": "TBM复仇者(VT-18中队)",
+			"jp": "TBMアベンジャー(VT-18中隊)",
+			"kr": null
 		},
 		"type": {
 			"focus": "Aviation",
 			"name": "Torpedo Bomber"
 		},
 		"nationality": "Eagle Union",
-		"image": "https://azurlane.koumakan.jp/w/images/0/02/18060.png",
+		"image": "https://azurlane.koumakan.jp/w/images/9/99/18180.png",
 		"fits": {
 			"destroyer": null,
 			"lightCruiser": null,
@@ -28491,8 +29047,8 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
-			"notes": "Cannot be equipped directly; upgraded form of the VT-8 TBD Devastator that is accessed after the first airstrike. Minimum damage is an estimate and may not be accurate.",
+			"obtainedFrom": "Microlayer Medley event shop",
+			"notes": "Increases DMG against enemy BBs and BCs by 3.0% for the ship equipping this aircraft. When this aircraft hits an enemy BB, BC, or BBV: 60.0% chance to inflict Flood debuff to them for 9s. The Flood deals 15% of the initial hit's base damage (affected by AVI) plus 10 damage per 3s tick for 9s.",
 			"animation": null
 		},
 		"tiers": {
@@ -28511,16 +29067,16 @@
 					},
 					"planeHealth": {
 						"type": "min_max",
-						"min": "38",
-						"max": "95",
-						"formatted": "38 → 95"
+						"min": "41",
+						"max": "102",
+						"formatted": "41 → 102"
 					},
 					"damage": {
 						"type": "min_max_multiplier",
-						"min": "116",
-						"max": "342",
+						"min": "127",
+						"max": "337",
 						"multiplier": "3",
-						"formatted": "116 × 3 → 342 × 3"
+						"formatted": "127 × 3 → 337 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -28562,8 +29118,8 @@
 						{
 							"type": "count_unit",
 							"count": "3",
-							"unit": "Aerial Torpedo T0",
-							"formatted": "3 x Aerial Torpedo T0"
+							"unit": "Aerial Torpedo T3",
+							"formatted": "3 x Aerial Torpedo T3"
 						}
 					]
 				}
@@ -28601,7 +29157,7 @@
 			"submarineCarrier": "primary"
 		},
 		"misc": {
-			"obtainedFrom": "T3/T4 Sakura Tech Box",
+			"obtainedFrom": "T3/T4 Sakura Tech Box, Visitors Dyed in Red Rerun A-3 & C-3",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -29774,6 +30330,88 @@
 			}
 		}
 	},
+	"76mm AA (3rd Year Type)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/76mm_AA_(3rd_Year_Type)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "76mm AA Gun",
+			"cn": "76mm高射炮",
+			"jp": "76mm高角砲",
+			"kr": "76mm 고사포"
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "Sakura Empire",
+		"image": "https://azurlane.koumakan.jp/w/images/f/fd/36500.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Stock equipment on Kongou-class battlecruisers.",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"damage": {
+						"type": "min_max",
+						"min": "16",
+						"max": "24",
+						"formatted": "16  → 24"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.22s",
+						"max": "1.16s",
+						"per": "volley",
+						"formatted": "1.22s → 1.16s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "30",
+						"formatted": "30"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			}
+		}
+	},
 	"76mm AA Gun (3\"/50 Mk 22)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/76mm_AA_Gun_(3%22/50_Mk_22)",
 		"category": "Anti-Air Guns",
@@ -30810,22 +31448,22 @@
 		"nationality": "North Union",
 		"image": "https://azurlane.koumakan.jp/w/images/d/dc/85180.png",
 		"fits": {
-			"destroyer": null,
-			"lightCruiser": null,
-			"heavyCruiser": null,
-			"monitor": null,
-			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
-			"aviationBattleship": null,
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
-			"repairShip": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Northern Overture map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -31290,22 +31928,22 @@
 		"nationality": "North Union",
 		"image": "https://azurlane.koumakan.jp/w/images/4/46/85240.png",
 		"fits": {
-			"destroyer": null,
-			"lightCruiser": null,
-			"heavyCruiser": null,
-			"monitor": null,
-			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
-			"aviationBattleship": null,
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
-			"repairShip": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Northern Overture map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -31396,22 +32034,22 @@
 		"nationality": "North Union",
 		"image": "https://azurlane.koumakan.jp/w/images/0/0c/85360.png",
 		"fits": {
-			"destroyer": null,
-			"lightCruiser": null,
-			"heavyCruiser": null,
-			"monitor": null,
-			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
-			"aviationBattleship": null,
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
-			"repairShip": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Northern Overture map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -31515,6 +32153,78 @@
 						"type": "value",
 						"value": "33",
 						"formatted": "33"
+					}
+				}
+			}
+		}
+	},
+	"Twin 100mm (SM-5-1s)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_100mm_(SM-5-1s)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "Twin 100mm AA Gun (SM-5-1s)",
+			"cn": "100mm双联装防空炮SM-5-1s",
+			"jp": "100mm連装対空砲SM-5-1s",
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "North Union",
+		"image": "https://azurlane.koumakan.jp/w/images/1/19/85060.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Stock equipment on Chapayev.",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max",
+						"min": "35",
+						"max": "70",
+						"formatted": "35  → 70"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.76s",
+						"max": "1.56s",
+						"per": "volley",
+						"formatted": "1.76s → 1.56s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "34",
+						"formatted": "34"
 					}
 				}
 			}
@@ -33262,7 +33972,7 @@
 						"value": "45",
 						"formatted": "45"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "value",
 						"value": "5",
 						"formatted": "5"
@@ -33431,7 +34141,7 @@
 						"value": "45",
 						"formatted": "45"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "value",
 						"value": "10",
 						"formatted": "10"
@@ -33907,7 +34617,7 @@
 					"value": 4
 				},
 				"stats": {
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "15",
 						"max": "35",
@@ -34307,6 +35017,66 @@
 			}
 		}
 	},
+	"Consolidated PBY-5A Catalina": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Consolidated_PBY-5A_Catalina",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Consolidated PBY-5A Catalina",
+			"cn": "PBY-5A卡特琳娜水上机",
+			"jp": "PBY-5Aカタリナ",
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Eagle Union",
+		"image": "https://azurlane.koumakan.jp/w/images/d/db/15500.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": "primary",
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Microlayer Medley event shop",
+			"notes": "Provides aerial reconnaissance, decreasing Ambush chance by 10.0% and increasing Ambush evasion chance by 10.0%. Effect does not stack.",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"antisubmarineWarfare": {
+						"type": "min_max",
+						"min": "10",
+						"max": "30",
+						"formatted": "10 → 30"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "14",
+						"max": "35",
+						"formatted": "14 → 35"
+					}
+				}
+			}
+		}
+	},
 	"Corn Lantern": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Corn_Lantern",
 		"category": "Auxiliary Equipment",
@@ -34521,7 +35291,7 @@
 						"max": "4",
 						"formatted": "3 → 4"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "3",
 						"max": "5",
@@ -34543,7 +35313,7 @@
 						"max": "10",
 						"formatted": "5 → 10"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "6",
 						"max": "11",
@@ -34565,7 +35335,7 @@
 						"max": "21",
 						"formatted": "8 → 21"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "9",
 						"max": "24",
@@ -34862,7 +35632,7 @@
 					"value": 2
 				},
 				"stats": {
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "5",
 						"max": "7",
@@ -34883,7 +35653,7 @@
 					"value": 3
 				},
 				"stats": {
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "9",
 						"max": "17",
@@ -34905,7 +35675,7 @@
 					"value": 4
 				},
 				"stats": {
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "14",
 						"max": "35",
@@ -35079,7 +35849,7 @@
 						"max": "30",
 						"formatted": "12 → 30"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "14",
 						"max": "36",
@@ -35518,65 +36288,9 @@
 			}
 		}
 	},
-	"Intel Report-Arctic Stronghold": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold",
-		"category": "Auxiliary Equipment",
-		"names": {
-			"en": "Intel Report - Arctic Stronghold",
-			"cn": "机密文件·极地海峡",
-			"jp": "情報レポート・北極要塞",
-			"kr": null
-		},
-		"type": {
-			"focus": "Armor",
-			"name": "Auxiliary"
-		},
-		"nationality": "Universal",
-		"image": "https://azurlane.koumakan.jp/w/images/6/6e/780.png",
-		"fits": {
-			"destroyer": "primary",
-			"lightCruiser": "primary",
-			"heavyCruiser": "primary",
-			"monitor": "primary",
-			"largeCruiser": "primary",
-			"battleship": "primary",
-			"battlecruiser": "primary",
-			"aviationBattleship": "primary",
-			"aircraftCarrier": "primary",
-			"lightCarrier": "primary",
-			"repairShip": "primary",
-			"submarine": "primary",
-			"submarineCarrier": "primary"
-		},
-		"misc": {
-			"obtainedFrom": "Unknown",
-			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies.",
-			"animation": null
-		},
-		"tiers": {
-			"T0": {
-				"tier": "T0",
-				"rarity": "Elite",
-				"stars": {
-					"stars": "★★★★",
-					"value": 4
-				},
-				"stats": {
-					"health": {
-						"type": "min_max",
-						"min": "100",
-						"max": "180",
-						"formatted": "100 → 180"
-					},
-					"firepower": {
-						"type": "min_max",
-						"min": "10",
-						"max": "20",
-						"formatted": "10 → 20"
-					}
-				}
-			}
-		}
+	"Intel Report-Arctic Stronghold (page does not exist)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/w/index.php?title=Intel_Report-Arctic_Stronghold&action=edit&redlink=1",
+		"category": "Auxiliary Equipment"
 	},
 	"Intelligence Chip": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Intelligence_Chip",
@@ -35866,7 +36580,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Ocean_Soul_Camouflage",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "Ocean Soul Camouflage",
+			"en": "Marinière Camouflage",
 			"cn": "海魂迷彩",
 			"jp": "マリニエール魂（迷彩）",
 			"kr": null
@@ -36190,7 +36904,7 @@
 						"max": "15",
 						"formatted": "6 → 15"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "16",
 						"max": "25",
@@ -36390,7 +37104,7 @@
 						"max": "5",
 						"formatted": "2 → 5"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "6",
 						"max": "11",
@@ -36412,7 +37126,7 @@
 						"max": "10",
 						"formatted": "4 → 10"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "9",
 						"max": "24",
@@ -36434,7 +37148,7 @@
 						"max": "15",
 						"formatted": "6 → 15"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "14",
 						"max": "35",
@@ -36738,7 +37452,7 @@
 						"max": "15",
 						"formatted": "6 → 15"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "16",
 						"max": "25",
@@ -36798,7 +37512,7 @@
 						"max": "55",
 						"formatted": "22 → 55"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "6",
 						"max": "15",
@@ -36858,7 +37572,7 @@
 						"max": "35",
 						"formatted": "14 → 35"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "4",
 						"max": "10",
@@ -37022,7 +37736,7 @@
 						"max": "55",
 						"formatted": "22 → 55"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "4",
 						"max": "10",
@@ -37309,7 +38023,7 @@
 						"value": "5",
 						"formatted": "5"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "4",
 						"max": "10",
@@ -37486,7 +38200,7 @@
 						"max": "4",
 						"formatted": "1 → 4"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "1",
 						"max": "3",
@@ -37519,7 +38233,7 @@
 						"max": "9",
 						"formatted": "3 → 9"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "2",
 						"max": "5",
@@ -37552,7 +38266,7 @@
 						"max": "18",
 						"formatted": "5 → 18"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "4",
 						"max": "9",
@@ -38079,7 +38793,7 @@
 						"max": "10",
 						"formatted": "4 → 10"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "3",
 						"max": "6",
@@ -38112,7 +38826,7 @@
 						"max": "24",
 						"formatted": "9 → 24"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "5",
 						"max": "10",
@@ -38145,7 +38859,7 @@
 						"max": "35",
 						"formatted": "14 → 35"
 					},
-					"accHit": {
+					"accuracy": {
 						"type": "min_max",
 						"min": "7",
 						"max": "12",
