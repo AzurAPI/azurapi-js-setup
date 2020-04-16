@@ -884,32 +884,20 @@ function parseEquipmentMisc(eqmisc) {
 function parseChaptersNames(body) {
     let names = {};
     const doc = new JSDOM(body).window.document;
-    let chapters = doc.querySelectorAll(".mw-parser-output>ul>li");
-    for (let i = 0; i < 12; i++) {
-        let cn = parseChapterNames(chapters[i]);
-        let jp = parseChapterNames(chapters[i + 12]);
+    let rows = doc.querySelector(".wikitable tbody").children;
+    for (let i = 0; i < 13; i++) {
         names[i + 1] = {
-            cn: cn.name,
-            jp: jp.name
+            en: rows[i * 4].children[1].textContent.trim(),
+            cn: rows[i * 4].children[2].textContent.trim(),
+            jp: rows[i * 4].children[3].textContent.trim()
         };
-        for (let j = 1; j <= 4; j++) names[(i + 1) + "-" + j] = {
-            cn: cn.maps[j - 1],
-            jp: jp.maps[j - 1]
+        for (let j = 1; j <= 4; j++) names[rows[i * 4 + j].children[0].textContent.trim()] = {
+            en: rows[i * 4 + j].children[1].textContent.trim(),
+            cn: rows[i * 4 + j].children[2].textContent.trim(),
+            jp: rows[i * 4 + j].children[3].textContent.trim()
         };
     }
     return names;
-}
-
-function parseChapterNames(li) {
-    let names = [];
-    let maps = li.lastElementChild.children;
-    for (let i = 0; i < 4; i++) {
-        names[i] = maps[i].childNodes[1].textContent.replace(/^:/, '').replace(/\(.+\)/, '').trim();
-    }
-    return {
-        name: li.childNodes[1].textContent.replace(/^:/, '').replace(/\(.+\)/, '').trim(),
-        maps: names
-    }
 }
 // Promise Wrapper for request, I dont trust their own promise support
 function fetch(url) {

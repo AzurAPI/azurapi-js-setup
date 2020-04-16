@@ -3,8 +3,8 @@ exports.parseChapter = parseChapter;
 let parsers = {
     "Introduction": extractText,
     "Unlock Requirements": parseUnlockReq,
-    "Clear Reward": parseClearRewards,
-    "3-Star Reward": parse3StarRewards,
+    "Clear Rewards": parseClearRewards,
+    "3-Star Rewards": parse3StarRewards,
     "Enemy Level": parseEnermyLevel,
     "Base XP (info)": parseBaseXP,
     "Required Battles": extractLeadingDigits,
@@ -25,17 +25,16 @@ function parseChapter(doc, index, names) {
     let boxes = doc.getElementsByClassName("mapbox");
     let hasHardMode = boxes.length > 5;
     chapter['names'] = names[index] || {};
-    chapter['names'].en = doc.querySelector(".mw-collapsible th").childNodes[0].textContent.replace(/^Chapter \d: (.+)/, '$1').trim();
     for (let i = 1; i <= 4; i++) {
         chapter[i] = {
             names: {
+                en: names[index + "-" + i] ? names[index + "-" + i].en : undefined,
                 cn: names[index + "-" + i] ? names[index + "-" + i].cn : undefined,
                 jp: names[index + "-" + i] ? names[index + "-" + i].jp : undefined
             },
             normal: hasHardMode ? parseMap(doc.querySelector("div[title='" + index + "-" + i + "']"), index + "-" + i) : parseMap(boxes[i - 1], index + "-" + i),
             hard: hasHardMode ? parseMap(doc.querySelector("div[title='" + index + "-" + i + " Hard']"), index + "-" + i) : null
         };
-        chapter[i].names.en = chapter[i].normal.title;
     };
     return chapter;
 }
@@ -182,11 +181,13 @@ function parseEQBPDrops(div) {
 
 function parseShipDrops(div) {
     let ships = [];
-    for (let container of div.getElementsByClassName("azlicon-container")) {
+    for (let container of div.getElementsByClassName("alicon")) {
         let ship = {}
-        ship.name = container.getElementsByClassName("tooltiptext")[0].textContent;
-        if (container.getElementsByClassName("azlicon-note")[0]) ship.note = container.getElementsByClassName("azlicon-note")[0].textContent
-        ships.push(ship);
+        ship.name = container.getElementsByClassName("alittxt")[0].textContent;
+        if (container.getElementsByClassName("alintr")[0]) {
+            ship.note = container.getElementsByClassName("alintr")[0].textContent;
+            ships.push(ship);
+        } else ships.push(ship.name);
     }
     return ships;
 }
