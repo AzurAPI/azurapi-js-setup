@@ -887,14 +887,14 @@ function parseChaptersNames(body) {
     let rows = doc.querySelector(".wikitable tbody").children;
     for (let i = 0; i < 13; i++) {
         names[i + 1] = {
-            en: rows[i * 4].children[1].textContent.trim(),
-            cn: rows[i * 4].children[2].textContent.trim(),
-            jp: rows[i * 4].children[3].textContent.trim()
+            en: rows[i * 5 + 1].children[1].textContent.trim(),
+            cn: rows[i * 5 + 1].children[2].textContent.trim(),
+            jp: rows[i * 5 + 1].children[3].textContent.trim()
         };
-        for (let j = 1; j <= 4; j++) names[rows[i * 4 + j].children[0].textContent.trim()] = {
-            en: rows[i * 4 + j].children[1].textContent.trim(),
-            cn: rows[i * 4 + j].children[2].textContent.trim(),
-            jp: rows[i * 4 + j].children[3].textContent.trim()
+        for (let j = 1; j <= 4; j++) names[rows[i * 5 + j + 1].children[0].textContent.trim()] = {
+            en: rows[i * 5 + j + 1].children[1].textContent.trim(),
+            cn: rows[i * 5 + j + 1].children[2].textContent.trim(),
+            jp: rows[i * 5 + j + 1].children[3].textContent.trim()
         };
     }
     return names;

@@ -113,8 +113,9 @@ function parseStarCon(div) {
 
 function parseAirSuprem(div) {
     return {
-        suggested: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
-        actual: parseInt(div.childNodes[4].textContent.replace(/[^\d]+/g, ''))
+        actual: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
+        suggestedLv1: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, '')),
+        suggestedLv2: parseInt(div.childNodes[6].textContent.replace(/[^\d]+/g, ''))
     };
 }
 
@@ -169,8 +170,8 @@ function parseMapDrops(div) {
 }
 
 function parseEQBPDrops(div) {
-    let names = div.querySelectorAll(".azlicon-container .tooltiptext");
-    let tiers = div.querySelectorAll(".azlicon-container .azlicon-note");
+    let names = div.querySelectorAll(".alicon .alittxt");
+    let tiers = div.querySelectorAll(".alicon .alintr");
     let eqs = [];
     for (let i = 0; i < names.length; i++) eqs[i] = {
         name: names[i].textContent,

@@ -38,8 +38,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 6,
-					"actual": 150
+					"actual": 6,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -115,8 +116,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 45,
-					"actual": 150
+					"actual": 45,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -218,8 +220,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 12,
-					"actual": 150
+					"actual": 12,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -341,8 +344,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 50,
-					"actual": 150
+					"actual": 50,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -485,8 +489,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 18,
-					"actual": 150
+					"actual": 18,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -613,8 +618,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 60,
-					"actual": 150
+					"actual": 60,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -767,15 +773,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 24,
-					"actual": 150
+					"actual": 24,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
 					"T1 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Rammer",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 9)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 120mm (QF Mark IX)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 356mm (41st Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 127mm (SK C/34)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Renown",
 					"Repulse",
@@ -944,8 +972,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 80,
-					"actual": 150
+					"actual": 80,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -965,7 +994,28 @@
 					"T1 Upgrade Parts",
 					"T1 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Rammer",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 9)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 120mm (QF Mark IX)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 356mm (41st Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 127mm (SK C/34)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Renown",
 					"Repulse",
@@ -1109,9 +1159,9 @@
 			}
 		},
 		"names": {
-			"en": "EN name",
-			"cn": "CN name",
-			"jp": "JP name"
+			"en": "Tora! Tora! Tora!",
+			"cn": "Tora! Tora! Tora!",
+			"jp": "トラ！トラ！トラ！"
 		}
 	},
 	"2": {
@@ -1153,15 +1203,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 45,
-					"actual": 150
+					"actual": 45,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Hydraulic Steering Gear",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 356mm (14\"/50 Mk 11)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 152mm (BL 6\" Mk XII)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Twin Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 20mm AA Flakvierling 38",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -1339,8 +1411,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 110,
-					"actual": 150
+					"actual": 110,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -1365,7 +1438,28 @@
 					"T1 Upgrade Parts",
 					"T1 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Hydraulic Steering Gear",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 356mm (14\"/50 Mk 11)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 152mm (BL 6\" Mk XII)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Twin Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 20mm AA Flakvierling 38",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -1555,15 +1649,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 55,
-					"actual": 150
+					"actual": 55,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Naval Camouflage",
+						"tier": "T3"
+					},
+					{
+						"name": "20mm AA Oerlikon",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm Pom-Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "37mm AA Gun (Flak M42)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -1796,8 +1912,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 135,
-					"actual": 150
+					"actual": 135,
+					"suggestedLv1": 176,
+					"suggestedLv2": 150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -1822,7 +1939,28 @@
 					"T1 Upgrade Parts",
 					"T1 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Naval Camouflage",
+						"tier": "T3"
+					},
+					{
+						"name": "20mm AA Oerlikon",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm Pom-Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "37mm AA Gun (Flak M42)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -2067,15 +2205,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 65,
-					"actual": 150
+					"actual": 65,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Air Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Fire Extinguisher",
+						"tier": "T3"
+					},
+					{
+						"name": "Brewster F2A Buffalo",
+						"tier": "T3"
+					},
+					{
+						"name": "Blackburn Skua",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A5M Type 96",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -2269,8 +2429,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 160,
-					"actual": null
+					"actual": 160,
+					"suggestedLv1": 120,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -2295,7 +2456,28 @@
 					"T1 Upgrade Parts",
 					"T1 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Air Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Fire Extinguisher",
+						"tier": "T3"
+					},
+					{
+						"name": "Brewster F2A Buffalo",
+						"tier": "T3"
+					},
+					{
+						"name": "Blackburn Skua",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A5M Type 96",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -2501,15 +2683,41 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 80,
-					"actual": 150
+					"actual": 80,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Single 150mm (SK C/28)",
+						"tier": "T3"
+					},
+					{
+						"name": "Air Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "533mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Douglas TBD Devastator",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 120mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "Nakajima B5N Type 97",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -2695,8 +2903,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 190,
-					"actual": null
+					"actual": 190,
+					"suggestedLv1": 143,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -2721,7 +2930,32 @@
 					"T1 Upgrade Parts",
 					"T1 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Single 150mm (SK C/28)",
+						"tier": "T3"
+					},
+					{
+						"name": "Air Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "533mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Douglas TBD Devastator",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 120mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "Nakajima B5N Type 97",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -2882,9 +3116,9 @@
 			}
 		},
 		"names": {
-			"en": "The Harbor Clash",
-			"cn": "燃烧的军港",
-			"jp": "軍港燃ゆ"
+			"en": "Battle of Coral Sea",
+			"cn": "珊瑚海首秀",
+			"jp": "初陣!珊瑚海"
 		}
 	},
 	"3": {
@@ -2926,15 +3160,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 110,
-					"actual": 150
+					"actual": 110,
+					"suggestedLv1": 450,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F4F Wildcat",
+						"tier": "T3"
+					},
+					{
+						"name": "12.7mm AA M2 Browning",
+						"tier": "T3"
+					},
+					{
+						"name": "Douglas SBD Dauntless",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 140mm (3rd Year Type)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -3131,8 +3387,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 245,
-					"actual": null
+					"actual": 245,
+					"suggestedLv1": 184,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -3156,7 +3413,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F4F Wildcat",
+						"tier": "T3"
+					},
+					{
+						"name": "12.7mm AA M2 Browning",
+						"tier": "T3"
+					},
+					{
+						"name": "Douglas SBD Dauntless",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 140mm (3rd Year Type)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -3365,15 +3643,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 125,
-					"actual": 150
+					"actual": 125,
+					"suggestedLv1": 163,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Steam Catapult",
+						"tier": "T2"
+					},
+					{
+						"name": "Single 127mm (5\"/38 Mk 30)",
+						"tier": "T3"
+					},
+					{
+						"name": "Curtiss SB2C Helldiver",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 152mm (6\"/45 Pattern 1892)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 102mm (QF Mk V)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -3589,8 +3889,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 285,
-					"actual": null
+					"actual": 285,
+					"suggestedLv1": 214,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -3614,7 +3915,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Steam Catapult",
+						"tier": "T2"
+					},
+					{
+						"name": "Single 127mm (5\"/38 Mk 30)",
+						"tier": "T3"
+					},
+					{
+						"name": "Curtiss SB2C Helldiver",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 152mm (6\"/45 Pattern 1892)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 102mm (QF Mk V)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -3842,15 +4164,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 145,
-					"actual": 150
+					"actual": 145,
+					"suggestedLv1": 189,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Quadruple 28mm AA Chicago Piano",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Aichi D3A Type 99",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 76mm (3\"/50 caliber gun)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 102mm (QF Mk XVI)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -4061,8 +4405,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 330,
-					"actual": null
+					"actual": 330,
+					"suggestedLv1": 248,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -4086,7 +4431,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Quadruple 28mm AA Chicago Piano",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Aichi D3A Type 99",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 76mm (3\"/50 caliber gun)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 102mm (QF Mk XVI)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -4309,15 +4675,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 175,
-					"actual": null
+					"actual": 175,
+					"suggestedLv1": 132,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Repair Toolkit",
+						"tier": "T3"
+					},
+					{
+						"name": "Vought F4U Corsair",
+						"tier": "T3"
+					},
+					{
+						"name": "76mm AA Gun (3\"/50 Mk 22)",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 152mm (6\"/53 Mk 18)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Akagi",
@@ -4540,8 +4928,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 380,
-					"actual": null
+					"actual": 380,
+					"suggestedLv1": 285,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -4565,7 +4954,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Repair Toolkit",
+						"tier": "T3"
+					},
+					{
+						"name": "Vought F4U Corsair",
+						"tier": "T3"
+					},
+					{
+						"name": "76mm AA Gun (3\"/50 Mk 22)",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 152mm (6\"/53 Mk 18)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Akagi",
@@ -4758,9 +5168,9 @@
 			}
 		},
 		"names": {
-			"en": "Dark Clouds",
-			"cn": "乌云蔽日",
-			"jp": "太陽を隠す暗雲"
+			"en": "Midway Showdown",
+			"cn": "决战中途岛",
+			"jp": "決戦"
 		}
 	},
 	"4": {
@@ -4802,15 +5212,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 120,
-					"actual": 150
+					"actual": 120,
+					"suggestedLv1": 156,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 134mm (QF Mark II)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 150mm (SK C/25)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -5033,8 +5465,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 190,
-					"actual": null
+					"actual": 190,
+					"suggestedLv1": 143,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -5059,7 +5492,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 134mm (QF Mark II)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 150mm (SK C/25)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -5294,15 +5748,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 135,
-					"actual": 150
+					"actual": 135,
+					"suggestedLv1": 176,
+					"suggestedLv2": 150
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 120mm (QF Mark XII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 40mm AA Vickers Pom Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 150mm (TbtsK C/36)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -5525,8 +6001,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 220,
-					"actual": null
+					"actual": 220,
+					"suggestedLv1": 165,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -5551,7 +6028,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 120mm (QF Mark XII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 40mm AA Vickers Pom Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 150mm (TbtsK C/36)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -5786,15 +6284,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 155,
-					"actual": null
+					"actual": 155,
+					"suggestedLv1": 117,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Fire Control Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 152mm (BL 6\" Mk XXII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -5985,8 +6505,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 250,
-					"actual": null
+					"actual": 250,
+					"suggestedLv1": 188,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -6011,7 +6532,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Fire Control Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 152mm (BL 6\" Mk XXII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -6214,15 +6756,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 180,
-					"actual": null
+					"actual": 180,
+					"suggestedLv1": 135,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 203mm (BL 8\" Mk VIII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm AA Gun (Type 89)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -6518,8 +7082,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 285,
-					"actual": null
+					"actual": 285,
+					"suggestedLv1": 214,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -6544,7 +7109,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 203mm (BL 8\" Mk VIII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm AA Gun (Type 89)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -6810,9 +7396,9 @@
 			}
 		},
 		"names": {
-			"en": "Midway Showdown!",
-			"cn": "决战中途岛！",
-			"jp": "決戦へ"
+			"en": "Solomon's Nightmare Pt. 1",
+			"cn": "所罗门的噩梦上",
+			"jp": "ソロモン海にて·上"
 		}
 	},
 	"5": {
@@ -6854,15 +7440,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 215,
-					"actual": null
+					"actual": 215,
+					"suggestedLv1": 162,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Improved Boiler",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T2"
+					},
+					{
+						"name": "Grumman TBF Avenger",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -7138,8 +7746,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 340,
-					"actual": null
+					"actual": 340,
+					"suggestedLv1": 255,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -7165,7 +7774,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Improved Boiler",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T2"
+					},
+					{
+						"name": "Grumman TBF Avenger",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -7453,15 +8083,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 250,
-					"actual": null
+					"actual": 250,
+					"suggestedLv1": 188,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T3"
+					},
+					{
+						"name": "533mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 20mm AA Oerlikon",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T2"
+					},
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -7696,8 +8348,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 380,
-					"actual": null
+					"actual": 380,
+					"suggestedLv1": 285,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -7723,7 +8376,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T3"
+					},
+					{
+						"name": "533mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 20mm AA Oerlikon",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T2"
+					},
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -7970,15 +8644,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 295,
-					"actual": null
+					"actual": 295,
+					"suggestedLv1": 222,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Douglas BTD-1 Destroyer",
+						"tier": "T3"
+					},
+					{
+						"name": "Drop Tank",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Douglas BTD-1 Destroyer",
+						"tier": "T2"
+					},
+					{
+						"name": "102mm AA QF 4\" Mk V",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -8208,8 +8904,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 425,
-					"actual": null
+					"actual": 425,
+					"suggestedLv1": 319,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -8235,7 +8932,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Douglas BTD-1 Destroyer",
+						"tier": "T3"
+					},
+					{
+						"name": "Drop Tank",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Douglas BTD-1 Destroyer",
+						"tier": "T2"
+					},
+					{
+						"name": "102mm AA QF 4\" Mk V",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -8477,15 +9195,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 345,
-					"actual": null
+					"actual": 345,
+					"suggestedLv1": 259,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Quadruple 40mm L60 Mk2 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Ship Maintenance Crane",
+						"tier": "T2"
+					},
+					{
+						"name": "Quadruple 40mm L60 Mk2 Bofors",
+						"tier": "T2"
+					},
+					{
+						"name": "Octuple 40mm Pom-Pom",
+						"tier": "T2"
+					},
+					{
+						"name": "Nakajima B6N Tenzan",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -8746,8 +9486,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 475,
-					"actual": null
+					"actual": 475,
+					"suggestedLv1": 357,
+					"suggestedLv2": 238
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -8773,7 +9514,28 @@
 					"T1-T2 Upgrade Parts",
 					"T1-T2 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Quadruple 40mm L60 Mk2 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Ship Maintenance Crane",
+						"tier": "T2"
+					},
+					{
+						"name": "Quadruple 40mm L60 Mk2 Bofors",
+						"tier": "T2"
+					},
+					{
+						"name": "Octuple 40mm Pom-Pom",
+						"tier": "T2"
+					},
+					{
+						"name": "Nakajima B6N Tenzan",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -9004,9 +9766,9 @@
 			}
 		},
 		"names": {
-			"en": "Solomon's Nightmare Pt. 1",
-			"cn": "所罗门的噩梦上",
-			"jp": "ソロモン海にて·上"
+			"en": "Solomon's Nightmare Pt. 2",
+			"cn": "所罗门的噩梦中",
+			"jp": "ソロモン海にて·中"
 		}
 	},
 	"6": {
@@ -9048,15 +9810,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 225,
-					"actual": null
+					"actual": 225,
+					"suggestedLv1": 169,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "SG Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 406mm (16\"/45 Mk 5)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 40mm Vickers (\"HI\" Shiki Type 91)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -9324,8 +10108,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 445,
-					"actual": null
+					"actual": 445,
+					"suggestedLv1": 334,
+					"suggestedLv2": 0
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -9352,7 +10137,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "SG Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 406mm (16\"/45 Mk 5)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 40mm Vickers (\"HI\" Shiki Type 91)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -9632,15 +10438,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 255,
-					"actual": null
+					"actual": 255,
+					"suggestedLv1": 192,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Gyroscope",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm (16\"/45 Mk 6)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 381mm (BL 15\" Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -9930,8 +10758,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 510,
-					"actual": null
+					"actual": 510,
+					"suggestedLv1": 383,
+					"suggestedLv2": 255
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -9958,7 +10787,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Gyroscope",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm (16\"/45 Mk 6)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 381mm (BL 15\" Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -10260,15 +11110,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 290,
-					"actual": null
+					"actual": 290,
+					"suggestedLv1": 218,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 406mm (BL 16\" Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 406mm (16\"/45 Mk 5)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm (16\"/45 Mk 6)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 410mm (3rd Year Type)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -10522,8 +11394,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 575,
-					"actual": null
+					"actual": 575,
+					"suggestedLv1": 432,
+					"suggestedLv2": 288
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -10550,7 +11423,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 406mm (BL 16\" Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 406mm (16\"/45 Mk 5)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm (16\"/45 Mk 6)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 410mm (3rd Year Type)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -10816,15 +11710,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 325,
-					"actual": null
+					"actual": 325,
+					"suggestedLv1": 244,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "533mm Quintuple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 105mm (SK C/33)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Yuudachi",
@@ -11124,8 +12040,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 645,
-					"actual": null
+					"actual": 645,
+					"suggestedLv1": 484,
+					"suggestedLv2": 323
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -11152,7 +12069,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "533mm Quintuple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 105mm (SK C/33)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Yuudachi",
@@ -11417,9 +12355,9 @@
 			}
 		},
 		"names": {
-			"en": "War of Vengeance",
-			"cn": "复仇之战",
-			"jp": "仇討ちの戦い"
+			"en": "Solomon's Nightmare Pt. 3",
+			"cn": "所罗门的噩梦下",
+			"jp": "ソロモン海にて·下"
 		}
 	},
 	"7": {
@@ -11451,15 +12389,37 @@
 				"requiredBattles": 5,
 				"bossKillsToClear": 4,
 				"airSupremacy": {
-					"suggested": 370,
-					"actual": null
+					"actual": 370,
+					"suggestedLv1": 278,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Octuple 40mm Pom-Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 102mm (BL 4\" Mk IX)",
+						"tier": "T3"
+					},
+					{
+						"name": "Supermarine Seafire",
+						"tier": "T3"
+					},
+					{
+						"name": "Fairey Swordfish",
+						"tier": "T3"
+					},
+					{
+						"name": "Fairey Fulmar",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -11649,8 +12609,9 @@
 				"requiredBattles": 5,
 				"bossKillsToClear": 4,
 				"airSupremacy": {
-					"suggested": 720,
-					"actual": null
+					"actual": 720,
+					"suggestedLv1": 540,
+					"suggestedLv2": 360
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -11675,7 +12636,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Octuple 40mm Pom-Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 102mm (BL 4\" Mk IX)",
+						"tier": "T3"
+					},
+					{
+						"name": "Supermarine Seafire",
+						"tier": "T3"
+					},
+					{
+						"name": "Fairey Swordfish",
+						"tier": "T3"
+					},
+					{
+						"name": "Fairey Fulmar",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -11882,15 +12864,41 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 425,
-					"actual": null
+					"actual": 425,
+					"suggestedLv1": 319,
+					"suggestedLv2": 0
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Steam Catapult",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Fairey Barracuda",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 37mm AA Gun (SK C/30)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -12153,8 +13161,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 800,
-					"actual": null
+					"actual": 800,
+					"suggestedLv1": 600,
+					"suggestedLv2": 400
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -12179,7 +13188,32 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Steam Catapult",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Fairey Barracuda",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 37mm AA Gun (SK C/30)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -12454,15 +13488,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 480,
-					"actual": null
+					"actual": 480,
+					"suggestedLv1": 360,
+					"suggestedLv2": 240
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 356mm (BL 14\" Mk VII)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 410mm (3rd Year Type)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -12773,8 +13829,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 880,
-					"actual": null
+					"actual": 880,
+					"suggestedLv1": 660,
+					"suggestedLv2": 440
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -12799,7 +13856,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 356mm (BL 14\" Mk VII)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 410mm (3rd Year Type)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -13122,15 +14200,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 535,
-					"actual": null
+					"actual": 535,
+					"suggestedLv1": 402,
+					"suggestedLv2": 268
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "533mm Quintuple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 406mm (BL 16\" Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Supermarine Seafang",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -13426,8 +14526,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 965,
-					"actual": null
+					"actual": 965,
+					"suggestedLv1": 724,
+					"suggestedLv2": 483
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -13452,7 +14553,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "533mm Quintuple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 406mm (BL 16\" Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Supermarine Seafang",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -13713,9 +14835,9 @@
 			}
 		},
 		"names": {
-			"en": "Hornet's Fall",
-			"cn": "大黄蜂的陨落",
-			"jp": "ホーネット墜つ"
+			"en": "Night of Chaos",
+			"cn": "混沌之夜",
+			"jp": "混沌の夜"
 		}
 	},
 	"8": {
@@ -13757,15 +14879,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 590,
-					"actual": null
+					"actual": 590,
+					"suggestedLv1": 443,
+					"suggestedLv2": 295
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 120mm (QF Mark XII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 150mm (SK C/28)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -13964,8 +15108,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1055,
-					"actual": null
+					"actual": 1055,
+					"suggestedLv1": 792,
+					"suggestedLv2": 528
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -13991,7 +15136,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 120mm (QF Mark XII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 150mm (SK C/28)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -14202,15 +15368,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 650,
-					"actual": null
+					"actual": 650,
+					"suggestedLv1": 488,
+					"suggestedLv2": 325
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 40mm AA Vickers Pom Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -14481,8 +15669,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1150,
-					"actual": null
+					"actual": 1150,
+					"suggestedLv1": 863,
+					"suggestedLv2": 575
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -14508,7 +15697,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 40mm AA Vickers Pom Pom",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -14791,15 +16001,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 710,
-					"actual": null
+					"actual": 710,
+					"suggestedLv1": 533,
+					"suggestedLv2": 355
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "76mm AA Gun (3\"/50 Mk 22)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 37mm AA Gun (SK C/30)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -15114,8 +16346,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1245,
-					"actual": null
+					"actual": 1245,
+					"suggestedLv1": 934,
+					"suggestedLv2": 623
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -15141,7 +16374,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "76mm AA Gun (3\"/50 Mk 22)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 37mm AA Gun (SK C/30)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -15458,15 +16712,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 770,
-					"actual": null
+					"actual": 770,
+					"suggestedLv1": 578,
+					"suggestedLv2": 385
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (BL 8\" Mk VIII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Maya",
@@ -15806,8 +17082,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1350,
-					"actual": null
+					"actual": 1350,
+					"suggestedLv1": 1013,
+					"suggestedLv2": 675
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -15833,7 +17110,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (BL 8\" Mk VIII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (SK C/34)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Maya",
@@ -16138,9 +17436,9 @@
 			}
 		},
 		"names": {
-			"en": "Counterattack",
-			"cn": "反攻",
-			"jp": "全面反撃"
+			"en": "Battle Komandorski",
+			"cn": "科曼多尔海战役",
+			"jp": "極北の海戦"
 		}
 	},
 	"9": {
@@ -16182,15 +17480,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 840,
-					"actual": null
+					"actual": 840,
+					"suggestedLv1": 630,
+					"suggestedLv2": 420
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 105mm (SK C/33)",
+						"tier": "T3"
+					},
+					{
+						"name": "Improved Boiler",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman TBF Avenger",
+						"tier": "T3"
+					},
+					{
+						"name": "Octuple 40mm Pom-Pom",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Charles Ausburne",
 					"Arizona",
@@ -16460,8 +17780,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1440,
-					"actual": null
+					"actual": 1440,
+					"suggestedLv1": 1080,
+					"suggestedLv2": 720
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -16487,7 +17808,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 105mm (SK C/33)",
+						"tier": "T3"
+					},
+					{
+						"name": "Improved Boiler",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman TBF Avenger",
+						"tier": "T3"
+					},
+					{
+						"name": "Octuple 40mm Pom-Pom",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Charles Ausburne",
 					"Arizona",
@@ -16769,15 +18111,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 915,
-					"actual": null
+					"actual": 915,
+					"suggestedLv1": 687,
+					"suggestedLv2": 458
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Ship Maintenance Crane",
+						"tier": "T3"
+					},
+					{
+						"name": "Ship Maintenance Crane",
+						"tier": "T2"
+					},
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 20mm AA Oerlikon",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 28mm AA Chicago Piano",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Erebus",
 					"Terror",
@@ -17052,8 +18416,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1535,
-					"actual": null
+					"actual": 1535,
+					"suggestedLv1": 1152,
+					"suggestedLv2": 768
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -17079,7 +18444,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Ship Maintenance Crane",
+						"tier": "T3"
+					},
+					{
+						"name": "Ship Maintenance Crane",
+						"tier": "T2"
+					},
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 20mm AA Oerlikon",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 28mm AA Chicago Piano",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Erebus",
 					"Terror",
@@ -17361,15 +18747,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 990,
-					"actual": null
+					"actual": 990,
+					"suggestedLv1": 743,
+					"suggestedLv2": 495
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F4F Wildcat",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 134mm (QF Mark II)",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 150mm (TbtsK C/36)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Nicholas",
@@ -17673,8 +19081,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1635,
-					"actual": null
+					"actual": 1635,
+					"suggestedLv1": 1227,
+					"suggestedLv2": 818
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -17700,7 +19109,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F4F Wildcat",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 134mm (QF Mark II)",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 150mm (TbtsK C/36)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Nicholas",
@@ -18016,15 +19446,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1065,
-					"actual": null
+					"actual": 1065,
+					"suggestedLv1": 799,
+					"suggestedLv2": 533
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm (BL 16\" Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Niizuki",
@@ -18329,8 +19781,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1735,
-					"actual": null
+					"actual": 1735,
+					"suggestedLv1": 1302,
+					"suggestedLv2": 868
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -18356,7 +19809,28 @@
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm (BL 16\" Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Niizuki",
@@ -18636,9 +20110,9 @@
 			}
 		},
 		"names": {
-			"en": "The Ambush",
-			"cn": "增援拦截",
-			"jp": "増援阻止"
+			"en": "Battle of Kula Gulf",
+			"cn": "库拉湾海战",
+			"jp": "クラ湾海戦"
 		}
 	},
 	"10": {
@@ -18680,8 +20154,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1155,
-					"actual": null
+					"actual": 1155,
+					"suggestedLv1": 867,
+					"suggestedLv2": 578
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -18689,7 +20164,28 @@
 					"Coins"
 				],
 				"additionalNotes": "Once the boss shows up, it will spawn a chain of several suicide boats in a horizontal formation against your fleet which aims straight at your flagship.",
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 105mm (SK C/33)",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 127mm (5\"/38 Mk 30)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 152mm (BL 6\" Mk XXII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Unicorn",
 					"Houston",
@@ -18966,8 +20462,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1250,
-					"actual": null
+					"actual": 1250,
+					"suggestedLv1": 938,
+					"suggestedLv2": 625
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -18975,7 +20472,28 @@
 					"Coins"
 				],
 				"additionalNotes": "The boss is escorted by 2 Heavy Cruisers which shield it from your escort ships. Best way to handle it is to have Battleships/Battlecruisers that can target the boss directly.",
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "SG Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "Gyroscope",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Lexington",
 					"Saratoga",
@@ -19298,8 +20816,9 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1345,
-					"actual": null
+					"actual": 1345,
+					"suggestedLv1": 1009,
+					"suggestedLv2": 673
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -19307,7 +20826,28 @@
 					"Coins"
 				],
 				"additionalNotes": "Enemy Boss is backed by 2 Battleships who will directly attack your backline ships, whereas the Boss will continuously spawn a volley of torpedoes. Over time some Suicide Boats will appear and head straight for your flagship.",
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Fire Control Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Repair Toolkit",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"St. Louis",
 					"Nelson",
@@ -19637,15 +21177,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1440,
-					"actual": null
+					"actual": 1440,
+					"suggestedLv1": 1080,
+					"suggestedLv2": 720
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Jintsuu",
@@ -19946,9 +21508,9 @@
 			"hard": null
 		},
 		"names": {
-			"en": "Battle Komandorski",
-			"cn": "科曼多尔海战役",
-			"jp": "極北の海戦"
+			"en": "Battle of Kolombangara",
+			"cn": "科隆班加拉岛夜战",
+			"jp": "コロンバンガラ島沖海戦"
 		}
 	},
 	"11": {
@@ -19990,15 +21552,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1520,
-					"actual": null
+					"actual": 1520,
+					"suggestedLv1": 1140,
+					"suggestedLv2": 760
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Steam Catapult",
+						"tier": "T2"
+					},
+					{
+						"name": "Single 127mm (5\"/38 Mk 30)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T2"
+					},
+					{
+						"name": "102mm AA QF 4\" Mk V",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -20249,7 +21833,11 @@
 			"hard": null
 		},
 		"2": {
-			"names": {},
+			"names": {
+				"en": "Stormy Night",
+				"cn": "暴风雨之夜",
+				"jp": "嵐の夜"
+			},
 			"normal": {
 				"title": "Stormy Night",
 				"code": "11-2",
@@ -20282,15 +21870,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1610,
-					"actual": null
+					"actual": 1610,
+					"suggestedLv1": 1208,
+					"suggestedLv2": 805
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Vought F4U Corsair",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Single 150mm (SK C/28)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -20600,7 +22210,11 @@
 			"hard": null
 		},
 		"3": {
-			"names": {},
+			"names": {
+				"en": "Knights of the Sea",
+				"cn": "所罗门四骑士",
+				"jp": "海上騎士団"
+			},
 			"normal": {
 				"title": "Knights of the Sea",
 				"code": "11-3",
@@ -20633,15 +22247,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1700,
-					"actual": null
+					"actual": 1700,
+					"suggestedLv1": 1275,
+					"suggestedLv2": 850
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Quadruple 40mm L60 Mk2 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 150mm (SK C/25)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
@@ -20949,7 +22585,11 @@
 			"hard": null
 		},
 		"4": {
-			"names": {},
+			"names": {
+				"en": "Part the Night",
+				"cn": "撕裂黑夜！",
+				"jp": "夜を切り裂いて"
+			},
 			"normal": {
 				"title": "Part the Night",
 				"code": "11-4",
@@ -20982,15 +22622,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1790,
-					"actual": null
+					"actual": 1790,
+					"suggestedLv1": 1343,
+					"suggestedLv2": 895
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Curtiss SB2C Helldiver",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 150mm (TbtsK C/36)",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Columbia",
@@ -21341,14 +23003,18 @@
 			"hard": null
 		},
 		"names": {
-			"en": "Old Battlefield",
-			"cn": "被遗忘的战场",
-			"jp": "忘れられし戦場"
+			"en": "Empress Augusta Bay",
+			"cn": "奥古斯塔皇后湾海战",
+			"jp": "エンプレスオーガスタ"
 		}
 	},
 	"12": {
 		"1": {
-			"names": {},
+			"names": {
+				"en": "Information Warfare",
+				"cn": "先声夺人",
+				"jp": "先声夺人"
+			},
 			"normal": {
 				"title": "Information Warfare",
 				"code": "12-1",
@@ -21381,15 +23047,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1890,
-					"actual": null
+					"actual": 1890,
+					"suggestedLv1": 1418,
+					"suggestedLv2": 945
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 25mm AA Type 96",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Helena",
 					"Unicorn",
@@ -21675,7 +23363,11 @@
 			"hard": null
 		},
 		"2": {
-			"names": {},
+			"names": {
+				"en": "Ambush",
+				"cn": "鲁莽的后果",
+				"jp": "鲁莽的后果"
+			},
 			"normal": {
 				"title": "Ambush",
 				"code": "12-2",
@@ -21703,15 +23395,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 1995,
-					"actual": null
+					"actual": 1995,
+					"suggestedLv1": 1497,
+					"suggestedLv2": 998
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					"Cleveland",
 					"Vestal",
@@ -22049,7 +23763,11 @@
 			"hard": null
 		},
 		"3": {
-			"names": {},
+			"names": {
+				"en": "Carrier Showdown",
+				"cn": "空中对决",
+				"jp": "空中对决"
+			},
 			"normal": {
 				"title": "Carrier Showdown",
 				"code": "12-3",
@@ -22077,15 +23795,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 2100,
-					"actual": null
+					"actual": 2100,
+					"suggestedLv1": 1575,
+					"suggestedLv2": 1050
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 40mm Vickers (\"HI\" Shiki Type 91)",
+						"tier": "T3"
+					},
+					{
+						"name": "Aichi D3A Type 99",
+						"tier": "T3"
+					},
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Lexington",
 					"Saratoga",
@@ -22435,7 +24175,11 @@
 			"hard": null
 		},
 		"4": {
-			"names": {},
+			"names": {
+				"en": "Task Force",
+				"cn": "TF58，翱翔于天际",
+				"jp": "TF58，翱翔于天际"
+			},
 			"normal": {
 				"title": "Task Force",
 				"code": "12-4",
@@ -22463,15 +24207,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 2205,
-					"actual": null
+					"actual": 2205,
+					"suggestedLv1": 1654,
+					"suggestedLv2": 1103
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 410mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm AA Gun (Type 89)",
+						"tier": "T3"
+					},
+					{
+						"name": "Nakajima B6N Tenzan",
+						"tier": "T3"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Choukai",
@@ -22940,14 +24706,18 @@
 			"hard": null
 		},
 		"names": {
-			"en": "Light in the Dark",
-			"cn": "黑夜中的光芒",
-			"jp": "暗闇の光"
+			"en": "Mariana's Turmoil Pt. 1",
+			"cn": "马里亚纳风云上",
+			"jp": "马里亚纳风云•上"
 		}
 	},
 	"13": {
 		"1": {
-			"names": {},
+			"names": {
+				"en": "The Skies Above",
+				"cn": "激战的长空",
+				"jp": ""
+			},
 			"normal": {
 				"title": "The Skies Above",
 				"code": "13-1",
@@ -22980,15 +24750,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 2315,
-					"actual": null
+					"actual": 2315,
+					"suggestedLv1": 1737,
+					"suggestedLv2": 1158
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 203mm (8\"/55 Mk 15)",
+						"tier": "T3"
+					},
+					{
+						"name": "Quadruple 28mm AA Chicago Piano",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Arizona",
 					"Vestal",
@@ -23259,7 +25051,11 @@
 			"hard": null
 		},
 		"2": {
-			"names": {},
+			"names": {
+				"en": "The Eternal Flute",
+				"cn": "羽栖之鹤",
+				"jp": ""
+			},
 			"normal": {
 				"title": "The Eternal Flute",
 				"code": "13-2",
@@ -23292,15 +25088,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 2450,
-					"actual": null
+					"actual": 2450,
+					"suggestedLv1": 1838,
+					"suggestedLv2": 1225
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F4F Wildcat",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman TBF Avenger",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Lexington",
 					"Saratoga",
@@ -23638,7 +25456,11 @@
 			"hard": null
 		},
 		"3": {
-			"names": {},
+			"names": {
+				"en": "Wings of Inspiration",
+				"cn": "奋起之鹤",
+				"jp": ""
+			},
 			"normal": {
 				"title": "Wings of Inspiration",
 				"code": "13-3",
@@ -23671,15 +25493,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 2585,
-					"actual": null
+					"actual": 2585,
+					"suggestedLv1": 1939,
+					"suggestedLv2": 1293
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Vought F4U Corsair",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T2"
+					},
+					{
+						"name": "Douglas BTD-1 Destroyer",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					"Yorktown",
 					"Hornet",
@@ -24034,7 +25878,11 @@
 			"hard": null
 		},
 		"4": {
-			"names": {},
+			"names": {
+				"en": "The Dancing Phoenix",
+				"cn": "起舞之凤",
+				"jp": ""
+			},
 			"normal": {
 				"title": "The Dancing Phoenix",
 				"code": "13-4",
@@ -24067,15 +25915,37 @@
 					"Sink all Fleets on the map"
 				],
 				"airSupremacy": {
-					"suggested": 2720,
-					"actual": null
+					"actual": 2720,
+					"suggestedLv1": 2040,
+					"suggestedLv2": 1360
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"equipmentBlueprintDrops": [],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Submarine-mounted Mark 16 Torpedo",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Nakajima B6N Tenzan",
+						"tier": "T3"
+					},
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T2"
+					},
+					{
+						"name": "Submarine-mounted Mark 16 Torpedo",
+						"tier": "T2"
+					}
+				],
 				"shipDrops": [
 					{
 						"name": "Bunker Hill",
@@ -24509,9 +26379,9 @@
 			"hard": null
 		},
 		"names": {
-			"en": "Preemptive Strike",
-			"cn": "先发制人",
-			"jp": "先制攻撃!"
+			"en": "Mariana's Turmoil Pt. 2",
+			"cn": "",
+			"jp": ""
 		}
 	}
 }
