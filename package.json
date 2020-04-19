@@ -18,6 +18,7 @@
     "homepage": "https://github.com/AzurAPI/azurapi-js-setup#readme",
     "dependencies": {
         "jsdom": "^16.2.2",
+        "node-fetch": "^2.6.0",
         "request": "^2.88.2"
     }
 }
