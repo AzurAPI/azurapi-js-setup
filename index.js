@@ -713,7 +713,7 @@ const MAP_DROP_START_ANCHOR = ["1", "2", "3", "4 + SOS"]
 
 function parseShipMapDrop(construction_tbody) {
     let obtainedFrom = {};
-    if (construction_tbody.children[5]) obtainedFrom.obtainedFrom = construction_tbody.children[5].lastElementChild.textContent;
+    if (construction_tbody.children[5]) obtainedFrom.obtainedFrom = deepToString(construction_tbody.children[5].lastElementChild).trim();
     obtainedFrom.fromMaps = [];
     for (let i = 1; i <= 4; i++) {
         let j = 0;
