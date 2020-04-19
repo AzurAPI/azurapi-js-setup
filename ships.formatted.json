@@ -164,6 +164,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward for obtaining 1,000 Friendship Point during \"Starry Sky over the Arctic Fjord\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -614,6 +618,58 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "3-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "13-1",
+                "2-2",
+                "3-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "13-2",
+                "2-3",
+                "3-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "13-3",
+                "2-4",
+                "3-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -916,6 +972,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "6-2",
+                "5-3",
+                "9-3",
+                "10-3",
+                "3-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -1126,6 +1192,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -1617,6 +1686,41 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "3-1",
+                "4-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "2-2",
+                "3-2",
+                "4-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "2-3",
+                "4-3",
+                "6-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "1-4",
+                "2-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -2071,6 +2175,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-1",
+                "8-2",
+                "3-3",
+                "5-3",
+                "11-3",
+                "2-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -2516,6 +2630,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-1",
+                "8-2",
+                "3-3",
+                "5-3",
+                "11-3",
+                "2-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -2748,6 +2872,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Fight On, Royal Maids!\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Kincora",
             "web": {
@@ -2955,6 +3083,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Vilor",
@@ -3177,6 +3309,10 @@
                 "limited": "Only during event: Winter's Crown",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Winter's Crown\" Event\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "玛雅G",
@@ -3414,6 +3550,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Fight On, Royal Maids!\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Inayama",
             "web": null,
@@ -3622,6 +3762,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "深蓝的杰克",
@@ -3858,6 +4001,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "kisetsu",
@@ -4166,6 +4312,20 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "13-1",
+                "3-2",
+                "9-2",
+                "11-2",
+                "13-2",
+                "7-3",
+                "8-3",
+                "7-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "马甲",
             "web": null,
@@ -4354,6 +4514,20 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "13-1",
+                "3-2",
+                "9-2",
+                "11-2",
+                "13-2",
+                "7-3",
+                "8-3",
+                "7-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "马甲",
@@ -4553,6 +4727,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "玛雅G",
@@ -5055,6 +5232,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "4-2",
+                "10-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "时辰",
             "web": {
@@ -5267,6 +5452,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-1",
+                "4-2",
+                "5-2",
+                "5-4",
+                "8-4",
+                "10-4"
+            ]
+        },
         "misc": {
             "artist": "时辰",
             "web": {
@@ -5468,6 +5663,16 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-1",
+                "8-1",
+                "4-3",
+                "2-4",
+                "8-4",
+                "10-4"
+            ]
         },
         "misc": {
             "artist": "梦咲枫",
@@ -5908,6 +6113,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-1",
+                "8-1",
+                "4-3",
+                "2-4",
+                "8-4",
+                "10-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -6120,6 +6335,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-1",
+                "4-2",
+                "8-2",
+                "2-3",
+                "8-4",
+                "10-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -6321,6 +6546,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded and unlocked in construction when Collections goal is met by getting 20★ star rating in County Class: London, Shropshire, Kent, Suffolk, Norfolk.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -6788,6 +7017,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "8-1",
+                "6-2",
+                "11-2",
+                "8-4"
+            ]
         },
         "misc": {
             "artist": "Mkiiiiii33",
@@ -7289,6 +7526,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "8-1",
+                "6-2",
+                "11-2",
+                "8-4"
+            ]
+        },
         "misc": {
             "artist": "Mkiiiiii33",
             "web": {
@@ -7488,6 +7733,13 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-3",
+                "1-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "SA",
             "web": {
@@ -7674,6 +7926,15 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-2",
+                "5-3",
+                "7-3",
+                "1-4",
+                "6-4"
+            ]
+        },
         "misc": {
             "artist": "SA",
             "web": {
@@ -7859,6 +8120,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "SA",
@@ -8087,6 +8352,13 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-1",
+                "5-2",
+                "10-4"
+            ]
         },
         "misc": {
             "artist": "MD",
@@ -8563,6 +8835,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "MD",
             "web": null,
@@ -8769,6 +9045,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-3",
+                "10-3",
+                "5-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -8973,6 +9256,13 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-3",
+                "2-4",
+                "5-4"
+            ]
         },
         "misc": {
             "artist": "梦咲枫",
@@ -9202,6 +9492,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in point shop and in Limited Construction during \"Scherzo of Iron and Blood\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Enka",
             "web": {
@@ -9406,6 +9700,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Enka",
@@ -9648,6 +9945,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as event gacha reward and as a drop during \"Winter's Crown\" Event (Boss node only)\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Enka",
@@ -10096,6 +10397,53 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "13-1",
+                "2-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "13-2",
+                "2-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "13-3",
+                "2-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -10304,6 +10652,13 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-1",
+                "4-4",
+                "5-4"
+            ]
         },
         "misc": {
             "artist": "梦咲枫",
@@ -10560,6 +10915,11 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-3"
+            ]
+        },
         "misc": {
             "artist": "Mkiiiiii33",
             "web": {
@@ -10791,6 +11151,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -11061,6 +11425,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Winter's Crown\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -11287,6 +11655,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Empyreal Tragicomedy\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Kincora",
             "web": {
@@ -11501,6 +11873,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in construction (limited-only for EN), as a drop and as a reward for clearing \"Glorious Battle\" Event's map (SP3) for 60 times.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Kincora",
             "web": {
@@ -11705,6 +12081,13 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-2",
+                "4-3",
+                "7-4"
+            ]
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -11925,6 +12308,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-2",
+                "4-3",
+                "7-4"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -12136,6 +12526,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Alisa",
@@ -12643,6 +13036,203 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "CN/EN: Awarded and unlocked in construction when Collection goal is met using the following ships: Javelin, Laffey, Z23\n",
+            "fromMaps": [
+                {
+                    "name": "2-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "3-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "4-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "5-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "6-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "7-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "8-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "9-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "10-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "11-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "12-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "13-1",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "2-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "3-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "4-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "5-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "6-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "7-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "8-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "9-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "10-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "11-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "12-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "13-2",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "2-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "3-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "4-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "5-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "6-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "7-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "8-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "9-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "10-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "11-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "12-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "13-3",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "2-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "3-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "4-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "5-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "6-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "7-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "8-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "9-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "10-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "11-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "12-4",
+                    "note": "JP/KR only"
+                },
+                {
+                    "name": "13-4",
+                    "note": "JP/KR only"
+                }
+            ]
+        },
         "misc": {
             "artist": "大月紅葉",
             "web": {
@@ -12974,6 +13564,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a drop during \"Visitors Dyed in Red\" event and available in Core Data Shop for 1000 .\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "大月紅葉",
             "web": {
@@ -13210,6 +13804,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Point milestone reward during Swirling Cherry Blossoms event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "侑了个侑",
             "web": {
@@ -13415,6 +14013,19 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "6-1",
+                    "note": "CN only"
+                },
+                {
+                    "name": "7-2",
+                    "note": "CN only"
+                },
+                "8-2"
+            ]
         },
         "misc": {
             "artist": "大月紅葉",
@@ -13642,6 +14253,23 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "6-1",
+                    "note": "CN only"
+                },
+                "8-1",
+                {
+                    "name": "7-2",
+                    "note": "CN only"
+                },
+                {
+                    "name": "6-3",
+                    "note": "CN only"
+                }
+            ]
+        },
         "misc": {
             "artist": "大月紅葉",
             "web": {
@@ -13868,6 +14496,15 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-1",
+                "6-2",
+                "3-3",
+                "4-3",
+                "9-4"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -14079,6 +14716,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "6-4",
+                    "note": "Boss node only"
+                }
+            ]
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -14587,6 +15232,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-1",
+                "4-2",
+                "9-3"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -14832,6 +15484,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available during \"Visitors Dyed in Red Rerun\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -15317,6 +15973,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-2",
+                "3-3",
+                "4-3",
+                "3-4",
+                "7-4",
+                "9-4"
+            ]
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -15772,6 +16438,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "4-2",
+                "4-3",
+                "4-4"
+            ]
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -15989,6 +16663,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in \"Visitors Dyed in Red\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -16425,6 +17103,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "ALLENES",
             "web": {
@@ -16647,6 +17329,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "ALLENES",
             "web": {
@@ -16858,6 +17544,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "浅葱ゆな",
             "web": null,
@@ -17052,6 +17741,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "浅葱ゆな",
@@ -17485,6 +18178,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "ALLENES",
             "web": {
@@ -17744,6 +18441,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"The Return of the War God\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -17948,6 +18649,10 @@
                 "limited": "Only during event: The Return of the War God",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"The Return of the War God\" Event\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "哈路卡",
@@ -18420,6 +19125,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "EN: Available as a reward during 1 Year Anniversary.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -18627,6 +19336,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "大月紅葉",
@@ -18838,6 +19550,11 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-3"
+            ]
         },
         "misc": {
             "artist": "大月紅葉",
@@ -19322,6 +20039,10 @@
                 "exchange": "Only during event: Swirling Cherry Blossoms"
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and Exchange Shop during Swirling Cherry Blossoms event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Werkbau",
             "web": null,
@@ -19776,6 +20497,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "8-1",
+                "8-2",
+                "8-3",
+                "8-4"
+            ]
         },
         "misc": {
             "artist": "大月紅葉",
@@ -20252,6 +20981,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in the Visitors Dyed in Red Rerun event. Added to Light Construction for CN/JP Clients.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "realmbw",
             "web": {
@@ -20482,6 +21215,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as points reward (5000 total points) during \"Visitors Dyed in Red Rerun\" Event. Unlike all other CLs, Mogami-class CLs have CA-tier fuel costs.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "realmbw",
@@ -20934,6 +21671,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-3",
+                "5-3",
+                "6-3",
+                "4-4"
+            ]
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -21382,6 +22127,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-3",
+                "5-3",
+                "6-3",
+                "4-4"
+            ]
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -21594,6 +22347,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -21795,6 +22551,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "kisetsu",
@@ -21998,6 +22757,12 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "5-1",
+                "10-1"
+            ]
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -22200,6 +22965,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-1",
+                "8-3",
+                "8-4"
+            ]
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -22401,6 +23173,10 @@
                 "limited": "Only during event: Crimson Echoes",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crimson Echoes\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "鉄人桃子",
@@ -22624,6 +23400,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "木shiyo",
@@ -22892,6 +23672,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -23149,6 +23932,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "8-4",
+                    "note": "Boss node only"
+                }
+            ]
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -23361,6 +24152,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "12-4",
+                    "note": "Boss node only"
+                }
+            ]
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -23549,6 +24348,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in point shop and as a drop during  \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Criin",
@@ -23765,6 +24568,10 @@
                 "limited": "Only during event: The Return of the War God",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"The Return of the War God\" Event\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Criin",
@@ -23996,6 +24803,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in point shop during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Criin",
             "web": {
@@ -24211,6 +25022,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded as a task in commemoration of the TVCM after the player completed the game tutorial until 5/10 on JP server. Later on added to KR, CN and EN server as login mission reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Criin",
@@ -24699,6 +25514,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-2",
+                "6-3",
+                "6-4"
+            ]
+        },
         "misc": {
             "artist": "Rain Lan",
             "web": {
@@ -25168,6 +25990,13 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-2",
+                "6-3",
+                "6-4"
+            ]
         },
         "misc": {
             "artist": "Rain Lan",
@@ -25704,6 +26533,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available during \"Visitors Dyed in Red\".\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -26156,6 +26989,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available during \"Visitors Dyed in Red\".\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "kisetsu",
             "web": {
@@ -26366,6 +27203,10 @@
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Alisa",
@@ -26609,6 +27450,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Sakura Amulets reward (10,000 total Sakura Amulets) during  \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -26809,6 +27654,12 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "12-2",
+                "13-2"
+            ]
+        },
         "misc": {
             "artist": "蛆虫音",
             "web": {
@@ -26994,6 +27845,12 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "12-3",
+                "13-3"
+            ]
         },
         "misc": {
             "artist": "蛆虫音",
@@ -27190,6 +28047,11 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-4"
+            ]
         },
         "misc": {
             "artist": "Sky-FreeDom",
@@ -27628,6 +28490,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-2",
+                "2-3",
+                "2-4"
+            ]
+        },
         "misc": {
             "artist": "兔爷",
             "web": {
@@ -27850,6 +28719,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Given as a reward for reaching 10000  points during The Solomon Ranger Event. Also available in Aviation Construction during the event period.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -28074,6 +28947,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "3-4",
+                    "note": "Boss node only"
+                }
+            ]
         },
         "misc": {
             "artist": "八才提督",
@@ -28315,6 +29196,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "3-4",
+                    "note": "Boss node only"
+                }
+            ]
         },
         "misc": {
             "artist": "八才提督",
@@ -28821,6 +29710,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "3-2",
+                "3-3",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "小叶",
             "web": {
@@ -29323,6 +30220,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "3-2",
+                "3-3",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "小叶",
             "web": {
@@ -29546,6 +30451,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available during \"Visitors Dyed in Red\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Enka",
@@ -29774,6 +30683,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Point shop, Construction and as a drop during \"Visitors Dyed in Red\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Enka",
             "web": {
@@ -30000,6 +30913,10 @@
                 "limited": "During event: 1 Year Anniversary",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "云桑",
@@ -30234,6 +31151,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded and unlocked in construction after Akashi's Questline is completed.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -30768,6 +31689,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "5-1",
+                "8-2",
+                "9-4"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -31254,6 +32182,203 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "CN/EN: Available as a starter ship. JP/KR: Awarded and unlocked in construction when Collection goal is met using the following ships: Javelin, Laffey, Ayanami.\n",
+            "fromMaps": [
+                {
+                    "name": "2-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "3-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "4-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "5-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "6-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "7-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "8-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "9-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "10-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "11-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "12-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "13-1",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "2-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "3-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "4-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "5-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "6-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "7-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "8-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "9-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "10-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "11-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "12-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "13-2",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "2-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "3-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "4-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "5-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "6-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "7-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "8-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "9-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "10-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "11-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "12-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "13-3",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "2-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "3-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "4-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "5-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "6-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "7-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "8-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "9-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "10-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "11-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "12-4",
+                    "note": "CN/EN only"
+                },
+                {
+                    "name": "13-4",
+                    "note": "CN/EN only"
+                }
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -31540,6 +32665,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -31748,6 +32877,29 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "12-1",
+                "3-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "12-2",
+                "5-3",
+                "7-3",
+                "12-3",
+                "3-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "12-4"
+            ]
         },
         "misc": {
             "artist": "八才提督",
@@ -32183,6 +33335,29 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "12-1",
+                "3-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "12-2",
+                "5-3",
+                "7-3",
+                "12-3",
+                "3-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "12-4"
+            ]
         },
         "misc": {
             "artist": "八才提督",
@@ -32628,6 +33803,29 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "12-1",
+                "3-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "12-2",
+                "5-3",
+                "7-3",
+                "12-3",
+                "3-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "12-4"
+            ]
         },
         "misc": {
             "artist": "八才提督",
@@ -33083,6 +34281,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded and unlocked in construction when Collection goal is met by getting 9★ star rating in Königsberg Class: Königsberg, Karlsruhe, Köln\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -33305,6 +34507,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "NIN",
             "web": {
@@ -33506,6 +34712,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80. Can also be obtained as login reward (8th day) and available as a drop in D3 (boss node only) during \"Opposite-Colored Rerun\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "realmbw",
@@ -33763,6 +34973,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a drop during \"Opposite-Colored\" and \"Opposite-Colored Rerun\" Events.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "RAN",
@@ -34022,6 +35236,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward for clearing \"Encircling Graf Spee\" event stage SP3 60 times. Also available in Heavy Construction during the event period.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "RAN",
             "web": {
@@ -34277,6 +35495,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in the Opposite-Colored, Opposite-Colored Rerun, Divergent Chessboard, and Scherzo of Iron and Blood events.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "NS",
             "web": {
@@ -34486,6 +35708,10 @@
                 "limited": false,
                 "exchange": "Opposite-Colored Rerun and Divergent Chessboard only"
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in the Opposite-Colored, Opposite-Colored Rerun, Divergent Chessboard, and Scherzo of Iron and Blood events.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "NS",
@@ -34709,6 +35935,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -34924,6 +36154,10 @@
                 "limited": false,
                 "exchange": "Only during event: Divergent Chessboard"
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in points shop during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "八才提督",
@@ -35153,6 +36387,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -35364,6 +36602,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward from \"The Big Adventures of the Four Devas\" Mini-Event, Lunar New Year 2019 Event, and Spring Festival event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "麻酱",
@@ -35577,6 +36819,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward from \"The Big Adventures of the Four Devas\" Mini-Event, Lunar New Year 2019 Event, and Spring Festival Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "麻酱",
             "web": {
@@ -35774,6 +37020,10 @@
                 "limited": "Only during event: Chinese New Year 2018",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Chinese New Year 2018 event, and Light Construction during Lunar New Year 2019 event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "麻酱",
@@ -35986,6 +37236,10 @@
                 "limited": "Only during event: Chinese New Year 2018",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Chinese New Year 2018 event, and Light Construction during Lunar New Year 2019 event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "麻酱",
@@ -36207,6 +37461,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Lunar New Year Celebration\". Obtainable as a reward by completing all tasks during \"Lead Color Remembrance\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "木shiyo",
@@ -36685,6 +37943,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -37232,6 +38493,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "黑猫",
             "web": {
@@ -37509,6 +38773,10 @@
                 "limited": "Only during event: Northern Overture",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded to closed beta testers. Available as an event task reward in the New Dawn event. Available in Limited Construction during \"Northern Overture\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -37960,6 +39228,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "团子",
             "web": {
@@ -38181,6 +39453,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "樱庭光",
             "web": {
@@ -38379,6 +39655,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in the Opposite-Colored and Opposite-Colored Rerun events.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "樱庭光",
             "web": {
@@ -38573,6 +39853,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in the Opposite-Colored and Opposite-Colored Rerun events.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "樱庭光",
@@ -38778,6 +40062,10 @@
                 "limited": "Only during event: Divergent Chessboard (EN)",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -39239,6 +40527,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "NoriZC",
             "web": {
@@ -39680,6 +40971,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "NoriZC",
@@ -40123,6 +41417,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "月见",
@@ -40618,6 +41915,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "月见",
             "web": {
@@ -40839,6 +42139,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "月见",
             "web": {
@@ -41051,6 +42354,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-1",
+                "10-2",
+                "10-3",
+                "10-4"
+            ]
+        },
         "misc": {
             "artist": "月见",
             "web": {
@@ -41248,6 +42559,10 @@
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "しらたま",
@@ -41461,6 +42776,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "しらたま",
             "web": {
@@ -41672,6 +42991,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-1",
+                "10-2",
+                "10-3",
+                "10-4"
+            ]
         },
         "misc": {
             "artist": "月见",
@@ -41894,6 +43221,10 @@
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during  \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "凪白みと",
@@ -42130,6 +43461,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "PHI",
             "web": {
@@ -42352,6 +43687,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "9-4",
+                    "note": "Boss node only"
+                }
+            ]
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -42546,6 +43889,10 @@
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "玛雅G",
@@ -42744,6 +44091,10 @@
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "玛雅G",
@@ -42957,6 +44308,11 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-2"
+            ]
+        },
         "misc": {
             "artist": "团子",
             "web": {
@@ -43154,6 +44510,11 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-2"
+            ]
         },
         "misc": {
             "artist": "团子",
@@ -43618,6 +44979,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "9-3",
+                    "note": "Boss node only"
+                }
+            ]
+        },
         "misc": {
             "artist": "团子",
             "web": {
@@ -43854,6 +45223,23 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-1",
+                "10-1",
+                "11-1",
+                "9-2",
+                "10-2",
+                "11-2",
+                "9-3",
+                "10-3",
+                "11-3",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "玛雅G",
             "web": {
@@ -44050,6 +45436,11 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-2"
+            ]
         },
         "misc": {
             "artist": "云桑",
@@ -44314,6 +45705,11 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-3"
+            ]
+        },
         "misc": {
             "artist": "云桑",
             "web": {
@@ -44540,6 +45936,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "CN: Monthly login reward, JP: Reward from 5 Million Registered Users Celebration, EN: Mail-in reward for 1st Annivarsary.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "6音",
             "web": null,
@@ -44747,6 +46147,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Previously also available as monthly login reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "6音",
@@ -45193,6 +46597,11 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "11-3"
+            ]
         },
         "misc": {
             "artist": "卑しい人间",
@@ -45655,6 +47064,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "10-4",
+                    "note": "Boss node only"
+                }
+            ]
+        },
         "misc": {
             "artist": "卑しい人间",
             "web": {
@@ -45874,6 +47291,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crimson Echoes\" Event\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "卑しい人间",
             "web": {
@@ -46068,6 +47489,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "AO凹凹凹",
@@ -46277,6 +47702,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "AO凹凹凹",
@@ -46731,6 +48160,10 @@
                 "limited": "Only during event: The Return of the War God",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"The Return of the War God\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "AO凹凹凹",
@@ -47188,6 +48621,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "AO凹凹凹",
             "web": {
@@ -47409,6 +48845,10 @@
                 "limited": "Only during event: The Return of the War God",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"The Return of the War God\" Event\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Criin",
@@ -47646,6 +49086,11 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "11-2"
+            ]
+        },
         "misc": {
             "artist": "和茶",
             "web": {
@@ -47882,6 +49327,10 @@
                 "exchange": "Only during event: Swirling Cherry Blossoms"
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction, Exchange Shop and as map drop during Swirling Cherry Blossoms event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "ATDAN",
             "web": {
@@ -48104,6 +49553,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Winter's Crown\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -48313,6 +49766,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as map clear reward and as a drop during \"Winter's Crown\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -48507,6 +49964,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a drop during \"Winter's Crown\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "ゆらん",
@@ -48719,6 +50180,10 @@
                 "limited": "Only in event: Winter's Crown Rerun",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Winter's Crown\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "大月紅葉",
@@ -48954,6 +50419,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "幻象黑兔",
             "web": {
@@ -49175,6 +50643,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "幻象黑兔",
             "web": {
@@ -49382,6 +50853,10 @@
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "alic喵",
@@ -49591,6 +51066,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Also available in point shop and as drop during \"Ink-stained Steel Sakura\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "alic喵",
@@ -49813,6 +51292,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "alic喵",
             "web": {
@@ -50008,6 +51491,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "alic喵",
             "web": {
@@ -50201,6 +51688,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as mantous reward (10000 total mantous) during \"Operation Manjuu\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -50391,6 +51882,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -50604,6 +52098,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "ALLENES",
@@ -51029,6 +52526,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "米白粕",
             "web": null,
@@ -51449,6 +52949,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "煎路",
@@ -51878,6 +53381,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Given as quest reward for clearing 3-4.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -52284,6 +53791,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -52706,6 +54216,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -53115,6 +54628,10 @@
                 "limited": "Only during event: Divergent Chessboard (rerun)",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Divergent Chessboard Rerun event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "大月紅葉",
@@ -53554,6 +55071,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Point Accumulation Reward in Opposite-Colored Rerun.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -53751,6 +55272,10 @@
                 "limited": "Only during event: Divergent Chessboard (EN)",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Divergent Chessboard\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "さくら小春",
@@ -53964,6 +55489,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "樱庭光",
             "web": {
@@ -54171,6 +55699,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in points shop and as drop during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "ゆーげん",
@@ -54606,6 +56138,10 @@
                 "limited": "Only during event: Iris of the Light and the Dark",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "夜ノみつき",
@@ -55106,6 +56642,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Pt reward (10000 total Pt) during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "大槍葦人",
             "web": {
@@ -55539,6 +57079,10 @@
                 "limited": "Only during event: Iris of the Light and the Dark",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "云桑",
@@ -55988,6 +57532,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in points shop and as drop during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "夜ノみつき",
             "web": null,
@@ -56210,6 +57758,10 @@
                 "limited": "Only during event: Iris of Light and Dark",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Liduke(日子)",
@@ -56440,6 +57992,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Ask",
             "web": {
@@ -56655,6 +58211,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Iris of the Light and the Dark\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Enka",
             "web": {
@@ -56852,6 +58412,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "PHI",
@@ -57066,6 +58630,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Tony",
@@ -57298,6 +58865,10 @@
                 "limited": "Only during event: 1 Year Anniversary ; Air Raid Drills with Essex",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" and \"Air Raid Drills with Essex\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "德意志的科学",
@@ -57728,6 +59299,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as Mini-Event Rewards during \"1 Year Anniversary\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "かにビーム",
             "web": {
@@ -57936,6 +59511,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" Event. Added to Light Construction for CN/JP Clients.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "りいちゅ",
             "web": null,
@@ -58130,6 +59709,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Previously also available as monthly login reward.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "銀SilveRoid",
@@ -58614,6 +60197,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in points shop during Royal Maids Battle Royale for  18,000 and during Fight On, Royal Maids! for  24,000.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Lpip",
             "web": {
@@ -58836,6 +60423,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Event Gacha Reward during \"Fallen Wings Rerun\" Event\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "AO凹凹凹",
             "web": {
@@ -59044,6 +60635,10 @@
                 "limited": "Only during event: Fallen Wings Rerun",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Fallen Wings Rerun\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "AO凹凹凹",
@@ -59266,6 +60861,10 @@
                 "limited": "Only during event: Fallen Wings Rerun",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Fallen Wings Rerun\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "雫綺一生",
@@ -59493,6 +61092,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Monthly login reward\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "PHI",
             "web": {
@@ -59690,6 +61293,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "大嘘",
@@ -59927,6 +61533,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crimson Echoes\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Liduke(日子)",
             "web": {
@@ -60128,6 +61738,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction, in Event Shop and as a drop during \"Crimson Echoes\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -60325,6 +61939,10 @@
                 "limited": "Only during event: Crimson Echoes",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Crimson Echoes\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "NoriZC",
@@ -60534,6 +62152,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Point Badges reward ( 10000,  15000,  40000,  60000) during \"Crimson Echoes\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "PHI",
             "web": {
@@ -60741,6 +62363,10 @@
                 "limited": "Only in event: Winter's Crown Rerun",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Winter's Crown Rerun\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Kincora",
@@ -61228,6 +62854,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Lunar New Year 2019\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "もねてぃ",
             "web": {
@@ -61695,6 +63325,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Lunar New Year 2019\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "もねてぃ",
             "web": {
@@ -61917,6 +63551,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Lunar New Year 2019\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "TwinBox",
             "web": {
@@ -62127,6 +63765,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Lunar New Year 2019\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "TwinBox",
@@ -62339,6 +63981,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Lunar New Year 2019\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "噗呼_兽化限定",
@@ -62567,6 +64213,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a reward during \"Air Raid Drills with Essex\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "ATDAN",
             "web": {
@@ -62780,6 +64430,10 @@
                 "limited": "Only during event: Air Raid Drills with Essex",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Air Raid Drills with Essex\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "德意志的科学",
@@ -63003,6 +64657,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in the Starry Sky over the Arctic Fjord event in limited construction and as a drop.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Mkiiiiii33",
             "web": {
@@ -63202,6 +64860,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "13-4",
+                    "note": "Boss node only"
+                }
+            ]
         },
         "misc": {
             "artist": "德意志的科学",
@@ -63614,6 +65280,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura Rerun\" Event\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Amoeba原虫",
             "web": {
@@ -63823,6 +65493,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura Rerun\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "momi",
             "web": {
@@ -64007,6 +65681,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Special Construction during Escape from the Port event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Criin",
@@ -64194,6 +65872,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Special Construction during Escape from the Port event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -64379,6 +66061,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Special Construction during Escape from the Port Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -64789,6 +66475,10 @@
                 "limited": "Only during event: Scherzo of Iron and Blood",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -65210,6 +66900,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "夜ノみつき",
             "web": null,
@@ -65418,6 +67112,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "小原トメ太",
             "web": {
@@ -65613,6 +67311,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during Scherzo of Iron and Blood event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "AO凹凹凹",
             "web": {
@@ -65804,6 +67506,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Alisa",
@@ -66000,6 +67705,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -66195,6 +67903,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Event reward for reaching 1000 Friendship Points during There Comes the Future Star!\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -66403,6 +68115,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "AIKO",
@@ -66640,6 +68355,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Iris of Light and Dark Rerun event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Kincora",
             "web": {
@@ -66861,6 +68580,10 @@
                 "limited": "Only during event: Iris of Light and Dark Rerun",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Iris of Light and Dark Rerun event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "りいちゅ",
@@ -67282,6 +69005,10 @@
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "煎路",
@@ -67707,6 +69434,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -68126,6 +69857,10 @@
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -68551,6 +70286,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "夜ノみつき",
             "web": {
@@ -68975,6 +70714,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -69175,6 +70918,10 @@
                 "limited": "Only during event: Ashen Simulacrum",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ashen Simulacrum\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Enka",
@@ -69586,6 +71333,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in point shop and as a drop during \"Ashen Simulacrum\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -69790,6 +71541,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Point Accumulation reward during \"Ashen Simulacrum\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "NIN",
@@ -70003,6 +71758,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Oil Consumption Milestone reward during \"Ashen Simulacrum\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -70200,6 +71959,10 @@
                 "limited": "Only during event: Ashen Simulacrum",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ashen Simulacrum\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": null,
@@ -70403,6 +72166,10 @@
                 "limited": "Only during event: Ashen Simulacrum",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as a drop during \"Ashen Simulacrum\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "或一",
@@ -70612,6 +72379,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "水熊",
@@ -70849,6 +72619,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "水乌龟XD",
             "web": {
@@ -71075,6 +72848,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Amoeba原虫",
             "web": {
@@ -71272,6 +73048,10 @@
                 "limited": "Only during event: Empyreal Tragicomedy",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in point shop and in Limited Construction during \"Empyreal Tragicomedy\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "股间少女",
@@ -71478,6 +73258,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in point shop and as a drop during \"Empyreal Tragicomedy\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -71675,6 +73459,10 @@
                 "limited": "Only during event: Empyrealn Tragicomedy",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Empyreal Tragicomedy\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "股间少女",
@@ -71901,6 +73689,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Empyreal Tragicomedy\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "云桑",
             "web": {
@@ -72117,6 +73909,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a reward during \"Empyreal Tragicomedy\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -72329,6 +74125,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Point Accumulation reward during \"Empyreal Tragicomedy\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -72754,6 +74554,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Special Construction and as map clear reward during \"Jaws and Enigma\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Capriccio",
             "web": {
@@ -72966,6 +74770,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Amoeba原虫",
             "web": {
@@ -73169,6 +74976,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crescendo of Polaris\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -73353,6 +75164,10 @@
                 "limited": "Only during event: Crescendo of Polaris",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crescendo of Polaris\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": null,
@@ -73547,6 +75362,10 @@
                 "limited": "Only during event: Crescendo of Polaris",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crescendo of Polaris\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": null,
@@ -73743,6 +75562,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a mini-game reward during \"Crescendo of Polaris\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -73937,6 +75760,10 @@
                 "limited": "Only during event: Crescendo of Polaris",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Crescendo of Polaris\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": null,
@@ -74136,6 +75963,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Lpip",
@@ -74359,6 +76189,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Swirling Cherry Blossoms event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Byulzzi",
             "web": null,
@@ -74570,6 +76404,10 @@
                 "limited": "Only during event: Swirling Cherry Blossoms",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Swirling Cherry Blossoms event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "fuzichoco",
@@ -74785,6 +76623,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Swirling Cherry Blossoms event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Tony",
             "web": null,
@@ -74990,6 +76832,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Fight On, Royal Maids!\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Rain Lan",
@@ -75212,6 +77058,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Light Construction during \"Fight On, Royal Maids!\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -75425,6 +77275,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward from the \"Spring Festival\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -75637,6 +77491,10 @@
                 "limited": "Only during event: Northern Overture",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Northern Overture\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -75856,6 +77714,10 @@
                 "limited": false,
                 "exchange": "Only during event: Northern Overture"
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a map drop, and in the Point Shop for 4000  during \"Northern Overture\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "shisantian",
@@ -76079,6 +77941,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Northern Overture\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Kincora",
             "web": {
@@ -76289,6 +78155,10 @@
                 "limited": "Only during event: Northern Overture",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Northern Overture\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Byulzzi",
@@ -76508,6 +78378,10 @@
                 "exchange": "Only during event: Northern Overture"
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction, as a map drop, and in the Point Shop for 8000  during \"Northern Overture\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "股间少女",
             "web": {
@@ -76723,6 +78597,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Point Reward during \"Northern Overture\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "股间少女",
             "web": {
@@ -76937,6 +78815,10 @@
                 "limited": "Only during event: Northern Overture",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Northern Overture\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "侑了个侑",
@@ -77156,6 +79038,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Microlayer Medley.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -77372,6 +79258,10 @@
                 "exchange": "Only during event: Microlayer Medley"
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction, Exchange Shop, and as map drop during Microlayer Medley.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "活断層",
             "web": {
@@ -77583,6 +79473,10 @@
                 "limited": "Only during event: Microlayer Medley",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Microlayer Medley.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "shisantian",
@@ -77805,6 +79699,10 @@
                 "limited": "Only during event: Microlayer Medley",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Microlayer Medley.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Pandea",
@@ -78227,6 +80125,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a Point Accumulation reward during Microlayer Medley.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "团子",
             "web": {
@@ -78441,6 +80343,10 @@
                 "exchange": "Only during event: Microlayer Medley"
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a map drop, and in the Point Shop for 2000  during \"Microlayer Medley\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Mignon",
             "web": null,
@@ -78649,6 +80555,10 @@
                 "limited": "Only during event: Microlayer Medley",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Microlayer Medley.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": null,
@@ -79017,6 +80927,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Can be obtained from Weekly Tasks, Medal Exchange, Munitions Shop, Login Reward and as 3-Star Reward from Map. In some events can also be obtained from Event Supply or point exchange gacha.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -79182,6 +81096,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Can be obtained from Weekly Tasks, Medal Exchange, Munitions Shop, Login Reward and as 3-Star Reward from Map. In some events can also be obtained from  Event Supply or point exchange gacha.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -79380,6 +81298,11 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "13-3"
+            ]
         },
         "misc": {
             "artist": "或一",
@@ -79841,6 +81764,34 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "7-1",
+                "8-1",
+                "12-1",
+                "13-1",
+                "2-2",
+                "3-2",
+                "7-2",
+                "8-2",
+                "12-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "3-3",
+                "4-3",
+                "8-3",
+                "12-3",
+                "13-3",
+                "1-4",
+                "3-4",
+                "4-4",
+                "8-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "大月紅葉",
             "web": {
@@ -80286,6 +82237,34 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "7-1",
+                "8-1",
+                "12-1",
+                "13-1",
+                "2-2",
+                "3-2",
+                "7-2",
+                "8-2",
+                "12-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "3-3",
+                "4-3",
+                "8-3",
+                "12-3",
+                "13-3",
+                "1-4",
+                "3-4",
+                "4-4",
+                "8-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "大月紅葉",
             "web": {
@@ -80504,6 +82483,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-1",
+                "11-1",
+                "12-1",
+                "2-2",
+                "10-2",
+                "2-3",
+                "4-4"
+            ]
+        },
         "misc": {
             "artist": "麻酱",
             "web": {
@@ -80714,6 +82704,30 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "1-1",
+                "2-1",
+                "3-1",
+                "8-1",
+                "11-1",
+                "1-2",
+                "2-2",
+                "3-2",
+                "8-2",
+                "11-2",
+                "1-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "11-3",
+                "1-4",
+                "2-4",
+                "4-4",
+                "8-4",
+                "11-4"
+            ]
         },
         "misc": {
             "artist": "麻酱",
@@ -80926,6 +82940,30 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "1-1",
+                "2-1",
+                "3-1",
+                "8-1",
+                "11-1",
+                "1-2",
+                "2-2",
+                "3-2",
+                "8-2",
+                "11-2",
+                "1-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "11-3",
+                "1-4",
+                "2-4",
+                "4-4",
+                "8-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "麻酱",
             "web": {
@@ -81133,6 +83171,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded and unlocked in construction when Collection goal is met by getting 10★ star rating in Gridley Class: Gridley, Craven, McCall\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "麻酱",
@@ -81342,6 +83384,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-1",
+                "7-1",
+                "9-1",
+                "11-1",
+                "12-1",
+                "2-3",
+                "3-4"
+            ]
+        },
         "misc": {
             "artist": "Lino(番茄)",
             "web": {
@@ -81550,6 +83603,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "9-1",
+                "3-2",
+                "8-3"
+            ]
+        },
         "misc": {
             "artist": "Lino(番茄)",
             "web": {
@@ -81747,6 +83808,17 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-1",
+                "9-1",
+                "12-1",
+                "4-2",
+                "2-3",
+                "3-4",
+                "10-4"
+            ]
         },
         "misc": {
             "artist": "Lino(番茄)",
@@ -81946,6 +84018,33 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "6-1",
+                "9-1",
+                "13-1",
+                "1-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "9-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "3-3",
+                "7-3",
+                "9-3",
+                "13-3",
+                "1-4",
+                "2-4",
+                "3-4",
+                "6-4",
+                "7-4",
+                "9-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "Lino(番茄)",
             "web": {
@@ -82143,6 +84242,33 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "6-1",
+                "9-1",
+                "13-1",
+                "1-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "9-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "3-3",
+                "7-3",
+                "9-3",
+                "13-3",
+                "1-4",
+                "2-4",
+                "3-4",
+                "6-4",
+                "7-4",
+                "9-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "Lino(番茄)",
@@ -82342,6 +84468,33 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "6-1",
+                "9-1",
+                "13-1",
+                "1-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "9-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "3-3",
+                "7-3",
+                "9-3",
+                "13-3",
+                "1-4",
+                "2-4",
+                "3-4",
+                "6-4",
+                "7-4",
+                "9-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "Lino(番茄)",
             "web": {
@@ -82539,6 +84692,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "八才提督",
@@ -82992,6 +85148,58 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "3-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "13-1",
+                "2-2",
+                "3-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "13-2",
+                "2-3",
+                "3-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "13-3",
+                "2-4",
+                "3-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "梦咲枫",
@@ -83530,6 +85738,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "11-1",
+                "3-2",
+                "12-2",
+                "7-3",
+                "10-3",
+                "7-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -83976,6 +86195,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "11-1",
+                "3-2",
+                "12-2",
+                "7-3",
+                "10-3",
+                "7-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -84197,6 +86427,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Munitions Shop for 20000 Merit\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "黑猫",
@@ -84449,6 +86683,35 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "3-1",
+                "4-1",
+                "5-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "2-2",
+                "3-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "2-3",
+                "3-3",
+                "4-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "1-4",
+                "2-4",
+                "6-4",
+                "7-4",
+                "9-4",
+                "10-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "马甲",
             "web": null,
@@ -84638,6 +86901,35 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "3-1",
+                "4-1",
+                "5-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "2-2",
+                "3-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "2-3",
+                "3-3",
+                "4-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "1-4",
+                "2-4",
+                "6-4",
+                "7-4",
+                "9-4",
+                "10-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "马甲",
             "web": null,
@@ -84825,6 +87117,17 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "5-1",
+                "2-2",
+                "8-3",
+                "12-3",
+                "5-4",
+                "9-4"
+            ]
         },
         "misc": {
             "artist": "realmbw",
@@ -85023,6 +87326,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "5-1",
+                "8-3",
+                "12-3",
+                "4-4",
+                "5-4",
+                "9-4"
+            ]
+        },
         "misc": {
             "artist": "realmbw",
             "web": {
@@ -85219,6 +87533,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "5-1",
+                "6-1",
+                "12-1",
+                "9-4"
+            ]
         },
         "misc": {
             "artist": "realmbw",
@@ -85456,6 +87778,21 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "8-1",
+                "13-1",
+                "5-2",
+                "7-2",
+                "12-2",
+                "13-2",
+                "6-3",
+                "9-3",
+                "11-3",
+                "13-3",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -85663,6 +88000,21 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "8-1",
+                "13-1",
+                "5-2",
+                "7-2",
+                "12-2",
+                "13-2",
+                "6-3",
+                "9-3",
+                "11-3",
+                "13-3",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "梦咲枫",
@@ -86132,6 +88484,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -86362,6 +88718,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "12-2",
+                "5-3",
+                "11-3",
+                "4-4"
+            ]
         },
         "misc": {
             "artist": "八才提督",
@@ -86639,6 +89003,14 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                {
+                    "name": "11-4",
+                    "note": "Boss node only"
+                }
+            ]
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -86854,6 +89226,32 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "3-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "13-1",
+                "2-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "13-2",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "13-3",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "紫瑟",
             "web": {
@@ -87054,6 +89452,16 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "13-1",
+                "13-2",
+                "8-3",
+                "13-3",
+                "8-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "紫瑟",
@@ -87256,6 +89664,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "7-2",
+                "10-2",
+                "4-4",
+                "6-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "realmbw",
             "web": {
@@ -87457,6 +89875,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "7-2",
+                "10-2",
+                "4-3",
+                "4-4",
+                "6-4",
+                "11-4"
+            ]
+        },
         "misc": {
             "artist": "realmbw",
             "web": {
@@ -87657,6 +90086,14 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "10-1",
+                "11-1",
+                "3-4"
+            ]
         },
         "misc": {
             "artist": "realmbw",
@@ -88097,6 +90534,17 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "4-3",
+                "10-3",
+                "3-4",
+                "5-4",
+                "11-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -88332,6 +90780,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Can also be obtained as login reward (2nd day)\n",
+            "fromMaps": [
+                "8-2",
+                "3-3",
+                "4-4",
+                "11-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -88556,6 +91014,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a reward for clearing \"Prelude under the Moon\" Event's map (SP3).\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Sky-FreeDom",
@@ -88782,6 +91244,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a reward for Daily Login during \"Prelude under the Moon\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Sky-FreeDom",
             "web": {
@@ -89006,6 +91472,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a reward for clearing \"Prelude under the Moon\" Event's Daily Mission.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Sky-FreeDom",
@@ -89246,6 +91716,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Awarded and unlocked in construction when Collections goal is met by getting 12★ star rating in Brooklyn class: Brooklyn, Phoenix, Helena.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -89456,6 +91930,10 @@
                 "limited": "Only during event: Ashen Simulacrum",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Ashen Simulacrum\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "feng ze",
@@ -89910,6 +92388,52 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "2-2",
+                "3-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "2-3",
+                "3-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "2-4",
+                "3-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -90348,6 +92872,52 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "2-2",
+                "3-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "2-3",
+                "3-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "2-4",
+                "3-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -90549,6 +93119,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "5-1",
+                "8-1",
+                "9-1",
+                "11-1",
+                "2-2",
+                "6-3"
+            ]
+        },
         "misc": {
             "artist": "SA",
             "web": {
@@ -90737,6 +93317,15 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "9-1",
+                "11-1",
+                "13-1",
+                "2-2",
+                "6-3"
+            ]
+        },
         "misc": {
             "artist": "SA",
             "web": {
@@ -90924,6 +93513,16 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "10-1",
+                "4-2",
+                "5-2",
+                "8-2",
+                "11-2"
+            ]
         },
         "misc": {
             "artist": "小叶",
@@ -91116,6 +93715,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "10-1",
+                "4-2",
+                "5-2",
+                "8-2",
+                "11-2"
+            ]
+        },
         "misc": {
             "artist": "小叶",
             "web": {
@@ -91306,6 +93915,10 @@
                 "limited": "Only during event: Fallen Wings",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Chuzenji",
@@ -91515,6 +94128,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Chuzenji",
             "web": null,
@@ -91712,6 +94329,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as map clear reward and as a drop during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Chuzenji",
@@ -91921,6 +94542,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as event gacha reward and as a drop during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -92122,6 +94747,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -92322,6 +94951,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Munitions Shop for 20000 Merit.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -92764,6 +95397,19 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "5-1",
+                "13-1",
+                "7-2",
+                "13-3",
+                "1-4",
+                "9-4",
+                "11-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "哈路卡",
@@ -93211,6 +95857,53 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "13-1",
+                "2-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "13-2",
+                "2-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "13-3",
+                "2-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "梦咲枫",
             "web": {
@@ -93651,6 +96344,53 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "13-1",
+                "3-2",
+                "4-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "13-2",
+                "3-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "8-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "13-3",
+                "3-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "Saru(猴妈)",
             "web": {
@@ -93860,6 +96600,15 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "10-2",
+                "13-2",
+                "12-3",
+                "2-4",
+                "6-4"
+            ]
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -94332,6 +97081,15 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "4-1",
+                "10-2",
+                "13-2",
+                "12-3",
+                "6-4"
+            ]
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -94827,6 +97585,52 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "4-1",
+                "5-1",
+                "6-1",
+                "7-1",
+                "8-1",
+                "9-1",
+                "10-1",
+                "11-1",
+                "12-1",
+                "13-1",
+                "3-2",
+                "5-2",
+                "6-2",
+                "7-2",
+                "8-2",
+                "9-2",
+                "10-2",
+                "11-2",
+                "12-2",
+                "13-2",
+                "3-3",
+                "4-3",
+                "5-3",
+                "6-3",
+                "7-3",
+                "9-3",
+                "10-3",
+                "11-3",
+                "12-3",
+                "13-3",
+                "3-4",
+                "4-4",
+                "5-4",
+                "6-4",
+                "7-4",
+                "8-4",
+                "9-4",
+                "10-4",
+                "11-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "Enka",
             "web": {
@@ -95037,6 +97841,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "7-2",
+                "13-3",
+                "3-4"
+            ]
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -95240,6 +98051,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for  80.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "八才提督",
@@ -95570,6 +98385,13 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "13-1",
+                "7-2",
+                "5-3"
+            ]
+        },
         "misc": {
             "artist": "八才提督",
             "web": {
@@ -95774,6 +98596,10 @@
                 "exchange": true
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a drop during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events.Additionally, she is available in Exchange Gacha in \"Fallen Wings Rerun\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "蛆虫音",
             "web": {
@@ -95966,6 +98792,15 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-1",
+                "13-1",
+                "12-2",
+                "7-3",
+                "11-3"
+            ]
         },
         "misc": {
             "artist": "Saru(猴妈)",
@@ -96417,6 +99252,16 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "5-1",
+                "10-1",
+                "6-2",
+                "9-3",
+                "4-4",
+                "5-4"
+            ]
         },
         "misc": {
             "artist": "时辰",
@@ -96883,6 +99728,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as map clear reward during \"Glorious Battle\" Event\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "ALLENES",
@@ -97367,6 +100216,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a drop and as a reward for clearing \"Glorious Battle\" Event's map (SP3) for 20 times.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "ALLENES",
             "web": {
@@ -97589,6 +100442,34 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "4-1",
+                "6-1",
+                "8-1",
+                "9-1",
+                "12-1",
+                "4-2",
+                "5-2",
+                "6-2",
+                "8-2",
+                "9-2",
+                "12-2",
+                "3-3",
+                "4-3",
+                "8-3",
+                "9-3",
+                "12-3",
+                "2-4",
+                "3-4",
+                "4-4",
+                "5-4",
+                "8-4",
+                "9-4",
+                "12-4"
+            ]
+        },
         "misc": {
             "artist": "林大B",
             "web": {
@@ -97786,6 +100667,34 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "3-1",
+                "4-1",
+                "6-1",
+                "8-1",
+                "9-1",
+                "12-1",
+                "4-2",
+                "5-2",
+                "6-2",
+                "8-2",
+                "9-2",
+                "12-2",
+                "3-3",
+                "4-3",
+                "8-3",
+                "9-3",
+                "12-3",
+                "2-4",
+                "3-4",
+                "4-4",
+                "5-4",
+                "8-4",
+                "9-4",
+                "12-4"
+            ]
         },
         "misc": {
             "artist": "林大B",
@@ -98221,6 +101130,35 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "1-1",
+                "2-1",
+                "5-1",
+                "7-1",
+                "10-1",
+                "11-1",
+                "13-1",
+                "1-2",
+                "2-2",
+                "7-2",
+                "10-2",
+                "11-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "5-3",
+                "6-3",
+                "10-3",
+                "11-3",
+                "13-3",
+                "1-4",
+                "5-4",
+                "10-4",
+                "11-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "和茶",
@@ -98667,6 +101605,35 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "1-1",
+                "2-1",
+                "5-1",
+                "7-1",
+                "10-1",
+                "11-1",
+                "13-1",
+                "1-2",
+                "2-2",
+                "7-2",
+                "10-2",
+                "11-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "5-3",
+                "6-3",
+                "10-3",
+                "11-3",
+                "13-3",
+                "1-4",
+                "5-4",
+                "10-4",
+                "11-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "和茶",
             "web": {
@@ -99111,6 +102078,35 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "1-1",
+                "2-1",
+                "5-1",
+                "7-1",
+                "10-1",
+                "11-1",
+                "13-1",
+                "1-2",
+                "2-2",
+                "7-2",
+                "10-2",
+                "11-2",
+                "13-2",
+                "1-3",
+                "2-3",
+                "5-3",
+                "6-3",
+                "10-3",
+                "11-3",
+                "13-3",
+                "1-4",
+                "5-4",
+                "10-4",
+                "11-4",
+                "13-4"
+            ]
         },
         "misc": {
             "artist": "和茶",
@@ -99625,6 +102621,31 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "2-1",
+                "4-1",
+                "8-1",
+                "12-1",
+                "13-1",
+                "1-2",
+                "3-2",
+                "4-2",
+                "8-2",
+                "12-2",
+                "13-2",
+                "1-3",
+                "4-3",
+                "8-3",
+                "12-3",
+                "13-3",
+                "1-4",
+                "2-4",
+                "3-4",
+                "12-4",
+                "13-4"
+            ]
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -100067,6 +103088,16 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": [
+                "6-1",
+                "3-2",
+                "3-3",
+                "5-3",
+                "9-3",
+                "10-3"
+            ]
+        },
         "misc": {
             "artist": "哈路卡",
             "web": {
@@ -100282,6 +103313,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Event Gacha Reward during \"Winter's Crown Rerun\" Event\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "りいちゅ",
             "web": null,
@@ -100486,6 +103521,15 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": [
+                "5-2",
+                "11-2",
+                "8-3",
+                "9-3",
+                "6-4"
+            ]
         },
         "misc": {
             "artist": "Lino(番茄)",
@@ -100694,6 +103738,10 @@
                 "limited": "Only during event: Starry Sky over the Arctic Fjord",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and as the task reward for clearing SP3 stage 60 times during \"Starry Sky over the Arctic Fjord\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Alisa",
@@ -100933,6 +103981,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "梦咲枫",
@@ -101183,6 +104234,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Liduke(日子)",
@@ -101463,6 +104517,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "玛雅G",
             "web": {
@@ -101741,6 +104798,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Alisa",
             "web": {
@@ -101997,6 +105057,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "Terras",
@@ -102261,6 +105324,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "木shiyo",
             "web": {
@@ -102492,6 +105558,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "nineo",
@@ -102745,6 +105814,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "八九",
@@ -103005,6 +106077,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "黑猫",
             "web": {
@@ -103250,6 +106325,9 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "fromMaps": []
         },
         "misc": {
             "artist": "木shiyo",
@@ -103501,6 +106579,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": null,
             "web": null,
@@ -103730,6 +106811,9 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Liduke(日子)",
             "web": {
@@ -103926,6 +107010,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as a task reward in the Visitors from Another Dimension event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "つなこ",
             "web": {
@@ -104102,6 +107190,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Visitors from Another Dimension\" Event\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "つなこ",
             "web": {
@@ -104277,6 +107369,10 @@
                 "limited": "Only during event: Visitors from Another Dimension",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in limited construction during \"Visitors from Another Dimension\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "つなこ",
@@ -104455,6 +107551,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward for completing \"Visitors from Another Dimension\" Event Questline.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "つなこ",
@@ -104652,6 +107752,10 @@
                 "limited": "Only during event: Visitors from Another Dimension",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Visitors from Another Dimension\" Event\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "つなこ",
@@ -104854,6 +107958,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Visitors from Another Dimension\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "つなこ",
             "web": {
@@ -105054,6 +108162,10 @@
                 "limited": "Visitors from Another Dimension",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Visitors from Another Dimension\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "つなこ",
@@ -105257,6 +108369,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Visitors from Another Dimension\" Event\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "つなこ",
             "web": {
@@ -105459,6 +108575,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Event Task reward during the \"Battery Support Plan\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "和茶",
             "web": {
@@ -105649,6 +108769,10 @@
                 "limited": false,
                 "exchange": true
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in event shop during the \"Battery Support Plan\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "和茶",
@@ -105842,6 +108966,10 @@
                 "limited": "Only during event: Utawarerumono Collab",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Point Shop and Limited Construction during \"Utawarerumono Collab\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "甘露樹",
@@ -106044,6 +109172,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Utawarerumono Collab\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "甘露樹",
             "web": null,
@@ -106244,6 +109376,10 @@
                 "limited": "Only during event: Utawarerumono Collab",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Utawarerumono Collab\" Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "みつみ美里",
@@ -106447,6 +109583,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Utawarerumono Collab\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "みつみ美里",
             "web": null,
@@ -106648,6 +109788,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward for completing \"Utawarerumono Collab\" Event Questline.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "みつみ美里",
@@ -106851,6 +109995,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward for Obtaining 1,500 Friendship Point during \"Utawarerumono Collab\" Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "甘露樹",
             "web": null,
@@ -107050,6 +110198,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Kizuna Point reward during Virtual Connection Synchronicity Event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Morikura En",
@@ -107256,6 +110408,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Can be obtained for 8000  from Virtual Connection Synchronicity event shop. Also available in Limited Construction during the event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Morikura En",
             "web": {
@@ -107451,6 +110607,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Virtual Connection Synchronicity event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Morikura En",
             "web": {
@@ -107644,6 +110804,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during Virtual Connection Synchronicity Event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Morikura En",
             "web": {
@@ -107836,6 +111000,10 @@
                 "limited": "Only during event: Looking Glass of Fact and Fiction",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "凪白みと",
@@ -108044,6 +111212,10 @@
                 "limited": "Only during event: Looking Glass of Fact and Fiction",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction and in event shop during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Ordan",
@@ -108458,6 +111630,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Gaou",
             "web": {
@@ -108664,6 +111840,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Minamura Haruki",
             "web": null,
@@ -108865,6 +112045,10 @@
                 "limited": "Only during event: Looking Glass of Fact and Fiction",
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Nanakagura",
@@ -109071,6 +112255,10 @@
                 "exchange": false
             }
         },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as Point Accumulation reward during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
+        },
         "misc": {
             "artist": "Tam-U",
             "web": null,
@@ -109275,6 +112463,10 @@
                 "limited": false,
                 "exchange": false
             }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Reward for obtaining 1,000 Friendship Points during \"Looking Glass of Fact and Fiction\" event.\n",
+            "fromMaps": []
         },
         "misc": {
             "artist": "Izumi Sai",

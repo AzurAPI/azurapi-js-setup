@@ -475,7 +475,9 @@ function parseShip(name, body) {
         ship.retrofitId = (3000 + parseInt(ship.id)) + "";
         ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
     }
-    ship.construction = parseShipConstruction(doc.querySelector("#Construction tbody"));
+    let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"));
+    ship.construction = obtainedFrom.construction;
+    ship.obtainedFrom = obtainedFrom.obtainedFrom;
     ship.misc = {
         artist: misc_selectors[0] ? misc_selectors[0].textContent : null,
         web: misc_selectors[1] ? {
@@ -688,7 +690,7 @@ function parseGallery(name, body) {
     };
 }
 
-function parseShipConstruction(construction_tbody) {
+function parseShipObtainedFrom(construction_tbody) {
     let construction_time = construction_tbody.children[1].firstElementChild.textContent.trim();
     let available = {};
     let construction_types = ["light", "heavy", "aviation", "limited", "exchange"];
@@ -700,9 +702,34 @@ function parseShipConstruction(construction_tbody) {
         available[construction_types[i]] = value;
     }
     return {
-        constructionTime: construction_time,
-        availableIn: available
+        construction: {
+            constructionTime: construction_time,
+            availableIn: available
+        },
+        obtainedFrom: parseShipMapDrop(construction_tbody)
     };
+}
+const MAP_DROP_START_ANCHOR = ["1", "2", "3", "4 + SOS"]
+
+function parseShipMapDrop(construction_tbody) {
+    let obtainedFrom = {};
+    if (construction_tbody.children[5]) obtainedFrom.obtainedFrom = construction_tbody.children[5].lastElementChild.textContent;
+    obtainedFrom.fromMaps = [];
+    for (let i = 1; i <= 4; i++) {
+        let j = 0;
+        while (construction_tbody.children[i].children[j].textContent.trim() !== MAP_DROP_START_ANCHOR[i - 1] && j < 1000) j++;
+        for (let c = 1; c <= 13; c++) {
+            if (construction_tbody.children[i].children[j + c].children.length > 0) {
+                obtainedFrom.fromMaps.push({
+                    name: c + "-" + i,
+                    note: construction_tbody.children[i].children[j + c].querySelector(".tooltiptext").textContent
+                });
+            } else if (construction_tbody.children[i].children[j + c].textContent.trim() === "✓") {
+                obtainedFrom.fromMaps.push(c + "-" + i);
+            }
+        }
+    }
+    return obtainedFrom;
 }
 
 // Its only a prediction
