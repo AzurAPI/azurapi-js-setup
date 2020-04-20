@@ -104,7 +104,7 @@ function fetch(url, localPath) {
 
 function findElSkinName(skins, name) {
     name = name.trim();
-    if (name.includes("Remodel") || name.includes("改")) return "Retrofit";
+    if (name.includes("Remodel") || name.includes("改") || name.includes("Kai")) return "Retrofit";
     for (let skin of skins) {
         if (skin.name.trim().includes(name) || name.includes(skin.name.trim())) return skin.name;
         if (skin.info.enClient && (skin.info.enClient.trim().includes(name) || name.includes(skin.info.enClient.trim()))) return skin.name;
