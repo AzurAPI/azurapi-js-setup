@@ -39,6 +39,8 @@ azurlane.publishEQ();
 
 > When a single ship's info is extracted, it is of `Ship` type
 
+#### `ships.json`
+
 ```typescript
 class Ship {
     wikiUrl: string;    // An valid, full url to its wiki page
@@ -161,6 +163,24 @@ class Skill {
 class Artist {
     name: string;
     url: string;
+}
+```
+
+#### `voice_lines.json`
+
+```typescript
+class Ship {
+    Default: Array<Line>;
+    [Skin Name]: Array<Line>;
+    ...
+}
+
+class Line {
+    event: string;  // the event (touch etc) name
+    en?: string;    // the line in english
+    zh?: string;    // the line in chinese
+    jp?: string;    // the line in japanese
+    audio?: string; // the line's audio url, file type = "audio/ogg"
 }
 ```
 
