@@ -97,11 +97,13 @@ async function refreshShipImages() {
         await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
         process.stdout.write("-");
         for (let skin of ship.skins) {
-            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
+            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
             let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_");
+            let image_path_cn = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_");
             let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_");
-            if (skin.image !== null) await fetchImage(skin.image, image_path);
+            if (skin.image) await fetchImage(skin.image, image_path);
+            if (skin.imageCN) await fetchImage(skin.imageCN, image_path_cn);
             process.stdout.write(".");
             if (skin.chibi !== null) await fetchImage(skin.chibi, chibi_path);
             process.stdout.write("|");
@@ -248,8 +250,12 @@ function publishShips() {
         let newSkins = [];
         for (let skin of SHIPS[key].skins) {
             process.stdout.write(".");
-            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').replace(/ +/g, "_"));
-            skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
+            if (typeof(skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            else {
+                skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+                skin.imageCN = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            }
             skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.background = skin.background ? IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1) : null;
             skin.info.live2dModel = skin.info.live2dModel === "Yes" // true if and only if "Yes"
@@ -667,14 +673,20 @@ function parseGallery(name, body) {
     let skins = [];
     let gallery = [];
     let doc = new JSDOM(body).window.document;
-    Array.from(doc.getElementsByClassName("tabbertab")).forEach(tab => {
+    Array.from(doc.querySelectorAll(".mw-parser-output>.tabber>.tabbertab")).forEach(tab => {
+        if (tab.querySelector(".tabbertab")) image = {
+            normal: tab.querySelector(".tabbertab[title=Normal] .shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".tabbertab[title=Normal] .shipskin-image img").src : null,
+            cn: tab.querySelector(".tabbertab[title=CN] .shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".tabbertab[title=CN] .shipskin-image img").src : null
+        };
+        else image = tab.querySelector(".shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-image img").src : null;
         let info = {};
         tab.querySelectorAll(".shipskin-table tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
             name: tab.title,
-            image: tab.querySelector(".shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-image img").src : null,
-            background: (tab.querySelector(".res img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src") : null),
-            chibi: tab.querySelector(".shipskin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-chibi img").getAttribute("src") : null,
+            image: typeof(image) === "string" ? image : image.normal,
+            imageCN: typeof(image) === "string" ? undefined : image.cn,
+            background: tab.querySelector(".res img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src") : null,
+            chibi: tab.querySelector(".shipskin-lower .shipskin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-lower .shipskin-chibi img").getAttribute("src") : null,
             info: info
         });
     });
@@ -988,6 +1000,7 @@ async function verifyFile(url, localPath) {
     if (fs.statSync(localPath)["size"] === correctSize) return true;
     else {
         console.log("File Corrupted: " + localPath);
+        delete PATH_SIZE[url];
         return false;
     }
 }
