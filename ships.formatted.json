@@ -1015,6 +1015,7 @@
             {
                 "name": "Fairly Flavourful Festival",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/102/Fairly_Flavourful_Festival/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_114.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/102/Fairly_Flavourful_Festival/chibi.png",
                 "info": {
@@ -3362,6 +3363,7 @@
             {
                 "name": "A Moment's Respite",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/111/A_Moments_Respite/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_114.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/111/A_Moments_Respite/chibi.png",
                 "info": {
@@ -3585,6 +3587,7 @@
             {
                 "name": "Brilliance in Purple",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/113/Brilliance_in_Purple/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_127.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/113/Brilliance_in_Purple/chibi.png",
                 "info": {
@@ -11805,6 +11808,7 @@
             {
                 "name": "The Lady of the Beach",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/147/The_Lady_of_the_Beach/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/147/The_Lady_of_the_Beach/chibi.png",
                 "info": {
@@ -13484,6 +13488,7 @@
             {
                 "name": "Covert Ops Cloak",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/155/Covert_Ops_Cloak/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/155/Covert_Ops_Cloak/chibi.png",
                 "info": {
@@ -13725,12 +13730,12 @@
                 }
             },
             {
-                "name": "Akatsuki, Goes to the Arctic",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/159/Akatsuki_Goes_to_the_Arctic/image.png",
+                "name": "Akatsuki Goes North",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/159/Akatsuki_Goes_North/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/159/Akatsuki_Goes_to_the_Arctic/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/159/Akatsuki_Goes_North/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Akatsuki Goes North",
                     "cnClient": "北极的迷途",
                     "jpClient": "暁、北極に行く",
                     "obtainedFrom": "Skin Shop",
@@ -16620,6 +16625,7 @@
             {
                 "name": "Mooncake Merchant",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/168/Mooncake_Merchant/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_115.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/168/Mooncake_Merchant/chibi.png",
                 "info": {
@@ -19565,7 +19571,7 @@
                 "firepower": "120",
                 "torpedo": "230",
                 "evasion": "100",
-                "speed": "",
+                "speed": "36",
                 "antiair": "393",
                 "aviation": "0",
                 "oilConsumption": "9",
@@ -19595,7 +19601,7 @@
                 "firepower": "",
                 "torpedo": "",
                 "evasion": "",
-                "speed": "",
+                "speed": "36",
                 "antiair": "",
                 "aviation": "",
                 "oilConsumption": "",
@@ -31439,6 +31445,7 @@
             {
                 "name": "Ceremonial Crane",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/229/Ceremonial_Crane/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_114.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/229/Ceremonial_Crane/chibi.png",
                 "info": {
@@ -35661,7 +35668,7 @@
                     "cn": "袖珍战列舰",
                     "jp": "ポケット戦艦"
                 },
-                "description": "Increases damage against Destroyers and Light Cruisers by 15% (35%).",
+                "description": "Increases own damage against Destroyers and Light Cruisers by 15% (35%).",
                 "color": "pink"
             },
             {
@@ -39531,6 +39538,7 @@
             {
                 "name": "Shackled Saule",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/262/Shackled_Saule/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/262/Shackled_Saule/chibi.png",
                 "info": {
@@ -46237,6 +46245,7 @@
             {
                 "name": "Among the Stalls",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/304/Among_the_Stalls/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_114.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/304/Among_the_Stalls/chibi.png",
                 "info": {
@@ -52893,12 +52902,12 @@
                 }
             },
             {
-                "name": "Sunlit Tulip",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/337/Sunlit_Tulip/image.png",
+                "name": "Sunlit Tulips",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/337/Sunlit_Tulips/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/337/Sunlit_Tulip/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/337/Sunlit_Tulips/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Sunlit Tulips",
                     "cnClient": "艳阳与郁金香",
                     "jpClient": "太陽とチューリップ",
                     "obtainedFrom": "Skin Shop",
@@ -53760,6 +53769,7 @@
             {
                 "name": "Shortly Before the Fireworks",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/339/Shortly_Before_the_Fireworks/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_114.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/339/Shortly_Before_the_Fireworks/chibi.png",
                 "info": {
@@ -55440,6 +55450,7 @@
             {
                 "name": "Eigenen Raum",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/343/Eigenen_Raum/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_115.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/343/Eigenen_Raum/chibi.png",
                 "info": {
@@ -60512,7 +60523,7 @@
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/360/Casual_Vacation/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Casual Vacation",
                     "cnClient": "海风之旅",
                     "jpClient": "カジュアルバケーション",
                     "obtainedFrom": "Skin Shop",
@@ -64823,7 +64834,7 @@
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_105.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/376/Gamer_Style/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Gamer Style",
                     "cnClient": "Gamer Style",
                     "jpClient": "ゲーマースタイル",
                     "obtainedFrom": "Skin Shop",
@@ -65593,7 +65604,7 @@
                     "cn": "恪尽职守",
                     "jp": "堅忍不抜"
                 },
-                "description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level): \n 1 CVs/CVLs - Launches Fighters. \n 2 CVs/CVLs - Launches Fighters and Dive Bombers \n 3 CVs/CVLs - Launches Dive Bombers and Torpedo Bombers",
+                "description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level): \n 1 CVs/CVLs - Launches Fighters (2 F6F). \n 2 CVs/CVLs - Launches Fighters and Dive Bombers (2 F6F & 2 SBD). \n 3 CVs/CVLs - Launches Dive Bombers and Torpedo Bombers (2 SBD & 2 TBF).",
                 "color": "pink"
             }
         ],
@@ -72998,6 +73009,7 @@
             {
                 "name": "Sunday Aquarium Visit",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/406/Sunday_Aquarium_Visit/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/406/Sunday_Aquarium_Visit/chibi.png",
                 "info": {
@@ -73883,6 +73895,7 @@
             {
                 "name": "The Glory of Naples",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/410/The_Glory_of_Naples/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/410/The_Glory_of_Naples/chibi.png",
                 "info": {
@@ -74734,6 +74747,7 @@
             {
                 "name": "Summer's Hotness?",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/414/Summers_Hotness/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/414/Summers_Hotness/chibi.png",
                 "info": {
@@ -77918,6 +77932,7 @@
             {
                 "name": "Dapper Gangstress",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/428/Dapper_Gangstress/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_128.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/428/Dapper_Gangstress/chibi.png",
                 "info": {
@@ -78816,6 +78831,7 @@
             {
                 "name": "The Bound Cruiser",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/The_Bound_Cruiser/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/433/The_Bound_Cruiser/chibi.png",
                 "info": {
@@ -79253,6 +79269,7 @@
             {
                 "name": "The Captive Cavalier",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/The_Captive_Cavalier/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/436/The_Captive_Cavalier/chibi.png",
                 "info": {
@@ -79685,6 +79702,7 @@
             {
                 "name": "The Lackadaisical Lookout",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/The_Lackadaisical_Lookout/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_130.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/441/The_Lackadaisical_Lookout/chibi.png",
                 "info": {
@@ -81898,7 +81916,7 @@
         "id": "451",
         "names": {
             "en": "Little Renown",
-            "code": "HMS Renown",
+            "code": "",
             "cn": "小声望",
             "jp": "リトル・レナウン",
             "kr": null
@@ -82050,8 +82068,11 @@
             "fromMaps": []
         },
         "misc": {
-            "artist": null,
-            "web": null,
+            "artist": "liyu黎",
+            "web": {
+                "name": "liyu黎",
+                "url": "https://www.weibo.com/p/1005055979033109/"
+            },
             "pixiv": null,
             "twitter": null,
             "voice": null
@@ -96987,12 +97008,12 @@
                 }
             },
             {
-                "name": "Long Island - Indoor Slacker",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/070/Long_Island_Indoor_Slacker/image.png",
+                "name": "Indoor Slacker",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/070/Indoor_Slacker/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/070/Long_Island_Indoor_Slacker/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/070/Indoor_Slacker/chibi.png",
                 "info": {
-                    "enClient": "Long Island - Indoor Slacker",
+                    "enClient": "Indoor Slacker",
                     "cnClient": "干物三连！",
                     "jpClient": "干物三連！",
                     "obtainedFrom": "Long Island's Secretary Task Reward",
@@ -105591,6 +105612,7 @@
             {
                 "name": "Princess of the Reindeers",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan001/Princess_of_the_Reindeers/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_125.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan001/Princess_of_the_Reindeers/chibi.png",
                 "info": {
@@ -107718,6 +107740,7 @@
             {
                 "name": "Celebration Conquest!",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan009/Celebration_Conquest/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_114.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan009/Celebration_Conquest/chibi.png",
                 "info": {
@@ -108227,6 +108250,7 @@
             {
                 "name": "Dark Raiments of Gagaku",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan011/Dark_Raiments_of_Gagaku/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_126.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan011/Dark_Raiments_of_Gagaku/chibi.png",
                 "info": {
@@ -108481,6 +108505,7 @@
             {
                 "name": "Tropical Environs Acclimation Service Equipment",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan012/Tropical_Environs_Acclimation_Service_Equipment/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan012/Tropical_Environs_Acclimation_Service_Equipment/chibi.png",
                 "info": {

@@ -1015,6 +1015,7 @@
 			{
 				"name": "Fairly Flavourful Festival",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bc/JunoFestival.png/548px-JunoFestival.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/JunoFestivalChibi.png",
 				"info": {
@@ -3362,6 +3363,7 @@
 			{
 				"name": "A Moment's Respite",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/05/SheffieldFestival.png/619px-SheffieldFestival.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/91/SheffieldFestivalChibi.png",
 				"info": {
@@ -3585,6 +3587,7 @@
 			{
 				"name": "Brilliance in Purple",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/73/GloucesterSpring.png/515px-GloucesterSpring.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/b/b4/Skin_BG_127.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/45/GloucesterSpringChibi.png",
 				"info": {
@@ -11805,6 +11808,7 @@
 			{
 				"name": "The Lady of the Beach",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/FormidableSummer.png/667px-FormidableSummer.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/16/FormidableSummerChibi.png",
 				"info": {
@@ -13484,6 +13488,7 @@
 			{
 				"name": "Covert Ops Cloak",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1a/AyanamiBluray.png/459px-AyanamiBluray.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/80/AyanamiBlurayChibi.png",
 				"info": {
@@ -13725,12 +13730,12 @@
 				}
 			},
 			{
-				"name": "Akatsuki, Goes to the Arctic",
+				"name": "Akatsuki Goes North",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a8/AkatsukiCamp.png/626px-AkatsukiCamp.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/17/AkatsukiCampChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Akatsuki Goes North",
 					"cnClient": "北极的迷途",
 					"jpClient": "暁、北極に行く",
 					"obtainedFrom": "Skin Shop",
@@ -16620,6 +16625,7 @@
 			{
 				"name": "Mooncake Merchant",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c0/ShiranuiEvent.png/563px-ShiranuiEvent.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/40/ShiranuiEventChibi.png",
 				"info": {
@@ -19565,7 +19571,7 @@
 				"firepower": "120",
 				"torpedo": "230",
 				"evasion": "100",
-				"speed": "",
+				"speed": "36",
 				"antiair": "393",
 				"aviation": "0",
 				"oilConsumption": "9",
@@ -19595,7 +19601,7 @@
 				"firepower": "",
 				"torpedo": "",
 				"evasion": "",
-				"speed": "",
+				"speed": "36",
 				"antiair": "",
 				"aviation": "",
 				"oilConsumption": "",
@@ -28188,7 +28194,7 @@
 			},
 			{
 				"name": "Hometown Zest",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/64/TosaSummer.png/542px-TosaSummer.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/64/TosaSummer.png/544px-TosaSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/ed/TosaSummerChibi.png",
 				"info": {
@@ -31439,6 +31445,7 @@
 			{
 				"name": "Ceremonial Crane",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ZuikakuFestival.png/639px-ZuikakuFestival.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a8/ZuikakuFestivalChibi.png",
 				"info": {
@@ -35661,7 +35668,7 @@
 					"cn": "袖珍战列舰",
 					"jp": "ポケット戦艦"
 				},
-				"description": "Increases damage against Destroyers and Light Cruisers by 15% (35%).",
+				"description": "Increases own damage against Destroyers and Light Cruisers by 15% (35%).",
 				"color": "pink"
 			},
 			{
@@ -36040,9 +36047,9 @@
 			},
 			{
 				"name": "Peaceful Days",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8e/Admiral_Graf_SpeeEvent2.png/281px-Admiral_Graf_SpeeEvent2.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5c/Admiral_Graf_SpeeCasual.png/281px-Admiral_Graf_SpeeCasual.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": "https://azurlane.koumakan.jp/w/images/9/97/Admiral_Graf_SpeeEvent2Chibi.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/07/Admiral_Graf_SpeeCasualChibi.png",
 				"info": {
 					"enClient": "Peaceful Days",
 					"cnClient": "平和的每一天",
@@ -39531,6 +39538,7 @@
 			{
 				"name": "Shackled Saule",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/09/AvroraPrison.png/396px-AvroraPrison.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7e/AvroraPrisonChibi.png",
 				"info": {
@@ -46237,6 +46245,7 @@
 			{
 				"name": "Among the Stalls",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/HonoluluFestival.png/591px-HonoluluFestival.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/df/HonoluluFestivalChibi.png",
 				"info": {
@@ -49416,9 +49425,9 @@
 			},
 			{
 				"name": "Lost Girl and Labyrinth Butterfly",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6c/TanikazeLost.png/516px-TanikazeLost.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f1/TanikazeSummer.png/516px-TanikazeSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-				"chibi": "https://azurlane.koumakan.jp/w/images/a/a4/TanikazeLostChibi.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/6b/TanikazeSummerChibi.png",
 				"info": {
 					"enClient": "Lost Girl and Labyrinth Butterfly",
 					"cnClient": "海边的迷路少女",
@@ -52893,12 +52902,12 @@
 				}
 			},
 			{
-				"name": "Sunlit Tulip",
+				"name": "Sunlit Tulips",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d6/SussexSummer.png/516px-SussexSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6a/SussexSummerChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Sunlit Tulips",
 					"cnClient": "艳阳与郁金香",
 					"jpClient": "太陽とチューリップ",
 					"obtainedFrom": "Skin Shop",
@@ -53760,6 +53769,7 @@
 			{
 				"name": "Shortly Before the Fireworks",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f3/I-26Festival.png/490px-I-26Festival.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0c/I-26FestivalChibi.png",
 				"info": {
@@ -55440,6 +55450,7 @@
 			{
 				"name": "Eigenen Raum",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/U-47Party.png/583px-U-47Party.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/05/U-47PartyChibi.png",
 				"info": {
@@ -60512,7 +60523,7 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/fd/MemphisCasualChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Casual Vacation",
 					"cnClient": "海风之旅",
 					"jpClient": "カジュアルバケーション",
 					"obtainedFrom": "Skin Shop",
@@ -64823,7 +64834,7 @@
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b3/ChaserCasualChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Gamer Style",
 					"cnClient": "Gamer Style",
 					"jpClient": "ゲーマースタイル",
 					"obtainedFrom": "Skin Shop",
@@ -65593,7 +65604,7 @@
 					"cn": "恪尽职守",
 					"jp": "堅忍不抜"
 				},
-				"description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level): \n 1 CVs/CVLs - Launches Fighters. \n 2 CVs/CVLs - Launches Fighters and Dive Bombers \n 3 CVs/CVLs - Launches Dive Bombers and Torpedo Bombers",
+				"description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level): \n 1 CVs/CVLs - Launches Fighters (2 F6F). \n 2 CVs/CVLs - Launches Fighters and Dive Bombers (2 F6F & 2 SBD). \n 3 CVs/CVLs - Launches Dive Bombers and Torpedo Bombers (2 SBD & 2 TBF).",
 				"color": "pink"
 			}
 		],
@@ -72997,7 +73008,8 @@
 			},
 			{
 				"name": "Sunday Aquarium Visit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/ee/AylwinCasual.png/413px-AylwinCasual.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d0/AylwinCasualWithoutBG.png/413px-AylwinCasualWithoutBG.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/AylwinCasualChibi.png",
 				"info": {
@@ -73883,6 +73895,7 @@
 			{
 				"name": "The Glory of Naples",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/39/LittorioSummer.png/630px-LittorioSummer.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7d/LittorioSummerChibi.png",
 				"info": {
@@ -74734,6 +74747,7 @@
 			{
 				"name": "Summer's Hotness?",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/TrentoSummer.png/715px-TrentoSummer.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/TrentoSummerChibi.png",
 				"info": {
@@ -77918,6 +77932,7 @@
 			{
 				"name": "Dapper Gangstress",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5f/BiloxiSpring.png/553px-BiloxiSpring.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c6/BiloxiSpringChibi.png",
 				"info": {
@@ -78816,6 +78831,7 @@
 			{
 				"name": "The Bound Cruiser",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/66/TashkentPrison.png/710px-TashkentPrison.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0d/TashkentPrisonChibi.png",
 				"info": {
@@ -79253,6 +79269,7 @@
 			{
 				"name": "The Captive Cavalier",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/58/ChapayevPrison.png/456px-ChapayevPrison.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/92/ChapayevPrisonChibi.png",
 				"info": {
@@ -79685,6 +79702,7 @@
 			{
 				"name": "The Lackadaisical Lookout",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/97/Sovetskaya_RossiyaPrison.png/505px-Sovetskaya_RossiyaPrison.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/59/Sovetskaya_RossiyaPrisonChibi.png",
 				"info": {
@@ -81898,7 +81916,7 @@
 		"id": "451",
 		"names": {
 			"en": "Little Renown",
-			"code": "HMS Renown",
+			"code": "",
 			"cn": "小声望",
 			"jp": "リトル・レナウン",
 			"kr": null
@@ -82050,8 +82068,11 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"web": null,
+			"artist": "liyu黎",
+			"web": {
+				"name": "liyu黎",
+				"url": "https://www.weibo.com/p/1005055979033109/"
+			},
 			"pixiv": null,
 			"twitter": null,
 			"voice": null
@@ -96987,12 +97008,12 @@
 				}
 			},
 			{
-				"name": "Long Island - Indoor Slacker",
+				"name": "Indoor Slacker",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Long_IslandBilibili.png/482px-Long_IslandBilibili.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a5/Long_IslandBilibiliChibi.png",
 				"info": {
-					"enClient": "Long Island - Indoor Slacker",
+					"enClient": "Indoor Slacker",
 					"cnClient": "干物三连！",
 					"jpClient": "干物三連！",
 					"obtainedFrom": "Long Island's Secretary Task Reward",
@@ -105591,6 +105612,7 @@
 			{
 				"name": "Princess of the Reindeers",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/25/HMS_NeptuneChristmas.png/556px-HMS_NeptuneChristmas.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d2/HMS_NeptuneChristmasChibi.png",
 				"info": {
@@ -107718,6 +107740,7 @@
 			{
 				"name": "Celebration Conquest!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f8/KitakazeFestival.png/533px-KitakazeFestival.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bf/KitakazeFestivalChibi.png",
 				"info": {
@@ -108227,6 +108250,7 @@
 			{
 				"name": "Dark Raiments of Gagaku",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9b/Friedrich_der_GrosseNew_Year.png/705px-Friedrich_der_GrosseNew_Year.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/31/Friedrich_der_GrosseNew_YearChibi.png",
 				"info": {
@@ -108481,6 +108505,7 @@
 			{
 				"name": "Tropical Environs Acclimation Service Equipment",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/GascogneSummer.png/516px-GascogneSummer.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/GascogneSummerChibi.png",
 				"info": {
@@ -112675,7 +112700,7 @@
 			},
 			{
 				"name": "Beachside Fox",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/00/Shirakami_FubukiSummer.png/573px-Shirakami_FubukiSummer.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/00/Shirakami_FubukiSummer.png/555px-Shirakami_FubukiSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/26/Shirakami_FubukiSummerChibi.png",
 				"info": {
@@ -112886,7 +112911,7 @@
 				"name": "Under the Clear Sky",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/39/Tokino_SoraSummer.png/516px-Tokino_SoraSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
-				"chibi": null,
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/6f/Tokino_SoraSummerChibi.png",
 				"info": {
 					"enClient": "Under the Clear Sky",
 					"cnClient": "晴空之夏",
