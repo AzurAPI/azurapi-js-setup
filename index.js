@@ -49,6 +49,8 @@ module.exports = {
 function removeShip(name) {
     for (let key in SHIPS_INTERNAL)
         if (SHIPS_INTERNAL[key].names.en === name) delete SHIPS_INTERNAL[key];
+    fs.unlinkSync("./web/ships/" + name + ".html");
+    fs.unlinkSync("./web/ships.gallery/" + name + ".html");
     fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
 }
 
@@ -105,7 +107,8 @@ async function refreshShipImages() {
             if (skin.image) await fetchImage(skin.image, image_path);
             if (skin.imageCN) await fetchImage(skin.imageCN, image_path_cn);
             process.stdout.write(".");
-            if (skin.chibi !== null) await fetchImage(skin.chibi, chibi_path);
+            if (skin.chibi) await fetchImage(skin.chibi, chibi_path);
+            else if (skin.name !== "Original Art" && !ship.unreleased) console.log("\n" + ship.names.en + " is missing a chibi for " + skin.name + "\n")
             process.stdout.write("|");
             if (skin.background !== null) await fetchImage(skin.background, "./images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1));
         }

@@ -78844,7 +78844,20 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Tashkent, Gangut, Sovetskaya Rossiya, Kirov, Chapayev",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.02_27_1_login.png"
+            },
+            {
+                "description": "Pamiat Merkuria, Grozny, Gangut, Sovetskaya Rossiya, Chapayev, Tashkent, Minsk",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.02.27_3.png"
+            },
+            {
+                "description": "Tashkent, Sovetskaya Rossiya, Chapayev, Gangut, Kirov",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.02.27_4.png"
+            }
+        ]
     },
     "434": {
         "wikiUrl": "https://azurlane.koumakan.jp/Pamiat_Merkuria",
