@@ -49,9 +49,9 @@ module.exports = {
 function removeShip(name) {
     for (let key in SHIPS_INTERNAL)
         if (SHIPS_INTERNAL[key].names.en === name) delete SHIPS_INTERNAL[key];
+    fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
     fs.unlinkSync("./web/ships/" + name + ".html");
     fs.unlinkSync("./web/ships.gallery/" + name + ".html");
-    fs.writeFileSync('./ships.internal.json', JSON.stringify(SHIPS_INTERNAL, null, '\t'));
 }
 
 function removeShips(tester) {
@@ -982,6 +982,7 @@ function fetchImage(url, localPath) {
                 }
             });
         } else {
+            console.log("URL: " + url);
             IMAGE_PROGRESS.inProgress = localPath;
             fs.writeFileSync('./image-progress.json', JSON.stringify(IMAGE_PROGRESS));
             request(url).pipe(fs.createWriteStream(localPath)).on('close', () => {
@@ -998,7 +999,7 @@ async function verifyFile(url, localPath) {
     if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
     else {
         PATH_SIZE[url] = correctSize = parseInt((await head(url)).res.headers['content-length']);
-        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE));
+        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
     }
     if (fs.statSync(localPath)["size"] === correctSize) return true;
     else {

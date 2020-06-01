@@ -577,7 +577,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Javelin\" or \"Universal Bullin\""
+                    "1x \"Javelin\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -724,10 +724,10 @@
                 }
             },
             {
-                "name": "22娘",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/101/22/image.png",
+                "name": "Bili Girl 22",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/101/Bili_Girl_22/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/101/22/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/101/Bili_Girl_22/chibi.png",
                 "info": {
                     "enClient": "skin unavailable",
                     "cnClient": "22娘",
@@ -1690,7 +1690,7 @@
                 "materials": [
                     "6x \"CruiserT2BP\"",
                     "1x \"Le",
-                    "er\" or \"Universal Bullin\""
+                    "er\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -2179,7 +2179,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Achilles\" or \"Universal Bullin\""
+                    "1x \"Achilles\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -2634,7 +2634,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Ajax\" or \"Universal Bullin\""
+                    "1x \"Ajax\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -2723,7 +2723,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Many Royal Navy ships in 1 big party",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_1.png"
+            },
+            {
+                "description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_EN_1st_anni.png"
+            }
+        ]
     },
     "107": {
         "wikiUrl": "https://azurlane.koumakan.jp/Dido",
@@ -2837,7 +2846,7 @@
                     "cn": "For The Queen",
                     "jp": "陛下のために"
                 },
-                "description": "Increase this ship's FP, AA and RLD by 1.5% (6.0%) for every Royal Navy ship in your fleet at the start of the battle (Can be stacked up to 4 time). When sortied with Queen Elizabeth: increase Queen Elizabeth's FP, RLD, EVA and Accuracy by 2.5% (7.0%) and Main Gun Crit Rate by 5% (20.0%).",
+                "description": "Increase this ship's FP, AA and RLD by 1.5% (6.0%) for every Royal Navy ship in your fleet at the start of the battle (Can be stacked up to 4 times.) When sortied with Queen Elizabeth: increase Queen Elizabeth's FP, RLD, EVA and Accuracy by 2.5% (7.0%) and Main Gun Crit Rate by 5% (20.0%).",
                 "color": "gold"
             },
             {
@@ -2931,6 +2940,20 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/107/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Anxious Bisque Doll",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/107/Anxious_Bisque_Doll/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/107/Anxious_Bisque_Doll/chibi.png",
+                "info": {
+                    "enClient": "Anxious Bisque Doll",
+                    "cnClient": "多愁的BIsqueDoll",
+                    "jpClient": "多感なるBIsqueDoll",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -4029,10 +4052,11 @@
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
-                "exchange": false
+                "exchange": true
             }
         },
         "obtainedFrom": {
+            "obtainedFrom": "Available in Medal Exchange for \"Medal\" 80.",
             "fromMaps": []
         },
         "misc": {
@@ -5241,7 +5265,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"London\" or \"Universal Bullin\""
+                    "1x \"London\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -6139,7 +6163,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Suffolk\" or \"Universal Bullin\""
+                    "1x \"Suffolk\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -7027,7 +7051,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"York\" or \"Universal Bullin\""
+                    "1x \"York\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -7535,7 +7559,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"Exeter\" or \"Universal Bullin\""
+                    "1x \"Exeter\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -8658,7 +8682,7 @@
                 ],
                 "materials": [
                     "2x \"BattleshipT2BP\"",
-                    "1x \"Warspite\" or \"Trial Bullin MKII\""
+                    "1x \"Warspite\" or \"Prototype Bulin MKII\""
                 ],
                 "coins": 600,
                 "level": 1,
@@ -8842,7 +8866,7 @@
                 ],
                 "materials": [
                     "1x \"Warspite Sword\"",
-                    "1x \"Warspite\" or \"Trial Bullin MKII\""
+                    "1x \"Warspite\" or \"Prototype Bulin MKII\""
                 ],
                 "coins": 7500,
                 "level": 85,
@@ -8861,7 +8885,7 @@
                 ],
                 "materials": [
                     "5x \"BattleshipT3BP\"",
-                    "1x \"Warspite\" or \"Trial Bullin MKII\""
+                    "1x \"Warspite\" or \"Prototype Bulin MKII\""
                 ],
                 "coins": 5000,
                 "level": 90,
@@ -9357,10 +9381,10 @@
                 }
             },
             {
-                "name": "一日见习店员",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/133//image.png",
+                "name": "One Day as a Trainee Clerk",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/133/One_Day_as_a_Trainee_Clerk/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/133//chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/133/One_Day_as_a_Trainee_Clerk/chibi.png",
                 "info": {
                     "enClient": "skin unavailable",
                     "cnClient": "一日见习店员",
@@ -10419,7 +10443,7 @@
                 ],
                 "materials": [
                     "6x \"CarrierT2BP\"",
-                    "1x \"Hermes\" or \"Universal Bullin\""
+                    "1x \"Hermes\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -13172,7 +13196,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Ayanami\" or \"Universal Bullin\""
+                    "1x \"Ayanami\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -14977,10 +15001,10 @@
                 }
             },
             {
-                "name": "肉包杀手",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/164//image.png",
+                "name": "Meat Bun Hunter",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/164/Meat_Bun_Hunter/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/164//chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/164/Meat_Bun_Hunter/chibi.png",
                 "info": {
                     "enClient": "skin unavailable",
                     "cnClient": "肉包杀手",
@@ -15385,7 +15409,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Shigure\" or \"Universal Bullin\""
+                    "1x \"Shigure\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -16162,7 +16186,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Kagerou\" or \"Universal Bullin\""
+                    "1x \"Kagerou\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -16627,7 +16651,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Shiranui\" or \"Universal Bullin\""
+                    "1x \"Shiranui\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -17310,7 +17334,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Hatsuharu\" or \"Universal Bullin\""
+                    "1x \"Hatsuharu\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -18385,7 +18409,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Yuugure\" or \"Universal Bullin\""
+                    "1x \"Yuugure\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -19315,7 +19339,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Yuubari\" or \"Universal Bullin\""
+                    "1x \"Yuubari\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -20002,7 +20026,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Isuzu\" or \"Universal Bullin\""
+                    "1x \"Isuzu\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -20481,7 +20505,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"Kinu\" or \"Universal Bullin\""
+                    "1x \"Kinu\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -20964,7 +20988,7 @@
                 ],
                 "materials": [
                     "6x \"CruiserT2BP\"",
-                    "1x \"Abukuma\" or \"Universal Bullin\""
+                    "1x \"Abukuma\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -21430,7 +21454,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"Mogami\" or \"Universal Bullin\""
+                    "1x \"Mogami\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -22132,7 +22156,7 @@
                 ],
                 "materials": [
                     "6x \"CruiserT2BP\"",
-                    "1x \"Furutaka\" or \"Universal Bullin\""
+                    "1x \"Furutaka\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -22589,7 +22613,7 @@
                 ],
                 "materials": [
                     "6x \"CruiserT2BP\"",
-                    "1x \"Kako\" or \"Universal Bullin\""
+                    "1x \"Kako\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -28171,7 +28195,7 @@
                     "cn": "敌无不击",
                     "jp": "凌げば討つ！"
                 },
-                "description": "1) When: a) this ship is afloat, b) the fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd, 4th, or 5th battle: launches a special barrage 20s after the other fleet's battle begins. 2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special Lv.1 (Lv.10) barrage. Has a cooldown of 15s between activations.",
+                "description": "1) When: a) this ship is afloat, b) the fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd, 4th, or 5th battle: launches a special barrage 20s after the other fleet's battle begins.2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special Lv.1 (Lv.10) barrage. Has a cooldown of 15s between activations.",
                 "color": "gold"
             }
         ],
@@ -28245,7 +28269,10 @@
                 "name": "liduke(日子)",
                 "url": "https://twitter.com/lidukelaya"
             },
-            "voice": null
+            "voice": {
+                "name": "Miyuki Sawashiro",
+                "url": "https://en.wikipedia.org/wiki/Miyuki_Sawashiro"
+            }
         },
         "skins": [
             {
@@ -28273,7 +28300,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Kaga (Battleship), Amagi, Tosa",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.23_1.png"
+            },
+            {
+                "description": "Amagi, Tosa, Kaga (Battleship)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.23_2.png"
+            }
+        ]
     },
     "218": {
         "wikiUrl": "https://azurlane.koumakan.jp/Hiyou",
@@ -29244,7 +29280,7 @@
                 ],
                 "materials": [
                     "1x \"CarrierT3BP\"",
-                    "1x \"Shouhou\" or \"Universal Bullin\""
+                    "1x \"Shouhou\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 85,
@@ -30453,7 +30489,7 @@
                 ],
                 "materials": [
                     "3x \"CarrierT3BP\"",
-                    "1x \"Souryuu\" or \"Universal Bullin\""
+                    "1x \"Souryuu\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -30728,7 +30764,7 @@
                     "cn": "花之牌",
                     "jp": "式機花札"
                 },
-                "description": "10 seconds after the start of a battle and every 20 seconds after that: launch special torpedo bomber attack (number of planes launched are random). Each torpedo bomber carry 2x Sakura Empire torpedo that each do 91 (172) damage.\n7% chance of launching 5 planes. (Five Brights)\n12% chance of launching 3 planes. (Lesser Blue)\n51% chance of launching 2 planes. (Flower Sake)\n30% chance of launching 1 planes. (Scraps)",
+                "description": "10 seconds after the start of a battle and every 20 seconds after that: launch special torpedo bomber attack (number of planes launched are random). Each torpedo bomber carry 2 torpedoes that each do 91 (172) damage.\n7% chance of launching 5 planes. (Five Brights)\n12% chance of launching 3 planes. (Lesser Blue)\n51% chance of launching 2 planes. (Flower Sake)\n30% chance of launching 1 planes. (Scraps)",
                 "color": "pink"
             }
         ],
@@ -30963,7 +30999,7 @@
                 ],
                 "materials": [
                     "3x \"CarrierT3BP\"",
-                    "1x \"Hiryuu\" or \"Universal Bullin\""
+                    "1x \"Hiryuu\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -32052,12 +32088,20 @@
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_queen_elizabeth_1.png"
             },
             {
+                "description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_EN_1st_anni.png"
+            },
+            {
                 "description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.19_2.png"
             },
             {
                 "description": "Akashi, Shiranui",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.26_2.png"
+            },
+            {
+                "description": "Akashi, Bache, San Diego, Cleveland, Laffey",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.03.31_1.png"
             }
         ]
     },
@@ -32450,7 +32494,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Z1\" or \"Universal Bullin\""
+                    "1x \"Z1\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -32943,7 +32987,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Z23\" or \"Universal Bullin\""
+                    "1x \"Z23\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -34169,7 +34213,7 @@
                 ],
                 "materials": [
                     "6x \"CruiserT2BP\"",
-                    "1x \"Karlsruhe\" or \"Universal Bullin\""
+                    "1x \"Karlsruhe\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -34620,7 +34664,7 @@
                 ],
                 "materials": [
                     "6x \"CruiserT2BP\"",
-                    "1x \"Köln\" or \"Universal Bullin\""
+                    "1x \"Köln\" or \"Universal Bulin\""
                 ],
                 "coins": 1600,
                 "level": 80,
@@ -35115,7 +35159,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Leipzig\" or \"Universal Bullin\""
+                    "1x \"Leipzig\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -38906,7 +38950,7 @@
                 ],
                 "materials": [
                     "4x \"CruiserT3BP\"",
-                    "1x \"Ning Hai\" or \"Universal Bullin\""
+                    "1x \"Ning Hai\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -39042,6 +39086,20 @@
                     "jpClient": "新年旅行in重桜",
                     "obtainedFrom": "Skin Shop",
                     "cost": "780",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Gorgeous Violet",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Gorgeous_Violet/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Gorgeous_Violet/chibi.png",
+                "info": {
+                    "enClient": "Gorgeous Violet",
+                    "cnClient": "姹紫盛筵",
+                    "jpClient": "ゴージャス・ヴァイオレット",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
                     "live2dModel": false
                 }
             }
@@ -39438,7 +39496,7 @@
                 ],
                 "materials": [
                     "4x \"CruiserT3BP\"",
-                    "1x \"Ping Hai\" or \"Universal Bullin\""
+                    "1x \"Ping Hai\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -39575,6 +39633,20 @@
                     "obtainedFrom": "Skin Shop",
                     "cost": "780",
                     "live2dModel": false
+                }
+            },
+            {
+                "name": "Delicious Crimson",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Delicious_Crimson/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Delicious_Crimson/chibi.png",
+                "info": {
+                    "enClient": "Delicious Crimson",
+                    "cnClient": "甜蜜嫣红",
+                    "jpClient": "デリシャス・クリムゾン",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "1100",
+                    "live2dModel": true
                 }
             }
         ],
@@ -40200,7 +40272,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Bailey\" or \"Universal Bullin\""
+                    "1x \"Bailey\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -41528,7 +41600,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Kamikaze\" or \"Universal Bullin\""
+                    "1x \"Kamikaze\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -41973,7 +42045,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Matsukaze\" or \"Universal Bullin\""
+                    "1x \"Matsukaze\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -42420,7 +42492,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Mutsuki\" or \"Universal Bullin\""
+                    "1x \"Mutsuki\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -42917,7 +42989,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Kisaragi\" or \"Universal Bullin\""
+                    "1x \"Kisaragi\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -45964,7 +46036,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Nicholas\" or \"Universal Bullin\""
+                    "1x \"Nicholas\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -46795,6 +46867,20 @@
                     "cost": "1080",
                     "live2dModel": true
                 }
+            },
+            {
+                "name": "Luxurious Wheels",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/305/Luxurious_Wheels/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_137.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/305/Luxurious_Wheels/chibi.png",
+                "info": {
+                    "enClient": "Luxurious Wheels",
+                    "cnClient": "Luxury Handle",
+                    "jpClient": "Luxury Handle",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "1080",
+                    "live2dModel": true
+                }
             }
         ],
         "gallery": [
@@ -47617,7 +47703,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Sendai\" or \"Universal Bullin\""
+                    "1x \"Sendai\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -48065,7 +48151,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"Jintsuu\" or \"Universal Bullin\""
+                    "1x \"Jintsuu\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -49195,7 +49281,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Hamakaze\" or \"Universal Bullin\""
+                    "1x \"Hamakaze\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 85,
@@ -49655,7 +49741,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Tanikaze\" or \"Universal Bullin\""
+                    "1x \"Tanikaze\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 85,
@@ -50203,6 +50289,20 @@
                     "jpClient": "デートゲーム？",
                     "obtainedFrom": "Skin Shop",
                     "cost": "780",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Blue Butterfly's Confession",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/321/Blue_Butterflys_Confession/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/321/Blue_Butterflys_Confession/chibi.png",
+                "info": {
+                    "enClient": "Blue Butterfly's Confession",
+                    "cnClient": "告白的蓝闪蝶",
+                    "jpClient": "蒼き告白モルフォ",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
                     "live2dModel": false
                 }
             }
@@ -50968,7 +51068,7 @@
                     "cn": "克里特岛战役",
                     "jp": "クレタの黒雲"
                 },
-                "description": "Every 20 seconds, increase own Anti-Air by 20% (60%) and decreases damage taken by all ships in the fleet by 3.5% (8%) for 6 seconds.",
+                "description": "Every 20 seconds, increase own Anti-Air by 20% (40%) and decreases damage taken by all ships in the fleet by 3.5% (8%) for 6 seconds.",
                 "color": "deepskyblue"
             },
             {
@@ -52737,8 +52837,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -52748,7 +52856,7 @@
             }
         },
         "construction": {
-            "constructionTime": "Cannot Be Constructed",
+            "constructionTime": "01:20:00",
             "availableIn": {
                 "light": "CN/JP only",
                 "heavy": false,
@@ -53212,6 +53320,20 @@
                     "jpClient": "太陽とチューリップ",
                     "obtainedFrom": "Skin Shop",
                     "cost": "780",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Wine and Red Roses",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/337/Wine_and_Red_Roses/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/337/Wine_and_Red_Roses/chibi.png",
+                "info": {
+                    "enClient": "Wine and Red Roses",
+                    "cnClient": "葡萄酒与红玫瑰",
+                    "jpClient": "ワインと赤薔薇",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
                     "live2dModel": false
                 }
             }
@@ -56824,7 +56946,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Le Malin, Le Triomphant",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_Triomphant_2.png"
+            },
+            {
+                "description": "Le Triomphant",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_Triomphant_1.png"
+            }
+        ]
     },
     "348": {
         "wikiUrl": "https://azurlane.koumakan.jp/Forbin",
@@ -57204,7 +57335,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Forbin\" or \"Universal Bullin\""
+                    "1x \"Forbin\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -57296,16 +57427,30 @@
                     "cost": "780",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "Feast of Champagne",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/348/Feast_of_Champagne/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/348/Feast_of_Champagne/chibi.png",
+                "info": {
+                    "enClient": "Feast of Champagne",
+                    "cnClient": "香槟盛宴",
+                    "jpClient": "フェット・シャンパーニュ",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
+                    "live2dModel": false
+                }
             }
         ],
         "gallery": []
     },
     "349": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Emile_Bertin",
+        "wikiUrl": "https://azurlane.koumakan.jp/Émile_Bertin",
         "id": "349",
         "names": {
-            "en": "Emile Bertin",
-            "code": "FFNF Emile Bertin",
+            "en": "Émile Bertin",
+            "code": "FFNF Émile Bertin",
             "cn": "埃米尔·贝尔汀",
             "jp": "エミール・ベルタン",
             "kr": "에밀 베르탱"
@@ -57690,7 +57835,7 @@
                 ],
                 "materials": [
                     "3x \"CruiserT3BP\"",
-                    "1x \"Emile Bertin\" or \"Universal Bullin\""
+                    "1x \"Émile Bertin\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -57768,7 +57913,7 @@
             {
                 "name": "Retrofit",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/349/Retrofit/image.png",
-                "imageCN": "https://azurlane.koumakan.jp/w/images/thumb/1/17/Emile_BertinKaiCN.png/622px-Emile_BertinKaiCN.png",
+                "imageCN": "https://azurlane.koumakan.jp/w/images/thumb/4/4c/%C3%89mile_BertinKaiCN.png/622px-%C3%89mile_BertinKaiCN.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/349/Retrofit/chibi.png",
                 "info": {
@@ -58619,7 +58764,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Le Mars\" or \"Universal Bullin\""
+                    "1x \"Le Mars\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -58932,7 +59077,24 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Dunkerque with Washington, Ping Hai and Ning Hai",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_washington_1.png"
+            },
+            {
+                "description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque and Gascogne during Halloween",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_2.png"
+            },
+            {
+                "description": "Enterprise, Hood, Dunkerque",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.19_3.png"
+            },
+            {
+                "description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.21_1.png"
+            }
+        ]
     },
     "353": {
         "wikiUrl": "https://azurlane.koumakan.jp/Jean_Bart",
@@ -59165,7 +59327,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "2nd anniversary loading screen featuring Belfast, Shoukaku, Seattle and Jean Bart",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2nd_anni_1.png"
+            },
+            {
+                "description": "Jean Bart",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_Jean_1.png"
+            }
+        ]
     },
     "354": {
         "wikiUrl": "https://azurlane.koumakan.jp/Massachusetts",
@@ -59366,6 +59537,20 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/354/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Dressed to Impress",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/354/Dressed_to_Impress/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/354/Dressed_to_Impress/chibi.png",
+                "info": {
+                    "enClient": "Dressed to Impress",
+                    "cnClient": "盛宴的准备",
+                    "jpClient": "ドレッシービューティー",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -60456,16 +60641,31 @@
                     "obtainedFrom": "Default",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "Beneath the Black Dress",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/358/Beneath_the_Black_Dress/image.png",
+                "imageCN": null,
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/358/Beneath_the_Black_Dress/chibi.png",
+                "info": {
+                    "enClient": "Beneath the Black Dress",
+                    "cnClient": "黑裙下的「秘密」",
+                    "jpClient": "ミッション・アカンプリス",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
+                    "live2dModel": false
+                }
             }
         ],
         "gallery": []
     },
     "359": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Le_Temeraire",
+        "wikiUrl": "https://azurlane.koumakan.jp/Le_Téméraire",
         "id": "359",
         "names": {
-            "en": "Le Temeraire",
-            "code": "FFNF Le Temeraire",
+            "en": "Le Téméraire",
+            "code": "FFNF Le Téméraire",
             "cn": "鲁莽",
             "jp": "ル・テメレール",
             "kr": "르 테메레르"
@@ -61317,7 +61517,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Newcastle\" or \"Universal Bullin\""
+                    "1x \"Newcastle\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -62716,7 +62916,40 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Amagi and Kaga in a loading screen",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_kaga_2.png"
+            },
+            {
+                "description": "Amagi at an arcade with Amazon, Z46, North Carolina, and i-13",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_arcade.png"
+            },
+            {
+                "description": "Amagi and Kaga during Valentines",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_valentines_1.png"
+            },
+            {
+                "description": "Amagi, Akagi, Kaga, Jintsuu, Naka, and Sendai in a chocolate store",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_valentines_4.png"
+            },
+            {
+                "description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque and Gascogne during Halloween",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_2.png"
+            },
+            {
+                "description": "Akagi, Kaga, Amagi with Akagi-chan trick-or-treating",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_3.png"
+            },
+            {
+                "description": "Kaga (Battleship), Amagi, Tosa",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.23_1.png"
+            },
+            {
+                "description": "Amagi, Tosa, Kaga (Battleship)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.23_2.png"
+            }
+        ]
     },
     "368": {
         "wikiUrl": "https://azurlane.koumakan.jp/Kaga_(Battleship)",
@@ -62921,7 +63154,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Kaga (Battleship), Amagi, Tosa",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.23_1.png"
+            },
+            {
+                "description": "Amagi, Tosa, Kaga (Battleship)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.23_2.png"
+            }
+        ]
     },
     "369": {
         "wikiUrl": "https://azurlane.koumakan.jp/Hatakaze",
@@ -63998,7 +64240,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Curacoa\" or \"Universal Bullin\""
+                    "1x \"Curacoa\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -64469,7 +64711,7 @@
                 ],
                 "materials": [
                     "1x \"CruiserT3BP\"",
-                    "1x \"Curlew\" or \"Universal Bullin\""
+                    "1x \"Curlew\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -66830,8 +67072,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -67020,8 +67270,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -67215,8 +67473,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -69079,8 +69345,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -69626,7 +69900,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Le Malin, Le Triomphant",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_Triomphant_2.png"
+            }
+        ]
     },
     "395": {
         "wikiUrl": "https://azurlane.koumakan.jp/L'Opiniâtre",
@@ -72598,6 +72877,19 @@
                     "cost": "880",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "Colorful Ceremony",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/402/Colorful_Ceremony/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/402/Colorful_Ceremony/chibi.png",
+                "info": {
+                    "enClient": "Colorful Ceremony",
+                    "cnClient": "五彩斑斓的宴会",
+                    "jpClient": "カラフルセレモニー！",
+                    "obtainedFrom": "Colorful Ceremony - Day 7 reward",
+                    "live2dModel": false
+                }
             }
         ],
         "gallery": []
@@ -73670,7 +73962,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Akashi, Bache, San Diego, Cleveland, Laffey",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.03.31_1.png"
+            }
+        ]
     },
     "408": {
         "wikiUrl": "https://azurlane.koumakan.jp/Black_Prince",
@@ -74326,6 +74623,20 @@
                     "enClient": "The Glory of Naples",
                     "cnClient": "那不勒斯之光",
                     "jpClient": "ナポリに輝け",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "880",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Calabria Aurea",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/410/Calabria_Aurea/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_136.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/410/Calabria_Aurea/chibi.png",
+                "info": {
+                    "enClient": "Calabria Aurea",
+                    "cnClient": "Calabria Aurea",
+                    "jpClient": "カラブリア・アウレア",
                     "obtainedFrom": "Skin Shop",
                     "cost": "880",
                     "live2dModel": false
@@ -76056,7 +76367,7 @@
         "wikiUrl": "https://azurlane.koumakan.jp/Gascogne_(Muse)",
         "id": "418",
         "names": {
-            "en": "Gascogne (Muse)",
+            "en": "Gascogne µ",
             "code": "",
             "cn": "加斯科涅(μ兵装)",
             "jp": "ガスコーニュ（μ兵装）",
@@ -76154,7 +76465,7 @@
                     "cn": "Cœur Battant",
                     "jp": "Cœur Battant 「μ」"
                 },
-                "description": "Main Gun can be fired twice per reload, and each salvo can be fired independently. Main Gun ammo is changed to Musical Note ammo, alternating between red and blue notes. Red notes are HE shells with 140%/110%/90% (140%/115%/115%) modifier against Light/Medium/Heavy armor. Blue notes are AP shells with 45%/130%/110% (100%/130%/130%) modifier against Light/Medium/Heavy armor. Also, once per battle: reduces Reload time for the first Main Gun volley by 5% (25%).",
+                "description": "Main Gun can be fired twice per reload, and each salvo can be fired independently. Main Gun ammo is changed to µ ammo, alternating between Red and Blue. Red are HE shells with 140%/110%/90% (140%/115%/115%) modifier. Blue are AP shells with 45%/130%/110% (100%/130%/130%) modifier. Also, once per battle: reduces Reload time for the first Main Gun volley by 5% (25%).",
                 "color": "pink"
             },
             {
@@ -76237,13 +76548,22 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ]
     },
     "419": {
         "wikiUrl": "https://azurlane.koumakan.jp/Akagi_(Muse)",
         "id": "419",
         "names": {
-            "en": "Akagi (Muse)",
+            "en": "Akagi µ",
             "code": "",
             "cn": "凰(μ兵装)",
             "jp": "赤城（μ兵装）",
@@ -76341,7 +76661,7 @@
                     "cn": "Dualism",
                     "jp": "連携機デュアリズムμ"
                 },
-                "description": "If the number of Muse ships in the fleet is odd, 10 seconds after launching an airstrike: launches extra dive bombers. If the number of Muse ships in the fleet is even, 10 seconds after launching an airstrike: launches extra torpedo bombers.",
+                "description": "At the start of the battle, if there are an odd number of µ ships in your fleet: launches a Lv.1 (Lv.10) Dive Bomber airstrike 10s after this ship launches its first Airstrike. If the number of µ ships is even: launches a Lv.1 (Lv.10) Torpedo Bomber airstrike 10s after this ship launches its first Airstrike.",
                 "color": "pink"
             },
             {
@@ -76351,7 +76671,7 @@
                     "cn": "Overture",
                     "jp": "クリムゾン・オーバーチュア"
                 },
-                "description": "Once per battle, reduces Reload time of own first airstrike by 20% (40%). Also, increases own Aviation stat by 1% (10%) per Muse ship in the fleet other than self (effect can stack up to 4 times).",
+                "description": "Decreases the loading time of this ship's first Airstrike by 20.0% (40.0%). Increases this ship's AVI by 1.0% (10.0%) for each additional µ ship in the same fleet as this ship (can be stacked up to 4 times.)",
                 "color": "gold"
             }
         ],
@@ -76426,13 +76746,22 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ]
     },
     "420": {
         "wikiUrl": "https://azurlane.koumakan.jp/Cleveland_(Muse)",
         "id": "420",
         "names": {
-            "en": "Cleveland (Muse)",
+            "en": "Cleveland µ",
             "code": "",
             "cn": "克利夫兰(μ兵装)",
             "jp": "クリーブランド（μ兵装）",
@@ -76530,7 +76859,7 @@
                     "cn": "追随的Spiritual",
                     "jp": "誘導弾スピリチュアルμ"
                 },
-                "description": "Every 15 seconds: changes Main Gun ammo type to purple Musical Note for 8 seconds. These are Normal shells with 110%/110%/90% (120%/120%/100%) modifier against Light/Medium/Heavy armor. They travel at half the speed of a standard Normal shell, but can home in on targets within a range of 25 units.",
+                "description": "Every 15s: changes this ship's Main Gun ammo type to µ Purple for 8s. These are Normal shells with 110%/110%/90% (120%/120%/100%) modifier. They travel at half the speed of a standard Normal shell, but can home in on targets within a range of 25 units.",
                 "color": "pink"
             },
             {
@@ -76540,7 +76869,7 @@
                     "cn": "降星的Passion",
                     "jp": "パッション・テンポ"
                 },
-                "description": "When enemy aircraft are shot down within own AA range: increases own Anti-Air stat by 3.5% (8%) per shot down aircraft for 8 seconds (effect can stack up to 4 times).",
+                "description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's AA by 3.5% (8.0%) for 8s (can be stacked up to 4 times).",
                 "color": "deepskyblue"
             },
             {
@@ -76624,13 +76953,22 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ]
     },
     "421": {
         "wikiUrl": "https://azurlane.koumakan.jp/Sheffield_(Muse)",
         "id": "421",
         "names": {
-            "en": "Sheffield (Muse)",
+            "en": "Sheffield µ",
             "code": "",
             "cn": "谢菲尔德(μ兵装)",
             "jp": "シェフィールド（μ兵装）",
@@ -76728,7 +77066,7 @@
                     "cn": "精准直击Arrow",
                     "jp": "貫通弾アローμ"
                 },
-                "description": "After firing Main Gun 3 times, changes Main Gun ammo type to blue Musical Note for the next Main Gun shot. These are AP shells with a 110%/110%/80% (120%/120%/90%) modifier against Light/Medium/Heavy armor.",
+                "description": "Once every third time this ship fires its Main Guns: the next shot fired will use µ Blue ammo. These are AP shells with a 110%/110%/80% (120%/120%/90%) modifier.",
                 "color": "pink"
             },
             {
@@ -76738,7 +77076,7 @@
                     "cn": "闪耀共舞",
                     "jp": "シャンニング・ステップ"
                 },
-                "description": "If placed in the backmost position of the Escort Fleet (there must be at least 2 Escort ships alive): upon taking damage, all ships in the Escort fleet have 9% (24%) chance to take 12% (32%) less damage.",
+                "description": "At the start of the battle, if this ship is in the backmost position of your Vanguard and there are at least 2 ships in your Vanguard: 12.0% (32.0%) chance to decrease any instance of DMG taken by 9.0% (24.0%) for all ships in your Vanguard.",
                 "color": "deepskyblue"
             },
             {
@@ -76823,13 +77161,22 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ]
     },
     "422": {
         "wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper_(Muse)",
         "id": "422",
         "names": {
-            "en": "Admiral Hipper (Muse)",
+            "en": "Admiral Hipper µ",
             "code": "",
             "cn": "希佩尔海军上将(μ兵装)",
             "jp": "アドミラル·ヒッパー（μ兵装）",
@@ -76927,7 +77274,7 @@
                     "cn": "热情火炎Fever",
                     "jp": "速射榴弾フィーバーμ"
                 },
-                "description": "After battle starts, and 40% (70%) chance to activate every 20 seconds after that: changes Main Gun ammo to red Musical Note for 12 seconds. These are HE shells with a 100%/110%/90% (110%/120%/100%) modifier against Light/Medium/Heavy armor.",
+                "description": "At the start of the battle and 40.0% (70.0%) chance every 20s after that: for 12s changes this ship's Main Gun ammo to µ Red. These are HE shells with a 100%/110%/90% (110%/120%/100%) modifier.",
                 "color": "pink"
             },
             {
@@ -76937,7 +77284,7 @@
                     "cn": "沉着冷静Shield",
                     "jp": "カーム・シールド"
                 },
-                "description": "Every 30 seconds, spawns 2 rotating shields; each shield can block 10 bullets. Shields last for 5 (15) seconds. When sortieing as Lead Ship: activates skill right after battle starts.",
+                "description": "Every 30s: deploys 2 rotating shields that can each block up to 10 shells. Shields last for 5s (15s). At the start of the battle, if this ship is in the frontmost position in your Vanguard: immediately deploys these shields.",
                 "color": "deepskyblue"
             },
             {
@@ -77022,7 +77369,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Sheffield (Muse), Cleveland (Muse), Gascogne (Muse), Admiral Hipper (Muse), Akagi (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_11.png"
+            },
+            {
+                "description": "Akagi (Muse), Gascogne (Muse), Admiral Hipper (Muse), Sheffield (Muse), Cleveland (Muse)",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_4.png"
+            }
+        ]
     },
     "423": {
         "wikiUrl": "https://azurlane.koumakan.jp/Glasgow",
@@ -78363,6 +78719,20 @@
                     "enClient": "Dapper Gangstress",
                     "cnClient": "俊俏丽人",
                     "jpClient": "麗人ギャング",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Empress in the Silk Seat",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/428/Empress_in_the_Silk_Seat/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/428/Empress_in_the_Silk_Seat/chibi.png",
+                "info": {
+                    "enClient": "Empress in the Silk Seat",
+                    "cnClient": "洛城女帝",
+                    "jpClient": "羅府エンプレス",
                     "obtainedFrom": "Skin Shop",
                     "cost": "800",
                     "live2dModel": false
@@ -82561,8 +82931,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -82965,14 +83343,30 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [
+                        "Battleship",
+                        "Battlecruiser",
+                        "Aviation battleship"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Battleship",
+                        "Battlecruiser",
+                        "Aviation battleship"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+2"
+                }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 40,
+                "maxLimitBreak": 80,
+                "maxLevel": 60,
+                "total": 180
             }
         },
         "construction": {
@@ -83034,7 +83428,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.21_1.png"
+            },
+            {
+                "description": "Saint Louis, Richelieu",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.28_1.png"
+            }
+        ]
     },
     "454": {
         "wikiUrl": "https://azurlane.koumakan.jp/Jeanne_d'Arc",
@@ -83179,14 +83582,26 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+2"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Accuracy",
+                    "bonus": "+1"
+                }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 14,
+                "maxLimitBreak": 28,
+                "maxLevel": 20,
+                "total": 62
             }
         },
         "construction": {
@@ -83248,7 +83663,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.21_1.png"
+            }
+        ]
     },
     "455": {
         "wikiUrl": "https://azurlane.koumakan.jp/Algérie",
@@ -83393,14 +83813,30 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [
+                        "Heavy cruiser",
+                        "Large cruiser",
+                        "Monitor"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Heavy cruiser",
+                        "Large cruiser",
+                        "Monitor"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 28,
+                "maxLimitBreak": 56,
+                "maxLevel": 42,
+                "total": 126
             }
         },
         "construction": {
@@ -83431,7 +83867,10 @@
                 "name": "四々九",
                 "url": "https://twitter.com/yoshiku449"
             },
-            "voice": null
+            "voice": {
+                "name": "Shizuka Itou",
+                "url": "https://en.wikipedia.org/wiki/Shizuka_It%C5%8D"
+            }
         },
         "skins": [
             {
@@ -83459,7 +83898,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.21_1.png"
+            }
+        ]
     },
     "456": {
         "wikiUrl": "https://azurlane.koumakan.jp/La_Galissonnière",
@@ -83604,14 +84048,26 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Light cruiser"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 16,
+                "maxLimitBreak": 32,
+                "maxLevel": 24,
+                "total": 72
             }
         },
         "construction": {
@@ -83670,7 +84126,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.21_1.png"
+            }
+        ]
     },
     "457": {
         "wikiUrl": "https://azurlane.koumakan.jp/Vauquelin",
@@ -83805,14 +84266,26 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 16,
+                "maxLimitBreak": 32,
+                "maxLevel": 24,
+                "total": 72
             }
         },
         "construction": {
@@ -83878,9 +84351,9 @@
         "id": "458",
         "names": {
             "en": "Béarn",
-            "code": "FFNF",
-            "cn": null,
-            "jp": null,
+            "code": "FFNF Béarn",
+            "cn": "贝亚恩",
+            "jp": "ベアルン",
             "kr": null
         },
         "class": "Béarn",
@@ -83972,20 +84445,20 @@
                 "icon": "https://azurlane.koumakan.jp/w/images/6/69/Skill_13340.png",
                 "names": {
                     "en": "Placeholder skill 1 - Béarn",
-                    "cn": null,
-                    "jp": null
+                    "cn": "变迁之秘",
+                    "jp": "秘蹟・聖装砲撃"
                 },
-                "description": "When secondary slot is equipped with gun, increase that slot efficicency by 25%-45%, increase that weapon's range to 80, and fire a barrage every 24s; when secondary slot is equipped with dive bomber, decrease self first airstrike's load time by 20-50%",
+                "description": "If this ship's third slot is equipped with a gun, increase its slot efficiency by 25% (45%), increase that weapon's range to 80, and fire a special barrage every 24 seconds. If the third slot is equipped with a dive bomber, decrease the load time of this ship's first airstrike by 20% (50%).",
                 "color": "pink"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/2/23/Skill_13350.png",
                 "names": {
                     "en": "Placeholder skill 2 - Béarn",
-                    "cn": null,
-                    "jp": null
+                    "cn": "后备武装",
+                    "jp": "秘蹟・聖翼積装"
                 },
-                "description": "5s after airstrike is ready, trigger a torpedo and plane barrage, max 3 times per battle.",
+                "description": "Five seconds after an airstrike is ready to launch, trigger a special torpedo and plane barrage. Barrage damage is based on skill level. This may trigger up to three times per battle.",
                 "color": "pink"
             }
         ],
@@ -84006,14 +84479,28 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [
+                        "Aircraft carrier",
+                        "Light aircraft carrier"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Aircraft carrier",
+                        "Light aircraft carrier"
+                    ],
+                    "stat": "Aviation",
+                    "bonus": "+1"
+                }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 18,
+                "maxLimitBreak": 38,
+                "maxLevel": 28,
+                "total": 84
             }
         },
         "construction": {
@@ -84068,6 +84555,195 @@
                     "jpClient": "アイリス・ライフガード",
                     "obtainedFrom": "Skin Shop",
                     "cost": "780",
+                    "live2dModel": false
+                }
+            }
+        ],
+        "gallery": []
+    },
+    "459": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Little_Illustrious",
+        "id": "459",
+        "names": {
+            "en": "Little Illustrious",
+            "code": "",
+            "cn": "小光辉",
+            "jp": "リトル・イラストリアス",
+            "kr": null
+        },
+        "class": "Illustrious",
+        "nationality": "Royal Navy",
+        "hullType": "Aircraft Carrier",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/459/thumbnail.png",
+        "rarity": "Elite",
+        "stars": {
+            "stars": "★★☆☆☆",
+            "value": 2
+        },
+        "stats": {
+            "level120": {
+                "health": "5946",
+                "armor": "Heavy",
+                "reload": "110",
+                "luck": "44",
+                "firepower": "0",
+                "torpedo": "0",
+                "evasion": "53",
+                "speed": "30",
+                "antiair": "266",
+                "aviation": "380",
+                "oilConsumption": "12",
+                "accuracy": "85",
+                "antisubmarineWarfare": "0"
+            },
+            "level100": {
+                "health": "5262",
+                "armor": "Heavy",
+                "reload": "96",
+                "luck": "44",
+                "firepower": "0",
+                "torpedo": "0",
+                "evasion": "33",
+                "speed": "30",
+                "antiair": "232",
+                "aviation": "339",
+                "oilConsumption": "12",
+                "accuracy": "76",
+                "antisubmarineWarfare": "0"
+            },
+            "baseStats": {
+                "health": "1018",
+                "armor": "Heavy",
+                "reload": "41",
+                "luck": "44",
+                "firepower": "0",
+                "torpedo": "0",
+                "evasion": "13",
+                "speed": "30",
+                "antiair": "50",
+                "aviation": "72",
+                "oilConsumption": "4",
+                "accuracy": "29",
+                "antisubmarineWarfare": "0"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "Fighters",
+                "minEfficiency": 110,
+                "maxEfficiency": 125
+            },
+            "2": {
+                "type": "Fighters",
+                "minEfficiency": 110,
+                "maxEfficiency": 125
+            },
+            "3": {
+                "type": "Torpedo Bombers",
+                "minEfficiency": 120,
+                "maxEfficiency": 120
+            }
+        },
+        "enhanceValue": {
+            "firepower": 0,
+            "torpedo": 0,
+            "aviation": 59,
+            "reload": 8
+        },
+        "scrapValue": {
+            "coin": 9,
+            "oil": 3,
+            "medal": 4
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/1/1f/Skill_13360.png",
+                "names": {
+                    "en": "Take Off!",
+                    "cn": null,
+                    "jp": null
+                },
+                "description": "When this ship launches an Airstrike: 40% (70%) chance to launch a special Lv.1 (Lv.10) Swordfish airstrike. Special airstrike DMG is based on the skill's level.",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/6/62/Skill_13370.png",
+                "names": {
+                    "en": "Prayer for Love and Peace",
+                    "cn": null,
+                    "jp": null
+                },
+                "description": "12s after the battle begins and 40% (70%) chance every 20s after that: summons an air wing that carries out a special Lv.1 (Lv.10) airstrike which decreases Hit Rate against your ships by 30.0% for all enemies hit by it (this debuff will weaken over 4s until it is gone.) Special airstrike DMG is based on the skill's level.",
+                "color": "gold"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Number of Fighters +1",
+                "Fighter Efficiency +3%"
+            ],
+            [
+                "Hangar Capacity +1",
+                "Number of Torpedo Bombers +1",
+                "Fighter Efficiency +5%"
+            ],
+            [
+                "Number of Fighters +1",
+                "Fighter Efficiency +7%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
+            },
+            "techPoints": {
+                "collection": 0,
+                "maxLimitBreak": 0,
+                "maxLevel": 0,
+                "total": 0
+            }
+        },
+        "construction": {
+            "constructionTime": "Cannot Be Constructed",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": false,
+                "exchange": false
+            }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available as reward during \"Dreams of Love and Peace\" event.",
+            "fromMaps": []
+        },
+        "misc": {
+            "artist": "liyu黎",
+            "web": {
+                "name": "liyu黎",
+                "url": "https://www.weibo.com/p/1005055979033109/"
+            },
+            "pixiv": null,
+            "twitter": null,
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/459/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/459/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
                     "live2dModel": false
                 }
             }
@@ -84211,16 +84887,16 @@
         "gallery": []
     },
     "001": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Universal_Bullin",
+        "wikiUrl": "https://azurlane.koumakan.jp/Universal_Bulin",
         "id": "001",
         "names": {
-            "en": "Universal Bullin",
-            "code": "UNIV Universal Bullin",
+            "en": "Universal Bulin",
+            "code": "UNIV Universal Bulin",
             "cn": "泛用型布里",
             "jp": "汎用型ブリ",
             "kr": "범용형 부린"
         },
-        "class": "Bullin",
+        "class": "Bulin",
         "nationality": "Universal",
         "hullType": "Destroyer",
         "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/001/thumbnail.png",
@@ -84394,16 +85070,16 @@
         "gallery": []
     },
     "002": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Trial_Bullin_MKII",
+        "wikiUrl": "https://azurlane.koumakan.jp/Prototype_Bulin_MKII",
         "id": "002",
         "names": {
-            "en": "Trial Bullin MKII",
-            "code": "UNIV Trial Bullin MKII",
+            "en": "Prototype Bulin MKII",
+            "code": "UNIV Trial Bulin MKII",
             "cn": "试作型布里MKII",
             "jp": "試作型ブリMKII",
             "kr": "시제형 부린 MKⅡ"
         },
-        "class": "Bullin",
+        "class": "Bulin",
         "nationality": "Universal",
         "hullType": "Destroyer",
         "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/002/thumbnail.png",
@@ -84495,7 +85171,7 @@
                     "cn": "改造娘MKII",
                     "jp": "改造娘MKⅡ"
                 },
-                "description": "Can be used as material to Limit Break any ship of Super Rare (SSR) quality.",
+                "description": "Can be used as material to Limit Break Super Rare ships.",
                 "color": "gold"
             }
         ],
@@ -85169,7 +85845,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Cassin\" or \"Universal Bullin\""
+                    "1x \"Cassin\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -85642,7 +86318,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Downes\" or \"Universal Bullin\""
+                    "1x \"Downes\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -88539,7 +89215,7 @@
                 ],
                 "materials": [
                     "3x \"DestroyerT3BP\"",
-                    "1x \"Laffey\" or \"Universal Bullin\""
+                    "1x \"Laffey\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -88686,10 +89362,10 @@
                 }
             },
             {
-                "name": "33娘",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/019/33/image.png",
+                "name": "Bili Girl 33",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/019/Bili_Girl_33/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/019/33/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/019/Bili_Girl_33/chibi.png",
                 "info": {
                     "enClient": "skin unavailable",
                     "cnClient": "33娘",
@@ -89203,7 +89879,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Sims\" or \"Universal Bullin\""
+                    "1x \"Sims\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -89660,7 +90336,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Hammann\" or \"Universal Bullin\""
+                    "1x \"Hammann\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -89746,6 +90422,21 @@
                     "jpClient": "ひねくれサマー",
                     "obtainedFrom": "Skin Shop",
                     "cost": "600",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Prideful Fairy of the Ballroom",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/027/Prideful_Fairy_of_the_Ballroom/image.png",
+                "imageCN": null,
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/027/Prideful_Fairy_of_the_Ballroom/chibi.png",
+                "info": {
+                    "enClient": "Prideful Fairy of the Ballroom",
+                    "cnClient": "舞会的傲娇妖精",
+                    "jpClient": "ポニデレ・キャッツンイヤー",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
                     "live2dModel": false
                 }
             }
@@ -91777,7 +92468,7 @@
                 ],
                 "materials": [
                     "2x \"CruiserT2BP\"",
-                    "1x \"San Diego\" or \"Trial Bullin MKII\""
+                    "1x \"San Diego\" or \"Prototype Bulin MKII\""
                 ],
                 "coins": 600,
                 "level": 1,
@@ -91960,7 +92651,7 @@
                     "\"Full Barrage - Atlanta-class\" changes to \"Full Barrage - San Diego\" Rarity changes to \"UltraRare\""
                 ],
                 "materials": [
-                    "1x \"San Diego\" or 1x \"Trial Bullin MKII\"",
+                    "1x \"San Diego\" or 1x \"Prototype Bulin MKII\"",
                     "1x \"Sparkling Microphone\""
                 ],
                 "coins": 7500,
@@ -91980,7 +92671,7 @@
                 ],
                 "materials": [
                     "5x \"CruiserT3BP\"",
-                    "1x \"San Diego\" or \"Trial Bullin MKII\""
+                    "1x \"San Diego\" or \"Prototype Bulin MKII\""
                 ],
                 "coins": 5000,
                 "level": 90,
@@ -92062,7 +92753,32 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "San Diego and Unicorn during Christmas",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_christmas_1.png"
+            },
+            {
+                "description": "San Diego, Laffey, Helena and Atlanta celebrating American Independence day",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_2.png"
+            },
+            {
+                "description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Graf Spee, and San Diego at a barbecue",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_5.png"
+            },
+            {
+                "description": "Hornet, Admiral Hipper, San Diego, Downes",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_12.png"
+            },
+            {
+                "description": "San Diego, Sheffield",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_5.png"
+            },
+            {
+                "description": "Akashi, Bache, San Diego, Cleveland, Laffey",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.03.31_1.png"
+            }
+        ]
     },
     "037": {
         "wikiUrl": "https://azurlane.koumakan.jp/Cleveland",
@@ -92346,7 +93062,40 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Cleveland and her sister Columbia at sea",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_cleveland_1.png"
+            },
+            {
+                "description": "Cleveland, Helena, Gridley, and Eldridge opening Christmas presents",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_cleveland_holiday_1.png"
+            },
+            {
+                "description": "Cleveland and Helena in their party skins",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_cleveland_party_1.png"
+            },
+            {
+                "description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Graf Spee, and San Diego at a barbecue",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_5.png"
+            },
+            {
+                "description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_EN_1st_anni.png"
+            },
+            {
+                "description": "Cleveland in her Road Trip! skin with Essex and Enterprise",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_union_riders.png"
+            },
+            {
+                "description": "Montpelier, Cleveland, Erebus, Admiral Graf Spee",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.19_4.png"
+            },
+            {
+                "description": "Akashi, Bache, San Diego, Cleveland, Laffey",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.03.31_1.png"
+            }
+        ]
     },
     "038": {
         "wikiUrl": "https://azurlane.koumakan.jp/Columbia",
@@ -94030,7 +94779,7 @@
                 "materials": [
                     "1x \"CruiserT3BP\"",
                     "1x \"Portl",
-                    "\" or \"Universal Bullin\""
+                    "\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -95885,7 +96634,7 @@
                 ],
                 "materials": [
                     "6x \"BattleshipT2BP\"",
-                    "1x \"Nevada\" or \"Universal Bullin\""
+                    "1x \"Nevada\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -96369,7 +97118,7 @@
                 ],
                 "materials": [
                     "6x \"BattleshipT2BP\"",
-                    "1x \"Oklahoma\" or \"Universal Bullin\""
+                    "1x \"Oklahoma\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -98102,6 +98851,10 @@
             {
                 "description": "Amagi, Amazon, Z46, North Carolina, and i-13 at an arcade",
                 "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_arcade.png"
+            },
+            {
+                "description": "Washington, North Carolina",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.09_1.png"
             }
         ]
     },
@@ -98308,7 +99061,24 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Washington with Dunkerque, Ping Hai and Ning Hai",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_washington_1.png"
+            },
+            {
+                "description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Graf Spee, and San Diego at a barbecue",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_5.png"
+            },
+            {
+                "description": "Washington with Brooklyn, Montpelier, Honolulu, St. Louis and Ranger",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_July4th_6.png"
+            },
+            {
+                "description": "Washington, North Carolina",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.04.09_1.png"
+            }
+        ]
     },
     "065": {
         "wikiUrl": "https://azurlane.koumakan.jp/South_Dakota",
@@ -98527,7 +99297,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_EN_1st_anni.png"
+            }
+        ]
     },
     "070": {
         "wikiUrl": "https://azurlane.koumakan.jp/Long_Island",
@@ -98901,7 +99676,7 @@
                 "materials": [
                     "1x \"CarrierT3BP\"",
                     "1x \"Long Isl",
-                    "\" or \"Universal Bullin\""
+                    "\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -99361,7 +100136,7 @@
                 ],
                 "materials": [
                     "6x \"CarrierT2BP\"",
-                    "1x \"Bogue\" or \"Universal Bullin\""
+                    "1x \"Bogue\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -99848,7 +100623,7 @@
                 ],
                 "materials": [
                     "6x \"CarrierT2BP\"",
-                    "1x \"Langley\" or \"Universal Bullin\""
+                    "1x \"Langley\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -100568,7 +101343,7 @@
                 ],
                 "materials": [
                     "3x \"CarrierT3BP\"",
-                    "1x \"Saratoga\" or \"Universal Bullin\""
+                    "1x \"Saratoga\" or \"Universal Bulin\""
                 ],
                 "coins": 4000,
                 "level": 85,
@@ -101089,7 +101864,7 @@
                 ],
                 "materials": [
                     "6x \"CarrierT2BP\"",
-                    "1x \"Ranger\" or \"Universal Bullin\""
+                    "1x \"Ranger\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -101711,6 +102486,21 @@
                     "cnClient": "翱翔的自由之翼",
                     "jpClient": "羽ばたける自由の翼",
                     "obtainedFrom": "Anime Blu-Ray First Press Edition bonus",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Heroic Finery",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/077/Heroic_Finery/image.png",
+                "imageCN": null,
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_135.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/077/Heroic_Finery/chibi.png",
+                "info": {
+                    "enClient": "Heroic Finery",
+                    "cnClient": "英雄的礼服",
+                    "jpClient": "英雄の儀典礼装",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -102772,7 +103562,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Amazon\" or \"Universal Bullin\""
+                    "1x \"Amazon\" or \"Universal Bulin\""
                 ],
                 "coins": 2500,
                 "level": 80,
@@ -102875,7 +103665,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Amagi, Amazon, Z46, North Carolina, and I-13 at an arcade",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_arcade.png"
+            },
+            {
+                "description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_EN_1st_anni.png"
+            }
+        ]
     },
     "082": {
         "wikiUrl": "https://azurlane.koumakan.jp/Acasta",
@@ -103265,7 +104064,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Acasta\" or \"Universal Bullin\""
+                    "1x \"Acasta\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -103752,7 +104551,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Ardent\" or \"Universal Bullin\""
+                    "1x \"Ardent\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -104668,7 +105467,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Comet\" or \"Universal Bullin\""
+                    "1x \"Comet\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -105142,7 +105941,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Crescent\" or \"Universal Bullin\""
+                    "1x \"Crescent\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -105616,7 +106415,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Cygnet\" or \"Universal Bullin\""
+                    "1x \"Cygnet\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -106158,7 +106957,7 @@
                 ],
                 "materials": [
                     "6x \"DestroyerT2BP\"",
-                    "1x \"Foxhound\" or \"Universal Bullin\""
+                    "1x \"Foxhound\" or \"Universal Bulin\""
                 ],
                 "coins": 2000,
                 "level": 80,
@@ -106625,7 +107424,7 @@
                 ],
                 "materials": [
                     "1x \"DestroyerT3BP\"",
-                    "1x \"Fortune\" or \"Universal Bullin\""
+                    "1x \"Fortune\" or \"Universal Bulin\""
                 ],
                 "coins": 3000,
                 "level": 85,
@@ -107870,7 +108669,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs with many other ship girls",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_bath.png"
+            },
+            {
+                "description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_EN_1st_anni.png"
+            }
+        ]
     },
     "Plan003": {
         "wikiUrl": "https://azurlane.koumakan.jp/Ibuki",
@@ -108966,7 +109774,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Saint Louis, Richelieu",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.05.28_1.png"
+            }
+        ]
     },
     "Plan007": {
         "wikiUrl": "https://azurlane.koumakan.jp/Seattle",
@@ -110002,8 +110815,8 @@
         "wikiUrl": "https://azurlane.koumakan.jp/Friedrich_der_Grosse",
         "id": "Plan011",
         "names": {
-            "en": "Friedrich der Grosse",
-            "code": "KMS Friedrich der Grosse",
+            "en": "Friedrich der Große",
+            "code": "KMS Friedrich der Große",
             "cn": "腓特烈大帝",
             "jp": "フリードリヒ・デア・グローセ",
             "kr": "프리드리히 데어 그로세"

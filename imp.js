@@ -1,6 +1,6 @@
 const azurlane = require("./index.js");
 // const voice = require("./voice_lines.js");
-// azurlane.removeShip("Tashkent");
+// azurlane.removeShip("Emile Bertin");
 // azurlane.refreshShips(false);
 // azurlane.refreshEquipments(false);
 // azurlane.refreshChapter(false);
