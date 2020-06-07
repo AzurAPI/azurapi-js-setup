@@ -5745,7 +5745,8 @@
                 "4-3",
                 "2-4",
                 "8-4",
-                "10-4"
+                "10-4",
+                "12-4"
             ]
         },
         "misc": {
@@ -7112,7 +7113,7 @@
             },
             "twitter": {
                 "name": "MKiiiiii",
-                "url": "https://twitter.com/33kawa"
+                "url": "https://twitter.com/ccMK33"
             },
             "voice": {
                 "name": "Nozomi Yamane",
@@ -7155,7 +7156,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Many Royal Navy ships in 1 big party",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_1.png"
+            },
+            {
+                "description": "Ping Hai, York, Jersey, Haruna, Souryuu, Eldridge and Ryuujou in a town setting",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_in_town.png"
+            }
+        ]
     },
     "126": {
         "wikiUrl": "https://azurlane.koumakan.jp/Exeter",
@@ -7620,7 +7630,7 @@
             },
             "twitter": {
                 "name": "MKiiiiii",
-                "url": "https://twitter.com/33kawa"
+                "url": "https://twitter.com/ccMK33"
             },
             "voice": {
                 "name": "Ai Kakuma",
@@ -7649,7 +7659,12 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Many Royal Navy ships in 1 big party",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_1.png"
+            }
+        ]
     },
     "127": {
         "wikiUrl": "https://azurlane.koumakan.jp/Renown",
@@ -8468,7 +8483,28 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Queen Elizabeth and other Royal Navy ships enjoying tea outdoors",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_capital_1.png"
+            },
+            {
+                "description": "Many Royal Navy ships in 1 big party",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_1.png"
+            },
+            {
+                "description": "Belfast, Warspite, Queen Elizabeth, Akashi and Shiranui",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_queen_elizabeth_1.png"
+            },
+            {
+                "description": "Queen Elizabeth",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_1.png"
+            },
+            {
+                "description": "Queen Elizabeth",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.06.03_1.png"
+            }
+        ]
     },
     "131": {
         "wikiUrl": "https://azurlane.koumakan.jp/Warspite",
@@ -9819,6 +9855,7 @@
             {
                 "name": "Sun Shining Upon Windsor",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/135/Sun_Shining_Upon_Windsor/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/135/Sun_Shining_Upon_Windsor/chibi.png",
                 "info": {
@@ -10760,6 +10797,19 @@
                 }
             },
             {
+                "name": "Oath",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/142/Oath/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/142/Oath/chibi.png",
+                "info": {
+                    "enClient": "A Dream of Pure Vows",
+                    "cnClient": "梦想的纯白誓约",
+                    "jpClient": "純白なる夢の誓い",
+                    "obtainedFrom": "Oath",
+                    "live2dModel": false
+                }
+            },
+            {
                 "name": "Little Star Songstress",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/142/Little_Star_Songstress/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
@@ -11038,7 +11088,7 @@
             },
             "twitter": {
                 "name": "MKiiiiii",
-                "url": "https://twitter.com/33kawa"
+                "url": "https://twitter.com/ccMK33"
             },
             "voice": {
                 "name": "Asuka Itou",
@@ -11099,7 +11149,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Many Royal Navy ships in 1 big party",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_1.png"
+            },
+            {
+                "description": "Ark Royal watching Mutsuki, Kisaragi, Mikazuki and Uzuki",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_mutsuki_1.png"
+            }
+        ]
     },
     "145": {
         "wikiUrl": "https://azurlane.koumakan.jp/Illustrious",
@@ -11341,7 +11400,7 @@
                 "info": {
                     "enClient": "Resplendent Hibiscus",
                     "cnClient": "异国的光辉",
-                    "jpClient": "skin unavailable",
+                    "jpClient": "異国風衣装",
                     "obtainedFrom": "Skin Shop",
                     "cost": "800",
                     "live2dModel": false
@@ -17654,6 +17713,21 @@
             "value": 2
         },
         "stats": {
+            "level120Retrofit": {
+                "health": "",
+                "armor": "Light",
+                "reload": "",
+                "luck": "51",
+                "firepower": "",
+                "torpedo": "",
+                "evasion": "",
+                "speed": "",
+                "antiair": "",
+                "aviation": "",
+                "oilConsumption": "",
+                "accuracy": "",
+                "antisubmarineWarfare": "{{{ASWKai120}}}"
+            },
             "level120": {
                 "health": "1773",
                 "armor": "Light",
@@ -17668,6 +17742,21 @@
                 "oilConsumption": "8",
                 "accuracy": "180",
                 "antisubmarineWarfare": "189"
+            },
+            "level100Retrofit": {
+                "health": "",
+                "armor": "Light",
+                "reload": "",
+                "luck": "51",
+                "firepower": "",
+                "torpedo": "",
+                "evasion": "",
+                "speed": "",
+                "antiair": "",
+                "aviation": "",
+                "oilConsumption": "",
+                "accuracy": "",
+                "antisubmarineWarfare": "{{{ASWKai}}}"
             },
             "level100": {
                 "health": "1477",
@@ -17704,17 +17793,20 @@
             "1": {
                 "type": "DD Guns",
                 "minEfficiency": 70,
-                "maxEfficiency": 75
+                "maxEfficiency": 75,
+                "kaiEfficiency": 75
             },
             "2": {
                 "type": "Torpedoes",
                 "minEfficiency": 130,
-                "maxEfficiency": 150
+                "maxEfficiency": 150,
+                "kaiEfficiency": 155
             },
             "3": {
                 "type": "Anti-Air Guns",
                 "minEfficiency": 70,
-                "maxEfficiency": 75
+                "maxEfficiency": 75,
+                "kaiEfficiency": 80
             }
         },
         "enhanceValue": {
@@ -17738,6 +17830,16 @@
                 },
                 "description": "When launching a wave of torpedoes: 15% (30%) chance to launch another wave.",
                 "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/d/d5/Skill_1060.png",
+                "names": {
+                    "en": "(Retrofit) Flank Defense",
+                    "cn": "侧翼掩护",
+                    "jp": "側面援護"
+                },
+                "description": "While this ship is afloat: decreases the DMG your Main Fleet takes by 5% (15%). Does not stack with the same skill.",
+                "color": "deepskyblue"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
@@ -17789,6 +17891,200 @@
                 "total": 18
             }
         },
+        "retrofit": true,
+        "retrofitId": "3174",
+        "retrofitProjects": {
+            "A": {
+                "name": "Hull Improvement Ⅰ",
+                "attributes": [
+                    "\"Health\" +45"
+                ],
+                "materials": [
+                    "2x \"DestroyerT1BP\""
+                ],
+                "coins": 300,
+                "level": 1,
+                "levelBreakLevel": 0,
+                "levelBreakStars": "★★☆☆☆",
+                "recurrence": 1,
+                "require": []
+            },
+            "B": {
+                "name": "Evasion Enhancement Ⅰ",
+                "attributes": [
+                    "\"Evasion\" +5"
+                ],
+                "materials": [
+                    "2x \"DestroyerT1BP\""
+                ],
+                "coins": 400,
+                "level": 5,
+                "levelBreakLevel": 0,
+                "levelBreakStars": "★★☆☆☆",
+                "recurrence": 1,
+                "require": [
+                    "A"
+                ]
+            },
+            "C": {
+                "name": "Anti-Air Gun Improvement Ⅰ",
+                "attributes": [
+                    "Anti-Air Gun Efficiency +5%"
+                ],
+                "materials": [
+                    "3x \"DestroyerT1BP\""
+                ],
+                "coins": 600,
+                "level": 20,
+                "levelBreakLevel": 1,
+                "levelBreakStars": "★★★☆☆",
+                "recurrence": 1,
+                "require": [
+                    "A"
+                ]
+            },
+            "D": {
+                "name": "Anti-Air Enhancement Ⅰ",
+                "attributes": [
+                    "\"Anti-air\" +15"
+                ],
+                "materials": [
+                    "3x \"DestroyerT1BP\""
+                ],
+                "coins": 800,
+                "level": 25,
+                "levelBreakLevel": 1,
+                "levelBreakStars": "★★★☆☆",
+                "recurrence": 1,
+                "require": [
+                    "C"
+                ]
+            },
+            "E": {
+                "name": "Torpedo Improvement Ⅰ",
+                "attributes": [
+                    "Torpedo Efficiency +5%"
+                ],
+                "materials": [
+                    "3x \"DestroyerT1BP\""
+                ],
+                "coins": 1000,
+                "level": 35,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 1,
+                "require": [
+                    "C"
+                ]
+            },
+            "F": {
+                "name": "Torpedo Enhancement Ⅰ",
+                "attributes": [
+                    "\"Torpedo\" +10"
+                ],
+                "materials": [
+                    "4x \"DestroyerT1BP\""
+                ],
+                "coins": 1200,
+                "level": 40,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 1,
+                "require": [
+                    "E"
+                ]
+            },
+            "G": {
+                "name": "Hull Improvement Ⅱ",
+                "attributes": [
+                    "\"Health\" +45 / +75"
+                ],
+                "materials": [
+                    "1x / 2x \"DestroyerT2BP\""
+                ],
+                "coins": 1500,
+                "level": 50,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 2,
+                "require": [
+                    "E"
+                ]
+            },
+            "H": {
+                "name": "Tactical Learning",
+                "attributes": [
+                    "Learn Skill \"Flank Defense\""
+                ],
+                "materials": [
+                    "3x \"DestroyerT2BP\""
+                ],
+                "coins": 1800,
+                "level": 55,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 1,
+                "require": [
+                    "G"
+                ]
+            },
+            "I": {
+                "name": "Motor Enhancement",
+                "attributes": [
+                    "Spd +3"
+                ],
+                "materials": [
+                    "3x \"DestroyerT2BP\""
+                ],
+                "coins": 2000,
+                "level": 70,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 1,
+                "require": [
+                    "G"
+                ]
+            },
+            "J": {
+                "name": "Evasion Enhancement Ⅱ",
+                "attributes": [
+                    "\"Evasion\" +5 / +10"
+                ],
+                "materials": [
+                    "2x / 2x \"DestroyerT2BP\""
+                ],
+                "coins": 2500,
+                "level": 75,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 2,
+                "require": [
+                    "B",
+                    "I"
+                ]
+            },
+            "K": {
+                "name": "Modernization",
+                "attributes": [
+                    "\"Anti-air\" +15",
+                    "\"Torpedo\" +30"
+                ],
+                "materials": [
+                    "1x \"DestroyerT3BP\"",
+                    "1x \"Hatsushimo\" or \"Universal Bulin\""
+                ],
+                "coins": 3000,
+                "level": 85,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 1,
+                "require": [
+                    "H",
+                    "I",
+                    "J"
+                ]
+            }
+        },
         "construction": {
             "constructionTime": "00:25:00",
             "availableIn": {
@@ -17826,6 +18122,16 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/174/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Retrofit",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/174/Retrofit/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/174/Retrofit/chibi.png",
+                "info": {
+                    "obtainedFrom": "Retrofit",
                     "live2dModel": false
                 }
             }
@@ -29848,7 +30154,40 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Akagi and the Midway Carriers",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Memory_Tora21_Tora21_Tora21_Background_2.png"
+            },
+            {
+                "description": "Three Douglas SBD Dauntless dive bombers overhead of Akagi",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Memory_Midway_Showdown_Background_1.png"
+            },
+            {
+                "description": "Dive bomber that delivers the killing blow to Akagi replaced with a Bald Eagle",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Memory_Midway_Showdown_Background_2.png"
+            },
+            {
+                "description": "Akagi and Kaga launching aircraft",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_akagi_1.png"
+            },
+            {
+                "description": "Loading Screen featuring Takao, Atago, Akagi, and Kaga in a winter setting",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_takao_1.png"
+            },
+            {
+                "description": "Yuudachi, Takao, Belfast, Akagi and Kaga in a loading screen",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_belfast_4.png"
+            },
+            {
+                "description": "Amagi, Akagi, Kaga, Jintsuu, Naka, and Sendai in a chocolate store",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_valentines_4.png"
+            },
+            {
+                "description": "Akagi, Kaga, Amagi with Akagi-chan trick-or-treating",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_3.png"
+            }
+        ]
     },
     "225": {
         "wikiUrl": "https://azurlane.koumakan.jp/Kaga",
@@ -32525,9 +32864,9 @@
             }
         },
         "construction": {
-            "constructionTime": "00:29:00",
+            "constructionTime": "Drop Only",
             "availableIn": {
-                "light": "EN only",
+                "light": false,
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
@@ -32535,6 +32874,7 @@
             }
         },
         "obtainedFrom": {
+            "obtainedFrom": "Encircling Graf Spee SP1",
             "fromMaps": [
                 "5-1",
                 "8-2",
@@ -39049,7 +39389,7 @@
             {
                 "name": "Moon Palace Rabbit",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Moon_Palace_Rabbit/image.png",
-                "imageCN": null,
+                "imageCN": "https://azurlane.koumakan.jp/w/images/thumb/3/32/Ning_HaiFestivalCN.png/558px-Ning_HaiFestivalCN.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/258/Moon_Palace_Rabbit/chibi.png",
                 "info": {
@@ -39595,7 +39935,7 @@
             {
                 "name": "Osmanthus Moon Rabbit",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Osmanthus_Moon_Rabbit/image.png",
-                "imageCN": null,
+                "imageCN": "https://azurlane.koumakan.jp/w/images/thumb/4/45/Ping_HaiFestivalCN.png/578px-Ping_HaiFestivalCN.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/259/Osmanthus_Moon_Rabbit/chibi.png",
                 "info": {
@@ -43916,7 +44256,7 @@
                 "info": {
                     "enClient": "Dangerous Kitty Maid?",
                     "cnClient": "喵喵女仆有点危险？",
-                    "jpClient": "skin unavailable",
+                    "jpClient": "ニャンニャンメイドはキケンです",
                     "obtainedFrom": "Skin Shop",
                     "cost": "780",
                     "live2dModel": false
@@ -52858,7 +53198,7 @@
         "construction": {
             "constructionTime": "01:20:00",
             "availableIn": {
-                "light": "CN/JP only",
+                "light": true,
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
@@ -56692,7 +57032,7 @@
         "construction": {
             "constructionTime": "00:31:00",
             "availableIn": {
-                "light": "CN/JP only",
+                "light": true,
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
@@ -60828,7 +61168,7 @@
         "construction": {
             "constructionTime": "00:26:00",
             "availableIn": {
-                "light": "CN/JP only",
+                "light": true,
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: 1st Year Anniversary",
@@ -60836,7 +61176,7 @@
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" Event. Added to Light Construction for CN/JP Clients.",
+            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" Event.",
             "fromMaps": []
         },
         "misc": {
@@ -60867,12 +61207,12 @@
                 }
             },
             {
-                "name": "Summer Style Temmie!",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/359/Summer_Style_Temmie/image.png",
+                "name": "Summery Temeraire!",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/359/Summery_Temeraire/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/359/Summer_Style_Temmie/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/359/Summery_Temeraire/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Summery Temeraire!",
                     "cnClient": "盛夏Festival！",
                     "jpClient": "サマー・ルーちゃん！",
                     "obtainedFrom": "Skin Shop",
@@ -62236,6 +62576,19 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/364/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Oath",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/364/Oath/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/364/Oath/chibi.png",
+                "info": {
+                    "enClient": "Trapper White",
+                    "cnClient": "Trapper white",
+                    "jpClient": "トラッパーホワイト",
+                    "obtainedFrom": "Oath",
                     "live2dModel": false
                 }
             },
@@ -66083,7 +66436,7 @@
             },
             "twitter": {
                 "name": "MKiiiiii",
-                "url": "https://twitter.com/33kawa"
+                "url": "https://twitter.com/ccMK33"
             },
             "voice": {
                 "name": "Maki Kawase",
@@ -68948,8 +69301,16 @@
         ],
         "fleetTech": {
             "statsBonus": {
-                "collection": null,
-                "maxLevel": null
+                "collection": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                },
+                "maxLevel": {
+                    "applicable": [],
+                    "stat": "",
+                    "bonus": ""
+                }
             },
             "techPoints": {
                 "collection": 0,
@@ -69764,7 +70125,7 @@
                     "cn": "Gassing Breath",
                     "jp": "Poison Croix"
                 },
-                "description": "Every 10 times own Main Gun hits the same enemy: increases damage dealt to that enemy by all allied Destroyers by 4.5% (12%) for 5 seconds. Upon destroying an enemy: increases own Firepower by 0.5% (2%); effect can stack up to 10 times.",
+                "description": "Every 10 times own Main Gun hits the same enemy: increases damage dealt to that enemy from Main Guns and Torpedoes by allied destroyers, by 4.5% (12%) for 5 seconds. Upon destroying an enemy: increases own Firepower by 0.5% (2%); effect can stack up to 10 times.",
                 "color": "pink"
             },
             {
@@ -69774,7 +70135,7 @@
                     "cn": "兴奋之毒",
                     "jp": "鼓動のヴィシア"
                 },
-                "description": "After battle starts, increases own Torpedo stat and Evasion by 5% (20%) for 30 seconds, then decreases the buff to 0% during the next 20 seconds.",
+                "description": "After battle starts, increase own Torpedo and Evasion stats by 5% (20%) for 30 seconds. For the next 20 seconds, gradually decrease the magnitude of this buff until it is at 0%.",
                 "color": "deepskyblue"
             },
             {
@@ -72460,7 +72821,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_ashen_1.png"
+            },
+            {
+                "description": "Baltimore, Alabama",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_ashen_2.png"
+            }
+        ]
     },
     "402": {
         "wikiUrl": "https://azurlane.koumakan.jp/Cavalla",
@@ -83170,7 +83540,10 @@
                 "name": "hecha",
                 "url": "https://twitter.com/hecha01964237"
             },
-            "voice": null
+            "voice": {
+                "name": "Eri Yukimura",
+                "url": "https://www.imdb.com/name/nm9806307/"
+            }
         },
         "skins": [
             {
@@ -83206,9 +83579,9 @@
         "id": "453",
         "names": {
             "en": "Richelieu",
-            "code": "FFNF",
-            "cn": null,
-            "jp": null,
+            "code": "FFNF Richelieu",
+            "cn": "黎塞留",
+            "jp": "リシュリュー",
             "kr": null
         },
         "class": "Richelieu",
@@ -83300,30 +83673,30 @@
                 "icon": "https://azurlane.koumakan.jp/w/images/f/f5/Skill_13240.png",
                 "names": {
                     "en": "Placeholder skill name 1 - Richelieu",
-                    "cn": null,
-                    "jp": null
+                    "cn": "爱丽丝之帜",
+                    "jp": "アイリスの旗印"
                 },
-                "description": "When sortied as the flagship, all Iris Libre ships receive 5% (15%) more FP/TP/ACC/RLD, and deal 1.5% (6%) more damage; all Vichya Dominion ships receive 5% (15%) FP/TP/ACC/RLD, and take 1.5% (6%) less damage.",
+                "description": "When sortied as flagship:\nIncrease all Iris Libre and Vichya Dominion ships' Firepower, Torpedo, Accuracy, and Reload stats by 5% (15%).\nAll Iris Libre ships deal 1.5% (6%) more damage.\nAll Vichya Dominion ships receive 1.5% (6%) less damage.",
                 "color": "gold"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/1/13/Skill_13250.png",
                 "names": {
                     "en": "Placeholder skill name 2 - Richelieu",
-                    "cn": null,
-                    "jp": null
+                    "cn": "爱丽丝之焰",
+                    "jp": "アイリスの聖炎"
                 },
-                "description": "When firing main gun, 45% (75%) chance to fire a barrage that has 70% chance to cause burning and reduce enemy's FP/TP/Airpower by 5% while burning, 30s duration.",
+                "description": "When firing main gun, 45% (75%) chance to fire a special barrage. The barrage has a 70% chance to inflict a special burn DoT, which reduces Firepower, Torpedo, and Aviation stats by 5% for burning enemies. The burn lasts for 30 seconds.",
                 "color": "pink"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/f/f2/Skill_13260.png",
                 "names": {
                     "en": "Placeholder skill name 3 - Richelieu",
-                    "cn": null,
-                    "jp": null
+                    "cn": "爱丽丝之怒",
+                    "jp": "アイリスの激憤"
                 },
-                "description": "When equipped with HE main gun, increase main gun damage dealt by 4.5% (12%); the first manually aimed main gun volley per battle has 100% crit chance.",
+                "description": "The first manually aimed volley of each battle is guaranteed to critically hit. When equipped with a high-explosive main gun, increase main gun damage dealt by 4.5% (12%).",
                 "color": "pink"
             }
         ],
@@ -83444,9 +83817,9 @@
         "id": "454",
         "names": {
             "en": "Jeanne d'Arc",
-            "code": "FFNF Jeanne",
-            "cn": null,
-            "jp": null,
+            "code": "FFNF Jeanne d'Arc",
+            "cn": "圣女贞德",
+            "jp": "ジャンヌ・ダルク",
             "kr": null
         },
         "class": "Jeanne d'Arc",
@@ -83538,28 +83911,28 @@
                 "icon": "https://azurlane.koumakan.jp/w/images/3/32/Skill_13290.png",
                 "names": {
                     "en": "Placeholder skill name 1 - Jeanne",
-                    "cn": null,
-                    "jp": null
+                    "cn": "La Pucelle",
+                    "jp": "La Pucelle"
                 },
-                "description": "Damage dealt towards HMS ships increased by 4-10%; when entering battle, burn self for 30s dealing 8 damage every 3s, 10% chance to refresh upon being hit; while burning, increase FP/TP/AA/EV by 10-20%.",
+                "description": "Increase own damage dealt to Royal Navy ships by 4% (10%). Upon entering battle, inflict a special burn on self that lasts for 30 seconds. It has the following properties:\nThe special burn deals 8 damage to this ship every 3 seconds.\nWhen hit, 10% chance to refresh the special burn's duration, or re-ignite it if inactive.\nWhile the special burn is active, increase this ship's Firepower, Torpedo, Anti-Air, and Evasion stats by 10% (20%).",
                 "color": "pink"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/4/46/Skill_13300.png",
                 "names": {
                     "en": "Placeholder skill name 2 - Jeanne",
-                    "cn": null,
-                    "jp": null
+                    "cn": "Sonnez la charge!",
+                    "jp": "Sonnez la charge!"
                 },
-                "description": "10s after battle starts and every 20s after, give all vanguard ships a shield each; shields block damage equal to 1.5-6% of Jeanne's max hp and lasts for 8s, if the shield breaks before the duration expires, give 2s of damage immunity, if the shield expires without breaking, heal for 70hp.",
+                "description": "10 seconds after the battle starts and every 20 seconds after that, give each vanguard ship a shield. Each shield can block up to 1.5% (6.0%) of Jeanne's maximum HP, and and lasts up to 8 seconds.\nIf a ship's shield breaks before its duration expires, that ship will evade all attacks for the next 2s.\nIf a ship's shield expires without breaking, heal that ship for 70 hp.",
                 "color": "deepskyblue"
             },
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/6/6e/Skill_29540.png",
                 "names": {
                     "en": "All Out Assault",
-                    "cn": null,
-                    "jp": null
+                    "cn": "专属弹幕-圣女贞德",
+                    "jp": "特殊弾幕-ジャンヌ・ダルク"
                 },
                 "description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Jeanne d'Arc (II)",
                 "color": "pink"
@@ -83615,7 +83988,7 @@
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available in Limited Construction during \"Skybound Oratorio\" Event.",
+            "obtainedFrom": "Available in Limited Construction during \"Skybound Oratorio\" event, in the event shop, and as a map drop.",
             "fromMaps": []
         },
         "misc": {
@@ -84316,7 +84689,10 @@
                 "name": "Vilor",
                 "url": "https://twitter.com/Vilor_0414"
             },
-            "voice": null
+            "voice": {
+                "name": "Eri Yukimura",
+                "url": "https://www.imdb.com/name/nm9806307/"
+            }
         },
         "skins": [
             {
@@ -84744,6 +85120,219 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/459/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            }
+        ],
+        "gallery": []
+    },
+    "460": {
+        "wikiUrl": "https://azurlane.koumakan.jp/Eskimo",
+        "id": "460",
+        "names": {
+            "en": "Eskimo",
+            "code": "HMS Eskimo",
+            "cn": "爱斯基摩人",
+            "jp": "エスキモー",
+            "kr": null
+        },
+        "class": "Tribal",
+        "nationality": "Royal Navy",
+        "hullType": "Destroyer",
+        "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/460/thumbnail.png",
+        "rarity": "Elite",
+        "stars": {
+            "stars": "★★☆☆☆",
+            "value": 2
+        },
+        "stats": {
+            "level120": {
+                "health": "1657",
+                "armor": "Light",
+                "reload": "212",
+                "luck": "72",
+                "firepower": "87",
+                "torpedo": "350",
+                "evasion": "211",
+                "speed": "43",
+                "antiair": "156",
+                "aviation": "0",
+                "oilConsumption": "9",
+                "accuracy": "188",
+                "antisubmarineWarfare": "193"
+            },
+            "level100": {
+                "health": "1381",
+                "armor": "Light",
+                "reload": "184",
+                "luck": "72",
+                "firepower": "76",
+                "torpedo": "311",
+                "evasion": "204",
+                "speed": "43",
+                "antiair": "136",
+                "aviation": "0",
+                "oilConsumption": "9",
+                "accuracy": "179",
+                "antisubmarineWarfare": "174"
+            },
+            "baseStats": {
+                "health": "267",
+                "armor": "Light",
+                "reload": "78",
+                "luck": "72",
+                "firepower": "16",
+                "torpedo": "66",
+                "evasion": "78",
+                "speed": "43",
+                "antiair": "29",
+                "aviation": "0",
+                "oilConsumption": "2",
+                "accuracy": "69",
+                "antisubmarineWarfare": "47"
+            }
+        },
+        "slots": {
+            "1": {
+                "type": "DD Guns",
+                "minEfficiency": 90,
+                "maxEfficiency": 100
+            },
+            "2": {
+                "type": "Torpedoes",
+                "minEfficiency": 120,
+                "maxEfficiency": 135
+            },
+            "3": {
+                "type": "Anti-Air Guns",
+                "minEfficiency": 95,
+                "maxEfficiency": 100
+            }
+        },
+        "enhanceValue": {
+            "firepower": 5,
+            "torpedo": 22,
+            "aviation": 0,
+            "reload": 15
+        },
+        "scrapValue": {
+            "coin": 4,
+            "oil": 3,
+            "medal": 4
+        },
+        "skills": [
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/1/13/Skill_13390.png",
+                "names": {
+                    "en": "Eskimo, attack!",
+                    "cn": "尝尝这个！",
+                    "jp": "エスキモー、アタック！"
+                },
+                "description": "Every 30s, with a 50% (100%) chance a special barrage gets fired (power and style based on skill level). If own HP falls below 30%, immediately restore 10% of own health and fire special barrage, limited to once per battle.",
+                "color": "pink"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+                "names": {
+                    "en": "All Out Assault",
+                    "cn": "全弹发射",
+                    "jp": "全弾発射-トライバル級"
+                },
+                "description": "Every 16 times the main gun is fired, trigger Full Barrage - Tribal-Class I (II)",
+                "color": "pink"
+            }
+        ],
+        "limitBreaks": [
+            [
+                "Gains Full Barrage I",
+                "Main Gun Efficiency +5%"
+            ],
+            [
+                "Main Gun Mount +1",
+                "Pre-Loaded Torpedo +1",
+                "Torpedo Efficiency +10%"
+            ],
+            [
+                "Upgrades Full Barrage I→II",
+                "All Weapon Efficiency +5%"
+            ]
+        ],
+        "fleetTech": {
+            "statsBonus": {
+                "collection": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Health",
+                    "bonus": "+1"
+                },
+                "maxLevel": {
+                    "applicable": [
+                        "Destroyer"
+                    ],
+                    "stat": "Firepower",
+                    "bonus": "+1"
+                }
+            },
+            "techPoints": {
+                "collection": 6,
+                "maxLimitBreak": 12,
+                "maxLevel": 9,
+                "total": 27
+            }
+        },
+        "construction": {
+            "constructionTime": "00:29:00",
+            "availableIn": {
+                "light": false,
+                "heavy": false,
+                "aviation": false,
+                "limited": "Only during event: Counterattack through the Fjord",
+                "exchange": false
+            }
+        },
+        "obtainedFrom": {
+            "obtainedFrom": "Available in Limited Construction during \"Counterattack through the Fjord\" Event.",
+            "fromMaps": []
+        },
+        "misc": {
+            "artist": "shisantian",
+            "web": {
+                "name": "土狗十三天",
+                "url": "https://www.weibo.com/p/1005053082090661"
+            },
+            "pixiv": {
+                "name": "13日(十三天)",
+                "url": "https://www.pixiv.net/en/users/13138388"
+            },
+            "twitter": {
+                "name": "真明",
+                "url": "https://twitter.com/shisantian"
+            },
+            "voice": null
+        },
+        "skins": [
+            {
+                "name": "Default",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/460/Default/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/460/Default/chibi.png",
+                "info": {
+                    "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Troublemaker in Atigi",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/460/Troublemaker_in_Atigi/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/460/Troublemaker_in_Atigi/chibi.png",
+                "info": {
+                    "enClient": "skin unavailable",
+                    "cnClient": "海边的“问题儿童”",
+                    "jpClient": "アティギの問題児？",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "780",
                     "live2dModel": false
                 }
             }
@@ -91600,6 +92189,21 @@
             "value": 2
         },
         "stats": {
+            "level120Retrofit": {
+                "health": "3844",
+                "armor": "Light",
+                "reload": "190",
+                "luck": "33",
+                "firepower": "181",
+                "torpedo": "0",
+                "evasion": "90",
+                "speed": "32",
+                "antiair": "406",
+                "aviation": "0",
+                "oilConsumption": "10",
+                "accuracy": "190",
+                "antisubmarineWarfare": "109"
+            },
             "level120": {
                 "health": "3604",
                 "armor": "Light",
@@ -91614,6 +92218,21 @@
                 "oilConsumption": "10",
                 "accuracy": "175",
                 "antisubmarineWarfare": "109"
+            },
+            "level100Retrofit": {
+                "health": "3444",
+                "armor": "Light",
+                "reload": "166",
+                "luck": "33",
+                "firepower": "159",
+                "torpedo": "0",
+                "evasion": "73",
+                "speed": "32",
+                "antiair": "369",
+                "aviation": "0",
+                "oilConsumption": "10",
+                "accuracy": "171",
+                "antisubmarineWarfare": "96"
             },
             "level100": {
                 "health": "3204",
@@ -91650,17 +92269,20 @@
             "1": {
                 "type": "CL Guns",
                 "minEfficiency": 105,
-                "maxEfficiency": 135
+                "maxEfficiency": 135,
+                "kaiEfficiency": 140
             },
             "2": {
                 "type": "DD Guns",
                 "minEfficiency": 65,
-                "maxEfficiency": 65
+                "maxEfficiency": 65,
+                "kaiEfficiency": 65
             },
             "3": {
                 "type": "Anti-Air Guns",
                 "minEfficiency": 100,
-                "maxEfficiency": 100
+                "maxEfficiency": 100,
+                "kaiEfficiency": 115
             }
         },
         "enhanceValue": {
@@ -91682,7 +92304,27 @@
                     "cn": "雷达扫描",
                     "jp": "レーダー探知"
                 },
-                "description": "Every 20 seconds, 30% (60%) chance to increase damage taken by all enemies on the screen by 20% (40%) for 10 seconds.",
+                "description": "Every 20s: 30% (60%) chance to apply a debuff to all onscreen enemies, increasing the DMG they take by 20% (40%) for 10s.",
+                "color": "gold"
+            },
+            {
+                "icon": null,
+                "names": {
+                    "en": "(Retrofit) Radar Scan Plus",
+                    "cn": "雷达扫描·改",
+                    "jp": "レーダー探知・改"
+                },
+                "description": "Every 20s: 30% (60%) chance to apply a debuff to all onscreen enemies, increasing the DMG they take by 20% (40%) for 10s. When this ship has an SG Radar equipped: increases this ship's EVA by 5% (10%), and this skill attempts to activate 16s after the beginning of combat (instead of 20s). (Replaces Radar Scan)",
+                "color": "gold"
+            },
+            {
+                "icon": "https://azurlane.koumakan.jp/w/images/9/94/Skill_13380.png",
+                "names": {
+                    "en": "(Retrofit) The Wonder of Kula Gulf",
+                    "cn": "库拉湾之梦",
+                    "jp": "クラ湾の夢"
+                },
+                "description": "Decreases this ship's torpedo DMG taken by 5% (15%). At the start of the battle, if there are 3 ships afloat in your Vanguard and there is an Eagle Union ship in the backmost position (other than this ship): increases that ship's EVA by 4.5% (12%).",
                 "color": "gold"
             },
             {
@@ -91734,6 +92376,220 @@
                 "total": 40
             }
         },
+        "retrofit": true,
+        "retrofitId": "3033",
+        "retrofitProjects": {
+            "A": {
+                "name": "Hull Improvement Ⅰ",
+                "attributes": [
+                    "\"Health\" +70"
+                ],
+                "materials": [
+                    "2x \"CruiserT1BP\""
+                ],
+                "coins": 400,
+                "level": 1,
+                "levelBreakLevel": 0,
+                "levelBreakStars": "★★☆☆☆",
+                "recurrence": 1,
+                "require": []
+            },
+            "B": {
+                "name": "Reload Enhancement Ⅰ",
+                "attributes": [
+                    "\"Reload\" +5"
+                ],
+                "materials": [
+                    "3x \"CruiserT1BP\""
+                ],
+                "coins": 600,
+                "level": 5,
+                "levelBreakLevel": 0,
+                "levelBreakStars": "★★☆☆☆",
+                "recurrence": 1,
+                "require": [
+                    "A"
+                ]
+            },
+            "C": {
+                "name": "Anti-Air Gun Improvement Ⅰ",
+                "attributes": [
+                    "Anti-Air Gun Efficiency +5%"
+                ],
+                "materials": [
+                    "3x \"CruiserT1BP\""
+                ],
+                "coins": 800,
+                "level": 20,
+                "levelBreakLevel": 1,
+                "levelBreakStars": "★★★☆☆",
+                "recurrence": 1,
+                "require": [
+                    "A"
+                ]
+            },
+            "D": {
+                "name": "Anti-Air Enhancement Ⅰ",
+                "attributes": [
+                    "\"Anti-air\" +15"
+                ],
+                "materials": [
+                    "5x \"CruiserT1BP\""
+                ],
+                "coins": 1000,
+                "level": 25,
+                "levelBreakLevel": 1,
+                "levelBreakStars": "★★★☆☆",
+                "recurrence": 1,
+                "require": [
+                    "C"
+                ]
+            },
+            "E": {
+                "name": "Main Gun Improvement Ⅰ",
+                "attributes": [
+                    "Main Gun Efficiency +5%"
+                ],
+                "materials": [
+                    "3x \"CruiserT2BP\""
+                ],
+                "coins": 1200,
+                "level": 35,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 1,
+                "require": [
+                    "C"
+                ]
+            },
+            "F": {
+                "name": "Firepower Enhancement Ⅰ",
+                "attributes": [
+                    "\"Firepower\" +10"
+                ],
+                "materials": [
+                    "2x \"CruiserT2BP\""
+                ],
+                "coins": 1500,
+                "level": 40,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 1,
+                "require": [
+                    "B",
+                    "E"
+                ]
+            },
+            "G": {
+                "name": "Hull Improvement Ⅱ",
+                "attributes": [
+                    "\"Health\" +70 / +100"
+                ],
+                "materials": [
+                    "2x / 3x \"CruiserT2BP\""
+                ],
+                "coins": 1800,
+                "level": 50,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 2,
+                "require": [
+                    "E"
+                ]
+            },
+            "H": {
+                "name": "Hit Enhancement Ⅰ",
+                "attributes": [
+                    "\"Accuracy\" +5"
+                ],
+                "materials": [
+                    "3x \"CruiserT2BP\""
+                ],
+                "coins": 2000,
+                "level": 55,
+                "levelBreakLevel": 2,
+                "levelBreakStars": "★★★★☆",
+                "recurrence": 1,
+                "require": [
+                    "G"
+                ]
+            },
+            "I": {
+                "name": "Anti-Air Gun Improvement Ⅱ",
+                "attributes": [
+                    "Anti-Air Gun Efficiency +5% / +5%"
+                ],
+                "materials": [
+                    "1x / 1x \"CruiserT3BP\""
+                ],
+                "coins": 2500,
+                "level": 70,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 2,
+                "require": [
+                    "G"
+                ]
+            },
+            "J": {
+                "name": "Anti-Air Enhancement Ⅱ",
+                "attributes": [
+                    "\"Anti-air\" +15 / +25"
+                ],
+                "materials": [
+                    "1x / 2x \"CruiserT3BP\"",
+                    "5x / 15x \"AAT3Plate\""
+                ],
+                "coins": 3000,
+                "level": 75,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 2,
+                "require": [
+                    "D",
+                    "I"
+                ]
+            },
+            "K": {
+                "name": "Modernization",
+                "attributes": [
+                    "\"Anti-air\" +35",
+                    "\"Accuracy\" +10\"Radar Scan\" skill upgrades to \"Radar Scan Plus\""
+                ],
+                "materials": [
+                    "3x \"CruiserT3BP\"",
+                    "1x \"Helena\" or \"Universal Bulin\""
+                ],
+                "coins": 4000,
+                "level": 85,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 1,
+                "require": [
+                    "I",
+                    "J"
+                ]
+            },
+            "L": {
+                "name": "Tactical Learning",
+                "attributes": [
+                    "Learn Skill \"The Wonder of Kula Gulf\""
+                ],
+                "materials": [
+                    "2x \"CruiserT3BP\"",
+                    "50x \"AuxT3Plate\""
+                ],
+                "coins": 3000,
+                "level": 90,
+                "levelBreakLevel": 3,
+                "levelBreakStars": "★★★★★",
+                "recurrence": 1,
+                "require": [
+                    "H",
+                    "K"
+                ]
+            }
+        },
         "construction": {
             "constructionTime": "01:15:00",
             "availableIn": {
@@ -91779,6 +92635,16 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/033/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Retrofit",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/033/Retrofit/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/033/Retrofit/chibi.png",
+                "info": {
+                    "obtainedFrom": "Retrofit",
                     "live2dModel": false
                 }
             },
@@ -92735,6 +93601,19 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/036/Retrofit/chibi.png",
                 "info": {
                     "obtainedFrom": "Retrofit",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Oath",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/036/Oath/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/036/Oath/chibi.png",
+                "info": {
+                    "enClient": "No. 1 June Bride!",
+                    "cnClient": "June Bride No.1！",
+                    "jpClient": "ジューンブライドNo.1！",
+                    "obtainedFrom": "Oath",
                     "live2dModel": false
                 }
             },
@@ -95792,12 +96671,12 @@
                 }
             },
             {
-                "name": "Easy School",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/048/Easy_School/image.png",
+                "name": "Leisurely ABC's",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/048/Leisurely_ABCs/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_103.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/048/Easy_School/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/048/Leisurely_ABCs/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Leisurely ABC's",
                     "cnClient": "悠哉进行曲",
                     "jpClient": "イージースクール",
                     "obtainedFrom": "Skin Shop",
@@ -96261,7 +97140,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_ashen_1.png"
+            },
+            {
+                "description": "Baltimore, Alabama",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_ashen_2.png"
+            }
+        ]
     },
     "052": {
         "wikiUrl": "https://azurlane.koumakan.jp/Nevada",
@@ -101455,7 +102343,7 @@
                 "info": {
                     "enClient": "Hibiscus-scented Idol",
                     "cnClient": "异国的偶像？",
-                    "jpClient": "skin unavailable",
+                    "jpClient": "異国風アイドル",
                     "obtainedFrom": "Hibiscus-scented Idol Event Shop",
                     "cost": "300",
                     "live2dModel": false
@@ -111035,6 +111923,19 @@
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan011/Default/chibi.png",
                 "info": {
                     "obtainedFrom": "Default",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Oath",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan011/Oath/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan011/Oath/chibi.png",
+                "info": {
+                    "enClient": "Zeremonie of the Cradle",
+                    "cnClient": "摇篮的Zeremonie",
+                    "jpClient": "ユリカゴのセレモニー",
+                    "obtainedFrom": "Oath",
                     "live2dModel": false
                 }
             },
