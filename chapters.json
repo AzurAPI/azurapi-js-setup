@@ -17,8 +17,17 @@
 				"clearRewards": {
 					"cube": 1,
 					"coin": 300,
-					"oil": 50
+					"oil": null
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T2 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 1,
 					"bossLevel": 2,
@@ -97,6 +106,12 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Destroyer Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 21,
 					"bossLevel": 22,
@@ -201,6 +216,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 3,
 					"bossLevel": 4,
@@ -325,6 +349,12 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Cruiser Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 23,
 					"bossLevel": 24,
@@ -470,6 +500,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T3 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 5,
 					"bossLevel": 6,
@@ -599,6 +638,12 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Battleship Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 25,
 					"bossLevel": 26,
@@ -754,10 +799,22 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 8,
 					"bossLevel": 10,
-					"boss": ": 10 ("
+					"boss": [
+						"Akagi",
+						"Kaga"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 130,
@@ -953,10 +1010,19 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Carrier Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 28,
 					"bossLevel": 30,
-					"boss": ": 30 ("
+					"boss": [
+						"Akagi",
+						"Kaga"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 130,
@@ -1184,6 +1250,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T2 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 11,
 					"bossLevel": 12,
@@ -1392,6 +1467,12 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Destroyer Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 31,
 					"bossLevel": 32,
@@ -1630,6 +1711,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 14,
 					"bossLevel": 15,
@@ -1893,6 +1983,12 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Cruiser Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 34,
 					"bossLevel": 35,
@@ -2186,6 +2282,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T3 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 17,
 					"bossLevel": 18,
@@ -2410,6 +2515,12 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Battleship Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 37,
 					"bossLevel": 38,
@@ -2664,6 +2775,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 20,
 					"bossLevel": 21,
@@ -2884,6 +3004,12 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T2 Carrier Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 40,
 					"bossLevel": 41,
@@ -3141,6 +3267,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T3 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 23,
 					"bossLevel": 24,
@@ -3368,6 +3503,12 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 43,
 					"bossLevel": 44,
@@ -3624,6 +3765,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 26,
 					"bossLevel": 27,
@@ -3870,6 +4020,12 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 46,
 					"bossLevel": 47,
@@ -4145,6 +4301,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 29,
 					"bossLevel": 30,
@@ -4386,6 +4551,12 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 49,
 					"bossLevel": 50,
@@ -4656,6 +4827,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 32,
 					"bossLevel": 33,
@@ -4909,6 +5089,12 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 52,
 					"bossLevel": 53,
@@ -5193,6 +5379,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T3 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 35,
 					"bossLevel": 36,
@@ -5446,6 +5641,12 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 55,
 					"bossLevel": 56,
@@ -5729,6 +5930,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 38,
 					"bossLevel": 39,
@@ -5982,6 +6192,12 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 58,
 					"bossLevel": 59,
@@ -6265,6 +6481,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 41,
 					"bossLevel": 42,
@@ -6486,6 +6711,12 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 61,
 					"bossLevel": 62,
@@ -6737,6 +6968,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 44,
 					"bossLevel": 45,
@@ -7063,6 +7303,12 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 64,
 					"bossLevel": 65,
@@ -7421,6 +7667,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T3 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 47,
 					"bossLevel": 48,
@@ -7727,6 +7982,12 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 67,
 					"bossLevel": 68,
@@ -8064,6 +8325,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 50,
 					"bossLevel": 51,
@@ -8329,6 +8599,12 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 70,
 					"bossLevel": 71,
@@ -8625,6 +8901,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 53,
 					"bossLevel": 54,
@@ -8885,6 +9170,12 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 73,
 					"bossLevel": 74,
@@ -9176,6 +9467,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 56,
 					"bossLevel": 57,
@@ -9467,6 +9767,12 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 76,
 					"bossLevel": 77,
@@ -9791,6 +10097,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": ""
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 59,
 					"bossLevel": 60,
@@ -10089,6 +10404,12 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 77,
 					"bossLevel": 78,
@@ -10419,6 +10740,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 62,
 					"bossLevel": 63,
@@ -10739,6 +11069,12 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 79,
 					"bossLevel": 80,
@@ -11091,6 +11427,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": ""
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 65,
 					"bossLevel": 66,
@@ -11375,6 +11720,12 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 81,
 					"bossLevel": 82,
@@ -11691,6 +12042,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 68,
 					"bossLevel": 69,
@@ -12021,6 +12381,12 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 83,
 					"bossLevel": 84,
@@ -12375,6 +12741,20 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 71,
 					"bossLevel": 72,
@@ -12595,6 +12975,16 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					},
+					{
+						"count": 100,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 85,
 					"bossLevel": 86,
@@ -12845,6 +13235,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 73,
 					"bossLevel": 74,
@@ -13142,6 +13541,16 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					},
+					{
+						"count": 150,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 87,
 					"bossLevel": 88,
@@ -13469,10 +13878,22 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 75,
 					"bossLevel": 76,
-					"boss": "Shiratsuyu and Shigure"
+					"boss": [
+						"Shiratsuyu",
+						"Shigure"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 465,
@@ -13810,10 +14231,23 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					},
+					{
+						"count": 200,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 89,
 					"bossLevel": 90,
-					"boss": "Shiratsuyu"
+					"boss": [
+						"Shiratsuyu",
+						"Shigure"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 465,
@@ -14181,6 +14615,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 77,
 					"bossLevel": 78,
@@ -14507,6 +14950,16 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					},
+					{
+						"count": 250,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 91,
 					"bossLevel": 92,
@@ -14860,6 +15313,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 79,
 					"bossLevel": 80,
@@ -15089,6 +15551,16 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					},
+					{
+						"count": 100,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 93,
 					"bossLevel": 94,
@@ -15349,6 +15821,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 81,
 					"bossLevel": 82,
@@ -15650,6 +16131,16 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					},
+					{
+						"count": 150,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 95,
 					"bossLevel": 96,
@@ -15982,6 +16473,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 83,
 					"bossLevel": 84,
@@ -16327,6 +16827,16 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					},
+					{
+						"count": 200,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 97,
 					"bossLevel": 98,
@@ -16693,6 +17203,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 85,
 					"bossLevel": 86,
@@ -17063,6 +17582,16 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					},
+					{
+						"count": 250,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 99,
 					"bossLevel": 100,
@@ -17461,6 +17990,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 88,
 					"bossLevel": 89,
@@ -17761,6 +18299,16 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					},
+					{
+						"count": 250,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 101,
 					"bossLevel": 102,
@@ -18092,6 +18640,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 90,
 					"bossLevel": 91,
@@ -18397,6 +18954,16 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					},
+					{
+						"count": 350,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 103,
 					"bossLevel": 104,
@@ -18728,6 +19295,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 92,
 					"bossLevel": 93,
@@ -19062,6 +19638,16 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					},
+					{
+						"count": 450,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 105,
 					"bossLevel": 106,
@@ -19189,7 +19775,7 @@
 						],
 						[
 							"Enemy spawn",
-							"Submarine Spawn",
+							"Sea",
 							"Sea",
 							"Fleet spawn",
 							"Land",
@@ -19204,7 +19790,7 @@
 							"Land",
 							"Fleet spawn",
 							"Sea",
-							"Submarine Spawn",
+							"Sea",
 							"Enemy spawn"
 						],
 						[
@@ -19295,11 +19881,6 @@
 							"node": "Enemy spawn"
 						},
 						{
-							"x": 1,
-							"y": 2,
-							"node": "Submarine Spawn"
-						},
-						{
 							"x": 3,
 							"y": 2,
 							"node": "Fleet spawn"
@@ -19333,11 +19914,6 @@
 							"x": 4,
 							"y": 3,
 							"node": "Fleet spawn"
-						},
-						{
-							"x": 6,
-							"y": 3,
-							"node": "Submarine Spawn"
 						},
 						{
 							"x": 7,
@@ -19427,6 +20003,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 94,
 					"bossLevel": 95,
@@ -19762,6 +20347,16 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					},
+					{
+						"count": 550,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 107,
 					"bossLevel": 108,
@@ -19881,7 +20476,7 @@
 						[
 							"Sea",
 							"Land",
-							"Submarine Spawn",
+							"Sea",
 							"Enemy spawn",
 							"Sea",
 							"Enemy spawn",
@@ -19896,7 +20491,7 @@
 							"Sea",
 							"Enemy spawn",
 							"Sea",
-							"Submarine Spawn",
+							"Sea",
 							"Land",
 							"Sea"
 						],
@@ -19908,7 +20503,7 @@
 							"Sea",
 							"Sea",
 							"Enemy spawn",
-							"Submarine Spawn",
+							"Sea",
 							"Enemy spawn"
 						],
 						[
@@ -19971,11 +20566,6 @@
 							"node": "Land"
 						},
 						{
-							"x": 2,
-							"y": 1,
-							"node": "Submarine Spawn"
-						},
-						{
 							"x": 3,
 							"y": 1,
 							"node": "Enemy spawn"
@@ -20011,11 +20601,6 @@
 							"node": "Enemy spawn"
 						},
 						{
-							"x": 6,
-							"y": 2,
-							"node": "Submarine Spawn"
-						},
-						{
 							"x": 7,
 							"y": 2,
 							"node": "Land"
@@ -20039,11 +20624,6 @@
 							"x": 6,
 							"y": 3,
 							"node": "Enemy spawn"
-						},
-						{
-							"x": 7,
-							"y": 3,
-							"node": "Submarine Spawn"
 						},
 						{
 							"x": 8,
@@ -20135,10 +20715,22 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 95,
 					"bossLevel": 96,
-					"boss": "Yuugure and Matsukaze"
+					"boss": [
+						"Yuugure",
+						"Matsukaze"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 540,
@@ -20422,7 +21014,332 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Once More, Sortie Again!",
+				"code": "10-1",
+				"introduction": "Less than a week after the Battle of Kula Gulf, the Sakura Fleet reassembled again to launch a covert transport operation to the Kolombangara Islands. Task Force 18, led by Honolulu and St Louis, was once again instructed to intercept the transport.",
+				"unlockRequirements": {
+					"text": "HQ Lv. 70",
+					"requiredLevel": 70
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 105,
+					"bossLevel": 106,
+					"boss": [
+						"Yuugure",
+						"Matsukaze"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 540,
+					"mediumFleet": 594,
+					"largeFleet": 648,
+					"bossFleet": 790
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 30 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 1855,
+					"suggestedLv1": 1392,
+					"suggestedLv2": 928
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 90,
+					"firepower": 1200,
+					"torpedo": 1200
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"24 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 105mm (SK C/33)",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Single 127mm (5\"/38 Mk 30)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 152mm (BL 6\" Mk XXII)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Unicorn",
+					"Houston",
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Myoukou",
+					"Nachi",
+					"Tennessee",
+					"California",
+					"Amazon",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Minazuki",
+					"Mikazuki",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/7/76/Flag.png",
+					"width": 7,
+					"height": 6,
+					"map": [
+						[
+							"Fleet spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Boss spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Boss spawn"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Sea",
+							"Sea",
+							"Land"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Land"
+						}
+					]
+				}
+			}
 		},
 		"2": {
 			"names": {
@@ -20443,6 +21360,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 97,
 					"bossLevel": 98,
@@ -20776,7 +21702,375 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Preemptive Strike",
+				"code": "10-2",
+				"introduction": "Our PBY recons have detected enemy forces to the south. However, they had already detected our radar signals first. The night battle is about to commence!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 70",
+					"requiredLevel": 70
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 108,
+					"bossLevel": 109,
+					"boss": "Hamakaze"
+				},
+				"baseXP": {
+					"smallFleet": 545,
+					"mediumFleet": 600,
+					"largeFleet": 654,
+					"bossFleet": 798
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 30 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 1970,
+					"suggestedLv1": 1478,
+					"suggestedLv2": 985
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 90,
+					"firepower": 1200,
+					"torpedo": 1200
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"24 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "SG Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "Gyroscope",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Lexington",
+					"Saratoga",
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Honolulu",
+					"Northampton",
+					"Chicago",
+					"Repulse",
+					"Gridley",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Minazuki",
+					"Mikazuki",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/Swordicon2.png",
+					"width": 8,
+					"height": 6,
+					"map": [
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Boss spawn"
+						],
+						[
+							"Sea",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Fleet spawn",
+							"Land",
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Sea",
+							"Fleet spawn",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Sea",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Boss spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Boss spawn"
+						}
+					]
+				}
+			}
 		},
 		"3": {
 			"names": {
@@ -20797,6 +22091,15 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 99,
 					"bossLevel": 100,
@@ -21137,7 +22440,382 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Press the Attack",
+				"code": "10-3",
+				"introduction": "Under the cover of night, the Sakura fleet scored several hits on our light cruisers with their prized oxygen torpedoes. However, their flagship, Jintsuu, has been heavily damaged concentrated fire from 152mm cannons, and is now retreating.",
+				"unlockRequirements": {
+					"text": "HQ Lv. 70",
+					"requiredLevel": 70
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 111,
+					"bossLevel": 112,
+					"boss": "Yukikaze"
+				},
+				"baseXP": {
+					"smallFleet": 555,
+					"mediumFleet": 610,
+					"largeFleet": 666,
+					"bossFleet": 812
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 35 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 2090,
+					"suggestedLv1": 1568,
+					"suggestedLv2": 1045
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 90,
+					"firepower": 1200,
+					"torpedo": 1200
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"24 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Fire Control Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Repair Toolkit",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 40mm AA L60 Bofors",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"St. Louis",
+					"Nelson",
+					"Rodney",
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Sims",
+					"Hammann",
+					"Portland",
+					"Fortune",
+					"Juno",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Minazuki",
+					"Mikazuki",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/Swordicon2.png",
+					"width": 9,
+					"height": 6,
+					"map": [
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Boss spawn",
+							"Land",
+							"Sea",
+							"Secret node"
+						],
+						[
+							"Sea",
+							"Land",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Boss spawn",
+							"Land",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Land",
+							"Land",
+							"Boss spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Land",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Boss spawn"
+						],
+						[
+							"Land",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Secret node"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 5,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			}
 		},
 		"4": {
 			"names": {
@@ -21158,6 +22836,15 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 101,
 					"bossLevel": 102,
@@ -21505,7 +23192,390 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Counterattack",
+				"code": "10-4",
+				"introduction": "Just as Honolulu and St. Louis were seizing on the advantage, a Sakura torpedo squadron emerged from the cover of darkness to launch a vicious counterattack! Honolulu and St. Louis have been struck by torpedoes, and the situation is critical!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 70",
+					"requiredLevel": 70
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 114,
+					"bossLevel": 115,
+					"boss": "Jintsuu"
+				},
+				"baseXP": {
+					"smallFleet": 565,
+					"mediumFleet": 621,
+					"largeFleet": 678,
+					"bossFleet": 826
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 40 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 2210,
+					"suggestedLv1": 1658,
+					"suggestedLv2": 1105
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 2,
+						"heavyCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"aircraftCarrier": 1,
+						"battlecruiser": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 90,
+					"firepower": 1200,
+					"torpedo": 1200
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"24 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 25mm AA Type 96",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					{
+						"name": "Jintsuu",
+						"note": "Boss only"
+					},
+					"London",
+					"Queen Elizabeth",
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Shropshire",
+					"Kent",
+					"Suffolk",
+					"Norfolk",
+					"Thatcher",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Minazuki",
+					"Mikazuki",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/6/68/Boss_node.png",
+					"width": 9,
+					"height": 6,
+					"map": [
+						[
+							"Boss spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Boss spawn",
+							"Sea",
+							"Land",
+							"Land"
+						],
+						[
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land"
+						],
+						[
+							"Sea",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Land",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Boss spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 4,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 5,
+							"node": "Boss spawn"
+						}
+					]
+				}
+			}
 		},
 		"names": {
 			"en": "Battle of Kolombangara",
@@ -21533,10 +23603,26 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					},
+					{
+						"count": 100,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 103,
 					"bossLevel": 104,
-					"boss": "Shigure and Shiratsuyu"
+					"boss": [
+						"Shigure",
+						"Shiratsuyu"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 718,
@@ -21830,7 +23916,342 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Landing Operation",
+				"code": "11-1",
+				"introduction": "We have successfully drawn the enemy fleet's attention towards our air wings. Come morning, we should be able to anchor at Bougainville Island!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 75",
+					"requiredLevel": 75
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Destroyer Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 1134111,
+					"bossLevel": 114,
+					"boss": [
+						"Shiratsuyu",
+						"Shigure"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 718,
+					"mediumFleet": 790,
+					"largeFleet": 862,
+					"bossFleet": 1051
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 30 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 2220,
+					"suggestedLv1": 1665,
+					"suggestedLv2": 1110
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"lightAircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 94,
+					"torpedo": 1500,
+					"evasion": 900
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"26 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T3"
+					},
+					{
+						"name": "Steam Catapult",
+						"tier": "T2"
+					},
+					{
+						"name": "Single 127mm (5\"/38 Mk 30)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (5\"/38 Mk 38)",
+						"tier": "T2"
+					},
+					{
+						"name": "102mm AA QF 4\" Mk V",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Houston",
+					"Arizona",
+					"Pennsylvania",
+					"Sims",
+					"Hammann",
+					"Gridley",
+					"Fletcher",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Craven",
+					"McCall",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/Swordicon2.png",
+					"width": 8,
+					"height": 6,
+					"map": [
+						[
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Boss spawn"
+						],
+						[
+							"Boss spawn",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Sea"
+						],
+						[
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Boss spawn",
+							"Land",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Land",
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land"
+						],
+						[
+							"Land",
+							"Fleet spawn",
+							"Sea",
+							"Sea",
+							"Land",
+							"Sea",
+							"Boss spawn",
+							"Land"
+						]
+					],
+					"nodes": [
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 4,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Land"
+						}
+					]
+				}
+			}
 		},
 		"2": {
 			"names": {
@@ -21851,6 +24272,19 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					},
+					{
+						"count": 150,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 104,
 					"bossLevel": 105,
@@ -22207,7 +24641,403 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Stormy Night",
+				"code": "11-2",
+				"introduction": "A Sakura Empire fleet has been sighted advancing quickly through the storm! Only Task Force 39, exhausted after several consecutive battles, can stop them...",
+				"unlockRequirements": {
+					"text": "HQ Lv. 75",
+					"requiredLevel": 75
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Cruiser Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 1155111,
+					"bossLevel": 116,
+					"boss": "Myoukou"
+				},
+				"baseXP": {
+					"smallFleet": 725,
+					"mediumFleet": 797,
+					"largeFleet": 870,
+					"bossFleet": 1060
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 35 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 2360,
+					"suggestedLv1": 1770,
+					"suggestedLv2": 1180
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"lightAircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 96,
+					"torpedo": 1600,
+					"evasion": 1000
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"26 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Vought F4U Corsair",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Single 150mm (SK C/28)",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"York",
+					"Exeter",
+					"Agano",
+					"Glowworm",
+					"Tennessee",
+					"California",
+					"Arethusa",
+					"Galatea",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Craven",
+					"McCall",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/Swordicon2.png",
+					"width": 11,
+					"height": 6,
+					"map": [
+						[
+							"Land",
+							"Land",
+							"Land",
+							"Sea",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Secret node",
+							"Land",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Boss spawn",
+							"Boss spawn"
+						],
+						[
+							"Sea",
+							"Land",
+							"Land",
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Land"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Boss spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Secret node"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 10,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 10,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 10,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 10,
+							"y": 5,
+							"node": "Boss spawn"
+						}
+					]
+				}
+			}
 		},
 		"3": {
 			"names": {
@@ -22228,10 +25058,26 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					},
+					{
+						"count": 200,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 105,
 					"bossLevel": 106,
-					"boss": "Uzuki and Agano"
+					"boss": [
+						"Uzuki",
+						"Agano"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 731,
@@ -22582,7 +25428,399 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Knights of the Sea",
+				"code": "11-3",
+				"introduction": "\"Escorting our allies is our duty! Cleveland, Montpelier, Columbia, and Denver; the Knights of the Sea, shall be your shields!\"",
+				"unlockRequirements": {
+					"text": "HQ Lv. 75",
+					"requiredLevel": 75
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Battleship Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 1175111,
+					"bossLevel": 118,
+					"boss": [
+						"Uzuki",
+						"Agano"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 731,
+					"mediumFleet": 803,
+					"largeFleet": 877,
+					"bossFleet": 1068
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 40 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 2480,
+					"suggestedLv1": 1860,
+					"suggestedLv2": 1240
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"lightAircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 98,
+					"torpedo": 1700,
+					"evasion": 1100
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"26 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Quadruple 40mm L60 Mk2 Bofors",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Grumman F6F Hellcat",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 150mm (SK C/25)",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Cleveland",
+					"Vestal",
+					"Sendai",
+					"Achilles",
+					"Ajax",
+					"Atlanta",
+					"Juneau",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Craven",
+					"McCall",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/d/d6/Swordicon2.png",
+					"width": 9,
+					"height": 7,
+					"map": [
+						[
+							"Land",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Land"
+						],
+						[
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Submarine Spawn"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Land",
+							"Land",
+							"Sea",
+							"Land",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Land",
+							"Land",
+							"Land",
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Fleet spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Boss spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 6,
+							"node": "Boss spawn"
+						}
+					]
+				}
+			}
 		},
 		"4": {
 			"names": {
@@ -22603,6 +25841,19 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					},
+					{
+						"count": 250,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 106,
 					"bossLevel": 107,
@@ -23000,7 +26251,439 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Part the Night",
+				"code": "11-4",
+				"introduction": "The gallant Knights of the Sea stand face to face with the Sakura Empire's relentless heavy cruisers. The clouds in the night sky will be parted not by sunlight, but by boundless cannon fire!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 75",
+					"requiredLevel": 75
+				},
+				"3-StarRewards": [
+					{
+						"count": 2,
+						"item": "T3 Carrier Retrofit Blueprint"
+					},
+					{
+						"item": "Cognitive chip"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 119431,
+					"bossLevel": 120,
+					"boss": "Sendai"
+				},
+				"baseXP": {
+					"smallFleet": 737,
+					"mediumFleet": 811,
+					"largeFleet": 885,
+					"bossFleet": 1078
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 45 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airSupremacy": {
+					"actual": 2640,
+					"suggestedLv1": 1980,
+					"suggestedLv2": 1320
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"battleship": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"lightAircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 100,
+					"torpedo": 1800,
+					"evasion": 1250
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"26 Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"equipmentBlueprintDrops": [
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 152mm (6\"/47 Mk 16)",
+						"tier": "T3"
+					},
+					{
+						"name": "Curtiss SB2C Helldiver",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 150mm (TbtsK C/36)",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					{
+						"name": "Columbia",
+						"note": "Boss only"
+					},
+					"Laffey",
+					"Javelin",
+					"Z23",
+					"Indianapolis",
+					"Renown",
+					"Northampton",
+					"Chicago",
+					"Portland",
+					"Repulse",
+					"Long Island",
+					"Comet",
+					"Crescent",
+					"Cygnet",
+					"Omaha",
+					"Raleigh",
+					"Richmond",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Craven",
+					"McCall",
+					"Leander",
+					"Hermes"
+				],
+				"nodeMap": {
+					"preview": "https://azurlane.koumakan.jp/w/images/6/68/Boss_node.png",
+					"width": 10,
+					"height": 8,
+					"map": [
+						[
+							"Boss spawn",
+							"Boss spawn",
+							"Land",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Land",
+							"Boss spawn",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Sea",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Submarine Spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Land",
+							"Sea",
+							"Sea",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Land",
+							"Land",
+							"Land"
+						],
+						[
+							"Land",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Boss spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 9,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 6,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 5,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 7,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 3,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 7,
+							"node": "Boss spawn"
+						}
+					]
+				}
+			}
 		},
 		"names": {
 			"en": "Empress Augusta Bay",
@@ -23013,7 +26696,7 @@
 			"names": {
 				"en": "Information Warfare",
 				"cn": "先声夺人",
-				"jp": "先声夺人"
+				"jp": "情報戦の戦果"
 			},
 			"normal": {
 				"title": "Information Warfare",
@@ -23028,6 +26711,19 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					},
+					{
+						"count": 250,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 107,
 					"bossLevel": 108,
@@ -23366,7 +27062,7 @@
 			"names": {
 				"en": "Ambush",
 				"cn": "鲁莽的后果",
-				"jp": "鲁莽的后果"
+				"jp": "奇襲攻撃"
 			},
 			"normal": {
 				"title": "Ambush",
@@ -23376,10 +27072,31 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					},
+					{
+						"count": 350,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 109,
 					"bossLevel": 110,
-					"boss": "Tanikaze and Oyashio"
+					"boss": [
+						"Tanikaze",
+						"Oyashio"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 756,
@@ -23766,7 +27483,7 @@
 			"names": {
 				"en": "Carrier Showdown",
 				"cn": "空中对决",
-				"jp": "空中对决"
+				"jp": "空母対決"
 			},
 			"normal": {
 				"title": "Carrier Showdown",
@@ -23776,10 +27493,31 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					},
+					{
+						"count": 450,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 111,
 					"bossLevel": 112,
-					"boss": "Hiyou and Junyou"
+					"boss": [
+						"Hiyou",
+						"Junyou"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 762,
@@ -24178,7 +27916,7 @@
 			"names": {
 				"en": "Task Force",
 				"cn": "TF58，翱翔于天际",
-				"jp": "TF58，翱翔于天际"
+				"jp": "タスクフォース"
 			},
 			"normal": {
 				"title": "Task Force",
@@ -24188,10 +27926,31 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
+				"clearRewards": {
+					"cube": 2,
+					"coin": 1000,
+					"oil": 150
+				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					},
+					{
+						"count": 550,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 113,
 					"bossLevel": 114,
-					"boss": "Choukai and Maya"
+					"boss": [
+						"Choukai",
+						"Maya"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 768,
@@ -24708,7 +28467,7 @@
 		"names": {
 			"en": "Mariana's Turmoil Pt. 1",
 			"cn": "马里亚纳风云上",
-			"jp": "马里亚纳风云•上"
+			"jp": "風雲マリアナ・上"
 		}
 	},
 	"13": {
@@ -24716,7 +28475,7 @@
 			"names": {
 				"en": "The Skies Above",
 				"cn": "激战的长空",
-				"jp": ""
+				"jp": "戦いの空"
 			},
 			"normal": {
 				"title": "The Skies Above",
@@ -24731,6 +28490,19 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T4 Equipment Box"
+					},
+					{
+						"count": 250,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 115,
 					"bossLevel": 116,
@@ -25054,7 +28826,7 @@
 			"names": {
 				"en": "The Eternal Flute",
 				"cn": "羽栖之鹤",
-				"jp": ""
+				"jp": "悠遠の笛"
 			},
 			"normal": {
 				"title": "The Eternal Flute",
@@ -25069,6 +28841,19 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "Universal Bullin"
+					},
+					{
+						"count": 350,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 117,
 					"bossLevel": 118,
@@ -25459,7 +29244,7 @@
 			"names": {
 				"en": "Wings of Inspiration",
 				"cn": "奋起之鹤",
-				"jp": ""
+				"jp": "奮起の双翼"
 			},
 			"normal": {
 				"title": "Wings of Inspiration",
@@ -25474,10 +29259,26 @@
 					"coin": 300,
 					"oil": 50
 				},
+				"3-StarRewards": [
+					{
+						"count": 50,
+						"item": "Gem"
+					},
+					{
+						"item": "T5 Equipment Box"
+					},
+					{
+						"count": 450,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 119,
 					"bossLevel": 120,
-					"boss": "Shoukaku and Zuikaku"
+					"boss": [
+						"Shoukaku",
+						"Zuikaku"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 792,
@@ -25881,7 +29682,7 @@
 			"names": {
 				"en": "The Dancing Phoenix",
 				"cn": "起舞之凤",
-				"jp": ""
+				"jp": "舞い降りる鳳"
 			},
 			"normal": {
 				"title": "The Dancing Phoenix",
@@ -25896,6 +29697,19 @@
 					"coin": 1000,
 					"oil": 150
 				},
+				"3-StarRewards": [
+					{
+						"count": 100,
+						"item": "Gem"
+					},
+					{
+						"item": "Trial Bullin MKII"
+					},
+					{
+						"count": 550,
+						"item": "Cognitive chip"
+					}
+				],
 				"enemyLevel": {
 					"mobLevel": 121,
 					"bossLevel": 122,
@@ -26380,8 +30194,8 @@
 		},
 		"names": {
 			"en": "Mariana's Turmoil Pt. 2",
-			"cn": "",
-			"jp": ""
+			"cn": "马里亚纳风云下",
+			"jp": "風雲マリアナ・下"
 		}
 	}
 }

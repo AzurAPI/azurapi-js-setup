@@ -83,9 +83,35 @@ function parseClearRewards(div) {
         oil: parseInt(div.childNodes[5].textContent.replace(/[^\d]+/g, '')),
     };
 }
+const ITEM_NAME_WITH_AMOUNT_REGEX = /^(?:,\s+)?(\d+)x ?(.+)$/g;
 
 function parse3StarRewards(div) {
-
+    let reward = {};
+    let rewards = [];
+    for (let i = 0; i < div.childNodes.length; i++) {
+        if (div.childNodes[i].nodeType === 3) { // text node
+            let text = div.childNodes[i].textContent;
+            if (text.includes(",")) {
+                rewards.push(reward);
+                reward = {};
+                text = text.replace(',', '');
+            }
+            if (text.trim().length === 0) continue;
+            if (isNaN(text.replace(/[,\s]+/g, ''))) {
+                if (ITEM_NAME_WITH_AMOUNT_REGEX.test(text)) {
+                    let args = text.replace(ITEM_NAME_WITH_AMOUNT_REGEX, "$1|$2").split("|");
+                    reward.count = parseInt(args[0]);
+                    reward.item = args[1].trim();
+                } else reward.item = text.trim();
+            } else {
+                reward.count = parseInt(text.replace(/[^\d]+/g, ''));
+            }
+        } else {
+            reward.item = div.childNodes[i].title;
+        }
+    }
+    if (Object.keys(reward).length !== 0) rewards.push(reward);
+    return rewards;
 }
 
 function parseEnermyLevel(div) {
@@ -94,6 +120,7 @@ function parseEnermyLevel(div) {
         bossLevel: parseInt(div.childNodes[4].textContent.replace(/[^\d]+/g, ''))
     };
     if (div.childNodes.length === 7) info.boss = div.childNodes[5].textContent;
+    else if (div.childNodes.length > 7) info.boss = [...div.childNodes].filter(n => n.tagName === "A").map(e => e.title);
     else info.boss = div.childNodes[4].textContent.replace(/[^()]+\((.+)\)/, '$1');
     return info;
 }

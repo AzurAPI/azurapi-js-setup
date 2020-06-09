@@ -213,6 +213,7 @@ async function refreshChapter(online) {
         fs.writeFileSync('./chapters.json', JSON.stringify(CHAPTERS, null, '\t'));
         console.log("\nDone");
     }
+    fs.writeFileSync('./chapters.min.json', JSON.stringify(CHAPTERS));
 }
 
 async function refreshMemory(online) {
