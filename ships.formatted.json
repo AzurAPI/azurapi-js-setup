@@ -17714,19 +17714,19 @@
         },
         "stats": {
             "level120Retrofit": {
-                "health": "",
+                "health": "1938",
                 "armor": "Light",
-                "reload": "",
+                "reload": "196",
                 "luck": "51",
-                "firepower": "",
-                "torpedo": "",
-                "evasion": "",
-                "speed": "",
-                "antiair": "",
-                "aviation": "",
-                "oilConsumption": "",
-                "accuracy": "",
-                "antisubmarineWarfare": "{{{ASWKai120}}}"
+                "firepower": "59",
+                "torpedo": "518",
+                "evasion": "212",
+                "speed": "46",
+                "antiair": "175",
+                "aviation": "0",
+                "oilConsumption": "8",
+                "accuracy": "180",
+                "antisubmarineWarfare": "189"
             },
             "level120": {
                 "health": "1773",
@@ -17751,7 +17751,7 @@
                 "firepower": "",
                 "torpedo": "",
                 "evasion": "",
-                "speed": "",
+                "speed": "46",
                 "antiair": "",
                 "aviation": "",
                 "oilConsumption": "",
@@ -38388,10 +38388,10 @@
                 }
             },
             "techPoints": {
-                "collection": 10,
-                "maxLimitBreak": 22,
-                "maxLevel": 16,
-                "total": 48
+                "collection": 0,
+                "maxLimitBreak": 0,
+                "maxLevel": 0,
+                "total": 0
             }
         },
         "construction": {
@@ -83418,7 +83418,7 @@
                 "speed": "43",
                 "antiair": "26",
                 "aviation": "0",
-                "oilConsumption": "3",
+                "oilConsumption": "2",
                 "accuracy": "67",
                 "antisubmarineWarfare": "51"
             }
@@ -83635,7 +83635,7 @@
                 "speed": "32",
                 "antiair": "55",
                 "aviation": "0",
-                "oilConsumption": "9",
+                "oilConsumption": "5",
                 "accuracy": "23",
                 "antisubmarineWarfare": "0"
             }
@@ -83867,13 +83867,13 @@
                 "armor": "Light",
                 "reload": "67",
                 "luck": "83",
-                "firepower": "228",
+                "firepower": "28",
                 "torpedo": "49",
                 "evasion": "17",
                 "speed": "25",
                 "antiair": "52",
                 "aviation": "0",
-                "oilConsumption": "5",
+                "oilConsumption": "3",
                 "accuracy": "60",
                 "antisubmarineWarfare": "36"
             }
@@ -84104,7 +84104,7 @@
                 "speed": "24",
                 "antiair": "45",
                 "aviation": "0",
-                "oilConsumption": "6",
+                "oilConsumption": "4",
                 "accuracy": "47",
                 "antisubmarineWarfare": "0"
             }
@@ -84567,7 +84567,7 @@
                 "speed": "43",
                 "antiair": "27",
                 "aviation": "0",
-                "oilConsumption": "3",
+                "oilConsumption": "2",
                 "accuracy": "70",
                 "antisubmarineWarfare": "51"
             }
@@ -84783,7 +84783,7 @@
                 "speed": "21",
                 "antiair": "58",
                 "aviation": "71",
-                "oilConsumption": "6",
+                "oilConsumption": "4",
                 "accuracy": "29",
                 "antisubmarineWarfare": "0"
             }
