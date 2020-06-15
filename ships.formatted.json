@@ -19980,7 +19980,7 @@
                 "aviation": "0",
                 "oilConsumption": "9",
                 "accuracy": "160",
-                "antisubmarineWarfare": "99"
+                "antisubmarineWarfare": "134"
             },
             "level120": {
                 "health": "3214",
@@ -19998,19 +19998,19 @@
                 "antisubmarineWarfare": "99"
             },
             "level100Retrofit": {
-                "health": "",
+                "health": "3084",
                 "armor": "Light",
-                "reload": "",
+                "reload": "153",
                 "luck": "33",
-                "firepower": "",
-                "torpedo": "",
-                "evasion": "",
+                "firepower": "104",
+                "torpedo": "201",
+                "evasion": "76",
                 "speed": "36",
-                "antiair": "",
-                "aviation": "",
-                "oilConsumption": "",
-                "accuracy": "",
-                "antisubmarineWarfare": "{{{ASWKai}}}"
+                "antiair": "354",
+                "aviation": "0",
+                "oilConsumption": "9",
+                "accuracy": "144",
+                "antisubmarineWarfare": "122"
             },
             "level100": {
                 "health": "2844",
@@ -33618,12 +33618,12 @@
                 }
             },
             {
-                "name": "Two-Man Cell Match!",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/TwoMan_Cell_Match/image.png",
+                "name": "Breezy Doubles",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/Breezy_Doubles/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/TwoMan_Cell_Match/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/Breezy_Doubles/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Breezy Doubles",
                     "cnClient": "非正式沙滩排球赛",
                     "jpClient": "ツーマンセルマッチ！",
                     "obtainedFrom": "Skin Shop",
@@ -38021,10 +38021,10 @@
                 }
             },
             {
-                "name": "和平的号角",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/253//image.png",
+                "name": "The Cornett of Peace",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/253/The_Cornett_of_Peace/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/253//chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/253/The_Cornett_of_Peace/chibi.png",
                 "info": {
                     "enClient": "skin unavailable",
                     "cnClient": "和平的号角",
@@ -38388,10 +38388,10 @@
                 }
             },
             "techPoints": {
-                "collection": 0,
-                "maxLimitBreak": 0,
-                "maxLevel": 0,
-                "total": 0
+                "collection": 10,
+                "maxLimitBreak": 22,
+                "maxLevel": 16,
+                "total": 48
             }
         },
         "construction": {
@@ -58276,12 +58276,12 @@
                 }
             },
             {
-                "name": "Fantastique Maid",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/349/Fantastique_Maid/image.png",
+                "name": "Maid Fantastique",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/349/Maid_Fantastique/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_104.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/349/Fantastique_Maid/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/349/Maid_Fantastique/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Maid Fantastique",
                     "cnClient": "「女仆」浪漫",
                     "jpClient": "Fantastiqueメイド",
                     "obtainedFrom": "Skin Shop",
@@ -59653,12 +59653,12 @@
                 }
             },
             {
-                "name": "Secret Afternoon",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/353/Secret_Afternoon/image.png",
+                "name": "Private Après Midi",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/353/Private_Aprs_Midi/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_133.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/353/Secret_Afternoon/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/353/Private_Aprs_Midi/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Private Après Midi",
                     "cnClient": "秘密的Après midi",
                     "jpClient": "秘密のAprès midi",
                     "obtainedFrom": "Skin Shop",
@@ -70247,12 +70247,12 @@
                 }
             },
             {
-                "name": "Wednesday's Retreat",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/394/Wednesdays_Retreat/image.png",
+                "name": "Mercredi at the Secret Base",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/394/Mercredi_at_the_Secret_Base/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/394/Wednesdays_Retreat/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/394/Mercredi_at_the_Secret_Base/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Mercredi at the Secret Base",
                     "cnClient": "秘密基地的Mercredi",
                     "jpClient": "隠れ家の マルコディ",
                     "obtainedFrom": "Skin Shop",
@@ -79325,7 +79325,7 @@
                 "info": {
                     "enClient": "Snow Vanguard",
                     "cnClient": "雪地先锋",
-                    "jpClient": "skin unavailable",
+                    "jpClient": "スノーヴァンガード",
                     "obtainedFrom": "Skin Shop",
                     "cost": "700",
                     "live2dModel": false
@@ -83672,7 +83672,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/f/f5/Skill_13240.png",
                 "names": {
-                    "en": "Placeholder skill name 1 - Richelieu",
+                    "en": "The Iris's Flagbearer",
                     "cn": "爱丽丝之帜",
                     "jp": "アイリスの旗印"
                 },
@@ -83682,7 +83682,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/1/13/Skill_13250.png",
                 "names": {
-                    "en": "Placeholder skill name 2 - Richelieu",
+                    "en": "The Iris's Holy Flame",
                     "cn": "爱丽丝之焰",
                     "jp": "アイリスの聖炎"
                 },
@@ -83692,7 +83692,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/f/f2/Skill_13260.png",
                 "names": {
-                    "en": "Placeholder skill name 3 - Richelieu",
+                    "en": "The Iris's Vindication",
                     "cn": "爱丽丝之怒",
                     "jp": "アイリスの激憤"
                 },
@@ -83787,12 +83787,12 @@
                 }
             },
             {
-                "name": "Flagship in the Sea Breeze",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/453/Flagship_in_the_Sea_Breeze/image.png",
+                "name": "Fleuron of the Waves",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/453/Fleuron_of_the_Waves/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_133.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/453/Flagship_in_the_Sea_Breeze/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/453/Fleuron_of_the_Waves/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Fleuron of the Waves",
                     "cnClient": "潮风的Fleuron",
                     "jpClient": "潮風のフルーロン",
                     "obtainedFrom": "Skin Shop",
@@ -83910,7 +83910,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/3/32/Skill_13290.png",
                 "names": {
-                    "en": "Placeholder skill name 1 - Jeanne",
+                    "en": "La Pucelle",
                     "cn": "La Pucelle",
                     "jp": "La Pucelle"
                 },
@@ -83920,9 +83920,9 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/4/46/Skill_13300.png",
                 "names": {
-                    "en": "Placeholder skill name 2 - Jeanne",
-                    "cn": "Sonnez la charge!",
-                    "jp": "Sonnez la charge!"
+                    "en": "Holy Prayer",
+                    "cn": "圣女的祷告",
+                    "jp": "神聖なる祈り"
                 },
                 "description": "10 seconds after the battle starts and every 20 seconds after that, give each vanguard ship a shield. Each shield can block up to 1.5% (6.0%) of Jeanne's maximum HP, and and lasts up to 8 seconds.\nIf a ship's shield breaks before its duration expires, that ship will evade all attacks for the next 2s.\nIf a ship's shield expires without breaking, heal that ship for 70 hp.",
                 "color": "deepskyblue"
@@ -84022,12 +84022,12 @@
                 }
             },
             {
-                "name": "Movie Set Saintess",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/454/Movie_Set_Saintess/image.png",
+                "name": "Saintess of the Sea",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/454/Saintess_of_the_Sea/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_134.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/454/Movie_Set_Saintess/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/454/Saintess_of_the_Sea/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Saintess of the Sea",
                     "cnClient": "海之圣女",
                     "jpClient": "蒼浪の映画聖女",
                     "obtainedFrom": "Skin Shop",
@@ -84141,7 +84141,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/3/3c/Skill_13270.png",
                 "names": {
-                    "en": "Placeholder 1 - Algérie",
+                    "en": "Bellowing Gusts of Fire",
                     "cn": null,
                     "jp": null
                 },
@@ -84151,7 +84151,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/6/6d/Skill_13280.png",
                 "names": {
-                    "en": "Placeholder 2 - Algérie",
+                    "en": "Divine Aegis",
                     "cn": null,
                     "jp": null
                 },
@@ -84257,12 +84257,13 @@
                 }
             },
             {
-                "name": "White Sand Angel",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/455/White_Sand_Angel/image.png",
+                "name": "White Sand Paradise",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/455/White_Sand_Paradise/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/455/White_Sand_Angel/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/455/White_Sand_Paradise/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "White Sand Paradise",
                     "cnClient": "白沙天堂",
                     "jpClient": "白浜ヘヴンズフィール",
                     "obtainedFrom": "Skin Shop",
@@ -84376,7 +84377,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/7/7d/Skill_13310.png",
                 "names": {
-                    "en": "Placeholder skill 1 - La Galissonnière",
+                    "en": "Critical Component Protection",
                     "cn": null,
                     "jp": null
                 },
@@ -84386,7 +84387,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/d/da/Skill_13320.png",
                 "names": {
-                    "en": "Placeholder skill 2 - La Galissonnière",
+                    "en": "Shells of Judgment",
                     "cn": null,
                     "jp": null
                 },
@@ -84485,12 +84486,12 @@
                 }
             },
             {
-                "name": "Pristine Summer Pool",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/456/Pristine_Summer_Pool/image.png",
+                "name": "Pristine Piscene",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/456/Pristine_Piscene/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_133.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/456/Pristine_Summer_Pool/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/456/Pristine_Piscene/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Pristine Piscene",
                     "cnClient": "无垢的Piscine",
                     "jpClient": "無垢なるPiscine",
                     "obtainedFrom": "Skin Shop",
@@ -84604,7 +84605,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/e/ef/Skill_13330.png",
                 "names": {
-                    "en": "Placeholder skill - Vauquelin",
+                    "en": "Sonnez la Charge!",
                     "cn": null,
                     "jp": null
                 },
@@ -84711,7 +84712,7 @@
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/457/Innocent_Summer_Knight/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Innocent Summer Knight",
                     "cnClient": "天然纯真夏日骑士",
                     "jpClient": "天然純真サマーナイト",
                     "obtainedFrom": "Skin Shop",
@@ -84820,7 +84821,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/6/69/Skill_13340.png",
                 "names": {
-                    "en": "Placeholder skill 1 - Béarn",
+                    "en": "Sacrament: Holy Bombardment",
                     "cn": "变迁之秘",
                     "jp": "秘蹟・聖装砲撃"
                 },
@@ -84830,7 +84831,7 @@
             {
                 "icon": "https://azurlane.koumakan.jp/w/images/2/23/Skill_13350.png",
                 "names": {
-                    "en": "Placeholder skill 2 - Béarn",
+                    "en": "Sacrament: Sacred Second Wing",
                     "cn": "后备武装",
                     "jp": "秘蹟・聖翼積装"
                 },
@@ -84921,12 +84922,12 @@
                 }
             },
             {
-                "name": "Iris Lifeguard",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/458/Iris_Lifeguard/image.png",
+                "name": "Summer Lifeguard",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/458/Summer_Lifeguard/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_106.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/458/Iris_Lifeguard/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/458/Summer_Lifeguard/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Summer Lifeguard",
                     "cnClient": "夏日救生站",
                     "jpClient": "アイリス・ライフガード",
                     "obtainedFrom": "Skin Shop",
@@ -105508,10 +105509,10 @@
                 }
             },
             {
-                "name": "热心的情人节",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/083//image.png",
+                "name": "Ardent's Valentine's Day",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/083/Ardents_Valentines_Day/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_103.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/083//chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/083/Ardents_Valentines_Day/chibi.png",
                 "info": {
                     "enClient": "skin unavailable",
                     "cnClient": "热心的情人节",
@@ -111984,7 +111985,7 @@
             "jp": "ガスコーニュ",
             "kr": "가스코뉴"
         },
-        "class": "Gascogne",
+        "class": "Richelieu",
         "nationality": "Vichya Dominion",
         "hullType": "Battleship",
         "thumbnail": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan012/thumbnail.png",
