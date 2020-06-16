@@ -1,9 +1,7 @@
 name: Node.js CI
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  schedule:
+    - cron:  '0 2 */5 * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,3 +15,14 @@ jobs:
     - run: npm run build --if-present
     - run: node reset.js
     - run: node refill_ships.js
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v2
+      with:
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          title: '[Auto] Data Update'
+          labels: data update, automated pr
+    - name: Check outputs
+      run: |
+        echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
