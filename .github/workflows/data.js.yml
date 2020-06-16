@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Auto Data Update
 on:
   schedule:
     - cron:  '0 0 */5 * *'
