@@ -462,7 +462,7 @@ function parseShip(name, body) {
     ship.slots = {};
     for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector(".nomobile > div > .wikitable tr:nth-child(" + (i + 3) + ")"));
     let enhanceValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").childNodes;
-    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
+    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").textContent.trim();
     else ship.enhanceValue = {
         firepower: parseInt(enhanceValues[0].textContent.trim()),
         torpedo: parseInt(enhanceValues[2].textContent.trim()),
