@@ -461,7 +461,7 @@ function parseShip(name, body) {
     ship.stats = parseStats(doc);
     ship.slots = {};
     for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector(".nomobile > div > .wikitable tr:nth-child(" + (i + 3) + ")"));
-    let enhanceValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
+    let enhanceValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").childNodes;
     if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
     else ship.enhanceValue = {
         firepower: parseInt(enhanceValues[0].textContent.trim()),
@@ -469,8 +469,8 @@ function parseShip(name, body) {
         aviation: parseInt(enhanceValues[4].textContent.trim()),
         reload: parseInt(enhanceValues[6].textContent.trim())
     };
-    let scrapValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
-    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
+    let scrapValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(2)").childNodes;
+    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(5) td:nth-child(2)").textContent.trim();
     else ship.scrapValue = {
         coin: parseInt(scrapValues[0].textContent.trim()),
         oil: parseInt(scrapValues[2].textContent.trim()),
