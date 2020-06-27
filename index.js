@@ -449,7 +449,7 @@ function parseShip(name, body) {
         ship.rarity = "Unreleased";
         return ship;
     }
-    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`".nomobile:nth-child(1) > .wikitable tr:nth-child(${i}) > td:nth-child(2) > a"`));
+    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) > .wikitable tr:nth-child(${i}) > td:nth-child(2) > a`));
     process.stdout.write(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;

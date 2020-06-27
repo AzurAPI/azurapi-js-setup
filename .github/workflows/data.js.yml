@@ -1,7 +1,7 @@
 name: Auto Data Update
 on:
   schedule:
-    - cron:  '10 9 * * SAT'
+    - cron:  '20 9 * * SAT'
 jobs:
   build:
     runs-on: ubuntu-latest
