@@ -9880,6 +9880,20 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "The Laureate's Victory Lap",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d2/Prince_of_WalesRaceQueen.png/625px-Prince_of_WalesRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/5d/Prince_of_WalesRaceQueenChibi.png",
+				"info": {
+					"enClient": "The Laureate's Victory Lap",
+					"cnClient": "桂冠的胜利竞速",
+					"jpClient": "栄冠のビクトリーレーシング",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": []
@@ -10097,6 +10111,20 @@
 					"jpClient": "永夜のカローラ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Prestige of the Glorious Formula",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/27/Duke_of_YorkRaceQueen.png/700px-Duke_of_YorkRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/07/Duke_of_YorkRaceQueenChibi.png",
+				"info": {
+					"enClient": "Prestige of the Glorious Formula",
+					"cnClient": "盛誉的光荣方程",
+					"jpClient": "誉笏のグロリアスフォーミュラ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}
@@ -24228,7 +24256,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": true,
-				"aviation": true,
+				"aviation": false,
 				"limited": false,
 				"exchange": true
 			}
@@ -24320,6 +24348,20 @@
 					"jpClient": "学園ロマンチカ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Full Throttle Charmer",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/cb/TakaoRaceQueen.png/621px-TakaoRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/6a/TakaoRaceQueenChibi.png",
+				"info": {
+					"enClient": "Full Throttle Charmer",
+					"cnClient": "至高焦点",
+					"jpClient": "魅惑のフルドライブ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}
@@ -24517,12 +24559,13 @@
 			"availableIn": {
 				"light": false,
 				"heavy": true,
-				"aviation": true,
+				"aviation": false,
 				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Special Construction",
 			"fromMaps": []
 		},
 		"misc": {
@@ -24607,6 +24650,20 @@
 					"jpClient": "学園トロイメライ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Stunning Speedster",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b2/AtagoRaceQueen.png/524px-AtagoRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/a2/AtagoRaceQueenChibi.png",
+				"info": {
+					"enClient": "Stunning Speedster",
+					"cnClient": "巅峰时速",
+					"jpClient": "凄艶のマックススピード",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}
@@ -31668,6 +31725,20 @@
 					"cost": "1180",
 					"live2dModel": "Yes"
 				}
+			},
+			{
+				"name": "Sororal Wings",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/35/ShoukakuRaceQueen.png/828px-ShoukakuRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/5c/ShoukakuRaceQueenChibi.png",
+				"info": {
+					"enClient": "Sororal Wings",
+					"cnClient": "疾速之鹤",
+					"jpClient": "疾翔の姉羽",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": []
@@ -31895,6 +31966,20 @@
 					"jpClient": "祭華の鶴",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "The Wind's True Name",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/59/ZuikakuRaceQueen.png/597px-ZuikakuRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/8/8d/ZuikakuRaceQueenChibi.png",
+				"info": {
+					"enClient": "The Wind's True Name",
+					"cnClient": "飙速之鹤",
+					"jpClient": "瞬速の真名",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}
@@ -32129,6 +32214,20 @@
 					"obtainedFrom": "Skin Shop",
 					"cost": "1200",
 					"live2dModel": "Yes"
+				}
+			},
+			{
+				"name": "Enraptured Companion",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/TaihouRaceQueen.png/619px-TaihouRaceQueen.png",
+				"background": "https://azurlane.koumakan.jp/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/8/87/TaihouRaceQueenChibi.png",
+				"info": {
+					"enClient": "Enraptured Companion",
+					"cnClient": "恋慕伴侣",
+					"jpClient": "恋慕のコンパニオン",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
 				}
 			}
 		],
@@ -35978,7 +36077,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": true,
-				"aviation": true,
+				"aviation": false,
 				"limited": false,
 				"exchange": true
 			}
@@ -54100,6 +54199,20 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Pillowy Paradise",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/aa/I-19Sleepy.png/554px-I-19Sleepy.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/0c/I-19SleepyChibi.png",
+				"info": {
+					"enClient": "Pillowy Paradise",
+					"cnClient": "枕头天堂",
+					"jpClient": "おまくら天国",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": []
@@ -60510,13 +60623,13 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP Only",
+				"aviation": true,
 				"limited": "Only during event: 1 Year Anniversary ; Air Raid Drills with Essex",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" and \"Air Raid Drills with Essex\" Event.",
+			"obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" and \"Air Raid Drills with Essex\" (original run only) Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -62582,6 +62695,7 @@
 			{
 				"name": "Oath",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/62/MinneapolisWedding.png/500px-MinneapolisWedding.png",
+				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4e/MinneapolisWeddingChibi.png",
 				"info": {
@@ -66011,12 +66125,12 @@
 				}
 			},
 			{
-				"name": "New Transfer Student",
+				"name": "Transfer Student From Afar",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e5/IndependenceSchool.png/455px-IndependenceSchool.png",
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/IndependenceSchoolChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Transfer Student From Afar",
 					"cnClient": "远道而来的转校生",
 					"jpClient": "此方の学園へ",
 					"obtainedFrom": "Skin Shop",
@@ -66025,7 +66139,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Independence with her eagle",
+				"url": "https://azurlane.koumakan.jp/w/images/0/08/Bg_independence_1.png"
+			},
+			{
+				"description": "Independence, Shangri-La",
+				"url": "https://azurlane.koumakan.jp/w/images/9/9f/Bg_2020.06.24_1.png"
+			}
+		]
 	},
 	"378": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Shangri-La",
@@ -66189,13 +66312,13 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": true,
 				"limited": "Only during event: Air Raid Drills with Essex",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Air Raid Drills with Essex\" Event.",
+			"obtainedFrom": "Available in Limited Construction during \"Air Raid Drills with Essex\" Event (original run only).",
 			"fromMaps": []
 		},
 		"misc": {
@@ -66229,21 +66352,41 @@
 				}
 			},
 			{
-				"name": "Collector's Paradise",
+				"name": "Utopia's Collector",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/Shangri-LaCasual.png/548px-Shangri-LaCasual.png",
 				"background": "https://azurlane.koumakan.jp/w/images/d/d7/Skin_BG_110.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2f/Shangri-LaCasualChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Utopia's Collector",
 					"cnClient": "乐园的收藏家",
 					"jpClient": "ユートピアの蒐集家",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Explorer of the Lost World",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/ef/Shangri-LaMisc.png/598px-Shangri-LaMisc.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/Shangri-LaMiscChibi.png",
+				"info": {
+					"enClient": "Explorer of the Lost World",
+					"cnClient": "失落世界的探险者",
+					"jpClient": "ロストワールドの探検者",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Independence, Shangri-La",
+				"url": "https://azurlane.koumakan.jp/w/images/9/9f/Bg_2020.06.24_1.png"
+			}
+		]
 	},
 	"379": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Z2",
@@ -70868,7 +71011,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": true,
 				"limited": "Only from: July 11 to July 23, 2019",
 				"exchange": false
 			}
@@ -71296,7 +71439,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": true,
 				"limited": "Only from: July 11 to July 23, 2019",
 				"exchange": false
 			}
@@ -71720,7 +71863,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": true,
 				"limited": "Only from: July 11 to July 23, 2019",
 				"exchange": false
 			}
@@ -72148,7 +72291,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": true,
 				"limited": "Only from: July 11 to July 23, 2019",
 				"exchange": false
 			}
@@ -72576,7 +72719,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": true,
 				"limited": "Only from: July 11 to July 23, 2019",
 				"exchange": false
 			}
@@ -76930,7 +77073,7 @@
 		]
 	},
 	"419": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akagi_(Muse)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Akagi_µ",
 		"id": "419",
 		"names": {
 			"en": "Akagi µ",
@@ -77128,7 +77271,7 @@
 		]
 	},
 	"420": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cleveland_(Muse)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Cleveland_µ",
 		"id": "420",
 		"names": {
 			"en": "Cleveland µ",
@@ -77335,7 +77478,7 @@
 		]
 	},
 	"421": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sheffield_(Muse)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Sheffield_µ",
 		"id": "421",
 		"names": {
 			"en": "Sheffield µ",
@@ -77543,7 +77686,7 @@
 		]
 	},
 	"422": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper_(Muse)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper_µ",
 		"id": "422",
 		"names": {
 			"en": "Admiral Hipper µ",
@@ -84908,7 +85051,10 @@
 				"name": "Gujianshaonv",
 				"url": "https://twitter.com/gujianshaonv"
 			},
-			"voice": null
+			"voice": {
+				"name": "Asami Takano",
+				"url": "https://www.imdb.com/name/nm6728132/"
+			}
 		},
 		"skins": [
 			{

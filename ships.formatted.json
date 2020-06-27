@@ -9880,6 +9880,20 @@
                     "cost": "880",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "The Laureate's Victory Lap",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/135/The_Laureates_Victory_Lap/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/135/The_Laureates_Victory_Lap/chibi.png",
+                "info": {
+                    "enClient": "The Laureate's Victory Lap",
+                    "cnClient": "桂冠的胜利竞速",
+                    "jpClient": "栄冠のビクトリーレーシング",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
+                    "live2dModel": false
+                }
             }
         ],
         "gallery": []
@@ -10097,6 +10111,20 @@
                     "jpClient": "永夜のカローラ",
                     "obtainedFrom": "Skin Shop",
                     "cost": "880",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Prestige of the Glorious Formula",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/136/Prestige_of_the_Glorious_Formula/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/136/Prestige_of_the_Glorious_Formula/chibi.png",
+                "info": {
+                    "enClient": "Prestige of the Glorious Formula",
+                    "cnClient": "盛誉的光荣方程",
+                    "jpClient": "誉笏のグロリアスフォーミュラ",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -24228,7 +24256,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": true,
-                "aviation": true,
+                "aviation": false,
                 "limited": false,
                 "exchange": true
             }
@@ -24320,6 +24348,20 @@
                     "jpClient": "学園ロマンチカ",
                     "obtainedFrom": "Skin Shop",
                     "cost": "880",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Full Throttle Charmer",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/200/Full_Throttle_Charmer/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/200/Full_Throttle_Charmer/chibi.png",
+                "info": {
+                    "enClient": "Full Throttle Charmer",
+                    "cnClient": "至高焦点",
+                    "jpClient": "魅惑のフルドライブ",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -24517,12 +24559,13 @@
             "availableIn": {
                 "light": false,
                 "heavy": true,
-                "aviation": true,
+                "aviation": false,
                 "limited": false,
                 "exchange": false
             }
         },
         "obtainedFrom": {
+            "obtainedFrom": "Special Construction",
             "fromMaps": []
         },
         "misc": {
@@ -24607,6 +24650,20 @@
                     "jpClient": "学園トロイメライ",
                     "obtainedFrom": "Skin Shop",
                     "cost": "880",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "Stunning Speedster",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/201/Stunning_Speedster/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/201/Stunning_Speedster/chibi.png",
+                "info": {
+                    "enClient": "Stunning Speedster",
+                    "cnClient": "巅峰时速",
+                    "jpClient": "凄艶のマックススピード",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -31668,6 +31725,20 @@
                     "cost": "1180",
                     "live2dModel": true
                 }
+            },
+            {
+                "name": "Sororal Wings",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/228/Sororal_Wings/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/228/Sororal_Wings/chibi.png",
+                "info": {
+                    "enClient": "Sororal Wings",
+                    "cnClient": "疾速之鹤",
+                    "jpClient": "疾翔の姉羽",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
+                    "live2dModel": false
+                }
             }
         ],
         "gallery": []
@@ -31895,6 +31966,20 @@
                     "jpClient": "祭華の鶴",
                     "obtainedFrom": "Skin Shop",
                     "cost": "880",
+                    "live2dModel": false
+                }
+            },
+            {
+                "name": "The Wind's True Name",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/229/The_Winds_True_Name/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/229/The_Winds_True_Name/chibi.png",
+                "info": {
+                    "enClient": "The Wind's True Name",
+                    "cnClient": "飙速之鹤",
+                    "jpClient": "瞬速の真名",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
                     "live2dModel": false
                 }
             }
@@ -32129,6 +32214,20 @@
                     "obtainedFrom": "Skin Shop",
                     "cost": "1200",
                     "live2dModel": true
+                }
+            },
+            {
+                "name": "Enraptured Companion",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/230/Enraptured_Companion/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_132.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/230/Enraptured_Companion/chibi.png",
+                "info": {
+                    "enClient": "Enraptured Companion",
+                    "cnClient": "恋慕伴侣",
+                    "jpClient": "恋慕のコンパニオン",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "900",
+                    "live2dModel": false
                 }
             }
         ],
@@ -35978,7 +36077,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": true,
-                "aviation": true,
+                "aviation": false,
                 "limited": false,
                 "exchange": true
             }
@@ -54100,6 +54199,20 @@
                     "cost": "880",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "Pillowy Paradise",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/338/Pillowy_Paradise/image.png",
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_109.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/338/Pillowy_Paradise/chibi.png",
+                "info": {
+                    "enClient": "Pillowy Paradise",
+                    "cnClient": "枕头天堂",
+                    "jpClient": "おまくら天国",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "880",
+                    "live2dModel": false
+                }
             }
         ],
         "gallery": []
@@ -60510,13 +60623,13 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": "CN/JP Only",
+                "aviation": true,
                 "limited": "Only during event: 1 Year Anniversary ; Air Raid Drills with Essex",
                 "exchange": false
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" and \"Air Raid Drills with Essex\" Event.",
+            "obtainedFrom": "Available in Limited Construction during \"1 Year Anniversary\" and \"Air Raid Drills with Essex\" (original run only) Event.",
             "fromMaps": []
         },
         "misc": {
@@ -62582,6 +62695,7 @@
             {
                 "name": "Oath",
                 "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/364/Oath/image.png",
+                "imageCN": null,
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
                 "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/364/Oath/chibi.png",
                 "info": {
@@ -66011,12 +66125,12 @@
                 }
             },
             {
-                "name": "New Transfer Student",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/377/New_Transfer_Student/image.png",
+                "name": "Transfer Student From Afar",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/377/Transfer_Student_From_Afar/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_103.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/377/New_Transfer_Student/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/377/Transfer_Student_From_Afar/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Transfer Student From Afar",
                     "cnClient": "远道而来的转校生",
                     "jpClient": "此方の学園へ",
                     "obtainedFrom": "Skin Shop",
@@ -66025,7 +66139,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Independence with her eagle",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_independence_1.png"
+            },
+            {
+                "description": "Independence, Shangri-La",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.06.24_1.png"
+            }
+        ]
     },
     "378": {
         "wikiUrl": "https://azurlane.koumakan.jp/Shangri-La",
@@ -66189,13 +66312,13 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": true,
                 "limited": "Only during event: Air Raid Drills with Essex",
                 "exchange": false
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available in Limited Construction during \"Air Raid Drills with Essex\" Event.",
+            "obtainedFrom": "Available in Limited Construction during \"Air Raid Drills with Essex\" Event (original run only).",
             "fromMaps": []
         },
         "misc": {
@@ -66229,21 +66352,41 @@
                 }
             },
             {
-                "name": "Collector's Paradise",
-                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/378/Collectors_Paradise/image.png",
+                "name": "Utopia's Collector",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/378/Utopias_Collector/image.png",
                 "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/Skin_BG_110.png",
-                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/378/Collectors_Paradise/chibi.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/378/Utopias_Collector/chibi.png",
                 "info": {
-                    "enClient": "skin unavailable",
+                    "enClient": "Utopia's Collector",
                     "cnClient": "乐园的收藏家",
                     "jpClient": "ユートピアの蒐集家",
                     "obtainedFrom": "Skin Shop",
                     "cost": "880",
                     "live2dModel": false
                 }
+            },
+            {
+                "name": "Explorer of the Lost World",
+                "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/378/Explorer_of_the_Lost_World/image.png",
+                "imageCN": null,
+                "background": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/backgrounds/MainDayBG.png",
+                "chibi": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/378/Explorer_of_the_Lost_World/chibi.png",
+                "info": {
+                    "enClient": "Explorer of the Lost World",
+                    "cnClient": "失落世界的探险者",
+                    "jpClient": "ロストワールドの探検者",
+                    "obtainedFrom": "Skin Shop",
+                    "cost": "800",
+                    "live2dModel": false
+                }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Independence, Shangri-La",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2020.06.24_1.png"
+            }
+        ]
     },
     "379": {
         "wikiUrl": "https://azurlane.koumakan.jp/Z2",
@@ -70868,7 +71011,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": true,
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
@@ -71296,7 +71439,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": true,
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
@@ -71720,7 +71863,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": true,
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
@@ -72148,7 +72291,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": true,
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
@@ -72576,7 +72719,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": true,
                 "limited": "Only from: July 11 to July 23, 2019",
                 "exchange": false
             }
@@ -76930,7 +77073,7 @@
         ]
     },
     "419": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Akagi_(Muse)",
+        "wikiUrl": "https://azurlane.koumakan.jp/Akagi_µ",
         "id": "419",
         "names": {
             "en": "Akagi µ",
@@ -77128,7 +77271,7 @@
         ]
     },
     "420": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Cleveland_(Muse)",
+        "wikiUrl": "https://azurlane.koumakan.jp/Cleveland_µ",
         "id": "420",
         "names": {
             "en": "Cleveland µ",
@@ -77335,7 +77478,7 @@
         ]
     },
     "421": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Sheffield_(Muse)",
+        "wikiUrl": "https://azurlane.koumakan.jp/Sheffield_µ",
         "id": "421",
         "names": {
             "en": "Sheffield µ",
@@ -77543,7 +77686,7 @@
         ]
     },
     "422": {
-        "wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper_(Muse)",
+        "wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper_µ",
         "id": "422",
         "names": {
             "en": "Admiral Hipper µ",
@@ -84908,7 +85051,10 @@
                 "name": "Gujianshaonv",
                 "url": "https://twitter.com/gujianshaonv"
             },
-            "voice": null
+            "voice": {
+                "name": "Asami Takano",
+                "url": "https://www.imdb.com/name/nm6728132/"
+            }
         },
         "skins": [
             {
