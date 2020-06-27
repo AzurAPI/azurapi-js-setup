@@ -19,7 +19,7 @@
 					"coin": 300,
 					"oil": null
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -106,7 +106,7 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Destroyer Retrofit Blueprint"
@@ -216,7 +216,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -349,7 +349,7 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Cruiser Retrofit Blueprint"
@@ -500,7 +500,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -638,7 +638,7 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Battleship Retrofit Blueprint"
@@ -799,7 +799,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -1010,7 +1010,7 @@
 					"text": "HQ Lv. 10",
 					"requiredLevel": 10
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Carrier Retrofit Blueprint"
@@ -1250,7 +1250,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -1467,7 +1467,7 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Destroyer Retrofit Blueprint"
@@ -1711,7 +1711,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -1983,7 +1983,7 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Cruiser Retrofit Blueprint"
@@ -2282,7 +2282,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -2515,7 +2515,7 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Battleship Retrofit Blueprint"
@@ -2775,7 +2775,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -3004,7 +3004,7 @@
 					"text": "HQ Lv. 20",
 					"requiredLevel": 20
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T2 Carrier Retrofit Blueprint"
@@ -3267,7 +3267,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -3503,7 +3503,7 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -3765,7 +3765,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -4020,7 +4020,7 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -4301,7 +4301,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -4551,7 +4551,7 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -4827,7 +4827,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -5089,7 +5089,7 @@
 					"text": "HQ Lv. 25",
 					"requiredLevel": 25
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -5379,7 +5379,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -5641,7 +5641,7 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -5930,7 +5930,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -6192,7 +6192,7 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -6481,7 +6481,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -6711,7 +6711,7 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -6968,7 +6968,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -7303,7 +7303,7 @@
 					"text": "HQ Lv. 30",
 					"requiredLevel": 30
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -7667,7 +7667,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -7982,7 +7982,7 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -8325,7 +8325,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -8599,7 +8599,7 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -8901,7 +8901,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -9170,7 +9170,7 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -9467,7 +9467,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -9767,7 +9767,7 @@
 					"text": "HQ Lv. 40",
 					"requiredLevel": 40
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -10097,7 +10097,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -10404,7 +10404,7 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -10740,7 +10740,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -11069,7 +11069,7 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -11427,7 +11427,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -11720,7 +11720,7 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -12042,7 +12042,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -12381,7 +12381,7 @@
 					"text": "HQ Lv. 50",
 					"requiredLevel": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -12746,7 +12746,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -12975,7 +12975,7 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -13235,7 +13235,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -13541,7 +13541,7 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -13878,7 +13878,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -14231,7 +14231,7 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -14615,7 +14615,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -14950,7 +14950,7 @@
 					"text": "HQ Lv. 60",
 					"requiredLevel": 60
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -15313,7 +15313,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -15551,7 +15551,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -15821,7 +15821,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -16131,7 +16131,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -16473,7 +16473,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -16827,7 +16827,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -17203,7 +17203,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -17582,7 +17582,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -17990,7 +17990,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -18299,7 +18299,7 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -18640,7 +18640,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -18954,7 +18954,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -19295,7 +19295,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -19638,7 +19638,7 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -20003,7 +20003,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -20347,7 +20347,7 @@
 					"text": "HQ Lv. 80",
 					"requiredLevel": 80
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -20715,7 +20715,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -21022,7 +21022,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -21360,7 +21360,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -21710,7 +21710,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -22091,7 +22091,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -22448,7 +22448,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -22836,7 +22836,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -23200,7 +23200,7 @@
 					"text": "HQ Lv. 70",
 					"requiredLevel": 70
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -23603,7 +23603,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -23924,7 +23924,7 @@
 					"text": "HQ Lv. 75",
 					"requiredLevel": 75
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Destroyer Retrofit Blueprint"
@@ -24272,7 +24272,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -24649,7 +24649,7 @@
 					"text": "HQ Lv. 75",
 					"requiredLevel": 75
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Cruiser Retrofit Blueprint"
@@ -25058,7 +25058,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -25436,7 +25436,7 @@
 					"text": "HQ Lv. 75",
 					"requiredLevel": 75
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Battleship Retrofit Blueprint"
@@ -25841,7 +25841,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -26259,7 +26259,7 @@
 					"text": "HQ Lv. 75",
 					"requiredLevel": 75
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 2,
 						"item": "T3 Carrier Retrofit Blueprint"
@@ -26711,7 +26711,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -27077,7 +27077,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -27498,7 +27498,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -27931,7 +27931,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"
@@ -28490,7 +28490,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -28841,7 +28841,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -29259,7 +29259,7 @@
 					"coin": 300,
 					"oil": 50
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 50,
 						"item": "Gem"
@@ -29697,7 +29697,7 @@
 					"coin": 1000,
 					"oil": 150
 				},
-				"3-StarRewards": [
+				"threeStarRewards": [
 					{
 						"count": 100,
 						"item": "Gem"

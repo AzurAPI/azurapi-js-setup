@@ -18,7 +18,14 @@ let parsers = {
     "Equipment Blueprint Drops": parseEQBPDrops,
     "Ship Drops": parseShipDrops,
     "Node Map": parseNodeMap
-}
+};
+let betterNames = {
+    checkAndReplace: function(text) {
+        if (this[text]) return this[text];
+        else return text;
+    },
+    "3-StarRewards": "threeStarRewards"
+};
 
 function parseChapter(doc, index, names) {
     let chapter = {};
@@ -49,7 +56,7 @@ function parseMap(div, code, names) {
     for (let i = 0; i < name_list.length; i++) {
         let parser = parsers[name_list[i].textContent];
         if (!parser) console.log("\n(" + i + ") Missing Parser: " + name_list[i].textContent)
-        map[camelize(name_list[i].textContent.replace(/\(.+\)/, ''))] = parser(data_list[i]);
+        map[betterNames.checkAndReplace(camelize(name_list[i].textContent.replace(/\(.+\)/, '')))] = parser(data_list[i]);
         if (name_list[i].textContent === "Node Map") break; // 100% the last valid head
     }
     return map;
