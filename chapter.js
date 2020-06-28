@@ -79,15 +79,15 @@ function parseUnlockReq(div) {
 }
 
 function parseClearRewards(div) {
-    if (div.childNodes[0].nodeType === 3) return {
+    if (div.childNodes[4].textContent === ", ") return {
+        cube: parseInt(div.childNodes[0].textContent.replace(/[^\d]+/g, '')),
+        coin: parseInt(div.childNodes[2].textContent.replace(/[^\d]+/g, '')),
+        ship: div.childNodes[5].title
+    };
+    else return {
         cube: parseInt(div.childNodes[0].textContent.replace(/[^\d]+/g, '')),
         coin: parseInt(div.childNodes[2].textContent.replace(/[^\d]+/g, '')),
         oil: parseInt(div.childNodes[4].textContent.replace(/[^\d]+/g, '')),
-    };
-    else return {
-        cube: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
-        coin: parseInt(div.childNodes[3].textContent.replace(/[^\d]+/g, '')),
-        oil: parseInt(div.childNodes[5].textContent.replace(/[^\d]+/g, '')),
     };
 }
 const ITEM_NAME_WITH_AMOUNT_REGEX = /^(?:,\s+)?(\d+)x ?(.+)$/g;
@@ -146,11 +146,14 @@ function parseStarCon(div) {
 }
 
 function parseAirSuprem(div) {
-    return {
-        actual: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, '')),
-        suggestedLv1: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, '')),
-        suggestedLv2: parseInt(div.childNodes[6].textContent.replace(/[^\d]+/g, ''))
+    let air = {
+        actual: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, ''))
     };
+    for (let i = 4; i < div.childNodes.length; i += 2) {
+        if (!div.childNodes[i].title) i -= 1;
+        else air[camelize(div.childNodes[i].title)] = parseInt(div.childNodes[i + 1].textContent.replace(/[^\d]+/g, ''));
+    }
+    return air;
 }
 
 function parseFleetRestriction(div) {

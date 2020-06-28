@@ -1,10 +1,10 @@
-// const azurlane = require("./index.js");
+const azurlane = require("./index.js");
 // const voice = require("./voice_lines.js");
-const barrage = require("./barrage.js");
+// const barrage = require("./barrage.js");
 // azurlane.removeShip("Emile Bertin");
 // azurlane.refreshShips(false);
 // azurlane.refreshEquipments(false);
-// azurlane.refreshChapter(false);
+azurlane.refreshChapter(false);
 // azurlane.refreshShipImages();
 // azurlane.refreshEQImages();
 // azurlane.publishShips();
@@ -13,4 +13,4 @@ const barrage = require("./barrage.js");
 
 // voice.refreshVoiceLines();
 
-barrage.refreshBarrage();
+// barrage.refreshBarrage();

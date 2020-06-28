@@ -17,7 +17,7 @@
 				"clearRewards": {
 					"cube": 1,
 					"coin": 300,
-					"oil": null
+					"ship": "Repulse"
 				},
 				"threeStarRewards": [
 					{
@@ -48,8 +48,8 @@
 				],
 				"airSupremacy": {
 					"actual": 6,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -132,8 +132,8 @@
 				],
 				"airSupremacy": {
 					"actual": 45,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -245,8 +245,8 @@
 				],
 				"airSupremacy": {
 					"actual": 12,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -375,8 +375,8 @@
 				],
 				"airSupremacy": {
 					"actual": 50,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -529,8 +529,8 @@
 				],
 				"airSupremacy": {
 					"actual": 18,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -664,8 +664,8 @@
 				],
 				"airSupremacy": {
 					"actual": 60,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -831,8 +831,8 @@
 				],
 				"airSupremacy": {
 					"actual": 24,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -1039,8 +1039,8 @@
 				],
 				"airSupremacy": {
 					"actual": 80,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -1279,8 +1279,8 @@
 				],
 				"airSupremacy": {
 					"actual": 45,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -1493,8 +1493,8 @@
 				],
 				"airSupremacy": {
 					"actual": 110,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -1740,8 +1740,8 @@
 				],
 				"airSupremacy": {
 					"actual": 55,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -2009,8 +2009,9 @@
 				],
 				"airSupremacy": {
 					"actual": 135,
-					"suggestedLv1": 176,
-					"suggestedLv2": 150
+					"airParity": 150,
+					"airSuperiority": 176,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -2311,8 +2312,8 @@
 				],
 				"airSupremacy": {
 					"actual": 65,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -2541,8 +2542,10 @@
 				],
 				"airSupremacy": {
 					"actual": 160,
-					"suggestedLv1": 120,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 120,
+					"airSuperiority": 208,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -2804,8 +2807,8 @@
 				],
 				"airSupremacy": {
 					"actual": 80,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1 Upgrade Parts",
@@ -3030,8 +3033,10 @@
 				],
 				"airSupremacy": {
 					"actual": 190,
-					"suggestedLv1": 143,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 143,
+					"airSuperiority": 247,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -3296,8 +3301,8 @@
 				],
 				"airSupremacy": {
 					"actual": 110,
-					"suggestedLv1": 450,
-					"suggestedLv2": 150
+					"airSuperiority": 150,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -3529,8 +3534,10 @@
 				],
 				"airSupremacy": {
 					"actual": 245,
-					"suggestedLv1": 184,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 184,
+					"airSuperiority": 319,
+					"airSupremacy": 490
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -3794,8 +3801,9 @@
 				],
 				"airSupremacy": {
 					"actual": 125,
-					"suggestedLv1": 163,
-					"suggestedLv2": 150
+					"airParity": 150,
+					"airSuperiority": 163,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -4046,8 +4054,10 @@
 				],
 				"airSupremacy": {
 					"actual": 285,
-					"suggestedLv1": 214,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 214,
+					"airSuperiority": 371,
+					"airSupremacy": 570
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -4330,8 +4340,9 @@
 				],
 				"airSupremacy": {
 					"actual": 145,
-					"suggestedLv1": 189,
-					"suggestedLv2": 150
+					"airParity": 150,
+					"airSuperiority": 189,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -4577,8 +4588,10 @@
 				],
 				"airSupremacy": {
 					"actual": 330,
-					"suggestedLv1": 248,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 248,
+					"airSuperiority": 429,
+					"airSupremacy": 660
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -4856,8 +4869,10 @@
 				],
 				"airSupremacy": {
 					"actual": 175,
-					"suggestedLv1": 132,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 132,
+					"airSuperiority": 228,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -5115,8 +5130,10 @@
 				],
 				"airSupremacy": {
 					"actual": 380,
-					"suggestedLv1": 285,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 285,
+					"airSuperiority": 494,
+					"airSupremacy": 760
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -5408,8 +5425,9 @@
 				],
 				"airSupremacy": {
 					"actual": 120,
-					"suggestedLv1": 156,
-					"suggestedLv2": 150
+					"airParity": 150,
+					"airSuperiority": 156,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -5667,8 +5685,10 @@
 				],
 				"airSupremacy": {
 					"actual": 190,
-					"suggestedLv1": 143,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 143,
+					"airSuperiority": 247,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -5959,8 +5979,9 @@
 				],
 				"airSupremacy": {
 					"actual": 135,
-					"suggestedLv1": 176,
-					"suggestedLv2": 150
+					"airParity": 150,
+					"airSuperiority": 176,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -6218,8 +6239,10 @@
 				],
 				"airSupremacy": {
 					"actual": 220,
-					"suggestedLv1": 165,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 165,
+					"airSuperiority": 286,
+					"airSupremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -6510,8 +6533,10 @@
 				],
 				"airSupremacy": {
 					"actual": 155,
-					"suggestedLv1": 117,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 117,
+					"airSuperiority": 202,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -6737,8 +6762,10 @@
 				],
 				"airSupremacy": {
 					"actual": 250,
-					"suggestedLv1": 188,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 188,
+					"airSuperiority": 325,
+					"airSupremacy": 500
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -6997,8 +7024,10 @@
 				],
 				"airSupremacy": {
 					"actual": 180,
-					"suggestedLv1": 135,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 135,
+					"airSuperiority": 234,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -7329,8 +7358,10 @@
 				],
 				"airSupremacy": {
 					"actual": 285,
-					"suggestedLv1": 214,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 214,
+					"airSuperiority": 371,
+					"airSupremacy": 570
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -7696,8 +7727,10 @@
 				],
 				"airSupremacy": {
 					"actual": 215,
-					"suggestedLv1": 162,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 162,
+					"airSuperiority": 280,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -8008,8 +8041,10 @@
 				],
 				"airSupremacy": {
 					"actual": 340,
-					"suggestedLv1": 255,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 255,
+					"airSuperiority": 442,
+					"airSupremacy": 680
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -8354,8 +8389,10 @@
 				],
 				"airSupremacy": {
 					"actual": 250,
-					"suggestedLv1": 188,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 188,
+					"airSuperiority": 325,
+					"airSupremacy": 500
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -8625,8 +8662,10 @@
 				],
 				"airSupremacy": {
 					"actual": 380,
-					"suggestedLv1": 285,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 285,
+					"airSuperiority": 494,
+					"airSupremacy": 760
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -8930,8 +8969,10 @@
 				],
 				"airSupremacy": {
 					"actual": 295,
-					"suggestedLv1": 222,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 222,
+					"airSuperiority": 384,
+					"airSupremacy": 590
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -9196,8 +9237,10 @@
 				],
 				"airSupremacy": {
 					"actual": 425,
-					"suggestedLv1": 319,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 319,
+					"airSuperiority": 553,
+					"airSupremacy": 850
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -9496,8 +9539,10 @@
 				],
 				"airSupremacy": {
 					"actual": 345,
-					"suggestedLv1": 259,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 259,
+					"airSuperiority": 449,
+					"airSupremacy": 690
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -9793,8 +9838,10 @@
 				],
 				"airSupremacy": {
 					"actual": 475,
-					"suggestedLv1": 357,
-					"suggestedLv2": 238
+					"airDenial": 238,
+					"airParity": 357,
+					"airSuperiority": 618,
+					"airSupremacy": 950
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -10126,8 +10173,10 @@
 				],
 				"airSupremacy": {
 					"actual": 225,
-					"suggestedLv1": 169,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 169,
+					"airSuperiority": 293,
+					"airSupremacy": 450
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -10430,8 +10479,10 @@
 				],
 				"airSupremacy": {
 					"actual": 445,
-					"suggestedLv1": 334,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 334,
+					"airSuperiority": 579,
+					"airSupremacy": 890
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -10769,8 +10820,10 @@
 				],
 				"airSupremacy": {
 					"actual": 255,
-					"suggestedLv1": 192,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 192,
+					"airSuperiority": 332,
+					"airSupremacy": 510
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -11095,8 +11148,10 @@
 				],
 				"airSupremacy": {
 					"actual": 510,
-					"suggestedLv1": 383,
-					"suggestedLv2": 255
+					"airDenial": 255,
+					"airParity": 383,
+					"airSuperiority": 663,
+					"airSupremacy": 1020
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -11456,8 +11511,10 @@
 				],
 				"airSupremacy": {
 					"actual": 290,
-					"suggestedLv1": 218,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 218,
+					"airSuperiority": 377,
+					"airSupremacy": 580
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -11746,8 +11803,10 @@
 				],
 				"airSupremacy": {
 					"actual": 575,
-					"suggestedLv1": 432,
-					"suggestedLv2": 288
+					"airDenial": 288,
+					"airParity": 432,
+					"airSuperiority": 748,
+					"airSupremacy": 1150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -12071,8 +12130,10 @@
 				],
 				"airSupremacy": {
 					"actual": 325,
-					"suggestedLv1": 244,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 244,
+					"airSuperiority": 423,
+					"airSupremacy": 650
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -12407,8 +12468,10 @@
 				],
 				"airSupremacy": {
 					"actual": 645,
-					"suggestedLv1": 484,
-					"suggestedLv2": 323
+					"airDenial": 323,
+					"airParity": 484,
+					"airSuperiority": 839,
+					"airSupremacy": 1290
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -12770,8 +12833,10 @@
 				"bossKillsToClear": 4,
 				"airSupremacy": {
 					"actual": 370,
-					"suggestedLv1": 278,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 278,
+					"airSuperiority": 481,
+					"airSupremacy": 740
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -13000,8 +13065,10 @@
 				"bossKillsToClear": 4,
 				"airSupremacy": {
 					"actual": 720,
-					"suggestedLv1": 540,
-					"suggestedLv2": 360
+					"airDenial": 360,
+					"airParity": 540,
+					"airSuperiority": 936,
+					"airSupremacy": 1440
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -13264,8 +13331,10 @@
 				],
 				"airSupremacy": {
 					"actual": 425,
-					"suggestedLv1": 319,
-					"suggestedLv2": 0
+					"airDenial": 0,
+					"airParity": 319,
+					"airSuperiority": 553,
+					"airSupremacy": 850
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -13571,8 +13640,10 @@
 				],
 				"airSupremacy": {
 					"actual": 800,
-					"suggestedLv1": 600,
-					"suggestedLv2": 400
+					"airDenial": 400,
+					"airParity": 600,
+					"airSuperiority": 1040,
+					"airSupremacy": 1600
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -13910,8 +13981,10 @@
 				],
 				"airSupremacy": {
 					"actual": 480,
-					"suggestedLv1": 360,
-					"suggestedLv2": 240
+					"airDenial": 240,
+					"airParity": 360,
+					"airSuperiority": 624,
+					"airSupremacy": 960
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -14264,8 +14337,10 @@
 				],
 				"airSupremacy": {
 					"actual": 880,
-					"suggestedLv1": 660,
-					"suggestedLv2": 440
+					"airDenial": 440,
+					"airParity": 660,
+					"airSuperiority": 1144,
+					"airSupremacy": 1760
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -14644,8 +14719,10 @@
 				],
 				"airSupremacy": {
 					"actual": 535,
-					"suggestedLv1": 402,
-					"suggestedLv2": 268
+					"airDenial": 268,
+					"airParity": 402,
+					"airSuperiority": 696,
+					"airSupremacy": 1070
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -14980,8 +15057,10 @@
 				],
 				"airSupremacy": {
 					"actual": 965,
-					"suggestedLv1": 724,
-					"suggestedLv2": 483
+					"airDenial": 483,
+					"airParity": 724,
+					"airSuperiority": 1255,
+					"airSupremacy": 1930
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -15342,8 +15421,10 @@
 				],
 				"airSupremacy": {
 					"actual": 590,
-					"suggestedLv1": 443,
-					"suggestedLv2": 295
+					"airDenial": 295,
+					"airParity": 443,
+					"airSuperiority": 767,
+					"airSupremacy": 1180
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -15581,8 +15662,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1055,
-					"suggestedLv1": 792,
-					"suggestedLv2": 528
+					"airDenial": 528,
+					"airParity": 792,
+					"airSuperiority": 1372,
+					"airSupremacy": 2110
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -15850,8 +15933,10 @@
 				],
 				"airSupremacy": {
 					"actual": 650,
-					"suggestedLv1": 488,
-					"suggestedLv2": 325
+					"airDenial": 325,
+					"airParity": 488,
+					"airSuperiority": 845,
+					"airSupremacy": 1300
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -16161,8 +16246,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1150,
-					"suggestedLv1": 863,
-					"suggestedLv2": 575
+					"airDenial": 575,
+					"airParity": 863,
+					"airSuperiority": 1495,
+					"airSupremacy": 2300
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -16502,8 +16589,10 @@
 				],
 				"airSupremacy": {
 					"actual": 710,
-					"suggestedLv1": 533,
-					"suggestedLv2": 355
+					"airDenial": 355,
+					"airParity": 533,
+					"airSuperiority": 923,
+					"airSupremacy": 1420
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -16857,8 +16946,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1245,
-					"suggestedLv1": 934,
-					"suggestedLv2": 623
+					"airDenial": 623,
+					"airParity": 934,
+					"airSuperiority": 1619,
+					"airSupremacy": 2490
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -17232,8 +17323,10 @@
 				],
 				"airSupremacy": {
 					"actual": 770,
-					"suggestedLv1": 578,
-					"suggestedLv2": 385
+					"airDenial": 385,
+					"airParity": 578,
+					"airSuperiority": 1001,
+					"airSupremacy": 1540
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -17612,8 +17705,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1350,
-					"suggestedLv1": 1013,
-					"suggestedLv2": 675
+					"airDenial": 675,
+					"airParity": 1013,
+					"airSuperiority": 1755,
+					"airSupremacy": 2700
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -18019,8 +18114,10 @@
 				],
 				"airSupremacy": {
 					"actual": 840,
-					"suggestedLv1": 630,
-					"suggestedLv2": 420
+					"airDenial": 420,
+					"airParity": 630,
+					"airSuperiority": 1092,
+					"airSupremacy": 1680
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -18329,8 +18426,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1440,
-					"suggestedLv1": 1080,
-					"suggestedLv2": 720
+					"airDenial": 720,
+					"airParity": 1080,
+					"airSuperiority": 1872,
+					"airSupremacy": 2880
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -18669,8 +18768,10 @@
 				],
 				"airSupremacy": {
 					"actual": 915,
-					"suggestedLv1": 687,
-					"suggestedLv2": 458
+					"airDenial": 458,
+					"airParity": 687,
+					"airSuperiority": 1190,
+					"airSupremacy": 1830
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -18984,8 +19085,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1535,
-					"suggestedLv1": 1152,
-					"suggestedLv2": 768
+					"airDenial": 768,
+					"airParity": 1152,
+					"airSuperiority": 1996,
+					"airSupremacy": 3070
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -19324,8 +19427,10 @@
 				],
 				"airSupremacy": {
 					"actual": 990,
-					"suggestedLv1": 743,
-					"suggestedLv2": 495
+					"airDenial": 495,
+					"airParity": 743,
+					"airSuperiority": 1287,
+					"airSupremacy": 1980
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -19668,8 +19773,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1635,
-					"suggestedLv1": 1227,
-					"suggestedLv2": 818
+					"airDenial": 818,
+					"airParity": 1227,
+					"airSuperiority": 2126,
+					"airSupremacy": 3270
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -20032,8 +20139,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1065,
-					"suggestedLv1": 799,
-					"suggestedLv2": 533
+					"airDenial": 533,
+					"airParity": 799,
+					"airSuperiority": 1385,
+					"airSupremacy": 2130
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -20377,8 +20486,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1735,
-					"suggestedLv1": 1302,
-					"suggestedLv2": 868
+					"airDenial": 868,
+					"airParity": 1302,
+					"airSuperiority": 2256,
+					"airSupremacy": 3470
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -20747,8 +20858,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1155,
-					"suggestedLv1": 867,
-					"suggestedLv2": 578
+					"airDenial": 578,
+					"airParity": 867,
+					"airSuperiority": 1502,
+					"airSupremacy": 2310
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -21054,8 +21167,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1855,
-					"suggestedLv1": 1392,
-					"suggestedLv2": 928
+					"airDenial": 928,
+					"airParity": 1392,
+					"airSuperiority": 2412,
+					"airSupremacy": 3710
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -21389,8 +21504,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1250,
-					"suggestedLv1": 938,
-					"suggestedLv2": 625
+					"airDenial": 625,
+					"airParity": 938,
+					"airSuperiority": 1625,
+					"airSupremacy": 2500
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -21739,8 +21856,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1970,
-					"suggestedLv1": 1478,
-					"suggestedLv2": 985
+					"airDenial": 985,
+					"airParity": 1478,
+					"airSuperiority": 2561,
+					"airSupremacy": 3940
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -22120,8 +22239,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1345,
-					"suggestedLv1": 1009,
-					"suggestedLv2": 673
+					"airDenial": 673,
+					"airParity": 1009,
+					"airSuperiority": 1749,
+					"airSupremacy": 2690
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -22477,8 +22598,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2090,
-					"suggestedLv1": 1568,
-					"suggestedLv2": 1045
+					"airDenial": 1045,
+					"airParity": 1568,
+					"airSuperiority": 2717,
+					"airSupremacy": 4180
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -22865,8 +22988,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1440,
-					"suggestedLv1": 1080,
-					"suggestedLv2": 720
+					"airDenial": 720,
+					"airParity": 1080,
+					"airSuperiority": 1872,
+					"airSupremacy": 2880
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -23229,8 +23354,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2210,
-					"suggestedLv1": 1658,
-					"suggestedLv2": 1105
+					"airDenial": 1105,
+					"airParity": 1658,
+					"airSuperiority": 2873,
+					"airSupremacy": 4420
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -23639,8 +23766,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1520,
-					"suggestedLv1": 1140,
-					"suggestedLv2": 760
+					"airDenial": 760,
+					"airParity": 1140,
+					"airSuperiority": 1976,
+					"airSupremacy": 3040
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -23956,8 +24085,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2220,
-					"suggestedLv1": 1665,
-					"suggestedLv2": 1110
+					"airDenial": 1110,
+					"airParity": 1665,
+					"airSuperiority": 2886,
+					"airSupremacy": 4440
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -24305,8 +24436,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1610,
-					"suggestedLv1": 1208,
-					"suggestedLv2": 805
+					"airDenial": 805,
+					"airParity": 1208,
+					"airSuperiority": 2093,
+					"airSupremacy": 3220
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -24678,8 +24811,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2360,
-					"suggestedLv1": 1770,
-					"suggestedLv2": 1180
+					"airDenial": 1180,
+					"airParity": 1770,
+					"airSuperiority": 3068,
+					"airSupremacy": 4720
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -25094,8 +25229,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1700,
-					"suggestedLv1": 1275,
-					"suggestedLv2": 850
+					"airDenial": 850,
+					"airParity": 1275,
+					"airSuperiority": 2210,
+					"airSupremacy": 3400
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -25468,8 +25605,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2480,
-					"suggestedLv1": 1860,
-					"suggestedLv2": 1240
+					"airDenial": 1240,
+					"airParity": 1860,
+					"airSuperiority": 3224,
+					"airSupremacy": 4960
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -25874,8 +26013,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1790,
-					"suggestedLv1": 1343,
-					"suggestedLv2": 895
+					"airDenial": 895,
+					"airParity": 1343,
+					"airSuperiority": 2327,
+					"airSupremacy": 3580
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -26288,8 +26429,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2640,
-					"suggestedLv1": 1980,
-					"suggestedLv2": 1320
+					"airDenial": 1320,
+					"airParity": 1980,
+					"airSuperiority": 3432,
+					"airSupremacy": 5280
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -26744,8 +26887,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1890,
-					"suggestedLv1": 1418,
-					"suggestedLv2": 945
+					"airDenial": 945,
+					"airParity": 1418,
+					"airSuperiority": 2457,
+					"airSupremacy": 3780
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -27113,8 +27258,10 @@
 				],
 				"airSupremacy": {
 					"actual": 1995,
-					"suggestedLv1": 1497,
-					"suggestedLv2": 998
+					"airDenial": 998,
+					"airParity": 1497,
+					"airSuperiority": 2594,
+					"airSupremacy": 3990
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -27534,8 +27681,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2100,
-					"suggestedLv1": 1575,
-					"suggestedLv2": 1050
+					"airDenial": 1050,
+					"airParity": 1575,
+					"airSuperiority": 2730,
+					"airSupremacy": 4200
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -27967,8 +28116,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2205,
-					"suggestedLv1": 1654,
-					"suggestedLv2": 1103
+					"airDenial": 1103,
+					"airParity": 1654,
+					"airSuperiority": 2867,
+					"airSupremacy": 4410
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -28523,8 +28674,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2315,
-					"suggestedLv1": 1737,
-					"suggestedLv2": 1158
+					"airDenial": 1158,
+					"airParity": 1737,
+					"airSuperiority": 3010,
+					"airSupremacy": 4630
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
@@ -28874,8 +29027,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2450,
-					"suggestedLv1": 1838,
-					"suggestedLv2": 1225
+					"airDenial": 1225,
+					"airParity": 1838,
+					"airSuperiority": 3185,
+					"airSupremacy": 4900
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
@@ -29295,8 +29450,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2585,
-					"suggestedLv1": 1939,
-					"suggestedLv2": 1293
+					"airDenial": 1293,
+					"airParity": 1939,
+					"airSuperiority": 3361,
+					"airSupremacy": 5170
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
@@ -29730,8 +29887,10 @@
 				],
 				"airSupremacy": {
 					"actual": 2720,
-					"suggestedLv1": 2040,
-					"suggestedLv2": 1360
+					"airDenial": 1360,
+					"airParity": 2040,
+					"airSuperiority": 3536,
+					"airSupremacy": 5440
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
