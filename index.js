@@ -449,7 +449,7 @@ function parseShip(name, body) {
         ship.rarity = "Unreleased";
         return ship;
     }
-    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) tr:nth-child(${i}) a`));
+    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) > .wikitable tr:nth-child(${i}) > td:nth-child(2) > a`));
     process.stdout.write(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
@@ -461,16 +461,16 @@ function parseShip(name, body) {
     ship.stats = parseStats(doc);
     ship.slots = {};
     for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector(".nomobile > div > .wikitable tr:nth-child(" + (i + 3) + ")"));
-    let enhanceValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").childNodes;
-    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(1)").textContent.trim();
+    let enhanceValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").childNodes;
+    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").textContent.trim();
     else ship.enhanceValue = {
         firepower: parseInt(enhanceValues[0].textContent.trim()),
         torpedo: parseInt(enhanceValues[2].textContent.trim()),
         aviation: parseInt(enhanceValues[4].textContent.trim()),
         reload: parseInt(enhanceValues[6].textContent.trim())
     };
-    let scrapValues = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").childNodes;
-    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(4) td:nth-child(2)").textContent.trim();
+    let scrapValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(2)").childNodes;
+    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(5) td:nth-child(2)").textContent.trim();
     else ship.scrapValue = {
         coin: parseInt(scrapValues[0].textContent.trim()),
         oil: parseInt(scrapValues[2].textContent.trim()),
