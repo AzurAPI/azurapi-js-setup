@@ -1213,7 +1213,7 @@
         "construction": {
             "constructionTime": "00:18:00",
             "availableIn": {
-                "light": true,
+                "light": "EN Only",
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
@@ -1308,7 +1308,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Many Royal Navy ships in 1 big party",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_hms_1.png"
+            },
+            {
+                "description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_destroyers.png"
+            }
+        ]
     },
     "104": {
         "wikiUrl": "https://azurlane.koumakan.jp/Leander",
@@ -3809,14 +3818,15 @@
         "construction": {
             "constructionTime": "01:25:00",
             "availableIn": {
-                "light": true,
+                "light": "EN Only",
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
-                "exchange": false
+                "exchange": true
             }
         },
         "obtainedFrom": {
+            "obtainedFrom": "Added to Exchange for all servers on May 14th, 2020.",
             "fromMaps": []
         },
         "misc": {
@@ -17003,11 +17013,11 @@
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
-                "exchange": false
+                "exchange": true
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available in \"Visitors Dyed in Red\" event.",
+            "obtainedFrom": "Available in \"Visitors Dyed in Red\" event.  Added to Exchange for all servers on May 14th, 2020.",
             "fromMaps": []
         },
         "misc": {
@@ -27472,11 +27482,11 @@
                 "heavy": true,
                 "aviation": false,
                 "limited": false,
-                "exchange": false
+                "exchange": true
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available during \"Visitors Dyed in Red\".",
+            "obtainedFrom": "Available during \"Visitors Dyed in Red\". Added to Exchange for all servers on May 14th, 2020.",
             "fromMaps": []
         },
         "misc": {
@@ -27928,11 +27938,11 @@
                 "heavy": true,
                 "aviation": false,
                 "limited": false,
-                "exchange": false
+                "exchange": true
             }
         },
         "obtainedFrom": {
-            "obtainedFrom": "Available during \"Visitors Dyed in Red\".",
+            "obtainedFrom": "Available during \"Visitors Dyed in Red\".  Added to Exchange for all servers on May 14th, 2020.",
             "fromMaps": []
         },
         "misc": {
@@ -28140,7 +28150,7 @@
             "constructionTime": "04:20:00",
             "availableIn": {
                 "light": false,
-                "heavy": false,
+                "heavy": "CN/JP only",
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura",
                 "exchange": false
@@ -44090,7 +44100,7 @@
         "construction": {
             "constructionTime": "00:21:00",
             "availableIn": {
-                "light": false,
+                "light": "CN/JP only",
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura",
@@ -44752,7 +44762,7 @@
         "construction": {
             "constructionTime": "00:25:00",
             "availableIn": {
-                "light": false,
+                "light": "CN/JP only",
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura",
@@ -45420,7 +45430,7 @@
         "construction": {
             "constructionTime": "00:29:00",
             "availableIn": {
-                "light": false,
+                "light": "CN/JP only",
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura",
@@ -45622,7 +45632,7 @@
         "construction": {
             "constructionTime": "00:29:00",
             "availableIn": {
-                "light": false,
+                "light": "CN/JP only",
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura",
@@ -52454,7 +52464,7 @@
         "construction": {
             "constructionTime": "00:28:00",
             "availableIn": {
-                "light": false,
+                "light": "CN/JP only",
                 "heavy": false,
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura",
@@ -67181,7 +67191,7 @@
             "availableIn": {
                 "light": false,
                 "heavy": false,
-                "aviation": false,
+                "aviation": "CN/JP only",
                 "limited": "Only during event: Ink-stained Steel Sakura Rerun",
                 "exchange": false
             }
@@ -67393,7 +67403,7 @@
             "constructionTime": "01:48:00",
             "availableIn": {
                 "light": false,
-                "heavy": false,
+                "heavy": "CN/JP only",
                 "aviation": false,
                 "limited": "Only during event: Ink-stained Steel Sakura Rerun",
                 "exchange": false
@@ -88645,7 +88655,7 @@
         "construction": {
             "constructionTime": "00:28:00",
             "availableIn": {
-                "light": true,
+                "light": "EN Only",
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
@@ -108476,7 +108486,7 @@
         "construction": {
             "constructionTime": "00:24:00",
             "availableIn": {
-                "light": true,
+                "light": "EN Only",
                 "heavy": false,
                 "aviation": false,
                 "limited": false,
@@ -109327,6 +109337,8 @@
             ],
             "10": [
                 "Gains Full Barrage I",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -109338,6 +109350,7 @@
                 "Main Gun Efficiency +5%"
             ],
             "20": [
+                "Upgrades Siren Killer I→II",
                 "Torpedo Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -109350,6 +109363,7 @@
             ],
             "30": [
                 "Upgrades Full Barrage I→II",
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -109576,6 +109590,8 @@
             ],
             "10": [
                 "Main Gun Mount +1",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -109588,6 +109604,7 @@
             ],
             "20": [
                 "Secondary Gun Mount +2",
+                "Upgrades Siren Killer I→II",
                 "Main Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -109600,6 +109617,7 @@
             ],
             "30": [
                 "Main Gun Mount +1",
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -109865,6 +109883,8 @@
             ],
             "10": [
                 "Gains Full Barrage I",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -109878,6 +109898,7 @@
                 "Pre-Loaded Torpedo +1"
             ],
             "20": [
+                "Upgrades Siren Killer I→II",
                 "Torpedo Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -109891,6 +109912,7 @@
             ],
             "30": [
                 "Upgrades Full Barrage I→II",
+                "Upgrades Siren Killer II→III",
                 "Torpedo Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -110157,6 +110179,8 @@
             ],
             "10": [
                 "Main Gun Mount +1",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -110169,6 +110193,7 @@
             ],
             "20": [
                 "Secondary Gun Mount +2",
+                "Upgrades Siren Killer I→II",
                 "Main Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -110181,6 +110206,7 @@
             ],
             "30": [
                 "Main Gun Mount +1",
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -110427,6 +110453,8 @@
             ],
             "10": [
                 "Gains Full Barrage I",
+                "Gains Siren Killer I",
+                "",
                 "All Weapon Efficiency +2%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -110439,6 +110467,7 @@
                 "Main Gun Efficiency +10%"
             ],
             "20": [
+                "Upgrades Siren Killer I→II",
                 "All Weapon Efficiency +3%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -110452,6 +110481,7 @@
             ],
             "30": [
                 "Upgrades Full Barrage I→II",
+                "Upgrades Siren Killer II→III",
                 "All Weapon Efficiency +5%",
                 "Stars increase to ★★★★★★"
             ]
@@ -110953,6 +110983,8 @@
             ],
             "10": [
                 "Gains Full Barrage I",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -110964,6 +110996,7 @@
                 "Main Gun Efficiency +5%"
             ],
             "20": [
+                "Upgrades Siren Killer I→II",
                 "Main Gun Efficiency +10%",
                 "CL Main Guns Equipable In Secondary Weapon Slot",
                 "Stars increase to ★★★★★☆"
@@ -110977,6 +111010,7 @@
             ],
             "30": [
                 "Upgrades Full Barrage I→II",
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -111077,7 +111111,24 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "2nd anniversary loading screen featuring Belfast, Shoukaku, Seattle and Jean Bart",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2nd_anni_1.png"
+            },
+            {
+                "description": "Seattle in her Gorgeous Party skin holding drinks",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2nd_anni_2.png"
+            },
+            {
+                "description": "Seattle playing the violin",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2nd_anni_3.png"
+            },
+            {
+                "description": "Seattle cooking",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.12.19_5.png"
+            }
+        ]
     },
     "Plan008": {
         "wikiUrl": "https://azurlane.koumakan.jp/Georgia",
@@ -111206,6 +111257,8 @@
             ],
             "10": [
                 "Main Gun Mount +1",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -111218,6 +111271,7 @@
             ],
             "20": [
                 "Secondary Gun Mount +2",
+                "Upgrades Siren Killer I→II",
                 "Main Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -111229,6 +111283,7 @@
                 "Main Gun Efficiency +5%"
             ],
             "30": [
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -111333,7 +111388,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Loading screen depicting Georgia",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_georgia_1.png"
+            },
+            {
+                "description": "Laffey, Belfast, Unicorn, Georgia",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.11.14_6.png"
+            }
+        ]
     },
     "Plan009": {
         "wikiUrl": "https://azurlane.koumakan.jp/Kitakaze",
@@ -111472,6 +111536,8 @@
             ],
             "10": [
                 "Gains Full Barrage I",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -111484,6 +111550,7 @@
                 "Pre-Loaded Torpedo +1"
             ],
             "20": [
+                "Upgrades Siren Killer I→II",
                 "Anti-Air Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -111495,6 +111562,7 @@
             ],
             "30": [
                 "Upgrades Full Barrage I→II",
+                "Upgrades Siren Killer II→III",
                 "All Weapon Efficiency +5%",
                 "Stars increase to ★★★★★★"
             ]
@@ -111718,6 +111786,8 @@
                 "Main Gun Efficiency +5%"
             ],
             "10": [
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -111729,6 +111799,7 @@
                 "Anti-Air Gun Efficiency +10%"
             ],
             "20": [
+                "Upgrades Siren Killer I→II",
                 "Secondary Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -111741,6 +111812,7 @@
                 "Main Gun Efficiency +5%"
             ],
             "30": [
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -111983,6 +112055,8 @@
             ],
             "10": [
                 "Main Gun Mount +1",
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -111995,6 +112069,7 @@
             ],
             "20": [
                 "Secondary Gun Mount +2",
+                "Upgrades Siren Killer I→II",
                 "Main Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -112007,6 +112082,7 @@
             ],
             "30": [
                 "Main Gun Mount +1",
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -112247,6 +112323,8 @@
                 "Main Gun Efficiency +5%"
             ],
             "10": [
+                "Gains Siren Killer I",
+                "",
                 "Main Gun Efficiency +5%",
                 "Stars increase to ★★★★☆☆"
             ],
@@ -112259,6 +112337,7 @@
             ],
             "20": [
                 "Secondary Gun Mount +2",
+                "Upgrades Siren Killer I→II",
                 "Main Gun Efficiency +10%",
                 "Stars increase to ★★★★★☆"
             ],
@@ -112270,6 +112349,7 @@
                 "Main Gun Efficiency +5%"
             ],
             "30": [
+                "Upgrades Siren Killer II→III",
                 "Main Gun Efficiency +15%",
                 "Stars increase to ★★★★★★"
             ]
@@ -112361,7 +112441,16 @@
                 }
             }
         ],
-        "gallery": []
+        "gallery": [
+            {
+                "description": "Loading screen depicting Gascogne",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_gascogne_1.png"
+            },
+            {
+                "description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque and Gascogne during Halloween",
+                "url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/gallery/Bg_2019.10.31_2.png"
+            }
+        ]
     },
     "Collab001": {
         "wikiUrl": "https://azurlane.koumakan.jp/HDN_Neptune",
