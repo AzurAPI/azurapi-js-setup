@@ -1211,13 +1211,13 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:18:00",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
@@ -3816,9 +3816,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "01:25:00",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -4888,7 +4888,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Aurora celebrating Chinese New Year",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4b/Bg_Aurora_1.png"
+			}
+		]
 	},
 	"119": {
 		"wikiUrl": "https://azurlane.koumakan.jp/London",
@@ -5543,7 +5548,8 @@
 				"5-2",
 				"5-4",
 				"8-4",
-				"10-4"
+				"10-4",
+				"12-4"
 			]
 		},
 		"misc": {
@@ -7100,7 +7106,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
@@ -12434,7 +12440,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Erebus and her sister, Terror, login screen",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a1/Bg_erebus_1.jpg"
+			},
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			},
+			{
+				"description": "Montpelier, Cleveland, Erebus, Admiral Graf Spee",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c2/Bg_2019.12.19_4.png"
+			}
+		]
 	},
 	"150": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Terror",
@@ -18373,7 +18392,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
+				"url": "https://azurlane.koumakan.jp/w/images/8/81/Bg_destroyers.png"
+			}
+		]
 	},
 	"176": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Yuugure",
@@ -24678,7 +24702,28 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading Screen featuring Takao, Atago, Akagi, and Kaga in a winter setting",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1b/Bg_takao_1.png"
+			},
+			{
+				"description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs",
+				"url": "https://azurlane.koumakan.jp/w/images/1/14/Bg_bath.png"
+			},
+			{
+				"description": "Loading Screen featuring Atago during valentines",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d8/Bg_valentines_3.png"
+			},
+			{
+				"description": "Takao and Atago after making chocolates",
+				"url": "https://azurlane.koumakan.jp/w/images/2/20/Bg_valentines_5.png"
+			},
+			{
+				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
+				"url": "https://azurlane.koumakan.jp/w/images/7/77/Bg_2019.12.19_2.png"
+			}
+		]
 	},
 	"202": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Maya",
@@ -28431,7 +28476,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Mutsu.png/812px-Mutsu.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Mutsu.png/813px-Mutsu.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png",
 				"info": {
@@ -64799,7 +64844,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Curacoa in her Eastern Luster skin with Curlew",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ee/Bg_ceres_class_1.png"
+			}
+		]
 	},
 	"373": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Curlew",
@@ -65270,7 +65320,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Curlew in her Eastern Beauty skin with Curacoa",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ee/Bg_ceres_class_1.png"
+			}
+		]
 	},
 	"374": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kimberly",
@@ -73415,7 +73470,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_ashen_1.png"
+			}
+		]
 	},
 	"403": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Bataan",
@@ -74042,7 +74102,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_ashen_1.png"
+			}
+		]
 	},
 	"406": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Aylwin",
@@ -74256,7 +74321,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_ashen_1.png"
+			}
+		]
 	},
 	"407": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Bache",
@@ -84762,7 +84832,7 @@
 					"cn": null,
 					"jp": null
 				},
-				"description": "All Vauquelin-class ships gain 5% (15%) more TP/EV; self FP/AA/ACC is increased by 4.5% (12%) for first 30s of battle.",
+				"description": "Increases the TRP and EVA of all your Vauquelin-class DDs by 5.0% (15.0%) and increases this ships FP, AA, and Accuracy by 4.5% (12.0%) for 30s after the battle starts.",
 				"color": "gold"
 			},
 			{
@@ -87157,7 +87227,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Hornet, Admiral Hipper, San Diego, Downes",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ec/Bg_2019.10.31_12.png"
+			}
+		]
 	},
 	"007": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Gridley",
@@ -88653,9 +88728,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:28:00",
+			"constructionTime": "Drop Only",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -88663,6 +88738,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Fallen Wings A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"6-1",
 				"9-1",
@@ -92116,7 +92192,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Brooklyn, Montpelier, Washington, Honolulu, St. Louis and Ranger during American Independence Day",
+				"url": "https://azurlane.koumakan.jp/w/images/5/57/Bg_July4th_6.png"
+			}
+		]
 	},
 	"032": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Phoenix",
@@ -93057,7 +93138,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Laffey, San Diego, Helena and Atlanta celebrating American Independence day",
+				"url": "https://azurlane.koumakan.jp/w/images/5/5b/Bg_July4th_2.png"
+			}
+		]
 	},
 	"035": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Juneau",
@@ -93987,7 +94073,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
@@ -94360,7 +94446,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Columbia and Cleveland in battle",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a6/Bg_cleveland_1.png"
+			}
+		]
 	},
 	"039": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Pensacola",
@@ -96370,7 +96461,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Astoria with Vincennes and Quincy",
+				"url": "https://azurlane.koumakan.jp/w/images/b/bf/Bg_Quincy_1.png"
+			}
+		]
 	},
 	"047": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Quincy",
@@ -107079,7 +107175,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Crescent Valentine's loading screen",
+				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_crescent_1.png"
+			},
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			}
+		]
 	},
 	"090": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Cygnet",
@@ -107622,7 +107727,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			}
+		]
 	},
 	"091": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Foxhound",
@@ -108484,16 +108594,17 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:24:00",
+			"constructionTime": "Drop Only",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"6-1",
 				"3-2",
@@ -109188,6 +109299,246 @@
 			}
 		],
 		"gallery": []
+	},
+	"Plan": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Odin",
+		"id": "Plan",
+		"names": {
+			"en": "Odin",
+			"code": "KMS",
+			"cn": "CN: 求知之贤眼",
+			"jp": null,
+			"kr": null
+		},
+		"class": null,
+		"nationality": "Ironblood",
+		"hullType": "Battlecruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5e/OdinIcon.png",
+		"rarity": "Priority",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "7126",
+				"armor": "Heavy",
+				"reload": "171",
+				"luck": "0",
+				"firepower": "361",
+				"torpedo": "241",
+				"evasion": "36",
+				"speed": "30",
+				"antiair": "337",
+				"aviation": "0",
+				"oilConsumption": "16",
+				"accuracy": "62",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6133",
+				"armor": "Heavy",
+				"reload": "149",
+				"luck": "0",
+				"firepower": "321",
+				"torpedo": "210",
+				"evasion": "21",
+				"speed": "30",
+				"antiair": "299",
+				"aviation": "0",
+				"oilConsumption": "16",
+				"accuracy": "52",
+				"antisubmarineWarfare": ""
+			},
+			"baseStats": {
+				"health": "1186",
+				"armor": "Heavy",
+				"reload": "63",
+				"luck": "0",
+				"firepower": "69",
+				"torpedo": "45",
+				"evasion": "8",
+				"speed": "30",
+				"antiair": "64",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "20",
+				"antisubmarineWarfare": ""
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "BB Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 140
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 200,
+				"maxEfficiency": 200
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/35/Skill_19330.png",
+				"names": {
+					"en": "Mímir's Keen Eye",
+					"cn": "求知之贤眼",
+					"jp": null
+				},
+				"description": "Changes this ship's position and decrease its DMG taken by 5% (20.0%). Every 15s: commences a sonar scan, revealing the locations of all enemy Submarines for 5s (10s) and decreasing your Vanguard's DMG taken from torpedoes by 5% (15.0%) for 5s (10s).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/c/c7/Skill_19340.png",
+				"names": {
+					"en": "Herteitr's Rolling Thunder",
+					"cn": "贯穿之轰雷",
+					"jp": null
+				},
+				"description": "Every 18s: 45% (75.0%) chance to fire a special barrage (DMG is based on the skill's level). Changes the Spread Angle of this ship's torpedoes.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_19000.png",
+				"names": {
+					"en": "Siren Killer",
+					"cn": "塞壬之敌",
+					"jp": null
+				},
+				"description": "Increases this ship's DMG to Sirens by 5.0% (15%).",
+				"color": "pink"
+			}
+		],
+		"devLevels": {
+			"5": [
+				{
+					"health": "+289",
+					"antiair": "+16"
+				},
+				"",
+				"Main Gun Efficiency +5%"
+			],
+			"10": [
+				"Gains Siren Killer I",
+				"",
+				"Main Gun Mount +1",
+				"",
+				"Gains Special Secondary Gun Mounts",
+				"Stars increase to ★★★★☆☆"
+			],
+			"15": [
+				{
+					"health": "+579",
+					"antiair": "+31"
+				},
+				"",
+				"Anti-Air Gun Efficiency +10%"
+			],
+			"20": [
+				"Upgrades Siren Killer I→II",
+				"Main Gun Efficiency +15%",
+				"Stars increase to ★★★★★☆"
+			],
+			"25": [
+				{
+					"health": "+868",
+					"antiair": "+47"
+				},
+				"",
+				"Main Gun Efficiency +5%"
+			],
+			"30": [
+				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
+				"Main Gun Mount +1",
+				"",
+				"Main Gun Efficiency +15%",
+				"Stars increase to ★★★★★★"
+			]
+		},
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Health",
+					"bonus": "+2"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Accuracy",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 48,
+				"maxLimitBreak": 96,
+				"maxLevel": 72,
+				"total": 216
+			}
+		},
+		"construction": {
+			"constructionTime": "Research",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": "RAN",
+			"web": {
+				"name": "不可燃物",
+				"url": "https://weibo.com/u/2235541213"
+			},
+			"pixiv": {
+				"name": "RAN",
+				"url": "https://www.pixiv.net/member.php?id=2957827"
+			},
+			"twitter": {
+				"name": "不可燃物",
+				"url": "https://twitter.com/bukeranwu"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/58/Odin.png/629px-Odin.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/OdinChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Mainz, Odin, Champagne, Cheshire, Drake",
+				"url": "https://azurlane.koumakan.jp/w/images/5/52/Bg_2020.07.09_1.png"
+			}
+		]
 	},
 	"Plan001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/HMS_Neptune",
@@ -111109,6 +111460,20 @@
 					"cost": "900",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Sunfish Spell!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/SeattleSummer.png/507px-SeattleSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/4/4e/Skin_BG_134.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/ab/SeattleSummerChibi.png",
+				"info": {
+					"enClient": "Sunfish Spell!",
+					"cnClient": "Sunfish Spell！",
+					"jpClient": "サンフィッシュスペル！",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -111919,7 +112284,7 @@
 		]
 	},
 	"Plan011": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Friedrich_der_Grosse",
+		"wikiUrl": "https://azurlane.koumakan.jp/Friedrich_der_Große",
 		"id": "Plan011",
 		"names": {
 			"en": "Friedrich der Große",
@@ -112291,6 +112656,16 @@
 					"jp": "感情抑制モジュール"
 				},
 				"description": "When Health falls below 50%: increases own Evasion by 15% (30%) and recovers 2% of max HP every 2 seconds for 8 seconds. Can only activate twice per battle.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/1/1f/Skill_19250.png",
+				"names": {
+					"en": "(Fate Simulation)",
+					"cn": "感知抑制模块+",
+					"jp": "感情抑制モジュール+"
+				},
+				"description": "At the start of battle, if this ship's HP is greater than 50.0%: increases this ship's AA by ? (?) and improves this ship's Precision Salvo Protocol barrage. Additionally, when this ship's HP falls below 50.0%: for 8s, increases this ship's EVA by 15% (30%) and restores a total of 8.0% of its max HP (this effect can only be triggered twice per battle). (replaces Emotion Inhibition Module)",
 				"color": "deepskyblue"
 			},
 			{
