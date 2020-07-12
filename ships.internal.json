@@ -4,7 +4,7 @@
 		"id": "100",
 		"names": {
 			"en": "Hunter",
-			"code": "HMS Hunter",
+			"code": "HMS Hunter (cn:",
 			"cn": "猎人",
 			"jp": "ハンター",
 			"kr": "헌터"
@@ -203,7 +203,7 @@
 		"id": "101",
 		"names": {
 			"en": "Javelin",
-			"code": "HMS Javelin",
+			"code": "HMS Javelin (cn:",
 			"cn": "标枪",
 			"jp": "ジャベリン",
 			"kr": "재블린"
@@ -837,7 +837,7 @@
 		"id": "102",
 		"names": {
 			"en": "Juno",
-			"code": "HMS Juno",
+			"code": "HMS Juno (cn:",
 			"cn": "天后",
 			"jp": "ジュノー",
 			"kr": "주노"
@@ -1060,7 +1060,7 @@
 		"id": "103",
 		"names": {
 			"en": "Vampire",
-			"code": "HMS Vampire",
+			"code": "HMS Vampire (cn:",
 			"cn": "吸血鬼",
 			"jp": "ヴァンパイア",
 			"kr": "뱀파이어"
@@ -1211,13 +1211,13 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:18:00",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
-				"light": true,
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
@@ -1308,14 +1308,23 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			},
+			{
+				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
+				"url": "https://azurlane.koumakan.jp/w/images/8/81/Bg_destroyers.png"
+			}
+		]
 	},
 	"104": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Leander",
 		"id": "104",
 		"names": {
 			"en": "Leander",
-			"code": "HMS Leander",
+			"code": "HMS Leander (cn:",
 			"cn": "利安得",
 			"jp": "リアンダー",
 			"kr": "리엔더"
@@ -1796,7 +1805,7 @@
 		"id": "105",
 		"names": {
 			"en": "Achilles",
-			"code": "HMS Achilles",
+			"code": "HMS Achilles (cn:",
 			"cn": "阿基里斯",
 			"jp": "アキリーズ",
 			"kr": "아킬레스"
@@ -2260,7 +2269,7 @@
 		"id": "106",
 		"names": {
 			"en": "Ajax",
-			"code": "HMS Ajax",
+			"code": "HMS Ajax (cn:",
 			"cn": "阿贾克斯",
 			"jp": "エイジャックス",
 			"kr": "에이잭스"
@@ -2739,7 +2748,7 @@
 		"id": "107",
 		"names": {
 			"en": "Dido",
-			"code": "HMS Dido",
+			"code": "HMS Dido (cn:",
 			"cn": "黛朵",
 			"jp": "ダイドー",
 			"kr": null
@@ -2965,7 +2974,7 @@
 		"id": "110",
 		"names": {
 			"en": "Southampton",
-			"code": "HMS Southampton",
+			"code": "HMS Southampton (cn:",
 			"cn": "南安普顿",
 			"jp": "サウサンプトン",
 			"kr": "사우스햄튼"
@@ -3191,7 +3200,7 @@
 		"id": "111",
 		"names": {
 			"en": "Sheffield",
-			"code": "HMS Sheffield",
+			"code": "HMS Sheffield (cn:",
 			"cn": "谢菲尔德",
 			"jp": "シェフィールド",
 			"kr": "셰필드"
@@ -3432,7 +3441,7 @@
 		"id": "113",
 		"names": {
 			"en": "Gloucester",
-			"code": "HMS Gloucester",
+			"code": "HMS Gloucester (cn:",
 			"cn": "格罗斯特",
 			"jp": "グロスター",
 			"kr": null
@@ -3656,7 +3665,7 @@
 		"id": "114",
 		"names": {
 			"en": "Edinburgh",
-			"code": "HMS Edinburgh",
+			"code": "HMS Edinburgh (cn:",
 			"cn": "爱丁堡",
 			"jp": "エディンバラ",
 			"kr": "에든버러"
@@ -3807,16 +3816,17 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "01:25:00",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
-				"light": true,
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Added to Exchange for all servers on May 14th, 2020.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -3885,7 +3895,7 @@
 		"id": "115",
 		"names": {
 			"en": "Belfast",
-			"code": "HMS Belfast",
+			"code": "HMS Belfast (cn:",
 			"cn": "贝尔法斯特",
 			"jp": "ベルファスト",
 			"kr": "벨파스트"
@@ -4224,7 +4234,7 @@
 		"id": "116",
 		"names": {
 			"en": "Arethusa",
-			"code": "HMS Arethusa",
+			"code": "HMS Arethusa (cn:",
 			"cn": "阿瑞托莎",
 			"jp": "アリシューザ",
 			"kr": "아레투사"
@@ -4428,7 +4438,7 @@
 		"id": "117",
 		"names": {
 			"en": "Galatea",
-			"code": "HMS Galatea",
+			"code": "HMS Galatea (cn:",
 			"cn": "加拉蒂亚",
 			"jp": "ガラティア",
 			"kr": "갈라테아"
@@ -4632,7 +4642,7 @@
 		"id": "118",
 		"names": {
 			"en": "Aurora",
-			"code": "HMS Aurora",
+			"code": "HMS Aurora (cn:",
 			"cn": "欧若拉",
 			"jp": "オーロラ",
 			"kr": "오로라"
@@ -4878,14 +4888,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Aurora celebrating Chinese New Year",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4b/Bg_Aurora_1.png"
+			}
+		]
 	},
 	"119": {
 		"wikiUrl": "https://azurlane.koumakan.jp/London",
 		"id": "119",
 		"names": {
 			"en": "London",
-			"code": "HMS London",
+			"code": "HMS London (cn:",
 			"cn": "伦敦",
 			"jp": "ロンドン",
 			"kr": "런던"
@@ -5362,7 +5377,7 @@
 		"id": "120",
 		"names": {
 			"en": "Shropshire",
-			"code": "HMS Shropshire",
+			"code": "HMS Shropshire (cn:",
 			"cn": "什罗普郡",
 			"jp": "シュロップシャー",
 			"kr": "슈롭셔"
@@ -5533,7 +5548,8 @@
 				"5-2",
 				"5-4",
 				"8-4",
-				"10-4"
+				"10-4",
+				"12-4"
 			]
 		},
 		"misc": {
@@ -5574,7 +5590,7 @@
 		"id": "121",
 		"names": {
 			"en": "Kent",
-			"code": "HMS Kent",
+			"code": "HMS Kent (cn:",
 			"cn": "肯特",
 			"jp": "ケント",
 			"kr": "켄트"
@@ -5787,7 +5803,7 @@
 		"id": "122",
 		"names": {
 			"en": "Suffolk",
-			"code": "HMS Suffolk",
+			"code": "HMS Suffolk (cn:",
 			"cn": "萨福克",
 			"jp": "サフォーク",
 			"kr": "서포크"
@@ -6246,7 +6262,7 @@
 		"id": "123",
 		"names": {
 			"en": "Norfolk",
-			"code": "HMS Norfolk",
+			"code": "HMS Norfolk (cn:",
 			"cn": "诺福克",
 			"jp": "ノーフォーク",
 			"kr": "노포크"
@@ -6458,7 +6474,7 @@
 		"id": "124",
 		"names": {
 			"en": "Dorsetshire",
-			"code": "HMS Dorsetshire",
+			"code": "HMS Dorsetshire (cn:",
 			"cn": "多塞特郡",
 			"jp": "ドーセットシャー",
 			"kr": "도셋셔"
@@ -6664,7 +6680,7 @@
 		"id": "125",
 		"names": {
 			"en": "York",
-			"code": "HMS York",
+			"code": "HMS York (cn:",
 			"cn": "约克",
 			"jp": "ヨーク",
 			"kr": "요크"
@@ -7090,7 +7106,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
@@ -7172,7 +7188,7 @@
 		"id": "126",
 		"names": {
 			"en": "Exeter",
-			"code": "HMS Exeter",
+			"code": "HMS Exeter (cn:",
 			"cn": "埃克塞特",
 			"jp": "エクセター",
 			"kr": "엑세터"
@@ -7671,7 +7687,7 @@
 		"id": "127",
 		"names": {
 			"en": "Renown",
-			"code": "HMS Renown",
+			"code": "HMS Renown (cn:",
 			"cn": "声望",
 			"jp": "レナウン",
 			"kr": "리나운"
@@ -7864,7 +7880,7 @@
 		"id": "128",
 		"names": {
 			"en": "Repulse",
-			"code": "HMS Repulse",
+			"code": "HMS Repulse (cn:",
 			"cn": "反击",
 			"jp": "レパルス",
 			"kr": "리펄스"
@@ -8060,7 +8076,7 @@
 		"id": "129",
 		"names": {
 			"en": "Hood",
-			"code": "HMS Hood",
+			"code": "HMS Hood (cn:",
 			"cn": "胡德",
 			"jp": "フッド",
 			"kr": "후드"
@@ -8287,7 +8303,7 @@
 		"id": "130",
 		"names": {
 			"en": "Queen Elizabeth",
-			"code": "HMS Queen Elizabeth",
+			"code": "HMS Queen Elizabeth (cn:",
 			"cn": "伊丽莎白女王",
 			"jp": "クイーン・エリザベス",
 			"kr": "퀸 엘리자베스"
@@ -8511,7 +8527,7 @@
 		"id": "131",
 		"names": {
 			"en": "Warspite",
-			"code": "HMS Warspite",
+			"code": "HMS Warspite (cn:",
 			"cn": "厌战",
 			"jp": "ウォースパイト",
 			"kr": "워스파이트"
@@ -9000,7 +9016,7 @@
 		"id": "132",
 		"names": {
 			"en": "Nelson",
-			"code": "HMS Nelson",
+			"code": "HMS Nelson (cn:",
 			"cn": "纳尔逊",
 			"jp": "ネルソン",
 			"kr": "넬슨"
@@ -9212,7 +9228,7 @@
 		"id": "133",
 		"names": {
 			"en": "Rodney",
-			"code": "HMS Rodney",
+			"code": "HMS Rodney (cn:",
 			"cn": "罗德尼",
 			"jp": "ロドニー",
 			"kr": "로드니"
@@ -9437,7 +9453,7 @@
 		"id": "134",
 		"names": {
 			"en": "King George V",
-			"code": "HMS King George V",
+			"code": "HMS King George V (cn:",
 			"cn": "英王乔治五世",
 			"jp": "キング・ジョージ5世",
 			"kr": "킹 조지 5세"
@@ -9656,7 +9672,7 @@
 		"id": "135",
 		"names": {
 			"en": "Prince of Wales",
-			"code": "HMS Prince of Wales",
+			"code": "HMS Prince of Wales (cn:",
 			"cn": "威尔士亲王",
 			"jp": "プリンス・オブ・ウェールズ",
 			"kr": "프린스 오브 웨일즈"
@@ -9903,7 +9919,7 @@
 		"id": "136",
 		"names": {
 			"en": "Duke of York",
-			"code": "HMS Duke of York",
+			"code": "HMS Duke of York (cn:",
 			"cn": "约克公爵",
 			"jp": "デューク・オブ・ヨーク",
 			"kr": "듀크 오브 요크"
@@ -10136,7 +10152,7 @@
 		"id": "140",
 		"names": {
 			"en": "Hermes",
-			"code": "HMS Hermes",
+			"code": "HMS Hermes (cn:",
 			"cn": "竞技神",
 			"jp": "ハーミーズ",
 			"kr": "허미즈"
@@ -10626,7 +10642,7 @@
 		"id": "142",
 		"names": {
 			"en": "Unicorn",
-			"code": "HMS Unicorn",
+			"code": "HMS Unicorn (cn:",
 			"cn": "独角兽",
 			"jp": "ユニコーン",
 			"kr": "유니콘"
@@ -10937,7 +10953,7 @@
 		"id": "144",
 		"names": {
 			"en": "Ark Royal",
-			"code": "HMS Ark Royal",
+			"code": "HMS Ark Royal (cn:",
 			"cn": "皇家方舟",
 			"jp": "アーク・ロイヤル",
 			"kr": "아크 로열"
@@ -11193,7 +11209,7 @@
 		"id": "145",
 		"names": {
 			"en": "Illustrious",
-			"code": "HMS Illustrious",
+			"code": "HMS Illustrious (cn:",
 			"cn": "光辉",
 			"jp": "イラストリアス",
 			"kr": "일러스트리어스"
@@ -11525,7 +11541,7 @@
 		"id": "146",
 		"names": {
 			"en": "Victorious",
-			"code": "HMS Victorious",
+			"code": "HMS Victorious (cn:",
 			"cn": "胜利",
 			"jp": "ヴィクトリアス",
 			"kr": "빅토리어스"
@@ -11743,7 +11759,7 @@
 		"id": "147",
 		"names": {
 			"en": "Formidable",
-			"code": "HMS Formidable",
+			"code": "HMS Formidable (cn:",
 			"cn": "可畏",
 			"jp": "フォーミダブル",
 			"kr": "포미더블"
@@ -11987,7 +12003,7 @@
 		"id": "148",
 		"names": {
 			"en": "Glorious",
-			"code": "HMS Glorious",
+			"code": "HMS Glorious (cn:",
 			"cn": "光荣",
 			"jp": "グロリアス",
 			"kr": "글로리어스"
@@ -12205,7 +12221,7 @@
 		"id": "149",
 		"names": {
 			"en": "Erebus",
-			"code": "HMS Erebus",
+			"code": "HMS Erebus (cn:",
 			"cn": "黑暗界",
 			"jp": "エレバス",
 			"kr": "에레버스"
@@ -12424,14 +12440,27 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Erebus and her sister, Terror, login screen",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a1/Bg_erebus_1.jpg"
+			},
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			},
+			{
+				"description": "Montpelier, Cleveland, Erebus, Admiral Graf Spee",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c2/Bg_2019.12.19_4.png"
+			}
+		]
 	},
 	"150": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Terror",
 		"id": "150",
 		"names": {
 			"en": "Terror",
-			"code": "HMS Terror",
+			"code": "HMS Terror (cn:",
 			"cn": "恐怖",
 			"jp": "テラー",
 			"kr": "테러"
@@ -12643,7 +12672,7 @@
 		"id": "151",
 		"names": {
 			"en": "Fubuki",
-			"code": "IJN Fubuki",
+			"code": "IJN Fubuki (cn:",
 			"cn": "桐",
 			"jp": "吹雪",
 			"kr": "후부키"
@@ -12908,7 +12937,7 @@
 		"id": "155",
 		"names": {
 			"en": "Ayanami",
-			"code": "IJN Ayanami",
+			"code": "IJN Ayanami (cn:",
 			"cn": "柚",
 			"jp": "綾波",
 			"kr": "아야나미"
@@ -13703,7 +13732,7 @@
 		"id": "159",
 		"names": {
 			"en": "Akatsuki",
-			"code": "IJN Akatsuki",
+			"code": "IJN Akatsuki (cn:",
 			"cn": "枫",
 			"jp": "暁",
 			"kr": "아카츠키"
@@ -13933,7 +13962,7 @@
 		"id": "160",
 		"names": {
 			"en": "Hibiki",
-			"code": "IJN Hibiki",
+			"code": "IJN Hibiki (cn:",
 			"cn": "栀",
 			"jp": "響",
 			"kr": null
@@ -14158,7 +14187,7 @@
 		"id": "161",
 		"names": {
 			"en": "Ikazuchi",
-			"code": "IJN Ikazuchi",
+			"code": "IJN Ikazuchi (cn:",
 			"cn": "梓",
 			"jp": "雷",
 			"kr": "이카즈치"
@@ -14397,7 +14426,7 @@
 		"id": "162",
 		"names": {
 			"en": "Inazuma",
-			"code": "IJN Inazuma",
+			"code": "IJN Inazuma (cn:",
 			"cn": "柏",
 			"jp": "電",
 			"kr": "이나즈마"
@@ -14640,7 +14669,7 @@
 		"id": "163",
 		"names": {
 			"en": "Shiratsuyu",
-			"code": "IJN Shiratsuyu",
+			"code": "IJN Shiratsuyu (cn:",
 			"cn": "梿",
 			"jp": "白露",
 			"kr": "시라츠유"
@@ -14862,7 +14891,7 @@
 		"id": "164",
 		"names": {
 			"en": "Yuudachi",
-			"code": "IJN Yuudachi",
+			"code": "IJN Yuudachi (cn:",
 			"cn": "椿",
 			"jp": "夕立",
 			"kr": "유다치"
@@ -15122,7 +15151,7 @@
 		"id": "165",
 		"names": {
 			"en": "Shigure",
-			"code": "IJN Shigure",
+			"code": "IJN Shigure (cn:",
 			"cn": "栴",
 			"jp": "時雨",
 			"kr": "시구레"
@@ -15621,7 +15650,7 @@
 		"id": "166",
 		"names": {
 			"en": "Yukikaze",
-			"code": "IJN Yukikaze",
+			"code": "IJN Yukikaze (cn:",
 			"cn": "莲",
 			"jp": "雪風",
 			"kr": "유키카제"
@@ -15891,7 +15920,7 @@
 		"id": "167",
 		"names": {
 			"en": "Kagerou",
-			"code": "IJN Kagerou",
+			"code": "IJN Kagerou (cn:",
 			"cn": "萩",
 			"jp": "陽炎",
 			"kr": "카게로"
@@ -16365,7 +16394,7 @@
 		"id": "168",
 		"names": {
 			"en": "Shiranui",
-			"code": "IJN Shiranui",
+			"code": "IJN Shiranui (cn:",
 			"cn": "蒲",
 			"jp": "不知火",
 			"kr": "시라누이"
@@ -16846,7 +16875,7 @@
 		"id": "170",
 		"names": {
 			"en": "Nowaki",
-			"code": "IJN Nowaki",
+			"code": "IJN Nowaki (cn:",
 			"cn": "苓",
 			"jp": "野分",
 			"kr": "노와키"
@@ -17003,11 +17032,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in \"Visitors Dyed in Red\" event.",
+			"obtainedFrom": "Available in \"Visitors Dyed in Red\" event.  Added to Exchange for all servers on May 14th, 2020.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -17048,7 +17077,7 @@
 		"id": "171",
 		"names": {
 			"en": "Hatsuharu",
-			"code": "IJN Hatsuharu",
+			"code": "IJN Hatsuharu (cn:",
 			"cn": "梅",
 			"jp": "初春",
 			"kr": "하츠하루"
@@ -17511,7 +17540,7 @@
 		"id": "173",
 		"names": {
 			"en": "Wakaba",
-			"code": "IJN Wakaba",
+			"code": "IJN Wakaba (cn:",
 			"cn": "楉",
 			"jp": "若葉",
 			"kr": "와카바"
@@ -17726,7 +17755,7 @@
 		"id": "174",
 		"names": {
 			"en": "Hatsushimo",
-			"code": "IJN Hatsushimo",
+			"code": "IJN Hatsushimo (cn:",
 			"cn": "檨",
 			"jp": "初霜",
 			"kr": "하츠시모"
@@ -18171,7 +18200,7 @@
 		"id": "175",
 		"names": {
 			"en": "Ariake",
-			"code": "IJN Ariake",
+			"code": "IJN Ariake (cn:",
 			"cn": "榎",
 			"jp": "有明",
 			"kr": "아리아케"
@@ -18363,14 +18392,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
+				"url": "https://azurlane.koumakan.jp/w/images/8/81/Bg_destroyers.png"
+			}
+		]
 	},
 	"176": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Yuugure",
 		"id": "176",
 		"names": {
 			"en": "Yuugure",
-			"code": "IJN Yuugure",
+			"code": "IJN Yuugure (cn:",
 			"cn": "棭",
 			"jp": "夕暮",
 			"kr": "유구레"
@@ -18860,7 +18894,7 @@
 		"id": "177",
 		"names": {
 			"en": "Kuroshio",
-			"code": "IJN Kuroshio",
+			"code": "IJN Kuroshio (cn:",
 			"cn": "蓉",
 			"jp": "黒潮",
 			"kr": "쿠로시오"
@@ -19069,7 +19103,7 @@
 		"id": "178",
 		"names": {
 			"en": "Oyashio",
-			"code": "IJN Oyashio",
+			"code": "IJN Oyashio (cn:",
 			"cn": "藮",
 			"jp": "親潮",
 			"kr": "오야시오"
@@ -19278,7 +19312,7 @@
 		"id": "179",
 		"names": {
 			"en": "Yuubari",
-			"code": "IJN Yuubari",
+			"code": "IJN Yuubari (cn:",
 			"cn": "狐",
 			"jp": "夕張",
 			"kr": "유바리"
@@ -19766,7 +19800,7 @@
 		"id": "182",
 		"names": {
 			"en": "Nagara",
-			"code": "IJN Nagara",
+			"code": "IJN Nagara (cn:",
 			"cn": "貊",
 			"jp": "長良",
 			"kr": "나가라"
@@ -19980,7 +20014,7 @@
 		"id": "183",
 		"names": {
 			"en": "Isuzu",
-			"code": "IJN Isuzu",
+			"code": "IJN Isuzu (cn:",
 			"cn": "貉",
 			"jp": "五十鈴",
 			"kr": "이스즈"
@@ -20464,7 +20498,7 @@
 		"id": "186",
 		"names": {
 			"en": "Kinu",
-			"code": "IJN Kinu",
+			"code": "IJN Kinu (cn:",
 			"cn": "猤",
 			"jp": "鬼怒",
 			"kr": null
@@ -20948,7 +20982,7 @@
 		"id": "187",
 		"names": {
 			"en": "Abukuma",
-			"code": "IJN Abukuma",
+			"code": "IJN Abukuma (cn:",
 			"cn": "貃",
 			"jp": "阿武隈",
 			"kr": "아부쿠마"
@@ -21402,7 +21436,7 @@
 		"id": "188",
 		"names": {
 			"en": "Mogami",
-			"code": "IJN Mogami",
+			"code": "IJN Mogami (cn:",
 			"cn": "猨",
 			"jp": "最上",
 			"kr": "모가미"
@@ -21891,7 +21925,7 @@
 		"id": "189",
 		"names": {
 			"en": "Mikuma",
-			"code": "IJN Mikuma",
+			"code": "IJN Mikuma (cn:",
 			"cn": "狻",
 			"jp": "三隈",
 			"kr": "미쿠마"
@@ -22113,7 +22147,7 @@
 		"id": "190",
 		"names": {
 			"en": "Furutaka",
-			"code": "IJN Furutaka",
+			"code": "IJN Furutaka (cn:",
 			"cn": "狼",
 			"jp": "古鷹",
 			"kr": "후루타카"
@@ -22570,7 +22604,7 @@
 		"id": "191",
 		"names": {
 			"en": "Kako",
-			"code": "IJN Kako",
+			"code": "IJN Kako (cn:",
 			"cn": "狌",
 			"jp": "加古",
 			"kr": "카코"
@@ -23027,7 +23061,7 @@
 		"id": "192",
 		"names": {
 			"en": "Aoba",
-			"code": "IJN Aoba",
+			"code": "IJN Aoba (cn:",
 			"cn": "犹",
 			"jp": "青葉",
 			"kr": "아오바"
@@ -23232,7 +23266,7 @@
 		"id": "193",
 		"names": {
 			"en": "Kinugasa",
-			"code": "IJN Kinugasa",
+			"code": "IJN Kinugasa (cn:",
 			"cn": "猅",
 			"jp": "衣笠",
 			"kr": "키누가사"
@@ -23437,7 +23471,7 @@
 		"id": "196",
 		"names": {
 			"en": "Myoukou",
-			"code": "IJN Myoukou",
+			"code": "IJN Myoukou (cn:",
 			"cn": "獌",
 			"jp": "妙高",
 			"kr": "묘코"
@@ -23646,7 +23680,7 @@
 		"id": "197",
 		"names": {
 			"en": "Nachi",
-			"code": "IJN Nachi",
+			"code": "IJN Nachi (cn:",
 			"cn": "狏",
 			"jp": "那智",
 			"kr": "나치"
@@ -23856,7 +23890,7 @@
 		"id": "198",
 		"names": {
 			"en": "Ashigara",
-			"code": "IJN Ashigara",
+			"code": "IJN Ashigara (cn:",
 			"cn": "狳",
 			"jp": "足柄",
 			"kr": "아시가라"
@@ -24087,7 +24121,7 @@
 		"id": "200",
 		"names": {
 			"en": "Takao",
-			"code": "IJN Takao",
+			"code": "IJN Takao (cn:",
 			"cn": "獒",
 			"jp": "高雄",
 			"kr": "타카오"
@@ -24390,7 +24424,7 @@
 		"id": "201",
 		"names": {
 			"en": "Atago",
-			"code": "IJN Atago",
+			"code": "IJN Atago (cn:",
 			"cn": "犬",
 			"jp": "愛宕",
 			"kr": "아타고"
@@ -24668,14 +24702,35 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading Screen featuring Takao, Atago, Akagi, and Kaga in a winter setting",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1b/Bg_takao_1.png"
+			},
+			{
+				"description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs",
+				"url": "https://azurlane.koumakan.jp/w/images/1/14/Bg_bath.png"
+			},
+			{
+				"description": "Loading Screen featuring Atago during valentines",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d8/Bg_valentines_3.png"
+			},
+			{
+				"description": "Takao and Atago after making chocolates",
+				"url": "https://azurlane.koumakan.jp/w/images/2/20/Bg_valentines_5.png"
+			},
+			{
+				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
+				"url": "https://azurlane.koumakan.jp/w/images/7/77/Bg_2019.12.19_2.png"
+			}
+		]
 	},
 	"202": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Maya",
 		"id": "202",
 		"names": {
 			"en": "Maya",
-			"code": "IJN Maya",
+			"code": "IJN Maya (cn:",
 			"cn": "犮",
 			"jp": "摩耶",
 			"kr": "마야"
@@ -24885,7 +24940,7 @@
 		"id": "203",
 		"names": {
 			"en": "Choukai",
-			"code": "IJN Choukai",
+			"code": "IJN Choukai (cn:",
 			"cn": "猋",
 			"jp": "鳥海",
 			"kr": "초카이"
@@ -25105,7 +25160,7 @@
 		"id": "204",
 		"names": {
 			"en": "Kongou",
-			"code": "IJN Kongou",
+			"code": "IJN Kongou (cn:",
 			"cn": "鲤",
 			"jp": "金剛",
 			"kr": "콘고"
@@ -25322,7 +25377,7 @@
 		"id": "205",
 		"names": {
 			"en": "Hiei",
-			"code": "IJN Hiei",
+			"code": "IJN Hiei (cn:",
 			"cn": "鲟",
 			"jp": "比叡",
 			"kr": "히에이"
@@ -25580,7 +25635,7 @@
 		"id": "206",
 		"names": {
 			"en": "Haruna",
-			"code": "IJN Haruna",
+			"code": "IJN Haruna (cn:",
 			"cn": "鲑",
 			"jp": "榛名",
 			"kr": "하루나"
@@ -25797,7 +25852,7 @@
 		"id": "207",
 		"names": {
 			"en": "Kirishima",
-			"code": "IJN Kirishima",
+			"code": "IJN Kirishima (cn:",
 			"cn": "鳗",
 			"jp": "霧島",
 			"kr": "키리시마"
@@ -26042,7 +26097,7 @@
 		"id": "208",
 		"names": {
 			"en": "Fusou",
-			"code": "IJN Fusou",
+			"code": "IJN Fusou (cn:",
 			"cn": "魟",
 			"jp": "扶桑",
 			"kr": "후소"
@@ -26525,7 +26580,7 @@
 		"id": "209",
 		"names": {
 			"en": "Yamashiro",
-			"code": "IJN Yamashiro",
+			"code": "IJN Yamashiro (cn:",
 			"cn": "鲼",
 			"jp": "山城",
 			"kr": "야마시로"
@@ -27081,7 +27136,7 @@
 		"id": "210",
 		"names": {
 			"en": "Ise",
-			"code": "IJN Ise",
+			"code": "IJN Ise (cn:",
 			"cn": "鳌",
 			"jp": "伊勢",
 			"kr": "이세"
@@ -27472,11 +27527,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available during \"Visitors Dyed in Red\".",
+			"obtainedFrom": "Available during \"Visitors Dyed in Red\". Added to Exchange for all servers on May 14th, 2020.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -27527,7 +27582,7 @@
 		"id": "211",
 		"names": {
 			"en": "Hyuuga",
-			"code": "IJN Hyuuga",
+			"code": "IJN Hyuuga (cn:",
 			"cn": "螯",
 			"jp": "日向",
 			"kr": "휴가"
@@ -27928,11 +27983,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available during \"Visitors Dyed in Red\".",
+			"obtainedFrom": "Available during \"Visitors Dyed in Red\".  Added to Exchange for all servers on May 14th, 2020.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -27983,7 +28038,7 @@
 		"id": "212",
 		"names": {
 			"en": "Nagato",
-			"code": "IJN Nagato",
+			"code": "IJN Nagato (cn:",
 			"cn": "鲨",
 			"jp": "長門",
 			"kr": "나가토"
@@ -28140,7 +28195,7 @@
 			"constructionTime": "04:20:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura",
 				"exchange": false
@@ -28245,7 +28300,7 @@
 		"id": "213",
 		"names": {
 			"en": "Mutsu",
-			"code": "IJN Mutsu",
+			"code": "IJN Mutsu (cn:",
 			"cn": "鲛",
 			"jp": "陸奧",
 			"kr": "무츠"
@@ -28421,7 +28476,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Mutsu.png/812px-Mutsu.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Mutsu.png/813px-Mutsu.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png",
 				"info": {
@@ -28451,7 +28506,7 @@
 		"id": "215",
 		"names": {
 			"en": "Tosa",
-			"code": "IJN Tosa",
+			"code": "IJN Tosa (cn:",
 			"cn": "䲠",
 			"jp": "土佐",
 			"kr": null
@@ -28679,7 +28734,7 @@
 		"id": "218",
 		"names": {
 			"en": "Hiyou",
-			"code": "IJN Hiyou",
+			"code": "IJN Hiyou (cn:",
 			"cn": "鸱",
 			"jp": "飛鷹",
 			"kr": "히요"
@@ -28871,7 +28926,7 @@
 		"id": "219",
 		"names": {
 			"en": "Junyou",
-			"code": "IJN Junyou",
+			"code": "IJN Junyou (cn:",
 			"cn": "鸢",
 			"jp": "隼鷹",
 			"kr": "준요"
@@ -29063,7 +29118,7 @@
 		"id": "220",
 		"names": {
 			"en": "Houshou",
-			"code": "IJN Houshou",
+			"code": "IJN Houshou (cn:",
 			"cn": "凤",
 			"jp": "鳳翔",
 			"kr": "호쇼"
@@ -29277,7 +29332,7 @@
 		"id": "222",
 		"names": {
 			"en": "Shouhou",
-			"code": "IJN Shouhou",
+			"code": "IJN Shouhou (cn:",
 			"cn": "鹞",
 			"jp": "祥鳳",
 			"kr": "쇼호"
@@ -29736,7 +29791,7 @@
 		"id": "223",
 		"names": {
 			"en": "Ryuujou",
-			"code": "IJN Ryuujou",
+			"code": "IJN Ryuujou (cn:",
 			"cn": "枭",
 			"jp": "龍驤",
 			"kr": "류조"
@@ -29969,7 +30024,7 @@
 		"id": "224",
 		"names": {
 			"en": "Akagi",
-			"code": "IJN Akagi",
+			"code": "IJN Akagi (cn:",
 			"cn": "凰",
 			"jp": "赤城",
 			"kr": "아카기"
@@ -30251,7 +30306,7 @@
 		"id": "225",
 		"names": {
 			"en": "Kaga",
-			"code": "IJN Kaga",
+			"code": "IJN Kaga (cn:",
 			"cn": "鸾",
 			"jp": "加賀",
 			"kr": "카가"
@@ -30500,7 +30555,7 @@
 		"id": "226",
 		"names": {
 			"en": "Souryuu",
-			"code": "IJN Souryuu",
+			"code": "IJN Souryuu (cn:",
 			"cn": "蛟",
 			"jp": "蒼龍",
 			"kr": "소류"
@@ -31010,7 +31065,7 @@
 		"id": "227",
 		"names": {
 			"en": "Hiryuu",
-			"code": "IJN Hiryuu",
+			"code": "IJN Hiryuu (cn:",
 			"cn": "龙",
 			"jp": "飛龍",
 			"kr": "히류"
@@ -31506,7 +31561,7 @@
 		"id": "228",
 		"names": {
 			"en": "Shoukaku",
-			"code": "IJN Shoukaku",
+			"code": "IJN Shoukaku (cn:",
 			"cn": "鹬",
 			"jp": "翔鶴",
 			"kr": "쇼카쿠"
@@ -31748,7 +31803,7 @@
 		"id": "229",
 		"names": {
 			"en": "Zuikaku",
-			"code": "IJN Zuikaku",
+			"code": "IJN Zuikaku (cn:",
 			"cn": "鹤",
 			"jp": "瑞鶴",
 			"kr": "즈이카쿠"
@@ -31991,7 +32046,7 @@
 		"id": "230",
 		"names": {
 			"en": "Taihou",
-			"code": "IJN Taihou",
+			"code": "IJN Taihou (cn:",
 			"cn": "鹩",
 			"jp": "大鳳",
 			"kr": "다이호"
@@ -32259,7 +32314,7 @@
 		"id": "232",
 		"names": {
 			"en": "Akashi",
-			"code": "IJN Akashi",
+			"code": "IJN Akashi (cn:",
 			"cn": "茗",
 			"jp": "明石",
 			"kr": "아카시"
@@ -32548,7 +32603,7 @@
 		"id": "233",
 		"names": {
 			"en": "Z1",
-			"code": "KMS Z1 Leberecht Maass",
+			"code": "KMS Z1 Leberecht Maass (cn:",
 			"cn": "Z1",
 			"jp": "Z1",
 			"kr": "Z1"
@@ -33042,7 +33097,7 @@
 		"id": "236",
 		"names": {
 			"en": "Z23",
-			"code": "KMS Z23",
+			"code": "KMS Z23 (cn:",
 			"cn": "Z23",
 			"jp": "Z23",
 			"kr": "Z23"
@@ -33835,7 +33890,7 @@
 		"id": "237",
 		"names": {
 			"en": "Z25",
-			"code": "KMS Z25",
+			"code": "KMS Z25 (cn:",
 			"cn": "Z25",
 			"jp": "Z25",
 			"kr": "Z25"
@@ -34058,7 +34113,7 @@
 		"id": "238",
 		"names": {
 			"en": "Königsberg",
-			"code": "KMS Königsberg",
+			"code": "KMS Königsberg (cn:",
 			"cn": "柯尼斯堡",
 			"jp": "ケーニヒスベルク",
 			"kr": "쾨니히스베르크"
@@ -34279,7 +34334,7 @@
 		"id": "239",
 		"names": {
 			"en": "Karlsruhe",
-			"code": "KMS Karlsruhe",
+			"code": "KMS Karlsruhe (cn:",
 			"cn": "卡尔斯鲁厄",
 			"jp": "カールスルーエ",
 			"kr": "카를스루에"
@@ -34747,7 +34802,7 @@
 		"id": "240",
 		"names": {
 			"en": "Köln",
-			"code": "KMS Köln",
+			"code": "KMS Köln (cn:",
 			"cn": "科隆",
 			"jp": "ケルン",
 			"kr": "쾰른"
@@ -35215,7 +35270,7 @@
 		"id": "241",
 		"names": {
 			"en": "Leipzig",
-			"code": "KMS Leipzig",
+			"code": "KMS Leipzig (cn:",
 			"cn": "莱比锡",
 			"jp": "ライプツィヒ",
 			"kr": "라이프치히"
@@ -35673,7 +35728,7 @@
 		"id": "242",
 		"names": {
 			"en": "Admiral Hipper",
-			"code": "KMS Admiral Hipper",
+			"code": "KMS Admiral Hipper (cn:",
 			"cn": "希佩尔海军上将",
 			"jp": "アドミラル・ヒッパー",
 			"kr": "아드미랄 히퍼"
@@ -35918,7 +35973,7 @@
 		"id": "244",
 		"names": {
 			"en": "Prinz Eugen",
-			"code": "KMS Prinz Eugen",
+			"code": "KMS Prinz Eugen (cn:",
 			"cn": "欧根亲王",
 			"jp": "プリンツ・オイゲン",
 			"kr": "프린츠 오이겐"
@@ -36189,7 +36244,7 @@
 		"id": "245",
 		"names": {
 			"en": "Deutschland",
-			"code": "KMS Deutschland",
+			"code": "KMS Deutschland (cn:",
 			"cn": "德意志",
 			"jp": "ドイッチュラント",
 			"kr": "도이칠란트"
@@ -36464,7 +36519,7 @@
 		"id": "246",
 		"names": {
 			"en": "Admiral Graf Spee",
-			"code": "KMS Admiral Graf Spee",
+			"code": "KMS Admiral Graf Spee (cn:",
 			"cn": "斯佩伯爵海军上将",
 			"jp": "アドミラル・グラーフ・シュペー",
 			"kr": "아드미랄 그라프 슈피"
@@ -36755,7 +36810,7 @@
 		"id": "248",
 		"names": {
 			"en": "Scharnhorst",
-			"code": "KMS Scharnhorst",
+			"code": "KMS Scharnhorst (cn:",
 			"cn": "沙恩霍斯特",
 			"jp": "シャルンホルスト",
 			"kr": "샤른호르스트"
@@ -36978,7 +37033,7 @@
 		"id": "249",
 		"names": {
 			"en": "Gneisenau",
-			"code": "KMS Gneisenau",
+			"code": "KMS Gneisenau (cn:",
 			"cn": "格奈森瑙",
 			"jp": "グナイゼナウ",
 			"kr": "그나이제나우"
@@ -37201,7 +37256,7 @@
 		"id": "250",
 		"names": {
 			"en": "Bismarck",
-			"code": "KMS Bismarck",
+			"code": "KMS Bismarck (cn:",
 			"cn": "俾斯麦",
 			"jp": "ビスマルク",
 			"kr": "비스마르크"
@@ -37439,7 +37494,7 @@
 		"id": "251",
 		"names": {
 			"en": "Tirpitz",
-			"code": "KMS Tirpitz",
+			"code": "KMS Tirpitz (cn:",
 			"cn": "提尔比茨",
 			"jp": "ティルピッツ",
 			"kr": "티르피츠"
@@ -37690,7 +37745,7 @@
 		"id": "252",
 		"names": {
 			"en": "Graf Zeppelin",
-			"code": "KMS Graf Zeppelin",
+			"code": "KMS Graf Zeppelin (cn:",
 			"cn": "齐柏林伯爵",
 			"jp": "グラーフ・ツェッペリン",
 			"kr": "그라프 체펠린"
@@ -37925,7 +37980,7 @@
 		"id": "253",
 		"names": {
 			"en": "An Shan",
-			"code": "PRAN An Shan",
+			"code": "PRAN An Shan (cn:",
 			"cn": "鞍山",
 			"jp": "鞍山",
 			"kr": "안샨"
@@ -38141,7 +38196,7 @@
 		"id": "254",
 		"names": {
 			"en": "Fu Shun",
-			"code": "PRAN Fu Shun",
+			"code": "PRAN Fu Shun (cn:",
 			"cn": "抚顺",
 			"jp": "撫順",
 			"kr": "푸슌"
@@ -38343,7 +38398,7 @@
 		"id": "255",
 		"names": {
 			"en": "Chang Chun",
-			"code": "PRAN Chang Chun",
+			"code": "PRAN Chang Chun (cn:",
 			"cn": "长春",
 			"jp": "長春",
 			"kr": "창춘"
@@ -38564,7 +38619,7 @@
 		"id": "256",
 		"names": {
 			"en": "Tai Yuan",
-			"code": "PRAN Tai Yuan",
+			"code": "PRAN Tai Yuan (cn:",
 			"cn": "太原",
 			"jp": "太原",
 			"kr": "타이위안"
@@ -38780,7 +38835,7 @@
 		"id": "257",
 		"names": {
 			"en": "Yat Sen",
-			"code": "ROC Yat Sen",
+			"code": "ROC Yat Sen (cn:",
 			"cn": "逸仙",
 			"jp": "逸仙",
 			"kr": "얏센"
@@ -39004,7 +39059,7 @@
 		"id": "258",
 		"names": {
 			"en": "Ning Hai",
-			"code": "ROC Ning Hai",
+			"code": "ROC Ning Hai (cn:",
 			"cn": "宁海",
 			"jp": "寧海",
 			"kr": "닝하이"
@@ -39550,7 +39605,7 @@
 		"id": "259",
 		"names": {
 			"en": "Ping Hai",
-			"code": "ROC Ping Hai",
+			"code": "ROC Ping Hai (cn:",
 			"cn": "平海",
 			"jp": "平海",
 			"kr": "핑하이"
@@ -40121,7 +40176,7 @@
 		"id": "262",
 		"names": {
 			"en": "Avrora",
-			"code": "SN Avrora",
+			"code": "SN Avrora (cn:",
 			"cn": "阿芙乐尔",
 			"jp": "アヴローラ",
 			"kr": "아브로라"
@@ -40337,7 +40392,7 @@
 		"id": "263",
 		"names": {
 			"en": "Bailey",
-			"code": "USS Bailey",
+			"code": "USS Bailey (cn:",
 			"cn": "贝利",
 			"jp": "ベイリー",
 			"kr": "베일리"
@@ -40800,7 +40855,7 @@
 		"id": "264",
 		"names": {
 			"en": "Z19",
-			"code": "KMS Z19 Hermann Künne",
+			"code": "KMS Z19 Hermann Künne (cn:",
 			"cn": "Z19",
 			"jp": "Z19",
 			"kr": "Z19"
@@ -41002,7 +41057,7 @@
 		"id": "265",
 		"names": {
 			"en": "Z20",
-			"code": "KMS Z20 Karl Galster",
+			"code": "KMS Z20 Karl Galster (cn:",
 			"cn": "Z20",
 			"jp": "Z20",
 			"kr": "Z20"
@@ -41201,7 +41256,7 @@
 		"id": "266",
 		"names": {
 			"en": "Z21",
-			"code": "KMS Z21 Wilhelm Heidkamp",
+			"code": "KMS Z21 Wilhelm Heidkamp (cn:",
 			"cn": "Z21",
 			"jp": "Z21",
 			"kr": "Z21"
@@ -41400,7 +41455,7 @@
 		"id": "267",
 		"names": {
 			"en": "Z46",
-			"code": "KMS Z46",
+			"code": "KMS Z46 (cn:",
 			"cn": "Z46",
 			"jp": "Z46",
 			"kr": "Z46"
@@ -41666,7 +41721,7 @@
 		"id": "269",
 		"names": {
 			"en": "Kamikaze",
-			"code": "IJN Kamikaze",
+			"code": "IJN Kamikaze (cn:",
 			"cn": "榊",
 			"jp": "神風",
 			"kr": "카미카제"
@@ -42111,7 +42166,7 @@
 		"id": "270",
 		"names": {
 			"en": "Matsukaze",
-			"code": "IJN Matsukaze",
+			"code": "IJN Matsukaze (cn:",
 			"cn": "棡",
 			"jp": "松風",
 			"kr": "마츠카제"
@@ -42557,7 +42612,7 @@
 		"id": "271",
 		"names": {
 			"en": "Mutsuki",
-			"code": "IJN Mutsuki",
+			"code": "IJN Mutsuki (cn:",
 			"cn": "松",
 			"jp": "睦月",
 			"kr": "무츠키"
@@ -43047,7 +43102,7 @@
 		"id": "272",
 		"names": {
 			"en": "Kisaragi",
-			"code": "IJN Kisaragi",
+			"code": "IJN Kisaragi (cn:",
 			"cn": "樟",
 			"jp": "如月",
 			"kr": "키사라기"
@@ -43516,7 +43571,7 @@
 		"id": "274",
 		"names": {
 			"en": "Uzuki",
-			"code": "IJN Uzuki",
+			"code": "IJN Uzuki (cn:",
 			"cn": "楙",
 			"jp": "卯月",
 			"kr": "우즈키"
@@ -43731,7 +43786,7 @@
 		"id": "276",
 		"names": {
 			"en": "Minazuki",
-			"code": "IJN Minazuki",
+			"code": "IJN Minazuki (cn:",
 			"cn": "杌",
 			"jp": "水無月",
 			"kr": "미나즈키"
@@ -43937,7 +43992,7 @@
 		"id": "277",
 		"names": {
 			"en": "Fumizuki",
-			"code": "IJN Fumizuki",
+			"code": "IJN Fumizuki (cn:",
 			"cn": "橗",
 			"jp": "文月",
 			"kr": "후미즈키"
@@ -44090,7 +44145,7 @@
 		"construction": {
 			"constructionTime": "00:21:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura",
@@ -44153,7 +44208,7 @@
 		"id": "278",
 		"names": {
 			"en": "Nagatsuki",
-			"code": "IJN Nagatsuki",
+			"code": "IJN Nagatsuki (cn:",
 			"cn": "枨",
 			"jp": "長月",
 			"kr": "나가츠키"
@@ -44369,7 +44424,7 @@
 		"id": "280",
 		"names": {
 			"en": "Mikazuki",
-			"code": "IJN Mikazuki",
+			"code": "IJN Mikazuki (cn:",
 			"cn": "檧",
 			"jp": "三日月",
 			"kr": "미카즈키"
@@ -44589,7 +44644,7 @@
 		"id": "288",
 		"names": {
 			"en": "Kawakaze",
-			"code": "IJN Kawakaze",
+			"code": "IJN Kawakaze (cn:",
 			"cn": "茳",
 			"jp": "江風",
 			"kr": "카와카제"
@@ -44752,7 +44807,7 @@
 		"construction": {
 			"constructionTime": "00:25:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura",
@@ -44828,7 +44883,7 @@
 		"id": "293",
 		"names": {
 			"en": "Kiyonami",
-			"code": "IJN Kiyonami",
+			"code": "IJN Kiyonami (cn:",
 			"cn": "棈",
 			"jp": "清波",
 			"kr": "키요나미"
@@ -45054,7 +45109,7 @@
 		"id": "295",
 		"names": {
 			"en": "Niizuki",
-			"code": "IJN Niizuki",
+			"code": "IJN Niizuki (cn:",
 			"cn": "枥",
 			"jp": "新月",
 			"kr": "니이즈키"
@@ -45267,7 +45322,7 @@
 		"id": "296",
 		"names": {
 			"en": "Harutsuki",
-			"code": "IJN Harutsuki",
+			"code": "IJN Harutsuki (cn:",
 			"cn": "桸",
 			"jp": "春月",
 			"kr": "하루츠키"
@@ -45420,7 +45475,7 @@
 		"construction": {
 			"constructionTime": "00:29:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura",
@@ -45469,7 +45524,7 @@
 		"id": "297",
 		"names": {
 			"en": "Yoizuki",
-			"code": "IJN Yoizuki",
+			"code": "IJN Yoizuki (cn:",
 			"cn": "楛",
 			"jp": "宵月",
 			"kr": "요이즈키"
@@ -45622,7 +45677,7 @@
 		"construction": {
 			"constructionTime": "00:29:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura",
@@ -45685,7 +45740,7 @@
 		"id": "299",
 		"names": {
 			"en": "Radford",
-			"code": "USS Radford",
+			"code": "USS Radford (cn:",
 			"cn": "拉德福特",
 			"jp": "ラドフォード",
 			"kr": "래드포드"
@@ -45888,7 +45943,7 @@
 		"id": "300",
 		"names": {
 			"en": "Jenkins",
-			"code": "USS Jenkins",
+			"code": "USS Jenkins (cn:",
 			"cn": "杰金斯",
 			"jp": "ジェンキンス",
 			"kr": "젠킨스"
@@ -46091,7 +46146,7 @@
 		"id": "301",
 		"names": {
 			"en": "Nicholas",
-			"code": "USS Nicholas",
+			"code": "USS Nicholas (cn:",
 			"cn": "尼古拉斯",
 			"jp": "ニコラス",
 			"kr": "니콜라스"
@@ -46600,7 +46655,7 @@
 		"id": "303",
 		"names": {
 			"en": "Richmond",
-			"code": "USS Richmond",
+			"code": "USS Richmond (cn:",
 			"cn": "里士满",
 			"jp": "リッチモンド",
 			"kr": "리치몬드"
@@ -46815,7 +46870,7 @@
 		"id": "304",
 		"names": {
 			"en": "Honolulu",
-			"code": "USS Honolulu",
+			"code": "USS Honolulu (cn:",
 			"cn": "火奴鲁鲁",
 			"jp": "ホノルル",
 			"kr": "호놀룰루"
@@ -47074,7 +47129,7 @@
 		"id": "305",
 		"names": {
 			"en": "St. Louis",
-			"code": "USS St. Louis",
+			"code": "USS St. Louis (cn:",
 			"cn": "圣路易斯",
 			"jp": "セントルイス",
 			"kr": "세인트루이스"
@@ -47346,7 +47401,7 @@
 		"id": "306",
 		"names": {
 			"en": "Jupiter",
-			"code": "HMS Jupiter",
+			"code": "HMS Jupiter (cn:",
 			"cn": "丘比特",
 			"jp": "ジュピター",
 			"kr": "주피터"
@@ -47558,7 +47613,7 @@
 		"id": "307",
 		"names": {
 			"en": "Jersey",
-			"code": "HMS Jersey",
+			"code": "HMS Jersey (cn:",
 			"cn": "泽西",
 			"jp": "ジャージー",
 			"kr": null
@@ -47767,7 +47822,7 @@
 		"id": "308",
 		"names": {
 			"en": "Sendai",
-			"code": "IJN Sendai",
+			"code": "IJN Sendai (cn:",
 			"cn": "貆",
 			"jp": "川内",
 			"kr": "센다이"
@@ -48215,7 +48270,7 @@
 		"id": "309",
 		"names": {
 			"en": "Jintsuu",
-			"code": "IJN Jintsuu",
+			"code": "IJN Jintsuu (cn:",
 			"cn": "貎",
 			"jp": "神通",
 			"kr": "진츠"
@@ -48698,7 +48753,7 @@
 		"id": "310",
 		"names": {
 			"en": "Naka",
-			"code": "IJN Naka",
+			"code": "IJN Naka (cn:",
 			"cn": "豻",
 			"jp": "那珂",
 			"kr": "나카"
@@ -48911,7 +48966,7 @@
 		"id": "316",
 		"names": {
 			"en": "Urakaze",
-			"code": "IJN Urakaze",
+			"code": "IJN Urakaze (cn:",
 			"cn": "槆",
 			"jp": "浦風",
 			"kr": "우라카제"
@@ -49125,7 +49180,7 @@
 		"id": "317",
 		"names": {
 			"en": "Isokaze",
-			"code": "IJN Isokaze",
+			"code": "IJN Isokaze (cn:",
 			"cn": "柉",
 			"jp": "磯風",
 			"kr": "이소카제"
@@ -49338,7 +49393,7 @@
 		"id": "318",
 		"names": {
 			"en": "Hamakaze",
-			"code": "IJN Hamakaze",
+			"code": "IJN Hamakaze (cn:",
 			"cn": "樇",
 			"jp": "浜風",
 			"kr": "하마카제"
@@ -49806,7 +49861,7 @@
 		"id": "319",
 		"names": {
 			"en": "Tanikaze",
-			"code": "IJN Tanikaze",
+			"code": "IJN Tanikaze (cn:",
 			"cn": "栭",
 			"jp": "谷風",
 			"kr": "타니카제"
@@ -50265,7 +50320,7 @@
 		"id": "320",
 		"names": {
 			"en": "Mikasa",
-			"code": "IJN Mikasa",
+			"code": "IJN Mikasa (cn:",
 			"cn": "鲐",
 			"jp": "三笠",
 			"kr": "미카사"
@@ -50498,7 +50553,7 @@
 		"id": "321",
 		"names": {
 			"en": "Agano",
-			"code": "IJN Agano",
+			"code": "IJN Agano (cn:",
 			"cn": "豼",
 			"jp": "阿賀野",
 			"kr": "아가노"
@@ -50753,7 +50808,7 @@
 		"id": "322",
 		"names": {
 			"en": "Noshiro",
-			"code": "IJN Noshiro",
+			"code": "IJN Noshiro (cn:",
 			"cn": "貅",
 			"jp": "能代",
 			"kr": null
@@ -50988,7 +51043,7 @@
 		"id": "325",
 		"names": {
 			"en": "Matchless",
-			"code": "HMS Matchless",
+			"code": "HMS Matchless (cn:",
 			"cn": "无敌",
 			"jp": "マッチレス",
 			"kr": "매치리스"
@@ -51211,7 +51266,7 @@
 		"id": "326",
 		"names": {
 			"en": "Musketeer",
-			"code": "HMS Musketeer",
+			"code": "HMS Musketeer (cn:",
 			"cn": "火枪手",
 			"jp": "マスケティーア",
 			"kr": "머스킷티어"
@@ -51410,7 +51465,7 @@
 		"id": "327",
 		"names": {
 			"en": "Fiji",
-			"code": "HMS Fiji",
+			"code": "HMS Fiji (cn:",
 			"cn": "斐济",
 			"jp": "フィジー",
 			"kr": "피지"
@@ -51628,7 +51683,7 @@
 		"id": "328",
 		"names": {
 			"en": "Jamaica",
-			"code": "HMS Jamaica",
+			"code": "HMS Jamaica (cn:",
 			"cn": "牙买加",
 			"jp": "ジャマイカ",
 			"kr": "자메이카"
@@ -51857,7 +51912,7 @@
 		"id": "329",
 		"names": {
 			"en": "Montpelier",
-			"code": "USS Montpelier",
+			"code": "USS Montpelier (cn:",
 			"cn": "蒙彼利埃",
 			"jp": "モントピリア",
 			"kr": "몬트필리어"
@@ -52081,7 +52136,7 @@
 		"id": "330",
 		"names": {
 			"en": "Denver",
-			"code": "USS Denver",
+			"code": "USS Denver (cn:",
 			"cn": "丹佛",
 			"jp": "デンバー",
 			"kr": "덴버"
@@ -52291,7 +52346,7 @@
 		"id": "331",
 		"names": {
 			"en": "Asashio",
-			"code": "IJN Asashio",
+			"code": "IJN Asashio (cn:",
 			"cn": "棹",
 			"jp": "朝潮",
 			"kr": "아사시오"
@@ -52454,7 +52509,7 @@
 		"construction": {
 			"constructionTime": "00:28:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura",
@@ -52514,7 +52569,7 @@
 		"id": "332",
 		"names": {
 			"en": "Ooshio",
-			"code": "IJN Ooshio",
+			"code": "IJN Ooshio (cn:",
 			"cn": "荙",
 			"jp": "大潮",
 			"kr": "오오시오"
@@ -52740,7 +52795,7 @@
 		"id": "333",
 		"names": {
 			"en": "Michishio",
-			"code": "IJN Michishio",
+			"code": "IJN Michishio (cn:",
 			"cn": "樠",
 			"jp": "満潮",
 			"kr": "미치시오"
@@ -52939,7 +52994,7 @@
 		"id": "334",
 		"names": {
 			"en": "Arashio",
-			"code": "IJN Arashio",
+			"code": "IJN Arashio (cn:",
 			"cn": "栘",
 			"jp": "荒潮",
 			"kr": "아라시오"
@@ -53138,7 +53193,7 @@
 		"id": "335",
 		"names": {
 			"en": "Little Bel",
-			"code": "",
+			"code": "HMS",
 			"cn": "小贝法",
 			"jp": "ベルちゃん",
 			"kr": "꼬마 벨파스트"
@@ -53346,7 +53401,7 @@
 		"id": "336",
 		"names": {
 			"en": "Abercrombie",
-			"code": "HMS Abercrombie",
+			"code": "HMS Abercrombie (cn:",
 			"cn": "阿贝克隆比",
 			"jp": "アバークロンビー",
 			"kr": "애버크롬비"
@@ -53551,7 +53606,7 @@
 		"id": "337",
 		"names": {
 			"en": "Sussex",
-			"code": "HMS Sussex",
+			"code": "HMS Sussex (cn:",
 			"cn": "苏塞克斯",
 			"jp": "サセックス",
 			"kr": "서식스"
@@ -53784,7 +53839,7 @@
 		"id": "338",
 		"names": {
 			"en": "I-19",
-			"code": "IJN I-19",
+			"code": "IJN I-19 (cn:",
 			"cn": "伊19",
 			"jp": "伊19",
 			"kr": "이19"
@@ -54222,7 +54277,7 @@
 		"id": "339",
 		"names": {
 			"en": "I-26",
-			"code": "IJN I-26",
+			"code": "IJN I-26 (cn:",
 			"cn": "伊26",
 			"jp": "伊26",
 			"kr": "이26"
@@ -54664,7 +54719,7 @@
 		"id": "340",
 		"names": {
 			"en": "I-58",
-			"code": "IJN I-58",
+			"code": "IJN I-58 (cn:",
 			"cn": "伊58",
 			"jp": "伊58",
 			"kr": "이58"
@@ -55065,7 +55120,7 @@
 		"id": "341",
 		"names": {
 			"en": "U-81",
-			"code": "KMS U-81",
+			"code": "KMS U-81 (cn:",
 			"cn": "U-81",
 			"jp": "U-81",
 			"kr": "U-81"
@@ -55506,7 +55561,7 @@
 		"id": "342",
 		"names": {
 			"en": "Dace",
-			"code": "USS Dace",
+			"code": "USS Dace (cn:",
 			"cn": "鲦鱼",
 			"jp": "デイス",
 			"kr": "데이스"
@@ -55919,7 +55974,7 @@
 		"id": "343",
 		"names": {
 			"en": "U-47",
-			"code": "KMS U-47",
+			"code": "KMS U-47 (cn:",
 			"cn": "U-47",
 			"jp": "U-47",
 			"kr": "U-47"
@@ -56362,7 +56417,7 @@
 		"id": "344",
 		"names": {
 			"en": "U-557",
-			"code": "KMS U-557",
+			"code": "KMS U-557 (cn:",
 			"cn": "U-557",
 			"jp": "U-557",
 			"kr": "U-557"
@@ -56776,7 +56831,7 @@
 		"id": "345",
 		"names": {
 			"en": "Z35",
-			"code": "KMS Z35",
+			"code": "KMS Z35 (cn:",
 			"cn": "Z35",
 			"jp": "Z35",
 			"kr": "Z35"
@@ -56992,7 +57047,7 @@
 		"id": "346",
 		"names": {
 			"en": "Z18",
-			"code": "KMS Z18 Hans Lüdemann",
+			"code": "KMS Z18 Hans Lüdemann (cn:",
 			"cn": "Z18",
 			"jp": "Z18",
 			"kr": "Z18"
@@ -57194,7 +57249,7 @@
 		"id": "347",
 		"names": {
 			"en": "Le Triomphant",
-			"code": "FFNF Le Triomphant",
+			"code": "FFNF Le Triomphant (cn:",
 			"cn": "凯旋",
 			"jp": "ル・トリオンファン",
 			"kr": "르 트리옹팡"
@@ -57415,7 +57470,7 @@
 		"id": "348",
 		"names": {
 			"en": "Forbin",
-			"code": "FFNF Forbin",
+			"code": "FFNF Forbin (cn:",
 			"cn": "福尔班",
 			"jp": "フォルバン",
 			"kr": "포르뱅"
@@ -57903,7 +57958,7 @@
 		"id": "349",
 		"names": {
 			"en": "Émile Bertin",
-			"code": "FFNF Émile Bertin",
+			"code": "FFNF Émile Bertin (cn:",
 			"cn": "埃米尔·贝尔汀",
 			"jp": "エミール・ベルタン",
 			"kr": "에밀 베르탱"
@@ -58415,7 +58470,7 @@
 		"id": "350",
 		"names": {
 			"en": "Surcouf",
-			"code": "FFNF Surcouf",
+			"code": "FFNF Surcouf (cn:",
 			"cn": "絮库夫",
 			"jp": "シュルクーフ",
 			"kr": "쉬르쿠프"
@@ -58844,7 +58899,7 @@
 		"id": "351",
 		"names": {
 			"en": "Le Mars",
-			"code": "MNF Le Mars",
+			"code": "MNF Le Mars (cn:",
 			"cn": "勒马尔",
 			"jp": "ル・マルス",
 			"kr": "르 마르스"
@@ -59316,7 +59371,7 @@
 		"id": "352",
 		"names": {
 			"en": "Dunkerque",
-			"code": "MNF Dunkerque",
+			"code": "MNF Dunkerque (cn:",
 			"cn": "敦刻尔克",
 			"jp": "ダンケルク",
 			"kr": "됭케르크"
@@ -59554,7 +59609,7 @@
 		"id": "353",
 		"names": {
 			"en": "Jean Bart",
-			"code": "MNF Jean Bart",
+			"code": "MNF Jean Bart (cn:",
 			"cn": "让·巴尔",
 			"jp": "ジャン・バール",
 			"kr": "장 바르"
@@ -59796,7 +59851,7 @@
 		"id": "354",
 		"names": {
 			"en": "Massachusetts",
-			"code": "USS Massachusetts",
+			"code": "USS Massachusetts (cn:",
 			"cn": "马萨诸塞",
 			"jp": "マサチューセッツ",
 			"kr": "매사추세츠"
@@ -60015,7 +60070,7 @@
 		"id": "355",
 		"names": {
 			"en": "Bush",
-			"code": "USS Bush",
+			"code": "USS Bush (cn:",
 			"cn": "布什",
 			"jp": "ブッシュ",
 			"kr": "부시"
@@ -60231,7 +60286,7 @@
 		"id": "356",
 		"names": {
 			"en": "Centaur",
-			"code": "HMS Centaur",
+			"code": "HMS Centaur (cn:",
 			"cn": "半人马",
 			"jp": "セントー",
 			"kr": "센토"
@@ -60456,7 +60511,7 @@
 		"id": "357",
 		"names": {
 			"en": "Essex",
-			"code": "USS Essex",
+			"code": "USS Essex (cn:",
 			"cn": "埃塞克斯",
 			"jp": "エセックス",
 			"kr": "에식스"
@@ -60689,7 +60744,7 @@
 		"id": "358",
 		"names": {
 			"en": "Albacore",
-			"code": "USS Albacore",
+			"code": "USS Albacore (cn:",
 			"cn": "大青花鱼",
 			"jp": "アルバコア",
 			"kr": "알바코어"
@@ -61118,7 +61173,7 @@
 		"id": "359",
 		"names": {
 			"en": "Le Téméraire",
-			"code": "FFNF Le Téméraire",
+			"code": "FFNF Le Téméraire (cn:",
 			"cn": "鲁莽",
 			"jp": "ル・テメレール",
 			"kr": "르 테메레르"
@@ -61346,7 +61401,7 @@
 		"id": "360",
 		"names": {
 			"en": "Memphis",
-			"code": "USS Memphis",
+			"code": "USS Memphis (cn:",
 			"cn": "孟菲斯",
 			"jp": "メンフィス",
 			"kr": "멤피스"
@@ -61575,7 +61630,7 @@
 		"id": "361",
 		"names": {
 			"en": "Newcastle",
-			"code": "HMS Newcastle",
+			"code": "HMS Newcastle (cn:",
 			"cn": "纽卡斯尔",
 			"jp": "ニューカッスル",
 			"kr": "뉴캐슬"
@@ -62059,7 +62114,7 @@
 		"id": "362",
 		"names": {
 			"en": "Hobby",
-			"code": "USS Hobby",
+			"code": "USS Hobby (cn:",
 			"cn": "霍比",
 			"jp": "ホビー",
 			"kr": "하비"
@@ -62272,7 +62327,7 @@
 		"id": "363",
 		"names": {
 			"en": "Kalk",
-			"code": "USS Kalk",
+			"code": "USS Kalk (cn:",
 			"cn": "科尔克",
 			"jp": "カーク",
 			"kr": "커크"
@@ -62485,7 +62540,7 @@
 		"id": "364",
 		"names": {
 			"en": "Minneapolis",
-			"code": "USS Minneapolis",
+			"code": "USS Minneapolis (cn:",
 			"cn": "明尼阿波利斯",
 			"jp": "ミネアポリス",
 			"kr": "미니애폴리스"
@@ -62747,7 +62802,7 @@
 		"id": "365",
 		"names": {
 			"en": "Hazelwood",
-			"code": "USS Hazelwood",
+			"code": "USS Hazelwood (cn:",
 			"cn": "黑泽伍德",
 			"jp": "ヘイゼルウッド",
 			"kr": "헤이즐우드"
@@ -62949,7 +63004,7 @@
 		"id": "366",
 		"names": {
 			"en": "Concord",
-			"code": "USS Concord",
+			"code": "USS Concord (cn:",
 			"cn": "康克德",
 			"jp": "コンコード",
 			"kr": "콩코드"
@@ -63175,7 +63230,7 @@
 		"id": "367",
 		"names": {
 			"en": "Amagi",
-			"code": "IJN Amagi",
+			"code": "IJN Amagi (cn:",
 			"cn": "鳐",
 			"jp": "天城",
 			"kr": "아마기"
@@ -63423,7 +63478,7 @@
 		"id": "368",
 		"names": {
 			"en": "Kaga (Battleship)",
-			"code": "IJN Kaga (Battleship)",
+			"code": "IJN Kaga (Battleship) (cn:",
 			"cn": "鸾",
 			"jp": "加賀",
 			"kr": "카가"
@@ -63637,7 +63692,7 @@
 		"id": "369",
 		"names": {
 			"en": "Hatakaze",
-			"code": "IJN Hatakaze",
+			"code": "IJN Hatakaze (cn:",
 			"cn": "樋",
 			"jp": "旗風",
 			"kr": "하타카제"
@@ -63839,7 +63894,7 @@
 		"id": "370",
 		"names": {
 			"en": "Makinami",
-			"code": "IJN Makinami",
+			"code": "IJN Makinami (cn:",
 			"cn": "棬",
 			"jp": "巻波",
 			"kr": "마키나미"
@@ -64065,7 +64120,7 @@
 		"id": "371",
 		"names": {
 			"en": "Sirius",
-			"code": "HMS Sirius",
+			"code": "HMS Sirius (cn:",
 			"cn": "天狼星",
 			"jp": "シリアス",
 			"kr": null
@@ -64324,7 +64379,7 @@
 		"id": "372",
 		"names": {
 			"en": "Curacoa",
-			"code": "HMS Curacoa",
+			"code": "HMS Curacoa (cn:",
 			"cn": "库拉索",
 			"jp": "キュラソー",
 			"kr": "퀴라소"
@@ -64789,14 +64844,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Curacoa in her Eastern Luster skin with Curlew",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ee/Bg_ceres_class_1.png"
+			}
+		]
 	},
 	"373": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Curlew",
 		"id": "373",
 		"names": {
 			"en": "Curlew",
-			"code": "HMS Curlew",
+			"code": "HMS Curlew (cn:",
 			"cn": "杓鹬",
 			"jp": "カーリュー",
 			"kr": "컬루"
@@ -65260,14 +65320,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Curlew in her Eastern Beauty skin with Curacoa",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ee/Bg_ceres_class_1.png"
+			}
+		]
 	},
 	"374": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kimberly",
 		"id": "374",
 		"names": {
 			"en": "Kimberly",
-			"code": "USS Kimberly",
+			"code": "USS Kimberly (cn:",
 			"cn": "金伯利",
 			"jp": "キンバリー",
 			"kr": "킴벌리"
@@ -65482,7 +65547,7 @@
 		"id": "375",
 		"names": {
 			"en": "Mullany",
-			"code": "USS Mullany",
+			"code": "USS Mullany (cn:",
 			"cn": "马拉尼",
 			"jp": "マラニー",
 			"kr": "멀라니"
@@ -65699,7 +65764,7 @@
 		"id": "376",
 		"names": {
 			"en": "Chaser",
-			"code": "HMS Chaser",
+			"code": "HMS Chaser (cn:",
 			"cn": "追赶者",
 			"jp": "チェイサー",
 			"kr": "체이서"
@@ -65929,7 +65994,7 @@
 		"id": "377",
 		"names": {
 			"en": "Independence",
-			"code": "USS Independence",
+			"code": "USS Independence (cn:",
 			"cn": "独立",
 			"jp": "インディペンデンス",
 			"kr": "인디펜던스"
@@ -66155,7 +66220,7 @@
 		"id": "378",
 		"names": {
 			"en": "Shangri-La",
-			"code": "USS Shangri-La",
+			"code": "USS Shangri-La (cn:",
 			"cn": "香格里拉",
 			"jp": "シャングリラ",
 			"kr": "샹그릴라"
@@ -66393,7 +66458,7 @@
 		"id": "379",
 		"names": {
 			"en": "Z2",
-			"code": "KMS Z2 Georg Thiele",
+			"code": "KMS Z2 Georg Thiele (cn:",
 			"cn": "Z2",
 			"jp": "Z2",
 			"kr": "Z2"
@@ -66605,7 +66670,7 @@
 		"id": "380",
 		"names": {
 			"en": "Bunker Hill",
-			"code": "USS Bunker Hill",
+			"code": "USS Bunker Hill (cn:",
 			"cn": "邦克山",
 			"jp": "バンカー・ヒル",
 			"kr": "벙커힐"
@@ -66813,7 +66878,7 @@
 		"id": "381",
 		"names": {
 			"en": "I-13",
-			"code": "IJN I-13",
+			"code": "IJN I-13 (cn:",
 			"cn": "伊13",
 			"jp": "伊13",
 			"kr": null
@@ -67181,7 +67246,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": "CN/JP only",
 				"limited": "Only during event: Ink-stained Steel Sakura Rerun",
 				"exchange": false
 			}
@@ -67225,7 +67290,7 @@
 		"id": "382",
 		"names": {
 			"en": "Suzuya",
-			"code": "IJN Suzuya",
+			"code": "IJN Suzuya (cn:",
 			"cn": "狺",
 			"jp": "鈴谷",
 			"kr": null
@@ -67393,7 +67458,7 @@
 			"constructionTime": "01:48:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": "Only during event: Ink-stained Steel Sakura Rerun",
 				"exchange": false
@@ -67441,7 +67506,7 @@
 		"id": "383",
 		"names": {
 			"en": "Hiei-chan",
-			"code": "",
+			"code": "IJN",
 			"cn": "小鲟",
 			"jp": "小比叡",
 			"kr": "꼬마 히에이"
@@ -67638,7 +67703,7 @@
 		"id": "384",
 		"names": {
 			"en": "Akagi-chan",
-			"code": "",
+			"code": "IJN",
 			"cn": "小凰",
 			"jp": "小赤城",
 			"kr": "꼬마 아카기"
@@ -67841,7 +67906,7 @@
 		"id": "385",
 		"names": {
 			"en": "Zeppy",
-			"code": "",
+			"code": "KMS",
 			"cn": "小齐柏林",
 			"jp": "ツェッペリンちゃん",
 			"kr": "꼬마 그라프 체펠린"
@@ -68044,7 +68109,7 @@
 		"id": "386",
 		"names": {
 			"en": "U-556",
-			"code": "KMS U-556",
+			"code": "KMS U-556 (cn:",
 			"cn": "U-556",
 			"jp": "U-556",
 			"kr": "U-556"
@@ -68485,7 +68550,7 @@
 		"id": "387",
 		"names": {
 			"en": "U-73",
-			"code": "KMS U-73",
+			"code": "KMS U-73 (cn:",
 			"cn": "U-73",
 			"jp": "U-73",
 			"kr": "U-73"
@@ -68909,7 +68974,7 @@
 		"id": "388",
 		"names": {
 			"en": "Z36",
-			"code": "KMS Z36",
+			"code": "KMS Z36 (cn:",
 			"cn": "Z36",
 			"jp": "Z36",
 			"kr": "Z36"
@@ -69108,7 +69173,7 @@
 		"id": "389",
 		"names": {
 			"en": "Echo",
-			"code": "HMS Echo",
+			"code": "HMS Echo (cn:",
 			"cn": "回声",
 			"jp": "エコー",
 			"kr": "에코"
@@ -69307,7 +69372,7 @@
 		"id": "390",
 		"names": {
 			"en": "Lena",
-			"code": "",
+			"code": "USS",
 			"cn": "小海伦娜",
 			"jp": "リトル・ヘレナ",
 			"kr": "꼬마 헬레나"
@@ -69513,7 +69578,7 @@
 		"id": "391",
 		"names": {
 			"en": "Clevelad",
-			"code": "",
+			"code": "USS",
 			"cn": "小克利夫兰",
 			"jp": "リトル・クリーブランド",
 			"kr": "꼬마 클리블랜드"
@@ -69711,7 +69776,7 @@
 		"id": "392",
 		"names": {
 			"en": "Li'l Sandy",
-			"code": "",
+			"code": "USS",
 			"cn": "小圣地亚哥",
 			"jp": "リトル・サンディエゴ",
 			"kr": "꼬마 샌디에이고"
@@ -69919,7 +69984,7 @@
 		"id": "393",
 		"names": {
 			"en": "Swiftsure",
-			"code": "HMS Swiftsure",
+			"code": "HMS Swiftsure (cn:",
 			"cn": "确捷",
 			"jp": "スウィフトシュア",
 			"kr": null
@@ -70171,7 +70236,7 @@
 		"id": "394",
 		"names": {
 			"en": "Le Malin",
-			"code": "MNF Le Malin",
+			"code": "MNF Le Malin (cn:",
 			"cn": "恶毒",
 			"jp": "ル・マラン",
 			"kr": null
@@ -70416,7 +70481,7 @@
 		"id": "395",
 		"names": {
 			"en": "L'Opiniâtre",
-			"code": "FFNF L'Opiniâtre",
+			"code": "FFNF L'Opiniâtre (cn:",
 			"cn": "倔强",
 			"jp": "ルピニャート",
 			"kr": null
@@ -70644,7 +70709,7 @@
 		"id": "396",
 		"names": {
 			"en": "I-25",
-			"code": "IJN I-25",
+			"code": "IJN I-25 (cn:",
 			"cn": "伊25",
 			"jp": "伊25",
 			"kr": "이25"
@@ -71072,7 +71137,7 @@
 		"id": "397",
 		"names": {
 			"en": "I-56",
-			"code": "IJN I-56",
+			"code": "IJN I-56 (cn:",
 			"cn": "伊56",
 			"jp": "伊56",
 			"kr": "이56"
@@ -71496,7 +71561,7 @@
 		"id": "398",
 		"names": {
 			"en": "I-168",
-			"code": "IJN I-168",
+			"code": "IJN I-168 (cn:",
 			"cn": "伊168",
 			"jp": "伊168",
 			"kr": "이168"
@@ -71924,7 +71989,7 @@
 		"id": "399",
 		"names": {
 			"en": "U-101",
-			"code": "KMS U-101",
+			"code": "KMS U-101 (cn:",
 			"cn": "U-101",
 			"jp": "U-101",
 			"kr": "U-101"
@@ -72352,7 +72417,7 @@
 		"id": "400",
 		"names": {
 			"en": "U-522",
-			"code": "KMS U-522",
+			"code": "KMS U-522 (cn:",
 			"cn": "U-522",
 			"jp": "U-522",
 			"kr": "U-522"
@@ -72766,7 +72831,7 @@
 		"id": "401",
 		"names": {
 			"en": "Alabama",
-			"code": "USS Alabama",
+			"code": "USS Alabama (cn:",
 			"cn": "阿拉巴马",
 			"jp": "アラバマ",
 			"kr": "앨라배마"
@@ -72980,7 +73045,7 @@
 		"id": "402",
 		"names": {
 			"en": "Cavalla",
-			"code": "USS Cavalla",
+			"code": "USS Cavalla (cn:",
 			"cn": "棘鳍",
 			"jp": "カヴァラ",
 			"kr": "카발라"
@@ -73405,14 +73470,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_ashen_1.png"
+			}
+		]
 	},
 	"403": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Bataan",
 		"id": "403",
 		"names": {
 			"en": "Bataan",
-			"code": "USS Bataan",
+			"code": "USS Bataan (cn:",
 			"cn": "巴丹",
 			"jp": "バターン",
 			"kr": "바탄"
@@ -73630,7 +73700,7 @@
 		"id": "404",
 		"names": {
 			"en": "San Juan",
-			"code": "USS San Juan",
+			"code": "USS San Juan (cn:",
 			"cn": "圣胡安",
 			"jp": "サンフアン",
 			"kr": "산후안"
@@ -73823,7 +73893,7 @@
 		"id": "405",
 		"names": {
 			"en": "Birmingham",
-			"code": "USS Birmingham",
+			"code": "USS Birmingham (cn:",
 			"cn": "伯明翰",
 			"jp": "バーミンガム",
 			"kr": "버밍햄"
@@ -74032,14 +74102,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_ashen_1.png"
+			}
+		]
 	},
 	"406": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Aylwin",
 		"id": "406",
 		"names": {
 			"en": "Aylwin",
-			"code": "USS Aylwin",
+			"code": "USS Aylwin (cn:",
 			"cn": "艾尔温",
 			"jp": "エールウィン",
 			"kr": "아일윈"
@@ -74246,14 +74321,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_ashen_1.png"
+			}
+		]
 	},
 	"407": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Bache",
 		"id": "407",
 		"names": {
 			"en": "Bache",
-			"code": "USS Bache",
+			"code": "USS Bache (cn:",
 			"cn": "贝奇",
 			"jp": "バッチ",
 			"kr": "배시"
@@ -74487,7 +74567,7 @@
 		"id": "408",
 		"names": {
 			"en": "Black Prince",
-			"code": "HMS Black Prince",
+			"code": "HMS Black Prince (cn:",
 			"cn": "黑太子",
 			"jp": "ブラック・プリンス",
 			"kr": "블랙 프린스"
@@ -74731,7 +74811,7 @@
 		"id": "409",
 		"names": {
 			"en": "Stanly",
-			"code": "USS Stanly",
+			"code": "USS Stanly (cn:",
 			"cn": "斯坦利",
 			"jp": "スタンリー",
 			"kr": "스탠리"
@@ -74929,7 +75009,7 @@
 		"id": "410",
 		"names": {
 			"en": "Littorio",
-			"code": "Littorio",
+			"code": "Littorio (cn:",
 			"cn": "利托里奥",
 			"jp": "リットリオ",
 			"kr": "리토리오"
@@ -75163,7 +75243,7 @@
 		"id": "411",
 		"names": {
 			"en": "Conte di Cavour",
-			"code": "Conte di Cavour",
+			"code": "Conte di Cavour (cn:",
 			"cn": "加富尔伯爵",
 			"jp": "コンテ・ディ・カブール",
 			"kr": "콘테 디 카보우르"
@@ -75355,7 +75435,7 @@
 		"id": "412",
 		"names": {
 			"en": "Giulio Cesare",
-			"code": "Giulio Cesare",
+			"code": "Giulio Cesare (cn:",
 			"cn": "朱利奥·凯撒",
 			"jp": "ジュリオ・チェザーレ",
 			"kr": "줄리오 체사레"
@@ -75574,7 +75654,7 @@
 		"id": "413",
 		"names": {
 			"en": "Zara",
-			"code": "Zara",
+			"code": "Zara (cn:",
 			"cn": "扎拉",
 			"jp": "ザラ",
 			"kr": "차라"
@@ -75803,7 +75883,7 @@
 		"id": "414",
 		"names": {
 			"en": "Trento",
-			"code": "Trento",
+			"code": "Trento (cn:",
 			"cn": "特伦托",
 			"jp": "トレント",
 			"kr": "트렌토"
@@ -76015,7 +76095,7 @@
 		"id": "415",
 		"names": {
 			"en": "Carabiniere",
-			"code": "Carabiniere",
+			"code": "Carabiniere (cn:",
 			"cn": "龙骑兵",
 			"jp": "カラビニエーレ",
 			"kr": "카라비니에레"
@@ -76241,7 +76321,7 @@
 		"id": "416",
 		"names": {
 			"en": "U-110",
-			"code": "KMS U-110",
+			"code": "KMS U-110 (cn:",
 			"cn": "U-110",
 			"jp": "U-110",
 			"kr": null
@@ -76669,7 +76749,7 @@
 		"id": "417",
 		"names": {
 			"en": "Smalley",
-			"code": "USS Smalley",
+			"code": "USS Smalley (cn:",
 			"cn": "斯莫利",
 			"jp": "スモーリー",
 			"kr": null
@@ -76881,7 +76961,7 @@
 		"id": "418",
 		"names": {
 			"en": "Gascogne µ",
-			"code": "",
+			"code": "MNF",
 			"cn": "加斯科涅(μ兵装)",
 			"jp": "ガスコーニュ（μ兵装）",
 			"kr": null
@@ -77077,7 +77157,7 @@
 		"id": "419",
 		"names": {
 			"en": "Akagi µ",
-			"code": "",
+			"code": "IJN",
 			"cn": "凰(μ兵装)",
 			"jp": "赤城（μ兵装）",
 			"kr": null
@@ -77275,7 +77355,7 @@
 		"id": "420",
 		"names": {
 			"en": "Cleveland µ",
-			"code": "",
+			"code": "USS",
 			"cn": "克利夫兰(μ兵装)",
 			"jp": "クリーブランド（μ兵装）",
 			"kr": null
@@ -77482,7 +77562,7 @@
 		"id": "421",
 		"names": {
 			"en": "Sheffield µ",
-			"code": "",
+			"code": "HMS",
 			"cn": "谢菲尔德(μ兵装)",
 			"jp": "シェフィールド（μ兵装）",
 			"kr": null
@@ -77690,7 +77770,7 @@
 		"id": "422",
 		"names": {
 			"en": "Admiral Hipper µ",
-			"code": "",
+			"code": "KMS",
 			"cn": "希佩尔海军上将(μ兵装)",
 			"jp": "アドミラル·ヒッパー（μ兵装）",
 			"kr": null
@@ -77898,7 +77978,7 @@
 		"id": "423",
 		"names": {
 			"en": "Glasgow",
-			"code": "HMS Glasgow",
+			"code": "HMS Glasgow (cn:",
 			"cn": "格拉斯哥",
 			"jp": "グラスゴー",
 			"kr": null
@@ -78123,7 +78203,7 @@
 		"id": "424",
 		"names": {
 			"en": "Kasumi",
-			"code": "IJN Kasumi",
+			"code": "IJN Kasumi (cn:",
 			"cn": "蕸",
 			"jp": "霞",
 			"kr": null
@@ -78355,7 +78435,7 @@
 		"id": "425",
 		"names": {
 			"en": "Suruga",
-			"code": "IJN Suruga",
+			"code": "IJN Suruga (cn:",
 			"cn": "鲪",
 			"jp": "駿河",
 			"kr": null
@@ -78587,7 +78667,7 @@
 		"id": "426",
 		"names": {
 			"en": "Ryuuhou",
-			"code": "IJN Ryuuhou",
+			"code": "IJN Ryuuhou (cn:",
 			"cn": "鸗",
 			"jp": "龍鳳",
 			"kr": null
@@ -78812,7 +78892,7 @@
 		"id": "427",
 		"names": {
 			"en": "Halsey Powell",
-			"code": "USS Halsey Powell",
+			"code": "USS Halsey Powell (cn:",
 			"cn": "哈尔西·鲍威尔",
 			"jp": "ハルゼー・パウエル",
 			"kr": null
@@ -79028,7 +79108,7 @@
 		"id": "428",
 		"names": {
 			"en": "Biloxi",
-			"code": "USS Biloxi",
+			"code": "USS Biloxi (cn:",
 			"cn": "比洛克西",
 			"jp": "ビロクシ",
 			"kr": null
@@ -79259,7 +79339,7 @@
 		"id": "429",
 		"names": {
 			"en": "Uranami",
-			"code": "IJN Uranami",
+			"code": "IJN Uranami (cn:",
 			"cn": "朴",
 			"jp": "浦波",
 			"kr": null
@@ -79482,7 +79562,7 @@
 		"id": "431",
 		"names": {
 			"en": "Grozny",
-			"code": "SN Grozny",
+			"code": "SN Grozny (cn:",
 			"cn": "威严",
 			"jp": "グロズヌイ",
 			"kr": null
@@ -79710,7 +79790,7 @@
 		"id": "432",
 		"names": {
 			"en": "Minsk",
-			"code": "SN Minsk",
+			"code": "SN Minsk (cn:",
 			"cn": "明斯克",
 			"jp": "ミンスク",
 			"kr": null
@@ -79941,7 +80021,7 @@
 		"id": "433",
 		"names": {
 			"en": "Tashkent",
-			"code": "SN Tashkent",
+			"code": "SN Tashkent (cn:",
 			"cn": "塔什干",
 			"jp": "タシュケント",
 			"kr": null
@@ -80181,7 +80261,7 @@
 		"id": "434",
 		"names": {
 			"en": "Pamiat Merkuria",
-			"code": "SN Pamiat Merkuria",
+			"code": "SN Pamiat Merkuria (cn:",
 			"cn": "水星纪念",
 			"jp": "パーミャチ・メルクーリヤ",
 			"kr": null
@@ -80398,7 +80478,7 @@
 		"id": "436",
 		"names": {
 			"en": "Chapayev",
-			"code": "SN Chapayev",
+			"code": "SN Chapayev (cn:",
 			"cn": "恰巴耶夫",
 			"jp": "チャパエフ",
 			"kr": null
@@ -80637,7 +80717,7 @@
 		"id": "437",
 		"names": {
 			"en": "Gangut",
-			"code": "SN Gangut",
+			"code": "SN Gangut (cn:",
 			"cn": "甘古特",
 			"jp": "ガングート",
 			"kr": null
@@ -80869,7 +80949,7 @@
 		"id": "441",
 		"names": {
 			"en": "Sovetskaya Rossiya",
-			"code": "SN Sovetskaya Rossiya",
+			"code": "SN Sovetskaya Rossiya (cn:",
 			"cn": "苏维埃罗西亚",
 			"jp": "ソビエツカヤ・ロシア",
 			"kr": null
@@ -81096,7 +81176,7 @@
 		"id": "442",
 		"names": {
 			"en": "Intrepid",
-			"code": "USS Intrepid",
+			"code": "USS Intrepid (cn:",
 			"cn": "无畏",
 			"jp": "イントレピッド",
 			"kr": null
@@ -81333,7 +81413,7 @@
 		"id": "443",
 		"names": {
 			"en": "Bremerton",
-			"code": "USS Bremerton",
+			"code": "USS Bremerton (cn:",
 			"cn": "布莱默顿",
 			"jp": "ブレマートン",
 			"kr": null
@@ -81567,7 +81647,7 @@
 		"id": "444",
 		"names": {
 			"en": "Cooper",
-			"code": "USS Cooper",
+			"code": "USS Cooper (cn:",
 			"cn": "库珀",
 			"jp": "クーパー",
 			"kr": null
@@ -81788,7 +81868,7 @@
 		"id": "445",
 		"names": {
 			"en": "Reno",
-			"code": "USS Reno",
+			"code": "USS Reno (cn:",
 			"cn": "里诺",
 			"jp": "リノ",
 			"kr": null
@@ -82014,7 +82094,7 @@
 		"id": "446",
 		"names": {
 			"en": "Bluegill",
-			"code": "USS Bluegill",
+			"code": "USS Bluegill (cn:",
 			"cn": "蓝鳃鱼",
 			"jp": "ブルーギル",
 			"kr": null
@@ -82447,7 +82527,7 @@
 		"id": "447",
 		"names": {
 			"en": "Casablanca",
-			"code": "USS Casablanca",
+			"code": "USS Casablanca (cn:",
 			"cn": "卡萨布兰卡",
 			"jp": "カサブランカ",
 			"kr": null
@@ -82662,7 +82742,7 @@
 		"id": "448",
 		"names": {
 			"en": "Marblehead",
-			"code": "USS Marblehead",
+			"code": "USS Marblehead (cn:",
 			"cn": "马布尔黑德",
 			"jp": "マーブルヘッド",
 			"kr": null
@@ -82878,7 +82958,7 @@
 		"id": "449",
 		"names": {
 			"en": "Hanazuki",
-			"code": "IJN Hanazuki",
+			"code": "IJN Hanazuki (cn:",
 			"cn": "榵",
 			"jp": "花月",
 			"kr": null
@@ -83094,7 +83174,7 @@
 		"id": "450",
 		"names": {
 			"en": "Naganami",
-			"code": "IJN Naganami",
+			"code": "IJN Naganami (cn:",
 			"cn": "苌",
 			"jp": "長波",
 			"kr": null
@@ -83317,7 +83397,7 @@
 		"id": "451",
 		"names": {
 			"en": "Little Renown",
-			"code": "",
+			"code": "HMS",
 			"cn": "小声望",
 			"jp": "リトル・レナウン",
 			"kr": null
@@ -83505,7 +83585,7 @@
 		"id": "452",
 		"names": {
 			"en": "Tartu",
-			"code": "MNF Tartu",
+			"code": "MNF Tartu (cn:",
 			"cn": "塔尔图",
 			"jp": "タルテュ",
 			"kr": null
@@ -83722,7 +83802,7 @@
 		"id": "453",
 		"names": {
 			"en": "Richelieu",
-			"code": "FFNF Richelieu",
+			"code": "FFNF Richelieu (cn:",
 			"cn": "黎塞留",
 			"jp": "リシュリュー",
 			"kr": null
@@ -83960,7 +84040,7 @@
 		"id": "454",
 		"names": {
 			"en": "Jeanne d'Arc",
-			"code": "FFNF Jeanne d'Arc",
+			"code": "FFNF Jeanne d'Arc (cn:",
 			"cn": "圣女贞德",
 			"jp": "ジャンヌ・ダルク",
 			"kr": null
@@ -84191,7 +84271,7 @@
 		"id": "455",
 		"names": {
 			"en": "Algérie",
-			"code": "MNF",
+			"code": "MNF Algérie",
 			"cn": "CN: 热风之炽焰",
 			"jp": "JP: 熱風の轟炎",
 			"kr": null
@@ -84427,7 +84507,7 @@
 		"id": "456",
 		"names": {
 			"en": "La Galissonnière",
-			"code": "MNF La",
+			"code": "MNF La Galissonnière",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -84655,7 +84735,7 @@
 		"id": "457",
 		"names": {
 			"en": "Vauquelin",
-			"code": "MNF",
+			"code": "MNF Vauquelin",
 			"cn": "CN: 全弹发射",
 			"jp": "JP: 全弾発射-ヴォークラン級",
 			"kr": null
@@ -84752,7 +84832,7 @@
 					"cn": null,
 					"jp": null
 				},
-				"description": "All Vauquelin-class ships gain 5% (15%) more TP/EV; self FP/AA/ACC is increased by 4.5% (12%) for first 30s of battle.",
+				"description": "Increases the TRP and EVA of all your Vauquelin-class DDs by 5.0% (15.0%) and increases this ships FP, AA, and Accuracy by 4.5% (12.0%) for 30s after the battle starts.",
 				"color": "gold"
 			},
 			{
@@ -84871,7 +84951,7 @@
 		"id": "458",
 		"names": {
 			"en": "Béarn",
-			"code": "FFNF Béarn",
+			"code": "FFNF Béarn (cn:",
 			"cn": "贝亚恩",
 			"jp": "ベアルン",
 			"kr": null
@@ -85089,7 +85169,7 @@
 		"id": "459",
 		"names": {
 			"en": "Little Illustrious",
-			"code": "",
+			"code": "HMS",
 			"cn": "小光辉",
 			"jp": "リトル・イラストリアス",
 			"kr": null
@@ -85278,7 +85358,7 @@
 		"id": "460",
 		"names": {
 			"en": "Eskimo",
-			"code": "HMS Eskimo",
+			"code": "HMS Eskimo (cn:",
 			"cn": "爱斯基摩人",
 			"jp": "エスキモー",
 			"kr": null
@@ -85491,7 +85571,7 @@
 		"id": "9001",
 		"names": {
 			"en": "Tone",
-			"code": "IJN Tone",
+			"code": "IJN Tone (cn:",
 			"cn": "利根",
 			"jp": "利根",
 			"kr": null
@@ -85521,7 +85601,7 @@
 		"id": "9002",
 		"names": {
 			"en": "Chikuma",
-			"code": "IJN Chikuma",
+			"code": "IJN Chikuma (cn:",
 			"cn": "筑摩",
 			"jp": "筑摩",
 			"kr": null
@@ -85589,7 +85669,7 @@
 		"id": "9008",
 		"names": {
 			"en": "Kirov",
-			"code": "SN",
+			"code": "SN Kirov",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -85608,7 +85688,7 @@
 		"id": "9009",
 		"names": {
 			"en": "Sovetsky Soyuz",
-			"code": "SN Sovetsky",
+			"code": "SN Sovetsky Soyuz",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -85627,7 +85707,7 @@
 		"id": "001",
 		"names": {
 			"en": "Universal Bulin",
-			"code": "UNIV Universal Bulin",
+			"code": "UNIV Universal Bulin (cn:",
 			"cn": "泛用型布里",
 			"jp": "汎用型ブリ",
 			"kr": "범용형 부린"
@@ -85810,7 +85890,7 @@
 		"id": "002",
 		"names": {
 			"en": "Prototype Bulin MKII",
-			"code": "UNIV Trial Bulin MKII",
+			"code": "UNIV Trial Bulin MKII (cn:",
 			"cn": "试作型布里MKII",
 			"jp": "試作型ブリMKII",
 			"kr": "시제형 부린 MKⅡ"
@@ -85980,7 +86060,7 @@
 		"id": "004",
 		"names": {
 			"en": "Dewey",
-			"code": "USS Dewey",
+			"code": "USS Dewey (cn:",
 			"cn": "杜威",
 			"jp": "デューイ",
 			"kr": "듀이"
@@ -86208,7 +86288,7 @@
 		"id": "005",
 		"names": {
 			"en": "Cassin",
-			"code": "USS Cassin",
+			"code": "USS Cassin (cn:",
 			"cn": "卡辛",
 			"jp": "カッシン",
 			"kr": "캐신"
@@ -86681,7 +86761,7 @@
 		"id": "006",
 		"names": {
 			"en": "Downes",
-			"code": "USS Downes",
+			"code": "USS Downes (cn:",
 			"cn": "唐斯",
 			"jp": "ダウンズ",
 			"kr": "다운즈"
@@ -87147,14 +87227,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Hornet, Admiral Hipper, San Diego, Downes",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ec/Bg_2019.10.31_12.png"
+			}
+		]
 	},
 	"007": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Gridley",
 		"id": "007",
 		"names": {
 			"en": "Gridley",
-			"code": "USS Gridley",
+			"code": "USS Gridley (cn:",
 			"cn": "格里德利",
 			"jp": "グリッドレイ",
 			"kr": "그리들리"
@@ -87387,7 +87472,7 @@
 		"id": "008",
 		"names": {
 			"en": "Craven",
-			"code": "USS Craven",
+			"code": "USS Craven (cn:",
 			"cn": "克雷文",
 			"jp": "クレイヴン",
 			"kr": "크레이븐"
@@ -87622,7 +87707,7 @@
 		"id": "009",
 		"names": {
 			"en": "McCall",
-			"code": "USS McCall",
+			"code": "USS McCall (cn:",
 			"cn": "麦考尔",
 			"jp": "マッコール",
 			"kr": "맥콜"
@@ -87844,7 +87929,7 @@
 		"id": "010",
 		"names": {
 			"en": "Maury",
-			"code": "USS Maury",
+			"code": "USS Maury (cn:",
 			"cn": "莫里",
 			"jp": "モーリー",
 			"kr": "모리"
@@ -88056,7 +88141,7 @@
 		"id": "011",
 		"names": {
 			"en": "Fletcher",
-			"code": "USS Fletcher",
+			"code": "USS Fletcher (cn:",
 			"cn": "弗莱彻",
 			"jp": "フレッチャー",
 			"kr": "플레처"
@@ -88275,7 +88360,7 @@
 		"id": "013",
 		"names": {
 			"en": "Charles Ausburne",
-			"code": "USS Charles Ausburne",
+			"code": "USS Charles Ausburne (cn:",
 			"cn": "查尔斯·奥斯本",
 			"jp": "チャールズ・オースバーン",
 			"kr": "찰스 오스본"
@@ -88492,7 +88577,7 @@
 		"id": "014",
 		"names": {
 			"en": "Thatcher",
-			"code": "USS Thatcher",
+			"code": "USS Thatcher (cn:",
 			"cn": "撒切尔",
 			"jp": "サッチャー",
 			"kr": "대처"
@@ -88643,9 +88728,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:28:00",
+			"constructionTime": "Drop Only",
 			"availableIn": {
-				"light": true,
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -88653,6 +88738,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Fallen Wings A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"6-1",
 				"9-1",
@@ -88701,7 +88787,7 @@
 		"id": "015",
 		"names": {
 			"en": "Aulick",
-			"code": "USS Aulick",
+			"code": "USS Aulick (cn:",
 			"cn": "奥利克",
 			"jp": "オーリック",
 			"kr": "얼릭"
@@ -88926,7 +89012,7 @@
 		"id": "016",
 		"names": {
 			"en": "Foote",
-			"code": "USS Foote",
+			"code": "USS Foote (cn:",
 			"cn": "富特",
 			"jp": "フート",
 			"kr": "푸트"
@@ -89151,7 +89237,7 @@
 		"id": "017",
 		"names": {
 			"en": "Spence",
-			"code": "USS Spence",
+			"code": "USS Spence (cn:",
 			"cn": "斯彭斯",
 			"jp": "スペンス",
 			"kr": "스펜스"
@@ -89376,7 +89462,7 @@
 		"id": "018",
 		"names": {
 			"en": "Benson",
-			"code": "USS Benson",
+			"code": "USS Benson (cn:",
 			"cn": "本森",
 			"jp": "ベンソン",
 			"kr": "벤슨"
@@ -89577,7 +89663,7 @@
 		"id": "019",
 		"names": {
 			"en": "Laffey",
-			"code": "USS Laffey",
+			"code": "USS Laffey (cn:",
 			"cn": "拉菲",
 			"jp": "ラフィー",
 			"kr": "라피"
@@ -90233,7 +90319,7 @@
 		"id": "026",
 		"names": {
 			"en": "Sims",
-			"code": "USS Sims",
+			"code": "USS Sims (cn:",
 			"cn": "西姆斯",
 			"jp": "シムス",
 			"kr": "심즈"
@@ -90698,7 +90784,7 @@
 		"id": "027",
 		"names": {
 			"en": "Hammann",
-			"code": "USS Hammann",
+			"code": "USS Hammann (cn:",
 			"cn": "哈曼",
 			"jp": "ハムマン",
 			"kr": "허먼"
@@ -91193,7 +91279,7 @@
 		"id": "028",
 		"names": {
 			"en": "Eldridge",
-			"code": "USS Eldridge",
+			"code": "USS Eldridge (cn:",
 			"cn": "埃尔德里奇",
 			"jp": "エルドリッジ",
 			"kr": "엘드릿지"
@@ -91469,7 +91555,7 @@
 		"id": "029",
 		"names": {
 			"en": "Omaha",
-			"code": "USS Omaha",
+			"code": "USS Omaha (cn:",
 			"cn": "奥马哈",
 			"jp": "オマハ",
 			"kr": "오마하"
@@ -91687,7 +91773,7 @@
 		"id": "030",
 		"names": {
 			"en": "Raleigh",
-			"code": "USS Raleigh",
+			"code": "USS Raleigh (cn:",
 			"cn": "罗利",
 			"jp": "ローリー",
 			"kr": "롤리"
@@ -91905,7 +91991,7 @@
 		"id": "031",
 		"names": {
 			"en": "Brooklyn",
-			"code": "USS Brooklyn",
+			"code": "USS Brooklyn (cn:",
 			"cn": "布鲁克林",
 			"jp": "ブルックリン",
 			"kr": "브루클린"
@@ -92106,14 +92192,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Brooklyn, Montpelier, Washington, Honolulu, St. Louis and Ranger during American Independence Day",
+				"url": "https://azurlane.koumakan.jp/w/images/5/57/Bg_July4th_6.png"
+			}
+		]
 	},
 	"032": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Phoenix",
 		"id": "032",
 		"names": {
 			"en": "Phoenix",
-			"code": "USS Phoenix",
+			"code": "USS Phoenix (cn:",
 			"cn": "菲尼克斯",
 			"jp": "フェニックス",
 			"kr": "피닉스"
@@ -92321,7 +92412,7 @@
 		"id": "033",
 		"names": {
 			"en": "Helena",
-			"code": "USS Helena",
+			"code": "USS Helena (cn:",
 			"cn": "海伦娜",
 			"jp": "ヘレナ",
 			"kr": "헬레나"
@@ -92831,7 +92922,7 @@
 		"id": "034",
 		"names": {
 			"en": "Atlanta",
-			"code": "USS Atlanta",
+			"code": "USS Atlanta (cn:",
 			"cn": "亚特兰大",
 			"jp": "アトランタ",
 			"kr": "애틀란타"
@@ -93047,14 +93138,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Laffey, San Diego, Helena and Atlanta celebrating American Independence day",
+				"url": "https://azurlane.koumakan.jp/w/images/5/5b/Bg_July4th_2.png"
+			}
+		]
 	},
 	"035": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Juneau",
 		"id": "035",
 		"names": {
 			"en": "Juneau",
-			"code": "USS Juneau",
+			"code": "USS Juneau (cn:",
 			"cn": "朱诺",
 			"jp": "ジュノー",
 			"kr": "쥬노"
@@ -93277,7 +93373,7 @@
 		"id": "036",
 		"names": {
 			"en": "San Diego",
-			"code": "USS San Diego",
+			"code": "USS San Diego (cn:",
 			"cn": "圣地亚哥",
 			"jp": "サンディエゴ",
 			"kr": "샌디에이고"
@@ -93811,7 +93907,7 @@
 		"id": "037",
 		"names": {
 			"en": "Cleveland",
-			"code": "USS Cleveland",
+			"code": "USS Cleveland (cn:",
 			"cn": "克利夫兰",
 			"jp": "クリーブランド",
 			"kr": "클리블랜드"
@@ -93977,7 +94073,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
@@ -94128,7 +94224,7 @@
 		"id": "038",
 		"names": {
 			"en": "Columbia",
-			"code": "USS Columbia",
+			"code": "USS Columbia (cn:",
 			"cn": "哥伦比亚",
 			"jp": "コロンビア",
 			"kr": "컬럼비아"
@@ -94350,14 +94446,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Columbia and Cleveland in battle",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a6/Bg_cleveland_1.png"
+			}
+		]
 	},
 	"039": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Pensacola",
 		"id": "039",
 		"names": {
 			"en": "Pensacola",
-			"code": "USS Pensacola",
+			"code": "USS Pensacola (cn:",
 			"cn": "彭萨科拉",
 			"jp": "ペンサコーラ",
 			"kr": "펜사콜라"
@@ -94584,7 +94685,7 @@
 		"id": "040",
 		"names": {
 			"en": "Salt Lake City",
-			"code": "USS Salt Lake City",
+			"code": "USS Salt Lake City (cn:",
 			"cn": "盐湖城",
 			"jp": "ソルトレイクシティ",
 			"kr": "솔트레이크시티"
@@ -94796,7 +94897,7 @@
 		"id": "041",
 		"names": {
 			"en": "Northampton",
-			"code": "USS Northampton",
+			"code": "USS Northampton (cn:",
 			"cn": "北安普敦",
 			"jp": "ノーザンプトン",
 			"kr": "노샘프턴"
@@ -95007,7 +95108,7 @@
 		"id": "042",
 		"names": {
 			"en": "Chicago",
-			"code": "USS Chicago",
+			"code": "USS Chicago (cn:",
 			"cn": "芝加哥",
 			"jp": "シカゴ",
 			"kr": "시카고"
@@ -95219,7 +95320,7 @@
 		"id": "043",
 		"names": {
 			"en": "Houston",
-			"code": "USS Houston",
+			"code": "USS Houston (cn:",
 			"cn": "休斯敦",
 			"jp": "ヒューストン",
 			"kr": "휴스턴"
@@ -95428,7 +95529,7 @@
 		"id": "044",
 		"names": {
 			"en": "Portland",
-			"code": "USS Portland",
+			"code": "USS Portland (cn:",
 			"cn": "波特兰",
 			"jp": "ポートランド",
 			"kr": "포틀랜드"
@@ -95902,7 +96003,7 @@
 		"id": "045",
 		"names": {
 			"en": "Indianapolis",
-			"code": "USS Indianapolis",
+			"code": "USS Indianapolis (cn:",
 			"cn": "印第安纳波利斯",
 			"jp": "インディアナポリス",
 			"kr": "인디애나폴리스"
@@ -96138,7 +96239,7 @@
 		"id": "046",
 		"names": {
 			"en": "Astoria",
-			"code": "USS Astoria",
+			"code": "USS Astoria (cn:",
 			"cn": "阿斯托利亚",
 			"jp": "アストリア",
 			"kr": "아스토리아"
@@ -96360,14 +96461,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Astoria with Vincennes and Quincy",
+				"url": "https://azurlane.koumakan.jp/w/images/b/bf/Bg_Quincy_1.png"
+			}
+		]
 	},
 	"047": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Quincy",
 		"id": "047",
 		"names": {
 			"en": "Quincy",
-			"code": "USS Quincy",
+			"code": "USS Quincy (cn:",
 			"cn": "昆西",
 			"jp": "クインシー",
 			"kr": "퀸시"
@@ -96596,7 +96702,7 @@
 		"id": "048",
 		"names": {
 			"en": "Vincennes",
-			"code": "USS Vincennes",
+			"code": "USS Vincennes (cn:",
 			"cn": "文森斯",
 			"jp": "ヴィンセンス",
 			"kr": "빈센스"
@@ -96839,7 +96945,7 @@
 		"id": "049",
 		"names": {
 			"en": "Wichita",
-			"code": "USS Wichita",
+			"code": "USS Wichita (cn:",
 			"cn": "威奇塔",
 			"jp": "ウィチタ",
 			"kr": "위치타"
@@ -97054,7 +97160,7 @@
 		"id": "050",
 		"names": {
 			"en": "Baltimore",
-			"code": "USS Baltimore",
+			"code": "USS Baltimore (cn:",
 			"cn": "巴尔的摩",
 			"jp": "ボルチモア",
 			"kr": "볼티모어"
@@ -97303,7 +97409,7 @@
 		"id": "052",
 		"names": {
 			"en": "Nevada",
-			"code": "USS Nevada",
+			"code": "USS Nevada (cn:",
 			"cn": "内华达",
 			"jp": "ネバダ",
 			"kr": "네바다"
@@ -97787,7 +97893,7 @@
 		"id": "053",
 		"names": {
 			"en": "Oklahoma",
-			"code": "USS Oklahoma",
+			"code": "USS Oklahoma (cn:",
 			"cn": "俄克拉荷马",
 			"jp": "オクラホマ",
 			"kr": "오클라호마"
@@ -98271,7 +98377,7 @@
 		"id": "054",
 		"names": {
 			"en": "Pennsylvania",
-			"code": "USS Pennsylvania",
+			"code": "USS Pennsylvania (cn:",
 			"cn": "宾夕法尼亚",
 			"jp": "ペンシルベニア",
 			"kr": "펜실베이니아"
@@ -98469,7 +98575,7 @@
 		"id": "055",
 		"names": {
 			"en": "Arizona",
-			"code": "USS Arizona",
+			"code": "USS Arizona (cn:",
 			"cn": "亚利桑那",
 			"jp": "アリゾナ",
 			"kr": "애리조나"
@@ -98666,7 +98772,7 @@
 		"id": "058",
 		"names": {
 			"en": "Tennessee",
-			"code": "USS Tennessee",
+			"code": "USS Tennessee (cn:",
 			"cn": "田纳西",
 			"jp": "テネシー",
 			"kr": "테네시"
@@ -98867,7 +98973,7 @@
 		"id": "059",
 		"names": {
 			"en": "California",
-			"code": "USS California",
+			"code": "USS California (cn:",
 			"cn": "加利福尼亚",
 			"jp": "カリフォルニア",
 			"kr": "캘리포니아"
@@ -99068,7 +99174,7 @@
 		"id": "060",
 		"names": {
 			"en": "Colorado",
-			"code": "USS Colorado",
+			"code": "USS Colorado (cn:",
 			"cn": "科罗拉多",
 			"jp": "コロラド",
 			"kr": "콜로라도"
@@ -99270,7 +99376,7 @@
 		"id": "061",
 		"names": {
 			"en": "Maryland",
-			"code": "USS Maryland",
+			"code": "USS Maryland (cn:",
 			"cn": "马里兰",
 			"jp": "メリーランド",
 			"kr": "메릴랜드"
@@ -99482,7 +99588,7 @@
 		"id": "062",
 		"names": {
 			"en": "West Virginia",
-			"code": "USS West Virginia",
+			"code": "USS West Virginia (cn:",
 			"cn": "西弗吉尼亚",
 			"jp": "ウェストバージニア",
 			"kr": "웨스트버지니아"
@@ -99684,7 +99790,7 @@
 		"id": "063",
 		"names": {
 			"en": "North Carolina",
-			"code": "USS North Carolina",
+			"code": "USS North Carolina (cn:",
 			"cn": "北卡罗来纳",
 			"jp": "ノースカロライナ",
 			"kr": "노스캐롤라이나"
@@ -99898,7 +100004,7 @@
 		"id": "064",
 		"names": {
 			"en": "Washington",
-			"code": "USS Washington",
+			"code": "USS Washington (cn:",
 			"cn": "华盛顿",
 			"jp": "ワシントン",
 			"kr": "워싱턴"
@@ -100120,7 +100226,7 @@
 		"id": "065",
 		"names": {
 			"en": "South Dakota",
-			"code": "USS South Dakota",
+			"code": "USS South Dakota (cn:",
 			"cn": "南达科他",
 			"jp": "サウスダコタ",
 			"kr": "사우스다코타"
@@ -100344,7 +100450,7 @@
 		"id": "070",
 		"names": {
 			"en": "Long Island",
-			"code": "USS Long Island",
+			"code": "USS Long Island (cn:",
 			"cn": "长岛",
 			"jp": "ロング・アイランド",
 			"kr": "롱 아일랜드"
@@ -100806,7 +100912,7 @@
 		"id": "071",
 		"names": {
 			"en": "Bogue",
-			"code": "USS Bogue",
+			"code": "USS Bogue (cn:",
 			"cn": "博格",
 			"jp": "ボーグ",
 			"kr": "보그"
@@ -101289,7 +101395,7 @@
 		"id": "072",
 		"names": {
 			"en": "Langley",
-			"code": "USS Langley",
+			"code": "USS Langley (cn:",
 			"cn": "兰利",
 			"jp": "ラングレー",
 			"kr": "랭글리"
@@ -101776,7 +101882,7 @@
 		"id": "073",
 		"names": {
 			"en": "Lexington",
-			"code": "USS Lexington",
+			"code": "USS Lexington (cn:",
 			"cn": "列克星敦",
 			"jp": "レキシントン",
 			"kr": "렉싱턴"
@@ -101999,7 +102105,7 @@
 		"id": "074",
 		"names": {
 			"en": "Saratoga",
-			"code": "USS Saratoga",
+			"code": "USS Saratoga (cn:",
 			"cn": "萨拉托加",
 			"jp": "サラトガ",
 			"kr": "새러토가"
@@ -102531,7 +102637,7 @@
 		"id": "075",
 		"names": {
 			"en": "Ranger",
-			"code": "USS Ranger",
+			"code": "USS Ranger (cn:",
 			"cn": "突击者",
 			"jp": "レンジャー",
 			"kr": "레인저"
@@ -103016,7 +103122,7 @@
 		"id": "076",
 		"names": {
 			"en": "Yorktown",
-			"code": "USS Yorktown",
+			"code": "USS Yorktown (cn:",
 			"cn": "约克城",
 			"jp": "ヨークタウン",
 			"kr": "요크타운"
@@ -103270,7 +103376,7 @@
 		"id": "077",
 		"names": {
 			"en": "Enterprise",
-			"code": "USS Enterprise",
+			"code": "USS Enterprise (cn:",
 			"cn": "企业",
 			"jp": "エンタープライズ",
 			"kr": "엔터프라이즈"
@@ -103608,7 +103714,7 @@
 		"id": "078",
 		"names": {
 			"en": "Hornet",
-			"code": "USS Hornet",
+			"code": "USS Hornet (cn:",
 			"cn": "大黄蜂",
 			"jp": "ホーネット",
 			"kr": "호넷"
@@ -103829,7 +103935,7 @@
 		"id": "079",
 		"names": {
 			"en": "Wasp",
-			"code": "USS Wasp",
+			"code": "USS Wasp (cn:",
 			"cn": "胡蜂",
 			"jp": "ワスプ",
 			"kr": "와스프"
@@ -104020,7 +104126,7 @@
 		"id": "080",
 		"names": {
 			"en": "Vestal",
-			"code": "USS Vestal",
+			"code": "USS Vestal (cn:",
 			"cn": "女灶神",
 			"jp": "ヴェスタル",
 			"kr": "베스탈"
@@ -104239,7 +104345,7 @@
 		"id": "081",
 		"names": {
 			"en": "Amazon",
-			"code": "HMS Amazon",
+			"code": "HMS Amazon (cn:",
 			"cn": "女将",
 			"jp": "アマゾン",
 			"kr": "아마존"
@@ -104716,7 +104822,7 @@
 		"id": "082",
 		"names": {
 			"en": "Acasta",
-			"code": "HMS Acasta",
+			"code": "HMS Acasta (cn:",
 			"cn": "阿卡司塔",
 			"jp": "アカスタ",
 			"kr": "아카스타"
@@ -105203,7 +105309,7 @@
 		"id": "083",
 		"names": {
 			"en": "Ardent",
-			"code": "HMS Ardent",
+			"code": "HMS Ardent (cn:",
 			"cn": "热心",
 			"jp": "アーデント",
 			"kr": "아덴트"
@@ -105676,7 +105782,7 @@
 		"id": "086",
 		"names": {
 			"en": "Beagle",
-			"code": "HMS Beagle",
+			"code": "HMS Beagle (cn:",
 			"cn": "小猎兔犬",
 			"jp": "ビーグル",
 			"kr": "비글"
@@ -105902,7 +106008,7 @@
 		"id": "087",
 		"names": {
 			"en": "Bulldog",
-			"code": "HMS Bulldog",
+			"code": "HMS Bulldog (cn:",
 			"cn": "大斗犬",
 			"jp": "ブルドッグ",
 			"kr": "불독"
@@ -106128,7 +106234,7 @@
 		"id": "088",
 		"names": {
 			"en": "Comet",
-			"code": "HMS Comet",
+			"code": "HMS Comet (cn:",
 			"cn": "彗星",
 			"jp": "コメット",
 			"kr": "코멧"
@@ -106602,7 +106708,7 @@
 		"id": "089",
 		"names": {
 			"en": "Crescent",
-			"code": "HMS Crescent",
+			"code": "HMS Crescent (cn:",
 			"cn": "新月",
 			"jp": "クレセント",
 			"kr": "크레센트"
@@ -107069,14 +107175,23 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Crescent Valentine's loading screen",
+				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_crescent_1.png"
+			},
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			}
+		]
 	},
 	"090": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Cygnet",
 		"id": "090",
 		"names": {
 			"en": "Cygnet",
-			"code": "HMS Cygnet",
+			"code": "HMS Cygnet (cn:",
 			"cn": "小天鹅",
 			"jp": "シグニット",
 			"kr": "시그넷"
@@ -107612,14 +107727,19 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Many Royal Navy ships in 1 big party",
+				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			}
+		]
 	},
 	"091": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Foxhound",
 		"id": "091",
 		"names": {
 			"en": "Foxhound",
-			"code": "HMS Foxhound",
+			"code": "HMS Foxhound (cn:",
 			"cn": "狐提",
 			"jp": "フォックスハウンド",
 			"kr": "폭스하운드"
@@ -108086,7 +108206,7 @@
 		"id": "092",
 		"names": {
 			"en": "Fortune",
-			"code": "HMS Fortune",
+			"code": "HMS Fortune (cn:",
 			"cn": "命运女神",
 			"jp": "フォーチュン",
 			"kr": "포춘"
@@ -108474,16 +108594,17 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:24:00",
+			"constructionTime": "Drop Only",
 			"availableIn": {
-				"light": true,
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"6-1",
 				"3-2",
@@ -108538,7 +108659,7 @@
 		"id": "093",
 		"names": {
 			"en": "Grenville",
-			"code": "HMS Grenville",
+			"code": "HMS Grenville (cn:",
 			"cn": "格伦维尔",
 			"jp": "グレンヴィル",
 			"kr": "그렌빌"
@@ -108752,7 +108873,7 @@
 		"id": "094",
 		"names": {
 			"en": "Glowworm",
-			"code": "HMS Glowworm",
+			"code": "HMS Glowworm (cn:",
 			"cn": "萤火虫",
 			"jp": "グローウォーム",
 			"kr": "글로우웜"
@@ -108975,7 +109096,7 @@
 		"id": "096",
 		"names": {
 			"en": "Hardy",
-			"code": "HMS Hardy",
+			"code": "HMS Hardy (cn:",
 			"cn": "勇敢",
 			"jp": "ハーディ",
 			"kr": "하디"
@@ -109184,7 +109305,7 @@
 		"id": "Plan001",
 		"names": {
 			"en": "HMS Neptune",
-			"code": "HMS Neptune",
+			"code": "HMS Neptune (cn:",
 			"cn": "海王星",
 			"jp": "ネプチューン",
 			"kr": "넵튠"
@@ -109327,6 +109448,8 @@
 			],
 			"10": [
 				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -109338,6 +109461,7 @@
 				"Main Gun Efficiency +5%"
 			],
 			"20": [
+				"Upgrades Siren Killer I→II",
 				"Torpedo Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -109350,6 +109474,7 @@
 			],
 			"30": [
 				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -109444,7 +109569,7 @@
 		"id": "Plan002",
 		"names": {
 			"en": "Monarch",
-			"code": "HMS Monarch",
+			"code": "HMS Monarch (cn:",
 			"cn": "君主",
 			"jp": "モナーク",
 			"kr": "모나크"
@@ -109576,6 +109701,8 @@
 			],
 			"10": [
 				"Main Gun Mount +1",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -109588,6 +109715,7 @@
 			],
 			"20": [
 				"Secondary Gun Mount +2",
+				"Upgrades Siren Killer I→II",
 				"Main Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -109600,6 +109728,7 @@
 			],
 			"30": [
 				"Main Gun Mount +1",
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -109720,7 +109849,7 @@
 		"id": "Plan003",
 		"names": {
 			"en": "Ibuki",
-			"code": "IJN Ibuki",
+			"code": "IJN Ibuki (cn:",
 			"cn": "峦",
 			"jp": "伊吹",
 			"kr": "이부키"
@@ -109865,6 +109994,8 @@
 			],
 			"10": [
 				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -109878,6 +110009,7 @@
 				"Pre-Loaded Torpedo +1"
 			],
 			"20": [
+				"Upgrades Siren Killer I→II",
 				"Torpedo Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -109891,6 +110023,7 @@
 			],
 			"30": [
 				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
 				"Torpedo Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -110025,7 +110158,7 @@
 		"id": "Plan004",
 		"names": {
 			"en": "Izumo",
-			"code": "IJN Izumo",
+			"code": "IJN Izumo (cn:",
 			"cn": "侌",
 			"jp": "出雲",
 			"kr": "이즈모"
@@ -110157,6 +110290,8 @@
 			],
 			"10": [
 				"Main Gun Mount +1",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -110169,6 +110304,7 @@
 			],
 			"20": [
 				"Secondary Gun Mount +2",
+				"Upgrades Siren Killer I→II",
 				"Main Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -110181,6 +110317,7 @@
 			],
 			"30": [
 				"Main Gun Mount +1",
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -110284,7 +110421,7 @@
 		"id": "Plan005",
 		"names": {
 			"en": "Roon",
-			"code": "KMS Roon",
+			"code": "KMS Roon (cn:",
 			"cn": "罗恩",
 			"jp": "ローン",
 			"kr": "론"
@@ -110427,6 +110564,8 @@
 			],
 			"10": [
 				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"",
 				"All Weapon Efficiency +2%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -110439,6 +110578,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			"20": [
+				"Upgrades Siren Killer I→II",
 				"All Weapon Efficiency +3%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -110452,6 +110592,7 @@
 			],
 			"30": [
 				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
 				"All Weapon Efficiency +5%",
 				"Stars increase to ★★★★★★"
 			]
@@ -110560,7 +110701,7 @@
 		"id": "Plan006",
 		"names": {
 			"en": "Saint Louis",
-			"code": "FFNF Saint Louis",
+			"code": "FFNF Saint Louis (cn:",
 			"cn": "路易九世",
 			"jp": "サン・ルイ",
 			"kr": "생 루이"
@@ -110821,7 +110962,7 @@
 		"id": "Plan007",
 		"names": {
 			"en": "Seattle",
-			"code": "USS Seattle",
+			"code": "USS Seattle (cn:",
 			"cn": "西雅图",
 			"jp": "シアトル",
 			"kr": "시애틀"
@@ -110953,6 +111094,8 @@
 			],
 			"10": [
 				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -110964,6 +111107,7 @@
 				"Main Gun Efficiency +5%"
 			],
 			"20": [
+				"Upgrades Siren Killer I→II",
 				"Main Gun Efficiency +10%",
 				"CL Main Guns Equipable In Secondary Weapon Slot",
 				"Stars increase to ★★★★★☆"
@@ -110977,6 +111121,7 @@
 			],
 			"30": [
 				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -111075,16 +111220,47 @@
 					"cost": "900",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Sunfish Spell!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/SeattleSummer.png/507px-SeattleSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/4/4e/Skin_BG_134.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/ab/SeattleSummerChibi.png",
+				"info": {
+					"enClient": "Sunfish Spell!",
+					"cnClient": "Sunfish Spell！",
+					"jpClient": "サンフィッシュスペル！",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "2nd anniversary loading screen featuring Belfast, Shoukaku, Seattle and Jean Bart",
+				"url": "https://azurlane.koumakan.jp/w/images/e/e2/Bg_2nd_anni_1.png"
+			},
+			{
+				"description": "Seattle in her Gorgeous Party skin holding drinks",
+				"url": "https://azurlane.koumakan.jp/w/images/5/58/Bg_2nd_anni_2.png"
+			},
+			{
+				"description": "Seattle playing the violin",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6a/Bg_2nd_anni_3.png"
+			},
+			{
+				"description": "Seattle cooking",
+				"url": "https://azurlane.koumakan.jp/w/images/5/58/Bg_2019.12.19_5.png"
+			}
+		]
 	},
 	"Plan008": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Georgia",
 		"id": "Plan008",
 		"names": {
 			"en": "Georgia",
-			"code": "USS Georgia",
+			"code": "USS Georgia (cn:",
 			"cn": "佐治亚",
 			"jp": "ジョージア",
 			"kr": "조지아"
@@ -111206,6 +111382,8 @@
 			],
 			"10": [
 				"Main Gun Mount +1",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -111218,6 +111396,7 @@
 			],
 			"20": [
 				"Secondary Gun Mount +2",
+				"Upgrades Siren Killer I→II",
 				"Main Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -111229,6 +111408,7 @@
 				"Main Gun Efficiency +5%"
 			],
 			"30": [
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -111333,14 +111513,23 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading screen depicting Georgia",
+				"url": "https://azurlane.koumakan.jp/w/images/4/41/Bg_georgia_1.png"
+			},
+			{
+				"description": "Laffey, Belfast, Unicorn, Georgia",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_2019.11.14_6.png"
+			}
+		]
 	},
 	"Plan009": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kitakaze",
 		"id": "Plan009",
 		"names": {
 			"en": "Kitakaze",
-			"code": "IJN Kitakaze",
+			"code": "IJN Kitakaze (cn:",
 			"cn": "苝",
 			"jp": "北風",
 			"kr": "키타카제"
@@ -111472,6 +111661,8 @@
 			],
 			"10": [
 				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -111484,6 +111675,7 @@
 				"Pre-Loaded Torpedo +1"
 			],
 			"20": [
+				"Upgrades Siren Killer I→II",
 				"Anti-Air Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -111495,6 +111687,7 @@
 			],
 			"30": [
 				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
 				"All Weapon Efficiency +5%",
 				"Stars increase to ★★★★★★"
 			]
@@ -111586,7 +111779,7 @@
 		"id": "Plan010",
 		"names": {
 			"en": "Azuma",
-			"code": "IJN Azuma",
+			"code": "IJN Azuma (cn:",
 			"cn": "猉",
 			"jp": "吾妻",
 			"kr": "아즈마"
@@ -111718,6 +111911,8 @@
 				"Main Gun Efficiency +5%"
 			],
 			"10": [
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -111729,6 +111924,7 @@
 				"Anti-Air Gun Efficiency +10%"
 			],
 			"20": [
+				"Upgrades Siren Killer I→II",
 				"Secondary Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -111741,6 +111937,7 @@
 				"Main Gun Efficiency +5%"
 			],
 			"30": [
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -111847,11 +112044,11 @@
 		]
 	},
 	"Plan011": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Friedrich_der_Grosse",
+		"wikiUrl": "https://azurlane.koumakan.jp/Friedrich_der_Große",
 		"id": "Plan011",
 		"names": {
 			"en": "Friedrich der Große",
-			"code": "KMS Friedrich der Große",
+			"code": "KMS Friedrich der Große (cn:",
 			"cn": "腓特烈大帝",
 			"jp": "フリードリヒ・デア・グローセ",
 			"kr": "프리드리히 데어 그로세"
@@ -111983,6 +112180,8 @@
 			],
 			"10": [
 				"Main Gun Mount +1",
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -111995,6 +112194,7 @@
 			],
 			"20": [
 				"Secondary Gun Mount +2",
+				"Upgrades Siren Killer I→II",
 				"Main Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -112007,6 +112207,7 @@
 			],
 			"30": [
 				"Main Gun Mount +1",
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -112126,7 +112327,7 @@
 		"id": "Plan012",
 		"names": {
 			"en": "Gascogne",
-			"code": "MNF Gascogne",
+			"code": "MNF Gascogne (cn:",
 			"cn": "加斯科涅",
 			"jp": "ガスコーニュ",
 			"kr": "가스코뉴"
@@ -112218,6 +112419,16 @@
 				"color": "deepskyblue"
 			},
 			{
+				"icon": "https://azurlane.koumakan.jp/w/images/1/1f/Skill_19250.png",
+				"names": {
+					"en": "(Fate Simulation)",
+					"cn": "感知抑制模块+",
+					"jp": "感情抑制モジュール+"
+				},
+				"description": "At the start of battle, if this ship's HP is greater than 50.0%: increases this ship's AA by ? (?) and improves this ship's Precision Salvo Protocol barrage. Additionally, when this ship's HP falls below 50.0%: for 8s, increases this ship's EVA by 15% (30%) and restores a total of 8.0% of its max HP (this effect can only be triggered twice per battle). (replaces Emotion Inhibition Module)",
+				"color": "deepskyblue"
+			},
+			{
 				"icon": "https://azurlane.koumakan.jp/w/images/9/95/Skill_19260.png",
 				"names": {
 					"en": "Precision Salvo Protocol",
@@ -112247,6 +112458,8 @@
 				"Main Gun Efficiency +5%"
 			],
 			"10": [
+				"Gains Siren Killer I",
+				"",
 				"Main Gun Efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -112259,6 +112472,7 @@
 			],
 			"20": [
 				"Secondary Gun Mount +2",
+				"Upgrades Siren Killer I→II",
 				"Main Gun Efficiency +10%",
 				"Stars increase to ★★★★★☆"
 			],
@@ -112270,6 +112484,7 @@
 				"Main Gun Efficiency +5%"
 			],
 			"30": [
+				"Upgrades Siren Killer II→III",
 				"Main Gun Efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -112361,14 +112576,23 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading screen depicting Gascogne",
+				"url": "https://azurlane.koumakan.jp/w/images/c/cd/Bg_gascogne_1.png"
+			},
+			{
+				"description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque and Gascogne during Halloween",
+				"url": "https://azurlane.koumakan.jp/w/images/4/41/Bg_2019.10.31_2.png"
+			}
+		]
 	},
 	"Collab001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/HDN_Neptune",
 		"id": "Collab001",
 		"names": {
 			"en": "HDN Neptune",
-			"code": "HDN Neptune",
+			"code": "HDN Neptune (cn:",
 			"cn": "涅普顿",
 			"jp": "ネプテューヌ",
 			"kr": "넵튠"
@@ -112548,7 +112772,7 @@
 		"id": "Collab002",
 		"names": {
 			"en": "Noire",
-			"code": "HDN Noire",
+			"code": "HDN Noire (cn:",
 			"cn": "诺瓦露",
 			"jp": "ノワール",
 			"kr": "느와르"
@@ -112728,7 +112952,7 @@
 		"id": "Collab003",
 		"names": {
 			"en": "Blanc",
-			"code": "HDN Blanc",
+			"code": "HDN Blanc (cn:",
 			"cn": "布兰",
 			"jp": "ブラン",
 			"kr": "블랑"
@@ -112908,7 +113132,7 @@
 		"id": "Collab004",
 		"names": {
 			"en": "Vert",
-			"code": "HDN Vert",
+			"code": "HDN Vert (cn:",
 			"cn": "贝露",
 			"jp": "ベール",
 			"kr": "벨"
@@ -113091,7 +113315,7 @@
 		"id": "Collab005",
 		"names": {
 			"en": "Purple Heart",
-			"code": "HDN Purple Heart",
+			"code": "HDN Purple Heart (cn:",
 			"cn": "绀紫之心",
 			"jp": "パープルハート",
 			"kr": "퍼플 하트"
@@ -113306,7 +113530,7 @@
 		"id": "Collab006",
 		"names": {
 			"en": "Black Heart",
-			"code": "HDN Black Heart",
+			"code": "HDN Black Heart (cn:",
 			"cn": "圣黑之心",
 			"jp": "ブラックハート",
 			"kr": "블랙 하트"
@@ -113512,7 +113736,7 @@
 		"id": "Collab007",
 		"names": {
 			"en": "White Heart",
-			"code": "HDN White Heart",
+			"code": "HDN White Heart (cn:",
 			"cn": "群白之心",
 			"jp": "ホワイトハート",
 			"kr": "화이트 하트"
@@ -113717,7 +113941,7 @@
 		"id": "Collab008",
 		"names": {
 			"en": "Green Heart",
-			"code": "HDN Green Heart",
+			"code": "HDN Green Heart (cn:",
 			"cn": "翡绿之心",
 			"jp": "グリーンハート",
 			"kr": "그린 하트"
@@ -113925,7 +114149,7 @@
 		"id": "Collab021",
 		"names": {
 			"en": "22",
-			"code": "22",
+			"code": "22 (cn:",
 			"cn": "22",
 			"jp": null,
 			"kr": null
@@ -114120,7 +114344,7 @@
 		"id": "Collab022",
 		"names": {
 			"en": "33",
-			"code": "33",
+			"code": "33 (cn:",
 			"cn": "33",
 			"jp": null,
 			"kr": null
@@ -114318,7 +114542,7 @@
 		"id": "Collab031",
 		"names": {
 			"en": "Kuon",
-			"code": "Kuon",
+			"code": "Kuon (cn:",
 			"cn": "久远",
 			"jp": "クオン",
 			"kr": "쿠온"
@@ -114523,7 +114747,7 @@
 		"id": "Collab032",
 		"names": {
 			"en": "Nekone",
-			"code": "Nekone",
+			"code": "Nekone (cn:",
 			"cn": "猫音",
 			"jp": "ネコネ",
 			"kr": "네코네"
@@ -114728,7 +114952,7 @@
 		"id": "Collab033",
 		"names": {
 			"en": "Rurutie",
-			"code": "Rurutie",
+			"code": "Rurutie (cn:",
 			"cn": "露露缇耶",
 			"jp": "ルルティエ",
 			"kr": "루루티에"
@@ -114933,7 +115157,7 @@
 		"id": "Collab034",
 		"names": {
 			"en": "Uruuru",
-			"code": "Uruuru",
+			"code": "Uruuru (cn:",
 			"cn": "乌璐露",
 			"jp": "ウルゥル",
 			"kr": "우루루"
@@ -115139,7 +115363,7 @@
 		"id": "Collab035",
 		"names": {
 			"en": "Saraana",
-			"code": "Saraana",
+			"code": "Saraana (cn:",
 			"cn": "萨拉娜",
 			"jp": "サラァナ",
 			"kr": "사라나"
@@ -115345,7 +115569,7 @@
 		"id": "Collab036",
 		"names": {
 			"en": "Fumiruiru",
-			"code": "Fumiruiru",
+			"code": "Fumiruiru (cn:",
 			"cn": "芙米露露",
 			"jp": "フミルィル",
 			"kr": "후미뤼르"
@@ -115551,7 +115775,7 @@
 		"id": "Collab041",
 		"names": {
 			"en": "Kizuna AI",
-			"code": "Kizuna AI",
+			"code": "Kizuna AI (cn:",
 			"cn": "绊爱",
 			"jp": "キズナアイ",
 			"kr": "키즈나 아이"
@@ -115761,7 +115985,7 @@
 		"id": "Collab042",
 		"names": {
 			"en": "Elegant Kizuna AI",
-			"code": "Elegant Kizuna AI",
+			"code": "Elegant Kizuna AI (cn:",
 			"cn": "绊爱·Elegant",
 			"jp": "キズナアイ・エレガント",
 			"kr": "키즈나 아이 - 엘레강트"
@@ -115956,7 +116180,7 @@
 		"id": "Collab043",
 		"names": {
 			"en": "Anniversary Kizuna AI",
-			"code": "Anniversary Kizuna AI",
+			"code": "Anniversary Kizuna AI (cn:",
 			"cn": "绊爱·Anniversary",
 			"jp": "キズナアイ・アニバーサリー",
 			"kr": "키즈나 아이 - 애니버서리"
@@ -116155,7 +116379,7 @@
 		"id": "Collab044",
 		"names": {
 			"en": "Super Gamer Kizuna AI",
-			"code": "Super Gamer Kizuna AI",
+			"code": "Super Gamer Kizuna AI (cn:",
 			"cn": "绊爱·SuperGamer",
 			"jp": "キズナアイ・スーパーゲーマー",
 			"kr": "키즈나 아이 - 슈퍼 게이머"
@@ -116352,7 +116576,7 @@
 		"id": "Collab051",
 		"names": {
 			"en": "Shirakami Fubuki",
-			"code": "Shirakami Fubuki",
+			"code": "Shirakami Fubuki (cn:",
 			"cn": "白上吹雪",
 			"jp": "白上フブキ",
 			"kr": null
@@ -116563,7 +116787,7 @@
 		"id": "Collab052",
 		"names": {
 			"en": "Tokino Sora",
-			"code": "Tokino Sora",
+			"code": "Tokino Sora (cn:",
 			"cn": "时乃空",
 			"jp": "ときのそら",
 			"kr": null
@@ -116772,7 +116996,7 @@
 		"id": "Collab053",
 		"names": {
 			"en": "Minato Aqua",
-			"code": "Minato Aqua",
+			"code": "Minato Aqua (cn:",
 			"cn": "湊阿库娅",
 			"jp": "湊あくあ",
 			"kr": null
@@ -117192,7 +117416,7 @@
 		"id": "Collab054",
 		"names": {
 			"en": "Natsuiro Matsuri",
-			"code": "Natsuiro Matsuri",
+			"code": "Natsuiro Matsuri (cn:",
 			"cn": "夏色祭",
 			"jp": "夏色まつり",
 			"kr": null
@@ -117399,7 +117623,7 @@
 		"id": "Collab055",
 		"names": {
 			"en": "Nakiri Ayame",
-			"code": "Nakiri Ayame",
+			"code": "Nakiri Ayame (cn:",
 			"cn": "百鬼绫目",
 			"jp": "百鬼あやめ",
 			"kr": null
@@ -117605,7 +117829,7 @@
 		"id": "Collab056",
 		"names": {
 			"en": "Murasaki Shion",
-			"code": "Murasaki Shion",
+			"code": "Murasaki Shion (cn:",
 			"cn": "紫咲诗音",
 			"jp": "紫咲シオン",
 			"kr": null
@@ -117814,7 +118038,7 @@
 		"id": "Collab057",
 		"names": {
 			"en": "Ookami Mio",
-			"code": "Ookami Mio",
+			"code": "Ookami Mio (cn:",
 			"cn": "大神澪",
 			"jp": "大神ミオ",
 			"kr": null
@@ -118017,5 +118241,1193 @@
 			}
 		],
 		"gallery": []
+	},
+	"Plan013": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Champagne",
+		"id": "Plan013",
+		"names": {
+			"en": "Champagne",
+			"code": "FFNF Champagne",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": null,
+		"nationality": "Iris Libre",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f1/ChampagneIcon.png",
+		"rarity": "Priority",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "6896",
+				"armor": "Medium",
+				"reload": "181",
+				"luck": "0",
+				"firepower": "454",
+				"torpedo": "0",
+				"evasion": "36",
+				"speed": "32",
+				"antiair": "241",
+				"aviation": "0",
+				"oilConsumption": "16",
+				"accuracy": "77",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6049",
+				"armor": "Medium",
+				"reload": "157",
+				"luck": "0",
+				"firepower": "412",
+				"torpedo": "0",
+				"evasion": "25",
+				"speed": "32",
+				"antiair": "210",
+				"aviation": "0",
+				"oilConsumption": "16",
+				"accuracy": "68",
+				"antisubmarineWarfare": "0"
+			},
+			"baseStats": {
+				"health": "1170",
+				"armor": "Medium",
+				"reload": "66",
+				"luck": "0",
+				"firepower": "88",
+				"torpedo": "0",
+				"evasion": "10",
+				"speed": "32",
+				"antiair": "45",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "26",
+				"antisubmarineWarfare": ""
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "BB Guns",
+				"minEfficiency": 140,
+				"maxEfficiency": 180
+			},
+			"2": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 200,
+				"maxEfficiency": 200
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 80
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/a/af/Skill_19350.png",
+				"names": {
+					"en": "Augmenting Mechanism: Setzer Principle",
+					"cn": "辅助机构「S.P.」",
+					"jp": null
+				},
+				"description": "Decreases the loading time of this ship's Main Guns by 20% (40.0%) and fires an additional LV.1 (LV.10) barrage along with its primary Salvoes. Every 20s: fires a LV.1 (LV.10) special barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/a/af/Skill_19360.png",
+				"names": {
+					"en": "Substitute Mechanism: Holy Thurible",
+					"cn": "代行机构「E.E.」",
+					"jp": null
+				},
+				"description": "When this ship uses a Main Gun that fires HE ammo: increases its FP by 1% (5.0%), AA by 5% (15.0%), and increases its HE DMG modifier against enemies with Heavy armor by 5% (15.0%); when using one that fires AP: increase this ship's FP by 1% (5.0%), RLD by 5% (15.0%), and increase its Main Gun Crit Rate by 5% (20.0%). While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does nothing if this ship is the Flagship); when this ship's HP falls below 75.0% increase this ship's EVA and Accuracy by 5% (15.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_19000.png",
+				"names": {
+					"en": "Siren Killer",
+					"cn": "塞壬之敌",
+					"jp": null
+				},
+				"description": "Increase this ship's DMG to Sirens by 5.0% (15%).",
+				"color": "pink"
+			}
+		],
+		"devLevels": {
+			"5": [
+				{
+					"health": "+285",
+					"antiair": "+11"
+				},
+				"Main Gun Efficiency +5%",
+				"Pre-Loaded Main Gun +1"
+			],
+			"10": [
+				"Gains Siren Killer I",
+				"Stars increase to ★★★★☆☆"
+			],
+			"15": [
+				{
+					"health": "+571",
+					"antiair": "+22"
+				},
+				"Anti-Air Efficiency +10%"
+			],
+			"20": [
+				"Upgrades Siren Killer I→II",
+				"Stars increase to ★★★★★☆"
+			],
+			"25": [
+				{
+					"health": "+856",
+					"antiair": "+33"
+				},
+				"Main Gun Efficiency +5%"
+			],
+			"30": [
+				"Upgrades Siren Killer II→III",
+				"Stars increase to ★★★★★★"
+			]
+		},
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Accuracy",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 48,
+				"maxLimitBreak": 96,
+				"maxLevel": 72,
+				"total": 216
+			}
+		},
+		"construction": {
+			"constructionTime": "Research",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": "nineo",
+			"web": {
+				"name": "退堂鼓手nineo",
+				"url": "https://www.weibo.com/p/1005051869856223"
+			},
+			"pixiv": {
+				"name": "nineo",
+				"url": "https://www.pixiv.net/member.php?id=2827978"
+			},
+			"twitter": {
+				"name": "nineeeeeo",
+				"url": "https://twitter.com/nineeeeeeeeo"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/05/Champagne.png/820px-Champagne.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/d/d6/ChampagneChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Mainz, Odin, Champagne, Cheshire, Drake",
+				"url": "https://azurlane.koumakan.jp/w/images/5/52/Bg_2020.07.09_1.png"
+			}
+		]
+	},
+	"Plan014": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Mainz",
+		"id": "Plan014",
+		"names": {
+			"en": "Mainz",
+			"code": "KMS Mainz",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": "Mainz",
+		"nationality": "Ironblood",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2d/MainzIcon.png",
+		"rarity": "Priority",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "5262",
+				"armor": "Medium",
+				"reload": "182",
+				"luck": "0",
+				"firepower": "168",
+				"torpedo": "193",
+				"evasion": "75",
+				"speed": "25",
+				"antiair": "354",
+				"aviation": "0",
+				"oilConsumption": "",
+				"accuracy": "128",
+				"antisubmarineWarfare": "120"
+			},
+			"level100": {
+				"health": "4784",
+				"armor": "Medium",
+				"reload": "159",
+				"luck": "0",
+				"firepower": "146",
+				"torpedo": "168",
+				"evasion": "39",
+				"speed": "25",
+				"antiair": "314",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "114",
+				"antisubmarineWarfare": "106"
+			},
+			"baseStats": {
+				"health": "925",
+				"armor": "Medium",
+				"reload": "67",
+				"luck": "0",
+				"firepower": "31",
+				"torpedo": "36",
+				"evasion": "15",
+				"speed": "25",
+				"antiair": "67",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "44",
+				"antisubmarineWarfare": "36"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 100,
+				"maxEfficiency": 110
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/ba/Skill_19310.png",
+				"names": {
+					"en": "Retaliatory Shield",
+					"cn": "反击之盾",
+					"jp": null
+				},
+				"description": "Every 15s: deploys a shield in front of this ship that lasts 8s and can block up to 6 enemy shells; if this shield is destroyed within the allotted time: fires a barrage and increases this ship's FP and Accuracy by 3.5% (8.0%) until the end of the battle. This buff can be stacked twice.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/4/47/Skill_19320.png",
+				"names": {
+					"en": "Ausgewogen",
+					"cn": "「Ausgewogen」",
+					"jp": null
+				},
+				"description": "At the start of the battle, if this ship is in the frontmost position of your Vanguard: increase this ships Speed by 5 and EVA by 4.5% (12.0%) until the end of the battle, and decreases its DMG taken by 5% (15.0%) for 30s: if NOT in the frontmost position: increases this ship's Crit DMG by 15% (25.0%) and, every 15s: has a 40% (70.0%) chance to fire a special barrage (DMG is based on skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_19000.png",
+				"names": {
+					"en": "Siren Killer",
+					"cn": "塞壬之敌",
+					"jp": null
+				},
+				"description": "Increases this ship's DMG to Sirens by 5% (15%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/8/80/Skill_29570.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Acitvates All Out Assault I (II): Mainz once every 15 (10) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"devLevels": {
+			"5": [
+				{
+					"health": "+226",
+					"antiair": "+17"
+				},
+				"",
+				"Main Gun Mount +1"
+			],
+			"10": [
+				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"Stars increase to ★★★★☆☆"
+			],
+			"15": [
+				{
+					"health": "+451",
+					"antiair": "+33"
+				},
+				"",
+				"Main Gun Efficiency +10%",
+				"Pre-Loaded Torpedo +1",
+				""
+			],
+			"20": [
+				"Upgrades Siren Killer I→II",
+				"Stars increase to ★★★★★☆"
+			],
+			"25": [
+				{
+					"health": "+677",
+					"antiair": "+49"
+				},
+				""
+			],
+			"30": [
+				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
+				"Stars increase to ★★★★★★"
+			]
+		},
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Health",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 30,
+				"maxLimitBreak": 60,
+				"maxLevel": 45,
+				"total": 135
+			}
+		},
+		"construction": {
+			"constructionTime": "Research",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": "Liduke(日子)",
+			"web": {
+				"name": "麻痹的小日子",
+				"url": "https://weibo.com/liduke"
+			},
+			"pixiv": {
+				"name": "Liduke(日子)",
+				"url": "https://www.pixiv.net/member.php?id=38088"
+			},
+			"twitter": {
+				"name": "liduke(日子)",
+				"url": "https://twitter.com/lidukelaya"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/de/Mainz.png/670px-Mainz.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3f/MainzChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Mainz, Odin, Champagne, Cheshire, Drake",
+				"url": "https://azurlane.koumakan.jp/w/images/5/52/Bg_2020.07.09_1.png"
+			}
+		]
+	},
+	"Plan015": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Cheshire",
+		"id": "Plan015",
+		"names": {
+			"en": "Cheshire",
+			"code": "HMS Cheshire",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": null,
+		"nationality": "Royal Navy",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/3b/CheshireIcon.png",
+		"rarity": "Priority",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "5141",
+				"armor": "Medium",
+				"reload": "156",
+				"luck": "0",
+				"firepower": "282",
+				"torpedo": "208",
+				"evasion": "76",
+				"speed": "27",
+				"antiair": "409",
+				"aviation": "0",
+				"oilConsumption": "13",
+				"accuracy": "130",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "4590",
+				"armor": "Medium",
+				"reload": "136",
+				"luck": "0",
+				"firepower": "247",
+				"torpedo": "181",
+				"evasion": "32",
+				"speed": "27",
+				"antiair": "368",
+				"aviation": "0",
+				"oilConsumption": "13",
+				"accuracy": "111",
+				"antisubmarineWarfare": "0"
+			},
+			"baseStats": {
+				"health": "888",
+				"armor": "Medium",
+				"reload": "57",
+				"luck": "0",
+				"firepower": "53",
+				"torpedo": "39",
+				"evasion": "6",
+				"speed": "27",
+				"antiair": "79",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "43",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CA Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 140
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 150,
+				"maxEfficiency": 155
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 150,
+				"maxEfficiency": 165
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/2/25/Skill_19280.png",
+				"names": {
+					"en": "Grin and Fire!",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Decrease this ship's DMG taken by 5% (15.0%). Every 12s after the start of the battle: 50% (100%) chance to fire a special barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/05/Skill_19270.png",
+				"names": {
+					"en": "Bounce Right Back",
+					"cn": "柴郡PowerUp！",
+					"jp": null
+				},
+				"description": "Decrease the loading time of this ship's first wave of torpedoes by 40% (70.0%). When this ship takes DMG: 15.0% chance to increase this ship's FP, EVA, and AA by 1% (5.0%) until the end of the battle. Can be stacked up to 3 times.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_19000.png",
+				"names": {
+					"en": "Siren Killer",
+					"cn": "塞壬之敌",
+					"jp": null
+				},
+				"description": "Increase this ship's DMG to Sirens by 5.0% (15%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/6/68/Skill_29550.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Activates All Out Assault I (II): Cheshire once every 9 (6) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"devLevels": {
+			"5": [
+				{
+					"health": "+217",
+					"antiair": "+19",
+					"evasion": "+5"
+				},
+				"",
+				"Anti-Air Gun Mount +1"
+			],
+			"10": [
+				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"Stars increase to ★★★★☆☆"
+			],
+			"15": [
+				{
+					"health": "+433",
+					"antiair": "+39"
+				},
+				"",
+				"Main Gun Efficiency +10%",
+				"",
+				"Pre-Loaded Torpedo +1"
+			],
+			"20": [
+				"Upgrades Siren Killer I→II",
+				"Stars increase to ★★★★★☆"
+			],
+			"25": [
+				{
+					"health": "+649",
+					"antiair": "+58",
+					"evasion": "+10"
+				}
+			],
+			"30": [
+				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
+				"Stars increase to ★★★★★★"
+			]
+		},
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Anti-air",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 17,
+				"maxLimitBreak": 35,
+				"maxLevel": 26,
+				"total": 78
+			}
+		},
+		"construction": {
+			"constructionTime": "Research",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"web": {
+				"name": "全班最菜嘤嘤嘤",
+				"url": "https://weibo.com/u/7477949468"
+			},
+			"pixiv": null,
+			"twitter": {
+				"name": "zelda10010",
+				"url": "https://twitter.com/zelda10010"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/28/Cheshire.png/702px-Cheshire.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/2e/CheshireChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Mainz, Odin, Champagne, Cheshire, Drake",
+				"url": "https://azurlane.koumakan.jp/w/images/5/52/Bg_2020.07.09_1.png"
+			}
+		]
+	},
+	"Plan016": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Drake",
+		"id": "Plan016",
+		"names": {
+			"en": "Drake",
+			"code": "HMS Drake",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": null,
+		"nationality": "Royal Navy",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/da/DrakeIcon.png",
+		"rarity": "Decisive",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "5668",
+				"armor": "Medium",
+				"reload": "139",
+				"luck": "0",
+				"firepower": "289",
+				"torpedo": "245",
+				"evasion": "75",
+				"speed": "26",
+				"antiair": "289",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "145",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "5016",
+				"armor": "Medium",
+				"reload": "120",
+				"luck": "0",
+				"firepower": "254",
+				"torpedo": "213",
+				"evasion": "31",
+				"speed": "26",
+				"antiair": "254",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "125",
+				"antisubmarineWarfare": "0"
+			},
+			"baseStats": {
+				"health": "970",
+				"armor": "Medium",
+				"reload": "51",
+				"luck": "0",
+				"firepower": "54",
+				"torpedo": "46",
+				"evasion": "6",
+				"speed": "26",
+				"antiair": "54",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "48",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CA Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 110,
+				"maxEfficiency": 120
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 125,
+				"maxEfficiency": 125
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/3d/Skill_19290.png",
+				"names": {
+					"en": "The Fearless Privateer",
+					"cn": "勇斗的Privateer",
+					"jp": null
+				},
+				"description": "Increase this ship's built-in Secondary Gun Crit Rate by 20% (50.0%) and gives a Lv.1 (Lv.10) ammo buff to it. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to special HE (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/5/59/Skill_19300.png",
+				"names": {
+					"en": "Flintlock Burst",
+					"cn": "断罪之炎",
+					"jp": null
+				},
+				"description": "Every 30s (20s): fires a special barrage that heals this ship for 15.0% of the DMG dealt (barrage DMG is based on the skill's level). When this ship sinks an enemy: increase this ship's FP and RLD by 1% (5.0%) until the end of the battle. Can be stacked up to 3 times.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_19000.png",
+				"names": {
+					"en": "Siren Killer",
+					"cn": "塞壬之敌",
+					"jp": null
+				},
+				"description": "Increase this ship's DMG to Sirens by 5.0% (15.0%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/7/7a/Skill_29560.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Activates All Out Assault I (II): Drake once every 12 (8) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"devLevels": {
+			"5": [
+				{
+					"health": "+237",
+					"antiair": "+13",
+					"evasion": "+5"
+				},
+				"",
+				"Main Gun Mount +1"
+			],
+			"10": [
+				"Gains Full Barrage I",
+				"Gains Siren Killer I",
+				"Stars increase to ★★★★☆☆"
+			],
+			"15": [
+				{
+					"health": "+473",
+					"antiair": "+27"
+				},
+				"",
+				"Main Gun Efficiency +10%",
+				"",
+				"Pre-Loaded Torpedo +1"
+			],
+			"20": [
+				"Upgrades Siren Killer I→II",
+				"Stars increase to ★★★★★☆"
+			],
+			"25": [
+				{
+					"health": "+710",
+					"antiair": "+40",
+					"evasion": "+10"
+				},
+				""
+			],
+			"30": [
+				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
+				"Stars increase to ★★★★★★"
+			]
+		},
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 24,
+				"maxLimitBreak": 48,
+				"maxLevel": 36,
+				"total": 108
+			}
+		},
+		"construction": {
+			"constructionTime": "Research",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"web": null,
+			"pixiv": null,
+			"twitter": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/da/Drake.png/733px-Drake.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/93/DrakeChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Mainz, Odin, Champagne, Cheshire, Drake",
+				"url": "https://azurlane.koumakan.jp/w/images/5/52/Bg_2020.07.09_1.png"
+			}
+		]
+	},
+	"Plan017": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Odin",
+		"id": "Plan017",
+		"names": {
+			"en": "Odin",
+			"code": "KMS Odin",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"class": null,
+		"nationality": "Ironblood",
+		"hullType": "Battlecruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5e/OdinIcon.png",
+		"rarity": "Priority",
+		"stars": {
+			"stars": "★★★☆☆☆",
+			"value": 3
+		},
+		"stats": {
+			"level120": {
+				"health": "7126",
+				"armor": "Heavy",
+				"reload": "171",
+				"luck": "0",
+				"firepower": "361",
+				"torpedo": "241",
+				"evasion": "36",
+				"speed": "30",
+				"antiair": "337",
+				"aviation": "0",
+				"oilConsumption": "16",
+				"accuracy": "62",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6133",
+				"armor": "Heavy",
+				"reload": "149",
+				"luck": "0",
+				"firepower": "321",
+				"torpedo": "210",
+				"evasion": "21",
+				"speed": "30",
+				"antiair": "299",
+				"aviation": "0",
+				"oilConsumption": "16",
+				"accuracy": "52",
+				"antisubmarineWarfare": ""
+			},
+			"baseStats": {
+				"health": "1186",
+				"armor": "Heavy",
+				"reload": "63",
+				"luck": "0",
+				"firepower": "69",
+				"torpedo": "45",
+				"evasion": "8",
+				"speed": "30",
+				"antiair": "64",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "20",
+				"antisubmarineWarfare": ""
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "BB Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 140
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 200,
+				"maxEfficiency": 200
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/35/Skill_19330.png",
+				"names": {
+					"en": "Mímir's Keen Eye",
+					"cn": "求知之贤眼",
+					"jp": null
+				},
+				"description": "Changes this ship's position and decrease its DMG taken by 5% (20.0%). Every 15s: commences a sonar scan, revealing the locations of all enemy Submarines for 5s (10s) and decreasing your Vanguard's DMG taken from torpedoes by 5% (15.0%) for 5s (10s).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/c/c7/Skill_19340.png",
+				"names": {
+					"en": "Herteitr's Rolling Thunder",
+					"cn": "贯穿之轰雷",
+					"jp": null
+				},
+				"description": "Every 18s: 45% (75.0%) chance to fire a special barrage (DMG is based on the skill's level). Changes the Spread Angle of this ship's torpedoes.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b9/Skill_19000.png",
+				"names": {
+					"en": "Siren Killer",
+					"cn": "塞壬之敌",
+					"jp": null
+				},
+				"description": "Increases this ship's DMG to Sirens by 5.0% (15%).",
+				"color": "pink"
+			}
+		],
+		"devLevels": {
+			"5": [
+				{
+					"health": "+289",
+					"antiair": "+16"
+				},
+				"",
+				"Main Gun Efficiency +5%"
+			],
+			"10": [
+				"Gains Siren Killer I",
+				"",
+				"Main Gun Mount +1",
+				"",
+				"Gains Special Secondary Gun Mounts",
+				"Stars increase to ★★★★☆☆"
+			],
+			"15": [
+				{
+					"health": "+579",
+					"antiair": "+31"
+				},
+				"",
+				"Anti-Air Gun Efficiency +10%"
+			],
+			"20": [
+				"Upgrades Siren Killer I→II",
+				"Main Gun Efficiency +15%",
+				"Stars increase to ★★★★★☆"
+			],
+			"25": [
+				{
+					"health": "+868",
+					"antiair": "+47"
+				},
+				"",
+				"Main Gun Efficiency +5%"
+			],
+			"30": [
+				"Upgrades Full Barrage I→II",
+				"Upgrades Siren Killer II→III",
+				"Main Gun Mount +1",
+				"",
+				"Main Gun Efficiency +15%",
+				"Stars increase to ★★★★★★"
+			]
+		},
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Health",
+					"bonus": "+2"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"stat": "Accuracy",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 48,
+				"maxLimitBreak": 96,
+				"maxLevel": 72,
+				"total": 216
+			}
+		},
+		"construction": {
+			"constructionTime": "Research",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": "RAN",
+			"web": {
+				"name": "不可燃物",
+				"url": "https://weibo.com/u/2235541213"
+			},
+			"pixiv": {
+				"name": "RAN",
+				"url": "https://www.pixiv.net/member.php?id=2957827"
+			},
+			"twitter": {
+				"name": "不可燃物",
+				"url": "https://twitter.com/bukeranwu"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/58/Odin.png/629px-Odin.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/OdinChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Mainz, Odin, Champagne, Cheshire, Drake",
+				"url": "https://azurlane.koumakan.jp/w/images/5/52/Bg_2020.07.09_1.png"
+			}
+		]
 	}
 }

@@ -325,7 +325,7 @@ async function publishMemoriesAndImages() {
 async function refreshShip(id, online) {
     if (!SHIPS_INTERNAL.hasOwnProperty(id) || online) { // Revive Program From Crush/Forced online fetch
         process.stdout.write("+");
-        return await fetchShip(SHIP_LIST[id].name, online);
+        return await fetchShip(id, SHIP_LIST[id].name, online);
     } else {
         process.stdout.write("-");
         return false;
@@ -352,8 +352,16 @@ async function fetchShipList(online) {
     else data = fs.readFileSync('./web/ships.index.html', 'utf8');
     new JSDOM(data).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr").forEach(table_ship => {
         let columns = table_ship.childNodes;
-        if (columns[0].tagName === "TD") LIST[columns[0].textContent] = {
-            id: columns[0].textContent,
+        let id = columns[0].textContent;
+        if (id === "Plan") {
+            let i = 13;
+            while (LIST[id + (i + "").padStart(3, "0")]) {
+                i++;
+            }
+            id = id + (i + "").padStart(3, "0");
+        }
+        if (columns[0].tagName === "TD") LIST[id] = {
+            id: id,
             name: columns[1].textContent,
             rarity: columns[2].textContent,
             type: columns[3].textContent,
@@ -363,17 +371,17 @@ async function fetchShipList(online) {
     return LIST;
 }
 
-async function fetchShip(name, online) {
+async function fetchShip(id, name, online) {
     let data;
     if (online) { // Fetch from the wiki directly
         data = await fetch("https://azurlane.koumakan.jp/" + encodeURIComponent(name) + "?useformat=desktop")
         fs.writeFileSync('./web/ships/' + name + '.html', data);
     } else {
-        if (!fs.existsSync('./web/ships/' + name + '.html')) return fetchShip(name, true); // Enforcing
+        if (!fs.existsSync('./web/ships/' + name + '.html')) return fetchShip(id, name, true); // Enforcing
         data = fs.readFileSync('./web/ships/' + name + '.html', 'utf8'); // Read from local cache
     }
     process.stdout.write(".");
-    let ship = parseShip(name, data);
+    let ship = parseShip(id, name, data);
     process.stdout.write("|");
     let gallery = await fetchGallery(name, online);
     ship.skins = gallery.skins;
@@ -410,22 +418,21 @@ async function fetchEquipment(href, name, category, online) {
 }
 
 // Parse ship page html body, need a name
-function parseShip(name, body) {
+function parseShip(id, name, body) {
     const doc = new JSDOM(body).window.document;
     let code;
     if (doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)")) {
         code = doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)").childNodes[0].textContent.trim();
-        code = code.substring(0, code.lastIndexOf(" "))
     } else code = doc.querySelector(".nomobile:nth-child(2) > div > div:nth-child(1)").textContent;
     let ship = {
         wikiUrl: "https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_"),
-        id: doc.querySelector('div:nth-child(4) > .wikitable:nth-child(1) tr:nth-child(1) > td').textContent.trim(),
+        id: id,
         names: {
             en: doc.querySelector('#firstHeading').textContent,
             code: code,
-            cn: doc.querySelector('[lang="zh"]') ? doc.querySelector('[lang="zh"]').textContent : null,
-            jp: doc.querySelector('[lang="ja"]') ? doc.querySelector('[lang="ja"]').textContent : null,
-            kr: doc.querySelector('[lang="ko"]') ? doc.querySelector('[lang="ko"]').textContent : null
+            cn: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="zh"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="zh"]').textContent : null,
+            jp: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ja"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ja"]').textContent : null,
+            kr: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ko"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ko"]').textContent : null
         },
         class: doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a") ? doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a").textContent : null,
         nationality: doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent,
