@@ -8,7 +8,7 @@ const azurlane = require("./index.js");
 // azurlane.refreshShipImages();
 // azurlane.refreshEQImages();
 // azurlane.publishShips();
-// azurlane.publishEQ();
+azurlane.publishEQ();
 // azurlane.refreshMemory();
 
 // voice.refreshVoiceLines();

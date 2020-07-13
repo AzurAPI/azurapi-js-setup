@@ -167,11 +167,6 @@
 						"value": "0",
 						"formatted": "0"
 					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
-					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "3",
@@ -248,11 +243,6 @@
 						"value": "5",
 						"formatted": "5"
 					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
-					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "3",
@@ -328,11 +318,6 @@
 						"type": "value",
 						"value": "12",
 						"formatted": "12"
-					},
-					"antiair": {
-						"type": "value",
-						"value": "0",
-						"formatted": "0"
 					},
 					"damage": {
 						"type": "min_max_multiplier",
@@ -1010,6 +995,11 @@
 						"value": "5",
 						"formatted": "5"
 					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "4",
@@ -1086,6 +1076,11 @@
 						"value": "12",
 						"formatted": "12"
 					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "4",
@@ -1161,6 +1156,11 @@
 						"type": "value",
 						"value": "25",
 						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
 					},
 					"damage": {
 						"type": "min_max_multiplier",
@@ -1974,6 +1974,287 @@
 			}
 		}
 	},
+	"Single 138.6mm (Mle 1927)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1927)",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Single 138.6mm Main Gun (Mle 1927)",
+			"cn": "138.6mm单装炮Mle1927",
+			"jp": "138.6mm単装砲Mle1927",
+			"kr": "138.6mm 단장포 Mle 1927"
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/b/b8/50700.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "secondary",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": "primary",
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Skybound Oratorio",
+			"notes": "Icon was previously used for the Single 138.6mm (Mle 1929).",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "6",
+						"multiplier": "4",
+						"formatted": "4 × 4 → 6 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.26s",
+						"max": "2.02s",
+						"per": "volley",
+						"formatted": "2.26s → 2.02s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "4",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "4 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "6",
+						"max": "14",
+						"multiplier": "4",
+						"formatted": "6 × 4 → 14 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.07s",
+						"max": "1.83s",
+						"per": "volley",
+						"formatted": "2.07s → 1.83s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "4",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "4 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "6",
+						"max": "19",
+						"multiplier": "4",
+						"formatted": "6 × 4 → 19 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.91s",
+						"max": "1.52s",
+						"per": "volley",
+						"formatted": "1.91s → 1.52s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "4",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "4 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Single 138.6mm (Mle 1929)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)",
 		"category": "Destroyer Guns",
@@ -2005,7 +2286,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Drop and event shop in Iris of the Light and Dark",
+			"obtainedFrom": "Drop in Iris of Light and Dark and Skybound Oratorio. Also in event shop during Iris of Light and Dark",
 			"notes": "Fires 5 projectiles in sequence towards the target.",
 			"animation": "https://azurlane.koumakan.jp/w/images/c/cb/Bullet_pattern_equip_90120.gif"
 		},
@@ -2081,8 +2362,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE",
-						"formatted": "HE"
+						"value": "Normal",
+						"formatted": "Normal"
 					},
 					"characteristic": {
 						"type": "value",
@@ -3379,6 +3660,125 @@
 			}
 		}
 	},
+	"Twin 114mm (QF Mk IV Prototype)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype)",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Twin 114mm DP (4.5\" MK IV)",
+			"cn": "双联装114mm高平两用炮MarkIVT0",
+			"jp": "114mm連装両用砲MarkIV",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/5/5d/21600.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "secondary",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": "primary",
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Acquired through research only.",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/3/37/Bullet_pattern_equip_21400.gif"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "20",
+						"formatted": "20"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "13",
+						"multiplier": "4",
+						"formatted": "4 × 4 → 13 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.25s",
+						"max": "1.01s",
+						"per": "volley",
+						"formatted": "1.25s → 1.01s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Twin 120mm (Model 1933)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_120mm_(Model_1933)",
 		"category": "Destroyer Guns",
@@ -3410,7 +3810,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Default equipment on Conte di Cavour, ET-A1",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/d/d2/Bullet_pattern_equip_95460.gif"
 		},
@@ -3529,7 +3929,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Empyreal Tragicomedy#B1 map drop",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/0/00/Bullet_pattern_equip_95400.gif"
 		},
@@ -4374,7 +4774,7 @@
 		"misc": {
 			"obtainedFrom": "6-4, 8-1, 10-1, 12-2, T3/T4 Sakura Tech Box",
 			"notes": "Fires 2 volleys with 2 projectiles each parallel towards the target.",
-			"animation": "https://azurlane.koumakan.jp/w/images/d/d8/Bullet_pattern_equip_32120.gif"
+			"animation": "https://azurlane.koumakan.jp/w/images/8/8b/Bullet_pattern_equip_31240.gif"
 		},
 		"tiers": {
 			"T1": {
@@ -5134,7 +5534,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Stock equipment on Le Temeraire.",
+			"obtainedFrom": "Stock equipment on Le Temeraire & L'Opiniâtre.",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/2/2f/Bullet_pattern_equip_90500.gif"
 		},
@@ -6665,6 +7065,125 @@
 			}
 		}
 	},
+	"Single 155mm (Mle 1920)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Single_155mm_(Mle_1920)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Single 155mm (Mle 1920)",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/d/d7/50800.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "\"Béarn\" only",
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Skybound Oratorio map dropStock equipment on Béarn",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "10",
+						"max": "19",
+						"multiplier": "4",
+						"formatted": "10 × 4 → 19 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "3.72s",
+						"max": "3.33s",
+						"per": "volley",
+						"formatted": "3.72s → 3.33s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "°",
+						"formatted": "15°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "4",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "4 × 1 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Triple 150mm (SK C/25)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_150mm_(SK_C/25)",
 		"category": "Light Cruiser Guns",
@@ -7889,7 +8408,7 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy and Béarn\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
 			"submarine": null,
@@ -9870,6 +10389,125 @@
 			}
 		}
 	},
+	"Twin 155mm (Mle 1920)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_155mm_(Mle_1920)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Twin 155mm (Mle 1920)",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/d/de/50780.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Skybound Oratorio map drop, Stock equipment on Jeanne d'Arc.",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/5/55/Bullet_pattern_equip_11200.gif"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "10",
+						"max": "19",
+						"multiplier": "4",
+						"formatted": "10 × 4 → 19 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "3.72s",
+						"max": "3.33s",
+						"per": "volley",
+						"formatted": "3.72s → 3.33s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 55,
+						"formatted": "Firing: 65\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.1",
+						"unit": "s",
+						"formatted": "0.1s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Triple 203mm (8\"/55 Mk 15)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_Mk_15)",
 		"category": "Heavy Cruiser Guns",
@@ -10670,6 +11308,125 @@
 			}
 		}
 	},
+	"Triple 234mm (BL 9.2\" Mk XII Prototype)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_234mm_(BL_9.2%22_Mk_XII_Prototype)",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"en": "Prototype Twin 234mm Main Gun (9.2\\\" MK XII)",
+			"cn": "试作型三联装234mm主炮T0",
+			"jp": "試作型234mm三連装砲",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/8/8f/23120.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Acquired through research only.",
+			"notes": "EN Equipment name is currently wrong in game.  Designs have the correct name.",
+			"animation": "https://azurlane.koumakan.jp/w/images/a/ac/Bullet_pattern_equip_23120.gif"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Ultra Rare",
+				"stars": {
+					"stars": "★★★★★★",
+					"value": 6
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "65",
+						"formatted": "65"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "35",
+						"max": "54",
+						"multiplier": "6",
+						"formatted": "35 × 6 → 54 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "10.51s",
+						"max": "7.85s",
+						"per": "volley",
+						"formatted": "10.51s → 7.85s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "22",
+						"unit": "°",
+						"formatted": "22°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.60",
+						"unit": "s",
+						"formatted": "0.60s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "115",
+						"unit": "%",
+						"formatted": "115%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "NormalDR",
+						"formatted": "NormalDR"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Triple 283mm (SK C/28)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)",
 		"category": "Heavy Cruiser Guns",
@@ -10725,10 +11482,11 @@
 						"formatted": "0"
 					},
 					"damage": {
-						"type": "min_max",
+						"type": "min_max_multiplier",
 						"min": "30",
 						"max": "36",
-						"formatted": "30  → 36"
+						"multiplier": "6",
+						"formatted": "30 × 6 → 36 × 6"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -10804,10 +11562,11 @@
 						"formatted": "0"
 					},
 					"damage": {
-						"type": "min_max",
+						"type": "min_max_multiplier",
 						"min": "32",
 						"max": "44",
-						"formatted": "32  → 44"
+						"multiplier": "6",
+						"formatted": "32 × 6 → 44 × 6"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -10883,10 +11642,11 @@
 						"formatted": "0"
 					},
 					"damage": {
-						"type": "min_max",
+						"type": "min_max_multiplier",
 						"min": "35",
 						"max": "55",
-						"formatted": "35  → 55"
+						"multiplier": "6",
+						"formatted": "35 × 6 → 55 × 6"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -11000,10 +11760,11 @@
 						"formatted": "0"
 					},
 					"damage": {
-						"type": "min_max",
+						"type": "min_max_multiplier",
 						"min": "36",
 						"max": "56",
-						"formatted": "36  → 56"
+						"multiplier": "6",
+						"formatted": "36 × 6 → 56 × 6"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -11024,9 +11785,10 @@
 						"formatted": "45°"
 					},
 					"range": {
-						"type": "value",
-						"value": "65",
-						"formatted": "65"
+						"type": "range",
+						"firing": 70,
+						"shell": 70,
+						"formatted": "Firing: 70\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -11797,10 +12559,11 @@
 						"formatted": "0"
 					},
 					"damage": {
-						"type": "min_max",
+						"type": "min_max_multiplier",
 						"min": "22",
 						"max": "34",
-						"formatted": "22  → 34"
+						"multiplier": "4",
+						"formatted": "22 × 4 → 34 × 4"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -11859,6 +12622,287 @@
 			}
 		}
 	},
+	"Twin 203mm (Mle 1924)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_203mm_(Mle_1924)",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"en": "Twin 203mm (Mle 1924)",
+			"cn": "双联装203mm主炮Mle1924",
+			"jp": "203mm連装砲Mle1924",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/1/10/50860.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Drop and event shop in Skybound Oratorio.",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "26",
+						"max": "38",
+						"multiplier": "4",
+						"formatted": "26 × 4 → 38 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.65s",
+						"max": "8.06s",
+						"per": "volley",
+						"formatted": "9.65s → 8.06s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "°",
+						"formatted": "15°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE*",
+						"formatted": "HE*"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "28",
+						"max": "48",
+						"multiplier": "4",
+						"formatted": "28 × 4 → 48 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.26s",
+						"max": "6.60s",
+						"per": "volley",
+						"formatted": "9.26s → 6.60s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "°",
+						"formatted": "15°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE*",
+						"formatted": "HE*"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			"T3": {
+				"tier": "T3",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "30",
+						"max": "52",
+						"multiplier": "4",
+						"formatted": "30 × 4 → 52 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "8.79s",
+						"max": "6.13s",
+						"per": "volley",
+						"formatted": "8.79s → 6.13s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "°",
+						"formatted": "15°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE*",
+						"formatted": "HE*"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Twin 203mm (Model 1924)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_203mm_(Model_1924)",
 		"category": "Heavy Cruiser Guns",
@@ -11890,8 +12934,8 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
-			"notes": "No notes",
+			"obtainedFrom": "Stock equipment on Trento",
+			"notes": "The in-game information suggests that it fires six shells;  however, actual play only shows two salvoes of two.",
 			"animation": null
 		},
 		"tiers": {
@@ -12009,7 +13053,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Empyreal Tragicomedy map drop",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/7/73/Bullet_pattern_equip_95240.gif"
 		},
@@ -12530,6 +13574,125 @@
 						"type": "value",
 						"value": "AP",
 						"formatted": "AP"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
+	"Twin 234mm (BL 9.2\" Mk XII Prototype)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_234mm_(BL_9.2%22_Mk_XII_Prototype)",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"en": "Prototype Twin 234mm Main Gun (9.2\\\" MK XII)",
+			"cn": "试作型双联装234mm主炮T0",
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/a/a5/23100.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Acquired through research only.",
+			"notes": "No notes",
+			"animation": "https://azurlane.koumakan.jp/w/images/8/86/Bullet_pattern_equip_23100.gif"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "35",
+						"max": "54",
+						"multiplier": "4",
+						"formatted": "35 × 4 → 54 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "8.83s",
+						"max": "6.17s",
+						"per": "volley",
+						"formatted": "8.83s → 6.17s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "18",
+						"unit": "°",
+						"formatted": "18°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.60",
+						"unit": "s",
+						"formatted": "0.60s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "115",
+						"unit": "%",
+						"formatted": "115%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "NormalPR",
+						"formatted": "NormalPR"
 					},
 					"characteristic": {
 						"type": "value",
@@ -13121,7 +14284,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Iris of the Light and the Dark event Pt. shop via blueprints",
+			"obtainedFrom": "Iris of the Light and the Dark event Pt. shop via blueprintsCrescendo of PolarisSkybound Oratorio event Pt. shop via blueprints",
 			"notes": "Fires 2 shells twice in quick succession. The second two shells are aimed at where the first two were.",
 			"animation": null
 		},
@@ -13195,8 +14358,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE",
-						"formatted": "HE"
+						"value": "Normal",
+						"formatted": "Normal"
 					},
 					"characteristic": {
 						"type": "value",
@@ -13676,8 +14839,8 @@
 			"animation": null
 		},
 		"tiers": {
-			"T0": {
-				"tier": "T0",
+			"T3": {
+				"tier": "T3",
 				"rarity": "Rare",
 				"stars": {
 					"stars": "★★★",
@@ -13758,6 +14921,123 @@
 			}
 		}
 	},
+	"Triple 305mm (SK C/39 Prototype)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)",
+		"category": "Battleship Guns",
+		"names": {
+			"en": "Prototype Triple 305mm Main Gun (SK C/39)",
+			"cn": "试作型三联装305mmSKC39主炮T0",
+			"jp": "試作型305mmSKC39三連装砲",
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"nationality": "Ironblood",
+		"image": "https://azurlane.koumakan.jp/w/images/a/a7/44300.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": "primary",
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Acquired through research only.",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "57",
+						"max": "105",
+						"multiplier": "3",
+						"formatted": "57 × 3 → 105 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "24.19s",
+						"max": "18.20s",
+						"per": "volley",
+						"formatted": "24.19s → 18.20s per volley"
+					},
+					"spread": {
+						"type": "value",
+						"value": "19",
+						"formatted": "19"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "value",
+						"value": "200",
+						"formatted": "200"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "100",
+						"unit": "%",
+						"formatted": "100%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "HE",
+						"formatted": "HE"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Bracketing",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		}
+	},
 	"Triple 320mm (Model 1934)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_320mm_(Model_1934)",
 		"category": "Battleship Guns",
@@ -13777,11 +15057,11 @@
 			"destroyer": null,
 			"lightCruiser": null,
 			"heavyCruiser": null,
-			"monitor": null,
+			"monitor": "primary",
 			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
-			"aviationBattleship": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
@@ -13789,7 +15069,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Stock equipment on Conte di Cavour class, Empyreal Tragicomedy map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -14286,7 +15566,7 @@
 			"destroyer": null,
 			"lightCruiser": null,
 			"heavyCruiser": null,
-			"monitor": null,
+			"monitor": "primary",
 			"largeCruiser": null,
 			"battleship": "primary",
 			"battlecruiser": "primary",
@@ -14298,8 +15578,8 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Available from the \"Empyreal Tragicomedy\" event point shop for 2000 Sardegna's Glory .",
-			"notes": "Increase Volley DMG of ship that equipped this gun by 10.0% and after firing 2 Volleys, the next Volley will have its reload increased by 30.0%. This effect will then reset.",
+			"obtainedFrom": "Available in \"Empyreal Tragicomedy\" event shop for 2000 .",
+			"notes": "\"Overheating\" skill:  Increase Volley DMG of ship that equipped this gun by 10.0% and after firing 2 Volleys, the next Volley will have its reload increased by 30.0%. This effect will then reset.",
 			"animation": null
 		},
 		"tiers": {
@@ -15280,6 +16560,123 @@
 						"type": "value",
 						"value": "Normal",
 						"formatted": "Normal"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Bracketing",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		}
+	},
+	"Triple 406mm (Mle 1938 Prototype)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_406mm_(Mle_1938_Prototype)",
+		"category": "Battleship Guns",
+		"names": {
+			"en": "Prototype Triple 406mm/50 Main Gun",
+			"cn": "试作型三联装406mm/50主炮T0",
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/2/2a/51000.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": "primary",
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Acquired through research only.",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "54",
+						"max": "150",
+						"multiplier": "3",
+						"formatted": "54 × 3 → 150 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "30.01s",
+						"max": "24.02s",
+						"per": "volley",
+						"formatted": "30.01s → 24.02s per volley"
+					},
+					"spread": {
+						"type": "value",
+						"value": "18",
+						"formatted": "18"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "value",
+						"value": "200",
+						"formatted": "200"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "AP^",
+						"formatted": "AP^"
 					},
 					"characteristic": {
 						"type": "value",
@@ -17164,7 +18561,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired for 2500  in Visitors Dyed in Red and its rerun event shop, afterwards research only.",
+			"obtainedFrom": "Acquired in Visitors Dyed in Red and its rerun event shop for 2500 , afterwards research only.",
 			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread.",
 			"animation": null
 		},
@@ -21487,6 +22884,85 @@
 							"count": "4",
 							"unit": "7.7mm MG T3",
 							"formatted": "4 x 7.7mm MG T3"
+						}
+					]
+				}
+			}
+		}
+	},
+	"Gourdou-Leseurre GL.2": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Gourdou-Leseurre_GL.2",
+		"category": "Fighter Planes",
+		"names": {
+			"en": "Gourdou-Leseurre GL.2 Fighter",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Aviation",
+			"name": "Fighter"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/b/bb/50820.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Skybound Oratorio dropStock equipment on Béarn",
+			"notes": "2 x 7.7mm MG GL.2 T0 is equivalent to 2 x 7.7mm MG T2",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"damage": {
+						"type": "min_max",
+						"min": "9",
+						"max": "17",
+						"formatted": "9  → 17"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "12.32s",
+						"max": "11.44s",
+						"per": "wave",
+						"formatted": "12.32s → 11.44s per wave"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"value": "8.5",
+						"formatted": "8.5"
+					},
+					"aAGuns": [
+						{
+							"type": "count_unit",
+							"count": "2",
+							"unit": "7.7mm MG GL.2 T0",
+							"formatted": "2 x 7.7mm MG GL.2 T0"
 						}
 					]
 				}
@@ -27276,7 +28752,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8)",
 		"category": "Torpedo Bomber Planes",
 		"names": {
-			"en": "TBD蹂躏者(VT-8中队)",
+			"en": "TBD Devastator (VT-8 Squadron)",
 			"cn": "TBD蹂躏者(VT-8中队)",
 			"jp": "TBD蹂躏者(VT-8中队)",
 			"kr": "TBD蹂躏者(VT-8中队)"
@@ -27413,7 +28889,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Available from the \"Empyreal Tragicomedy\" event point shop for 1000 Sardegna's Glory .",
+			"obtainedFrom": "Available from \"Empyreal Tragicomedy\" event shop for 1000 .",
 			"notes": "Activates Formidable's Supporting Wings skill.",
 			"animation": null
 		},
@@ -28502,6 +29978,100 @@
 							"count": "3",
 							"unit": "Aerial Torpedo T3",
 							"formatted": "3 x Aerial Torpedo T3"
+						}
+					]
+				}
+			}
+		}
+	},
+	"Levasseur PL.7": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Levasseur_PL.7",
+		"category": "Torpedo Bomber Planes",
+		"names": {
+			"en": "Pierre Levasseur PL.7 Torpedo Bomber",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Aviation",
+			"name": "Torpedo Bomber"
+		},
+		"nationality": "Iris Libre",
+		"image": "https://azurlane.koumakan.jp/w/images/e/e2/50840.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Skybound Oratorio dropStock equipment on Béarn",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "72",
+						"max": "144",
+						"multiplier": "3",
+						"formatted": "72 × 3 → 144 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "15.90s",
+						"max": "14.70s",
+						"per": "wave",
+						"formatted": "15.90s → 14.70s per wave"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "3",
+						"unit": "torpedoes",
+						"formatted": "3 torpedoes"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"value": "3.5",
+						"formatted": "3.5"
+					},
+					"aAGuns": [
+						{
+							"type": "count_unit",
+							"count": "2",
+							"unit": "7.7mm MG GL.2 T0",
+							"formatted": "2 x 7.7mm MG GL.2 T0"
+						}
+					],
+					"ordnance": [
+						{
+							"type": "count_unit",
+							"count": "3",
+							"unit": "Torpedo-Iris",
+							"formatted": "3 x Torpedo-Iris"
 						}
 					]
 				}
@@ -31432,6 +33002,88 @@
 			}
 		}
 	},
+	"Sextuple 40mm Bofors": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Sextuple_40mm_Bofors",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "Sextuple 40mm Bofors",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/4/4d/26660.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Acquired through research only.",
+			"notes": "No notes",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"damage": {
+						"type": "min_max",
+						"min": "42",
+						"max": "150",
+						"formatted": "42  → 150"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.43s",
+						"max": "1.17s",
+						"per": "volley",
+						"formatted": "1.43s → 1.17s per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"value": "28",
+						"formatted": "28"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			}
+		}
+	},
 	"Single 37mm (70-K)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Single_37mm_(70-K)",
 		"category": "Anti-Air Guns",
@@ -31510,6 +33162,11 @@
 					"value": 3
 				},
 				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
 					"damage": {
 						"type": "min_max",
 						"min": "11",
@@ -31544,6 +33201,11 @@
 					"value": 4
 				},
 				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
 					"damage": {
 						"type": "min_max",
 						"min": "14",
@@ -31588,17 +33250,17 @@
 		"nationality": "Sardegna Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/f/fd/55100.png",
 		"fits": {
-			"destroyer": null,
-			"lightCruiser": null,
-			"heavyCruiser": null,
-			"monitor": null,
-			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
-			"aviationBattleship": null,
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
-			"repairShip": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -31956,6 +33618,11 @@
 					"value": 3
 				},
 				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
 					"damage": {
 						"type": "min_max",
 						"min": "36",
@@ -31990,6 +33657,11 @@
 					"value": 4
 				},
 				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
 					"damage": {
 						"type": "min_max",
 						"min": "43",
@@ -32096,6 +33768,11 @@
 					"value": 3
 				},
 				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
 					"damage": {
 						"type": "min_max",
 						"min": "33",
@@ -32130,6 +33807,11 @@
 					"value": 4
 				},
 				"stats": {
+					"antiair": {
+						"type": "value",
+						"value": "25",
+						"formatted": "25"
+					},
 					"damage": {
 						"type": "min_max",
 						"min": "38",
@@ -33175,7 +34857,7 @@
 			"name": "AA Gun"
 		},
 		"nationality": "Sakura Empire",
-		"image": "https://azurlane.koumakan.jp/w/images/6/6c/36000.png",
+		"image": "https://azurlane.koumakan.jp/w/images/e/ef/36200.png",
 		"fits": {
 			"destroyer": "primary",
 			"lightCruiser": "primary",
@@ -33347,22 +35029,22 @@
 		"nationality": "Sardegna Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/8/81/55500.png",
 		"fits": {
-			"destroyer": null,
-			"lightCruiser": null,
-			"heavyCruiser": null,
-			"monitor": null,
-			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
-			"aviationBattleship": null,
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
-			"repairShip": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Unknown",
+			"obtainedFrom": "Empyreal Tragicomedy map drop",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -35462,7 +37144,7 @@
 			"submarineCarrier": "primary"
 		},
 		"misc": {
-			"obtainedFrom": "3-1, 9-2, 10-4, Any T3/4 Tech box",
+			"obtainedFrom": "3-1, 9-2, 10-4, Encircling Graf Spee map drop, Any T3/T4 Tech box",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -35803,9 +37485,9 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/High_Performance_Fire_Control_Radar",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "High Performance Fire Control Radar",
-			"cn": null,
-			"jp": null,
+			"en": "High Standard Fire-Control Radar",
+			"cn": "高性能火控雷达",
+			"jp": "高性能火器管制レーダー",
 			"kr": null
 		},
 		"type": {
@@ -35830,7 +37512,7 @@
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Fallen Wings points gacha reward",
+			"obtainedFrom": "Research (Series 3), Fallen Wings points gacha reward",
 			"notes": "Reduces cooldown of first shelling by 15%.",
 			"animation": null
 		},
@@ -36048,7 +37730,7 @@
 			"submarineCarrier": "primary"
 		},
 		"misc": {
-			"obtainedFrom": "5-1, 9-1, Any T3/4 Tech box",
+			"obtainedFrom": "5-1, 9-1, Any T3/T4 Tech box",
 			"notes": "No notes",
 			"animation": null
 		},
@@ -36288,9 +37970,65 @@
 			}
 		}
 	},
-	"Intel Report-Arctic Stronghold (page does not exist)": {
-		"wikiUrl": "https://azurlane.koumakan.jp/w/index.php?title=Intel_Report-Arctic_Stronghold&action=edit&redlink=1",
-		"category": "Auxiliary Equipment"
+	"Intel Report - Arctic Stronghold": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Intel_Report_-_Arctic_Stronghold",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Intel Report - Arctic Stronghold",
+			"cn": "机密文件·极地海峡",
+			"jp": "情報レポート・北極要塞",
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/6/6e/780.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "\"Decryption\" event in Northern Overture",
+			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies.",
+			"animation": null
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"health": {
+						"type": "min_max",
+						"min": "100",
+						"max": "180",
+						"formatted": "100 → 180"
+					},
+					"firepower": {
+						"type": "min_max",
+						"min": "10",
+						"max": "20",
+						"formatted": "10 → 20"
+					}
+				}
+			}
+		}
 	},
 	"Intelligence Chip": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Intelligence_Chip",
@@ -37380,7 +39118,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Increases shelling critical chance by 8%.",
+			"notes": "Increases main gun critical chance by 8%.",
 			"animation": null
 		},
 		"tiers": {
@@ -37494,7 +39232,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Increases shelling critical damage by 25%.",
+			"notes": "Increases main gun critical damage by 25%.",
 			"animation": null
 		},
 		"tiers": {
@@ -37554,7 +39292,7 @@
 		},
 		"misc": {
 			"obtainedFrom": "T3/T4 Sakura Tech Box",
-			"notes": "Increases shelling critical damage by 15%.",
+			"notes": "Increases main gun critical damage by 15%.",
 			"animation": null
 		},
 		"tiers": {
