@@ -421,15 +421,18 @@ async function fetchEquipment(href, name, category, online) {
 function parseShip(id, name, body) {
     const doc = new JSDOM(body).window.document;
     let code;
-    if (doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)")) {
-        code = doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)").childNodes[0].textContent.trim();
+    let bar = doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)");
+    if (bar) {
+        let a = bar.querySelector("a");
+        if (a) code = bar.childNodes[0].textContent + a.textContent;
+        else code = bar.childNodes[0].textContent.trim();
     } else code = doc.querySelector(".nomobile:nth-child(2) > div > div:nth-child(1)").textContent;
     let ship = {
         wikiUrl: "https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_"),
         id: id,
         names: {
             en: doc.querySelector('#firstHeading').textContent,
-            code: code,
+            code: code.replace(' (cn:', ''),
             cn: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="zh"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="zh"]').textContent : null,
             jp: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ja"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ja"]').textContent : null,
             kr: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ko"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ko"]').textContent : null
