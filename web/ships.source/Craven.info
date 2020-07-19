@@ -1,0 +1,125 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 008
+ | CNName = 克雷文
+ | JPName = クレイヴン
+ | KRName = 크레이븐
+ | Rarity = Normal
+ | Nationality = Eagle Union
+ | ConstructTime = 00:25:00
+ | Type = Destroyer
+ | Class = Gridley
+
+ | Artist = 麻酱
+ | ArtistLink = [http://weibo.com/u/3032064021 神北小毬_]
+ | ArtistPixiv = [https://www.pixiv.net/member.php?id=1480584 神北小毬]
+ | ArtistTwitter = [https://twitter.com/shenbeixiaoqiu 仮面ライダーコマリ]
+ | VA = [[:wikipedia:Ayano_Niina|Ayano Niina]]
+
+<!------------- S3: Stats ------------->
+ | Luck = 72
+ | Armor = Light
+ | Speed = 46
+
+ | HealthInitial = 286
+ | FireInitial = 13
+ | AAInitial = 32
+ | TorpInitial = 82
+ | AirInitial = 0
+ | ReloadInitial = 72
+ | EvadeInitial = 60
+ | ConsumptionInitial = 1
+ | ASWInitial = 47
+ | AccInitial = 71
+
+ | HealthMax = 1479
+ | FireMax = 62
+ | AAMax = 149
+ | TorpMax = 387
+ | AirMax = 0
+ | ReloadMax = 171
+ | EvadeMax = 157
+ | ConsumptionMax = 7
+ | ASWMax = 173
+ | AccMax = 184
+
+ | Health120 = 1774
+ | Fire120 = 72
+ | AA120 = 171
+ | Torp120 = 429
+ | Air120 = 0
+ | Reload120 = 196
+ | Evade120 = 163
+ | Consumption120 = 7
+ | ASW120 = 192
+ | Acc120 = 194
+
+<!------------- S4: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 110%
+ | Eq1EffInitMax = 115%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 115%
+ | Eq2EffInitMax = 135%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 125%
+
+<!------------- S5: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = Health
+ | StatBonus120 = 1
+
+ | TechPointCollect = 3
+ | TechPointMLB = 6
+ | TechPoint120 = 4
+
+ | ReinforcementValue = 4 {{Firepower}} 27 {{Torpedo}} 0 {{Aviation}} 14 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 0 {{Medal}}
+
+<!------------- S6: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / Torpedo Efficiency +5%
+ | LB2 = Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Torpedo Efficiency +10%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Offense
+ | Skill1 = Double Torpedo
+ | Skill1CN = 鱼雷连射
+ | Skill1JP = 次発装填
+ | Skill1Desc = When launching a wave of torpedoes: 15% (30%) chance to launch another wave.
+ | Skill1Icon = 2050
+
+ | Type2 = Offense
+ | Skill2 = All Out Assault
+ | Skill2CN = 全弹发射
+ | Skill2JP = 全弾発射-グリッドレイ級
+ | Skill2Desc = Every 15 (10) times the main gun is fired, trigger Full Barrage - Gridley Class I (II).
+ | Skill2Icon = 20000
+
+<!------------- S7: Drops ------------->
+ | DLight = 1
+ | D1-1 = 1
+ | D1-2 = 1
+ | D1-3 = 1
+ | D1-4 = 1
+ | D2-1 = 1
+ | D2-2 = 1
+ | D2-4 = 1
+ | D3-1 = 1
+ | D3-2 = 1
+ | D4-4 = 1
+ | D6-3 = 1
+ | D7-3 = 1
+ | D8-1 = 1
+ | D8-2 = 1
+ | D8-3 = 1
+ | D8-4 = 1
+ | D11-1 = 1
+ | D11-2 = 1
+ | D11-3 = 1
+ | D11-4 = 1
+
+}}

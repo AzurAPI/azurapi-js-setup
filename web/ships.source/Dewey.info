@@ -1,0 +1,105 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 004
+ | CNName = 杜威
+ | JPName = デューイ
+ | KRName = 듀이 
+ | Rarity = Rare
+ | Nationality = Eagle Union
+ | ConstructTime = Drop Only
+ | Type = Destroyer
+ | Class = Farragut
+
+ | Artist = 或一
+ | ArtistLink = [http://bcy.net/u/1495574 或一]
+ | ArtistPixiv = [http://www.pixiv.net/member.php?id=1904395 或一]
+ | ArtistTwitter = 
+ | VA = [[:wikipedia:Miyuri_Shimabukuro|Miyuri Shimabukuro]]
+
+<!------------- S3: Stats ------------->
+ | Luck = 72
+ | Armor = Light
+ | Speed = 44
+
+ | HealthInitial = 265
+ | FireInitial = 14
+ | AAInitial = 34
+ | TorpInitial = 52
+ | AirInitial = 0
+ | ReloadInitial = 69
+ | EvadeInitial = 60
+ | ConsumptionInitial = 2
+ | ASWInitial = 45
+ | AccInitial = 63
+
+ | HealthMax = 1372
+ | FireMax = 65
+ | AAMax = 161
+ | TorpMax = 244
+ | AirMax = 0
+ | ReloadMax = 164
+ | EvadeMax = 156
+ | ConsumptionMax = 8
+ | ASWMax = 165
+ | AccMax = 165
+
+ | Health120 = 1647
+ | Fire120 = 74
+ | AA120 = 185
+ | Torp120 = 279
+ | Air120 = 0
+ | Reload120 = 189
+ | Evade120 = 162
+ | Consumption120 = 8
+ | ASW120 = 184
+ | Acc120 = 173
+
+<!------------- S4: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 110%
+ | Eq1EffInitMax = 120%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 120%
+ | Eq2EffInitMax = 130%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 130%
+
+<!------------- S5: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = Health
+ | StatBonus120 = 1
+
+ | TechPointCollect = 3
+ | TechPointMLB = 7
+ | TechPoint120 = 5
+
+ | ReinforcementValue = 5 {{Firepower}} 17 {{Torpedo}} 0 {{Aviation}} 13 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 1 {{Medal}}
+
+<!------------- S6: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / All Weapon Efficiency +2%
+ | LB2 = Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Support
+ | Skill1 = Here to Help
+ | Skill1CN = 远东的羁绊
+ | Skill1JP = 推し仲間
+ | Skill1Desc = While alive in the fleet, decreases damage taken by allied CVs/CVLs by 5% (10%). When sortieing with [[Gridley]], increases own Firepower by 5% (15%) and increases Gridley's Firepower and Reload by 5% (15%).
+ | Skill1Icon = 12000
+
+ | Type2 = Offense
+ | Skill2 = All Out Assault 
+ | Skill2CN = 全弹发射
+ | Skill2JP = 全弾発射-ファラガット級
+ | Skill2Desc = Every 15 (10) times the main gun is fired, triggers Full Barrage - Farragut Class I (II)
+ | Skill2Icon = 20000
+
+<!------------- S7: Drops ------------->
+ | D13-3 = 1
+
+}}

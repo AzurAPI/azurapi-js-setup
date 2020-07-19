@@ -1,0 +1,114 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 010
+ | CNName = 莫里
+ | JPName = モーリー
+ | KRName = 모리
+ | Rarity = Elite
+ | Nationality = Eagle Union
+ | ConstructTime = 00:25:00
+ | Type = Destroyer
+ | Class = Gridley
+
+ | Artist = 麻酱
+ | ArtistLink = [http://weibo.com/u/3032064021 神北小毬_]
+ | ArtistPixiv = [https://www.pixiv.net/member.php?id=1480584 神北小毬]
+ | ArtistTwitter = [https://twitter.com/shenbeixiaoqiu 仮面ライダーコマリ]
+ | VA = [[:wikipedia:Konomi_Kohara|Konomi Kohara]]
+
+<!------------- S3: Stats ------------->
+ | Luck = 69
+ | Armor = Light
+ | Speed = 43
+
+ | HealthInitial = 292
+ | FireInitial = 14
+ | AAInitial = 33
+ | TorpInitial = 86
+ | AirInitial = 0
+ | ReloadInitial = 76
+ | EvadeInitial = 73
+ | ConsumptionInitial = 2
+ | ASWInitial = 50
+ | AccInitial = 71
+
+ | HealthMax = 1508
+ | FireMax = 66
+ | AAMax = 155
+ | TorpMax = 406
+ | AirMax = 0
+ | ReloadMax = 180
+ | EvadeMax = 190
+ | ConsumptionMax = 9
+ | ASWMax = 183
+ | AccMax = 184
+
+ | Health120 = 1809
+ | Fire120 = 76
+ | AA120 = 178
+ | Torp120 = 448
+ | Air120 = 0
+ | Reload120 = 207
+ | Evade120 = 198
+ | Consumption120 = 9
+ | ASW120 = 202
+ | Acc120 = 194
+
+<!------------- S4: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 110%
+ | Eq1EffInitMax = 115%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 120%
+ | Eq2EffInitMax = 140%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 125%
+
+<!------------- S5: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = Evasion
+ | StatBonus120 = 1
+
+ | TechPointCollect = 6
+ | TechPointMLB = 12
+ | TechPoint120 = 9
+
+ | ReinforcementValue = 5 {{Firepower}} 28 {{Torpedo}} 0 {{Aviation}} 14 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 4 {{Medal}}
+
+<!------------- S6: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / Torpedo Efficiency +5%
+ | LB2 = Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Torpedo Efficiency +10%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Defense
+ | Skill1 = Aquatic Vortex
+ | Skill1CN = 水上狂飙
+ | Skill1JP = 海上最速
+ | Skill1Desc = Every 10 seconds, 20% (40%) chance to increase own Evasion by 30% (60%) for 8 seconds.
+ | Skill1Icon = 10020
+
+ | Type2 = Offense
+ | Skill2 = Double Torpedo
+ | Skill2CN = 鱼雷连射
+ | Skill2JP = 次発装填
+ | Skill2Desc = When launching a wave of torpedoes: 15% (30%) chance to launch another wave.
+ | Skill2Icon = 2050
+
+ | Type3 = Offense
+ | Skill3 = All Out Assault
+ | Skill3CN = 全弹发射
+ | Skill3JP = 全弾発射-グリッドレイ級
+ | Skill3Desc = Every 15 (10) times the main battery is fired, triggers Full Barrage - Gridley Class I (II)
+ | Skill3Icon = 20000
+
+<!------------- S7: Drops ------------->
+ | DCollection = 1
+ | DLightNote = Collection Unlock
+ | DropNote = Awarded and unlocked in construction when [[List of Collections|Collection]] goal is met by getting 10★ star rating in Gridley Class: [[Gridley]], [[Craven]], [[McCall]]
+
+}}

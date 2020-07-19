@@ -1,0 +1,116 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 013
+ | CNName = 查尔斯·奥斯本
+ | JPName = チャールズ・オースバーン
+ | KRName = 찰스 오스본
+ | Rarity = Elite
+ | Nationality = Eagle Union
+ | ConstructTime = Drop Only <!--00:28:00-->
+ | Type = Destroyer
+ | Class = Fletcher
+
+ | Artist = Lino(番茄)
+ | ArtistLink = [http://weibo.com/p/1005051859846292 番茄教父__Lino]
+ | ArtistPixiv = [https://www.pixiv.net/member.php?id=238071 Lino@レム症末期]
+ | ArtistTwitter = [https://twitter.com/lino__ Lino]
+ | VA = [https://twitter.com/m_satsuki_ Satsuki Morita]
+
+<!------------- S3: Stats ------------->
+ | Luck = 82
+ | Armor = Light
+ | Speed = 42
+
+ | HealthInitial = 343
+ | FireInitial = 16
+ | AAInitial = 33
+ | TorpInitial = 54
+ | AirInitial = 0
+ | ReloadInitial = 79
+ | EvadeInitial = 59
+ | ConsumptionInitial = 2
+ | ASWInitial = 52
+ | AccInitial = 76
+
+ | HealthMax = 1775
+ | FireMax = 76
+ | AAMax = 154
+ | TorpMax = 255
+ | AirMax = 0
+ | ReloadMax = 187
+ | EvadeMax = 154
+ | ConsumptionMax = 9
+ | ASWMax = 192
+ | AccMax = 197
+
+ | Health120 = 2112
+ | Fire120 = 87
+ | AA120 = 178
+ | Torp120 = 291
+ | Air120 = 0
+ | Reload120 = 215
+ | Evade120 = 158
+ | Consumption120 = 9
+ | ASW120 = 212
+ | Acc120 = 207
+
+<!------------- S4: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 115%
+ | Eq1EffInitMax = 125%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 120%
+ | Eq2EffInitMax = 130%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 130%
+
+<!------------- S5: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = Evasion
+ | StatBonus120 = 1
+
+ | TechPointCollect = 8
+ | TechPointMLB = 17
+ | TechPoint120 = 13
+
+ | ReinforcementValue = 5 {{Firepower}} 18 {{Torpedo}} 0 {{Aviation}} 15 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 4 {{Medal}}
+
+<!------------- S6: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / All Weapon Efficiency +2%
+ | LB2 = Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Support
+ | Skill1 = 31-Knot Burke
+ | Skill1CN = 31节伯克
+ | Skill1JP = 31ノット・バーク
+ | Skill1Desc = When firing main gun, 4% chance to increase Fleet's movement speed, and Escort Fleet's Evasion by 20% (40%) for 8 seconds.
+ | Skill1Icon = 10040
+
+ | Type2 = Offense
+ | Skill2 = Full Firepower
+ | Skill2CN = 火力全开
+ | Skill2JP = 火力全開
+ | Skill2Desc = Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.
+ | Skill2Icon = 2010
+
+ | Type3 = Offense
+ | Skill3 = All Out Assault
+ | Skill3CN = 全弹发射
+ | Skill3JP = 全弾発射-フレッチャー級
+ | Skill3Desc = Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II)
+ | Skill3Icon = 20000
+
+<!------------- S7: Drops ------------->
+ | D3-2 = 1
+ | D4-1 = 1
+ | D8-3 = 1
+ | D9-1 = 1
+ | WANote = [[Fallen Wings Rerun#Normal Maps|Fallen Wings]] A-1, C-1<br>[[Encircling Graf Spee#Event Maps|Encircling Graf Spee]] SP1<br />[[Winter's Crown Rerun#Ship Drops|Winter's Crown]] A-1, C-1
+
+}}

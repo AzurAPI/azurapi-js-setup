@@ -1,0 +1,105 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 018
+ | CNName = 本森
+ | JPName = ベンソン
+ | KRName = 벤슨
+ | Rarity = Rare
+ | Nationality = Eagle Union
+ | ConstructTime = 00:27:00
+ | Type = Destroyer
+ | Class = Benson
+
+ | Artist = 八才提督
+ | ArtistLink = [http://weibo.com/vihao 八才提督]
+ | ArtistPixiv = [https://www.pixiv.net/member.php?id=1393609 ハオ]
+ | ArtistTwitter = [https://twitter.com/haorabbit ハオ]
+ | VA = [[:wikipedia:Manami_Numakura|Manami Numakura]]
+
+<!------------- S3: Stats ------------->
+ | Luck = 72
+ | Armor = Light
+ | Speed = 45
+
+ | HealthInitial = 294
+ | FireInitial = 16
+ | AAInitial = 32
+ | TorpInitial = 60
+ | AirInitial = 0
+ | ReloadInitial = 75
+ | EvadeInitial = 60
+ | ConsumptionInitial = 2
+ | ASWInitial = 47
+ | AccInitial = 67
+
+ | HealthMax = 1521
+ | FireMax = 76
+ | AAMax = 149
+ | TorpMax = 282
+ | AirMax = 0
+ | ReloadMax = 178
+ | EvadeMax = 157
+ | ConsumptionMax = 8
+ | ASWMax = 174
+ | AccMax = 175
+
+ | Health120 = 1826
+ | Fire120 = 87
+ | AA120 = 172
+ | Torp120 = 320
+ | Air120 = 0
+ | Reload120 = 204
+ | Evade120 = 163
+ | Consumption120 = 8
+ | ASW120 = 193
+ | Acc120 = 184
+
+<!------------- S4: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 110%
+ | Eq1EffInitMax = 130%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 125%
+ | Eq2EffInitMax = 130%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 125%
+
+<!------------- S5: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = AA
+ | StatBonus120 = 1
+
+ | TechPointCollect = 6
+ | TechPointMLB = 12
+ | TechPoint120 = 9
+
+ | ReinforcementValue = 5 {{Firepower}} 20 {{Torpedo}} 0 {{Aviation}} 14 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 1 {{Medal}}
+
+<!------------- S6: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / Main Gun Efficiency +5%
+ | LB2 = Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Main Gun Efficiency +10%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Support
+ | Skill1 = Air Raid Assistance
+ | Skill1CN = 空袭引导
+ | Skill1JP = 空襲先導
+ | Skill1Desc = While alive in fleet, increases airstrike damage dealt by all CVs/CVLs by 5% (15%). Does not stacks with same skill.
+ | Skill1Icon = 1080
+
+ | Type2 = Offense
+ | Skill2 = All Out Assault
+ | Skill2CN = 全弹发射
+ | Skill2JP = 全弾発射-ベンソン級
+ | Skill2Desc = Every 15 (10) times the main battery is fired, triggers Full Barrage - Benson Class I (II)
+ | Skill2Icon = 20000
+
+<!------------- S7: Drops ------------->
+ | DLight = 1
+
+}}

@@ -1,0 +1,351 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 019
+ | CNName = 拉菲
+ | JPName = ラフィー
+ | KRName = 라피
+ | Rarity = Elite
+ | Nationality = Eagle Union
+ | ConstructTime = 00:27:00
+ | Type = Destroyer
+ | Class = Benson
+ | Remodel = 1
+
+ | Artist = 梦咲枫
+ | ArtistLink = [http://weibo.com/u/3558369570 梦咲枫]
+ | ArtistPixiv = [https://www.pixiv.net/member.php?id=1023957 かえで]
+ | ArtistTwitter = [https://twitter.com/yumesaki_kaede/ かえで]
+ | VA = [[:wikipedia:Maria_Naganawa|Maria Naganawa]]
+
+<!------------- S2: Stats ------------->
+ | Luck = 18
+ | Armor = Light
+ | Speed = 45
+ | ArmorKai = Light
+ | SpeedKai = 45
+
+ | HealthInitial = 319
+ | FireInitial = 19
+ | AAInitial = 33
+ | TorpInitial = 56
+ | AirInitial = 0
+ | ReloadInitial = 81
+ | EvadeInitial = 60
+ | ConsumptionInitial = 2
+ | ASWInitial = 49
+ | AccInitial = 75
+
+ | HealthMax = 1650
+ | FireMax = 88
+ | AAMax = 153
+ | TorpMax = 266
+ | AirMax = 0
+ | ReloadMax = 191
+ | EvadeMax = 157
+ | ConsumptionMax = 9
+ | ASWMax = 180
+ | AccMax = 195
+
+ | Health120 = 1980
+ | Fire120 = 101
+ | AA120 = 176
+ | Torp120 = 302
+ | Air120 = 0
+ | Reload120 = 220
+ | Evade120 = 163
+ | Consumption120 = 9
+ | ASW120 = 199
+ | Acc120 = 205
+
+ | HealthKai = 1815
+ | FireKai = 148
+ | AAKai = 153
+ | TorpKai = 306
+ | AirKai = 0
+ | ReloadKai = 191
+ | EvadeKai = 197
+ | ConsumptionKai = 9
+ | ASWKai = 180
+ | AccKai = 195
+
+ | HealthKai120 = 2145
+ | FireKai120 = 161
+ | AAKai120 = 176
+ | TorpKai120 = 342
+ | AirKai120 = 0
+ | ReloadKai120 = 220
+ | EvadeKai120 = 203
+ | ConsumptionKai120 = 9
+ | ASWKai120 = 199
+ | AccKai120 = 205
+
+<!------------- S3: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 120%
+ | Eq1EffInitMax = 140%
+ | Eq1EffInitKai = 165%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 120%
+ | Eq2EffInitMax = 125%
+ | Eq2EffInitKai = 125%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 125%
+ | Eq3EffInitKai = 125%
+
+<!------------- S4: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = Firepower
+ | StatBonus120 = 1
+
+ | TechPointCollect = 8
+ | TechPointMLB = 16
+ | TechPoint120 = 12
+
+ | ReinforcementValue = 6 {{Firepower}} 19 {{Torpedo}} 0 {{Aviation}} 15 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 4 {{Medal}}
+
+<!------------- S5: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / Main Gun Efficiency +5%
+ | LB2 = Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Offense
+ | Skill1 = Wargod of Solomon
+ | Skill1CN = 所罗门的战神
+ | Skill1JP = ソロモンの戦神
+ | Skill1Desc = When firing main gun, 5% chance to increase own Firepower, Reload, and Evasion by 20% (40%) for 8 seconds.
+ | Skill1Icon = 10410
+
+ | Type2 = Offense
+ | Skill2 = (Retrofit) Annihilation Mode
+ | Skill2CN = 歼灭模式
+ | Skill2JP = 殲滅形態
+ | Skill2Desc = Every 20 seconds, 40% (70%) chance to increase own Reload stat by 200% for 10 seconds and release a powerful barrage, while firing a machine-gun burst of fast torpedoes.
+ | Skill2Icon = 11210
+
+ | Type3 = Offense
+ | Skill3 = All Out Assault
+ | Skill3CN = 专属弹幕-拉菲
+ | Skill3JP = 特殊弾幕-ラフィー
+ | Skill3Desc = Every 15 (10) times the main battery is fired, triggers Full Barrage - Laffey I (II)
+ | Skill3Icon = 29050
+
+<!------------- S6: Drops ------------->
+ | DLight = 1
+ | D2-1 = 1
+ | D2-2 = 1
+ | D2-3 = 1
+ | D2-4 = 1
+ | D3-1 = 1
+ | D3-2 = 1
+ | D3-3 = 1
+ | D3-4 = 1
+ | D4-1 = 1
+ | D4-2 = 1
+ | D4-3 = 1
+ | D4-4 = 1
+ | D5-1 = 1
+ | D5-2 = 1
+ | D5-3 = 1
+ | D5-4 = 1
+ | D6-1 = 1
+ | D6-2 = 1
+ | D6-3 = 1
+ | D6-4 = 1
+ | D7-1 = 1
+ | D7-2 = 1
+ | D7-3 = 1
+ | D7-4 = 1
+ | D8-1 = 1
+ | D8-2 = 1
+ | D8-3 = 1
+ | D8-4 = 1
+ | D9-1 = 1
+ | D9-2 = 1
+ | D9-3 = 1
+ | D9-4 = 1
+ | D10-1 = 1
+ | D10-2 = 1
+ | D10-3 = 1
+ | D10-4 = 1
+ | D11-1 = 1
+ | D11-2 = 1
+ | D11-3 = 1
+ | D11-4 = 1
+ | D12-1 = 1
+ | D12-2 = 1
+ | D12-3 = 1
+ | D12-4 = 1
+ | D13-1 = 1
+ | D13-2 = 1
+ | D13-3 = 1
+ | D13-4 = 1
+
+<!------------- S7: Retrofit ------------->
+ | RetrofitMap = [B-FH-L][ACEGIK][-D--J-]
+
+ | IndexA = A
+ | RetrofitImageA = hp_1
+ | ProjNameA = Hull Improvement Ⅰ
+ | ProjTypeA = Defense
+ | AttributeA = {{Health}} +45
+ | BPNumA = 2
+ | BPRarityA = T1
+ | CoinA = 400
+ | LVA = 1
+ | LimitBreakA = 0
+ | RepeatA = 1
+
+ | IndexB = B
+ | RetrofitImageB = dd_1
+ | ProjNameB = Evasion Enhancement Ⅰ
+ | ProjTypeB = Support
+ | AttributeB = {{Evasion}} +5
+ | BPNumB = 3
+ | BPRarityB = T1
+ | CoinB = 600
+ | LVB = 5
+ | LimitBreakB = 0
+ | RepeatB = 1
+ | RequirementsB = A
+
+ | IndexC = C
+ | RetrofitImageC = mgup_1
+ | ProjNameC = Main Gun Improvement Ⅰ
+ | ProjTypeC = Offense
+ | AttributeC = Equip 1 Efficiency +5.0%
+ | BPNumC = 3
+ | BPRarityC = T1
+ | CoinC = 800
+ | LVC = 20
+ | LimitBreakC = 1
+ | RepeatC = 1
+ | RequirementsC = A
+
+ | IndexD = D
+ | RetrofitImageD = shell_1
+ | ProjNameD = Firepower Enhancement Ⅰ
+ | ProjTypeD = Offense
+ | AttributeD = {{Firepower}} +10
+ | BPNumD = 5
+ | BPRarityD = T1
+ | CoinD = 1000
+ | LVD = 25
+ | LimitBreakD = 1
+ | RepeatD = 1
+ | RequirementsD = C
+
+ | IndexE = E
+ | RetrofitImageE = hp_2
+ | ProjNameE = Hull Improvement Ⅱ
+ | ProjTypeE = Defense
+ | AttributeE = {{Health}} +45 / {{Health}} +75
+ | BPNumE = 1x / 2
+ | BPRarityE = T2
+ | CoinE = 1200
+ | LVE = 35
+ | LimitBreakE = 2
+ | RepeatE = 2
+ | RequirementsE = C
+
+ | IndexF = F
+ | RetrofitImageF = dd_2
+ | ProjNameF = Evasion Enhancement Ⅱ
+ | ProjTypeF = Support
+ | AttributeF = {{Evasion}} +5 / {{Evasion}} +10
+ | BPNumF = 1 / 1
+ | BPRarityF = T2
+ | CoinF = 1500
+ | LVF = 40
+ | LimitBreakF = 2
+ | RepeatF = 2
+ | RequirementsF = E
+
+ | IndexG = G
+ | RetrofitImageG = mgup_2
+ | ProjNameG = Main Gun Improvement Ⅱ
+ | ProjTypeG = Offense
+ | AttributeG = Equip 1 Efficiency +5.0% / Equip 1 Efficiency +5.0%
+ | BPNumG = 2x / 3
+ | BPRarityG = T2
+ | CoinG = 1800
+ | LVG = 50
+ | LimitBreakG = 2
+ | RepeatG = 2
+ | RequirementsG = E
+
+ | IndexH = H
+ | RetrofitImageH = shell_2
+ | ProjNameH = Firepower Enhancement Ⅱ
+ | ProjTypeH = Offense
+ | AttributeH = {{Firepower}} +5 / {{Firepower}} +15
+ | BPNumH = 1x / 2
+ | BPRarityH = T2
+ | CoinH = 2000
+ | LVH = 55
+ | LimitBreakH = 2
+ | RepeatH = 2
+ | RequirementsH = G
+
+ | IndexI = I
+ | RetrofitImageI = mgup_2
+ | ProjNameI = Main Gun Improvement Ⅱ
+ | ProjTypeI = Offense
+ | AttributeI = Equip 1 Efficiency +5.0% / Equip 1 Efficiency +5.0%
+ | BPNumI = 1 / 1
+ | BPRarityI = T3
+ | CoinI = 2500
+ | LVI = 70
+ | LimitBreakI = 3
+ | RepeatI = 2
+ | RequirementsI = G
+
+ | IndexJ = J
+ | RetrofitImageJ = tp_3
+ | ProjNameJ = Torpedo Enhancement Ⅲ
+ | ProjTypeJ = Offense
+ | AttributeJ = {{Torpedo}} +5 / {{Torpedo}} +10 / {{Torpedo}} +15
+ | BPNumJ = 1 / 1 / 1
+ | BPRarityJ = T3
+ | PlateNumJ = 5x / 10x / 15
+ | PlateTypeJ = Torp
+ | PlateTierJ = T3
+ | CoinJ = 3000
+ | LVJ = 75
+ | LimitBreakJ = 3
+ | RepeatJ = 3
+ | RequirementsJ = D, I
+
+ | IndexK = K
+ | RetrofitImageK = mt_red
+ | ProjNameK = Modernization
+ | ProjTypeK = Offense
+ | AttributeK = {{Firepower}} +30, {{Evasion}} +20
+ | BPNumK = 3
+ | BPRarityK = T3
+ | CoinK = 4000
+ | LVK = 85
+ | LimitBreakK = 3
+ | RepeatK = 1
+ | RequirementsK = I, J
+
+ | IndexL = L
+ | RetrofitImageL = skill_red
+ | ProjNameL = Tactical Learning
+ | ProjTypeL = Offense
+ | AttributeL = {{Torpedo}} +10
+ | BPNumL = 2
+ | BPRarityL = T3
+ | PlateNumL = 20
+ | PlateTypeL = Gun
+ | PlateTierL = T3
+ | CoinL = 3000
+ | LVL = 90
+ | LimitBreakL = 3
+ | RepeatL = 1
+ | RequirementsL = K
+}}

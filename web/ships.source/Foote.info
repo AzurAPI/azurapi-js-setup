@@ -1,0 +1,128 @@
+{{Ship
+<!------------- S1: General ------------->
+ | ID = 016
+ | CNName = 富特
+ | JPName = フート
+ | KRName = 푸트
+ | Rarity = Normal
+ | Nationality = Eagle Union
+ | ConstructTime = 00:28:00
+ | Type = Destroyer
+ | Class = Fletcher
+
+ | Artist = Lino(番茄)
+ | ArtistLink = [http://weibo.com/p/1005051859846292 番茄教父__Lino]
+ | ArtistPixiv = [https://www.pixiv.net/member.php?id=238071 Lino@レム症末期]
+ | ArtistTwitter = [https://twitter.com/lino__ Lino]
+ | VA = [https://www.imdb.com/name/nm7304680/ Yuna Yoshino]
+
+<!------------- S3: Stats ------------->
+ | Luck = 67
+ | Armor = Light
+ | Speed = 42
+
+ | HealthInitial = 325
+ | FireInitial = 15
+ | AAInitial = 32
+ | TorpInitial = 52
+ | AirInitial = 0
+ | ReloadInitial = 72
+ | EvadeInitial = 59
+ | ConsumptionInitial = 1
+ | ASWInitial = 50
+ | AccInitial = 72
+
+ | HealthMax = 1679
+ | FireMax = 72
+ | AAMax = 148
+ | TorpMax = 244
+ | AirMax = 0
+ | ReloadMax = 171
+ | EvadeMax = 154
+ | ConsumptionMax = 7
+ | ASWMax = 183
+ | AccMax = 188
+
+ | Health120 = 1998
+ | Fire120 = 82
+ | AA120 = 171
+ | Torp120 = 279
+ | Air120 = 0
+ | Reload120 = 196
+ | Evade120 = 158
+ | Consumption120 = 7
+ | ASW120 = 202
+ | Acc120 = 197
+
+<!------------- S4: Equipment ------------->
+ | Eq1Type = DD Main Guns
+ | Eq1EffInit = 110%
+ | Eq1EffInitMax = 120%
+
+ | Eq2Type = Torpedoes
+ | Eq2EffInit = 120%
+ | Eq2EffInitMax = 130%
+
+ | Eq3Type = Anti-Air Guns
+ | Eq3EffInit = 120%
+ | Eq3EffInitMax = 130%
+
+<!------------- S5: Fleet Tech ------------->
+ | StatBonusCollectType = Health
+ | StatBonusCollect = 1
+ | StatBonus120Type = Health
+ | StatBonus120 = 1
+
+ | TechPointCollect = 4
+ | TechPointMLB = 8
+ | TechPoint120 = 6
+
+ | ReinforcementValue = 5 {{Firepower}} 17 {{Torpedo}} 0 {{Aviation}} 14 {{RoF}}
+ | ScrapIncome = 4 {{Coin}} 3 {{Oil}} 0 {{Medal}}
+
+<!------------- S6: LB + Skill ------------->
+ | LB1 = Gains Full Barrage I / All Weapon Efficiency +2%
+ | LB2 = Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%
+ | LB3 = Upgrades Full Barrage I→II / All Weapon Efficiency +5%
+
+ | Type1 = Offense
+ | Skill1 = Quick Reload
+ | Skill1CN = 快速装填
+ | Skill1JP = 快速装填
+ | Skill1Desc = Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.
+ | Skill1Icon = 2000
+
+ | Type2 = Offense
+ | Skill2 = All Out Assault
+ | Skill2CN = 全弹发射
+ | Skill2JP = 全弾発射-フレッチャー級
+ | Skill2Desc = Every 15 (10) times the main battery is fired, triggers Full Barrage - Fletcher Class I (II)
+ | Skill2Icon = 20000
+
+<!------------- S7: Drops ------------->
+ | DLight = 1
+ | D1-2 = 1
+ | D1-3 = 1
+ | D1-4 = 1
+ | D2-3 = 1
+ | D2-4 = 1
+ | D3-1 = 1
+ | D3-3 = 1
+ | D3-4 = 1
+ | D4-2 = 1
+ | D5-2 = 1
+ | D6-1 = 1
+ | D6-2 = 1
+ | D6-4 = 1
+ | D7-3 = 1
+ | D7-4 = 1
+ | D9-1 = 1
+ | D9-2 = 1
+ | D9-3 = 1
+ | D9-4 = 1
+ | D13-1 = 1
+ | D13-2 = 1
+ | D13-3 = 1
+ | D13-4 = 1
+
+}}

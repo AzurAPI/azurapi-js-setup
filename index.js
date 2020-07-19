@@ -421,21 +421,19 @@ async function fetchEquipment(href, name, category, online) {
 function parseShip(id, name, body) {
     const doc = new JSDOM(body).window.document;
     let code;
-    let bar = doc.querySelector(".nomobile:nth-child(3) > div > div:nth-child(1)");
-    if (bar) {
-        let a = bar.querySelector("a");
-        if (a) code = bar.childNodes[0].textContent + a.textContent;
-        else code = bar.childNodes[0].textContent.trim();
-    } else code = doc.querySelector(".nomobile:nth-child(2) > div > div:nth-child(1)").textContent;
+    let bar = doc.querySelector(".nomobile > div:nth-child(1) > div:nth-child(1)");
+    let a = bar.querySelector("a");
+    if (a) code = bar.childNodes[0].textContent + a.textContent;
+    else code = bar.childNodes[0].textContent.trim();
     let ship = {
         wikiUrl: "https://azurlane.koumakan.jp/" + name.replace(/ +/g, "_"),
         id: id,
         names: {
             en: doc.querySelector('#firstHeading').textContent,
-            code: code.replace(' (cn:', ''),
-            cn: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="zh"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="zh"]').textContent : null,
-            jp: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ja"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ja"]').textContent : null,
-            kr: doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ko"]') ? doc.querySelector('.mw-parser-output .nomobile:nth-child(3) [lang="ko"]').textContent : null
+            code: code.replace('(CN:', '').trim(),
+            cn: bar.querySelector('[lang="zh"]') ? bar.querySelector('[lang="zh"]').textContent : null,
+            jp: bar.querySelector('[lang="ja"]') ? bar.querySelector('[lang="ja"]').textContent : null,
+            kr: bar.querySelector('[lang="ko"]') ? bar.querySelector('[lang="ko"]').textContent : null
         },
         class: doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a") ? doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a").textContent : null,
         nationality: doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent,
@@ -459,7 +457,6 @@ function parseShip(id, name, body) {
         ship.rarity = "Unreleased";
         return ship;
     }
-    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`.nomobile:nth-child(1) > .wikitable tr:nth-child(${i}) > td:nth-child(2) > a`));
     process.stdout.write(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
@@ -470,17 +467,17 @@ function parseShip(id, name, body) {
     };
     ship.stats = parseStats(doc);
     ship.slots = {};
-    for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector(".nomobile > div > .wikitable tr:nth-child(" + (i + 3) + ")"));
-    let enhanceValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").childNodes;
-    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".nomobile:nth-child(5) td:nth-child(1)").textContent.trim();
+    for (let i = 0; i < 3; i++) ship.slots[i + 1] = parseShipEQSlot(doc.querySelector("div:nth-child(2) > .wikitable:nth-child(3) tr:nth-child(" + (i + 3) + ")"));
+    let enhanceValues = doc.querySelector(".wikitable:nth-child(5) td:nth-child(1)").childNodes;
+    if (enhanceValues.length < 7) ship.enhanceValue = doc.querySelector(".wikitable:nth-child(5) td:nth-child(1)").textContent.trim();
     else ship.enhanceValue = {
         firepower: parseInt(enhanceValues[0].textContent.trim()),
         torpedo: parseInt(enhanceValues[2].textContent.trim()),
         aviation: parseInt(enhanceValues[4].textContent.trim()),
         reload: parseInt(enhanceValues[6].textContent.trim())
     };
-    let scrapValues = doc.querySelector(".nomobile:nth-child(5) td:nth-child(2)").childNodes;
-    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".nomobile:nth-child(5) td:nth-child(2)").textContent.trim();
+    let scrapValues = doc.querySelector(".wikitable:nth-child(5) td:nth-child(2)").childNodes;
+    if (scrapValues.length < 5) ship.scrapValue = doc.querySelector(".wikitable:nth-child(5) td:nth-child(2)").textContent.trim();
     else ship.scrapValue = {
         coin: parseInt(scrapValues[0].textContent.trim()),
         oil: parseInt(scrapValues[2].textContent.trim()),
@@ -498,23 +495,27 @@ function parseShip(id, name, body) {
     let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"), ship);
     ship.construction = obtainedFrom.construction;
     ship.obtainedFrom = obtainedFrom.obtainedFrom;
+    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`div:nth-child(2) > .wikitable:nth-child(1) tr:nth-child(${i}) > td:nth-child(2) a:not([title='Play'])`));
     ship.misc = {
-        artist: misc_selectors[0] ? misc_selectors[0].textContent : null,
-        web: misc_selectors[1] ? {
-            name: misc_selectors[1].textContent,
+        artist: misc_selectors[0] ? {
+            name: misc_selectors[0].textContent.trim(),
+            url: "https://azurlane.koumakan.jp" + misc_selectors[0].getAttribute("href")
+        } : null,
+        pixiv: misc_selectors[1] ? {
+            name: misc_selectors[1].textContent.trim(),
             url: misc_selectors[1].getAttribute("href")
         } : null,
-        pixiv: misc_selectors[2] ? {
-            name: misc_selectors[2].textContent,
+        twitter: misc_selectors[2] ? {
+            name: misc_selectors[2].textContent.trim(),
             url: misc_selectors[2].getAttribute("href")
         } : null,
-        twitter: misc_selectors[3] ? {
-            name: misc_selectors[3].textContent,
+        web: misc_selectors[3] ? {
+            name: misc_selectors[3].textContent.trim(),
             url: misc_selectors[3].getAttribute("href")
         } : null,
         voice: misc_selectors[4] ? {
-            name: misc_selectors[4].parentElement.lastElementChild.textContent,
-            url: misc_selectors[4].parentElement.lastElementChild.href
+            name: misc_selectors[4].textContent.trim(),
+            url: misc_selectors[4].getAttribute("href")
         } : null
     };
     return ship;
@@ -650,7 +651,7 @@ function parseShipEQSlot(slot) {
     let eqslot = {
         type: slot.children[2].textContent.trim()
     };
-    if (slot.children[1].firstElementChild) {
+    if (slot.children[1].childElementCount > 1) {
         eqslot.minEfficiency = parseInt(slot.children[1].children[0].textContent.replace('%', ''));
         eqslot.maxEfficiency = parseInt(slot.children[1].children[1].textContent.replace('%', ''));
         if (slot.children[1].children[2]) eqslot.kaiEfficiency = parseInt(slot.children[1].children[2].textContent.replace('%', ''));
@@ -658,9 +659,13 @@ function parseShipEQSlot(slot) {
     return eqslot;
 }
 // Parse the stats seperately for easy code reading
+
 function parseStats(doc) {
     let allStats = {};
-    doc.querySelectorAll(".nomobile > .tabber > .tabbertab .wikitable tbody").forEach(tab => {
+    ["Base Stats", "Level 100", "Level 120", "Level 100 Retrofit", "Level 120 Retrofit"].map(level => {
+        return doc.querySelector("[title='" + level + "'] tbody");
+    }).forEach(tab => {
+        if (!tab) return;
         let stats = {};
         let title = tab.parentNode.parentNode.title;
         if (!title) return;
