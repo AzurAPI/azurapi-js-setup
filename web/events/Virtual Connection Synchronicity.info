@@ -1,0 +1,855 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #ac4ad3
+|body = #fbbfff
+|logo = Kizuna_AIChibi.png{{!}}60px
+|title = "Virtual Connection Synchronicity" event
+|marginTop = 35px
+|content = <div style="padding-bottom:3px">
+* '''CN/JP/KR/EN servers: April 26th - May 15th 2019'''
+</div>
+}}
+
+== Ships and Construction ==
+[[File:Virtual Connection Synchronicity - Construction EN.png|500px|thumb]]
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Anniversary Kizuna AI|CV||'''Construction (2.0%)<br />04:30:00'''}}
+{{ShipDisplay|5|Elegant Kizuna AI|CA||'''Construction (0.5%)<br />01:55:00'''|'''[[#Exchange Shop|Event Shop]]'''}}
+{{ShipDisplay|5|Super Gamer Kizuna AI|BB||'''Construction (2.0%)<br />04:50:00'''}}
+{{ShipDisplay|4|Kizuna AI|DD||'''[[#Ordinary Life at the Port|Login Reward]]'''|'''[[#Milestones|Point Accumulation]]'''}}
+</div>
+
+== Skins ==
+*'''New time-limited skins''' will be available in the cash shop for the duration of the event:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Kizuna AI|DD|Kizuna|Festive Kizuna AI|{{Gem}} 780|1|BG|114}}
+{{ShipDisplay|4|Saratoga|CV|Kizuna|Virtual Idol|{{Ruby}} 700|1|BG|210}}
+</div>
+
+== Furniture ==
+*New time-limited furniture set '''Virtual Room''' will be available in the dorm shop for the duration of the event:
+{{:Furniture Sets/Virtual Room}}
+
+==Event Maps==
+
+[[File:Kizuna AI Collaboration - Map.png|500px|thumb]]
+
+* There are 5 event maps, going from SP1 to SP4 and a special map called Black-SP, which can only be cleared once per day. [[File:KizunaPt.png|25px|link=]] Kizuna Points are rewarded for defeating the boss at any map. This event includes the [[Combat#Airspace_Control|Air Supremacy]] ''(only for CN/JP/KR versions)'' and the Siren-like mechanics but with Kizuna AI as enemies instead.
+
+* [[Combat#Danger_Level|Danger Level]] is 5 for SP1, SP2, and SP3; and 8 for SP4. Black-SP has no Danger Level.
+
+* Submarines are available in this event.
+
+* There's a new poison mechanic in which after every movement the poison tiles will advance and going through these tiles will damage your entire fleet. This mechanic appears only on SP3.
+
+* Another new mechanic found in SP4 are the WARNING! tiles which will stop your movement and have air strikes attack your fleet.
+
+* Note that you cannot be ambushed in event maps.
+* To access the hidden memories 23 and 24, clear SP4 - 8 times and 11 times respectively
+
+==== [[File:KizunaPt.png|25px|link=]]&thinsp;Kizuna Point drops per map ====
+
+ {| class="azltable" style="display:table; text-align:center; white-space:nowrap"
+  ! style="padding-left:1em; padding-right:1em" | SP1
+  ! style="padding-left:1em; padding-right:1em" | SP2
+  ! style="padding-left:1em; padding-right:1em" | SP3
+  ! style="padding-left:1em; padding-right:1em" | SP4
+  ! style="padding-left:0.6em; padding-right:0.6em" | Black-SP
+  |-
+  | style="padding:6px 0" | 20 [[File:KizunaPt.png|25px|link=]]
+  | 40 [[File:KizunaPt.png|25px|link=]]
+  | 80 [[File:KizunaPt.png|25px|link=]]
+  | 120 [[File:KizunaPt.png|25px|link=]]
+  | 600 [[File:KizunaPt.png|25px|link=]]
+ |}
+
+===Event Maps===
+
+<tabber>
+SP1 = {{Map
+ | Title = Mirror Hacking
+ | Introduction = The one who appears before Kizuna AI as she surveys the Virtual Mirror Sea is... her clone?! The battle for her identity begins!
+ | Requirements = None
+ | ClearReward = 600 {{coin}}, 1 {{cube}}, Picture No. 8 [[File:Gangquhuiyi.png|30px]]
+ | 3StarReward = Picture No. 9 [[File:Gangquhuiyi.png|30px]], 1x [[File:Appearanceboxai.png|30px]]
+
+ | MobLevel = 30 - 33
+ | MobExp1 = 216
+ | MobExp2 = 225
+ | MobExp3 = 276
+ | MobExpSiren = 320
+ | Boss = [[Elegant Kizuna AI]]
+ | BossLevel = 35
+ | BossExp = 365
+
+ | BossBattleReq = 4
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{coin}} Coin, [[File:KizunaPt.png|30px]] x20 Kizuna Points
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|3|T3 Triple 203mm (8"/55 Mk 9)|Triple 203mm (8"/55 Mk 9)|13000}}
+{{EquipmentBox|3|T3 Single 140mm (3rd Year Type)|Single 140mm (3rd Year Type)|32000}}
+{{EquipmentBox|3|T3 Single 76mm (3″/50 caliber gun)|Single 76mm (3″/50 caliber gun)|11000}}
+ | ShipDrops =
+{{ShipDropIcon|Long Island|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}} 
+
+ | PreviewFile = Kizuna AI Collaboration - SP1
+ | NodeMap = 
+ | Notes = 
+
+}}
+|-|
+SP2 = {{Map
+ | Title = Nautical Concert
+ | Introduction = Why is the Kizuna AI clone holding a concert in the middle of the ocean? Break through the fierce attack and put an end to this mysterious performance!
+ | Requirements = Clear SP1
+ | ClearReward = 600 {{coin}}, 1 {{cube}}, Picture No. 10 [[File:Gangquhuiyi.png|20px]]
+ | 3StarReward = Picture No. 11 [[File:Gangquhuiyi.png|30px]], 1x [[File:Appearanceboxai.png|30px]]
+
+ | MobLevel = 40 - 43
+ | MobExp1 = 240
+ | MobExp2 = 270
+ | MobExp3 = 302
+ | MobExpSiren = 348
+ | Boss = [[Anniversary Kizuna AI]]
+ | BossLevel = 45
+ | BossExp = 391
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:KizunaPt.png|30px]] x40 Kizuna Points
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Fairey Barracuda|Fairey Barracuda|28100}}
+{{EquipmentBox|4|T3 Grumman TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+{{EquipmentBox|4|T3 Fairey Fulmar|Fairey Fulmar|29100}}
+{{EquipmentBox|3|T3 Nakajima B5N Type 97|Nakajima B5N Type 97|38000}}
+ | ShipDrops =
+{{ShipDropIcon|Saratoga|E}}
+{{ShipDropIcon|Unicorn|E}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Richmond|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}} 
+
+ | PreviewFile = Kizuna AI Collaboration - SP2
+ | NodeMap = 
+ | Notes = 
+
+}}
+|-|
+SP3 = {{Map
+ | Title = Sea Battle Royale!
+ | Introduction = Freefall from 4 kilometers (2.5mi) above the sea! A mysterious fog that chases you! Obstacles around every turn! Use your wits to be the last team standing on this unknown battleground!
+ | Requirements = Clear SP2
+ | ClearReward = 600 {{coin}}, 1 {{cube}}, Picture No. 12 [[File:Gangquhuiyi.png|20px]]
+ | 3StarReward = Picture No. 13 [[File:Gangquhuiyi.png|30px]], 1x Virtual Screen [[File:FurnIcon pingmukaicon.png|30px]]
+
+ | MobLevel = 60 - 63
+ | MobExp1 = 360
+ | MobExp2 = 402
+ | MobExp3 = 
+ | MobExpSiren = 510
+ | Boss = [[Super Gamer Kizuna AI]]
+ | BossLevel = 65
+ | BossExp = 565
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:KizunaPt.png|30px]] x80 Kizuna Points
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T3 Fuel Filter|Fuel Filter|2000}}
+{{EquipmentBox|4|T2 SG Radar|SG Radar|1500}}
+ | ShipDrops =
+{{ShipDropIcon|Arizona|E}}
+{{ShipDropIcon|Renown|E}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Long Island|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}} 
+
+ | PreviewFile = Kizuna AI Collaboration - SP3
+ | NodeMap = 
+ | Notes = An electric field will spawn at the left side of the map, slowly making its way across it, damaging your fleets if they get caught in it.
+
+}}
+|-|
+SP4 = {{Map
+ | Title = The Last Virtual
+ | Introduction = A desperate last stand against Kizuna AI, transformed into a titan by the virus. In their darkest hour, their hope is...
+ | Requirements = Clear SP3
+ | ClearReward = 600 {{coin}}, 2 {{cube}}, Picture No. 14 [[File:Gangquhuiyi.png|20px]]
+ | 3StarReward = Picture No. 15 [[File:Gangquhuiyi.png|30px]], 1x Heart-Shaped Shelf [[File:FurnIcon shujiakaicon.png|30px]]
+
+ | MobLevel = 85 - 88
+ | MobExp1 = 510
+ | MobExp2 = 567
+ | MobExp3 = 626
+ | MobExpSiren = 712
+ | Boss = [[Kizuna AI|Giant Kizuna AI]]
+ | BossLevel = 90
+ | BossExp = 782
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 45 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:KizunaPt.png|30px]] x120 Kizuna Points
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T3 Twin 150mm (TbtsK C/36)|Twin 150mm (TbtsK C/36)|42200}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+{{EquipmentBox|4|Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Long Island|R}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Ranger|N}} 
+
+ | PreviewFile = Kizuna AI Collaboration - SP4
+ | NodeMap = 
+ | Notes = 
+
+}}
+|-|
+Black-SP = {{Map
+ | Title = Pitch Black AI
+ | Introduction = A large number of infected Kizuna AI clones have been detected in a new area of the Virtual Mirror Sea. Stave them off before everything fades to black...
+ | Requirements = Clear SP4
+ | ClearReward = 600 {{coin}}, 2 {{cube}}, Picture No. 16 [[File:Gangquhuiyi.png|20px]]
+ | 3StarReward = None
+
+ | MobLevel = 105
+ | MobExp1 = 630
+ | MobExp2 = 692
+ | MobExp3 = 756
+ | MobExpSiren = 850
+ | Boss = [[Anniversary Kizuna AI]]
+ | BossLevel = 105
+ | BossExp = 913
+
+ | BossBattleReq = 7
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Deploy < 8 ships
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:KizunaPt.png|30px]] x600 Kizuna Points
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+{{EquipmentBox|4|T3 Grumman F4F Wildcat|Grumman F4F Wildcat|17100}}
+{{EquipmentBox|4|T3 Vought F4U Corsair|Vought F4U Corsair|17200}}
+{{EquipmentBox|4|T2 Supermarine Seafire|Supermarine Seafire|27000}}
+{{EquipmentBox|4|T2 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+ | ShipDrops =
+{{ShipDropIcon|Yorktown|E}}
+{{ShipDropIcon|Hornet|E}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Long Island|R}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Kizuna AI Collaboration - Black-SP
+ | NodeMap = 
+ | Notes = Submarine fleet does not count towards the ship limit.
+
+}}
+</tabber>
+
+===EX Node===
+
+{{Map
+ | Title = Super AI
+ | Introduction = To the "Singularity," the brave hero from another world - burn the sight of my true power into your eyes as I cast off the pretenses of being a garbage-tier A.I.
+ | Requirements = Clear Black-SP
+ | ClearReward = None
+ | 3StarReward = None
+
+ | Boss = [[Kizuna AI]]
+ | BossLevel = 100
+ | BossExp = 0
+
+ | BossBattleReq = 0
+ | BossBattleClear = 
+ | Star1 = Sink Boss
+ | Star2 = Deploy <= 8 ships ('''CN/JP/KR''') <br /> Deploy < 8 ships ('''EN''')
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = None
+ | EquipmentDrops = 
+ | ShipDrops = 
+
+ | PreviewFile = Kizuna AI Collaboration - EX Node
+ | NodeMap = 
+ | Notes = Doesn't consume oil.
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{BB}} BB/BC
+ | Fleet2 = Not available
+}}
+
+==Purification Virtual Space==
+{| class="wikitable" style="text-align: center;"
+|-
+| [[File:Purification Virtual Space.png|500px]]
+|-
+| '''''Purification Virtual Space Minigame'''''
+|}
+
+* This minigame consists of five boards, which can be repeated over the course of the event, but only the '''first time clearing''' each board will earn rewards.
+** After completing the first three boards you get rewarded 2x T3 General Parts [[File:AuxT3Plate.png|25px]] and 200 Coins {{Coin}}.
+** After completing the fourth board you will be rewarded the furniture item "Easel" [[File:FurnIcon bankaicon.png|30px]] and "Port Memories" No. 21 [[File:Gangquhuiyi.png|30px]].
+** The fifth boards does not give any rewards.
+* The tiles on the first four boards are fixed, the fifth is randomly generated.
+* To unlock boards 1-4 you need to '''3-star''' the corresponding '''SP event stage''', the fifth gets unlocked after completing all of the first four boards.
+* Each board must be completed in order to unlock the subsequent boards.
+
+==Event Tasks==
+
+===Map Completion Tasks===
+
+* There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once.
+
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+|'''SP1'''
+| 600 {{coin}}, 1 {{cube}}, "Port Memories" No. 8 [[File:Gangquhuiyi.png|30px]]
+| "Port Memories" No. 9 [[File:Gangquhuiyi.png|30px]], 1x [[File:Appearanceboxai.png|30px]]
+|-
+|'''SP2'''
+| 600 {{coin}}, 1 {{cube}}, "Port Memories" No. 10 [[File:Gangquhuiyi.png|30px]]
+| "Port Memories" No. 11 [[File:Gangquhuiyi.png|30px]], 1x [[File:Appearanceboxai.png|30px]]
+|-
+|'''SP3'''
+| 600 {{coin}}, 1 {{cube}}, "Port Memories" No. 12 [[File:Gangquhuiyi.png|30px]]
+| "Port Memories" No. 13 [[File:Gangquhuiyi.png|30px]], 1x Virtual Screen [[File:FurnIcon pingmukaicon.png|30px]]
+|-
+|'''SP4'''
+| 600 {{coin}}, 2 {{cube}}, "Port Memories" No. 14 [[File:Gangquhuiyi.png|30px]]
+| "Port Memories" No. 15 [[File:Gangquhuiyi.png|30px]], 1x Heart-Shaped Shelf [[File:FurnIcon shujiakaicon.png|30px]]
+|-
+|'''Black-SP'''
+| 600 {{coin}}, 2 {{cube}}, "Port Memories" No. 16 [[File:Gangquhuiyi.png|30px]]
+| -
+|}
+
+===Daily Tasks===
+
+* Each day during event 3 special daily tasks will be available:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|KizunaPt|Rare|x300 Kizuna Points|35}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|KizunaPt|Rare|x300 Kizuna Points|35}}
+|-
+| Sortie and clear 1 non-event Hard Mode Stage.
+| {{Display|KizunaPt|Rare|x100 Kizuna Points|35}}
+|}
+
+===Ordinary Life at the Port===
+
+*From April 26th to May 2nd, two mission will unlock daily.
+
+{{TaskHeader}}
+{{TaskDouble
+|type = Event
+|listnum = AI-1
+|descen1 = Log in to the game.
+|descen2 = Sortie and obtain 10 S-rank victories.
+|other1 = [[Kizuna AI]] [[File:Kizuna_AIIcon.png|30px]]
+|other2 = "Port Memories" No. 1 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 1
+}}
+{{TaskDouble
+|type = Event
+|listnum = AI-2
+|reqQuest = AI-1
+|descen1 = Complete 2 commissons.
+|descen2 = Conduct 2 exercises.
+|coin1 = 100
+|other2 = "Port Memories" No. 2 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 2
+}}
+{{TaskDouble
+|type = Event
+|listnum = AI-3
+|reqQuest = AI-2
+|descen1 = Complete 3 daily challenges.
+|descen2 = Retire 2 ships.
+|coin1 = 100
+|other2 = "Port Memories" No. 3 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 3
+}}
+{{TaskDouble
+|type = Event
+|listnum = AI-4
+|reqQuest = AI-3
+|descen1 = Conduct tactical training 2 times.
+|descen2 = Enhance ships 10 times.
+|coin1 = 100
+|other2 = "Port Memories" No. 4 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 4
+}}
+{{TaskDouble
+|type = Event
+|listnum = AI-5
+|reqQuest = AI-4
+|descen1 = Supply the dorm 5 times.
+|descen2 = Sink 20 enemy ships.
+|coin1 = 100
+|other2 = "Port Memories" No. 5 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 5
+}}
+{{TaskDouble
+|type = Event
+|listnum = AI-6
+|reqQuest=AI-5
+|descen1 = Open any 1 equipment box.
+|descen2 = Build 2 ships.
+|coin1 = 100
+|other2 = "Port Memories" No. 6 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 6
+}}
+{{TaskDouble
+|type = Event
+|listnum = AI-7
+|reqQuest=AI-6
+|descen1 = Sortie and defeat 3 Boss Fleets.
+|descen2 = Conduct tactical training 2 times.
+|other1 = Furniture "A.I. Desk" [[File:FurnIcon zhuo2kaicon.png|30px]]
+|other2 = "Port Memories" No. 7 [[File:Gangquhuiyi.png|30px]]
+|notes = Day 7
+}}
+|}
+
+===Gallery Tasks===
+
+{{TaskHeader}}
+{{Task
+|type=Event
+|listnum=AI-G1
+|desccn=
+|descen=[[Building|Build]] 10 ships.
+|other="Port Memories" No. 22 [[File:Gangquhuiyi.png|30px]]
+|once=1
+}}
+{{Task
+|type=Event
+|listnum=AI-G2
+|desccn=
+|descen=Drink 99 Oxy Colas.
+|other="Port Memories" No. 23 [[File:Gangquhuiyi.png|30px]]
+|once=1
+}}
+|}
+
+*After clearing the Black-SP stage once you can collect the 4 '???' Port Memories.
+*You can find them on the following locations, depicted as a puzzle piece on the map:
+
+{| class="wikitable"
+!Map
+!Tile
+!Reward
+|-
+|'''SP1'''
+|I1
+|"Port Memories" No. 17 [[File:Gangquhuiyi.png|30px]]
+|-
+|'''SP2'''
+|I2
+|"Port Memories" No. 18 [[File:Gangquhuiyi.png|30px]]
+|-
+|'''SP3'''
+|E4
+|"Port Memories" No. 19 [[File:Gangquhuiyi.png|30px]]
+|-
+|'''SP4'''
+|I2
+|"Port Memories" No. 20 [[File:Gangquhuiyi.png|30px]]
+|}
+
+*Special furniture reward after collecting all 24 '''Port Memories''':
+
+{| class="wikitable" style="text-align: center;"
+| style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}" |{{Display|Commemorative Pyoko-Pyoko Medal|#ffdddd, #ddffdd 50%, #ddddff|}}
+| style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}" |'''Commemorative Pyoko-Pyoko Medal'''
+|}
+
+<gallery mode="packed" heights="450px">
+File:Kizuna AI Collaboration - Gallery Page 1.jpg|450px|Page 1
+File:Kizuna AI Collaboration - Gallery Page 2.jpg|450px|Page 2
+</gallery>
+
+==Exchange Shop==
+
+{| class="wikitable" style="text-align: center;"
+|-
+| [[File:Kizuna AI Collaboration - Shop.png|500px]]
+|-
+| '''''Exchange Shop'''''
+|}
+
+* You can receive rewards in exchange for [[File:KizunaPt.png|25px|link=]] Kizuna Points.
+* The deadline for receiving these rewards is May 22nd.
+
+{{EventShop
+| ShopName=Kizuna AI Collab
+| TotalPt=53450 - EN Version: 48450
+| PtImage=KizunaPt
+
+| ColorScheme=#BA9BF7
+| Image=Kizuna AI
+| Size=550
+| Top=-45
+| Left=-60
+
+| Items=
+{{EventShopItem|5|Elegant Kizuna AI|Elegant Kizuna AI|Elegant Kizuna AIIcon|1|8000|KizunaPt|1}}
+{{EventShopItem|5|Random Word Generator|Random Word Generator|89000|1|2000|KizunaPt|1}}
+{{EventShopItem|5|Pyoko-Pyoko|Pyoko-Pyoko|89020|1|2000|KizunaPt|1}}
+{{EventShopItem|5|Intelligence Chip|Intelligence Chip|89040|1|2000|KizunaPt|1}}
+{{EventShopItem|5|A.I. Nursing Device||A.I. Nursing Device|1|1200|KizunaPt|1}}
+{{EventShopItem|4|A.I. Clothes Rack||A.I. Clothes Rack|1|600|KizunaPt|1}}
+{{EventShopItem|4|A.I. Cushion||A.I. Cushion|1|600|KizunaPt|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|KizunaPt|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|KizunaPt|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|KizunaPt|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|KizunaPt|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|5|300|KizunaPt|100}}
+{{EventShopItem|5|Strengthening Unit S1|Research|AllSUnit|30|500|KizunaPt|1|'''(EN Only)'''}}
+{{EventShopItem|5|Strengthening Unit S2|Research|AllSUnit2|30|500|KizunaPt|1|'''(Not in EN)'''}}
+{{EventShopItem|6|Advanced Strengthening Unit S2|Research|AllSUnit3|5|1000|KizunaPt|1|'''(Not in EN)'''}}
+{{EventShopItem|4|T3 General Part||AuxT3Plate|30|30|KizunaPt|1}}
+{{EventShopItem|4|T3 Main Gun Part||GunT3Plate|30|30|KizunaPt|1}}
+{{EventShopItem|4|T3 Torpedo Part||TorpT3Plate|30|30|KizunaPt|1}}
+{{EventShopItem|4|T3 Anti-Air Part||AAT3Plate|30|30|KizunaPt|1}}
+{{EventShopItem|4|T3 Aircraft Part||PlaneT3Plate|30|30|KizunaPt|1}}
+{{EventShopItem|1|Coins||Coinicon|5|500|KizunaPt|2000}}
+{{EventShopItem|1|Oil||Oilicon|5|450|KizunaPt|1000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|KizunaPt|1}}
+}}
+
+== Milestones ==
+
+[[File:Kizuna AI Collaboration - Milestones.png|500px|thumb]]
+
+* The '''total amount of Kizuna Points''' you gain during this event will be counted. Once you reach certain thresholds you will get rewards.
+
+<tabber>
+EN Rewards=
+{| class="wikitable" style="text-align: center;"
+![[File:KizunaPt.png|30px|link=|Kizuna Points]]
+!Reward
+![[File:KizunaPt.png|30px|link=|Kizuna Points]]
+!Reward
+![[File:KizunaPt.png|30px|link=|Kizuna Points]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|P|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|E|3000 Coins}}
+|1000
+|{{Display|Moduleicon|G|100x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|E|3000 Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|E|4000 Coins}}
+|-
+|3500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|G|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|BattleshipT3BP|G|1x T3 Battleship Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|G|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|-
+|8000
+|{{Display|Appearanceboxai|G|Kizuna Equipment Box}}
+|8500
+|{{Display|Gangquhuiyi|G|"Port Memories" No. 24}}
+|9000
+|{{Display|DefenseT3TB|G|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|10000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|11000
+|{{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|AllSUnit|G|2x Strengthening Unit S1}}
+|13000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|BattleshipT3BP|G|1x T3 Battleship Retrofit Blueprint}}
+|-
+|15000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|20000
+|{{Display|AllSUnit|G|1x Strengthening Unit S1}}
+|25000
+|{{Display|UnknownT3BP|G|2x T3 Retrofit Blueprint}}
+|-
+|30000
+|{{Display|Moduleicon|G|250x Cognitive Chips}}
+|35000
+|{{Display|AllSUnit|G|2x Strengthening Unit S1}}
+|40000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|-
+|45000
+|{{Display|UnknownT3BP|G|2x T3 Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|G|2x T3 Retrofit Blueprint}}
+|-
+|60000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|}
+|-|
+JP/CN/KR Rewards=
+{| class="wikitable" style="text-align: center;"
+![[File:KizunaPt.png|30px|link=|Kizuna Points]]
+!Reward
+![[File:KizunaPt.png|30px|link=|Kizuna Points]]
+!Reward
+![[File:KizunaPt.png|30px|link=|Kizuna Points]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|P|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|E|3000 Coins}}
+|1000
+|{{Display|Moduleicon|G|100x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|E|3000 Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|E|4000 Coins}}
+|-
+|3500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|G|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|BattleshipT3BP|G|1x T3 Battleship Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|G|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|-
+|8000
+|{{Display|Appearanceboxai|G|Kizuna Equipment Box}}
+|8500
+|{{Display|Gangquhuiyi|G|"Port Memories" No. 22}}
+|9000
+|{{Display|DefenseT3TB|G|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|G|150x Cognitive Chips}}
+|10000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|11000
+|{{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|AllSUnit3|RB|2x Advanced Strengthening Unit S2}}
+|13000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|BattleshipT3BP|G|1x T3 Battleship Retrofit Blueprint}}
+|-
+|15000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|20000
+|{{Display|AllSUnit3|RB|1x Advanced Strengthening Unit S2}}
+|25000
+|{{Display|UnknownT3BP|G|2x T3 Retrofit Blueprint}}
+|-
+|30000
+|{{Display|Moduleicon|G|250x Cognitive Chips}}
+|35000
+|{{Display|AllSUnit3|RB|2x Advanced Strengthening Unit S2}}
+|40000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|-
+|45000
+|{{Display|UnknownT3BP|G|2x T3 Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|G|2x T3 Retrofit Blueprint}}
+|-
+|60000
+|{{Display|Kizuna_AIIcon|P|[[Kizuna AI]]}}
+|}
+</tabber>
+
+[[Category:Events]]

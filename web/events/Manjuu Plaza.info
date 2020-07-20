@@ -1,0 +1,145 @@
+{{EventInfobox
+ | Title = Manjuu Plaza
+ | Banner = ManjuuPlaza.png
+ | OtherEventVersions = 
+ | Stories = 
+ | Dates =
+{{EventInfoDate
+ | Title = CN/JP/EN Servers
+ | Start = May 21st 2020
+ | End = June 17th 2020
+}}
+}}
+[[File:ManjuuPlaza.png|650px]]
+
+Complete daily missions to earn Building Material.  Use Building Material to upgrade facilities with beneficial buffs.
+
+{| class="azltable" style="text-align:center;margin-right:1em"
+!Facilities!!Buff!!Level 1!!Level 2!!Level 3
+|-
+|Manjuu Cafe
+|Map/[[Daily Raid|Raid]] XP
+|3%
+|4%
+|5%
+|-
+|Dango Shop
+|[[Living Area#Dorm|Dorm]] XP
+|3%
+|4%
+|5%
+|-
+|Hamburger Joint
+|[[Living_Area#Tactical_Class|Training]] Time
+| -3%
+| -4%
+| -5%
+|-
+|Dumpling House
+|Map DMG
+|1%
+|2%
+|3%
+|-
+! colspan="3" |Upgrade Costs
+!10
+!15
+|}
+
+==Missions==
+{{MissionHeader}}
+{{Mission
+ | type = Event
+ | listnum = PLA-01
+ | descen = Sortie and defeat 3 Boss Fleets
+ | reward = {{Display|UnknownT3Plate|Elite|x5 Random T3 Parts}} {{Display|Wood|Normal|15x Building Material}}
+ | notes = Day 1
+}}
+{{Mission
+ | type = Event
+ | listnum = PLA-02
+ | descen = Conduct tactical training 2 times
+ | reward = {{Display|UnknownT2BP|Elite|x2 Random T2 Blueprints}} {{Display|Wood|Normal|15x Building Material}}
+ | notes = Day 2
+}}
+{{Mission
+ | type = Event
+ | listnum = PLA-03
+ | descen = Complete 3 Daily Challenges
+ | reward = {{Display|Food5|Elite|x3 Royal Gourmet}} {{Display|Wood|Normal|15x Building Material}}
+ | notes = Day 3
+}}
+{{Mission
+ | type = Event
+ | listnum = PLA-04
+ | descen = Defeat 20 enemies
+ | reward = {{Display|UnknownT3BP|5|x2 Random T3 Blueprints}} {{Display|Wood|Normal|15x Building Material}}
+ | notes = Day 4
+}}
+{{Mission
+ | type = Event
+ | listnum = PLA-05
+ | descen = Build 2 Ships
+ | reward = {{Display|UnknownT3Book|5|x2 Random T3 Skill Book}} {{Display|Wood|Normal|15x Building Material}}
+ | notes = Day 5
+}}
+{{Mission
+ | type = Event
+ | listnum = PLA-06
+ | descen = Complete 2 Commissions
+ | reward = {{Display|T4Box|5|x2 Random T4 box}} {{Display|Wood|Normal|15x Building Material}}
+ | notes = Day 6
+}}
+{{Mission
+ | type = Event
+ | listnum = PLA-07
+ | descen = Enhance gear 2 times
+ | reward = {{Display|Food6|4|x3 Full Course}} {{Display|Wood|Normal|10x Building Material}}
+ | notes = Day 7
+}}
+|}
+
+==Manjuu Misadventures==
+Use Left, Right, and Jump buttons to control Saratoga and get her to higher Floors.  Falling from platforms, touching traps, or being caught by Angry Manjuus will deplete your Health.  The game ends when you have 0 Health.
+
+There are three difficulty modes
+{| class="azltable"
+!Mode!!Dangers
+|- 
+|Easy||Falling
+|-
+|Normal||Falling, Traps
+|- 
+|Hard||Falling, Traps, Angry Manjuus, Clouds
+|}
+
+Playing Manjuu Misadventures while you have Credits will consume 1 Credit and reward you with 1 Check-in.  You do not need to score any points to receive the reward.
+
+Get 7 Check-ins to earn the [[File:Invitiation.png|40px|link=]] Early Summer Invitation (2020), which can be used to Invite certain Super Rare ships.  The Invitation varies by server region.
+
+{| class="azltable" style="text-align:left;margin-right:1em"
+|+Invitation
+!EN!!JP
+|-
+|
+*[[Shoukaku]]
+*[[Zuikaku]]
+|
+*[[Sirius]]
+*[[Victorious]]
+|-
+| colspan = "2" |
+*[[Atago]]
+*[[Belfast]]
+*[[Illustrious]]
+*[[Hood]]
+*[[Enterprise]]
+*[[Prince of Wales]]
+*[[Warspite]]
+|}
+
+The Invitation is delivered to your [[Equipment|Depot]].  To use the Invitation, go to [[Equipment#Material_.28Items.29|Depot / Items]] and find and select the Invitation.  Then select the ship you would like to invite.  Scroll along the bottom to see all the choices.
+
+==References==
+*[[wikipedia:Xiaolongbao|Soup Dumpling]]
+*[[wikipedia:Dango|Dango]]

@@ -1,0 +1,244 @@
+{{EventInfobox
+ | Title = Air Raid Drills with Essex
+ | Banner = Air Raid Drills with Essex Rerun Event Banner EN.jpg
+ | OtherEventVersions = [[Air Raid Drills with Essex|Original Run]]
+ | Stories = [[Memories/Air Raid Drills with Essex|Air Raid Drills with Essex]]
+ | Dates =
+{{EventInfoDate
+ | Title = CN/JP/EN Servers
+ | Start = June 24th 2020
+ | End = July 8th 2020
+}}
+}}
+
+==Ships and Construction==
+{{ShipDisplay|5|Essex|CV||'''Construction (1.8%)'''<br>04:25:00}}
+{{ShipDisplay|5|I-168|SS||'''Construction (1.5%)'''<br>00:30:00}}
+{{ShipDisplay|5|Shangri-La|CV||'''Construction (2.0%)'''<br>04:25:00}}
+{{ShipDisplay|5|U-101|SS||'''Construction (1.5%)'''<br>00:12:00}}
+{{ShipDisplay|4|I-25|SS||'''Construction (2.5%)'''<br>00:30:00}}
+{{ShipDisplay|4|I-56|SS||'''Construction (2.5%)'''<br>00:30:00}}
+{{ShipDisplay|4|Independence|CVL||'''[[#Point Milestone|Milestone Reward]]'''}}
+{{ShipDisplay|4|U-522|SS||'''Construction (2.5%)'''<br>00:11:00}}
+
+After the event all ships excluding {{Elite}} '''Independence''' will be available permanently in the Special construction pool.
+
+==Skins==
+
+*For the duration of the event, the following skins will be available in the '''skin shop''':
+{{ShipDisplay|5|Atago|CA|RaceQueen|Stunning Speedster|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|Duke of York|BB|RaceQueen|Prestige of the Glorious Formula|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|I-19|SS|Sleepy|Pillowy Paradise|{{Gem}} 880|1|BG|103|y}}
+{{ShipDisplay|5|Prince of Wales|BB|RaceQueen|The Laureate's Victory Lap|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|Shangri-La|CV|Misc|Explorer of the Lost World|{{Gem}} 800|1|||y}}
+{{ShipDisplay|5|Shoukaku|CV|RaceQueen|Sororal Wings|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|Taihou|CV|RaceQueen|Enraptured Companion|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|Takao|CA|RaceQueen|Throttle Charmer|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|Zuikaku|CV|RaceQueen|The Wind's True Name|{{Gem}} 900|1|BG|132|y}}
+
+====Returning skins====
+
+*The following skins are returning for sale in the skin shop.
+*'''Note''': For the EN version of the game, these skin are available for the first time.
+{{ShipDisplay|5|Shangri-La|CV|Casual|Utopia's Collector|{{Gem}} 880|1|BG|110|y}}
+{{ShipDisplay|4|Independence|CVL|School|Transfer Student From Afar|{{Gem}} 780|1|BG|103|y}}
+
+==Furniture==
+For the duration of the event, the furniture set "Passion for Acceleration" will be available in the dorm shop.
+{{:Furniture Sets/Passion for Acceleration}}
+
+==Event Description==
+
+*In this event, all the Commanders in the Server will need to work together to defeat [[Essex]].
+**Participating in the event '''will cost oil''' depending on fleet used.
+*In EX map, when the timer runs out, or if your fleet is defeated, contribution value will be given according to the total damage done.
+*The battle in EX map has a total time limit of 60 seconds. The higher the damage you deal, the better the rewards are and contributions you will get. If you withdraw from battle, you will not receive any reward.
+*The other maps will have a time limit of 3 minutes, and the boss must be defeated to obtain contribution points.
+*Each server's progression will be calculated separately. When the Gauge reaches 0%, the event will be successfully completed.
+
+==Event Stage==
+
+*The event stage has 4 difficulties: Easy, Normal, Hard, and EX. The Contribution Point [[File:EssexPt.png|25px]] gain will increase along with the difficulties. To access the EX stage you will need a Special Pass [[File:DidoTicket.png|30px]] and the point gain will be based on how much damage you have done (Note: Practice mode is available for EX).
+*There is an Expert mode available in the stage menu. To access it, click the title to the left of Essex 10 times. There will be a popup counting down from 10 every time the title is clicked. After clicking the title 10 times you will battle immediately against Essex.
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="7" |Essex Stages
+|-
+!Difficulty
+!Level
+!Base XP
+!Boss
+!Limit of Drop Rate Up
+!Rewards
+|-
+! class="rarity-2" |Easy
+|''Lv. 20''
+|169
+|{{Display|EssexIcon|G|[[Essex]]}}
+|''x15 times per day''
+| style="text-align:left;" |{{Display|Coinicon|G|''Gold''}} {{Display|EssexPt|B|''x30 Contribution Pts''}} {{Display|UnknownBP|Grey|Equipment Blueprint}} {{Display|UnknownT2Plate|B|[[Equipment#Upgrading|Random T2 Plates]]}} {{Display|Food1|B|[[Living Area#Refilling supplies|Oxy-cola]]}}
+|-
+! class="rarity-3" |Normal
+|''Lv. 50''
+|286
+|{{Display|EssexIcon|G|[[Essex]]}}
+|''x15 times per day''
+| style="text-align:left;" |{{Display|Coinicon|G|''Gold''}} {{Display|EssexPt|B|''x70 Contribution Pts''}} {{Display|UnknownBP|Grey|Equipment Blueprint}} {{Display|UnknownT3Plate|P|[[Equipment#Upgrading|Random T3 Plates]]}} {{Display|Food1|B|[[Living Area#Refilling supplies|Oxy-cola]]}}
+|-
+! class="rarity-4" |Hard
+|''Lv. 90''
+|423
+|{{Display|EssexIcon|G|[[Essex]]}}
+|''x15 times per day''
+| style="text-align:left;" |{{Display|Coinicon|G|''Gold''}} {{Display|EssexPt|B|''x120 Contribution Pts''}} {{Display|UnknownBP|Grey|Equipment Blueprint}} {{Display|UnknownT3Plate|P|[[Equipment#Upgrading|Random T3 Plates]]}} {{Display|Food1|B|[[Living Area#Refilling supplies|Oxy-cola]]}}
+|-
+! class="rarity-5" |EX
+|''Lv. 125''
+|583<sup>1</sup>
+|{{Display|EssexIcon|G|[[Essex]]}}
+|''Special Pass [[File:DidoTicket.png|30px]] only''
+| style="text-align:left;" |{{Display|Coinicon|G|''Gold''}} {{Display|EssexPt|B|''x0-300 Contribution Pts''<sup>2</sup>}} {{Display|UnknownBP|Grey|Equipment Blueprint}} {{Display|UnknownT3Plate|P|[[Equipment#Upgrading|Random T3 Plates]]}} {{Display|Food1|B|[[Living Area#Refilling supplies|Oxy-cola]]}}
+|-
+! class="rarity-6" |Expert<sup>3</sup>
+|''Lv.120''
+|
+|{{Display|EssexIcon|G|[[Essex]]}}
+|''Unlimited''(?)
+|
+|}
+
+<sup>1</sup> EX Mode is a guaranteed S-rank for purposes of XP, even if your fleet is defeated.
+
+<sup>2</sup> Points reward depends on damage done. Fully defeating the boss will give between 290 and 300 points.
+
+<sup>3</sup> Essex deals much more damage despite being lower level than EX Mode.
+
+*Your first 15 battles for each day on each of the Easy, Normal and Hard difficulties will give you better clear rewards. If you have used up all 15 sorties, you can use a Special pass [[File:DidoTicket.png|30px]] to keep getting better clear rewards. 
+**You can still play the event maps (except for EX) after using up the daily sorties, even with zero Special passes. The amount of contribution points will stay the same.
+*Submarines and Meowfficers can be used. Summoning submarines will cost oil.
+
+{| class="wikitable" style="text-align:center"
+ ! colspan="7" |Gauge Reward
+ |-
+ !75&nbsp;%
+ !50&nbsp;%
+ !25&nbsp;%
+ !0&nbsp;%
+ |-
+ |{{Display|AuxT3Plate|P|10x T3 General Part|60|}}
+ |{{Display|BattleshipT3BP|G|2x T3 Battleship Retrofit Blueprint|60|}}
+ |{{Display|26620|G|5x Twin 40mm Bofors Hazemeyer Mount Mk IV Designs|60|Twin 40mm Bofors Hazemeyer Mount Mk IV}}
+ |{{Display|18060|G|1x TBD Devastator (VT-8 Squadron)|60|Torpedo Squadron 8 (VT-8)}}
+ |}
+
+*Possible equipment blueprint drops from Hard and EX maps:
+{{EquipmentBox|5|T0 Twin 40mm Bofors "Hazemeyer" AA Gun|Twin 40mm Bofors Hazemeyer Mount Mk IV|26620}}
+{{EquipmentBox|4|T3 TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T3 SB2C Helldiver|Curtiss SB2C Helldiver#Type3|19100}}
+{{EquipmentBox|4|T2 F6F Hellcat|Grumman F6F Hellcat#Type 2|17300}}
+{{EquipmentBox|4|T3 Quadruple 28mm AA Chicago Piano|Quadruple 28mm AA Chicago Piano|16200}}
+
+===Daily Tasks===
+For each day of the event, these five tasks will be available to be completed once and reset again at the end of the day:
+{| class="wikitable" style="text-align:center"
+!Task Description
+!Rewards
+|-
+|Log in to the game.
+|{{Display|DidoTicket|5|1x Special Pass}}
+|-
+|Sortie and clear 1 non-event Hard Mode stage.
+|{{Display|DidoTicket|5|1x Special Pass}}
+|-
+|Sortie and clear 3 non-event Hard Mode stages.
+|{{Display|DidoTicket|5|1x Special Pass}}
+|-
+|Clear any 5 "Air Raid Drills with Essex" stages.
+|{{Display|DidoTicket|5|1x Special Pass}}
+|-
+|Clear any 10 "Air Raid Drills with Essex" stages.
+|{{Display|DidoTicket|5|1x Special Pass}}
+|}
+
+==Point Milestone==
+{| class="wikitable" style="text-align:center"
+![[File:EssexPt.png|x25px|Contribution Points|link=]]
+!Reward
+![[File:EssexPt.png|x25px|Contribution Points|link=]]
+!Reward
+![[File:EssexPt.png|x25px|Contribution Points|link=]]
+!Reward
+|-
+|400
+|{{Display|UnknownT1Book|Rare|3x T1 Random Skill Book}}
+|600
+|{{Display|26620|Super Rare|1x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors<br>"Hazemeyer" AA Gun T0]] Design}}
+|800
+|{{Display|Moduleicon|Super Rare|50x Cognitive Chips}}
+|-
+|1000
+|{{Display|26620|Super Rare|2x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors<br>"Hazemeyer" AA Gun T0]] Design}}
+|1500
+|{{Display|Moduleicon|Super Rare|100x Cognitive Chips}}
+|2000
+|{{Display|Oilicon|Normal|200x Oil}}
+|-
+|2500
+|{{Display|Cat Box Elite|Elite|1x Elite Cat Box}}
+|3000
+|{{Display|26620|Super Rare|3x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors<br>"Hazemeyer" AA Gun T0]] Design}}
+|3500
+|{{Display|Coinicon|Normal|1000x Coins}}
+|-
+|4000
+|{{Display|19100|Elite|1x [[SB2C Helldiver]]}}
+|5000
+|{{Display|26620|Super Rare|4x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors<br>"Hazemeyer" AA Gun T0]] Design}}
+|6000
+|{{Display|Core Data|Rare|300x Core Data}}
+|-
+|7000
+|{{Display|UnknownT3Book|Super Rare|3x T3 Random Skill Book}}
+|8000
+|{{Display|Cat Box Super Rare|Super Rare|1x Super Rare Cat Box}}
+|9000
+|{{Display|CarrierT3BP|Super Rare|1x T3 Carrier Retrofit Blueprint}}
+|-
+|10000
+|{{Display|17260|Super Rare|1x [[Vought F4U Corsair (VF-17 Squadron)|F4U (VF-17 “Pirate” Squad)]]}}
+|14000
+|{{Display|26620|Super Rare|5x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors<br>"Hazemeyer" AA Gun T0]] Design}}
+|18000
+|{{Display|AllSUnit3|Legendary|1x Special Strengthening Unit S2}}
+|-
+|24000
+|{{Display|IndependenceIcon|Elite|1x [[Independence]]}}
+|30000
+|{{Display|CarrierT3BP|Super Rare|1x T3 Carrier Retrofit Blueprint}}
+|38000
+|{{Display|Core Data|Rare|700x Core Data}}
+|-
+|48000
+|{{Display|AllSUnit3|Legendary|2x Special Strengthening Unit S2}}
+|60000
+|{{Display|T5Box|Legendary|1x Random T5 Tech Pack}}
+|}
+
+==Manjuu Grand Prix==
+[[File:Monopoly_bg_-222.png|400px|thumb]]
+Manjuu Grand Prix has great resemblance to [[Spring Festival#Empery Monopoly|Empery Monopoly]] from Spring Festival.
+
+*You can access the event from its event banner '''"Manjuu Grand Prix"'''. In this event you play a board game similar to monopoly. To play, you basically tap "Accelerate" to roll for a movement (one to six tile movement), then the acceleration is consumed.
+*You initially start with 5 accelerations and every daily reset awards 5 accelerations.
+*All tiles on the board have various effects:
+**[[File:Icon_2_-237.png|24px|link=]] Small amount of Gold.
+**[[File:Icon_5_-242.png|24px|link=]] Small amount of Oil.
+**[[File:Icon_6_-227.png|24px|link=]] Random chance event.
+**[[File:Icon_3_-224.png|24px|link=]] Random movement event.
+**[[File:Icon_1_-241.png|24px|link=]] A certain amount of equipment blueprint.
+**[[File:Icon_4_-234.png|24px|link=]] Starting tile, also gives a small amount of Gold when you pass through it.
+
+Finishing 4 laps awards the ''[[Decorations#Other_Furniture|Red Blaze]]'' decorative item.
+
+[[Category:Events]]

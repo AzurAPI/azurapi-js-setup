@@ -1,0 +1,1328 @@
+{{EventInfobox
+ | Title = Skybound Oratorio
+ | Banner = Skybound Oratorio Event Banner EN.jpg 
+ | AssociatedEvent = [[Skybound Prelude]]
+ | Stories = [[File:Memory Skybound Oratorio.png|158px|link=Memories/Skybound Oratorio]]<br>[[Memories/Skybound Oratorio|Skybound Oratorio]]
+ | Dates =
+{{EventInfoDate
+ | Title = CN/JP Servers
+ | Start = May 21st 2020
+ | End = June 3rd 2020
+}}
+{{EventInfoDate
+ | Title = EN Servers
+ | Start = June 11th 2020
+ | End =  June 25th 2020
+}}
+}}
+
+== Ships and Construction ==
+{{ShipDisplay|5|Jeanne d'Arc|CL||'''Construction (0.5%)<br>01:26:00'''|'''[[#Shop|Event Shop]]'''<hr>'''[[#Maps|Map Drop]]'''}}
+{{ShipDisplay|5|Algérie|CA||'''Construction (2%)<br>01:55:00'''}}
+{{ShipDisplay|5|Richelieu|BB||'''Construction (2%)<br>05:50:00'''}}
+{{ShipDisplay|4|Vauquelin|DD||'''Construction (2.5%)<br>00:26:00'''}}
+{{ShipDisplay|4|Béarn|CV||'''[[#Shop|Event Shop]]'''|'''[[#Maps|Map Drop]]'''}}
+{{ShipDisplay|4|La Galissonnière|CL||'''[[#Milestone|Point Accumulation]]'''}}
+
+==Skins==
+*'''New time-limited skins''' will be available in a cash shop for the duration of the event:
+*[[Surcouf]]'s new skin Loisirs balnéaires is WIP for Live2D and is planned for release in early June.
+<div style="display:flex; flex-wrap:wrap; margin-left:15px">
+{{ShipDisplay|5|Jean Bart|BB|Summer|Private Après Midi|{{Gem}} 1180*|1|L2D BG|133|y}}
+{{ShipDisplay|5|Le Malin|DD|Summer|Mercredi at the Secret Base|{{Gem}} 1180|1|L2D BG|106|y}}
+{{ShipDisplay|5|Richelieu|BB|Summer|Fleuron of the Waves|{{Gem}} 1180*|1|L2D BG|133|y}}
+{{ShipDisplay|4|Émile Bertin|CL|Maid|Maid Fantastique|{{Gem}} 1080|1|L2D BG|104|y}}
+{{ShipDisplay|5|Algérie|CA|Summer|White Sand Paradise|{{Gem}} 880|1|BG|106|y}}
+{{ShipDisplay|5|Jeanne d'Arc|CL|Summer|Saintess of the Sea|{{Gem}} 880|1|BG|134|y}}
+{{ShipDisplay|4|Béarn|CV|Summer|Summer Lifeguard|{{Gem}} 780|1|BG|106|y}}
+{{ShipDisplay|4|La Galissonnière|CL|Summer|Pristine Piscene|{{Gem}} 780|1|BG|133|y}}
+{{ShipDisplay|4|Vauquelin|DD|Summer|Innocent Summer Knight|{{Gem}} 780|1|BG|106|y}}
+{{ShipDisplay|4|Z23|DD|Summer|Breezy Doubles|{{Gem}} 780*|1|BG|106|y}}
+</div>
+
+Skins marked with * can be rented during the event. Renting allows you to use the skin '''for free''' for 2 days. Every player is allowed to rent once during the event.<br>Additionally during EN run ticket can be used instead for [[St. Louis/Gallery#Luxurious Wheels|St. Louis - Luxurious Wheels]] (Live2D), [[Ping Hai/Gallery#Delicious Crimson|Ping Hai - Delicious Crimson]] (Live2D) or [[Littorio/Gallery#Calabria Aurea|Littorio - Calabria Aurea]] (their ticket can also be used for a secondary buy of the Skybound skins if yet unused).
+
+== Furniture ==
+For the duration of the event, the furniture set "Iris Countryside" will be available in the dorm shop.
+{{:Furniture Sets/Iris Countryside}}
+
+== Equipment Skins ==
+For the duration of the event, the '''Gear Skin Box (Iris)''' [[File:appearanceboxfaxi.png|25px|link=]] will be available in the [[Shops#General_Shop|General Shop]] for a price of 7000 Coins {{Coin}}. The following skins can be obtained by opening these boxes:
+{{:Equipment Skins/Iris Libre Specialties}}
+
+== Tasks ==
+
+=== Daily Tasks ===
+
+*For each day of the event, these three tasks will be available to be completed once and reset again at the end of the day:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|IrisPt|Rare|x300 Crest of the Orthodoxy|35}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|IrisPt|Rare|x300 Crest of the Orthodoxy|35}}
+|-
+| Sortie and clear 1 non-event Hard Mode Stage.
+| {{Display|IrisPt|Rare|x150 Crest of the Orthodoxy|35}}
+|}
+
+=== Map Completion Tasks ===
+* There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once by either Normal or Hard maps.
+<div style="display:flex; flex-wrap:wrap">
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !A1/C1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IrisPt|Rare|x 200}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !A2/C2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IrisPt|Rare|x 400}}
+   | {{Display|Universal BullinIcon|P|[[Universal Bullin]]}}
+   |-
+   !A3/C3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|IrisPt|Rare|x 600}}
+   | {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !B1/D1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IrisPt|Rare|x 400}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !B2/D2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IrisPt|Rare|x 600}}
+   | {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+   |-
+   !B3/D3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|IrisPt|Rare|x 800}}
+   | {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+ <div>
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   |-
+   ! SP
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}}
+  |}
+ </div>
+</div>
+
+*Special furniture reward for clearing '''D3''' map:
+{{Display|FurnIcon_faxi2xunzhangicon|6|Skybound Oratorio<br>Medal}}
+
+== Maps ==
+* The event maps are split into corresponding normal and hard modes, giving a total of 6 maps for each mode, a '''SP stage''' and an '''EX stage'''. 
+* '''Crest of the Orthodoxy''' [[File:IrisPt.png|25px|link=]] are rewarded for defeating the boss on any map (except EX), with '''SP''' giving a greater amount, but only being able to be cleared once per day. <span style="color:red">Normal maps will have x3 ''Crest of the Orthodoxy'' [[File:IrisPt.png|25px|link=]] bonus for first clear each day.</span>
+* The second chapter(B, D, and EX maps) are not available until the 1st refresh on the second day.
+* This event uses the [[Combat#Danger Level|Danger Level]], ACV and the Siren mechanics.
+
+==== New Gameplay Elements ====
+*Barriers of Light that will obstruct the movement of your fleets.
+*Enemy Coastal Artillery Support during battle.
+**Its unaffected by screenclears from launching airstrikes.
+**It can hit submerged submarines.
+**It will be disabled in Clearing mode.
+
+==== Crest of the Orthodoxy drops per map ====
+{| class="azltable" style="text-align: center;"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|30 [[File:IrisPt.png|25px|link=]]
+|'''C1'''
+|90 [[File:IrisPt.png|25px|link=]]
+|-
+|'''A2'''
+|40 [[File:IrisPt.png|25px|link=]]
+|'''C2'''
+|100 [[File:IrisPt.png|25px|link=]]
+|-
+|'''A3'''
+|50 [[File:IrisPt.png|25px|link=]]
+|'''C3'''
+|110 [[File:IrisPt.png|25px|link=]]
+|-
+|'''B1'''
+|60  [[File:IrisPt.png|25px|link=]]
+|'''D1'''
+|120  [[File:IrisPt.png|25px|link=]]
+|-
+|'''B2'''
+|70  [[File:IrisPt.png|25px|link=]]
+|'''D2'''
+|150  [[File:IrisPt.png|25px|link=]]
+|-
+|'''B3'''
+|80  [[File:IrisPt.png|25px|link=]]
+|'''D3'''
+|180  [[File:IrisPt.png|25px|link=]]
+|-
+! colspan="2" |'''Special'''
+| colspan="2" |800 [[File:IrisPt.png|25px|link=]]
+|}
+
+==== Ship Drops ====
+{| class="azltable" style="text-align:center"
+|+ Ship Drops
+|-
+| class="rarity-5" |[[File:Jeanne d'ArcIcon.png|50px|link=Jeanne d'Arc]]
+| [[Jeanne d'Arc]]
+| B3, D3, SP (boss node only)
+|-
+| class="rarity-4" |[[File:BéarnIcon.png|50px|link=Béarn]]
+| [[Béarn]]
+| B1, B2, D1, D2
+|}
+
+=== Normal ===
+<tabber>
+A1={{Map
+ | ctID = 1360001
+ | Title = A New Dawn 
+ | Introduction = Led by battleship Richelieu, a joint fleet between Iris Libre and Royal Navy sails into new waters... and new conflicts.
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 200x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 21-23
+ | SirenLevel = 24
+ | MobExp1 = 105
+ | MobExp2 = 121
+ | MobExp3 = 138
+ | MobExpSiren = 162
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1
+ | SirenSpawnOrder = 1
+ | Boss = Explorer I
+ | BossLevel = 25
+ | BossExp = 181
+
+ | BossBattleReq = 3
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 10 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 100
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T3 550mm Twin Torpedo Launcher|550mm Twin Torpedo Launcher|5300}}
+{{EquipmentBox|3|T3 Twin 100mm High-Angle Mle 1931|Twin 100mm High-Angle Mle 1931|6100}}
+{{EquipmentBox|3|Submarine-mounted 550mm 24V Torpedo|Submarine-mounted 550mm 24V Torpedo|5500}}
+{{EquipmentBox|3|T3 Single 130mm (Mle 1924)|Single 130mm (Mle 1924)|50000}}
+{{EquipmentBox|4|T3 Submarine-mounted 550mm 24V Torpedo|Submarine-mounted 550mm 24V Torpedo|5500}}
+ | ShipDrops = 
+{{IconHover|Glowworm|4}}
+{{IconHover|Javelin|4}}
+{{IconHover|Kent|3}}
+{{IconHover|Shropshire|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |c|e|x|e|e|c|x|x
+    |e| |e|p|p| |b|b
+    |x|s| |x|u|e| |b
+    |x|s| | |u|e| |c
+    |e| |e|p|p| | |e
+    |c|e|x|x|x|c|e|x
+  }}
+}}
+|-|
+A2={{Map
+ | ctID = 1360002
+ | Title = Information Exchange
+ | Introduction = On Basilica Isle, negotiations with the Vichya Dominion seem to be going nowhere. Is there no option other than to fight?
+ | Requirements = Clear A1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x Universal Bulin [[File:Universal BulinIcon.png|25px]]
+
+ | MobLevel = 26-28
+ | SirenLevel = 29
+ | MobExp1 = 130
+ | MobExp2 = 148
+ | MobExp3 = 168
+ | MobExpSiren = 196
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1
+ | SirenSpawnOrder = 1
+ | Boss = mass production Béarn-class
+ | BossLevel = 30
+ | BossExp = 217
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 285
+ | ActualAirSupremacy = 220
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T0 Single 155mm (Mle 1920)|Single 155mm (Mle 1920)|50800}}
+{{EquipmentBox|3|T0 Gourdou-Leseurre GL.2|Gourdou-Leseurre GL.2|50820}}
+{{EquipmentBox|3|T0 Levasseur PL.7|Levasseur PL.7|50840}}
+{{EquipmentBox|4|T3 Vought F4U Corsair|Vought F4U Corsair|17200}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+ | ShipDrops = 
+{{IconHover|Ark Royal|4}}
+{{IconHover|Unicorn|4}}
+{{IconHover|Kent|3}}
+{{IconHover|Shropshire|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |s| | |p| |e|c|x
+    |s| |c|x|x|b| |e|x
+    |x| | |b|b|u|c| |e
+    |x|p|x|u|p| | | |e
+    |e| |e| |x|x|e| |e
+    | |e| |e|x|x| |c| 
+  }}
+}}
+|-|
+A3={{Map
+ | ctID = 1360003
+ | Title = The Cardinal and the Knight
+ | Introduction = Two leaders grant each other blessings of the Iris. With heavy hearts, these unwilling warriers take up arms against one another. 
+ | Requirements = Clear A2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 600x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 31-33
+ | SirenLevel = 34
+ | MobExp1 = 155
+ | MobExp2 = 176
+ | MobExp3 = 198
+ | MobExpSiren = 229
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Algérie]]
+ | BossLevel = 35
+ | BossExp = 254
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 275
+ | ActualAirSupremacy = 210
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T0 Twin 155mm (Mle 1920)|Twin 155mm (Mle 1920)|50780}}
+{{EquipmentBox|3|T1 Twin 203mm (Mle 1924)|Twin 203mm (Mle 1924)|50860}}
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T3 25mm Mounted AA Gun Design||36000}}
+{{EquipmentBox|4|T2 Twin 203mm (Mle 1924)|Twin 203mm (Mle 1924)|50860}}
+ | ShipDrops = 
+{{IconHover|Exeter|4}}
+{{IconHover|York|4}}
+{{IconHover|Kent|3}}
+{{IconHover|Shropshire|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |c|e|x|x|c|e|e
+    |e| | |p| | |b| 
+    |x|x| |e|u|c|x|x
+    |e|e| |x| |e|x|x
+    |e| | |x| |p|b|e
+    |s|s| | |u| |e|
+    | |s|c|x|c|p| |e
+  }}
+}}
+|-|
+B1={{Map
+ | ctID = 1360004
+ | Title = God Incarnate 
+ | Introduction = The path towards the Basilica continues. But, the mass-produced fleet that awaits... has God's protection?!
+ | Requirements = Clear A3
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 41-43
+ | SirenLevel = 44
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 297
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Vauquelin]]
+ | BossLevel = 45
+ | BossExp = 326
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 310
+ | ActualAirSupremacy = 240
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|Single 138.6mm (Mle 1927)|Single 138.6mm (Mle 1927)|50700}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T3 Gyroscope|Gyroscope|2300}}
+{{EquipmentBox|4|T3 Twin 37mm AA Gun (SK C/30)|Twin 37mm AA Gun (SK C/30)|46200}}
+{{EquipmentBox|4|Single 138.6mm (Mle 1927)|Single 138.6mm (Mle 1927)|50700}}
+ | ShipDrops = 
+{{IconHover|Béarn|4}}
+{{IconHover|Erebus|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |e|x|x| |e
+    |e|c|x|x|e|e
+    |x| |b|b| | 
+    |e| |e|c|x|c
+    |e|p|u|u|c|e
+    |x|x|p| |p| 
+    |x|p| |e|x|e
+    |e| |s| |c| 
+    |e| |s|s| |e
+  }}
+}}
+|-|
+B2={{Map
+ | ctID = 1360005
+ | Title = Surprise Attack 
+ | Introduction = A wall of light separates Béarn's forces. Beware the darkened blade of the Vichya's judgment!
+ | Requirements = Clear B1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 600x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x Prototype Bulin MKII [[File:Prototype Bulin MKIIIcon.png|25px]]
+
+ | MobLevel = 51-53
+ | SirenLevel = 54
+ | MobExp1 = 255
+ | MobExp2 = 286
+ | MobExp3 = 318
+ | MobExpSiren = 364
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[La Galissonnière]]
+ | BossLevel = 55
+ | BossExp = 399
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 405
+ | ActualAirSupremacy = 310
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 SG Radar|SG Radar|1500}}
+{{EquipmentBox|4|T3 Autoloader|Autoloader|2200}}
+{{EquipmentBox|4|T3 Triple 152mm (6"/47 Mk 16)|Triple 152mm (6"/47 Mk 16)|12100}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T2 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+ | ShipDrops = 
+{{IconHover|Béarn|4}}
+{{IconHover|London|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |e|e|e|x|e| | |e|x|x
+    |e| | | | | |x|x| | |c
+    |x| |c|c|u|e|x|x|e|u| 
+    |e| | |p| |p|b|b|p| |p
+    | |c| | | | |b|b| | | 
+    |x|x|c| |s| |x|x| |s| 
+    |x| | | | | |e|e| | | 
+  }}
+}}
+|-|
+B3={{Map
+ | ctID = 1360006
+ | Title = Under God's Banner
+ | Introduction = The decisive battle against Algérie begins. A mysterious power is released, and none may know whether this battle ends in glory or in tragedy.
+ | Requirements = Clear B2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 800x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 56-58
+ | SirenLevel = 59
+ | MobExp1 = 280
+ | MobExp2 = 313
+ | MobExp3 = 348
+ | MobExpSiren = 398
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Algérie]]
+ | BossLevel = 60
+ | BossExp = 435
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 480
+ | ActualAirSupremacy = 370
+ | Notes = '''Wisdom Cube Reactivity:''' Due to a highly reactive Wisdom Cube, the entire fleet's DMG increases by 20%, but their DMG taken also increases by 20%.
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+{{EquipmentBox|4|T3 Repair Toolkit|Repair Toolkit|2400}}
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T2 Twin 203mm (Mle 1924)|Twin 203mm (Mle 1924)|50860}}
+ | ShipDrops = 
+{{IconHover|Jeanne d'Arc|5|Boss only}}
+{{IconHover|Queen Elizabeth|4}}
+{{IconHover|Renown|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | | | | | |e| | |e| | | | |x
+    | | | |e| | |b|b| | |e| | | 
+    |x| |e| |c|e| | |e|c| |e| | 
+    |x| | |e| | |u|u| | |e| | | 
+    | | | | |c|p| | |p|c| | |x|x
+    | |x| |e|x|x| | |x|x|e| | | 
+    | |x| |e|x|x| | |x|x|e| | | 
+    | | | | |c|p| | |p|c| | |x|x
+    |x| | | | | | | | | | | |x|x
+    | | | | | | |s|s| | | | | | 
+  }}
+}}
+</tabber>
+
+=== Hard ===
+<tabber>
+C1={{Map
+ | ctID = 1360021
+ | Title = A New Dawn
+ | Introduction = Led by battleship Richelieu, a joint fleet between Iris Libre and Royal Navy sails into new waters... and new conflicts.
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 200x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 71-73
+ | SirenLevel = 74
+ | MobExp1 = 355
+ | MobExp2 = 396
+ | MobExp3 = 438
+ | MobExpSiren = 499
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = Explorer I
+ | BossLevel = 75
+ | BossExp = 544
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 17 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1015
+ | ActualAirSupremacy = 780
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{DD}} DD, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 70, {{Firepower}} Total Firepower > 500, {{Torpedo}} Total Torpedo > 400
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Air Radar|Air Radar|1100}}
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Twin 134mm (QF Mark II)|Twin 134mm (QF Mark II)|21500}}
+{{EquipmentBox|4|T2 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+ | ShipDrops = 
+{{IconHover|Glowworm|4}}
+{{IconHover|Javelin|4}}
+{{IconHover|Kent|3}}
+{{IconHover|Shropshire|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |c|e|x|e|e|c|x|x
+    |e| |e|p|p| |b|b
+    |x|s| |x|u|e| |b
+    |x|s| | |u|e| |c
+    |e| |e|p|p| | |e
+    |c|e|x|x|x|c|e|x
+  }}
+}}
+|-|
+C2={{Map
+ | ctID = 1360022
+ | Title = Information Exchange
+ | Introduction = On Basilica Isle, negotiations with the Vichya Dominion seem to be going nowhere. Is there no option other than to fight?
+ | Requirements = Clear C1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x Universal Bulin [[File:Universal BulinIcon.png|25px]]
+
+ | MobLevel = 76-78
+ | SirenLevel = 79
+ | MobExp1 = 380
+ | MobExp2 = 423
+ | MobExp3 = 468
+ | MobExpSiren = 533
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = mass production Béarn-class
+ | BossLevel = 80
+ | BossExp = 580
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 17 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1575
+ | ActualAirSupremacy = 1210
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{DD}} DD, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 75, {{Firepower}} Total Firepower > 650, {{Evasion}} Total Evasion > 350
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Single 127mm (5"/38 Mk 30)|Single 127mm (5"/38 Mk 30)|11100}}
+{{EquipmentBox|4|T3 Vought F4U Corsair|Vought F4U Corsair|17200}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T2 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+{{EquipmentBox|5|T3 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+ | ShipDrops = 
+{{IconHover|Ark Royal|4}}
+{{IconHover|Unicorn|4}}
+{{IconHover|Kent|3}}
+{{IconHover|Shropshire|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |s| | |p| |e|c|x
+    |s| |c|x|x|b| |e|x
+    |x| | |b|b|u|c| |e
+    |x|p|x|u|p| | | |e
+    |e| |e| |x|x|e| |e
+    | |e| |e|x|x| |c| 
+  }}
+}}
+|-|
+C3={{Map
+ | ctID = 1360023
+ | Title = The Cardinal and the Knight
+ | Introduction = Two leaders grant each other blessings of the Iris. With heavy hearts, these unwilling warriers take up arms against one another.
+ | Requirements = Clear C2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 600x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 81-83
+ | SirenLevel = 84
+ | MobExp1 = 405
+ | MobExp2 = 451
+ | MobExp3 = 498
+ | MobExpSiren = 567
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Algérie]]
+ | BossLevel = 85
+ | BossExp = 616
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 21 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1480
+ | ActualAirSupremacy = 1140
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{DD}} DD, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 80, {{Firepower}} Total Firepower > 800, {{Reload}} Total Reload > 800
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 25mm Mounted AA Gun Design||36000}}
+{{EquipmentBox|4|T2 Twin 203mm (Mle 1924)|Twin 203mm (Mle 1924)|50860}}
+{{EquipmentBox|5|T3 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+ | ShipDrops = 
+{{IconHover|Exeter|4}}
+{{IconHover|York|4}}
+{{IconHover|Kent|3}}
+{{IconHover|Shropshire|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |c|e|x|x|c|e|e
+    |e| | |p| | |b| 
+    |x|x| |e|u|c|x|x
+    |e|e| |x| |e|x|x
+    |e| | |x| |p|b|e
+    |s|s| | |u| |e|
+    | |s|c|x|c|p| |e
+  }}
+}}
+|-|
+D1={{Map
+ | ctID = 1360024
+ | Title = God Incarnate
+ | Introduction = The path towards the Basilica continues. But, the mass-produced fleet that awaits... has God's protection?!
+ | Requirements = Clear C3
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 91-93
+ | SirenLevel = 94
+ | MobExp1 = 455
+ | MobExp2 = 506
+ | MobExp3 = 558
+ | MobExpSiren = 634
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Vauquelin]]
+ | BossLevel = 95
+ | BossExp = 689
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1420
+ | ActualAirSupremacy = 1090
+
+ | Fleet1 = 1 {{CVL}} CVL, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CA}} CA, 1 {{DD}} DD
+ | StatRestrictions = Average Level > 90, {{Firepower}} Total Firepower > 950, {{Evasion}} Total Evasion > 600
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T3 Twin 37mm AA Gun (SK C/30)|Twin 37mm AA Gun (SK C/30)|46200}}
+{{EquipmentBox|4|T2 Single 138.6mm (Mle 1929)|Single 138.6mm (Mle 1929)|50100}}
+{{EquipmentBox|4| Single 138.6mm (Mle 1927)|Single 138.6mm (Mle 1927)|50700}}
+{{EquipmentBox|5|T3 Single 138.6mm (Mle 1929)|Single 138.6mm (Mle 1929)|50100}}
+ | ShipDrops = 
+{{IconHover|Béarn|4}}
+{{IconHover|Erebus|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |e|x|x| |e
+    |e|c|x|x|e|e
+    |x| |b|b| | 
+    |e| |e|c|x|c
+    |e|p|u|u|c|e
+    |x|x|p| |p| 
+    |x|p| |e|x|e
+    |e| |s| |c| 
+    |e| |s|s| |e
+  }}
+}}
+|-|
+D2={{Map
+ | ctID = 1360025
+ | Title = Surprise Attack
+ | Introduction = A wall of light separates Béarn's forces. Beware the darkened blade of the Vichya's judgment!
+ | Requirements = Clear D1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 600x Crest of the Orthodoxy [[File:IrisPt.png|25px|Crest of the Orthodoxy|link=]]
+ | 3StarReward = 1x Prototype Bulin MKII [[File:Prototype Bulin MKIIIcon.png|25px]]
+
+ | MobLevel = 96-98
+ | SirenLevel = 99
+ | MobExp1 = 480
+ | MobExp2 = 533
+ | MobExp3 = 588
+ | MobExpSiren = 668
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2, 0, 1
+ | Boss = [[La Galissonnière]]
+ | BossLevel = 100
+ | BossExp = 725
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1700
+ | ActualAirSupremacy = 1310
+
+ | Fleet1 = 1 {{CVL}} CVL, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CA}} CA, 1 {{DD}} DD
+ | StatRestrictions = Average Level > 95, {{Firepower}} Total Firepower > 1100, {{AA}} Total Anti-Air > 1600
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 SG Radar|SG Radar|1500}}
+{{EquipmentBox|4|T3 Autoloader|Autoloader|2200}}
+{{EquipmentBox|4|T3 Triple 152mm (6"/47 Mk 16)|Triple 152mm (6"/47 Mk 16)|12100}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|5|T3 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+ | ShipDrops = 
+{{IconHover|Béarn|4}}
+{{IconHover|London|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |e|e|e|x|e| | |e|x|x
+    |e| | | | | |x|x| | |c
+    |x| |c|c|u|e|x|x|e|u| 
+    |e| | |p| |p|b|b|p| |p
+    | |c| | | | |b|b| | | 
+    |x|x|c| |s| |x|x| |s| 
+    |x| | | | | |e|e| | | 
+  }}
+}}
+|-|
+D3={{Map
+ | ctID = 1360026
+ | Title = Under God's Banner
+ | Introduction = The decisive battle against Algérie begins. A mysterious power is released, and none may know whether this battle ends in glory or in tragedy.
+ | Requirements = Clear D2
+ | ClearReward = 1x Skybound Oratorio Medal [[File:FurnIcon_faxi2xunzhangicon.png|25px]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 101-103
+ | SirenLevel = 104
+ | MobExp1 = 505
+ | MobExp2 = 561
+ | MobExp3 = 618
+ | MobExpSiren = 702
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2, 0, 1
+ | Boss = [[Algérie]]
+ | BossLevel = 105
+ | BossExp = 761
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 2015
+ | ActualAirSupremacy = 1550
+ | Notes = '''Wisdom Cube Reactivity:''' Due to a highly reactive Wisdom Cube, the entire fleet's DMG increases by 20%, but their DMG taken also increases by 20%.
+
+ | Fleet1 = 1 {{CVL}} CVL, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CA}} CA, 1 {{DD}} DD
+ | StatRestrictions = Average Level > 100, {{Firepower}} Total Firepower > 1600, {{Evasion}} Total Evasion > 950
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T2 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+{{EquipmentBox|4|T2 Twin 203mm (Mle 1924)|Twin 203mm (Mle 1924)|50860}}
+{{EquipmentBox|5|T3 Twin 203mm (Mle 1924)|Twin 203mm (Mle 1924)|50860}}
+ | ShipDrops = 
+{{IconHover|Jeanne d'Arc|5|Boss only}}
+{{IconHover|Queen Elizabeth|4}}
+{{IconHover|Renown|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | | | | | |e| | |e| | | | |x
+    | | | |e| | |b|b| | |e| | | 
+    |x| |e| |c|e| | |e|c| |e| | 
+    |x| | |e| | |u|u| | |e| | | 
+    | | | | |c|p| | |p|c| | |x|x
+    | |x| |e|x|x| | |x|x|e| | | 
+    | |x| |e|x|x| | |x|x|e| | | 
+    | | | | |c|p| | |p|c| | |x|x
+    |x| | | | | | | | | | | |x|x
+    | | | | | | |s|s| | | | | | 
+  }}
+}}
+</tabber>
+
+=== Special ===
+<tabber>
+SP={{Map
+ | ctID = 1360041
+ | Title = Hymn of the Bygone
+ | Introduction = Weary knights visit the crumbled Basilica after overcoming great hardships. Rest your weary feet and harken, for hymns of exultation still reach the skies.
+ | Requirements = Clear D3
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}
+
+ | MobLevel = 110
+ | SirenLevel = 110
+ | MobExp1 = 550
+ | MobExp2 = 605
+ | MobExp3 = 660
+ | MobExpSiren = 797
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2, 0, 1
+ | Boss = [[Gascogne]]
+ | BossLevel = 110
+ | BossExp = 550
+
+ | BossBattleReq = 7
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Sink 0 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 2575
+ | ActualAirSupremacy = 1980
+
+ | StatRestrictions = Average Level > 110
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T2 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+{{EquipmentBox|4|T2 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+{{EquipmentBox|5|T3 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+ | ShipDrops = 
+{{IconHover|Jeanne d'Arc|5|Boss only}}
+{{IconHover|Queen Elizabeth|4}}
+{{IconHover|Renown|4}}
+{{IconHover|Repulse|3}}
+{{IconHover|Norfolk|3}}
+{{IconHover|Suffolk|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |x|x| | | | | | | |x| 
+    | | |e|e|p|p|e|e| |x| 
+    | |c| | | | | |c| | | 
+    |s| | |c|e| |b|x|x|x| 
+    | |e|x|x|x|u|b|x|x|x| 
+    |s| | |c|e| |b|x|x|x| 
+    | |c| | | | | |c| | | 
+    | | |e|e|p|p|e|e| |x| 
+    |x| | | | | | | | | | 
+  }}
+}}
+|-|
+EX={{Map
+ | ctID = 1360051
+ | Title = Skybound Oratorio
+ | Introduction = As your jolted senses drown in darkness, a sacred golden wall woven by everyone's feelings and determination reaches towards the skies once more.
+ | Requirements = Clear D3
+
+ | Boss = [[Algérie]]
+ | BossLevel = 120
+
+ | BossBattleReq = 0
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 810
+ | ActualAirSupremacy = 620
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{BB}} BB
+ | Fleet2 = Not available
+
+ | NodeMap = {{MapTable
+    | | | | | 
+    | | | | | 
+    | |x|x|x| 
+    | |x|b|x| 
+    |x|x| |x|x
+    |x| | | |x
+    | | |s| | 
+  }}
+}}
+</tabber>
+
+== Shop ==
+In the ''Crest of the Orthodoxy Exchange Shop'' the earned '''Crest of the Orthodoxy''' [[File:IrisPt.png|x20px|link=]] can be exchanged for the items listed below. The shop will be available until one week after the end of the event period.
+*'''Note:''' This shop contains five copies of each Jeanne d'Arc and Béarn, which brings the total cost to clear the entire shop to 138,600 Crest of the Orthodoxy [[File:IrisPt.png|x20px|link=]]. The total cost when buying only one copy of each is 90,600 Crest of the Orthodoxy [[File:IrisPt.png|x20px|link=]].
+
+{{EventShop
+ | ShopName = Skybound Oratorio
+ | TotalPt = 138600
+ | PtImage = IrisPt
+
+ | ColorScheme = #c9cb70
+ | Image = Skybound_Oratorio_Shop_Banner
+
+ | Items = 
+{{EventShopItem|Super Rare|Jeanne d'Arc|Jeanne d'Arc|Jeanne d'ArcIcon|5|8000|IrisPt|1}}
+{{EventShopItem|Elite|Béarn|Béarn|BéarnIcon|5|4000|IrisPt|1}}
+{{EventShopItem|Super Rare|Gear Skin Box (Iris)|#Equipment Skins|appearanceboxfaxi|10|2000|IrisPt|1}}
+{{EventShopItem|Super Rare|Twin 203mm (Mle 1924) Design|Twin 203mm (Mle 1924)#Type 3|50860|15|135|IrisPt|1}}
+{{EventShopItem|Super Rare|T3 Quadruple 380mm Main Gun (Mle 1935) Design|Quadruple 380mm (Mle 1935)#Type 3|50400|15|135|IrisPt|1}}
+{{EventShopItem|Super Rare|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IrisPt|1}}
+{{EventShopItem|Super Rare|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IrisPt|1}}
+{{EventShopItem|Super Rare|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IrisPt|1}}
+{{EventShopItem|Super Rare|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IrisPt|1}}
+{{EventShopItem|Super Rare|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|IrisPt|100}}
+{{EventShopItem|Rare|Rare Cat Box|Meowfficer#Cat_Lodge|Cat Box Rare|10|250|IrisPt|1}}
+{{EventShopItem|Elite|Elite Cat Box|Meowfficer#Cat_Lodge|Cat Box Elite|5|500|IrisPt|1}}
+{{EventShopItem|Super Rare|Super Rare Cat Box|Meowfficer#Cat_Lodge|Cat Box Super Rare|2|3000|IrisPt|1}}
+{{EventShopItem|Super Rare|Strengthening Unit S2|Research|AllSUnit2|30|500|IrisPt|1}}
+{{EventShopItem|Legendary|Special Strengthening Unit S2|Research|AllSUnit3|10|1000|IrisPt|1}}
+{{EventShopItem|Elite|T3 General Part|Equipment#Upgrade_(Enhance)|AuxT3Plate|30|30|IrisPt|1}}
+{{EventShopItem|Elite|T3 Main Gun Part|Equipment#Upgrade_(Enhance)|GunT3Plate|30|30|IrisPt|1}}
+{{EventShopItem|Elite|T3 Torpedo Part|Equipment#Upgrade_(Enhance)|TorpT3Plate|30|30|IrisPt|1}}
+{{EventShopItem|Elite|T3 Anti-Air Gun Part|Equipment#Upgrade_(Enhance)|AAT3Plate|30|30|IrisPt|1}}
+{{EventShopItem|Elite|T3 Aircraft Part|Equipment#Upgrade_(Enhance)|PlaneT3Plate|30|30|IrisPt|1}}
+{{EventShopItem|Normal|Coins||Coinicon|5|500|IrisPt|2000}}
+{{EventShopItem|Normal|Oil||Oilicon|5|450|IrisPt|1000}}
+{{EventShopItem|Rare|Oxy-cola|Living_Area#Refilling_supplies|Food1|100|15|IrisPt|1}}
+}}
+
+== Milestone ==
+{| class="wikitable" style="text-align:center"
+![[File:IrisPt.png|25px|link=]]
+!Reward
+![[File:IrisPt.png|25px|link=]]
+!Reward
+![[File:IrisPt.png|25px|link=]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|Elite|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|Normal|3000x Coins}}
+|1000
+|{{Display|Moduleicon|Super Rare|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|Normal|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|Normal|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|4000
+|{{Display|BattleshipT2BP|Elite|1x T2 Battleship Retrofit Blueprint}}
+|4500
+|{{Display|CarrierT2BP|Elite|1x T2 Carrier Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|Super Rare|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|Super Rare|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|BattleshipT3BP|Super Rare|1x T3 Battleship Retrofit Blueprint}}
+|8500
+|{{Display|CarrierT3BP|Super Rare|1x T3 Carrier Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|Super Rare|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|10000
+|{{Display|La GalissonnièreIcon|Elite|1x [[La Galissonnière]]}}
+|11000
+|{{Display|UnknownT3Book|Super Rare|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|15000
+|{{Display|AllSUnit3|Legendary|1x Special Strengthening Unit S2}}
+|20000
+|{{Display|La GalissonnièreIcon|Elite|1x [[La Galissonnière]]}}
+|25000
+|{{Display|AllSUnit3|Legendary|2x Special Strengthening Unit S2}}
+|-
+|30000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|Super Rare|5x T3 Random Skill Book}}
+|40000
+|{{Display|La GalissonnièreIcon|Elite|1x [[La Galissonnière]]}}
+|-
+|45000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|AllSUnit3|Legendary|2x Special Strengthening Unit S2}}
+|55000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|La GalissonnièreIcon|Elite|1x [[La Galissonnière]]}}
+|80000
+|{{Display|T5Box|Legendary|1x T5 Ironblood Tech Pack}}
+|100000
+|{{Display|T5Box|Legendary|1x T5 Ironblood Tech Pack}}
+|-
+|}
+
+== Historical references ==
+
+* This event is mostly based on the [[:wikipedia:Battle of Madagascar|Battle of Madagascar]]. This was the British campaign to capture the island, which would deny the ports to the Japanese Navy and secure Allied trade routes in the Indian Ocean. The campaign lasted from 5 May to 6 November 1942.
+:* [[Illustrious]] and [[Fortune]] indeed participated in this campaign, as shown in the event.
+:* Other British ships included [[Erebus]], [[Foxhound]], and [[Javelin]].
+:* Vichy France had only a couple ships and submarines in this battle, none of which are shown in the event.
+:* As shown in the event, the Japanese navy did send submarines to support Vichy France.
+* Shortly after, the [[:wikipedia:Scuttling of the French fleet at Toulon|French fleet was scuttled at Toulon]] on 27 November 1942. As promised, when the Germans attempted to take over the Vichy France fleet, the French scuttled their ships.
+:* The list of scuttled ships indeed included [[Algérie]], [[La Galissonnière]], and [[Vauquelin]], who appear as enemies in this event.
+:* Other ships scuttled at Toulon include [[Dunkerque]], [[Le Mars]], and [[Tartu]].
+* During this time [[Béarn]] was being refit in the United States after defecting with [[Jeanne d'Arc]] to the Free French, soon to be followed by [[Richelieu]]. The Free French did not participate in either of the above operations.
+* [[L'Opiniâtre]] and [[Le Téméraire]] were never completed. [[Gascogne]] was never laid down.
+
+== See Also ==
+* [[Events]]
+
+[[Category:Events]]

@@ -1,0 +1,298 @@
+{{EventInfobox
+ | Title = Prelude under the Moon
+ | Banner = Prelude under the Moon Rerun Event Banner EN.jpg
+ | Stories = [[Memories/Moonlit Overture|Moonlit Overture]]
+ | Dates =
+{{EventInfoDate
+ | Title = CN/JP Servers
+ | Start = July 17th 2018
+ | End = July 24th 2018
+}}
+{{EventInfoDate
+ | Title = CN/JP Servers (Rerun)
+ | Start = January 17th 2019
+ | End = January 24th 2019
+}}
+{{EventInfoDate
+ | Title = EN Servers
+ | Start = March 14th 2019
+ | End = March 21st 2019
+}}
+{{EventInfoDate
+ | Title = EN Servers (Rerun)
+ | Start = June 3rd 2020
+ | End = June 10th 2020
+}}
+}}
+
+==Event Ships==
+{{ShipDisplay|4|Astoria|CA||'''[[#Event Tasks|3 star SP3]]'''}}
+{{ShipDisplay|4|Quincy|CA||'''[[#Event Login Rewards|Login Reward]]'''}}
+{{ShipDisplay|4|Vincennes|CA||'''[[#Daily Event Missions|Event Task]]'''}}
+
+==Event Skins==
+*For the duration of the event, the following skins will be available in the '''skin shop'''.
+*During the '''CN/JP rerun''' of this event, these skins will be '''discounted by up to 20%''':
+{{ShipDisplay|4|Astoria|CA|School|Pure "Gurl?"|{{Gem}} 780|1|BG|103|y}}
+{{ShipDisplay|4|Quincy|CA|Summer|Sizzling Summer, Brisk Breeze|{{Gem}} 780|1|BG|106|y}}
+{{ShipDisplay|4|Vincennes|CA|Sleepy|Sweet Dreams|{{Gem}} 700|1|||y}}
+
+*For the duration of the event, the following skin will be available in the skin shop '''only during the rerun''' version of this event:
+{{ShipDisplay|4|Vincennes|CA|School|Leisurely ABC's|{{Gem}} 780|1|BG|103|y}}
+
+==Event Tasks and Rewards==
+===Login Rewards===
+* These event login rewards are time-gated during the first three days of the event.
+{| class="wikitable" style="text-align: center;"
+! Day
+! 1
+! 2
+! 3
+|-
+! Rewards
+| {{Display|Oilicon|Normal|500x Oil}}
+| {{Display|Coinicon|Normal|1000x Coins}}
+| {{Display|QuincyIcon|Elite|[[Quincy]]||Quincy}}
+|}
+
+===Map Completion Tasks===
+*There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can each be completed once.
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+! SP1
+| {{Display|Cube|Super Rare|1x Windom Cube}} {{Display|coinicon|Normal|600x Coins}}
+| {{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint||Dockyard#Blueprints}}
+|-
+! SP2
+| {{Display|Cube|Super Rare|1x Wisdom Cube}} {{Display|coinicon|Normal|600x Coins}} 
+| {{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint||Dockyard#Blueprints}}
+|-
+! SP3
+| {{Display|Cube|Super Rare|2x Windom Cube}} {{Display|coinicon|Normal|1500x Coins}}
+| {{Display|AstoriaIcon|Elite|[[Astoria]]||Astoria}}
+|-
+|}
+
+===Daily Event Tasks===
+* These additional event missions are time-gated during the first three days of the event.
+{| class="wikitable" style="text-align:center"
+! Task
+! Reward
+! Unlocks on
+|-
+! Defeat 100 enemies.
+| {{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+| first event day
+|-
+! Defeat 3 Boss fleets.
+| {{Display|DestroyerT2BP|Elite|2x T2 Destroyer Retrofit Blueprints}}
+| second event day
+|-
+! Complete 3 [[Daily Raid|Daily Challenges]].
+| {{Display|VincennesIcon|Elite|[[Vincennes]]||Vincennes}}
+| third event day
+|}
+
+==Event Maps==
+* There will be no ambushes or airstrikes.
+* New event ships are not available as drops.
+* The maps do not use the [[Combat#Airspace Control|Airspace Control]] nor [[Combat#Danger Level|Danger Level]] mechanics.
+
+<div> 
+<tabber>
+SP1={{Map
+ | ctID = 1130101
+ | Title = Alarm Under the Moon
+ | Introduction = Soon the convoy's landing operation will conclude. Unbeknownst to them, on the final day of their mission, an unknown threat is creeping closer under the cover of the night's darkness.
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}
+ | 3StarReward = 1x T2 Destroyer Retrofit Blueprint {{Blueprint|T2|Destroyer}}
+
+ | MobLevel = 30-32
+ | MobExp1 = 180
+ | MobExp2 = 204
+ | MobExp3 = 228
+ | MobSpawnOrder = 1, 1, 1, 1
+ | EliteSpawnOrder = 3
+ | Boss = [[Kako]] and [[Kinugasa]]
+ | BossLevel = 34
+ | BossExp = 290
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+{{EquipmentBox|4|T3 Triple 152mm (6"/47 Mk 16)|Triple 152mm (6"/47 Mk 16)|12100}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T3 Twin 40mm Vickers ("HI" Shiki Type 91)|Twin 40mm Vickers ("HI" Shiki Type 91)|36400}}
+{{EquipmentBox|3|T3 Single 120mm (Type 3)|Single 120mm (Type 3)|31100}}
+ | ShipDrops = 
+{{IconHover|York|4}}
+{{IconHover|Exeter|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Brooklyn|3}}
+{{IconHover|Phoenix|3}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Furutaka|2}}
+{{IconHover|Kako|2}}
+{{IconHover|Aoba|2}}
+{{IconHover|Kinugasa|2}}
+ | NodeMap = {{MapTable
+    |x|x|x| |e|e|b|x
+    | | | |c| |e| | 
+    | | |x| |c|x|b| 
+    |s|s| |e| |x| |e
+    |s|s| | |e| |c| 
+  }}
+}}
+|-|
+SP2={{Map
+ | ctID = 1130102
+ | Title = The Suffering Sisters
+ | Introduction = The South Group, lead by Chicago, were wiped out in an instant. Meanwhile, the 3 sisters from the North Group are still unaware of the enemy's impending attack...
+ | Requirements = Clear SP1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}
+ | 3StarReward = 1x T3 Destroyer Retrofit Blueprint {{Blueprint|T3|Destroyer}}
+
+ | MobLevel = 40-42
+ | MobExp1 = 230
+ | MobExp2 = 258
+ | MobExp3 = 288
+ | MobSpawnOrder = 1, 1, 1, 1
+ | EliteSpawnOrder = 3
+ | Boss = [[Furutaka]] and [[Aoba]]
+ | BossLevel = 44
+ | BossExp = 362
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Autoloader|Autoloader|2200}}
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 140mm (3rd Year Type)|Twin 140mm (3rd Year Type)|32100}}
+{{EquipmentBox|3|T3 Triple 203mm (8"/55 Mk 9)|Triple 203mm (8"/55 Mk 9)|13000}}
+ | ShipDrops = 
+{{IconHover|Helena|4}}
+{{IconHover|Houston|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Brooklyn|3}}
+{{IconHover|Phoenix|3}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Furutaka|2}}
+{{IconHover|Kako|2}}
+{{IconHover|Aoba|2}}
+{{IconHover|Kinugasa|2}}
+ | NodeMap = {{MapTable
+    |x|x| |e| |e|b
+    |q|x| | |e| |b
+    |e| |c| |x|x|x
+    | | | |c| |e|b
+    | | |x| |x|e| 
+    |s|s| | |x| |e
+    |x|s| |c| |e| 
+  }}
+}}
+|-|
+SP3={{Map
+ | ctID = 1130103
+ | Title = Unbreakable Bond
+ | Introduction = "Together, we can do it." Without hesitation, the New Orleans sisters smile as they confront the enemy, regardless of the fact that they are facing the mighty fleet that wiped out the South Group.
+ | Requirements = Clear SP2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}
+ | 3StarReward = 1x [[Astoria]] [[File:AstoriaIcon.png|x25px|Astoria|link=Astoria]]
+
+ | MobLevel = 50-52
+ | MobExp1 = 280
+ | MobExp2 = 314
+ | MobExp3 = 348
+ | MobSpawnOrder = 1, 1, 1, 1
+ | EliteSpawnOrder = 2, 2
+ | Boss = [[Choukai]]
+ | BossLevel = 54
+ | BossExp = 435
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Repair Toolkit|Repair Toolkit|2400}}
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+ | ShipDrops = 
+{{IconHover|Erebus|4}}
+{{IconHover|Terror|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Brooklyn|3}}
+{{IconHover|Phoenix|3}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Furutaka|2}}
+{{IconHover|Kako|2}}
+{{IconHover|Aoba|2}}
+{{IconHover|Kinugasa|2}}
+ | NodeMap = {{MapTable
+    |x|b| |e| |c| |x|x
+    |b| |e| |x| |e|x|x
+    |b|e| |c| |e| |e| 
+    |x|x|x| |e| |c|x| 
+    |b| |e|c| |x| | |s
+    | |e| | | |x| |s|s
+  }}
+}}
+</tabber>
+
+[[Category:Events]]

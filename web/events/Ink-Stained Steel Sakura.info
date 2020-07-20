@@ -1,0 +1,1242 @@
+{{EventInfobox
+ | Title = Ink-Stained Steel Sakura
+ | Banner = Ink-stained Steel Sakura Banner EN.png
+ | OtherEventVersions = [[Ink-Stained Steel Sakura Rerun|Rerun]]
+ | Stories = [[File:Memory_Ink-Stained Steel Sakura.png|158px]]<br>[[Memories/Ink-Stained Steel Sakura|Ink-Stained Steel Sakura]]
+ | Dates =
+{{EventInfoDate
+ | Title = JP Servers
+ | Start = May 31st 2018
+ | End = June 14th 2018
+}}
+{{EventInfoDate
+ | Title = CN Servers
+ | Start = June 7th 2018
+ | End = June 21st 2018
+}}
+{{EventInfoDate
+ | Title = EN Servers
+ | Start = April 11th 2019
+ | End = April 25th 2019
+}}
+}}
+
+== Ships and Construction ==
+*For the duration of the event, the following ships will be available as '''rewards''' or in the '''Limited Construction Pool''':
+{{ShipDisplay|5|Nagato|BB||'''Construction (2%)'''<br>04:20:00}}
+{{ShipDisplay|5|Kawakaze|DD||'''Construction (2%)'''<br>00:25:00<hr>'''[[#Maps|Map Drop]]'''}}
+{{ShipDisplay|4|Mutsu|BB||'''[[#Point Milestone|Point Accumulation]]'''}}
+{{ShipDisplay|4|Kongou|BC||'''[[#Maps|Map Drop]]'''<hr>'''[[#Shop|Event Shop]]'''}}
+{{ShipDisplay|4|Haruna|BC||'''[[#Shop|Event Shop]]'''}}
+{{ShipDisplay|4|Yoizuki|DD||'''Construction (2.5%)'''<br>00:29:00}}
+{{ShipDisplay|4|Harutsuki|DD||'''Construction (2.5%)'''<br>00:29:00}}
+{{ShipDisplay|3|Ooshio|DD||'''[[#Maps|Map Drop]]'''<hr>'''[[#Shop|Event Shop]]'''}}
+{{ShipDisplay|3|Fumizuki|DD||'''Construction (5%)'''<br>00:21:00}}
+{{ShipDisplay|3|Asashio|DD||'''Construction (5%)'''<br>00:28:00}}
+
+== Skins ==
+*For the duration of the event, the following skins will be available in the '''skin shop''':
+{{ShipDisplay|Elite|Haruna|BC|School|Break Time Before Class|{{Ruby}} 880|1}}
+{{ShipDisplay|Rare|Asashio|DD|School|Flowering Season's Transfer Student|{{Ruby}} 880|1}}
+{{ShipDisplay|Super Rare|Kawakaze|DD|Event|Interlude Monochrome|{{Ruby}} 800|1}}
+{{ShipDisplay|Rare|Fumizuki|DD|Sleepy|Half-asleep Fairy|{{Ruby}} 700|1}}
+
+*'''Only during the EN run''' of this event, will the following skins be available in the '''skin shop''':
+{{ShipDisplay|5|Nagato|BB|Sleepy|Great Fox's Sleepwear|{{Ruby}} 880|1|BG|111}}
+{{ShipDisplay|4|Kongou|BC|Festival|Natural Beauty|{{Ruby}} 780|1|BG|101}}
+{{ShipDisplay|4|Yoizuki|DD|School|Sports Festival Preparations|{{Ruby}} 780|1|BG|112}}
+{{ShipDisplay|4|Mutsu|BB|Event|Warring States Warship|{{Ruby}} 780|1|BG|111}}
+
+== Tasks ==
+=== Daily Tasks ===
+* Each day of the event, these two daily tasks can be completed once:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|SakuraPt|Rare|300x Sakura Amulet|30}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|SakuraPt|Rare|300x Sakura Amulet|30}}
+|}
+
+=== Map Completion Tasks ===
+* There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once.
+** Maps clear and 3★ Rewards:
+
+{|
+ |
+{| class="wikitable" style="text-align:center"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!A1/C1
+|| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SakuraPt|Rare|x 200}}
+| {{Display|Oilicon|Grey|x 500}}
+|-
+!A2/C2
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SakuraPt|Rare|x 400}}
+| {{Display|Universal_BullinIcon|P|[[Universal Bullin]]}}
+|-
+!A3/C3
+| {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|SakuraPt|Rare|x 600}}
+| {{Display|BattleshipT3BP|G|1x T3 Battleship Blueprint}}
+|-
+!A4/C4
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SakuraPt|Rare|x 400}}
+| {{Display|Oilicon|Grey|x 500}}
+|}
+|
+{| class="wikitable" style="text-align:center"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!B1/D1
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SakuraPt|Rare|x 600}}
+| {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII|Trial Bullin<br />MKII]]}}
+|-
+!B2/D2
+| {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|SakuraPt|Rare|x 800}}
+| {{Display|BattleshipT3BP|G|1x T3 Battleship Blueprint}}
+|}
+|}
+
+=== Other Tasks ===
+* Special furniture reward for clearing '''D2''' map:
+{{Display|Sakura_Empire_Medal|6|Medal of Sakura Empire}}
+
+== Maps ==
+* The event maps are split into corresponding normal and hard nodes, giving a total of 6 maps for normal mode and 6 maps for hard mode. Sakura Amulets [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] are rewarded for defeating the boss at any map.
+*This run also re-introduces [[Combat#Danger_Level|Danger Level]] and the Siren mechanic as well.
+* On maps where you can see Siren fleets, there will be no Ambush nor Air Raids. Sirens variants can be DD, CL, CA, BB and CV. The Sirens will move on the map after you move a specific amount of times, based on '''your''' fleet speed.
+* Sirens have levels one below those of boss nodes. In addition, drops from Sirens are equivalent to drops from boss nodes, with the exception of boss-only drops such as SSR ships (i.e. Kawakaze) and Sakura Amulets [[File:SakuraPt.png|x22px|Sakura Amulet|link=]].
+* Event Stage A (Normal) and Stage C (Hard Mode) will be released after maintenance, and Stage B (Normal), Stage D (Hard Mode) and EX Mode will be released 36 hours after the start of the maintanance.
+* '''Note: All Air Supremacy values only apply to the EN run of the event, during the CN and JP runs this feature was not available yet.'''
+
+==== Sakura Amulet drops per map ====
+*All Normal maps will have a '''3x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] bonus''' for each '''first clear each day'''.
+{| class="azltable" style="text-align:center"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|30 [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|'''C1'''
+|90 [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|-
+|'''A2'''
+|40 [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|'''C2'''
+|100 [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|-
+|'''A3'''
+|50 [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|'''C3'''
+|110 [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|-
+|'''A4'''
+|60  [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|'''C4'''
+|120  [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|-
+|'''B1'''
+|70  [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|'''D1'''
+|150  [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|-
+|'''B2'''
+|80  [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|'''D2'''
+|180  [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+|}
+
+==== Ship Drops ====
+{| class="azltable" style="text-align:center"
+|+ Ship Drops
+|-
+| class="rarity-5" | [[File:KawakazeIcon.png|50px|link=Kawakaze]]
+| [[Kawakaze]]
+| B2, D2 (Boss node only)
+|-
+| class="rarity-4" | [[File:KongouIcon.png|50px|link=Kongou]]
+| [[Kongou]]
+| B1, D1, D2
+|-
+| class="rarity-3" | [[File:OoshioIcon.png|50px|link=Ooshio]]
+| [[Ooshio]]
+| A4, C4, D1
+|}
+
+=== Normal Maps ===
+<tabber>
+A1={{Map
+ | ctID = 1110001
+ | Title = Homewards
+ | Introduction = To rescue their friend, our heroes of the Sakura Empire are journeying home. However, the Sirens were lying in wait to ambush them.
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 200x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 30-32
+ | SirenLevel = 32
+ | MobExp1 = 145
+ | MobExp2 = 165
+ | MobExp3 = 186
+ | MobExpSiren = 209
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Asashio]]
+ | BossLevel = 33
+ | BossExp = 232
+
+ | BossBattleReq = 4
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 95
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 30x Sakura Amulet
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|3|T3 533mm Triple Torpedo Mount|533mm Triple Torpedo Mount|5000}}
+{{EquipmentBox|3|T3 Single 120mm (Type 3)|Single 120mm (Type 3)|31100}}
+ | ShipDrops =
+{{IconHover|Charles Ausburne|4}}
+{{IconHover|Glowworm|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |c| | |e| | |e| |c
+    | | | | | | | | |b
+    |e| |e|x|x|e| | | 
+    | | |x|x|x| | |e|c
+    |s| |x|x| |p| |x|x
+    |s|s| | | |e|b|x|x
+  }}
+}}
+|-|
+A2={{Map
+ | ctID = 1110002
+ | Title = Abnormality
+ | Introduction = The withered Sacred Sakura, the prowling Sirens, their brethren defending their home... Our heroes must find a way to get a grasp on the situation.
+ | Requirements = Clear [[#A1|A1]]
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x [[Universal Bulin]] [[File:Universal BulinIcon.png|x22px|Universal Bulin|link=Universal Bulin]]
+
+ | MobLevel = 34-36
+ | SirenLevel = 36
+ | MobExp1 = 165
+ | MobExp2 = 187
+ | MobExp3 = 210
+ | MobExpSiren = 236
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Harutsuki]] and [[Yoizuki]]
+ | BossLevel = 37
+ | BossExp = 261
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 170
+ | ActualAirSupremacy = 130
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 40x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T2 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|3|T3 Single 76mm (3″/50 caliber gun)|Single 76mm (3″/50 caliber gun)|11000}}
+{{EquipmentBox|3|T3 610mm Twin Torpedo Mount|610mm Twin Torpedo Mount|35000}}
+ | ShipDrops =
+{{IconHover|Shigure|4}}
+{{IconHover|Z1|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |x|x|e| |c|b
+    |x|x| | | | 
+    |x|x|e| |e|c
+    |e| |e|p| | 
+    | |e| | |c|b
+    |s| |e| |x|x
+    |s|s| |e|x|x
+  }}
+}}
+|-|
+A3={{Map
+ | ctID = 1110003
+ | Title = Faded Faith
+ | Introduction = The Sacred Sakura can only be withering from a lack of faith. In their search for the missing shrine maiden, our heroes are heading deep into unknown waters.
+ | Requirements = Clear [[#A2|A2]]
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 600x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 38-40
+ | SirenLevel = 40
+ | MobExp1 = 185
+ | MobExp2 = 209
+ | MobExp3 = 234
+ | MobExpSiren = 263
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Kongou]] and [[Haruna]]
+ | BossLevel = 41
+ | BossExp = 290
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 225
+ | ActualAirSupremacy = 170
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 50x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 406mm (16"/45 Mk 5)|Twin 406mm (16"/45 Mk 5)|14200}}
+{{EquipmentBox|4|T3 76mm AA Gun (3"/50 Mk 22)|76mm AA Gun (3"/50 Mk 22)|26300}}
+{{EquipmentBox|4|T3 Triple 25mm AA Type 96|Triple 25mm AA Type 96|36300}}
+{{EquipmentBox|3|T3 Triple 356mm (14"/50 Mk 11)|Triple 356mm (14"/50 Mk 11)|14100}}
+{{EquipmentBox|3|T3 Twin 356mm (41st Year Type)|Twin 356mm (41st Year Type)|34000}}
+ | ShipDrops =
+{{IconHover|Indianapolis|4}}
+{{IconHover|Renown|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |s|s|x|x|x|x|x
+    |s| |x|x|x|x|x
+    | |e| |e| | |b
+    | | | | |e|c|b
+    |e| |e|p| |x|x
+    |x|x| |e|c|x|x
+    |x|x|e| | | |b
+  }}
+}}
+|-|
+A4={{Map
+ | ctID = 1110004
+ | Title = The Protector
+ | Introduction = There they lie in slumber. The shrine maiden, and the Sacred Sakura. But one final obstacle stands between them and our heroes. Surely it can't be...?
+ | Requirements = Clear [[#A3|A3]]
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 42-44
+ | SirenLevel = 44
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 290
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Kawakaze]]
+ | BossLevel = 45
+ | BossExp = 319
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 290
+ | ActualAirSupremacy = 220
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 60x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Single 127mm (5"/38 Mk 30)|Single 127mm (5"/38 Mk 30)|11100}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Twin 25mm AA Type 96|Twin 25mm AA Type 96|36000}}
+{{EquipmentBox|3|T3 Single 127mm (SK C/34)|Single 127mm (SK C/34)|41000}}
+ | ShipDrops =
+{{IconHover|York|4}}
+{{IconHover|Exeter|4}}
+{{IconHover|Ooshio|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |x|x|x|x|x| | |x|x
+    |x|x|x|x|x|b|b|x|x
+    | |e| |e|c| | |x|x
+    |p| | | | |p| |c| 
+    |x|x|e| |e| |e| |e
+    |x|x| | | |e| |e| 
+    |x|x|s|s|s|x|x| |p
+  }}
+}}
+|-|
+B1={{Map
+ | ctID = 1110005
+ | Title = New Sprout
+ | Introduction = As our heroes attempted to wake Nagato, the Sirens began their attack on the Sacred Sakura. Suddenly, an unsettling mood envelops the battlefield...
+ | Requirements = Clear [[#A4|A4]]
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 600x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x [[Prototype Bulin MKII]] [[File:Prototype Bulin MKIIIcon.png|x22px|Prototype Bulin MKII|link=Prototype Bulin MKII]]
+
+ | MobLevel = 46-48
+ | SirenLevel = 48
+ | MobExp1 = 225
+ | MobExp2 = 253
+ | MobExp3 = 282
+ | MobExpSiren = 317
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Nagato]] and [[Mutsu]]
+ | BossLevel = 49
+ | BossExp = 348
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 375
+ | ActualAirSupremacy = 285
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 70x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 406mm (16"/45 Mk 5)|Twin 406mm (16"/45 Mk 5)|14200}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+{{EquipmentBox|4|T3 Twin 40mm Vickers ("HI" Shiki Type 91)|Twin 40mm Vickers ("HI" Shiki Type 91)|36400}}
+{{EquipmentBox|3|T3 Twin 356mm (41st Year Type)|Twin 356mm (41st Year Type)|34000}}
+ | ShipDrops = 
+{{IconHover|Kongou|4}}
+{{IconHover|Nelson|4}}
+{{IconHover|Rodney|4}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |x|x|x|p| |e|x|x|x|x
+    |x|x|x| |e| | |x|x|x
+    |x|x|x| | |e| | |x|x
+    |x|x|x|c|x|x|e| |x|x
+    | |b| | |e|e| |e| |s
+    | | |c| | | | | | |s
+    |x|x| |c|p|e|c|x|e| 
+  }}
+}}
+|-|
+B2={{Map
+ | ctID = 1110006
+ | Title = Steel Sakura
+ | Introduction = I shall be the bud of the blooming Ink-Stained Sakura. And you shall experience the full extent of my power! I am Nagato, Big Seven of the Sakura Empire!
+ | Requirements = Clear [[#B1|B1]]
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 800x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 50-52
+ | SirenLevel = 52
+ | MobExp1 = 245
+ | MobExp2 = 275
+ | MobExp3 = 306
+ | MobExpSiren = 344
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Purifier]]
+ | BossLevel = 53
+ | BossExp = 377
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 495
+ | ActualAirSupremacy = 380
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 80 [[File:SakuraPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T3 Nakajima B6N Tenzan|Nakajima B6N Tenzan|38100}}
+{{EquipmentBox|3|T3 Rammer|Rammer|1600}}
+ | ShipDrops = 
+{{IconHover|Kawakaze|5|Boss only}}
+{{IconHover|Erebus|4}}
+{{IconHover|Terror|4}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |p|x|x|x|x|p| |x|x
+    | |c|x|x|x|e| |x|x
+    | | | |x|x| |e| |e
+    |c| |e|x|x|e| | |s
+    |b| | | | | |e| |s
+    |c| |e|c|e| | | |s
+    | |c| |x|x|p|e|x|x
+  }}
+}}
+</tabber>
+
+=== Hard Maps ===
+<tabber>
+C1={{Map
+ | ctID = 1110011
+ | Title = Homewards
+ | Introduction = To rescue their friend, our heroes of the Sakura Empire are journeying home. However, the Sirens were lying in wait to ambush them.
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 200x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 60-62
+ | SirenLevel = 63
+ | MobExp1 = 295
+ | MobExp2 = 330
+ | MobExp3 = 366
+ | MobExpSiren = 418
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Asashio]]
+ | BossLevel = 64
+ | BossExp = 457
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 490
+ | ActualAirSupremacy = 375
+
+ | Fleet1 = 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 60, {{Firepower}} Total Firepower > 680, {{Evasion}} Total Evasion > 300
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 90x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T3 Fuel Filter|Fuel Filter|2000}}
+{{EquipmentBox|4|T2 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+ | ShipDrops =
+{{IconHover|Charles Ausburne|4}}
+{{IconHover|Glowworm|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |c|e| | |p|e| |e| 
+    | | | |e| | | | |b
+    | | |e|x|x|e|c| | 
+    |e| |x|x|x| | | |c
+    |s| |x|x| |p| |x|x
+    |s|s| | | |e|b|x|x
+  }}
+}}
+|-|
+C2={{Map
+ | ctID = 1110012
+ | Title = Abnormality
+ | Introduction = The withered Sacred Sakura, the prowling Sirens, their brethren defending their home... Our heroes must find a way to get a grasp on the situation.
+ | Requirements = Clear [[#C1|C1]]
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x [[Universal Bulin]] [[File:Universal BulinIcon.png|x22px|Universal Bulin|link=Universal Bulin]]
+
+ | MobLevel = 65-67
+ | SirenLevel = 68
+ | MobExp1 = 320
+ | MobExp2 = 357
+ | MobExp3 = 396
+ | MobExpSiren = 452
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Harutsuki]] and [[Yoizuki]]
+ | BossLevel = 69
+ | BossExp = 493
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 615
+ | ActualAirSupremacy = 470
+
+ | Fleet1 = 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 65, {{Firepower}} Total Firepower > 780, {{Reload}} Total Reload > 720
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 100x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|4|T3 Autoloader|Autoloader|2200}}
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T2 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+ | ShipDrops =
+{{IconHover|Shigure|4}}
+{{IconHover|Z1|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |x|x|e| |c|b
+    |x|x| | | | 
+    |x|x|e| |e|c
+    |p| |e|p| | 
+    | |e| | |c|b
+    |s| |e| |x|x
+    |s|s| |p|x|x
+  }}
+}}
+|-|
+C3={{Map
+ | ctID = 1110013
+ | Title = Faded Faith
+ | Introduction = The Sacred Sakura can only be withering from a lack of faith. In their search for the missing shrine maiden, our heroes are heading deep into unknown waters.
+ | Requirements = Clear [[#C2|C2]]
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 600x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 70-72
+ | SirenLevel = 73
+ | MobExp1 = 345
+ | MobExp2 = 385
+ | MobExp3 = 426
+ | MobExpSiren = 486
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Kongou]] and [[Haruna]]
+ | BossLevel = 74
+ | BossExp = 529
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 745
+ | ActualAirSupremacy = 570
+
+ | Fleet1 = 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 70, {{Firepower}} Total Firepower > 850, {{Torpedo}} Total Torpedo > 400
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 110x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Ship Maintenance Crane|Ship Maintenance Crane|1000}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+{{EquipmentBox|4|T3 Twin 406mm (16"/45 Mk 5)|Twin 406mm (16"/45 Mk 5)|14200}}
+{{EquipmentBox|4|T3 76mm AA Gun (3"/50 Mk 22)|76mm AA Gun (3"/50 Mk 22)|26300}}
+{{EquipmentBox|4|T3 Triple 25mm AA Type 96|T3 Triple 25mm AA Type 96|36300}}
+ | ShipDrops =
+{{IconHover|Indianapolis|4}}
+{{IconHover|Renown|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |s|s|x|x|x|x|x
+    |s| |x|x|x|x|x
+    | | | |e|p| |b
+    | |e| | | |c|b
+    | | | |c| |x|x
+    |e| |e| |p|x|x
+    |x|x| |e| | |b
+    |x|x|p| |c| |b
+  }}
+}}
+|-|
+C4={{Map
+ | ctID = 1110014
+ | Title = The Protector
+ | Introduction = There they lie in slumber. The shrine maiden, and the Sacred Sakura. But one final obstacle stands between them and our heroes. Surely it can't be...?
+ | Requirements = Clear [[#C3|C3]]
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 75-77
+ | SirenLevel = 78
+ | MobExp1 = 370
+ | MobExp2 = 412
+ | MobExp3 = 456
+ | MobExpSiren = 520
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Kawakaze]]
+ | BossLevel = 79
+ | BossExp = 565
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 950
+ | ActualAirSupremacy = 730
+
+ | Fleet1 = 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 75, {{Torpedo}} Total Torpedo > 450, {{Aviation}} Total Aviation > 850
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 120 [[File:SakuraPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Single 127mm (5"/38 Mk 30)|Single 127mm (5"/38 Mk 30)|11100}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Twin 25mm AA Type 96|Twin 25mm AA Type 96|36000}}
+ | ShipDrops =
+{{IconHover|York|4}}
+{{IconHover|Exeter|4}}
+{{IconHover|Ooshio|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |x|x|x|x|x| | |x|x
+    |x|x|x|x|x|b|b|x|x
+    | |e| |e|c| |p|x|x
+    |p| | | | |p| |c| 
+    |x|x|e| |e| |e| |e
+    |x|x| | | |e| |e| 
+    |x|x|s|s|s|x|x| |p
+  }}
+}}
+|-|
+D1={{Map
+ | ctID = 1110015
+ | Title = New Sprout
+ | Introduction = As our heroes attempted to wake Nagato, the Sirens began their attack on the Sacred Sakura. Suddenly, an unsettling mood envelops the battlefield...
+ | Requirements = Clear [[#C4|C4]]
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 600x Sakura Amulet [[File:SakuraPt.png|x22px|Sakura Amulet|link=]]
+ | 3StarReward = 1x [[Prototype Bulin MKII]] [[File:Prototype Bulin MKIIIcon.png|x22px|Prototype Bulin MKII|link=Prototype Bulin MKII]]
+
+ | MobLevel = 80-82
+ | SirenLevel = 83
+ | MobExp1 = 395
+ | MobExp2 = 440
+ | MobExp3 = 486
+ | MobExpSiren = 553
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2, 0, 1
+ | Boss = [[Nagato]] and [[Mutsu]]
+ | BossLevel = 84
+ | BossExp = 602
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1190
+ | ActualAirSupremacy = 915
+
+ | Fleet1 = 1 {{CV}} CV, 1 {{CA}} CA, 1 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 80, {{Firepower}} Total Firepower > 1200, {{Evasion}} Total Evasion > 450
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 150x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T3 Twin 406mm (16"/45 Mk 5)|Twin 406mm (16"/45 Mk 5)|14200}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+{{EquipmentBox|4|T3 Twin 40mm Vickers ("HI" Shiki Type 91)|Twin 40mm Vickers ("HI" Shiki Type 91)|36400}}
+ | ShipDrops =
+{{IconHover|Kongou|4}}
+{{IconHover|Nelson|4}}
+{{IconHover|Rodney|4}}
+{{IconHover|Ooshio|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |x|x|x|p| |e|x|x|x|x
+    |x|x|x| |e| | |x|x|x
+    |x|x|x|p| |c| |p|x|x
+    |x|x|x|c|x|x|e| |x|x
+    | |b| | |e|c| | | |s
+    | | |c| | | | |e| |s
+    |x|x| |c|p|e|e|x|e| 
+  }}
+}}
+|-|
+D2={{Map
+ | ctID = 1110016
+ | Title = Steel Sakura
+ | Introduction = I shall be the bud of the blooming Ink-Stained Sakura. And you shall experience the full extent of my power! I am Nagato, Big Seven of the Sakura Empire!
+ | Requirements = Clear [[#D1|D1]]
+ | ClearReward = 1x Sakura Medal [[File:Sakura Empire Medal.png|x22px|Sakura Medal|link=]]
+ | 3StarReward = 1x T3 Battleship Retrofit Blueprint {{Blueprint|T3|Battleship}}
+
+ | MobLevel = 85-87
+ | SirenLevel = 89
+ | MobExp1 = 420
+ | MobExp2 = 467
+ | MobExp3 = 516
+ | MobExpSiren = 594
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 0, 1, 0, 1
+ | SirenSpawnOrder = 2, 0, 1
+ | Boss = [[Purifier]]
+ | BossLevel = 90
+ | BossExp = 645
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1465
+ | ActualAirSupremacy = 1125
+
+ | Fleet1 = 1 {{CV}} CV, 1 {{CA}} CA, 1 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 85, {{Firepower}} Total Firepower > 1300, {{Torpedo}} Total Torpedo > 1000
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:SakuraPt.png|x22px|Sakura Amulet|link=]] 180x Sakura Amulets
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Steam Catapult|Steam Catapult|1400}}
+{{EquipmentBox|4|T2 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T3 Nakajima B6N Tenzan|Nakajima B6N Tenzan|38100}}
+ | ShipDrops =
+{{IconHover|Kawakaze|5|Boss only}}
+{{IconHover|Kongou|4}}
+{{IconHover|Erebus|4}}
+{{IconHover|Terror|4}}
+{{IconHover|Ooshio|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Bogue|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+ | NodeMap = {{MapTable
+    |p|x|x|x|x|p| |x|x
+    | |c|x|x|x|e| |x|x
+    | | | |x|x| |e| |e
+    |c| |p|x|x|e| | |s
+    |b| | | | | |e| |s
+    |c| |e|c|e| | | |s
+    | |c| |x|x|p|e|x|x
+  }}
+}}
+</tabber>
+
+=== EXTRA ===
+{{Map
+ | ctID = 1110021
+ | Title = Otherworldly Sakura
+ | Introduction = O warriors who wish to wager their honor on a final battle: I await your challenge at the foot of the otherworldly tree.
+ | Requirements = Clear [[#D2|D2]]
+
+ | Boss = [[Nagato]] and [[Mutsu]]
+ | BossLevel = 105
+
+ | BossBattleReq = 0
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Use ≤4 Ships in Fleet
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1935
+ | ActualAirSupremacy = 1485
+
+ | Fleet1 = 1 {{BC}} BC or BB
+ | Fleet2 = Not available
+
+ | NodeMap = {{MapTable
+    |x|x|x|x|x
+    |x|x|x|x|x
+    |x|x|x|x|x
+    |x|x|x|x|x
+    |x| |b| | 
+    | | | | | 
+    | |s| |s| 
+  }}
+ | Notes = Does not consume oil.
+}}
+
+== Shop ==
+* Several rewards are available in the event shop in exchange for Sakura Amulets [[File:SakuraPt.png|x22px|Sakura Amulet|link=]].
+* The deadline for claiming these rewards is June 14th 2018 (JP), June 21st 2018 (CN) or April 30th 2019 (EN).
+* '''Note''': The items available for EN differ from the ones available during the JP and CN runs.
+<tabber>
+CN/JP Shop={{EventShop
+| ShopName=Ink-Stained Steel Sakura (CN/JP)
+| TotalPt=39050
+| PtImage=SakuraPt
+
+| ColorScheme=#BA9BF7
+| Image=Ink-Stained Steel Sakura Shop Banner
+| Size=
+| Top=
+| Left=
+
+| Items=
+{{EventShopItem|4|Haruna|Haruna|HarunaIcon|1|4000|SakuraPt|1}}
+{{EventShopItem|4|Kongou|Kongou|KongouIcon|1|4000|SakuraPt|1}}
+{{EventShopItem|3|Ooshio|Ooshio|OoshioIcon|1|2000|SakuraPt|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|SakuraPt|100}}
+{{EventShopItem|5|Universal Strengthening Unit S1|Research|AllSUnit|30|500|SakuraPt|1}}
+{{EventShopItem|1|Oil||Oilicon|5|450|SakuraPt|1000}}
+{{EventShopItem|1|Coins||Coinicon|5|500|SakuraPt|2000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|SakuraPt|1}}
+}}
+|-|
+EN Shop={{EventShop
+| ShopName=Ink-Stained Steel Sakura (EN)
+| TotalPt=42550
+| PtImage=SakuraPt
+
+| ColorScheme=#BA9BF7
+| Image=Ink-Stained Steel Sakura Shop Banner
+| Size=
+| Top=
+| Left=
+
+| Items=
+{{EventShopItem|4|Haruna|Haruna|HarunaIcon|1|4000|SakuraPt|1}}
+{{EventShopItem|4|Kongou|Kongou|KongouIcon|1|4000|SakuraPt|1}}
+{{EventShopItem|3|Ooshio|Ooshio|OoshioIcon|1|2000|SakuraPt|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SakuraPt|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|SakuraPt|100}}
+{{EventShopItem|5|T3 Destroyer Retrofit Blueprint|Retrofit|DestroyerT3BP|5|800|SakuraPt|1}}
+{{EventShopItem|5|T3 Cruiser Retrofit Blueprint|Retrofit|CruiserT3BP|5|800|SakuraPt|1}}
+{{EventShopItem|5|T3 Battleship Retrofit Blueprint|Retrofit|BattleshipT3BP|5|800|SakuraPt|1}}
+{{EventShopItem|5|T3 Carrier Retrofit Blueprint|Retrofit|CarrierT3BP|5|800|SakuraPt|1}}
+{{EventShopItem|1|Oil||Oilicon|10|500|SakuraPt|1000}}
+{{EventShopItem|1|Coins||Coinicon|5|450|SakuraPt|2000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|SakuraPt|1}}
+}}
+</tabber>
+
+== Point Milestone ==
+*After reaching a certain threshold of Sakura Amulets [[File:SakuraPt.png|x22px|Sakura Amulet|link=]], you will be able to claim the rewards listed below.
+*The rewards can be claimed until June 14th 2018 (JP), June 21st 2018 (CN) or April 30th 2019 (EN).
+{| class="wikitable" style="text-align:center"
+!Reward
+![[File:SakuraPt.png|30px|link=]]
+!Reward
+![[File:SakuraPt.png|30px|link=]]
+!Reward
+![[File:SakuraPt.png|30px|link=]]
+|-
+|{{Display|UnknownT2Book|P|5x T2 Skill Books}}
+|100
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Blueprint}}
+|300
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Blueprint}}
+|500
+|-
+|{{Display|Coinicon|E|3000 Gold}}
+|700
+|{{Display|Moduleicon|G|200x Module}}
+|1000
+|{{Display|Coinicon|E|3000 Gold}}
+|1500
+|-
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Blueprint}}
+|2000
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Blueprint}}
+|2500
+|{{Display|Coinicon|E|4000 Gold}}
+|3000
+|-
+|{{Display|Moduleicon|G|300x Module}}
+|3500
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Blueprint}}
+|4000
+|{{Display|BattleshipT2BP|P|1x T2 Battleship Blueprint}}
+|4500
+|-
+|{{Display|OffenseT3TB|G|2x T3 Red Skill Books}}
+|5000
+|{{Display|Moduleicon|G|300x Module}}
+|5500
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Blueprint}}
+|6000
+|-
+|{{Display|BattleshipT3BP|G|1x T3 Battleship Blueprint}}
+|6500
+|{{Display|SupportT3TB|G|2x T3 Yellow Skill Books}}
+|7000
+|{{Display|Moduleicon|G|300x Module}}
+|7500
+|-
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Blueprint}}
+|8000
+|{{Display|BattleshipT3BP|PG|1x T3 Battleship Blueprint}}
+|8500
+|{{Display|DefenseT3TB|G|2x T3 Blue Skill Books}}
+|9000
+|-
+|{{Display|Moduleicon|G|300x Module}}
+|9500
+|{{Display|MutsuIcon|P|[[Mutsu]]}}
+|10000
+|{{Display|UnknownT3Book|G|2x T3 Skill Books}}
+|11000
+|-
+|{{Display|Moduleicon|G|500x Module}}
+|12000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Blueprint}}
+|13000
+|{{Display|BattleshipT3BP|G|1x T3 Battleship Blueprint}}
+|14000
+|-
+|{{Display|MutsuIcon|P|[[Mutsu]]}}
+|15000
+|{{Display|T5Box|R|1x T5 IJN Equipment Box}}
+|20000
+|{{Display|UnknownT2BP|P|2x T2 Blueprint}}
+|25000
+|-
+|{{Display|Moduleicon|G|500x Module}}
+|30000
+|{{Display|UnknownT2Book|P|5x T2 Skill Books}}
+|35000
+|{{Display|MutsuIcon|P|[[Mutsu]]}}
+|40000
+|-
+|{{Display|UnknownT2BP|P|2x T2 Blueprint}}
+|45000
+|{{Display|UnknownT2Book|P|5x T2 Skill Books}}
+|50000
+|{{Display|UnknownT2BP|P|2x T2 Blueprint}}
+|55000
+|-
+|{{Display|MutsuIcon|P|[[Mutsu]]}}
+|60000
+|{{Display|T5Box|R|1x T5 IJN Equipment Box}}
+|80000
+|{{Display|T5Box|R|1x T5 IJN Equipment Box}}
+|100000
+|}
+
+[[Category:Events]]

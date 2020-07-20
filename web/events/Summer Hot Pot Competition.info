@@ -1,0 +1,165 @@
+{{ContentBox
+|text = white
+|border = #ff5b74
+|header = #ff5b74
+|body = #ffdfba
+|logo = KisaragiNew_YearChibi.png{{!}}70px
+|title = "Summer Hot Pot Competition!?" Event
+|marginTop = 10px
+|content =<div class="col col-2">
+* '''JP Server: July 1st 2018 - July 31th 2018'''
+* '''CN Server: July 1st 2018 - July 31th 2018'''
+</div>
+}}
+
+{| class="wikitable"
+|-
+|[[File:KisaragiEvent.png|500px]]
+|}
+
+*'''Kisaragi's questline:''' Tap [[Kisaragi]] in the [[Academy]] to receive the event tasks. 2 new tasks will unlock every day. Complete all 10 tasks and gather all items to receive [[Kisaragi]]'s '''"New Year's Wish"''' skin.
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = E24-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = S評価で10回勝利する<br>舰队出征，以S胜评价通关10次<br>装備を2回強化する<br>进行装备强化2次
+|descen = Sortie and obtain 10 wins with S ranks.<br>[[Equipment#Upgrading|Upgrade]] equipment 2 times.
+|fuel=
+|coin= 100
+|cube=
+|other={{Display|UnknownT1BP|B|5x Random T1 blueprints}}
+|notes= Day 1
+}}
+{{Task
+|type = Event
+|listnum = E24-02
+|reqQuest = E24-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 委託を2回行う<br>进行2次委托<br>演習を2回行う<br>进行2次演习 
+|descen = Complete 2 [[expeditions]].<br> Complete 2 [[exercise]]s (PvP).
+|fuel= 100
+|coin= 100
+|cube=
+|other= 
+|notes= Day 2
+}}
+{{Task
+|type = Event
+|listnum = E24-03
+|reqQuest = E24-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 任意の艦を2隻退役させる<br>退役2次舰船<br>デイリーチャレンジを3回クリアする<br>完成3次每日副本挑战
+|descen = [[Building#Retire|Scrap]] 2 ships<br>Clear [[Daily Raid]] 3 times
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|UnknownT2Plate|B|5x Random T2 plates}}
+|notes= Day 3
+}}
+{{Task
+|type = Event
+|listnum = E24-04
+|reqQuest = E24-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 戦術教室で戦術訓練を2回行う<br>进行2次技能训练<br>艦隊を5回「強化」せよ！<br>舰船强化5次 
+|descen = Train ships in [[Academy#Tactical_Classroom|tactical classroom]] 2 times.<br>[[Dockyard|Reinforce]] a ship 5 times.
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|T1Box|E|5x T1 boxes}}
+|notes= Day 4
+}}
+{{Task
+|type = Event
+|listnum = E24-05
+|reqQuest = E24-04
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 任意の敵を20隻撃破する<br>累计击败敌方舰队20艘 <br>寮舎で食糧を5回補充する<br>补充后宅食物5次  
+|descen = Defeat 20 of any enemy ship.<br>Use [[Backyard]] Food 5 times.
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|Food3|B|5x Tempura}}
+|notes= Day 5
+}}
+{{Task
+|type = Event
+|listnum = E24-06
+|reqQuest = E24-05
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = ハードモードステージを2回クリアする<br>困难模式通关2次<br>装備箱を1個使用する<br>使用1次科技箱
+|descen = Clear any Hardmode map 2 times.<br>Open 1 Equipment Box (any tier).
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|UnknownT1Book|B|5x Random T1 skillbooks}}
+|notes= Day 6
+}}
+{{Task
+|type = Event
+|listnum = E24-07
+|reqQuest = E24-06
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 敵中枢艦隊を3回撃破する<br>通关地图3次<br>戦術教室でスキルを2回強化する<br>进行战术训练2次
+|descen = Defeat 3 bosses.<br>Train ships in [[Academy#Tactical_Classroom|tactical classroom]] 2 times.
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|UnknownT2BP|P|2x Random T2 blueprints}}
+|notes= Day 7
+}}
+{{Task
+|type = Event
+|listnum = E24-08
+|reqQuest = E24-07
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = S評価で10回勝利する<br>舰队出征以S评价通关10次 <br>装備を5つ廃棄する<br>装备拆解5次
+|descen = Sortie and obtain 10 wins with S ranks.<br>Scrap 5 equipment.
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|Drillicon|P|3x Drills}}
+|notes= Day 8
+}}
+{{Task
+|type = Event
+|listnum = E24-09
+|reqQuest = E24-08
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造を2回行う<br>建造2次舰船<br>任意の艦を2隻退役させる<br>退役2次舰船
+|descen = [[Building|Construct]] 2 ships.<br>[[Building#Retire|Scrap]] 2 ships.
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|Coreicon2|G|1x Cube}}
+|notes= Day 9
+}}
+{{Task
+|type = Event
+|listnum = E24-10
+|reqQuest = E24-09
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 装備を2回強化する<br>装备强化2次<br>委託を2回行う<br>执行军事委托2次 
+|descen = [[Equipment#Upgrading|Upgrade]] equipment 2 times.<br>Complete 2 [[expeditions]]
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|KisaragiNew_YearIcon|E|[[Kisaragi]]'s skin}}
+|notes= Day 10
+}}
+
+
+[[Category:Events]]

@@ -1,0 +1,63 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #BC002D
+|body = #ea818b
+|logo = ZeppyChibi.png{{!}}60px
+|title = "Escape from the Port" Event
+|marginTop = 10px
+|content =
+* '''CN/JP/KR/EN Server: April 26th - May 15th 2019'''
+* '''Event Story:''' [[Memories/Operation: Escape from Port!|Operation: Escape from Port!]]
+</div>
+}}
+
+==Event Ships==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Zeppy|CV||'''{{Tooltip|Construction|04:30:00}}'''}}
+{{ShipDisplay|4|Hiei-chan|BC||'''{{Tooltip|Construction|04:05:00}}'''}}
+{{ShipDisplay|4|Akagi-chan|CV||'''{{Tooltip|Construction|04:35:00}}'''}}
+</div>
+
+==Limited Special Craft==
+{| class="wikitable"
+|-
+|[[File:Escape from the Port Construction Banner EN.png|500px]]
+|}
+
+*During the event and for a limited time, 3 new ships will be added to special construction:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Zeppy|CV||''04:30:00''|'''2.5%'''}}
+{{ShipDisplay|4|Hiei-chan|BC||''04:05:00''|'''2.5%'''}}
+{{ShipDisplay|4|Akagi-chan|CV||''04:35:00''|'''2.5%'''}}
+</div>
+
+==Daily Login Event==
+{| class="wikitable"
+|-
+|[[File:Escape_from_the_Port_Main_Login_Banner.png|500px]]
+|}
+
+*Log in five times over five days during the event to receive the following rewards:
+
+{| class="wikitable"
+!colspan=2 |Login Rewards
+|-
+| style="min-width: 50px; text-align: center;" |Day 1
+|100x Oil {{Oil}}
+|-
+| style="text-align: center;" |Day 2
+|200x Coins {{Coin}}
+|-
+| style="text-align: center;" |Day 3
+|200x Cognitive Chips {{Module}}
+|-
+| style="text-align: center;" |Day 4
+|3x T3 Random Gear Part {{Plate|T3}}
+|-
+| style="text-align: center;" |Day 5
+|"Koi Streamers" Furniture [[File:FurnIcon_liyuqiicon.png|Koi Streamers|link=Decorations|25px]]
+|}
+
+[[Category:Events]]

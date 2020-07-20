@@ -1,0 +1,1058 @@
+{{ContentBox
+|text = white
+|border = #4363ff
+|header = #4363ff
+|body = #d5dcff
+|logo = DoY_head.png
+|title = "Winter's Crown" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:black;">
+* '''CN/JP Server: February 26th - March 15th 2018'''
+* '''For information on the rerun of the event, visit [[Winter's Crown Rerun|this page]].'''
+</div>
+}}
+
+==Limited Crafts==
+
+{| class="wikitable"
+|-
+| [[File:Winter_Crown_Construction.png|500px]]
+|}
+
+*During event 4 new ships will be available for construct in limited construction tab:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Victorious|CV||''04:30:00''|'''2.25%'''}}
+{{ShipDisplay|4|Sheffield|CL||''01:25:00''|'''2.5%'''}}
+{{ShipDisplay|4|Matchless|DD||''00:29:00''|'''2.5%'''}}
+{{ShipDisplay|3|Jamaica|CL||''01:22:00''|'''5%'''}}
+</div>
+
+
+==Event Maps==
+
+{| class="wikitable"
+|-
+| [[File:Winter_crown_event_map.png|500px]]
+|}
+
+[[File:Chase2.gif|500px|right]]
+*New mechanic: 
+Some of the maps will involve a new mechanic where your fleet has limited movement range based on the type of ships present to it. There also will be an [[Siren|enemy fleet]] that hunts the closest fleet you control depending on the type of the enemy ship (every 2 turns for a Destroyer-type boss to move and every 3 turns for Cruiser-type boss to move). Should a battle occur with the enemy, they will have more HP than a regular boss (but only one like a regular boss) with some random rook spawns.
+
+Defeating them is optional, but adds to the 2nd star condition in the map.
+<br />
+<br />
+<br />
+*New ship drop locations and [[File:Queen's_Grace.png|25px]] rewards:
+**All Normal maps will have '''x3 Points [[File:Queen's_Grace.png|25px]] bonus for first clear each day'''.
+<div style="display:flex; flex-wrap:wrap">
+{| class="azltable" style="text-align:center;margin-right:1em"
+|+ Ship Drops
+|-
+| style="background-color:PaleGoldenrod" | [[File:Duke_of_YorkIcon.png|50px|link=Duke of York]]
+| [[Duke of York]]
+| B3, D3 (Boss node only)
+|-
+| style="background-color:Plum" | [[File:MusketeerIcon.png|50px|link=Musketeer]]
+| [[Musketeer]]
+| B2, D2, D3
+|-
+| style="background-color:PowderBlue" | [[File:FijiIcon.png|50px|link=Fiji]]
+| [[Fiji]]
+| A3, C3, D2
+|-
+| style="background-color:PowderBlue" | [[File:JamaicaIcon.png|50px|link=Jamaica]]
+| [[Jamaica]]
+| B1, D1, D3 
+|}
+{| class="azltable" style="text-align: center;"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|10 [[File:Queen's_Grace.png|25px|link=]]
+|'''C1'''
+|50 [[File:Queen's_Grace.png|25px|link=]]
+|-
+|'''A2'''
+|15 [[File:Queen's_Grace.png|25px|link=]]
+|'''C2'''
+|60 [[File:Queen's_Grace.png|25px|link=]]
+|-
+|'''A3'''
+|20 [[File:Queen's_Grace.png|25px|link=]]
+|'''C3'''
+|80 [[File:Queen's_Grace.png|25px|link=]]
+|-
+|'''B1'''
+|30  [[File:Queen's_Grace.png|25px|link=]]
+|'''D1'''
+|120  [[File:Queen's_Grace.png|25px|link=]]
+|-
+|'''B2'''
+|40  [[File:Queen's_Grace.png|25px|link=]]
+|'''D2'''
+|150  [[File:Queen's_Grace.png|25px|link=]]
+|-
+|'''B3'''
+|50  [[File:Queen's_Grace.png|25px|link=]]
+|'''D3'''
+|180  [[File:Queen's_Grace.png|25px|link=]]
+|}
+</div>
+
+===Normal Maps===
+
+<tabber>
+A-1={{Map
+ | Title = ~Voyage~
+ | Introduction = 完成护航任务的贝尔法斯特一行，在返航的途中遭遇了新型的塞壬。尽量规避它们的纠缠并取得胜利吧！
+ | Requirements = None
+ | ClearReward = 1 {{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT1BP.png|40px]] T1 Destroyer blueprints
+
+ | MobLevel = 35 - 37
+ | MobExp1 = 204
+ | MobExp2 = 230
+ | MobExp3 = 259
+ | MobExpSiren = 
+ | Boss = [[Explorer I-Type]]
+ | BossLevel = 38
+ | BossExp = 321
+
+ | BossBattleReq = 4
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 10 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Charles Ausburne|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Winter's Crown A-1
+ | NodeMap = {{MapTable/2
+    |x| |e|e| |x|x
+    |x|e|x| |e| |x
+    | | | |e|e|p|e
+    |s| | |x| |e|b
+    |s|s| |x|x|x|x
+  }}
+}}
+ |-|
+A-2={{Map
+ | Title = ~Hunting~
+ | Introduction = 收到紧急电报，第二物资船队正遭到铁血舰队追击，冰冷的北海再一次成为了战舰们的狩猎场。
+ | Requirements = A-1 Clear
+ | ClearReward = 1{{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT2BP.png|40px]] T2 Destroyer blueprints
+
+ | MobLevel = 39 - 41
+ | MobExp1 = 228
+ | MobExp2 = 256
+ | MobExp3 = 288
+ | MobExpSiren = 
+ | Boss = [[Chaser I-Type]]
+ | BossLevel = 42
+ | BossExp = 356
+
+ | BossBattleReq = 4
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 15 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Exeter|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Winter's Crown A-2
+ | NodeMap = {{MapTable/2
+    |x|x| |p| |e| |b
+    |x|x|e| |e| |x|e
+    |s| | |e|x|e|e|b
+    |s| | | |x|p| |x
+    |s|s|x|e| |e|b|x
+  }}
+}}
+ |-|
+A-3={{Map
+ | Title = ~Trap~
+ | Introduction = 孤身一舰追击沙恩霍斯特的贝尔法斯特！谁是猎人，谁又是猎物？命运的捕鼠夹正在悄悄合拢…
+ | Requirements = A-2 Clear
+ | ClearReward = 2 {{Cube}}, 1500 {{coin}}
+ | 3StarReward = 2x [[File:DestroyerT2BP.png|40px]] T2 Destroyer blueprints
+
+ | MobLevel = 43 - 45
+ | MobExp1 = 378
+ | MobExp2 = 424
+ | MobExp3 = 474
+ | MobExpSiren = 
+ | Boss = [[Scharnhorst]]
+ | BossLevel = 46
+ | BossExp = 586
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 20 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Queen Elizabeth|E}}
+{{ShipDropIcon|Renown|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Fiji|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown A-3
+ | NodeMap = {{MapTable/2
+    |s| |x|x|x| |e|b
+    |s| |e| | |e| |e
+    |x| | |e|p| |x|e
+    |x| | |x|x|e|e| 
+    |s| |e|q|x|p| |x
+    |s| |x| |e| |b|x
+  }}
+}}
+|-|
+B-1={{Map
+ | Title = ~Visitor~
+ | Introduction = 突然出现的新型塞壬和大范围兵器打乱了参与“钨”行动的皇家舰队,尝试一边击退敌人一边重新合流吧
+ | Requirements = A-3 Clear
+ | ClearReward = 1{{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT2BP.png|40px]] T2 Destroyer blueprints
+
+ | MobLevel = 47 - 49
+ | MobExp1 = 276
+ | MobExp2 = 309
+ | MobExp3 = 345
+ | MobExpSiren = 
+ | Boss = [[Breaker I-Type]]
+ | BossLevel = 50
+ | BossExp = 426
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 30 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Erebus|E}}
+{{ShipDropIcon|Terror|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Jamaica|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown B-1
+ | NodeMap = {{MapTable/2
+    |s|s| |x|x| | |e|x|x
+    |s| | |x|x|e|x| | |x
+    |x| |e| |e| |e|e| |e
+    |x| | |x| |p|x| |p|e
+    |q| |e| |e| |x|e|e|b
+  }}
+}}
+ |-|
+B-2={{Map
+ | Title = ～Operate～
+ | Introduction = 不明的大型武器打散了北海的迷雾，“钨”行动再次开启，目标——「北方的孤独女王」提尔比茨！
+ | Requirements = B-1 Clear
+ | ClearReward = 1{{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT3BP.png|40px]] T3 Destroyer blueprints
+
+ | MobLevel = 51 - 53
+ | MobExp1 = 300
+ | MobExp2 = 336
+ | MobExp3 = 374
+ | MobExpSiren = 
+ | Boss = [[Tirpitz]]
+ | BossLevel = 55
+ | BossExp = 469
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 40 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Musketeer|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Unicorn|E}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown B-2
+ | NodeMap = {{MapTable/2
+    |b| |x|s|s|x|x| |b
+    | |e|x|s| | |x|e| 
+    |e| |e| |e| | |e|e
+    | |e|x|e| | |p| | 
+    | | |e| |e|x|x|x|e
+    |x| |p| | |x|b| | 
+    |x| | | |e|e| |p| 
+  }}
+}}
+ |-|
+B-3={{Map
+ | Title = ~Crown~
+ | Introduction = 虽然发现了身份不明的航母却让她逃脱了，相对的，被叫做净化者的塞壬已经被舰队重重包围，为了皇家的荣耀，开火！
+ | Requirements = B-2 Clear
+ | ClearReward = 2 {{Cube}}, 1500 {{coin}}
+ | 3StarReward = [[Musketeer]]
+
+ | MobLevel = 56 - 58
+ | MobExp1 = 330
+ | MobExp2 = 369
+ | MobExp3 = 410
+ | MobExpSiren = 
+ | Boss = [[Purifier]]
+ | BossLevel = 60
+ | BossExp = 513
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 50 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Duke of York|SR}}
+{{ShipDropIcon|Nelson|E}}
+{{ShipDropIcon|Rodney|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown B-3
+ | NodeMap = {{MapTable/2
+    | |b| |e|x|x|b| |e| | 
+    |b| |e| |x|x|b|e| |p|e
+    | |e| | |p| |x|e|x| | 
+    |x|x|x|e| |e|x| |e|p| 
+    | | | | |x| |e| |e|e| 
+    | | |e| | |e| | |e|x|x
+    |s| |x| |e|x| |p| |q|x
+    |s|s| | | |x| | |x|x|x
+  }}
+}}
+</tabber>
+
+===Hard Maps===
+
+<tabber>
+C-1={{Map
+ | Title = ~Voyage~
+ | Introduction = 完成护航任务的贝尔法斯特一行，在返航的途中遭遇了新型的塞壬。尽量规避它们的纠缠并取得胜利吧！
+ | ClearReward = 1 {{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT1BP.png|40px]] T1 Destroyer blueprints
+
+ | MobLevel = 65 - 67
+ | MobExp1 = 450
+ | MobExp2 = 501
+ | MobExp3 = 554
+ | MobExpSiren = 
+ | Boss = [[Explorer I-Type]]
+ | BossLevel = 68
+ | BossExp = 725
+
+ | BossBattleReq = 4
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 50 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Charles Ausburne|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Winter's Crown C-1
+ | NodeMap = {{MapTable/2
+    |x| |e|e| |x|x
+    |x|e|x| |e| |x
+    | | | |e|e|p|e
+    |s| | |x| |e|b
+    |s|s| |x|x|x|x
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 65, {{Firepower}} Total Firepower stat > 680, {{Evasion}} Total Evasion stat > 400
+}}
+ |-|
+C-2={{Map
+ | Title = ~Engage~
+ | Introduction = 收到紧急电报，第二物资船队正遭到铁血舰队追击，冰冷的北海再一次成为了战舰们的狩猎场。
+ | Requirements = C-1 Clear
+ | ClearReward = 1{{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT2BP.png|40px]] T2 Destroyer blueprints
+
+ | MobLevel = 69 - 71
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = [[Chaser I-Type]]
+ | BossLevel = 
+ | BossExp = 
+
+ | BossBattleReq = 4
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 60 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Exeter|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Winter's Crown C-2
+ | NodeMap = {{MapTable/2
+    |x|x| |p| |e| |b
+    |x|x|e| |e| |x|e
+    |s| | |e|x|e|e|b
+    |s| | | |x|p| |x
+    |s|s|x|e| |e|b|x
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 70, {{Firepower}} Total Firepower stat > 780, {{Reload}} Total Reload stat > 720
+
+}}
+ |-|
+C-3={{Map
+ | Title = ~Trap~
+ | Introduction = 孤身一舰追击沙恩霍斯特的贝尔法斯特！谁是猎人，谁又是猎物？命运的捕鼠夹正在悄悄合拢…
+ | Requirements = C-2 Clear
+ | ClearReward = 2{{Cube}}, 1500 {{coin}}
+ | 3StarReward = 2x [[File:DestroyerT2BP.png|40px]] T2 Destroyer blueprints
+
+ | MobLevel = 75
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = [[Scharnhorst]]
+ | BossLevel = 76
+ | BossExp = 747
+
+ | BossBattleReq = 5
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 80 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Queen Elizabeth|E}}
+{{ShipDropIcon|Renown|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Fiji|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown C-3
+ | NodeMap = {{MapTable/2
+    |s| |x|x|x| |e|b
+    |s| |e| | |e| |e
+    |x| | |e|p| |x|e
+    |x| | |x|x|e|e| 
+    |s| |e|q|x|p| |x
+    |s| |x| |e| |b|x
+  }}
+
+ | Fleet1 =  1 {{BB}} BB, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 75, {{Firepower}} Total Firepower stat > 950, {{Torpedo}} Total Torpedo stat < 1000
+
+}}
+|-|
+D-1={{Map
+ | Title = ~Visitor~
+ | Introduction = 突然出现的新型塞壬和大范围兵器打乱了参与“钨”行动的皇家舰队,尝试一边击退敌人一边重新合流吧
+ | ClearReward = 1{{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT2BP.png|40px]] T2 Destroyer blueprints
+
+ | MobLevel = 78
+ | MobExp1 = 470
+ | MobExp2 = 580
+ | MobExp3 = 640
+ | MobExpSiren = 
+ | Boss = [[Breaker I-Type]]
+ | BossLevel = 80
+ | BossExp = 
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 120 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Erebus|E}}
+{{ShipDropIcon|Terror|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Jamaica|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown D-1
+ | NodeMap = {{MapTable/2
+    |s|s| |x|x| | |e|x|x
+    |s| | |x|x|e|x| | |x
+    |x| |e| |e| |e|e| |e
+    |x| | |x| |p|x| |p|e
+    |q| |e| |e| |x|e|e|b
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CV}} CV, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CV}} CVL, 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 80, {{Torpedo}} Total Torpedo stat > 900, {{Aviation}} Total Aviation stat > 1050
+}}
+ |-|
+D-2={{Map
+ | Title = ～Operate～
+ | Introduction = 不明的大型武器打散了北海的迷雾，“钨”行动再次开启，目标——「北方的孤独女王」提尔比茨！
+ | Requirements = D-1 Clear
+ | ClearReward = 1{{Cube}}, 600 {{coin}}
+ | 3StarReward = 1x [[File:DestroyerT3BP.png|40px]] T3 Destroyer blueprints
+
+ | MobLevel = 82 - 84
+ | MobExp1 = 
+ | MobExp2 = 607
+ | MobExp3 = 669
+ | MobExpSiren = 
+ | Boss = [[Tirpitz]]
+ | BossLevel = 85
+ | BossExp = 
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 150 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Musketeer|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Unicorn|E}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown D-2
+ | NodeMap = {{MapTable/2
+    |b| |x|s|s|x|x| |b
+    | |e|x|s| | |x|e| 
+    |e| |e| |e| | |e|e
+    | |e|x|e| | |p| | 
+    | | |e| |e|x|x|x|e
+    |x| |p| | |x|b| | 
+    |x| | | |e|e| |p| 
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CV}} CV, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CV}} CVL, 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 85, {{AA}} Total Anti-Air stat > 1800, {{Evasion}} Total Evasion stat > 650
+
+}}
+ |-|
+D-3={{Map
+ | Title = ~Crown~
+ | Introduction = 虽然发现了身份不明的航母却让她逃脱了，相对的，被叫做净化者的塞壬已经被舰队重重包围，为了皇家的荣耀，开火！
+ | Requirements = D-2 Clear
+ | ClearReward = 2 {{Cube}}, 1500 {{coin}}
+ | 3StarReward = [[Musketeer]]
+
+ | MobLevel = 88
+ | MobExp1 = 576
+ | MobExp2 = 639
+ | MobExp3 = 705
+ | MobExpSiren = 
+ | Boss = [[Purifier]]
+ | BossLevel = 90
+ | BossExp = 870
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 180 [[File:Queen's Grace.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Duke of York|SR}}
+{{ShipDropIcon|Nelson|E}}
+{{ShipDropIcon|Rodney|E}}
+{{ShipDropIcon|Musketeer|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Jamaica|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Hermes|N}}
+{{ShipDropIcon|Bogue|N}}
+
+ | PreviewFile = Winter's Crown D-3
+ | NodeMap = {{MapTable/2
+    | |b| |e|x|x|b| |e| | 
+    |b| |e| |x|x|b|e| |p|e
+    | |e| | |p| |x|e|x| | 
+    |x|x|x|e| |e|x| |e|p| 
+    | | | | |x| |e| |e|e| 
+    | | |e| | |e| | |e|x|x
+    |s| |x| |e|x| |p| |q|x
+    |s|s| | | |x| | |x|x|x
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CV}} CV, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CV}} CVL, 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 80, {{Firepower}} Total Firepower stat > 950, {{Torpedo}} Total Torpedo stat > 1000
+
+}}
+</tabber>
+
+===EX Node===
+
+{{Map
+ | Title = 凛冬的挑战书
+ | Introduction = 苍蓝的冰海、凛冽的寒风，蠢动的阴影、交错的思绪……极北之北的最终试炼，愿诸君武运昌隆——
+ | Requirements = Clear D3 map
+ | ClearReward = Furniture '''"Medal of Royal Navy"'''
+ | 3StarReward = None
+
+ | MobLevel = 92 - 93
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = [[Purifier]]
+ | BossLevel = 95
+ | BossExp = 
+
+ | BossBattleReq = 3
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Sink 10 Fleets
+ | Star3 = Sink all fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = None
+ | EquipmentDrops = 
+ | ShipDrops = 
+
+ | PreviewFile = Winter's Crown EXTRA
+ | NodeMap = {{MapTable/2
+    |b|e|b|x| | | | |q|x|x
+    | | |e| |e|e|e|x|e|x|x
+    | | |e| | |x| |e| | | 
+    |b|e|b| |e| | | |e|e| 
+    |x|x|x|x| | | |x|x| |b
+    | | | |x|e| | | |x| |e
+    |s| | | | |e| |e| |e| 
+    |s|s| | | |x|x| |e| |x
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CV}} CV, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{CV}} CVL, 1 {{CA}} CA, 2 {{CL}} CL
+ | StatRestrictions = Average level > 95, {{Firepower}} Total Firepower stat > 1500, {{AA}} Total Anti-Air stat > 2500
+}}
+
+==Event Tasks==
+
+*There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once by either Normal or Hard maps.
+**Maps clear and 3★ Rewards:
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!A1/C1
+|{{Display|Coreicon2|G|x 1}} {{Display|Coinicon|G|x 600}}
+|{{Display|DestroyerT1BP|B|1x T1 Destroyer BP}}
+|-
+!A2/C2
+|{{Display|Coreicon2|G|x 1}} {{Display|Coinicon|G|x 600}}
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer BP}}
+|-
+!A3/C3
+|{{Display|Coreicon2|G|x 2}} {{Display|Coinicon|G|x 1500}}
+|{{Display|DestroyerT2BP|P|2x T2 Destroyer BP}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!B1/D1
+|{{Display|Coreicon2|G|x 1}} {{Display|Coinicon|G|x 600}}
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer BP}}
+|-
+!B2/D2
+|{{Display|Coreicon2|G|x 1}} {{Display|Coinicon|G|x 600}}
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer BP}}
+|-
+!B3/D3
+|{{Display|Coreicon2|G|x 2}} {{Display|Coinicon|G|x 1500}}
+|{{Display|MusketeerIcon|P|[[Musketeer]]}}
+|}
+|}
+
+*Special furniture reward for clearing '''EX''' stage:
+{{Display|Medal_of_Royal_Navy|6|Medal of<br />Royal Navy}}
+
+*Daily tasks:
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = Winter's Crown-01
+|desccn = 建造舰船3次<br>建造を3回行う
+|descen = Build 3 ships.
+|reward= {{Display|Queen's Grace|Normal|x200}}
+|notes=
+}}
+{{Mission
+|type = Event
+|listnum = Winter's Crown-02
+|desccn = 舰队出征，获得15次胜利<br>艦隊を出撃させ、戦闘で15回勝利せよ！
+|descen = Sortie and obtain 15 victories.
+|reward= {{Display|Queen's Grace|Normal|x200}}
+|notes=
+}}
+|}
+
+==Exchange Gatcha==
+
+{| class="wikitable" style="text-align: center;"
+|-
+|[[File:Winter's_Crown_Medal_Shop.png|500px]]
+|}
+
+* The event gatcha is 60 [[File:Queen's Grace.png|30px]] per draw. You need to get all the main rewards before you can move onto the next stage of the gatcha.
+
+* There is a total of items per stage of the gatcha, meaning you will need a maximum amount of [[File:Queen's Grace.png|20px]] to move on to the next stage.
+
+{| class="wikitable" style="text-align: center;"
+!Stage
+!Total of items
+!Maximum amount to move on
+|-
+|'''Phase-1'''
+|120
+|7200 [[File:Queen's_Grace.png|30px]]
+|-
+|'''Phase-2'''
+|200
+|12000 [[File:Queen's_Grace.png|30px]]
+|-
+|'''Phase-3'''
+|280
+|16800 [[File:Queen's_Grace.png|30px]]
+|}
+
+===Main Rewards===
+*First phase:
+
+{| class="wikitable" style="text-align: center;"
+! width="50px" | [[Blackburn Firebrand]] (torpedo bomber)
+! width="50px" | [[Fairey Firefly]] (dive bomber)
+|-
+| style="background-color:PaleGoldenRod" |[[File:28200.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:29200.png|100px]]
+|}
+
+*Second phase:
+
+{| class="wikitable" style="text-align: center;"
+![[Duke of York]]
+|-
+| style="background-color:PaleGoldenrod" |[[File:Duke of YorkShipyardIcon.png|link=Duke of York]]
+|}
+
+*Third phase:
+
+{| class="wikitable" style="text-align: center;"
+|-
+| style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}" |[[File:England_balloon_ride.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:Red_telephone_box.png|100px]]
+|}
+
+*Third phase additional furniture:
+
+{| class="wikitable" style="text-align: center;"
+|-
+| style="background-color:PaleGoldenRod" |[[File:View_to_the_Big_Ben.png|100px]]
+| style="background-color:Plum" |[[File:Chick_scots_guard.png|100px]]
+|}
+
+*EXTRA phase:
+
+{| class="wikitable" style="text-align: center;"
+![[Universal Bullin]]
+![[Trial Bullin MKII]]
+|-
+| style="background-color:Plum" |[[File:Universal_BullinShipyardIcon.png|link=Universal Bullin]]
+| style="background-color:PaleGoldenrod" |[[File:Trial_Bullin_MKIIShipyardIcon.png|link=Trial Bullin MKII]]
+|}
+
+[[Category:Events]]

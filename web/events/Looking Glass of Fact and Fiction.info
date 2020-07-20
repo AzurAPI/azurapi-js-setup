@@ -1,0 +1,1133 @@
+{{ContentBox
+|text = white
+|border = #000
+|header = #00b6ff
+|body = #f4f4f4
+|logo = 
+|title = "Looking Glass of Fact and Fiction"
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px;">
+* '''CN/JP/EN Servers: November 26th 2019 - December 11th 2019'''
+* '''Event stories: [[Memories/Looking Glass of Fact and Fiction - Main Story|Main Story]], [[Memories/Looking Glass of Fact and Fiction - Funsies|Funsies]]'''
+</div>
+}}
+This collaboration event introduces several [[Wikipedia:Virtual_YouTuber|VTuber]] of the [https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg Hololive] VTuber Group as [[#Ships and Construction|ships]] in the game with each additionally getting a [[#Skins|skin]]. In a addition to that, a new [[#Furniture|furniture set]], [[#Equipment Skins|equipment skins]] and many rewards to claim together with new [[#Maps|map mechanics]] are introduced.
+
+== Ships and Construction ==
+*For the duration of the event, the following ships will be available as '''rewards''' or in the '''Limited Construction Pool''':
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Shirakami Fubuki|DD||'''Construction (2%)<br>00:17:30'''}}
+{{ShipDisplay|5|Minato Aqua|SS||'''Construction (2%)<br>00:20:00'''}}
+{{ShipDisplay|5|Tokino Sora|CV||'''Construction (0.5%)<br>01:25:00'''|'''[[#TNT_Points_Shop|Event Shop Reward]]'''}}
+{{ShipDisplay|4|Ookami Mio|CV||'''[[#Mio's Divination Hall|Friendship Points Reward]]'''}}
+{{ShipDisplay|4|Murasaki Shion|CVL||'''[[#TNT_Points_Milestone|Milestone Reward]]'''}}
+{{ShipDisplay|4|Nakiri Ayame|CA||'''Construction (2.5%)<br>03:22:00'''}}
+{{ShipDisplay|4|Natsuiro Matsuri|DD||'''Construction (2.5%)<br>00:12:00'''}}
+</div>
+
+== Skins ==
+*For the duration of the event, the following skins will be available in the '''skin shop''':
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Shirakami Fubuki|DD|Summer|Beachside Fox|{{Gem}} 900}}
+{{ShipDisplay|5|Minato Aqua|SS|Maid|Marine Maid|{{Gem}} 900}}
+{{ShipDisplay|5|Tokino Sora|CV|Summer|Under the Clear Sky|{{Gem}} 900}}
+{{ShipDisplay|4|Ookami Mio|CV|Summer|Summer Vacation|{{Gem}} 800}}
+{{ShipDisplay|4|Murasaki Shion|CVL|Magician|Virtual Magician|{{Gem}} 800}}
+{{ShipDisplay|4|Nakiri Ayame|CA|Summer|Summertime Nakiri|{{Gem}} 800}}
+{{ShipDisplay|4|Natsuiro Matsuri|DD|Summer|Matsuri's Day Off|{{Gem}} 800}}
+</div>
+
+== Furniture ==
+For the duration of the event, the furniture set '''"Hololive"''' will be available in the dorm.
+{{:Furniture Sets/Hololive}}
+
+== Equipment Skins ==
+For the duration of the event, the equipment skin box '''Hololive''' [[File:Appearanceboxhololive.png|25px|link=]] will be available in the [[Shops#General_Shop|General Shop]] for a price of 7000 Coins {{Coin}}. The following skins can be obtained by opening these boxes, completing certain event missions and as map drops:
+{{:Equipment Skins/Hololive Collab Series}}
+
+== Tasks ==
+=== Daily Tasks ===
+For each day of the event, these three tasks will be available to be completed once and reset again at the end of the day:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|HololivePt|Rare|x 300 P-TNT|35}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|HololivePt|Rare|x 300 P-TNT|35}}
+|-
+| Sortie and clear 1 non-event Hard Mode Stage.
+| {{Display|HololivePt|Rare|x100 P-TNT|35}}
+|}
+
+=== Map Completion Tasks ===
+*There are a series of Tasks for clearing each map, and for getting 3★ on each map:
+<div style="display:flex; flex-wrap:wrap">
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !T1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|HololivePt|Rare|x 200}}
+   | {{Display|Appearanceboxhololive|G|x 1}} {{Display|Oilicon|Grey|x 500}}
+   |-
+   !T2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|HololivePt|Rare|x 400}}
+   | {{Display|Appearanceboxhololive|G|x 1}} {{Display|Universal BullinIcon|P|[[Universal Bullin]]}}
+   |-
+   !T3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|HololivePt|Rare|x 600}}
+   | {{Display|Appearanceboxhololive|G|x 1}} {{Display|Oilicon|Grey|x 500}}
+  |}
+ </div>
+ <div>
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !T4
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|HololivePt|Rare|x 400}}
+   | {{Display|Appearanceboxhololive|G|x 1}} {{Display|Oilicon|Grey|x 500}}
+   |-
+   !T5
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|HololivePt|Rare|x 600}}
+   | {{Display|Appearanceboxhololive|G|x 1}} {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+   |-
+   !T6
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|HololivePt|Rare|x 800}}
+   | {{Display|Appearanceboxhololive|G|x 1}} {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+</div>
+
+== Maps ==
+*'''New mechanic: Day and Night'''<br />Maps will periodically cycle between day and night.
+**When night falls, certain zones become more dangerous and you will come under enemy attack.
+**When the sun rises, the risk of ambush in the marked areas disappears with the night.
+*'''New mechanic: Lava Danger'''<br />Entering red zones may result in lava damage! Steer clear of danger, avoid wherever possible.
+<br/>
+*New ship drop locations and [[File:HololivePt.png|25px]] rewards:
+<div style="overflow:auto">
+ {| class="azltable" style="display:table; text-align:center; white-space:nowrap"
+  ! style="padding-left:1em; padding-right:1em" | T1
+  ! style="padding-left:1em; padding-right:1em" | T2
+  ! style="padding-left:1em; padding-right:1em" | T3
+  ! style="padding-left:1em; padding-right:1em" | T4
+  ! style="padding-left:1em; padding-right:1em" | T5
+  ! style="padding-left:1em; padding-right:1em" | T6
+  ! style="padding-left:0.6em; padding-right:0.6em" | HOLO-SP
+  |-
+  | style="padding:6px 0" | 30 [[File:HololivePt.png|25px|link=]]
+  | 40 [[File:HololivePt.png|25px|link=]]
+  | 60 [[File:HololivePt.png|25px|link=]]
+  | 90 [[File:HololivePt.png|25px|link=]]
+  | 110 [[File:HololivePt.png|25px|link=]]
+  | 150 [[File:HololivePt.png|25px|link=]]
+  | 800 [[File:HololivePt.png|25px|link=]]
+ |}
+</div>
+
+<tabber>
+TS1={{Map
+<!-- General Information -->
+ | ctID = 1290001
+ | Title = Amidst the Fog
+ | Introduction = Kawakaze and Zuikaku are caught up in a storm of abnormal weather conditions on their way home from a commission. What is this mysterious place hidden within the fog...?
+ | Requirements = None
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 21-23, '''Siren''': 24
+ | MobExp1 = 105
+ | MobExp2 = 121
+ | MobExp3 = 138
+ | MobExpSiren = 162
+ | Boss = Tracker II
+ | BossLevel = 25
+ | BossExp = 181
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 50
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Cube}} Wisdom Cube, {{Coin}} Coins
+ | ShipDrops = 
+ | NodeMap = {{MapTable/2
+    |x| |x| |p|e| 
+    |e|e| |c| | |e
+    |s| |e| |u|c|b
+    | |e| |x|x| |b
+    |s| | | | |e| 
+    | |x| | |p|x| 
+    | | |c| | | | 
+  }}
+}}
+|-|T1={{Map
+<!-- General Information -->
+ | ctID = 1290002
+ | Title = Foxes and Wolves
+ | Introduction = The Sirens have turned the Hololive Server into a Mirror Sea. Our heroines make haste to search for their missing comrades.
+ | Requirements = Clear TS1
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 200 [[File:HololivePt.png|30px]]
+ | 3StarReward = 1 [[File:Appearanceboxhololive.png|30px]], 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 21-23, '''Siren''': 24
+ | MobExp1 = 105
+ | MobExp2 = 121
+ | MobExp3 = 138
+ | MobExpSiren = 162
+ | Boss = Oceana II, Explorer II
+ | BossLevel = 25
+ | BossExp = 181
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 50
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, [[File:HololivePt.png|20px]] 
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|3|T3 Basic Depth Charges|Basic Depth Charges|4000}}
+{{EquipmentBox|3|T3 20mm AA Oerlikon|20mm AA Oerlikon|16000}}
+{{EquipmentBox|3|T3 Single 76mm (3"/50 caliber gun)|Single 76mm (3"/50 caliber gun)|11000}}
+ | ShipDrops = 
+{{ShipDropIcon|Charles Ausburne|4}}
+{{ShipDropIcon|York|4}}
+{{ShipDropIcon|Thatcher|3}}
+{{ShipDropIcon|Brooklyn|3}}
+{{ShipDropIcon|Phoenix|3}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Juno|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Abukuma|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable/2
+    | | |x|x|p|e| 
+    | |e| |c| |x|e
+    |s| |e| |u|c|b
+    | |e| |x| | |b
+    |s| | | | |e| 
+    | |x|x| |p| |e
+    | | |c| | |x| 
+  }}
+}}
+|-|TS2={{Map
+<!-- General Information -->
+ | ctID = 1290003
+ | Title = The Resistance Amasses
+ | Introduction = Girls known as "Hololive VTubers" were encountered in the Mirror Sea. What plan does this group that calls itself "the Resistance" have...?
+ | Requirements = Clear T1
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 31-33, '''Siren''': 34
+ | MobExp1 = 155
+ | MobExp2 = 176
+ | MobExp3 = 198
+ | MobExpSiren = 229
+ | Boss = Oceana II
+ | BossLevel = 35
+ | BossExp = 254
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 110
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Cube}} Wisdom Cube, {{Coin}} Coins
+ | ShipDrops = 
+ | NodeMap = {{MapTable/2
+    | | |x| | | |e| 
+    | |e| |p|x|x|x|p
+    | | |e| |b|b|e| 
+    |x| | |e| | | |x
+    |e| |e|x|x|u|e| 
+    |c| | |e| | | |e
+    | |c|e| |s|s|p| 
+  }}
+}}
+|-|T2={{Map
+<!-- General Information -->
+ | ctID = 1290004
+ | Title = The Revolt at Nakiri Castle
+ | Introduction = Isolated out at sea sits a castle, its design reminiscent of Sakura Empire architecture – Nakiri Castle. It is here the battle between The Resistance and the Sirens shall take place...!
+ | Requirements = Clear TS2
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}, 400 [[File:HololivePt.png|30px]]
+ | 3StarReward = 1 [[File:Appearanceboxhololive.png|30px]], 1 [[Universal Bullin]]
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 31-33, '''Siren''': 34
+ | MobExp1 = 155
+ | MobExp2 = 176
+ | MobExp3 = 198
+ | MobExpSiren = 229
+ | Boss = Tracker II, Peace Breaker II
+ | BossLevel = 35
+ | BossExp = 254
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 110
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, [[File:HololivePt.png|20px]] 
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T3 Twin 406mm (16"/45 Mk 5)|Twin 406mm (16"/45 Mk 5)|14200}}
+{{EquipmentBox|3|T3 Twin 356mm (41st Year Type)|Twin 356mm (41st Year Type)|34000}}
+{{EquipmentBox|3|T3 Single 140mm (3rd Year Type)|Single 140mm (3rd Year Type)|32000}}
+{{EquipmentBox|3|T3 Naval Camouflage|Naval Camouflage|1900}}
+ | ShipDrops = 
+{{ShipDropIcon|Helena|4}}
+{{ShipDropIcon|Nelson|4}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Tennessee|3}}
+{{ShipDropIcon|California|3}}
+{{ShipDropIcon|Achilles|3}}
+{{ShipDropIcon|Ajax|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Abukuma|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable/2
+    | | |x| |x| |e| | 
+    | |e| |p| |e| |p| 
+    |x| |e| | | |u|x|x
+    |s| | | |x|x| |b|b
+    |s| |e| |x|x|e| | 
+    | | | |e| |c| | | 
+    |e|c|e|x|e| |p| |x
+  }}
+}}
+|-|TS3={{Map
+<!-- General Information -->
+ | ctID = 1290005
+ | Title = The Shrine's Marine Maid
+ | Introduction = Out of the blue, the eccentric marine maid Yamada Hermione makes her appearance! – Wait, literally who?
+ | Requirements = Clear T2
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 41-43, '''Siren''': 44
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 297
+ | Boss = [[Minato Aqua]]
+ | BossLevel = 45
+ | BossExp = 326
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 290
+ | ActualAirSupremacy = 220
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Cube}} Wisdom Cube, {{Coin}} Coins
+ | ShipDrops = 
+ | NodeMap = {{MapTable/2
+    | |e|x|x| |p| | |x
+    | |e| |b|e|p| |e| 
+    | | |p|u| |x|x| |e
+    | |p|x| | |b|x| | 
+    |e|e|e| | |c| | |e
+    |x|c| |e| | |c|e| 
+    |e| | | |s|s| |x|x
+  }}
+ | Notes = The boss fleet contains submarines, it is advised to equip your vanguard with [[List of ASW Equipment|ASW gear]].
+}}
+|-|T3={{Map
+<!-- General Information -->
+ | ctID = 1290006
+ | Title = Traversing the Twists and Turns
+ | Introduction = The enormous Chaotic Labyrinth has massively expanded inside the Mirror Sea. With its creator – Ookami Mio – as their guide, our heroines take on the labyrinth's challenge.
+ | Requirements = Clear TS3
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, 600 [[File:HololivePt.png|30px]]
+ | 3StarReward = 1 [[File:Appearanceboxhololive.png|30px]], 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 41-43, '''Siren''': 44
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 297
+ | Boss = [[Ookami Mio]], [[Nakiri Ayame]]
+ | BossLevel = 45
+ | BossExp = 326
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 290
+ | ActualAirSupremacy = 220
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, [[File:HololivePt.png|20px]] 
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+{{EquipmentBox|4|T3 Single 150mm (SK C/28)|Single 150mm (SK C/28)|42000}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+{{EquipmentBox|3|T3 Single 120mm (Type 3)|Single 120mm (Type 3)|31100}}
+ | ShipDrops = 
+{{ShipDropIcon|Terror|4}}
+{{ShipDropIcon|Houston|4}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Amazon|3}}
+{{ShipDropIcon|Fortune|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Abukuma|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable/2
+    | |e|x|x|x|p| | |x
+    | |e|b|b|e| | |e| 
+    |x| |p| | |p|e| |e
+    | |p| | | |u| |x| 
+    |e|e|e| | |c| |x|e
+    | |c|x|x| | |c|e| 
+    |e| | | |s|s| | |x
+  }}
+}}
+</tabber>
+<tabber>
+T4={{Map
+<!-- General Information -->
+ | ctID = 1290007
+ | Title = Dark Underground Cemetery
+ | Introduction = The Resistance is at a dead end due to a barrier blocking their path. Natsuiro Matsuri has proposed a new route for them to take...
+ | Requirements = Clear T3
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:HololivePt.png|30px]]
+ | 3StarReward = 1 [[File:Appearanceboxhololive.png|30px]], 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 56-58, '''Siren''': 59
+ | MobExp1 = 280
+ | MobExp2 = 313
+ | MobExp3 = 348
+ | MobExpSiren = 398
+ | Boss = [[Natsuiro Matsuri]]
+ | BossLevel = 60
+ | BossExp = 435
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 575
+ | ActualAirSupremacy = 440
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, [[File:HololivePt.png|20px]] 
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 76mm AA Gun (3"/50 Mk 22)|76mm AA Gun (3"/50 Mk 22)|26300}}
+{{EquipmentBox|4|T3 Basic Sonar|Basic Sonar|2900}}
+{{EquipmentBox|4|T2 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|4|T3 Twin 40mm AA L60 Bofors|Twin 40mm AA L60 Bofors|16300}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+ | ShipDrops = 
+{{ShipDropIcon|Glowworm|4}}
+{{ShipDropIcon|Vestal|4}}
+{{ShipDropIcon|Northampton|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Arethusa|3}}
+{{ShipDropIcon|Galatea|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable/2
+    | | | | |x|x|e|e| 
+    | |e| |p| | | | |p
+    |x| |e|x|e|e|x|c| 
+    |s| | | |x|x|e| |b
+    |s| |e| |x|x|e| |b
+    | |e| | | | |u| | 
+    |e|c| |x|x| |p| | 
+  }}
+}}
+|-|TS4={{Map
+<!-- General Information -->
+ | ctID = 1290008
+ | Title = Sora's Viewing Platform
+ | Introduction = With the barrier destroyed, the Resistance now advances on the Hololive Headquarters building. The next obstacle that awaits them is a body of lava that appeared in the sea. Hold on, lava?!
+ | Requirements = Clear T4
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 56-58, '''Siren''': 59
+ | MobExp1 = 280
+ | MobExp2 = 313
+ | MobExp3 = 348
+ | MobExpSiren = 398
+ | Boss = [[Tokino Sora]]
+ | BossLevel = 60
+ | BossExp = 435
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 575
+ | ActualAirSupremacy = 440
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Cube}} Wisdom Cube, {{Coin}} Coins
+ | ShipDrops = 
+ | NodeMap = {{MapTable/2
+    | | |x|x|p| |e| | 
+    |e|e|x|x| |e|x|p| 
+    | | |e| | | |x|c| 
+    |s| | |x| | | | |b
+    |s| |e| |u|e|e| |b
+    |e| | | |x| | | | 
+    |x|c|e| |e| |p|x| 
+  }}
+}}
+|-|T5={{Map
+<!-- General Information -->
+ | ctID = 1290009
+ | Title = Airborne Coaster
+ | Introduction = The party must search for a roller coaster in the sky to reach the Hololive Headquarters. Nobody expects the Roller Coaster Inquisition!
+ | Requirements = Clear TS4
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 600 [[File:HololivePt.png|30px]]
+ | 3StarReward = 1 [[File:Appearanceboxhololive.png|30px]], 1 [[Trial Bullin MKII]]
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 66-68, '''Siren''': 69
+ | MobExp1 = 330
+ | MobExp2 = 368
+ | MobExp3 = 408
+ | MobExpSiren = 466
+ | Boss = [[Murasaki Shion]]
+ | BossLevel = 70
+ | BossExp = 507
+
+<!-- Stage Information -->
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1145
+ | ActualAirSupremacy = 880
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, [[File:HololivePt.png|20px]] 
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+{{EquipmentBox|4|T3 Junkers Ju-87C|Junkers Ju-87C|49000}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T3 Drop Tank|Drop Tank|2100}}
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+ | ShipDrops = 
+{{ShipDropIcon|Lexington|4}}
+{{ShipDropIcon|Saratoga|4}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Arethusa|3}}
+{{ShipDropIcon|Galatea|3}}
+{{ShipDropIcon|Shouhou|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable/2
+    | | |e|x|x| |b|b
+    |e| | | |p| |x|x
+    | |p| |c| | | | 
+    | |u|e|x| | |e| 
+    |p| | |p|c| |x|c
+    |c|x| | | | | | 
+    | | | |s|s| |c| 
+  }}
+}}
+|-|TS5={{Map
+<!-- General Information -->
+ | ctID = 1290010
+ | Title = The Mastermind Unveiled
+ | Introduction = The Sirens' mastermind Advisor has appeared! You'll need to truly rack your brains to complete THESE grueling and dangerous games!
+ | Requirements = Clear T5
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 66-68, '''Siren''': 69
+ | MobExp1 = 330
+ | MobExp2 = 368
+ | MobExp3 = 408
+ | MobExpSiren = 466
+ | Boss = [[Shirakami Fubuki]]
+ | BossLevel = 70
+ | BossExp = 507
+
+<!-- Stage Information -->
+ | BossBattleReq = 6
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 1145
+ | ActualAirSupremacy = 880
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Cube}} Wisdom Cube, {{Coin}} Coins
+ | ShipDrops = 
+ | NodeMap = {{MapTable/2
+    |x|e|e| |x|x| | | 
+    | |e| |e|b|b|p|x|x
+    |e| |p| | |p|e|c| 
+    | |x|x| | |u| | |e
+    |e|e| |e| |c| |x| 
+    | |c| | | |x| | | 
+    |e|x| |s|s| |e|e| 
+  }}
+}}
+|-|T6={{Map
+<!-- General Information -->
+ | ctID = 1290011
+ | Title = The Final Battle
+ | Introduction = Dark Fubuki – an adversary so evil that even the Sirens are trumped. Defeat the colossal foe and stop the Mirror Sea's expansion!
+ | Requirements = Clear TS5
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, 800 [[File:HololivePt.png|30px]]
+ | 3StarReward = 1 [[File:Appearanceboxhololive.png|30px]], 1 T3 Battleship Retrofit Blueprint
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 81-83, '''Siren''': 84
+ | MobExp1 = 405
+ | MobExp2 = 451
+ | MobExp3 = 498
+ | MobExpSiren = 567
+ | Boss = [[Shirakami Fubuki]]
+ | BossLevel = 85
+ | BossExp = 616
+
+<!-- Stage Information -->
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 45 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1720
+ | ActualAirSupremacy = 1320
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, [[File:HololivePt.png|20px]] 150
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+ | ShipDrops = 
+{{ShipDropIcon|Cleveland|4}}
+{{ShipDropIcon|Erebus|4}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Thatcher|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Myoukou|3}}
+{{ShipDropIcon|Nachi|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable/2
+    | |e|x| | |p| | | 
+    | |e| | |e|x|c| | 
+    |e|e| | | | |e|x|x
+    |p| |c| |x|x|u|b|b
+    |e|x|x|e|x|x| |e| 
+    | |c| | | | | |p| 
+    |e| |e|s|s| |e|p|x
+  }}
+}}
+</tabber>
+<tabber>
+HOLO-SP={{Map
+<!-- General Information -->
+ | ctID = 1290031
+ | Title = Tear Down This Building!
+ | Introduction = Hey now, it's a bonus stage, and this is crazy, but we are the champions, so don't stop me now, I'm making a note here: tons of event items.
+ | Requirements = Clear T6
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 95-97, '''Siren''': 99
+ | MobExp1 = 475
+ | MobExp2 = 528
+ | MobExp3 = 582
+ | MobExpSiren = 668
+ | Boss = [[Minato Aqua]] (displayed), [[Murasaki Shion]] and [[Nakiri Ayame]] (actual)
+ | BossLevel = 100
+ | BossExp = 725
+
+<!-- Stage Information -->
+ | BossBattleReq = 7
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 2650
+ | ActualAirSupremacy = 2035
+ | StatRestrictions = Average Level >100
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = [[File:Appearanceboxhololive.png|25px|link=]] Equipment Skin, {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, [[File:HololivePt.png|20px]] 800
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+{{EquipmentBox|4|T3 Junkers Ju-87C|Junkers Ju-87C|49000}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+ | ShipDrops = 
+{{ShipDropIcon|Cleveland|4}}
+{{ShipDropIcon|Erebus|4}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Thatcher|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Myoukou|3}}
+{{ShipDropIcon|Nachi|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable/2
+    |x|x| | |p|e| | | 
+    | |e|c|x|x| |e|x|x
+    |s| | |x|x|e| |x|x
+    | | |c| |u| | |b|b
+    |s| | | | |x| | | 
+    | |c|x|p| |c|e|x|x
+    |x|c|c|e| |p| |e| 
+  }}
+ | Notes = The boss fleet contains submarines, it is advised to equip your vanguard with [[List of ASW Equipment|ASW gear]].
+}}
+|-|EXTRA={{Map
+<!-- General Information -->
+ | ctID = 1290041
+ | Title = Dark Fubuki Showdown
+ | Introduction = The search for truth – Falsehood or factuality? Imposter or original? Will you, perhaps, be able to solve the mystery?
+ | Requirements = Clear T6
+
+<!-- Enemy Fleet Information -->
+ | Boss = [[Shirakami Fubuki]]
+ | BossLevel = 120
+ | BossExp = 0
+
+<!-- Stage Information -->
+ | BossBattleReq = 0
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 810
+ | ActualAirSupremacy = 620
+ | Fleet1 = {{BB}} 1 BB/BC
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    | |x|x|x| 
+    | |x|x|x| 
+    |x| |b| |x
+    | | | | | 
+    |x| |s| |x
+    | | | | | 
+  }}
+}}
+</tabber>
+
+== Mio's Divination Hall ==
+=== Friendship Points ===
+*After maintenance, {{Elite}} '''[[Ookami Mio]]''' {{CV}} will provisionally join your fleet after you log into the game.
+*You can collect '''"Friendship Points"''' by clearing normal mode story maps or [[Looking Glass of Fact and Fiction]] event maps during the event.
+*By accumulating '''"Friendship Points"''', you can clear limited event missions and obtain rewards such as gold and items.
+*'''[[Ookami Mio]]''' will permanently join your fleet after you clear the last mission.
+*'''IMPORTANT!''' <span style="color:red">'''If [[Ookami Mio]] participates in and survives the boss battle, the amount of friendship points is doubled.'''</span>
+
+{|
+ |
+{| class="wikitable" style="text-align:center"
+! Normal Maps
+! Friendship Points
+|-
+|'''Chapter 3'''
+|{{Display|MioPt|B|x7 Friendship Points}}
+|-
+|'''Chapter 4'''
+|{{Display|MioPt|B|x8 Friendship Points}}
+|-
+|'''Chapter 5'''
+|{{Display|MioPt|B|x9 Friendship Points}}
+|-
+|'''Chapter 6'''
+|{{Display|MioPt|B|x10 Friendship Points}}
+|-
+|'''Chapter 7'''
+|{{Display|MioPt|B|x11 Friendship Points}}
+|-
+|'''Chapter 8'''
+|{{Display|MioPt|B|x12 Friendship Points}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+! Normal Maps
+! Friendship Points
+|-
+|'''Chapter 9'''
+|{{Display|MioPt|B|x13 Friendship Points}}
+|-
+|'''Chapter 10'''
+|{{Display|MioPt|B|x14 Friendship Points}}
+|-
+|'''Chapter 11'''
+|{{Display|MioPt|B|x15 Friendship Points}}
+|-
+|'''Chapter 12'''
+|{{Display|MioPt|B|x16 Friendship Points}}
+|-
+|'''Chapter 13'''
+|{{Display|MioPt|B|x17 Friendship Points}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+! Looking Glass of Fact and Fiction
+! Friendship Points
+|-
+|'''TS1 & T1 Stage'''
+|{{Display|MioPt|B|x7 Friendship Points}}
+|-
+|'''TS2 & T2 Stage'''
+|{{Display|MioPt|B|x8 Friendship Points}}
+|-
+|'''TS3 & T3 Stage'''
+|{{Display|MioPt|B|x9 Friendship Points}}
+|-
+|'''T4 & TS4 Stage'''
+|{{Display|MioPt|B|x11 Friendship Points}}
+|-
+|'''T5 & TS5 Stage'''
+|{{Display|MioPt|B|x12 Friendship Points}}
+|-
+|'''T6 Stage'''
+|{{Display|MioPt|B|x14 Friendship Points}}
+|-
+|'''SP Stage'''
+|{{Display|MioPt|B|x20 Friendship Points}}
+|}
+|}
+
+=== Friendship Point Missions ===
+*Friendship Point missions will unlock one-by-one daily from November 27th to December 4th.
+
+{| class="wikitable" style="text-align:center"
+! Phases
+! Total Amount of<br> "Friendship Points"
+! Rewards
+|-
+|'''Day 1'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x100 Friendship Points}}
+|{{Display|Coinicon|N|x300 Coins}}
+|-
+|'''Day 2'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x200 Friendship Points}}
+|{{Display|Coinicon|N|x300 Coins}}
+|-
+|'''Day 3'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x350 Friendship Points}}
+|{{Display|Coinicon|N|x500 Coins}}
+|-
+|'''Day 4'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x500 Friendship Points}}
+|{{Display|DefenseT3TB|G|x1 T3 Defense Skillbook|50|Skills#Training_Skills{{!}}T3 Defense Support}}
+|-
+|'''Day 5'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x650 Friendship Points}}
+|{{Display|SupportT3TB|G|x1 T3 Support Skillbook|50|Skills#Training_Skills{{!}}T3 Utility Support}}
+|-
+|'''Day 6'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x800 Friendship Points}}
+|{{Display|OffenseT3TB|G|x1 T3 Offense Skillbook|50|Skills#Training_Skills{{!}}T3 Offense Skillbook}}
+|-
+|'''Day 7'''
+| style="background-color:PowderBlue" | {{Display|MioPt|B|x1000 Friendship Points}}
+|{{Display|Ookami MioIcon|B|''[[Ookami Mio]]''}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |Provisional Ship (NPC)
+|-
+!will be able to do the following:
+!will NOT be able to do the following:
+|-
+| style="background-color:PaleGreen" |'''★''' Sortie to normal mode maps<br>'''★''' Gain experience<br>'''★''' Increase affection<br>'''★''' Be reinforced<br>'''★''' Be limit broken<br>'''★''' Train skills
+| style="background-color:LightCoral" |'''★''' Be set as secretary<br>'''★''' Join commissions<br>'''★''' Go into either floor of Dorm<br>'''★''' Study in Classroom<br>'''★''' Join PvP or serve in PvP defense fleet<br>'''★''' Break level cap<br>'''★''' Be used as reinforcement for another ship<br>'''★''' Be retired<br>'''★''' Marry
+|-
+|}
+
+*'''★ NOTICE!''' If '''[[Ookami Mio]]''' has not permanently joined your fleet after the event ends, she will leave your fleet.
+
+== P-TNT Shop ==
+In the ''P-TNT Exchange Shop'' the earned '''P-TNT''' [[File:HololivePt.png|25px|link=]] can be exchanged for the items listed below. The shop will be available until '''December 17th''' ''after'' the end of the event period.
+{{EventShop
+ | ShopName = Looking Glass of Fact and Fiction
+ | TotalPt = 68350 (CN/JP) / 58350 (EN)
+ | PtImage = HololivePt
+
+ | ColorScheme = #00b6ff
+ | Image = Shirakami Fubuki
+ | Size = 500px
+ | Top = -50
+ | Left = 
+
+ | Items = 
+{{EventShopItem|Super Rare|Tokino Sora|Tokino Sora|Tokino SoraIcon|1|8000|HololivePt|1}}
+{{EventShopItem|Super Rare|Corn Lantern|Corn Lantern|89100|1|2000|HololivePt|1}}
+{{EventShopItem|Super Rare|Ankimo|Ankimo|89120|1|2000|HololivePt|1}}
+{{EventShopItem|Super Rare|Magic Closet||FurnIcon_guiziholoicon|1|1200|HololivePt|1}}
+{{EventShopItem|Elite|Holodisplay Case||FurnIcon_guiziholo3icon|1|600|HololivePt|1}}
+{{EventShopItem|Super Rare|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|HololivePt|1}}
+{{EventShopItem|Super Rare|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|HololivePt|1}}
+{{EventShopItem|Super Rare|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|HololivePt|1}}
+{{EventShopItem|Super Rare|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|HololivePt|1}}
+{{EventShopItem|Super Rare|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|HololivePt|100}}
+{{EventShopItem|Rare|Rare Cat Box||Cat Box Rare|10|250|HololivePt|1}}
+{{EventShopItem|Elite|Elite Cat Box||Cat Box Elite|5|500|HololivePt|1}}
+{{EventShopItem|Super Rare|Super Rare Cat Box||Cat Box Super Rare|2|3000|HololivePt|1}}
+{{EventShopItem|Super Rare|Strengthening Unit S1|Research|AllSUnit|30|500|HololivePt|1|EN only}}
+{{EventShopItem|Super Rare|Strengthening Unit S2|Research|AllSUnit2|30|500|HololivePt|1|CN/JP only}}
+{{EventShopItem|Legendary|Advanced Strengthening Unit S2|Research|AllSUnit3|10|1000|HololivePt|1|CN/JP only}}
+{{EventShopItem|Elite|T3 General Part||AuxT3Plate|30|30|HololivePt|1}}
+{{EventShopItem|Elite|T3 Main Gun Part||GunT3Plate|30|30|HololivePt|1}}
+{{EventShopItem|Elite|T3 Torpedo Part||TorpT3Plate|30|30|HololivePt|1}}
+{{EventShopItem|Elite|T3 Anti-Air Gun Part||AAT3Plate|30|30|HololivePt|1}}
+{{EventShopItem|Elite|T3 Aircraft Part||PlaneT3Plate|30|30|HololivePt|1}}
+{{EventShopItem|Normal|Coins||Coinicon|5|500|HololivePt|2000}}
+{{EventShopItem|Normal|Oil||Oilicon|5|450|HololivePt|1000}}
+{{EventShopItem|Rare|Oxy-cola|Living_Area#Refilling_supplies|Food1|100|15|HololivePt|1}}
+}}
+
+== P-TNT Milestone ==
+After reaching a certain threshold of '''P-TNT''' [[File:HololivePt.png|25px|link=]], you will be able to claim the rewards listed below. The rewards can be claimed until '''December 17th''' ''after'' the end of the event period. Notable reward include the ship '''[[Murasaki Shion]]''' and the equipment '''[[Gamers Mark]]'''.
+
+{| class="wikitable" style="text-align:center"
+![[File:HololivePt.png|25px|link=]]
+!Reward
+![[File:HololivePt.png|25px|link=]]
+!Reward
+![[File:HololivePt.png|25px|link=]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|Elite|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|Normal|3000x Coins}}
+|1000
+|{{Display|Moduleicon|Super Rare|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|Normal|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|Normal|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|Super Rare|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|Super Rare|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|8500
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|Super Rare|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|10000
+|{{Display|Murasaki ShionIcon|Elite|1x [[Murasaki Shion]]}}
+|11000
+|{{Display|UnknownT3Book|Super Rare|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|15000
+|{{Display|89080|Super Rare|1x [[Gamers Mark]]}}
+|20000
+|{{Display|Murasaki ShionIcon|Elite|1x [[Murasaki Shion]]}}
+|25000
+|{{Display|AllSUnit|Super Rare|2x Strengthening Unit S1 (EN)}}<br>{{Display|AllSUnit3|Legendary|2x Advanced Strengthening Unit S2 (CN/JP)}}
+|-
+|30000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|Super Rare|5x T3 Random Skill Book}}
+|40000
+|{{Display|Murasaki ShionIcon|Elite|1x [[Murasaki Shion]]}}
+|-
+|45000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|Super Rare|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|Murasaki ShionIcon|Elite|1x [[Murasaki Shion]]}}
+|80000
+|{{Display|T5Box|Legendary|1x T5 Sakura Tech Pack}}
+|100000
+|{{Display|T5Box|Legendary|1x T5 Sakura Tech Pack}}
+|}
+
+
+[[Category:Events]]

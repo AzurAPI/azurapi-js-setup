@@ -1,0 +1,461 @@
+{{ContentBox
+|text = white
+|border = #728EC7
+|header = #728EC7
+|body = #6F6C7F
+|logo = HardyChibi.png{{!}}75px
+|title = "Starry Sky over the Arctic Fjord" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:#FFFFFF;">
+* '''CN/JP/KR Server: March 7th - March 20th 2019'''
+</div>
+}}
+
+== Ships and Construction ==
+[[File:Arctic Fjord Construction Banner JP.png|500px|thumb]]
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Hardy|DD||'''Construction (1.4%)<br />00:26:00'''|'''[[#Special Event Tasks|Event Task]]'''}}
+{{ShipDisplay|4|Z2|DD||'''Construction (1.4%)<br />00:29:00'''|'''Map drop'''}}
+{{ShipDisplay|3|Hunter|DD||'''[[#"Ford Hunter"|Point Accumulation]]'''}}
+</div>
+
+== Tasks ==
+[[File:Arctic_Fjord_Hardy_Event_Task_Banner_JP.png|500px|thumb]]
+
+=== Map Completion Tasks ===
+
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!SP1
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} 
+| {{Display|CruiserT2BP|P|x 1}}
+|-
+!SP2
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} 
+| {{Display|CruiserT2BP|P|x 2}}
+|-
+!SP3
+| {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} 
+| {{Display|CruiserT3BP|G|x 1}}
+|}
+
+=== Special Event Tasks ===
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = E30-01
+|desccn = 通关10次SP3
+|descen = Clear SP3 10 times
+|reward = {{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|notes =
+}}
+{{Mission
+|type = Event
+|listnum = E30-02
+|desccn = 通关20次SP3
+|descen = Clear SP3 20 times
+|reward = {{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|notes =
+}}
+{{Mission
+|type = Event
+|listnum = E30-03
+|desccn = 通关40次SP3
+|descen = Clear SP3 40 times
+|reward = {{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|notes = 
+}}
+{{Mission
+|type = Event
+|listnum = E30-04
+|desccn = 通关60次SP3
+|descen = Clear SP3 60 times
+|reward = {{Display|HardyIcon|P|[[Hardy]]}}
+|notes =
+}}
+|}
+
+== Maps ==
+
+[[File:Coastal Artillery 1.png|500px]] [[File:Coastal Artillery 2.png|500px]]
+
+*'''New mechanic: “Coastal Artillery”'''<br/> In certain event stages, '''“Coastal Artillery”''' units will appear. The '''“Coastal Artillery”''' has an attack range, marked by red squares. When your fleet enters the '''“Coastal Artillery”'s range''' (red squares), that fleet (excluding submarine fleet) will receive a permanent map movement debuff for that sortie. Furthermore, the stages will have new roaming fleets. The '''“Coastal Artillery”''' unit will be destroyed when an ally fleet (most likely not including submarine fleet) moves to an adjacent square of the unit.
+*'''New mechanic: “Fast Forward”'''<br/> After you have reduced the danger level to '''Safe and achieved 3 stars for an event stage''', you may select '''Fast Forward mode''' when entering the event stage, which features:
+※ Different positioning and movement pattern of enemies
+<br>※ Unlimited movement for your fleets
+<br>※ No more Coastal Artillery units
+<br>※ No more enemy escort fleets
+
+<tabber>
+SP0={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = None
+ | ClearReward = 
+ | 3StarReward = 
+
+ | MobLevel = 
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = 
+ | BossLevel = 40
+ | BossExp = 
+
+ | BossBattleReq = 
+ | BossBattleClear = 
+ | Star1 = 
+ | Star2 = 
+ | Star3 = 
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = 
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Charles Ausburne|E}}
+{{ShipDropIcon|Gridley|R}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Repulse|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Arctic Fjord SP-0
+ | NodeMap = {{MapTable/2
+    |x|x|x| | |e| |b
+    | | | |e|e| |e| 
+    | | |e| |x|e|x|x
+    | |x| |e|e| | |x
+    | | | |x| |e|e| 
+    |s|s|s|x| |e| |b
+  }}
+}}
+ |-|
+SP1={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = [[#SP0|Clear SP0]]
+ | ClearReward = 
+ | 3StarReward = 
+
+ | MobLevel = 
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = 
+ | BossLevel = 
+ | BossExp = 
+
+ | BossBattleReq = 
+ | BossBattleClear = 
+ | Star1 = 
+ | Star2 = 
+ | Star3 = 
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = 
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Helena|E}}
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Gridley|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Arctic Fjord SP-1
+ | NodeMap = {{MapTable/2
+    |x|x|x| | | |e|b|e
+    |x| | |e| |e| |e| 
+    |x| | | |e| |x| |e
+    |s| | |x|x|b| |e| 
+    |s| |e|q|x|e|e|e|b
+    |s| | |e|e|e| |x|x
+    |x| | | |e| | |x|x
+  }}
+ | Notes = 
+}}
+ |-|
+SP2={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = [[#SP1|Clear SP1]]
+ | ClearReward = 
+ | 3StarReward = 
+
+ | MobLevel = 
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = 
+ | BossLevel = 
+ | BossExp = 
+
+ | BossBattleReq = 
+ | BossBattleClear = 
+ | Star1 = 
+ | Star2 = 
+ | Star3 = 
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = 
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|London|E}}
+{{ShipDropIcon|Exeter|E}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Portland|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Arctic Fjord SP-2
+ | NodeMap = {{MapTable/2
+    |x|x|x|x|x|e| |b|x|x
+    |x|x| |b|e| |e| |q|x
+    |e| |e| |e| |x| |e| 
+    | |e| |x|s|s| |e| |e
+    |b|e|e|x|s|s|e| | | 
+    |x|e| | |e|x| |e|e|b
+    |x| | |e| |e| |x|x|x
+  }}
+}}
+ |-|
+SP3={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = [[#SP2|Clear SP2]]
+ | ClearReward = 
+ | 3StarReward = 
+
+ | MobLevel = 
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = 
+ | BossLevel = 
+ | BossExp = 
+
+ | BossBattleReq = 
+ | BossBattleClear = 
+ | Star1 = 
+ | Star2 = 
+ | Star3 = 
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = 
+ | EquipmentDrops = 
+ | ShipDrops =
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Z2|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Fletcher|R}}
+{{ShipDropIcon|Thatcher|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}} 
+
+ | PreviewFile = Arctic Fjord SP-3
+ | NodeMap = {{MapTable/2
+    |x|x|x|x|x|e| |b|x|x
+    |x|x| |b|e| |e| |q|x
+    |e| |e| |e| |x| |e| 
+    | |e| |x|s|s| |e| |e
+    |b|e|e|x|s|s|e| | | 
+    |x|e| | |e|x| |e|e|b
+    |x| | |e| |e| |x|x|x
+  }}
+}}
+</tabber>
+
+== "Fjord Hunter" ==
+
+[[File:Fjord Hunter Event Task Banner JP.png|500px|thumb]]
+
+*After maintenance, {{Rare}} '''[[Hunter]]''' {{DD}} will provisionally join your fleet after you log into the game.
+*You can collect '''"Friendship Points"''' by clearing normal mode story maps during the event.
+*By accumulating '''"Friendship Points"''', you can clear limited event missions and obtain rewards such as gold and items.
+*'''[[Hunter]]''' will permanently join your fleet after you clear the last mission.
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Normal Maps
+!colspan=1|Friendship Points
+|-
+|'''Chapter 3'''
+|{{Display|Hunter_Points|B|x7 Friendship Points}}
+|-
+|'''Chapter 4'''
+|{{Display|Hunter_Points|B|x8 Friendship Points}}
+|-
+|'''Chapter 5'''
+|{{Display|Hunter_Points|B|x9 Friendship Points}}
+|-
+|'''Chapter 6'''
+|{{Display|Hunter_Points|B|x10 Friendship Points}}
+|-
+|'''Chapter 7'''
+|{{Display|Hunter_Points|B|x11 Friendship Points}}
+|-
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Normal Maps
+!colspan=1|Friendship Points
+|-
+|'''Chapter 8'''
+|{{Display|Hunter_Points|B|x12 Friendship Points}}
+|-
+|'''Chapter 9'''
+|{{Display|Hunter_Points|B|x13 Friendship Points}}
+|-
+|'''Chapter 10'''
+|{{Display|Hunter_Points|B|x14 Friendship Points}}
+|-
+|'''Chapter 11'''
+|{{Display|Hunter_Points|B|x15 Friendship Points}}
+|-
+|'''Chapter 12'''
+|{{Display|Hunter_Points|B|x16 Friendship Points}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=1|SP Maps
+!colspan=1|Friendship Points
+|-
+|'''SP1'''
+|{{Display|Hunter_Points|B|x10 Friendship Points}}
+|-
+|'''SP2'''
+|{{Display|Hunter_Points|B|x12 Friendship Points}}
+|-
+|'''SP3'''
+|{{Display|Hunter_Points|B|x14 Friendship Points}}
+|-
+|}
+|}
+
+*'''IMPORTANT!''' <span style="color:red">'''If [[Hunter]] participates in and survives the boss battle, the amount of friendship points is doubled.'''</span>
+*Event missions will unlock one-by-one daily from March 7th to March 13th.
+
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Phases
+!colspan=1|Amount of<br> "Friendship Points"
+!colspan=1|Rewards
+|-
+|'''Day 1'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x100 Friendship Points}}
+|{{Display|Coinicon|N|x300}}
+|-
+|'''Day 2'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x200 Friendship Points}}
+|{{Display|Coinicon|N|x300}}
+|-
+|'''Day 3'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x350 Friendship Points}}
+|{{Display|Coinicon|N|x500}}
+|-
+|'''Day 4'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x500 Friendship Points}}
+|{{Display|DefenseT3TB|G|x1 T3 Defense Skillbook|50|Skills#Training_Skills{{!}}T3 Defense Support}}
+|-
+|'''Day 5'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x650 Friendship Points}}
+|{{Display|SupportT3TB|G|x1 T3 Support Skillbook|50|Skills#Training_Skills{{!}}T3 Utility Support}}
+|-
+|'''Day 6'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x800 Friendship Points}}
+|{{Display|OffenseT3TB|G|x1 T3 Offense Skillbook|50|Skills#Training_Skills{{!}}T3 Offense Skillbook}}
+|-
+|'''Day 7'''
+| style="background-color:PowderBlue" | {{Display|Hunter_Points|B|x1000 Friendship Points}}
+|{{Display|HunterIcon|B|''[[Hunter]]''}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |Provisional Ship (NPC)
+|-
+!will be able to do the following:
+!will NOT be able to do the following:
+|-
+| style="background-color:PaleGreen" |'''★''' Sortie to normal mode maps<br>'''★''' Gain experience<br>'''★''' Increase affection<br>'''★''' Be reinforced<br>'''★''' Be limit broken<br>'''★''' Train skills
+| style="background-color:LightCoral" |'''★''' Be set as secretary<br>'''★''' Join commissions<br>'''★''' Go into either floor of Backyard<br>'''★''' Study in Classroom<br>'''★''' Join PvP or serve in PvP defense fleet<br>'''★''' Break level cap<br>'''★''' Be used as reinforcement for another ship<br>'''★''' Be retired<br>'''★''' Marry
+|-
+|}
+
+*'''★ NOTICE!''' If '''[[Hunter]]''' has not permanently joined your fleet after the event ends, she will leave your fleet.
+
+[[Category:Events]]

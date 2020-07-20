@@ -1,0 +1,511 @@
+{{ContentBox
+|text = black
+|border = #000
+|header = #A77BD2
+|body = #D6A3DE
+|logo = Nep_head.png
+|title = "Visitors from Another Dimension" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:black;">
+* '''JP Server: 26 January - 12 February 2018'''
+* '''CN Server: 6 February - 23 February 2018'''
+* '''KR Server: 21 June - 5 July 2018'''
+* '''EN Server: 22 November - 5 December 2018'''
+</div>
+}}
+
+==Limited Craft==
+
+{| class="wikitable"
+|-
+| [[File:Visitors_from_Another_Dimension_Craft_Banner_Part_1.png|500px]]
+| [[File:Visitors_from_Another_Dimension_Craft_Banner_Part_2.png|500px]]
+|}
+
+*During event time 6 new ships will be available for construction in the limited construction tab:
+
+===CN/JP Server===
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Purple Heart|CL||''02:44:00''|''26 Jan to 3 Feb: ''<br>'''2.25%'''<br>''4 Feb to 12 Feb: ''<br>'''0.75%'''}}
+{{ShipDisplay|5|White Heart|DD||''02:26:00''|''26 Jan to 3 Feb: ''<br>'''2.25%'''<br>''4 Feb to 12 Feb: ''<br>'''0.75%'''}}
+{{ShipDisplay|5|Black Heart|CA||''02:40:00''|''26 Jan to 3 Feb: ''<br>'''0.75%'''<br>''4 Feb to 12 Feb: ''<br>'''2.25%'''}}
+{{ShipDisplay|5|Green Heart|CV||''02:47:00''|''26 Jan to 3 Feb: ''<br>'''0.75%'''<br>''4 Feb to 12 Feb: ''<br>'''2.25%'''}}
+{{ShipDisplay|4|Blanc|DD||''02:24:00''|''26 Jan to 3 Feb: ''<br>'''3.15%'''<br>''4 Feb to 12 Feb: ''<br>'''1.05%'''}}
+{{ShipDisplay|4|Noire|CA||''02:38:00''|''26 Jan to 3 Feb: ''<br>'''1.05%'''<br>''4 Feb to 12 Feb: ''<br>'''3.15%'''}}
+</div>
+
+===EN Server===
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Purple Heart|CL||''02:44:00''|''22 Nov to 28 Nov: ''<br>'''2.25%'''<br>''29 Nov to 05 Dec: ''<br>'''0.75%'''}}
+{{ShipDisplay|5|White Heart|DD||''02:26:00''|''22 Nov to 28 Nov: ''<br>'''2.25%'''<br>''29 Nov to 05 Dec: ''<br>'''0.75%'''}}
+{{ShipDisplay|5|Black Heart|CA||''02:40:00''|''22 Nov to 28 Nov: ''<br>'''0.75%'''<br>''29 Nov to 05 Dec: ''<br>'''2.25%'''}}
+{{ShipDisplay|5|Green Heart|CV||''02:47:00''|''22 Nov to 28 Nov: ''<br>'''0.5%'''<br>''29 Nov to 05 Dec: ''<br>'''2.25%'''}}
+{{ShipDisplay|4|Blanc|DD||''02:24:00''|''22 Nov to 28 Nov: ''<br>'''3.15%'''<br>''29 Nov to 05 Dec: ''<br>'''1.05%'''}}
+{{ShipDisplay|4|Noire|CA||''02:38:00''|''22 Nov to 28 Nov: ''<br>'''1.05%'''<br>''29 Nov to 05 Dec: ''<br>'''3.15%'''}}
+</div>
+
+*'''All event characters have a separate section in the collection page titled "Collab" and don't count toward completion percentage.'''
+
+==Limited Skins==
+
+*New time-limited skins will be available in a cash shop for the duration of the event:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Purple Heart|CL|_skin_|'''"A Promise with<br>A Goddess"'''|''880 {{Ruby}}''||BG|201}}
+{{ShipDisplay|5|White Heart|DD|_skin_|'''"A Goddess'<br>Demureness"'''|''880 {{Ruby}}''||BG|203}}
+{{ShipDisplay|5|Black Heart|CA|_skin_|'''"A Goddess' Smile"'''|''880 {{Ruby}}''||BG|202}}
+{{ShipDisplay|5|Green Heart|CV|_skin_|'''"A Moment with<br>A Goddess"'''|''880 {{Ruby}}''||BG|204}}
+</div>
+
+==Furniture==
+
+*New furniture set: '''"Gamindustri"''' (Available for sale for the duration of the event)
+
+{| class="wikitable"
+|-
+| [[File:Neptunia_Furniture_Preview.png|600px|Gamindustri Furniture Set]]
+|}
+
+*All furniture in this set can be bought using either ''Furniture Coins'' {{Furniture_Coin}} or ''Rubies'' {{Ruby}}.
+**Buying furnitures using {{Ruby}} will cost you 3x more than it cost when buying with {{Furniture_Coin}}.
+**A whole set will cost you 1320 {{Furniture_Coin}} for every unique items in the set.
+***''It will cost another 310 {{Furniture_Coin}} to procure the rest of the items (Several items can be bought more than once).''
+*There are also four furniture that can be bought using {{Ruby}} only (Premium Furnitures).<br/>These furnitures can be seen by accessing the fourth tab of the furniture shop.
+:[[File:Neptunia_Furniture_Premium.png|600px|Premium Furnitures]]
+
+== Equipment Skins ==
+
+'''"Equipment Skin Box"'''  will appear in [[Academy|Supplies Shop]] for a limited period of time at a cost of 7000 {{Coin}} each.
+*New boxes will appear after shop refresh during the event period.
+Event map bosses will have a chance to drop random equipment skin.
+{{:Equipment Skins/Gamindustri}}
+
+==Event Maps==
+
+===Normal Maps===
+
+<tabber>
+SP1={{Map
+ | Title = Black Gulf
+ | Introduction = I wonder if Neptune's search is going fine... Huh, what's this? We've detected a signal that superficially resembles that of Lastation? What in the world...?
+ | Requirements = None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}
+ | 3StarReward = Furniture '''"Stuffed Dogoo Toy (Big)"'''
+
+ | MobLevel = 22-26
+ | MobExp1 = 132
+ | MobExp2 = 158
+ | MobExp3 = 187
+ | Boss = [[Black Heart]]
+ | BossLevel = 27
+ | BossExp = 235
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, '''Equipment Skin Box'''
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|3|T3 Hydraulic Steering Gear|Hydraulic Steering Gear|1700}}
+{{EquipmentBox|3|T3 Triple 203mm (8"/55 Mk 9)|Triple 203mm (8"/55 Mk 9)|13000}}
+ | ShipDrops =
+{{ShipDropIcon|Indianapolis|E}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Portland|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = HDN SP1
+ | NodeMap = 
+
+}}
+ |-|
+SP2={{Map
+ | Title = Green Bay
+ | Introduction = Now we're receiving Vert's and Green Heart's signals? This means... they're reading the CPU's data. We must do something about this, quick...!
+ | Requirements = Clear SP1 map
+ | ClearReward = 1 {{cube}}, 600 {{coin}}
+ | 3StarReward = Furniture '''"Green Table Lamp"'''
+
+ | MobLevel = 30-34
+ | MobExp1 = 180
+ | MobExp2 = 211
+ | MobExp3 = 244
+ | Boss = [[Green Heart]]
+ | BossLevel = 35
+ | BossExp = 304
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, '''Equipment Skin Box'''
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T2 Fairey Barracuda|Fairey Barracuda|28100}}
+{{EquipmentBox|4|T3 Mitsubishi A6M2 Zero|Mitsubishi A6M2 Zero|37100}}
+{{EquipmentBox|3|T3 Douglas SBD Dauntless|Douglas SBD Dauntless|19000}}
+ | ShipDrops =
+{{ShipDropIcon|Helena|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Long Island|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = HDN SP2
+ | NodeMap = 
+ | Notes = [[File:Secret node.png|30px]] Nodes: E1<br>
+[[File:Ammo node.png|30px]] Nodes: None 
+
+}}
+ |-|
+SP3={{Map
+ | Title = White Laguna
+ | Introduction = We have finally established contact with everyone. The new signal we've detected matches that of Blanc and Lowee. Please mobilize to investigate ASAP.
+ | Requirements = Clear SP2 map
+ | ClearReward = 1 {{cube}}, 600 {{coin}}
+ | 3StarReward = Furniture '''"Transportation Device"'''
+
+ | MobLevel = 37-41
+ | MobExp1 = 256
+ | MobExp2 = 295
+ | MobExp3 = 
+ | Boss = [[White Heart]]
+ | BossLevel = 42
+ | BossExp = 364
+
+ | BossBattleReq = 4
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, '''Equipment Skin Box'''
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|3|T3 Single 120mm (QF Mark IX)|Single 120mm (QF Mark IX)|21300}}
+ | ShipDrops =
+{{ShipDropIcon|Charles Ausburne|E}}
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Sims|R}}
+{{ShipDropIcon|Hammann|R}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}} 
+ | PreviewFile = HDN SP3
+ | NodeMap = 
+
+}}
+ |-|
+SP4={{Map
+ | Title = Purple Creek
+ | Introduction = We've just intercepted a new signal. It seems to be of Neptune and Planeptune. Everyone, brace yourselves! Let's finish it here!
+ | Requirements = Clear SP3 map
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}
+ | 3StarReward = Furniture '''"Purple Heart's Table"'''
+
+ | MobLevel = 47-49
+ | MobExp1 = 270
+ | MobExp2 = 309
+ | MobExp3 = 354
+ | Boss = [[Purple Heart]]
+ | BossLevel = 50
+ | BossExp = 434
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, '''Equipment Skin Box'''
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T3 Triple 152mm (6"/47 Mk 16)|Triple 152mm (6"/47 Mk 16)|12100}}
+{{EquipmentBox|4|T3 Twin 152mm (BL 6" Mk XXII)|Twin 152mm (BL 6" Mk XXII)|22100}}
+{{EquipmentBox|4|T3 Twin 140mm (3rd Year Type)|Twin 140mm (3rd Year Type)|32100}}
+{{EquipmentBox|4|T3 Triple 150mm (SK C/25)|Triple 150mm (SK C/25)|42100}}
+ | ShipDrops =
+{{ShipDropIcon|Cleveland|E}}
+{{ShipDropIcon|Arizona|E}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Pennsylvania|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = HDN SP4
+ | NodeMap = 
+ | Notes = [[File:Secret node.png|30px]] Nodes: F5<br>
+[[File:Ammo node.png|30px]] Nodes: B2
+
+}}
+</tabber>
+
+===EX Map===
+{{Map
+ | Title = Hyper Challenge
+ | Introduction = The strength of this signal is unprecedented... is this the power of a CPU? A hellish battle awaits us ahead - may we fight until the bitter end!
+ | Requirements = Clear SP4 map
+ | ClearReward = Furniture '''"Hyperdimension Emblem"'''
+ | 3StarReward = None
+
+ | MobLevel = 87-89
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | Boss = [[Purple Heart]] and [[Black Heart]]
+ | BossLevel = 90
+ | BossExp = 
+
+ | BossBattleReq = 3
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Sink 8 Fleets
+ | Star3 = Sink all fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = None
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = EXTRA
+ | NodeMap = 
+ | Notes = Purple Heart and Black Heart's special barrage can be cleared with an airstrike.<br />
+Boss fight is extended stage with 200 seconds clear condition for S-rank.
+
+ | Fleet1 = 1 {{CV}} CV, 1 {{CA}} CA, 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CV}} CV, 1 {{CA}} CA
+ | StatRestrictions =  Average level > 90, {{Firepower}} Total Firepower stat > 800, {{Aviation}} Total Aviation stat > 1200
+}}
+
+==Event Tasks==
+
+*Maps clear and 3★ Rewards:
+
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+|'''SP1'''
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}}
+| {{Display|SlimeIcon|P|"Stuffed Dogoo toy (Big)"}}
+|-
+|'''SP2'''
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}}
+| {{Display|green_lampIcon|P|"Green table lamp"}}
+|-
+|'''SP3'''
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}}
+| {{Display|transporterIcon|P|"Transportation Device"}}
+|-
+|'''SP4'''
+| {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}}
+| {{Display|purple_tableIcon|P|"Purple Heart's Table"}}
+|}
+
+*Special event tasks:
+
+{| class="wikitable" style="text-align: center;"
+! Task Description
+! Reward
+|-
+| 指揮官LVを15にする<br>''Reach Commander's level 15''
+| {{Display|HDN_NeptuneIcon|P|[[HDN_Neptune|Neptune]]}}
+|-
+| EXステージをクリア<br>''Clear EX Map''
+| {{Display|NeptuniaMedal|6|''"Hyperdimension Emblem"''}}
+|}
+
+==Vert's Questline==
+
+{| class="wikitable"
+|-
+| [[File:Vert_Questline_Banner.png|600px]]
+|}
+
+*Tap the [!] above the chibi character in the [[Academy]] to receive the event task. Every day 1 new task will unlock. Completing all tasks will reward you with the carrier [[Vert]].
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = V-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 5回建造する
+|descen = [[Building|Construct]] 5 ships.
+|fuel=
+|coin=
+|cube=
+|other= {{Display|Vert_medal|G|''Vert's Medal''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = V-02
+|reqQuest = V-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = デイリーチャレンジを3回遂行せよ！
+|descen = Clear [[Daily Raid]] 3 times.
+|fuel=
+|coin=
+|cube=
+|other= {{Display|Vert_medal|G|''Vert's Medal''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = V-03
+|reqQuest = V-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 艦隊を出撃させ、10回S評価で勝利せよ！
+|descen = Sortie and obtain 10 wins with S ranks.
+|fuel=
+|coin=
+|cube=
+|other= {{Display|Vert_medal|G|''Vert's Medal''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = V-04
+|reqQuest = V-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 任意のイベントステージを5回クリア
+|descen = Clear event stages 5 times.
+|fuel=
+|coin=
+|cube=
+|other= {{Display|Vert_medal|G|''Vert's Medal''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = V-05
+|reqQuest = V-04
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 戦術教室で戦術訓練を4回行う
+|descen = Train ships in [[Academy#Tactical_Classroom|tactical classroom]] 4 times.
+|fuel=
+|coin=
+|cube=
+|other= {{Display|Vert_medal|G|''Vert's Medal''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = V-06
+|reqQuest = V-05
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 軍事委託を5回行う
+|descen = Complete 5 [[expeditions]].
+|fuel=
+|coin=
+|cube=
+|other= {{Display|Vert_medal|G|''Vert's Medal''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = V-07
+|reqQuest = V-06
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = ベールのメダルを6つ集める
+|descen = Collect 6 Vert's Medal
+|fuel=
+|coin=
+|cube=
+|other= {{Display|VertIcon|P|''[[Vert]]''}}
+|notes=
+}}
+
+[[Category:Events]]

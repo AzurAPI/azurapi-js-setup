@@ -1,0 +1,111 @@
+{{ContentBox
+|text = black
+|border = #B9713E
+|header = #B9713E
+|body = #ECAA7B
+|logo = MikasaSchoolChibi.png{{!}}70px
+|title = "Veteran Mikasa's Mini Museum" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:black;">
+* '''JP Server: November 23rd - December 7th 2017''' 
+** '''Rerun: August 30th - September 13th 2018'''
+** '''2nd Rerun: April 4th - April 18th 2019'''
+* '''CN Server: December 1st - December 11th 2017'''
+** '''Rerun: August 30th - September 13th 2018'''
+** '''2nd Rerun: April 4th - April 18th 2019'''
+* '''KR Server: August 30th - September 13th 2018'''
+** '''Rerun: May 5th - May 16th 2019'''
+* '''EN Server: October 17th - October 30th 2019'''
+</div>
+}}
+
+{| class="wikitable"
+|-
+| [[File:Veteran Mikasa's Mini Museum - Catalog JP.png|500px]]
+|}
+
+*'''Mikasa's Questline:''' Collect [[File:GearPt.png|20px]] '''"Model Parts"''' from event tasks and use them on the event menu to repair ship models. You are given a reward when 3 ship models are repaired for each category, and repairing all the models will reward you with an event exclusive furniture piece: '''"Battleship Mikasa's Ship Model"'''.
+
+==Rewards==
+{|class="wikitable" style="text-align:center;"
+!Model Category
+![[File:GearPt.png|25px]] Model Parts<br/>per model
+!Total
+!Category<br/>Completion
+|-
+!Destroyer
+|150
+|450
+|{{Display|UnknownT2Book|P|[[Skills#Training Skills|5x Random T2 Skillbook]]}}
+|-
+!Cruiser
+|150
+|450
+|{{Display|UnknownT3Plate|P|[[Equipment#Upgrading|5x Random T3 Plate]]}}
+|-
+!Battleship
+|200
+|600
+|{{Display|UnknownT2BP|P|[[Retrofit|3x Random T2 Blueprints]]}}
+|-
+!Carrier
+|200
+|600
+|{{Display|UnknownT3BP|G|[[Retrofit|1x Random T3 Blueprint]]}}
+|-
+!All
+| --
+|2100
+|{{Display|FurnitureMikasa|P|Battleship [[Mikasa]] Ship Model}}
+|}
+
+==Tasks==
+* These event tasks are daily, but may be repeated if event tasks were incompleted from prior days during the event. This is designed so that all players can collect the Model Parts needed even if they miss a few days.
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = E27-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 艦隊を3回「強化」せよ！<br>舰船强化3次<br>함선을 3회 강화한다.
+|descen = [[Dockyard#Reinforce.2FEnhance|Reinforce]] ships 3 times.
+|fuel= 
+|coin= 
+|cube=
+|other= {{Display|GearPt|B|'''100 "Model Parts"'''}}
+|notes= Refreshes Daily
+}}
+{{Task
+|type = Event
+|listnum = E27-02
+|reqQuest = E27-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 委託を3回行う<br>进行3次委托<br>군사 의로를 3회 완수한다.
+|descen = Complete 3 [[Commissions|Expeditions]].
+|fuel= 
+|coin=
+|cube=
+|other= {{Display|GearPt|B|'''100 "Model Parts"'''}}
+|notes= Refreshes Daily
+}}
+{{Task
+|type = Event
+|listnum = E27-03
+|reqQuest = E27-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 敵中枢艦隊を5回撃破する<br>通关地图5次<br>함대를 출격시켜 적 중요함드를 5대 격파하라.
+|descen = Defeat 5 bosses.
+|fuel=
+|coin= 
+|cube=
+|other= {{Display|GearPt|B|'''100 "Model Parts"'''}}
+|notes= Refreshes Daily
+}}
+|}
+
+
+[[Category:Events]]

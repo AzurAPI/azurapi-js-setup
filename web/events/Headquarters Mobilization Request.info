@@ -1,0 +1,403 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #2161d6
+|body = darkblue 
+|logo = EnterpriseChibi.png{{!}}60px
+|title = "Headquarters Mobilization Request" event
+|marginTop = 10px
+|content = <div style="padding-bottom:3px; color:white">
+* '''CN/JP/EN servers: September 11th - October 30th 2019'''
+</div>
+}}
+
+[[File:Headquarters Mobilization Request Active Banner.png]]
+*During this event, Active Commanders gain "Returnee Points" [[File:Union pt.png|25px]] from daily tasks to gain various rewards.
+**Active Commanders are classified as players that have logged in at least once within 30 days before the start of the event.
+**Click on "Send Rally Request" to initiate the tasks and enable the auto-matching option.
+
+[[File:Headquarters Mobilization Request Returning Banner.png]]
+*A New or Returning player must '''input the UID of an Active Commander''' to link with on the banner to unlock tasks and gain various rewards. Alternatively, an auto-match option can be used which will provide the player with the UID of a random Active Commander to link with.
+**These tasks also reward Returnee Points [[File:Union pt.png|25px]] for the linked Active Commander.
+**Returning players are classified as players that have NOT logged in the game for more than 30 days before the event started.
+**Accounts newly created during the event classify as New players.
+*An Active Commander can have up to ''two'' New/Returning player accounts linked to his UID.
+
+==Active Commander Tasks==
+*These tasks and rewards are only available for players that qualify as Active Commanders.
+*One task is unlocked daily from the start of the event.
+*The tasks ''must be activated'' on the banner prior to doing said tasks.
+*Active Commander Tasks are limited to a total of 500 Returnee Points [[File:Union pt.png|25px]].
+{{MissionHeader}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A1
+ | descen = Sortie and obtain 25 Perfect victories.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A2
+ | descen = Conduct tactical training 6 times.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A3
+ | descen = Sortie and defeat 5 Boss Fleets.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A4
+ | descen = Conduct 10 Exercises.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A5
+ | descen = Defeat 250 enemies.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A6
+ | descen = Sortie and obtain 35 Perfect victories.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A7
+ | descen = Complete 10 commissions.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A8
+ | descen = Sortie and defeat 8 Boss Fleets.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A9
+ | descen = Enhance ships 20 times.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A10
+ | descen = Defeat 350 enemies.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A11
+ | descen = Sortie and obtain 45 Perfect victories.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A12
+ | descen = Complete 3 Daily Challenges.
+ | reward = 35 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-A13
+ | descen = Sortie and defeat 10 Boss Fleets.
+ | reward = 40 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-A14
+ | descen = Defeat 500 enemies.
+ | reward = 40 [[File:Union pt.png|25px]]
+}}
+|}
+
+===Phase Rewards===
+{| class="wikitable" style="text-align:center"
+![[File:Union pt.png|25px|link=]]
+!Reward
+![[File:Union pt.png|25px|link=]]
+!Reward
+![[File:Union pt.png|25px|link=]]
+!Reward
+|-
+|25
+|{{Display|Oilicon|Common|300 Oil}}
+|50
+|{{Display|Coinicon|Common|1000 Gold}}
+|75
+|{{Display|UnknownT3Book|Super Rare|3x Mystery T3 Skill Book}}
+|-
+|100
+|{{Display|SkinTicket|Super Rare|1x Skin Rental Ticket}}
+|125
+|{{Display|Food5|Elite|2x Royal Gourmet}}
+|150
+|{{Display|Oilicon|Common|500 Oil}}
+|-
+|175
+|{{Display|Food6|Elite|2x Full Course}}
+|200
+|{{Display|AllSUnit|Super Rare|1x General Blueprint - Series 1}}
+|225
+|{{Display|AllSUnit|Super Rare|4x General Blueprint - Series 1}}
+|-
+|250
+|{{Display|UnknownT3Book|Super Rare|5x T3 Mystery Skill Book}}
+|275
+|{{Display|Food5|Elite|3x Royal Gourmet}}
+|300
+|{{Display|T4Box|Super Rare|5x Mystery T4 Equipment Box}}
+|-
+|325
+|{{Display|Oilicon|Common|400 Oil}}
+|350
+|{{Display|SkinTicket|Super Rare|1x Skin Rental Ticket}}
+|375
+|{{Display|UnknownT3Book|Super Rare|4x T3 Mystery Skill Book}}
+|-
+|400
+|{{Display|AllSUnit|Super Rare|2x General Blueprint - Series 1}}
+|425
+|Leader Chat Frame
+|450
+|Leader Portrait Frame
+|-
+|475
+|{{Display|AllSUnit|Super Rare|4x General Blueprint - Series 1}}
+|500
+|{{Display|SkinTicket|Super Rare|1x Skin Rental Ticket}}
+|550
+|{{Display|Drillicon|Elite|4x Quick Finisher}}
+|-
+|600
+|{{Display|UnknownT3Book|Super Rare|3x T3 Mystery Skill Book}}
+|650
+|{{Display|Oilicon|Common|400 Oil}}
+|700
+|{{Display|AllSUnit|Super Rare|3x General Blueprint - Series 1}}
+|-
+|750
+|{{Display|Food6|Elite|2x Full Course}}
+|800
+|{{Display|Coinicon|Common|3000 Gold}}
+|850
+|{{Display|Drillicon|Elite|4x Quick Finisher}}
+|-
+|900
+|{{Display|Cube|Super Rare|3x Wisdom Cube}}
+|950
+|{{Display|AllSUnit|Super Rare|4x General Blueprint - Series 1}}
+|1000
+|{{Display|SkinTicket|Super Rare|1x Skin Rental Ticket}}
+|-
+|}
+
+==New/Returning Commander Tasks==
+*These event tasks will only appear for the New or Returning players during the event.
+*For these event tasks, each one will reward Returnee Points [[File:Union pt.png|25px]] to the Active Commander linked to the player.
+*New/Returning Tasks contribute up to a total of 500 Returnee Points [[File:Union pt.png|25px]] for the linked Active Commander.
+
+{{MissionHeader}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N1
+ | descen = Login to the game.
+ | reward = 1 x Returnee Portrait Frame
+ | notes = Rewards 30 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N1
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|SkinTicket|G|1 x Skin Rental Ticket|40|Skin Rental Ticket}}
+ | notes = Rewards 30 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N2
+ | descen = Build 1 ship.
+ | reward = {{Display|AllSUnit|G|2 x General Blueprint - Series 1|40|General Blueprint - Series 1}}
+ | notes = Rewards 30 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N2
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 30 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N3
+ | descen = Resupply the Dorm with Snacks 5 times.
+ | reward = {{Display|Food5|P|5 x Royal Gourmet|40|Royal Gourmet}}
+ | notes = Rewards 25 [[File:Union pt.png|25px]] 
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N3
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|SkinTicket|G|1 x Skin Rental Ticket|40|Skin Rental Ticket}}
+ | notes = Rewards 25 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N4
+ | descen = Complete 3 Daily Challenges.
+ | reward = {{Display|T4Box|G|2 x T4 Equipment Box|40|T4 Equipment Box}} 
+ | notes = Rewards 25 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N4
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 25 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N5
+ | descen = Complete 3 commissions.
+ | reward = {{Display|Drillicon|P|3 x Quick Finisher|40|Quick Finisher}} 
+ | notes = Rewards 20 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N5
+ | descen = Clear 3 Hard Mode stages.
+ | reward = 1 x Returnee Chat Frame
+ | notes = Rewards 20 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N6
+ | descen = Enhance ships 5 times.
+ | reward = {{Display|UnknownT3Book|G|5 x T3 Mystery Skill Book|40|T3 Mystery Skill Book}} 
+ | notes = Rewards 20 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N6
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 20 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N7
+ | descen = Conduct 2 Exercises.
+ | reward = {{Display|Coinicon|C|1000 x Gold|40|Gold}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N7
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|SkinTicket|G|1 x Skin Rental Ticket|40|Skin Rental Ticket}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N8
+ | descen = Build 1 ship.
+ | reward = {{Display|AllSUnit|G|3 x General Blueprint - Series 1|40|General Blueprint - Series 1}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N8
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N9
+ | descen = Resupply the Dorm with Snacks 5 times.
+ | reward = {{Display|Food6|P|4 x Full Course|40|Full Course}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N9
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N10
+ | descen = Complete 3 commissions.
+ | reward = {{Display|Drillicon|P|5 x Quick Finisher|40|Quick Finisher}} 
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N10
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|AllSUnit|G|5 x General Blueprint - Series 1|40|General Blueprint - Series 1}}
+ | notes = Rewards 15 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N11
+ | descen = Complete 3 Daily Challenges.
+ | reward = {{Display|T4Box|G|3 x T4 Equipment Box|40|T4 Equipment Box}} 
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N11
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N12
+ | descen = Enhance ships 5 times.
+ | reward = {{Display|UnknownT3Book|G|10 x T3 Mystery Skill Book|40|T3 Mystery Skill Book}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N12
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N13
+ | descen = Conduct 2 Exercises.
+ | reward = {{Display|AllSUnit|G|2 x General Blueprint - Series 1|40|General Blueprint - Series 1}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = rgb(33,97,214)
+ | listnum = RR-N13
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|Oilicon|C|200 x Oil|40|Oil}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N14
+ | descen = Build 1 ship.
+ | reward = {{Display|Cube|G|3 x Cube|40|Cube}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+{{Mission
+ | color = darkblue
+ | listnum = RR-N14
+ | descen = Clear 3 Hard Mode stages.
+ | reward = {{Display|SkinTicket|G|1 x Skin Rental Ticket|40|Skin Rental Ticket}}
+ | notes = Rewards 10 [[File:Union pt.png|25px]]
+}}
+|}
+
+[[Category:Events]]

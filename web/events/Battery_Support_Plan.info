@@ -1,0 +1,574 @@
+{{ContentBox
+|text = #ffffff
+|border = #000
+|header = #4cadff
+|body = #97cffe
+|logo = 22Chibi.png{{!}}70px
+|title = "Bilibili 9th Anniversary: Battery Support Plan" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px;">
+* JP Server: Not yet
+* CN Server: June 21st 2018 - June 28th 2018
+</div>
+}}
+
+<center>
+{| class="wikitable" style="text-align:left;font-size:15px"
+|-
+| [[File:Bilibili_event_banner1.png|500px]]
+| [[File:Bilibili_event_banner2.png|500px]]
+|}</center>
+
+*During event period, you can get event currency '''"Bili Battery"''' [[File:Bilibattery.png|25px]] by completing daily/side event missions and by sortieing any map from [[Chapter_3|World 3]] and after ('''includes SOS maps, does not include hard mode'''). Through time limited missions, you can also get:
+
+{| class="wikitable" style="text-align: center;"
+![[22]]
+|-
+| style="background-color:Plum" |[[File:22ShipyardIcon.png|link=22]]
+|-
+| '''Time-limited reward'''
+|}
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = E25-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 完成3次每日副本挑战
+|descen = Clear [[Daily Raid]] 3 times.
+|fuel=
+|coin= 
+|cube=
+|other= {{Display|Bilibattery|P|'''100x Bili-batteries'''}}
+|notes= 
+}}
+{{Task
+|type = Event
+|listnum = E25-02
+|reqQuest = E25-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 通关地图3次
+|descen = Defeat 3 bosses.
+|fuel= 
+|coin= 
+|cube=
+|other= {{Display|Bilibattery|P|'''150x Bili-batteries'''}}
+|notes= 
+}}
+{{Task
+|type = Event
+|listnum = E25-03
+|reqQuest = E25-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 累计击败敌方舰队100艘
+|descen = Defeat 100 of any enemy ship.
+|fuel=
+|coin= 
+|cube=
+|other= {{Display|Bilibattery|P|'''200x Bili-batteries'''}}
+|notes= 
+}}
+{{Task
+|type = Event
+|listnum = E25-04
+|reqQuest = E25-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 登录游戏就可以获取啦~
+|descen = Login and receive [[22]] as mission reward.
+|fuel=
+|coin= 
+|cube=
+|other= {{Display|22Icon|P|[[22]]}}
+|notes= 
+}}
+|}
+
+==Bilibili Exchange Shop==
+
+{| class="wikitable" style="text-align:left;font-size:15px"
+|-
+| [[File:Bilibili_exchange_shop.png|500px]]
+|}
+
+*'''"Bili Batteries"''' [[File:Bilibattery.png|25px]] can be used in '''Shop→Supply→Event Exchange''' to exchange for:
+
+{| class="wikitable" style="text-align: center;"
+![[33]]
+![[Yuubari]]
+![[Javelin]]
+![[Laffey]]
+![[Z23]]
+|-
+|
+|
+|'''Bili Girl 22'''
+|'''Bili Girl 33'''
+|'''Teacher of Philosophy'''
+|-
+| style="background-color:Plum" |[[File:33ShipyardIcon.png|link=33]]
+| style="background-color:Plum" |[[File:YuubariShipyardIcon.png|link=Yuubari]]
+| style="background-color:Plum" |[[File:JavelinBilibiliShipyardIcon.png|link=Javelin]]
+| style="background-color:Plum" |[[File:LaffeyBilibiliShipyardIcon.png|link=Laffey]]
+| style="background-color:Plum" |[[File:Z23BilibiliShipyardIcon.png|link=Z23]]
+|-
+| '''300''' [[File:Bilibattery.png|25px]]
+| '''300''' [[File:Bilibattery.png|25px]]
+| '''300''' [[File:Bilibattery.png|25px]]
+| '''300''' [[File:Bilibattery.png|25px]]
+| '''300''' [[File:Bilibattery.png|25px]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+!Exchange
+![[File:Bilibattery.png|25px]]
+!Exchange
+![[File:Bilibattery.png|25px]]
+!Exchange
+![[File:Bilibattery.png|25px]]
+!Exchange
+![[File:Bilibattery.png|25px]]
+!Exchange
+![[File:Bilibattery.png|25px]]
+|-
+|-
+|{{Display|Moduleicon|G|[[Dockyard#Cognition_Awaken|x 500 Mental<br>Modules]]|50|Mental Modules}}
+|1500
+|{{Display|AllSUnit|G|x 5 Universal<br>Strengthening Units|50|Universal Strengthening Units}}
+|2500
+|{{Display|Distress Signal Reception Device|G|[[Anti-Submarine_Warfare|x 6 Distress Signal<br>Reception Device]]|50|Distress Signal Reception Device}}
+|300
+|{{Display|Noodle_cup_shower|R|Noodle Cup<br>Bathtub}}
+|150
+|{{Display|22 plushie|G|22 Plushie}}
+|100
+|-
+|{{Display|33 plushie|G|33 Plushie}}
+|100
+|{{Display|Bilibili_background|R|Bilibili<br>Background}}
+|100
+|{{Display|Bilibili_tiles|R|Bilibili Tiles}}
+|100
+|{{Display|Bilibili_carpet|B|Bilibili Carpet}}
+|50
+|{{Display|Bilibili_bed|P|Bilibili Bed}}
+|50
+|-
+|{{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]|50|Trial Bullin MKII}}
+|300
+|{{Display|Universal_BullinIcon|P|[[Universal Bullin|x 3 Universal Bullin]]|50|Universal Bullin}}
+|240
+|{{Display|T4Box|G|[[Equipment#Equipment_Boxes|x 2 T4 KMS<br>Equipment Box]]|50|T4 KMS Equipment Box}}
+|160
+|{{Display|T4Box|G|[[Equipment#Equipment_Boxes|x 2 T4 HMS<br>Equipment Box]]|50|T4 HMS Equipment Box}}
+|160
+|{{Display|T4Box|G|[[Equipment#Equipment_Boxes|x 2 T4 IJN<br>Equipment Box]]|50|T4 IJN Equipment Box}}
+|160
+|-
+|{{Display|T4Box|G|[[Equipment#Equipment_Boxes|x 2 T4 USN<br>Equipment Box]]|50|T4 USS Equipment Box}}
+|160
+|{{Display|T3Box|P|[[Equipment#Equipment_Boxes|x 2 T3 KMS<br>Equipment Box]]|50|T3 KMS Equipment Box}}
+|200
+|{{Display|T3Box|P|[[Equipment#Equipment_Boxes|x 2 T3 KMS<br>Equipment Box]]|50|T3 KMS Equipment Box}}
+|200
+|{{Display|T3Box|P|[[Equipment#Equipment_Boxes|x 2 T3 HMS<br>Equipment Box]]|50|T3 HMS Equipment Box}}
+|200
+|{{Display|T3Box|P|[[Equipment#Equipment_Boxes|x 2 T3 USN<br>Equipment Box]]|50|T3 USS Equipment Box}}
+|200
+|-
+|{{Display|Oilicon|N|x 2000|50|Oil}}
+|500
+|{{Display|UnknownT3Plate|P|[[Equipment#Upgrading|x 30 T3 Auxiliary<br>Plates]]|50|T3 Auxiliary Plates}}
+|600
+|{{Display|UnknownT3Plate|P|[[Equipment#Upgrading|x 30 T3 Firepower<br>Plates]]|50|T3 Firepower Plates}}
+|600
+|{{Display|UnknownT3Plate|P|[[Equipment#Upgrading|x 30 T3 Aviation<br>Plates]]|50|T3 Aviation Plates}}
+|600
+|{{Display|UnknownT2Plate|B|[[Equipment#Upgrading|x 40 T2 Auxiliary<br>Plates]]|50|T2 Auxiliary Plates}}
+|400
+|-
+|{{Display|UnknownT2Plate|B|[[Equipment#Upgrading|x 40 T2 Firepower<br>Plates]]|50|T2 Firepower Plates}}
+|400
+|{{Display|UnknownT2Plate|B|[[Equipment#Upgrading|x 40 T2 Aviation<br>Plates]]|50|T2 Aviation Plates}}
+|400
+|{{Display|Coinicon|G|x 80000 Gold|50|Gold}}
+|800
+|
+|
+|
+|
+|-
+|}
+
+==Bilibili Furniture Missions==
+
+*Besides to exchange your '''"Bili Batteries"''' [[File:Bilibattery.png|25px]] to obtain exclusive '''"Bilibili" furniture''', you can also get by completing certain quests, you may obtain, for '''only one time''', a couple of exclusive '''"Bilibili" furniture''':
+
+{{8thAnniversaryEventTaskHeader}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得25次胜利
+|descen = Sortie and obtain 25 victories
+|battery = 60
+|other = 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-02
+|reqQuest = E1-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得50次胜利
+|descen = Sortie and obtain 50 victories
+|battery = 100
+|other = {{Display|Bilibili shelf|N|Bilibili<br>Shelf}} 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-03
+|reqQuest = E1-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得80次胜利
+|descen = Sortie and obtain 80 victories
+|battery = 150
+|other = {{Display|Bilibili bookshelf|B|Bilibili<br>Bookshelf}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-04
+|reqQuest = E1-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得120次胜利
+|descen = Sortie and obtain 120 victories
+|battery = 200
+|other = {{Display|Bilibili drum-set|P|Bilibili<br>Drum-set}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-05
+|reqQuest = E1-04
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得200次胜利
+|descen = Sortie and obtain 200 victories
+|battery = 300
+|other = 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-06
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰5次
+|descen = Sortie and eliminate 5 enemy flagships
+|battery = 60
+|other = 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-07
+|reqQuest = E1-06
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰10次
+|descen = Sortie and eliminate 10 enemy flagships
+|battery = 100
+|other = {{Display|Bilibili_studio_computer|N|Bilibili<br> Studio Computer}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-08
+|reqQuest = E1-07
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰20次
+|descen = Sortie and eliminate 20 enemy flagships
+|battery = 150
+|other = {{Display|Long_small_TV_plushie|B|Long Small TV<br>Plushie}}
+|note= 
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-09
+|reqQuest = E1-08
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰30次
+|descen = Sortie and eliminate 30 enemy flagships
+|battery = 200
+|other = {{Display|Bilibili_keyboard|P|Bilibili<br>Keyboard}}
+|note= 
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-10
+|reqQuest = E1-09
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰50次
+|descen = Sortie and eliminate 50 enemy flagships
+|battery = 300
+|note= 
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-11
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船3次
+|descen = Build 3 ships
+|battery = 60
+|other = 
+|note= 
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-12
+|reqQuest = E1-11
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船5次
+|descen = Build 5 ships
+|battery = 100
+|other = {{Display|Bilibili_radio|P|Bilibili Radio}} 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-13
+|reqQuest = E1-12
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船20次
+|descen = Build 20 ships
+|battery = 300
+|other = {{Display|Bilibili_lighting_setup|P|Bilibili<br>Lighting Setup}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-14
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船强化8次
+|descen = Use 8 ships as material for Strengthening
+|battery = 60
+|other = 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-15
+|reqQuest = E1-14
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船强化15次
+|descen = Use 15 ships as material for Strengthening
+|battery = 100
+|other = {{Display|Bilibili_capsule|N|Bilibili Capsule}} 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-16
+|reqQuest = E1-15
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船强化30次
+|descen = Use 30 ships as material for Strengthening
+|battery = 150
+|other = {{Display|Small_TV_chair|B|Small TV Chair}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-17
+|reqQuest = E1-16
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船强化50次
+|descen = Use 50 ships as material for Strengthening
+|battery = 200
+|other = {{Display|Bilibili_microphone|P|Bilibili<br>Microphone}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-18
+|reqQuest = E1-17
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船强化80次
+|descen = Use 80 ships as material for Strengthening
+|battery = 300
+|note=
+|once=true
+}}
+
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-19
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船退役3次
+|descen = Retire 3 ships
+|battery = 60
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-20
+|reqQuest = E1-19
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船退役5次
+|descen = Retire 5 ships
+|battery = 100
+|other = {{Display|Bilibili_comic_book_stacks|N|Comic Book Stacks}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-21
+|reqQuest = E1-20
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船退役10次
+|descen = Retire 10 ships
+|battery = 150
+|other = {{Display|Bilibili_night_window|B|Night Window}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-22
+|reqQuest = E1-21
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船退役15次
+|descen = Retire 15 ships
+|battery = 200
+|other = {{Display|Bilibili_workplace_desk|P|Bilibili<br>Workplace Desk}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-23
+|reqQuest = E1-22
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰船退役20次
+|descen = Retire 20 ships
+|battery = 300
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-24
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 执行军事委托5次
+|descen = Complete 5 Commissions
+|battery = 60
+|other = 
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-25
+|reqQuest = E1-24
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 执行军事委托10次
+|descen = Complete 10 Commissions
+|battery = 100
+|other = {{Display|Bilibili_laptop_table|N|Laptop Table}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-26
+|reqQuest = E1-25
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 执行军事委托20次
+|descen = Complete 20 Commissions
+|battery = 150
+|other = {{Display|Bilibili_sliding_door|B|Sliding Door}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-27
+|reqQuest = E1-26
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 执行军事委托30次
+|descen = Complete 30 Commissions
+|battery = 200
+|other = {{Display|Bilibili_long_poster|P|Bilibili<br>Hanging Painting}}
+|note=
+|once=true
+}}
+{{8thAnniversaryTask
+|type = Event
+|listnum = E1-28
+|reqQuest = E1-27
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 执行军事委托50次
+|descen = Complete 50 Commissions
+|battery = 300
+|note=
+|once=true
+}}
+|}
+
+[[Category:Events]]

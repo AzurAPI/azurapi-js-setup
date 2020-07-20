@@ -1,0 +1,683 @@
+{{ContentBox
+|text = white
+|border = #556CA5
+|header = #556CA5
+|body = #CA233F
+|logo =KuonChibi.png{{!}}70px
+|title = "Utawarerumono Collab" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:#ffffff;">
+* '''CN/JP/KR Server: November 22nd - December 13th 2018'''
+** First phase start: November 22nd
+** Second phase start: November 29th
+</div>
+}}
+
+__TOC__
+==Event Ships==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Kuon|CA||'''{{Tooltip|Construction|02:05:00}},<br>{{Tooltip|Event Shop|8000 [[File:UtwPt.png|25px]]}}'''}}
+{{ShipDisplay|5|Nekone|DD||'''{{Tooltip|Construction|00:23:00}}'''}}
+{{ShipDisplay|5|Rurutie|CL||'''{{Tooltip|Construction|01:48:00}}'''}}
+{{ShipDisplay|4|Uruuru|CVL||'''{{Tooltip|Construction|02:25:00}}'''}}
+{{ShipDisplay|4|Saraana|CVL||'''{{Tooltip|Reward|Complete all 7 days}}'''}}
+{{ShipDisplay|4|Fumiruiru|CV||'''{{Tooltip|Reward|1500 Friendship Points}}'''}}
+</div>
+
+==Limited Craft==
+
+{| class="wikitable"
+|-
+| [[File:Utawarerumono Collab_Craft_Banner_JP.png|500px]]
+|}
+
+*During event time 4 new ships will be available for construction in the limited construction tab:
+
+===CN/JP Server===
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Kuon|CA||''02:05:00''|'''0.5%'''}}
+{{ShipDisplay|5|Nekone|DD||''00:23:00''|'''2%'''}}
+{{ShipDisplay|5|Rurutie|CL||''01:48:00''|'''2%'''}}
+{{ShipDisplay|4|Uruuru|CVL||''02:25:00''|'''2.5%'''}}
+</div>
+
+*'''IMPORTANT!''' <span style="color:red">'''All event characters have a separate section in the collection page titled "Collab" and don't count toward completion percentage!'''</span>
+
+==Limited Skins==
+
+*New time-limited skins will be available in a cash shop for the duration of the event:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Kuon|CA|Collab|'''Kuon<br>(Utawarerumono)'''|''{{Ruby}} 880''|1|BG|206}}
+{{ShipDisplay|5|Nekone|DD|Collab|'''Nekone<br>(Utawarerumono)'''|''{{Ruby}} 880''|1|BG|208}}
+{{ShipDisplay|5|Rurutie|CL|Collab|'''Rurutie<br>(Utawarerumono)'''|''{{Ruby}} 880''|1|BG|207}}
+{{ShipDisplay|4|Uruuru|CVL|Collab|'''Uruuru<br>(Utawarerumono)'''|''{{Ruby}} 780''|1|BG|209}}
+{{ShipDisplay|4|Saraana|CVL|Collab|'''Saraana<br>(Utawarerumono)'''|''{{Ruby}} 780''|1|BG|209}}
+{{ShipDisplay|4|Fumiruiru|CV|Collab|'''Fumiruiru<br>(Utawarerumono)'''|''{{Ruby}} 780''|1|BG|205}}
+</div>
+
+*'''"Equipment Skin Box"'''  will appear in [[Academy|Supplies Shop]] for a limited period of time at a cost of 7000 {{Coin}} each.
+**New boxes will appear after shop refresh during the event period.
+*Event map bosses will have a chance to drop random equipment skin. There are total of 15 skins available to be obtained which can be viewed [[Equipment_Skins#Visitors_from_Another_Dimension|here]].
+
+==Limited Furniture==
+
+*New furniture set: '''"Utawarerumono"''' (Available for sale for the duration of the event)
+
+{| class="wikitable"
+|-
+| [[File:Utawarerumono_Furniture_Preview.png|500px|Utawarerumono Furniture Set]]
+|}
+
+*All furniture in this set can be bought using either ''Furniture Coins'' {{Furniture_Coin}} or ''Rubies'' {{Ruby}}.
+**Buying furnitures using {{Ruby}} will cost you 3x more than it cost when buying with {{Furniture_Coin}}.
+**A whole set will cost you 1330 {{Furniture_Coin}} for every unique items in the set.
+***''It will cost another 310 {{Furniture_Coin}} to procure the rest of the items (Several items can be bought more than once).''
+*There are also four furniture that can be bought using {{Ruby}} only (Premium Furnitures).<br/>These furnitures can be seen by accessing the fourth tab of the furniture shop.
+:[[File:Utawarerumono_Furniture_Premium.png|300px|Premium Furnitures]]
+
+==Exchange Shop==
+
+{| class="wikitable" style="text-align: center;"
+|-
+| [[File:Utawarerumono Collab- JP Exchange Shop.PNG|500px]]
+|}
+
+{{EventShop
+| ShopName= Utawarerumono Collab
+| TotalPt= 39250
+| PtImage=UtwPt
+
+| ColorScheme= #556CA5
+| Image= Kuon
+| Size= 640
+| Top= -102
+| Left= -200
+
+| Items=
+{{EventShopItem|5|Kuon|Kuon|KuonIcon|1|8000|UtwPt|1}}
+{{EventShopItem|4|Outdoor Tea Ceremony||Outdoor Tea Ceremony|1|1200|UtwPt|1}}
+{{EventShopItem|4|Stronghold Sofa||Stronghold Sofa|1|600|UtwPt|1}}
+{{EventShopItem|4|White Castle Corridor||White Castle Corridor|1|600|UtwPt|1}}
+{{EventShopItem|5|Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|UtwPt|1}}
+{{EventShopItem|5|Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|UtwPt|1}}
+{{EventShopItem|5|Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|UtwPt|1}}
+{{EventShopItem|5|IronBlood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|UtwPt|1}}
+{{EventShopItem|5|Universal PR Blueprint||AllSUnit|20|500|UtwPt|1}}
+{{EventShopItem|5|Mental Unit|Dockyard#Cognition_Awaken|Moduleicon|10|300|UtwPt|100}}
+{{EventShopItem|4|T3 Auxiliary Equipment Plate||AuxT3Plate|40|30|UtwPt|1}}
+{{EventShopItem|4|T3 Gun Equipment Plate||GunT3Plate|40|30|UtwPt|1}}
+{{EventShopItem|4|T3 AA Equipment Plate||AAT3Plate|40|30|UtwPt|1}}
+{{EventShopItem|4|T3 Plane Equipment Plate||PlaneT3Plate|40|30|UtwPt|1}}
+{{EventShopItem|4|T3 Torpedo Equipment Plate||TorpT3Plate|40|30|UtwPt|1}}
+{{EventShopItem|1|Coins||Coinicon|5|500|UtwPt|2000}}
+{{EventShopItem|1|Oil||Oilicon|5|450|UtwPt|1000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|UtwPt|1}}
+
+}}
+
+==Event Maps==
+
+===Normal Maps===
+
+<tabber>
+SP1={{Map
+ | Title = 傾国の相
+ | Introduction = オホーツク海域にて異常発生。 未知の信号も確認された。 先行して調査に向かった明石と合流し、原因を究明せよ
+ | Requirements = None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}
+ | 3StarReward = Furniture '''"Wooden Tube"'''
+
+ | MobLevel = 22 - 26
+ | MobExp1 = 132
+ | MobExp2 = 158
+ | MobExp3 = 187
+ | MobExpSiren = 
+ | Boss = [[Fumiruiru]]
+ | BossLevel = 30
+ | BossExp = 260
+
+ | BossBattleReq = 5
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = [[File:Appearancebox5.png|30px]] Skin Boxes, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:UtwPt.png|28px]] x20 Kokopo Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fairey Fulmar|Fairey Fulmar|29100}}
+{{EquipmentBox|3|T3 Brewster F2A Buffalo|Brewster F2A Buffalo|17000}}
+{{EquipmentBox|3|T3 Douglas TBD Devastator|Douglas TBD Devastator|18000}}
+{{EquipmentBox|3|T3 Douglas SBD Dauntless|Douglas SBD Dauntless|19000}}
+{{EquipmentBox|3|T3 Blackburn Skua|Blackburn Skua|29000}}
+ | ShipDrops =
+{{ShipDropIcon|Indianapolis|E}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Portland|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = UTW SP1
+ | NodeMap = 
+
+}}
+ |-|
+SP2={{Map
+ | Title = 義姉妹の杯
+ | Introduction = 異常現象が続く海域にて、異邦より訪れた漂流者たちと遭遇。新たな艤装を得た彼女たちと共に未知の敵を迎撃せよ
+ | Requirements = Clear SP1
+ | ClearReward = 1 {{cube}}, 600 {{coin}}
+ | 3StarReward = Furniture '''A Villager Water Well'''
+
+ | MobLevel = 32 - 36
+ | MobExp1 = 192
+ | MobExp2 = 224
+ | MobExp3 = 259
+ | MobExpSiren = 
+ | Boss = [[Kuon]] and [[Nekone]]
+ | BossLevel = 40
+ | BossExp = 348
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = [[File:Appearancebox5.png|30px]] Skin Boxes, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:UtwPt.png|28px]] x40 Kokopo Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|3|T3 Triple 203mm (8"/55 Mk 9)|Triple 203mm (8"/55 Mk 9)|13000}}
+{{EquipmentBox|3|T3 Single 120mm (QF Mark IX)|Single 120mm (QF Mark IX)|21300}}
+ | ShipDrops =
+{{ShipDropIcon|Helena|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Long Island|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = UTW SP2
+ | NodeMap = 
+ | Notes = [[File:Secret node.png|30px]] Nodes: E1<br>
+[[File:Ammo node.png|30px]] Nodes: None 
+
+}}
+ |-|
+SP3={{Map
+ | Title = 鎖の巫の舞
+ | Introduction = オホーツク海域の異常はセイレーンの仕業と判明。敵に包囲されたクオンの仲間を救出し、セイレーンの企みを阻止せよ
+ | Requirements = Clear SP2
+ | ClearReward = 1 {{cube}}, 600 {{coin}}
+ | 3StarReward = Furniture '''Folding Screen'''
+
+ | MobLevel = 44 - 52
+ | MobExp1 = 264
+ | MobExp2 = 316
+ | MobExp3 = 374
+ | MobExpSiren = 
+ | Boss = [[Uruuru]] and [[Saraana]]
+ | BossLevel = 60
+ | BossExp = 522
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = [[File:Appearancebox5.png|30px]] Skin Boxes, {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:UtwPt.png|28px]] x80 Kokopo Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Grumman F4F Wildcat|Grumman F4F Wildcat|17100}}
+{{EquipmentBox|4|T3 Grumman TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T3 Supermarine Seafire|Supermarine Seafire|27000}}
+{{EquipmentBox|4|T3 Fairey Swordfish|Fairey Swordfish|28000}}
+ | ShipDrops =
+{{ShipDropIcon|Charles Ausburne|E}}
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Sims|R}}
+{{ShipDropIcon|Hammann|R}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Unicorn|E}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = UTW SP3
+ | NodeMap = 
+ | Notes = [[File:Secret node.png|30px]] Nodes: G1<br>
+[[File:Ammo node.png|30px]] Nodes: None
+<hr>
+*The boss spawns once either Rurutie (Clear E4, F4, F5) or Nekone (Clear A1, A2, C3) are rescued.
+}}
+ |-|
+SP4={{Map
+ | Title = 鏡映しの夢幻
+ | Introduction = 海域最深部に異常の原因と思しき空間を発見。そこを守るセイレーンの艦隊を撃破し、この異常事態に終止符を打て!
+ | Requirements = Clear SP3
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}
+ | 3StarReward = Furniture '''Rinsing Shower'''
+
+ | MobLevel = 64 - 72
+ | MobExp1 = 384
+ | MobExp2 = 448
+ | MobExp3 = 518
+ | MobExpSiren = 615
+ | Boss = [[Purifier]] and [[Kuon]]
+ | BossLevel = 80
+ | BossExp = 696
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = [[File:Appearancebox5.png|30px]] Skin Boxes, {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:UtwPt.png|28px]] x120 Kokopo Coins
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T3 Twin 40mm AA L60 Bofors|Twin 40mm AA L60 Bofors|16300}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+ | ShipDrops =
+{{ShipDropIcon|Cleveland|E}}
+{{ShipDropIcon|Arizona|E}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Pennsylvania|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = UTW SP4
+ | NodeMap = 
+ | Notes = [[File:Secret node.png|30px]] Nodes: F5<br>
+[[File:Ammo node.png|30px]] Nodes: B2
+<hr>
+*The boss spawns when any player's fleet reaches E6.<br>
+*To open path E2 to the boss node, you need to clear the following nodes in any order: C5, D4, E3, F4, G5<br>
+*D4 and F4 are Siren spawns and are also immobile.<br>
+*Secondary boss character who will fight along side the main boss depends on player's decision in E6 (Example for this map: [[Kuon]]).
+}}
+</tabber>
+
+===EX Map===
+{{Map
+ | Title = EXTRA Utawarerumono
+ | Introduction = 夢幻の領域、うたわれし伝承、天地すら飲み込む大いなる力。全ての力を結集し、最後の勝負に挑もう!
+ | Requirements = Clear SP4
+ | ClearReward = None
+ | 3StarReward = None
+
+ | Boss = [[Kuon]] and [[Fumiruiru]]
+ | BossLevel = 120
+ | BossExp = 0
+
+ | BossBattleReq = 0
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Use ≤4 Ships in Fleet
+ | Star3 = Sink all fleets on map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = None
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = UTW EXTRA
+ | NodeMap = 
+ | Notes = 
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{BB}}/{{BC}} BB/BC
+ | Fleet2 = Not available
+}}
+
+==Event Tasks==
+
+*Maps clear and 3★ Rewards:
+
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+|'''SP1'''
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}}
+| style="background-color:Plum"|{{Display|Wooden Tub|P|''"Wooden Tub"''}}
+|-
+|'''SP2'''
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}}
+| style="background-color:Plum"|{{Display|A Village Water Well|P|''"A Village Water Well"''}}
+|-
+|'''SP3'''
+| {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}}
+| style="background-color:Plum"|{{Display|Folding Screen|P|''"Folding Screen"''}}
+|-
+|'''SP4'''
+| {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}}
+| style="background-color:Plum"|{{Display|Rinsing Shower|P|''"Rinsing Shower"''}}
+|}
+
+*Special Event Tasks:
+
+{| class="wikitable" style="text-align: center;"
+| ''Obtained 38 Event Stories''
+| style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}"|{{Display|UtawarerumonoMedal|ffdddd, #ddffdd 50%, #ddddff|''"Utawarerumono Emblem"''}}
+|}
+
+=="Fantastical Chance Encounter"==
+{| class="wikitable"
+|-
+| [[File:Fantastical Chance Encounter_Preview.png|500px]]
+|}
+
+*You can obtain '''"Kokopo Coins"''' by clearing event stages and daily event missions.
+*You can use '''"Kokopo Coins"''' in the event shop to exchange for {{Super Rare}} '''[[Kuon]]''' {{CA}} and other rewards.
+*Additionally, you will receive story completion rewards by collecting story scenarios in your Handbook from the event stages. (You can check the unlocking conditions for "special stories" by tapping the Help button on the event page in-game.).
+
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Normal Maps
+!colspan=1|Friendship Points
+|-
+|'''SP1'''
+|{{Display|Fumiruiru_Points|B|x8 Friendship Points}}
+|-
+|'''SP2'''
+|{{Display|Fumiruiru_Points|B|x10 Friendship Points}}
+|-
+|'''SP3'''
+|{{Display|Fumiruiru_Points|B|x12 Friendship Points}}
+|-
+|'''SP4'''
+|{{Display|Fumiruiru_Points|B|x14 Friendship Points}}
+|}
+
+*'''IMPORTANT!''' <span style="color:red">'''If [[Fumiruiru]] participates in and survives the boss battle, the amount of friendship points is doubled.'''</span>
+
+=="A Chance Encounter with Those from Beyond"==
+
+{| class="wikitable"
+|-
+| [[File:Fumiruiru_FriendShip_Banner_Preview.png|500px]]
+|}
+
+*After maintenance, {{Elite}} '''[[Fumiruiru]]''' {{CV}} will provisionally join your fleet after you log into the game.
+*You can collect '''"Friendship Points"''' by clearing normal mode story maps during the event.
+*By accumulating '''"Friendship Points"''', you can clear limited event missions and obtain rewards such as gold and items.
+*'''[[Fumiruiru]]''' will permanently join your fleet after you clear the last mission.
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Normal Maps
+!colspan=1|Friendship Points
+|-
+|'''Chapter 3'''
+|{{Display|Fumiruiru_Points|B|x7 Friendship Points}}
+|-
+|'''Chapter 4'''
+|{{Display|Fumiruiru_Points|B|x8 Friendship Points}}
+|-
+|'''Chapter 5'''
+|{{Display|Fumiruiru_Points|B|x9 Friendship Points}}
+|-
+|'''Chapter 6'''
+|{{Display|Fumiruiru_Points|B|x10 Friendship Points}}
+|-
+|'''Chapter 7'''
+|{{Display|Fumiruiru_Points|B|x11 Friendship Points}}
+|-
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Normal Maps
+!colspan=1|Friendship Points
+|-
+|'''Chapter 8'''
+|{{Display|Fumiruiru_Points|B|x12 Friendship Points}}
+|-
+|'''Chapter 9'''
+|{{Display|Fumiruiru_Points|B|x13 Friendship Points}}
+|-
+|'''Chapter 10'''
+|{{Display|Fumiruiru_Points|B|x14 Friendship Points}}
+|-
+|'''Chapter 11'''
+|{{Display|Fumiruiru_Points|B|x15 Friendship Points}}
+|-
+|'''Chapter 12'''
+|{{Display|Fumiruiru_Points|B|x16 Friendship Points}}
+|}
+|}
+
+*'''IMPORTANT!''' <span style="color:red">'''If [[Fumiruiru]] participates in and survives the boss battle, the amount of friendship points is doubled.'''</span>
+*Event missions will unlock one-by-one daily from November 22nd to November 28th.
+
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Phases
+!colspan=1|Amount of<br> "Friendship Points"
+!colspan=1|Rewards
+|-
+|'''Day 1'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|x200 Friendship Points}}
+|{{Display|Coinicon|N|x500}}
+|-
+|'''Day 2'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|400 Friendship Points}}
+|{{Display|Coinicon|N|x500}}
+|-
+|'''Day 3'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|x600 Friendship Points}}
+|{{Display|Coinicon|N|x1000}}
+|-
+|'''Day 4'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|x800 Friendship Points}}
+|{{Display|DefenseT3TB|G|x2 T3 Defense Skillbook|50|Skills#Training_Skills{{!}}T3 Defense Support}}
+|-
+|'''Day 5'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|x1000 Friendship Points}}
+|{{Display|SupportT3TB|G|x2 T3 Support Skillbook|50|Skills#Training_Skills{{!}}T3 Utility Support}}
+|-
+|'''Day 6'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|x1250 Friendship Points}}
+|{{Display|OffenseT3TB|G|x2 T3 Offense Skillbook|50|Skills#Training_Skills{{!}}T3 Offense Skillbook}}
+|-
+|'''Day 7'''
+| style="background-color:PowderBlue" | {{Display|Fumiruiru_Points|B|x1500 Friendship Points}}
+|{{Display|FumiruiruIcon|P|''[[Fumiruiru]]''}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |Provisional Ship (NPC)
+|-
+!will be able to do the following:
+!will NOT be able to do the following:
+|-
+| style="background-color:PaleGreen" |'''★''' Sortie to normal mode maps<br>'''★''' Gain experience<br>'''★''' Increase affection<br>'''★''' Be reinforced<br>'''★''' Be limit broken<br>'''★''' Train skills
+| style="background-color:LightCoral" |'''★''' Be set as secretary<br>'''★''' Join commissions<br>'''★''' Go into either floor of Backyard<br>'''★''' Study in Classroom<br>'''★''' Join PvP or serve in PvP defense fleet<br>'''★''' Break level cap<br>'''★''' Be used as reinforcement for another ship<br>'''★''' Be retired<br>'''★''' Marry
+|-
+|}
+
+*'''★ NOTICE!''' If '''[[Fumiruiru]]''' has not permanently joined your fleet after the event ends, she will leave your fleet.
+
+=="Fantastical Chance Encounter: Daily Life"==
+{| class="wikitable"
+|-
+| [[File:Fantastical Chance Encounter Daily Life_Preview.png|500px]]
+|}
+
+*'''Saraana's Questline:'''  tap [[Saraana]] in the [[Academy]] to receive the event task. Every day 2 new tasks will unlock. Complete all tasks and gather all items to receive {{Elite}} '''[[Saraana]]''' {{CVL}}.
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = UTW-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = S評価で10回勝利する<br>舰队出征，以S胜评价通关10次<br>装備を2回強化する<br>进行装备强化2次
+|descen = Sortie and obtain 10 wins with S ranks.<br>[[Equipment#Upgrading|Upgrade]] equipment 2 times.
+|fuel=
+|coin= 100 
+|cube=
+|other= {{Display|UnknownT2BP|P|x2 Random T2 blueprint}}
+|notes= Day 1
+}}
+{{Task
+|type = Event
+|listnum = UTW-02
+|reqQuest = UTW-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 委託を2回行う<br>进行2次委托<br>建造を2回行う<br>建造2次舰船
+|descen = Complete 2 [[expeditions]].<br>[[Building|Construct]] 2 ships.
+|fuel= 100
+|coin= 100
+|cube=
+|other= 
+|notes= Day 2
+}}
+{{Task
+|type = Event
+|listnum = UTW-03
+|reqQuest = UTW-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 任意の艦を2隻退役させる<br>退役2次舰船<br>デイリーチャレンジを3回クリアする<br>完成3次每日副本挑战
+|descen = [[Building#Retire|Scrap]] 2 ships<br>Clear [[Daily Raid]] 3 times
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|UnknownT2Plate|B|[[Equipment#Upgrading|x5 Random T2 Plates]]}}
+|notes= Day 3
+}}
+{{Task
+|type = Event
+|listnum = UTW-04
+|reqQuest = UTW-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = ハードモードステージを3回クリアする<br>困难模式通关3次<br>艦隊を5回「強化」せよ！<br>舰船强化5次 
+|descen = Clear any Hardmode map 3 times.<br>[[Dockyard|Reinforce]] a ship 5 times.
+|fuel=
+|coin= 100
+|cube=
+|other= {{Display|T3Box|P|[[Equipment#Equipment_Box_Contents|x2 Random T3 boxes]]}}
+|notes= Day 4
+}}
+{{Task
+|type = Event
+|listnum = UTW-05
+|reqQuest = UTW-04
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 任意の敵を30隻撃破する<br>累计击败敌方舰队30艘 <br>寮舎で食糧を5回補充する<br>补充后宅食物5次  
+|descen = Defeat 30 of any enemy ship.<br>Use [[Backyard]] Food 5 times.
+|fuel=
+|coin= 100
+|cube=
+|other=  {{Display|Food3|B|[[Living_Area#Refilling_supplies|x5 Torpedo Tempura]]}}
+|notes= Day 5
+}}
+{{Task
+|type = Event
+|listnum = UTW-06
+|reqQuest = UTW-05
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造を2回行う<br>建造2次舰船<br>S評価で15回勝利する<br>舰队出征，以S胜评价通关15次
+|descen = [[Building|Construct]] 2 ships.<br>Sortie and obtain 15 wins with S ranks.
+|fuel=
+|coin= 100
+|cube=
+|other=  {{Display|UnknownT3Book|G|[[Living_Area#Tactical_Classroom|x5 Random T3 Skill Books]]}}
+|notes= Day 6
+}}
+{{Task
+|type = Event
+|listnum = UTW-07
+|reqQuest = UTW-06
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 敵中枢艦隊を5回撃破する<br>通关地图5次<br>戦術教室でスキルを2回強化する<br>进行战术训练2次
+|descen = Defeat 5 bosses.<br>Train ships in [[Academy#Tactical_Classroom|tactical classroom]] 2 times.
+|fuel=
+|coin= 
+|cube=
+|other= {{Display|SaraanaIcon|P|''[[Saraana]]''}}
+|notes= Day 7
+}}
+|}
+
+[[Category:Events]]

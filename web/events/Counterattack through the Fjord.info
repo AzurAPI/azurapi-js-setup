@@ -1,0 +1,326 @@
+{{EventInfobox
+ | Title = Counterattack through the Fjord
+ | Banner = Counterattack through the Fjord Event Banner JP.jpg
+ | AssociatedEvent = [[Starry Sky over the Arctic Fjord]]
+ | Stories = [[File:Memory Counterattack through the Fjord.png|150px|link=]]<br>[[Memories/Counterattack through the Fjord|Counterattack through the Fjord]]
+ | Dates =
+{{EventInfoDate
+ | Title = CN/JP Servers
+ | Start = June 3rd 2020
+ | End = June 18th 2020
+}}
+}}
+
+==Event Ships==
+*The following '''event-limited ships''' can be aquired in this event:
+{{ShipDisplay|4|Eskimo|DD||'''Construction (1.4%)<br>00:29:00'''|'''[[#Milestone|Milestone Reward]]'''}}
+{{ShipDisplay|4|Z2|DD||'''[[#Event Maps|Map Drop (SP3)]]'''}}
+
+==Event Skins==
+*For the duration of the event, the following skins will be available in the '''skin shop''':
+{{ShipDisplay|4|Eskimo|DD|Summer|Troublemaker in Atigi|{{Gem}} 780|1|BG|106}}
+
+==Event Tasks==
+===Map Completion Tasks===
+*There is a series of tasks for clearing each map and for getting 3★ on each map, which can each be completed once.
+{| class="wikitable" style="text-align:center"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+! SP1
+| {{Display|Oilicon|Normal|200x Oil}} {{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+| {{Display|cube|Super Rare|1x Wisdom Cube}} {{Display|Coinicon|Normal|600x Coins}}
+|-
+! SP2
+| {{Display|Oilicon|Normal|200x Oil}} {{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+| {{Display|cube|Super Rare|1x Wisdom Cube}} {{Display|Coinicon|Normal|600x Coins}}
+|-
+! SP3
+| {{Display|Oilicon|Normal|200x Oil}} {{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+| {{Display|cube|Super Rare|2x Wisdom Cube}} {{Display|Coinicon|Normal|1500x Coins}}
+|-
+|}
+
+===Milestone===
+*After reaching a certain treshhold of Fjord Badges [[File:EskimoPt.png|Fjord Badges|x22px|link=]], the following rewards will be unlocked and can be claimed.
+*Fjord Badges [[File:EskimoPt.png|Fjord Badges|x22px|link=]] are rewarded for clearing the [[#Event Maps|event maps]].
+{| class="wikitable" style="text-align:center"
+![[File:EskimoPt.png|25px|link=]]
+!Reward
+![[File:EskimoPt.png|25px|link=]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|Elite|5x T2 Random Skill Book}}
+|300
+|{{Display|BattleshipT1BP|Rare|1x T1 Battleship Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|Normal|500x Coins}}
+|1000
+|{{Display|CarrierT1BP|Rare|1x T1 Carrier Retrofit Blueprint}}
+|-
+|1500
+|{{Display|Coinicon|Normal|500x Coins}}
+|2000
+|{{Display|BattleshipT1BP|Rare|1x T1 Battleship Retrofit Blueprint}}
+|-
+|3000
+|{{Display|Coinicon|Normal|1000x Coins}}
+|4000
+|{{Display|BattleshipT2BP|Elite|1x T2 Battleship Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|Super Rare|2x T3 Offensive Skill Book}}
+|6000
+|{{Display|CarrierT2BP|Elite|1x T2 Carrier Retrofit Blueprint}}
+|-
+|7000
+|{{Display|SupportT3TB|Super Rare|2x T3 Support Skill Book}}
+|8000
+|{{Display|BattleshipT3BP|Super Rare|1x T3 Battleship Retrofit Blueprint}}
+|-
+|9000
+|{{Display|DefenseT3TB|Super Rare|2x T3 Defensive Skill Book}}
+|10000
+|{{Display|EskimoIcon|Elite|1x [[Eskimo]]||Eskimo}}
+|-
+|}
+
+==Event Maps==
+===Fjord Badges Drops===
+*Fjord Badges [[File:EskimoPt.png|Fjord Badges|x22px|link=]] can be aquired by clearing the event maps SP1-SP3.
+*When [[Warspite]] or [[Foxhound]] (only one is needed) participate in the '''boss battle''' the amount of Fjord Badges [[File:EskimoPt.png|Fjord Badges|x22px|link=]] dropped will '''increase'''.
+*The amount dropped in each map, with and without bonus can be seen below:
+{| class="wikitable"
+! Map
+! without Bonus
+! with Bonus
+|-
+! SP1
+| 30 [[File:EskimoPt.png|Fjord Badges|x22px|link=]]
+| 35 [[File:EskimoPt.png|Fjord Badges|x22px|link=]]
+|-
+! SP2
+| 70 [[File:EskimoPt.png|Fjord Badges|x22px|link=]]
+| 85 [[File:EskimoPt.png|Fjord Badges|x22px|link=]]
+|-
+! SP3
+| 150 [[File:EskimoPt.png|Fjord Badges|x22px|link=]]
+| 200 [[File:EskimoPt.png|Fjord Badges|x22px|link=]]
+|}
+
+===Maps===
+<tabber>
+SP1={{Map
+ | ctID = 1370001
+ | Title = 撤离 
+ | Introduction = 准备撤退的铁血驱逐舰队，与厌战带领的前来反击的皇家舰队，峡湾之间，又一场战斗拉开帷幕—— 
+ | ClearReward = 200x Oil {{Oil}}, 1x T2 Destroyer Retrofit Blueprint {{Blueprint|T2|Destroyer}}
+ | 3StarReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}
+
+ | MobLevel = 31-33
+ | SirenLevel = 34
+ | MobExp1 = 155
+ | MobExp2 = 176
+ | MobExp3 = 198
+ | MobExpSiren = 229
+ | MobSpawnOrder = 2, 1, 1, 1
+ | EliteSpawnOrder = 1
+ | SirenSpawnOrder = 1
+ | Boss = Unknown Boss
+ | BossLevel = 35
+ | BossExp = 254
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 100
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:EskimoPt.png|Fjord Badges|x25px|link=]] 30/35 Fjord Badges
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Single 150mm (SK C/28)|Single 150mm (SK C/28)|42000}}
+{{EquipmentBox|4|T3 Twin 37mm AA Gun (SK C/30)|Twin 37mm AA Gun (SK C/30)|46200}}
+{{EquipmentBox|3|T3 Rammer|Rammer|1600}}
+{{EquipmentBox|3|T3 Single 127mm (SK C/34)|Single 127mm (SK C/34)|41000}}
+{{EquipmentBox|3|T3 37mm AA Gun (Flak M42)|37mm AA Gun (Flak M42)|46100}}
+ | ShipDrops = 
+{{IconHover|Shigure|4}}
+{{IconHover|Charles Ausburne|4}}
+{{IconHover|Z19|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Z20|2}}
+{{IconHover|Z21|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |x|x|x| |e| | | | |x| 
+    | |e| |x| |x|x|e| |x|e
+    |e| | |c| |e|x| |c|x| 
+    | | | | | |x|e| | | |s
+    |e| | |c| | | |u| | |s
+    | | |e|x| |p| |c| | | 
+    | | | |x|b| |b|x|x|x|x
+  }}
+}}
+|-|
+SP2={{Map
+ | ctID = 1370002
+ | Title = 阴云 
+ | Introduction = Z19逃离追击，暂时获得了安全。而皇家的舰队，依然在峡湾间搜索着。战斗、仍在继续。 
+ | Requirements = Clear SP1
+ | ClearReward = 200x Oil {{Oil}}, 1x T2 Destroyer Retrofit Blueprint {{Blueprint|T2|Destroyer}}
+ | 3StarReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}
+
+ | MobLevel = 51-53
+ | SirenLevel = 54
+ | MobExp1 = 255
+ | MobExp2 = 286
+ | MobExp3 = 318
+ | MobExpSiren = 364
+ | MobSpawnOrder = 2, 2, 1, 1
+ | EliteSpawnOrder = 1
+ | SirenSpawnOrder = 2
+ | Boss = Unknown Boss
+ | BossLevel = 55
+ | BossExp = 399
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 260
+ | ActualAirSupremacy = 200
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:EskimoPt.png|Fjord Badges|x25px|link=]] 70/85 Fjord Badges
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 150mm (TbtsK C/36)|Twin 150mm (TbtsK C/36)|42200}}
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+{{EquipmentBox|4|T3 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+{{EquipmentBox|4|T3 Basic Sonar|Basic Sonar|2900}}
+{{EquipmentBox|3|T2 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+ | ShipDrops = 
+{{IconHover|Queen Elizabeth|4}}
+{{IconHover|Glowworm|4}}
+{{IconHover|Z18|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Z20|2}}
+{{IconHover|Z21|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | | |x|x|s| |s|x|x|x|x
+    | |e|x|x| | | | | |e|e
+    |e| | |p| | | |e| | |b
+    |x| | | |c| |c|x|u| |b
+    | | |x|x|x|p| |x| | |e
+    | |e| |e|x| | | | |c|x
+    | | | | |c| |e| |e| |x
+  }}
+}}
+|-|
+SP3={{Map
+ | ctID = 1370003
+ | Title = 危机 
+ | Introduction = 爱斯基摩人似乎情况危急，尽快前去支援她吧！ 
+ | Requirements = Clear SP2
+ | ClearReward = 200x Oil {{Oil}}, 1x T3 Destroyer Retrofit Blueprint {{Blueprint|T3|Destroyer}}
+ | 3StarReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}
+
+ | MobLevel = 81-83
+ | SirenLevel = 84
+ | MobExp1 = 405
+ | MobExp2 = 451
+ | MobExp3 = 498
+ | MobExpSiren = 567
+ | MobSpawnOrder = 2, 2, 1, 1, 1
+ | EliteSpawnOrder = 1
+ | SirenSpawnOrder = 2, 1
+ | Boss = Unknown Boss
+ | BossLevel = 85
+ | BossExp = 616
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 520
+ | ActualAirSupremacy = 400
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:EskimoPt.png|Fjord Badges|x25px|link=]] 150/200 Fjord Badges
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 533mm Quadruple Homing Torpedo Mount|533mm Quadruple Homing Torpedo Mount|45100}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T3 Gyroscope|Gyroscope|2300}}
+{{EquipmentBox|4|T3 Twin 37mm AA Gun (SK C/30)|Twin 37mm AA Gun (SK C/30)|46200}}
+{{EquipmentBox|4|T2 533mm Quadruple Homing Torpedo Mount|533mm Quadruple Homing Torpedo Mount|45100}}
+ | ShipDrops = 
+{{IconHover|Z1|4}}
+{{IconHover|Z2|4}}
+{{IconHover|Juno|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Thatcher|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Omaha|2}}
+{{IconHover|Raleigh|2}}
+{{IconHover|Beagle|2}}
+{{IconHover|Bulldog|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Z20|2}}
+{{IconHover|Z21|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |x|x|x|p|x|e| |e|x|x|x
+    |s| | | | | |p| |e|c| 
+    |s| | | | |c| |u| | |e
+    |x|x|x|p| |x|x| |c|x| 
+    |b|b|x| |c|x|x| | |x|x
+    | | | | | | | | | |e| 
+    |e|e| |c| |e|x|e| |e| 
+  }}
+}}
+</tabber>
+
+[[Category:Events]]

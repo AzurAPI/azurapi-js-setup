@@ -1,0 +1,396 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #ac4ad3
+|body = #fbbfff
+|logo = Saratoga_Head.png
+|title = "A Foreign Idol?" Event
+|marginTop = 10px
+|content = 
+* '''CN/EN Server: March 28th - April 17th 2019'''
+* '''CN/EN rerun / JP first run: March 19th - April 8th 2020'''
+}}
+[[File:A Foreign Idol Event Task Banner EN.png|500px]]
+
+*During the Event, there will be daily missions and event missions which will yield you the exchangeable item '''Janggu''' {{Drum}}. You can also get {{Drum}} by clearing [[Visitors Dyed in Red Rerun]] maps (original run), [[The Solomon Ranger]] and [[Microlayer Medley]] maps (Re-run) and normal Main Story maps.
+
+==Limited Skins==
+*'''New time-limited skins''' will be available in a cash shop and exchange for the duration of the event:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|Super Rare|Illustrious|CV|Hanbok|Resplendent Hibiscus|{{Ruby}} 800|1|}}
+{{ShipDisplay|Elite|Saratoga|CV|Hanbok|Hibiscus-scented Idol|{{Drum}} 300|1}}
+</div>
+
+==Limited Furniture==
+''Original Run only excluding items from [[#Exchange Shop|Exchange Shop]]''<br>
+*New time-limited furniture set '''Traditional Style''' will be available in the dorm shop for the duration of the event:
+{{:Furniture Sets/Traditional Style}}
+
+==Event Tasks==
+* There are a series of Tasks which refreshes daily, and also normal event tasks, which can only be filled once.
+* Each day during event 6 special daily task will be available:
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = Ex-01
+|desccn = 
+|descen = Build 3 ships.
+|reward = {{Display|Drum|B|60x "Janggu"}}
+|notes =
+}}
+{{Mission
+|type = Event
+|listnum = Ex-02
+|desccn = 
+|descen = Sortie and obtain 25 victories.
+|reward= {{Display|Drum|B|60x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-03
+|desccn = 
+|descen = Destroy 5 enemy flagships.
+|reward= {{Display|Drum|B|60x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-04
+|desccn = 
+|descen = Enhance ships 8 times.
+|reward= {{Display|Drum|B|60x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-05
+|desccn = 
+|descen = Retire 3 ships.
+|reward= {{Display|Drum|B|60x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-06
+|desccn = 
+|descen = Complete 5 commissions.
+|reward= {{Display|Drum|B|x60 "Janggu"}}
+|notes= 
+}}
+|}
+
+*Regular Event Missions
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = Ex-01
+|desccn = 
+|descen = Build 5 ships.
+|reward= {{Display|Drum|B|100x "Janggu"}}
+|notes=
+}}
+{{Mission
+|type = Event
+|listnum = Ex-01
+|desccn = 
+|descen = Build 20 ships.
+|reward= {{Display|Drum|B|300x "Janggu"}}
+|notes=
+}}
+{{Mission
+|type = Event
+|listnum = Ex-02
+|desccn = 
+|descen = Complete 10 commissions.
+|reward= {{Display|Drum|B|100x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-02
+|desccn = 
+|descen = Complete 20 commissions.
+|reward= {{Display|Drum|B|150x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-02
+|desccn = 
+|descen = Complete 30 commissions.
+|reward= {{Display|Drum|B|200x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-02
+|desccn = 
+|descen = Complete 50 commissions.
+|reward= {{Display|Drum|B|300x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-03
+|desccn = 
+|descen = Retire 5 ships.
+|reward= {{Display|Drum|B|100x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-03
+|desccn = 
+|descen = Retire 10 ships.
+|reward= {{Display|Drum|B|150x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-03
+|desccn = 
+|descen = Retire 15 ships.
+|reward= {{Display|Drum|B|200x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-03
+|desccn = 
+|descen = Retire 20 ships.
+|reward= {{Display|Drum|B|300x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-04
+|desccn = 
+|descen = Enhance ships 15 times.
+|reward= {{Display|Drum|B|100x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-04
+|desccn = 
+|descen = Enhance ships 30 times.
+|reward= {{Display|Drum|B|150x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-04
+|desccn = 
+|descen = Enhance ships 50 times.
+|reward= {{Display|Drum|B|200x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-04
+|desccn = 
+|descen = Enhance ships 80 times.
+|reward= {{Display|Drum|B|300x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-05
+|desccn = 
+|descen = Sortie and obtain 50 victories.
+|reward= {{Display|Drum|B|100x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-05
+|desccn = 
+|descen = Sortie and obtain 80 victories.
+|reward= {{Display|Drum|B|150x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-05
+|desccn = 
+|descen = Sortie and obtain 120 victories.
+|reward= {{Display|Drum|B|200x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-05
+|desccn = 
+|descen = Sortie and obtain 200 victories.
+|reward= {{Display|Drum|B|300x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-06
+|desccn = 
+|descen = Destroy 10 enemy flagships.
+|reward= {{Display|Drum|B|100x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-06
+|desccn = 
+|descen = Destroy 20 enemy flagships.
+|reward= {{Display|Drum|B|150x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-06
+|desccn = 
+|descen = Destroy 30 enemy flagships.
+|reward= {{Display|Drum|B|200x "Janggu"}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = Ex-06
+|desccn = 
+|descen = Destroy 50 enemy flagships.
+|reward= {{Display|Drum|B|300x "Janggu"}}
+|notes= 
+}}
+|}
+
+== Exchange Shop ==
+Dailies give 360 {{Drum}} per day. Non-dailies give total of 4150 {{Drum}}.
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Normal Maps
+!colspan=1|Janggu
+|-
+|'''Chapter 3'''
+|{{Display|Drum|B|x5 Janggu}}
+|-
+|'''Chapter 4'''
+|{{Display|Drum|B|x10 Janggu}}
+|-
+|'''Chapter 5'''
+|{{Display|Drum|B|x15 Janggu}}
+|-
+|'''Chapter 6'''
+|{{Display|Drum|B|x20 Janggu}}
+|-
+|'''Chapter 7'''
+|{{Display|Drum|B|x25 Janggu}}
+|-
+|'''Chapter 8 and above'''
+|{{Display|Drum|B|x30 Janggu}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=1|VDIR/MM Maps
+!colspan=1|Janggu
+|-
+|'''A1'''
+|{{Display|Drum|B|x15 Janggu}}
+|-
+|'''A2'''
+||{{Display|Drum|B|x16 Janggu}}
+|-
+|'''A3'''
+|{{Display|Drum|B|x18 Janggu}}
+|-
+|'''B1'''
+|{{Display|Drum|B|x20 Janggu}}
+|-
+|'''B2'''
+||{{Display|Drum|B|x21 Janggu}}
+|-
+|'''B3'''
+|{{Display|Drum|B|x23 Janggu}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=1|VDIR/MM Maps
+!colspan=1|Janggu
+|-
+|'''C1'''
+|{{Display|Drum|B|x25 Janggu}}
+|-
+|'''C2'''
+||{{Display|Drum|B|x26 Janggu}}
+|-
+|'''C3'''
+|{{Display|Drum|B|x28 Janggu}}
+|-
+|'''D1'''
+|{{Display|Drum|B|x30 Janggu}}
+|-
+|'''D2'''
+||{{Display|Drum|B|x31 Janggu}}
+|-
+|'''D3'''
+|{{Display|Drum|B|x33 Janggu}}
+|-
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=1|Solomon Maps
+!colspan=1|Janggu
+|-
+|'''SP1'''
+|{{Display|Drum|B|x5 Janggu}}
+|-
+|'''SP2'''
+||{{Display|Drum|B|x15 Janggu}}
+|-
+|'''SP3'''
+|{{Display|Drum|B|x30 Janggu}}
+|-
+|}
+
+|}
+{{EventShop
+| ShopName=A Foreign Idol?
+| TotalPt=10730
+| PtImage=Drum
+
+| ColorScheme=#F7BAC5
+| Image=SaratogaHanbok
+| Size=600
+| Top=-50
+| Left=-100
+
+| Items=
+{{EventShopItem|4|Hibiscus-scented Idol|Saratoga/Gallery#Hibiscus-scented Idol|SaratogaHanbokIcon|1|300|Drum|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|150|Drum|50}}
+{{EventShopItem|5|T3 Carrier Retrofit Blueprint|Retrofit|CarrierT3BP|3|800|Drum|1|Original Run only}}
+{{EventShopItem|5|Strengthening Unit S1|Research|AllSUnit|5|500|Drum|1|2020 Rerun only}}
+{{EventShopItem|4|Kimchi Bed||Kimchi Bed|1|150|Drum|1}}
+{{EventShopItem|3|Traditional Drum||Traditional Drum|1|100|Drum|1}}
+{{EventShopItem|3|Tteokbokki||Tteokbokki|1|100|Drum|1}}
+{{EventShopItem|3|Grape Juice||Grape Juice|1|100|Drum|1}}
+{{EventShopItem|5|Prototype Bulin MKII|Trial Bullin MKII|Trial_Bullin_MKIIIcon|1|300|Drum|1}}
+{{EventShopItem|4|Universal Bulin|Universal Bullin|Universal BullinIcon|3|80|Drum|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|2|80|Drum|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|2|80|Drum|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|2|80|Drum|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|2|80|Drum|1}}
+{{EventShopItem|4|T3 Eagle Tech Pack|Equipment#Equipment_Boxes|T3Box|5|40|Drum|1}}
+{{EventShopItem|4|T3 Royal Tech Pack|Equipment#Equipment_Boxes|T3Box|5|40|Drum|1}}
+{{EventShopItem|4|T3 Sakura Tech Pack|Equipment#Equipment_Boxes|T3Box|5|40|Drum|1}}
+{{EventShopItem|4|T3 Ironblood Tech Pack|Equipment#Equipment_Boxes|T3Box|5|40|Drum|1}}
+{{EventShopItem|1|Oil||Oilicon|12|50|Drum|200|Original Run only}}
+{{EventShopItem|1|Oil||Oilicon|10|50|Drum|200|2020 Rerun only}}
+{{EventShopItem|4|T3 General Part||AuxT3Plate|30|20|Drum|1}}
+{{EventShopItem|4|T3 Main Gun Part||GunT3Plate|30|20|Drum|1}}
+{{EventShopItem|4|T3 Aircraft Part||PlaneT3Plate|30|20|Drum|1}}
+{{EventShopItem|3|T2 General Part||AuxT2Plate|40|10|Drum|1}}
+{{EventShopItem|3|T2 Main Gun Part||GunT2Plate|40|10|Drum|1}}
+{{EventShopItem|3|T2 Aircraft Part||PlaneT2Plate|40|10|Drum|1}}
+{{EventShopItem|1|Coins||Coinicon|50|10|Drum|150}}
+}}
+
+[[Category:Events]]

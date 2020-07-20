@@ -1,0 +1,206 @@
+{{ContentBox
+|scheme = blue
+|logo = IllustriousTea_PartyChibi.png{{!}}80px
+|title = "Tea Time" Event
+|content =<div class="col col-2">
+* '''CN Server: November 23rd 2017 - November 30th 2017'''
+* '''JP Server: December 7th 2017 - December 14th 2017'''
+* '''KR Server: June 14th 2018 - June 21st 2018'''
+* '''EN Server: November 11th 2018 - November 18th 2018'''
+</div>
+}}
+*During event period following skins will be available in a cash shop:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Illustrious|CV|Tea Party|144|'''"Never-Ending<br>Tea Party"'''|''800 {{Ruby}}''||}}
+{{ShipDisplay|3|Ikazuchi|DD|Tea Party|144|'''"Sakura Tea"'''|''650 {{Ruby}}''|}}
+{{ShipDisplay|3|Inazuma|DD|Tea Party|144|'''"Vanilla Pudding"'''|''650 {{Ruby}}''|}}
+</div>
+
+*New furniture set: '''"Afternoon Tea Party"''' (available for unlimited time)
+
+{| class="wikitable"
+|-
+| [[File:tea_party_furniture.jpg]]
+|}
+
+*'''Puzzle Questline [!]''': tap [[Illustrious]] in [[Academy]] to receive event task. Every day 2 new tasks will unlock. Each task will reward with a puzzle piece, up to 7 puzzle pieces can be obtained from event task. Others will spawn on certain maps after fixed amount of battles. Collect 8 puzzle pieces to get limited furniture '''"Dreamy Teatime"''' and '''"Cinderella’s Carriage"''' for solving a puzzle.
+
+{| class="wikitable"
+|-
+| [[File:puzzle_event.png|500px]]
+|}
+
+[[File:puzzle_order.png|thumb|'''Puzzle Solving''']]
+
+<tabber>Chinese Server={| class="wikitable" style="text-align: center;"
+!
+!1
+!2
+!3
+!4
+|-
+|'''A'''
+|[[File:puzzle1.png]]
+|[[File:puzzle2.png]]
+|[[File:puzzle3.png]]
+|[[File:puzzle4.png]]
+|-
+|'''B'''
+|[[File:puzzle5.png]]
+|[[File:puzzle6.png]]
+|[[File:puzzle7.png]]
+|[[File:puzzle8.png]]
+|-
+|'''C'''
+|[[File:puzzle9.png]]
+|[[File:puzzle10.png]]
+|[[File:puzzle11.png]]
+|[[File:puzzle12.png]]
+|-
+|'''D'''
+|[[File:puzzle13.png]]
+|[[File:puzzle14.png]]
+|[[File:puzzle15.png]]
+|
+|-
+|}
+|-|
+Japanese Server={| class="wikitable" style="text-align: center;"
+!
+!1
+!2
+!3
+!4
+|-
+|'''A'''
+|[[File:puzzle1.png]]
+|[[File:puzzle2_jp.png]]
+|[[File:puzzle3.png]]
+|[[File:puzzle4_jp.png]]
+|-
+|'''B'''
+|[[File:puzzle5_jp.png]]
+|[[File:puzzle6.png]]
+|[[File:puzzle7.png]]
+|[[File:puzzle8.png]]
+|-
+|'''C'''
+|[[File:puzzle9_jp.png]]
+|[[File:puzzle10.png]]
+|[[File:puzzle11.png]]
+|[[File:puzzle12.png]]
+|-
+|'''D'''
+|[[File:puzzle13.png]]
+|[[File:puzzle14.png]]
+|[[File:puzzle15.png]]
+|
+|-
+|}
+</tabber>
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = E11-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰3次<br>艦隊を出撃させ、敵中枢艦隊を3回撃破せよ
+|descen = Destroy Enemy's boss fleet 3 times.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E11-02
+|reqQuest = E11-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 完成任意委托4次<br>委託を4回完了せよ！
+|descen = Complete 4 [[expeditions]].
+|fuel=200
+|coin=
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E11-03
+|reqQuest = E11-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得15次胜利<br>艦隊を出撃させ、15回勝利せよ！
+|descen = Sortie and obtain 15 victories.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E11-04
+|reqQuest = E11-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 完成任意篇章困难3次<br>ハードモードを3回クリアする
+|descen = Clear any Hard Mode map 3 times.
+|fuel=200
+|coin=
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E11-05
+|reqQuest = E11-04
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰5次<br>艦隊を出撃させ、敵中枢艦隊を5回撃破せよ!
+|descen = Destroy Enemy's boss fleet 5 times.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E11-06
+|reqQuest = E11-05
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船3次<br>3回建造する
+|descen = [[Building|Construct]] 3 ships.
+|fuel=200
+|coin=
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E11-07
+|reqQuest = E11-06
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得20次胜利<br>艦隊を出撃させ、20回勝利せよ！
+|descen = Sortie and obtain 20 victories.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|puzzle|B|''Puzzle Piece''}}
+|notes=
+}}
+|}
+
+
+
+[[Category:Events]]

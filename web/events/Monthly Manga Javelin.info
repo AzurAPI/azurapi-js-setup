@@ -1,0 +1,107 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #df80ff
+|body = #99ddff
+|logo = JavelinSchoolChibi.png{{!}}60px
+|title = "Monthly Manga Javelin" event
+|marginTop = 10px
+|content = <div style="padding-bottom:3px; color:black">
+* '''CN/JP/KR/EN servers: June 27th - July 24th 2019'''
+* '''Event story: [[Memories/Javelin's Monthly Manga|Javelin's Monthly Manga]]'''
+</div>
+}}
+
+[[File:Monthly Manga Javelin Banner EN.png|500px]]
+
+
+{{ShipDisplay|4|Javelin|DD|School|Very Slow Advance!||2}}
+
+== Tasks ==
+*From June 27th to July 5th, two missions will unlock daily. Complete all missions to complete the puzzle and receive [[Javelin]]'s skin "Very Slow Advance!".
+
+{{MissionHeader}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-1
+|descen1 = Sortie and obtain 10 Perfect victories.
+|descen2 = Log in once.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 1}}
+|notes = Day 1
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-2
+|descen1 = Conduct 2 exercises.
+|descen2 = Complete 2 commissions.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 2}}
+|notes = Day 2
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-3
+|descen1 = Retire 2 ships.
+|descen2 = Complete 3 Daily Challenges.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 3}}
+|notes = Day 3
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-4
+|descen1 = Enhance ships 5 times.
+|descen2 = Conduct tactical training 2 times.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 4}}
+|notes = Day 4
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-5
+|descen1 = Defeat 20 enemies.
+|descen2 = Resupply the Dorm 5 times.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 5}}
+|notes = Day 5
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-6
+|descen1 = Build 2 ships.
+|descen2 = Open a Tech Box.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 6}}
+|notes = Day 6
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-7
+|descen1 = Conduct tactical training 2 times.
+|descen2 = Sortie and defeat 3 Boss Fleets.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 7}}
+|notes = Day 7
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-8
+|descen1 = Sortie and obtain 10 Perfect victories.
+|descen2 = Complete 2 commissions.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 8}}
+|notes = Day 8
+}}
+{{MissionDouble
+|type = Event
+|listnum = JAV-9
+|descen1 = Retire 2 ships.
+|descen2 = Complete 3 Daily Challenges.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|JavelinPt|B|1x Piece 9}}
+|notes = Day 9
+}}
+|}
+
+[[Category:Events]]

@@ -1,0 +1,1349 @@
+{{EventInfobox
+ | Title =  Iris of Light and Dark ''Rerun''
+ | Banner = Iris of Light and Dark Rerun Event Banner EN.jpg
+ | OtherEventVersions = [[Iris of the Light and the Dark|Initial Run]]
+ | Stories = [[Memories/Iris of Light and Dark|Iris of Light and Dark]]
+ | Dates =
+{{EventInfoDate
+ | Title = CN/JP Servers
+ | Start = June 27th 2019
+ | End = July 11th 2019
+}}
+{{EventInfoDate
+ | Title = EN Server
+ | Start = May 21st 2020
+ | End = June 2nd 2020
+}}
+}}
+The Iris of Light and Dark ''Rerun'' event introduces two new [[Vichya Dominion]] and [[Iris Libre]] destroyer which are added on top of the eight ships added in the initial run of the event. Five new skins of the event ships are also added with some older ones returning and one being available through the completion of special event missions. For the EN run of the event, the daily two times event point bonus for hard mode maps is added.
+
+==Ships and construction==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Le Triomphant|DD||'''[[#Event Shop|Event Shop]]'''|'''Map Drop'''}}
+{{ShipDisplay|5|Jean Bart|BB||'''Construction (1.8%)<br />05:50:00'''}}
+{{ShipDisplay|5|Massachusetts|BB||'''Construction (1.8%)<br />05:00:00'''}}
+{{ShipDisplay|5|Le Malin|DD||'''Construction (2.0%)<br />00:33:00'''}}
+{{ShipDisplay|4|Émile Bertin|CL||'''[[#Iris Écu Milestones|Point Accumulation Reward]]'''}}
+{{ShipDisplay|4|Dunkerque|BC||'''Construction (2.5%)<br />04:05:00'''}}
+{{ShipDisplay|4|Surcouf|SS||'''Construction (2.5%)<br />00:35:00'''}}
+{{ShipDisplay|4|L'Opiniâtre|DD||'''Construction (2.5%)<br />00:26:00'''}}
+{{ShipDisplay|3|Forbin|DD||'''Construction (5.0%)<br />00:23:00'''}}
+{{ShipDisplay|3|Le Mars|DD||'''[[#Event Shop|Event Shop]]'''|'''Map Drop'''}}
+</div>
+
+==Limited Skins==
+
+*'''New time-limited skins''' will be available in the cash shop for the duration of the event:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Le Malin|DD|Casual| The Knight's True Nature|{{Gem}} 800|1}}
+{{ShipDisplay|4|Dunkerque|BC|Casual|Afternoon Aphrodite|{{Gem}} 780 |1}}
+{{ShipDisplay|4|L'Opiniâtre|DD|Summer|Magical Summer|{{Gem}} 780|1}}
+{{ShipDisplay|3|Forbin|DD|School|Academy of Knights|{{Gem}} 780|1}}
+{{ShipDisplay|3|Le Mars|DD|School|Happy School Life|{{Gem}} 780 |1}}
+</div>
+
+*'''Returned time-limited skins''' will be available in the cash shop for the duration of the event:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Émile Bertin|CL|Summer|Côte d'Azur|{{Gem}} 1080|1|L2D}}
+{{ShipDisplay|4|Dunkerque|BC|Summer|Summer Sucré|{{Gem}} 1080|1|L2D}}
+{{ShipDisplay|3|Forbin|DD|Misc|Fleur de Blanc|{{Gem}} 700|1}}
+</div>
+
+*'''CN/JP Only: Returned time-limited skins''' will be '''discounted by 20%''' until the end of the event period.
+
+==Tasks==
+===Daily Tasks===
+
+*For each day of the event, these three tasks will be available to be completed once and reset again at the end of the day:
+
+{| class="wikitable" style="text-align:center"
+!Task Description
+!Rewards
+|-
+|Build 3 ships.
+|{{Display|CrestedMedallionPt|Rare|x300 Iris Écu|35}}
+|-
+|Sortie and obtain 15 victories.
+|{{Display|CrestedMedallionPt|Rare|x300 Iris Écu|35}}
+|-
+|Sortie and clear 1 non-event Hard Mode Stage.
+|{{Display|CrestedMedallionPt|Rare|x100 Iris Écu|35}}
+|}
+
+===Map Completion Tasks===
+
+*There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once by either Normal or Hard maps.
+
+<div style="display:flex; flex-wrap:wrap">
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align: center;"
+  !Map
+  !Clear Reward
+  !3★ Reward
+  |-
+  |'''A1/C1'''
+  |{{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|CrestedMedallionPt|B|x 200}}
+  |{{Display|Oilicon|N|x 500}}
+  |-
+  |'''A2/C2'''
+  |{{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|CrestedMedallionPt|B|x 400}}
+  |{{Display|Universal BullinIcon|P|[[Universal Bullin]]||Universal Bullin}}
+  |-
+  |'''A3/C3'''
+  |{{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|CrestedMedallionPt|B|x 600}}
+  |{{Display|DestroyerT3BP|G|1x T3 Destroyer Blueprint}}
+  |-
+  |'''SP'''
+  |{{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}}
+  |}
+ </div>
+ <div>
+  {| class="wikitable" style="text-align: center;"
+  !Map
+  !Clear Reward
+  !3★ Reward
+  |-
+  |'''B1/D1'''
+  |{{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|CrestedMedallionPt|B|x 400}}
+  |{{Display|Oilicon|N|x 500}}
+  |-
+  |'''B2/D2'''
+  |{{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|CrestedMedallionPt|B|x 600}}
+  |{{Display|Trial Bullin MKIIIcon|G|[[Trial Bullin MKII]]||Trial Bullin MKII}}
+  |-
+  |'''B3/D3'''
+  |{{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 600}} {{Display|CrestedMedallionPt|B|x 800}}
+  |{{Display|DestroyerT3BP|G|1x T3 Destroyer Blueprint}}
+  |}
+ </div>
+</div>
+
+*Special furniture reward for clearing '''D3''' map:
+{{Display|Iris Libre Medal|6|Iris Libre<br>Medal}}
+
+==Event Maps==
+[[File:Iris of Light and Dark - Map EN.png|500px|thumb]]
+
+*The event maps are split, into corresponding normal and hard nodes, giving a total of 6 maps for normal mode and 6 maps for hard mode. Iris Écus [[File:CrestedMedallionPt.png|25px|link=]] are rewarded for defeating the boss at any map. This run also introduces [[Combat#Danger_Level|Danger Level]] and the Siren mechanic.
+
+*On maps where you can see Siren fleets, there will be no Ambushes, Air Raids or Submarine enemies. Sirens variants can be DD, CL, CA, BB and CV. The Sirens will move on the map after you move a specific amount of times, based on YOUR fleet speed.
+
+*Sirens have levels one below those of boss nodes. In addition, drops from Sirens are equivalent to drops from boss nodes, with the exception of boss-only drops such as SSR ships (i.e. Le Triomphant) and [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]].
+
+*After clearing D3 an SP stage will get unlocked, which can be cleared <span style="color:red">once a day</span> to gain an addition 800 Iris Écus [[File:CrestedMedallionPt.png|25px|link=]].
+
+*All Normal maps will have '''x3 Points [[File:CrestedMedallionPt.png|25px|link=]] bonus for first clear each day'''.
+**'''EN only:''' All Hard maps will have '''x2 Points [[File:CrestedMedallionPt.png|25px|link=]] bonus for first clear each day'''.
+
+====[[File:CrestedMedallionPt.png|24px|link=]]&thinsp;Iris Écu drops per map====
+{| class="azltable" style="text-align: center;"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|30 [[File:CrestedMedallionPt.png|25px|link=]]
+|'''C1'''
+|90 [[File:CrestedMedallionPt.png|25px|link=]]
+|-
+|'''A2'''
+|40 [[File:CrestedMedallionPt.png|25px|link=]]
+|'''C2'''
+|100 [[File:CrestedMedallionPt.png|25px|link=]]
+|-
+|'''A3'''
+|50 [[File:CrestedMedallionPt.png|25px|link=]]
+|'''C3'''
+|110 [[File:CrestedMedallionPt.png|25px|link=]]
+|-
+|'''B1'''
+|60  [[File:CrestedMedallionPt.png|25px|link=]]
+|'''D1'''
+|120  [[File:CrestedMedallionPt.png|25px|link=]]
+|-
+|'''B2'''
+|70  [[File:CrestedMedallionPt.png|25px|link=]]
+|'''D2'''
+|150  [[File:CrestedMedallionPt.png|25px|link=]]
+|-
+|'''B3'''
+|80  [[File:CrestedMedallionPt.png|25px|link=]]
+|'''D3'''
+|180  [[File:CrestedMedallionPt.png|25px|link=]]
+|-
+! colspan="2" |'''Special'''
+| colspan="2" |800 [[File:CrestedMedallionPt.png|25px|link=]]
+|}
+
+====Ship Drops====
+{| class="azltable" style="text-align:center"
+ |+Ship Drops
+ |-
+ | style="background-color:PaleGoldenrod" |[[File:Le TriomphantIcon.png|50px|link=Le Triomphant]]
+ |[[Le Triomphant]]
+ |B3, D3, SP (boss node only)
+ |-
+ | style="background-color:PowderBlue" |[[File:Le MarsIcon.png|50px|link=Le Mars]]
+ |[[Le Mars]]
+ |A3, B2, C3, D2, D3, SP
+|}
+
+===Normal Maps===
+
+<tabber>
+A1={{Map
+ | ctID = 1240001
+ | Title = Eve of the Storm
+ | Introduction = The Royal Navy is sailing through the Mediterranean Sea to carry out a mission. A mission of a top secret nature...
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 200x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 30-32
+ | SirenLevel = 32
+ | MobExp1 = 145
+ | MobExp2 = 165
+ | MobExp3 = 186
+ | MobExpSiren = 209
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 1
+ | Boss = Explorer II
+ | BossLevel = 33
+ | BossExp = 232
+
+ | BossBattleReq = 4
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 155
+ | ActualAirSupremacy = 120
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 30x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T3 Quadruple 40mm AA Vickers Pom Pom|Quadruple 40mm AA Vickers Pom Pom|26100}}
+{{EquipmentBox|4|T2 Twin 113mm (4.5"/45 QF Mk I)|Twin 113mm (4.5"/45 QF Mk I)|26500}}
+{{EquipmentBox|3|T3 533mm Triple Torpedo Mount|533mm Triple Torpedo Mount|5000}}
+{{EquipmentBox|3|T3 Twin 40mm Pom-Pom|Twin 40mm Pom-Pom|26000}}
+ | ShipDrops = 
+{{IconHover|Charles Ausburne|4}}
+{{IconHover|Shigure|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Pennsylvania|3}}
+{{IconHover|Long Island|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| |x|e| |e|x|x| 
+    | |e| | |e| |c|x|c
+    | | |p| | | |u| | 
+    | |e| | |x|c| |e| 
+    |s| | |c|x| |c| |b
+  }}
+}}
+|-|
+A2={{Map
+ | ctID = 1240003
+ | Title = Breakthrough
+ | Introduction = Sirens have appeared, as if to guard Mers-el-Kébir. Has a sworn ally turned their back on the Royal Navy and become a puppet for the Sirens?
+ | Requirements = Clear A1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x [[Universal Bullin]]
+
+ | MobLevel = 34-36
+ | SirenLevel = 36
+ | MobExp1 = 165
+ | MobExp2 = 187
+ | MobExp3 = 210
+ | MobExpSiren = 236
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 1
+ | Boss = Oceana II
+ | BossLevel = 37
+ | BossExp = 261
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 215
+ | ActualAirSupremacy = 165
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 40x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 134mm (QF Mark II)|Twin 134mm (QF Mark II)|21500}}
+{{EquipmentBox|4|T2 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 Single 150mm (SK C/28)|Single 150mm (SK C/28)|42000}}
+{{EquipmentBox|3|T3 Single 152mm (BL 6" Mk XII)|Single 152mm (BL 6" Mk XII)|22000}}
+{{EquipmentBox|3|T3 Single 127mm (SK C/34)|Single 127mm (SK C/34)|41000}}
+ | ShipDrops = 
+{{IconHover|Glowworm|4}}
+{{IconHover|Z1|4}}
+{{IconHover|Gridley|3}}
+{{IconHover|Pennsylvania|3}}
+{{IconHover|Long Island|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| |e| |e| | | |c|b
+    | | | | | | |x| | | 
+    |x|x|x|e|p| |x|u|c|x
+    |s| | | |e| |c| | |c
+    | | |e| | | | |c| | 
+    |x|e|e| |x|e|q| | |b
+  }}
+}}
+|-|
+A3={{Map
+ | ctID = 1240004
+ | Title = Operation Catapult
+ | Introduction = Dunkerque dismissed the final report she received from headquarters. It seems a battle is unavoidable... All ships, prepare for combat!
+ | Requirements = Clear A2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 600x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x T3 Destroyer Retrofit Blueprint {{Blueprint|T3|Destroyer}}
+
+ | MobLevel = 38-40
+ | SirenLevel = 40
+ | MobExp1 = 185
+ | MobExp2 = 209
+ | MobExp3 = 234
+ | MobExpSiren = 263
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Dunkerque]]
+ | BossLevel = 41
+ | BossExp = 290
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 280
+ | ActualAirSupremacy = 215
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 50x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Submarine-mounted 550mm 24V Torpedo|Submarine-mounted 550mm 24V Torpedo|5500}}
+{{EquipmentBox|3|T3 Fire Extinguisher|Fire Extinguisher|2500}}
+{{EquipmentBox|3|T2 Submarine-mounted 550mm 24V Torpedo|Submarine-mounted 550mm 24V Torpedo|5500}}
+ | ShipDrops = 
+{{IconHover|York|4}}
+{{IconHover|Exeter|4}}
+{{IconHover|Le Mars|3}}
+{{IconHover|Gridley|3}}
+{{IconHover|Pennsylvania|3}}
+{{IconHover|Long Island|3}}
+{{IconHover|Amazon|3}}
+{{IconHover|Fortune|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s|x|x|x|e| | | |c| |q
+    | | | | | | |c| | | | 
+    |e| |x|e| | | | |x|x| 
+    |e| | | |p|x|u| |b|x| 
+    | | |e| | | | | | | | 
+    | | |x|x|e|c| |c|x|x|x
+    |s| |x|x|e| | | | |c|q
+  }}
+}}
+|-|
+B1={{Map
+ | ctID = 1240005
+ | Title = Rendezvous
+ | Introduction = The joint operation between the Royal Navy and Eagle Union has begun. Their first target: the Sirens' network of defenses.
+ | Requirements = Clear A3
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 42-44
+ | SirenLevel = 44
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 290
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 1
+ | Boss = [[Le Mars]] and Oceana II
+ | BossLevel = 45
+ | BossExp = 319
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 345
+ | ActualAirSupremacy = 265
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 60x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 SG Radar|SG Radar|1500}}
+{{EquipmentBox|4|T3 Twin 152mm (BL 6" Mk XXII)|Twin 152mm (BL 6" Mk XXII)|22100}}
+{{EquipmentBox|4|T3 102mm AA QF 4" Mk V|102mm AA QF 4" Mk V|21000}}
+{{EquipmentBox|4|T3 Twin 150mm (TbtsK C/36)|Twin 150mm (TbtsK C/36)|42200}}
+{{EquipmentBox|3|T3 Triple 152mm (Mle 1930)|Triple 152mm (Mle 1930)|50200}}
+ | ShipDrops = 
+{{IconHover|Renown|4}}
+{{IconHover|Queen Elizabeth|4}}
+{{IconHover|Thatcher|3}}
+{{IconHover|Brooklyn|3}}
+{{IconHover|Phoenix|3}}
+{{IconHover|Portland|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |x|x|x| | | | |b
+    | | | | |u|c|c| 
+    |e| |e|x|x|e| | 
+    |s| |e|x|x|p|e| 
+    |e| | | | | | | 
+    |s| | |e| |c| |b
+  }}
+}}
+|-|
+B2={{Map
+ | ctID = 1240007
+ | Title = The Roar of Justice
+ | Introduction = A hostile force, consisting of both Vichya and Siren troops, stands in the way. Show them the principle that might makes right!
+ | Requirements = Clear B1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 600x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x [[Trial Bullin MKII]]
+
+ | MobLevel = 46-48
+ | SirenLevel = 48
+ | MobExp1 = 225
+ | MobExp2 = 253
+ | MobExp3 = 282
+ | MobExpSiren = 317
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2
+ | Boss = Strategist II
+ | BossLevel = 49
+ | BossExp = 348
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 450
+ | ActualAirSupremacy = 345
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 70x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T2 Single 138.6mm (Mle 1929)|Single 138.6mm (Mle 1929)|50100}}
+{{EquipmentBox|3|T3 Single 130mm (Mle 1924)|Single 130mm (Mle 1924)|50000}}
+ | ShipDrops = 
+{{IconHover|Erebus|4}}
+{{IconHover|Terror|4}}
+{{IconHover|Le Mars|3}}
+{{IconHover|Thatcher|3}}
+{{IconHover|Brooklyn|3}}
+{{IconHover|Phoenix|3}}
+{{IconHover|Portland|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| | | | | |c|x|b
+    | |c| | |e| | |x| 
+    | | |c|x|x|x| | | 
+    |e|u| |e|c|e| |p| 
+    |e|p| |x|x|x| | | 
+    | |e| |e| | | |x| 
+    |s| | | | |e| |x|b
+  }}
+}}
+|-|
+B3={{Map
+ | ctID = 1240008
+ | Title = Operation Torch
+ | Introduction = At long last, their battle spanning an entire ocean has begun; their battle of virtues; their battle for the title of the mightiest battleship.
+ | Requirements = Clear B2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 800x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x T3 Destroyer Retrofit Blueprint {{Blueprint|T3|Destroyer}}
+
+ | MobLevel = 50-52
+ | SirenLevel = 52
+ | MobExp1 = 245
+ | MobExp2 = 275
+ | MobExp3 = 306
+ | MobExpSiren = 344
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Jean Bart]]
+ | BossLevel = 53
+ | BossExp = 377
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 555
+ | ActualAirSupremacy = 425
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 80x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T3 Quadruple 330mm (Mle 1931)|Quadruple 330mm (Mle 1931)|50300}}
+{{EquipmentBox|4|T2 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+{{EquipmentBox|3|T2 Quadruple 330mm (Mle 1931)|Quadruple 330mm (Mle 1931)|50300}}
+ | ShipDrops = 
+{{IconHover|Le Triomphant|5|Boss only}}
+{{IconHover|Nelson|4}}
+{{IconHover|Rodney|4}}
+{{IconHover|Thatcher|3}}
+{{IconHover|Brooklyn|3}}
+{{IconHover|Phoenix|3}}
+{{IconHover|Portland|3}}
+{{IconHover|Juno|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| |x|x| | | |e| 
+    | |e|x|x| |c| | | 
+    | | | | | | |c|c| 
+    |e| |e|c| |e|x|x|x
+    | | |x|u| | | |b|x
+    | |e|x| | |e|x|x|x
+    | | |p| |x|c| |e| 
+    |s| | | |x| | |e| 
+    |s| |p| | |e| | | 
+  }}
+}}
+</tabber>
+
+===Hard Maps===
+
+<tabber>
+C1={{Map
+ | ctID = 1240011
+ | Title = Eve of the Storm
+ | Introduction = The Royal Navy is sailing through the Mediterranean Sea to carry out a mission. A mission of a top secret nature...
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 200x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 60-62
+ | SirenLevel = 63
+ | MobExp1 = 295
+ | MobExp2 = 330
+ | MobExp3 = 366
+ | MobExpSiren = 418
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2
+ | Boss = Explorer II
+ | BossLevel = 64
+ | BossExp = 457
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 550
+ | ActualAirSupremacy = 425
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{CA}} CA
+ | StatRestrictions = Average Level > 60, {{Firepower}} Total Firepower > 500, {{Torpedo}} Total Torpedo > 400
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 90x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Twin 113mm (4.5"/45 QF Mk I)|Twin 113mm (4.5"/45 QF Mk I)|26500}}
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+{{EquipmentBox|4|T3 Quadruple 40mm AA Vickers Pom Pom|Quadruple 40mm AA Vickers Pom Pom|26100}}
+{{EquipmentBox|4|T2 Twin 113mm (4.5"/45 QF Mk I)|Twin 113mm (4.5"/45 QF Mk I)|26500}}
+ | ShipDrops = 
+{{IconHover|Charles Ausburne|4}}
+{{IconHover|Shigure|4}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| |x|e| |e|x| | 
+    | |e| | |e| |c|x|c
+    | | |p| | |p|u| | 
+    | |e| | |x|c| |c| 
+    |s| | |c|x| |c| |b
+  }}
+}}
+|-|
+C2={{Map
+ | ctID = 1240013
+ | Title = Breakthrough
+ | Introduction = Sirens have appeared, as if to guard Mers-el-Kébir. Has a sworn ally turned their back on the Royal Navy and become a puppet for the Sirens?
+ | Requirements = Clear C1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x [[Universal Bullin]]
+
+ | MobLevel = 66-68
+ | SirenLevel = 70
+ | MobExp1 = 325
+ | MobExp2 = 363
+ | MobExp3 = 402
+ | MobExpSiren = 466
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2
+ | Boss = Oceana II
+ | BossLevel = 71
+ | BossExp = 507
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 630
+ | ActualAirSupremacy = 485
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{CA}} CA
+ | StatRestrictions = Average Level > 66, {{Firepower}} Total Firepower > 650, {{Evasion}} Total Evasion > 350
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 100x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 Twin 134mm (QF Mark II)|Twin 134mm (QF Mark II)|21500}}
+{{EquipmentBox|4|T2 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 76mm AA Gun (3"/50 Mk 22)|76mm AA Gun (3"/50 Mk 22)|26300}}
+{{EquipmentBox|4|T3 Single 150mm (SK C/28)|Single 150mm (SK C/28)|42000}}
+ | ShipDrops = 
+{{IconHover|Glowworm|4}}
+{{IconHover|Z1|4}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| |e|p|e| | | |c|b
+    | | | | | | |x| | | 
+    |x|x|x|e|p| |x|u|c|x
+    |s| | | |e| |c| | |c
+    | | |e| | | | |c| | 
+    |x|e|e| |x|e|q| | |b
+  }}
+}}
+|-|
+C3={{Map
+ | ctID = 1240014
+ | Title = Operation Catapult
+ | Introduction = Dunkerque dismissed the final report she received from headquarters. It seems a battle is unavoidable... All ships, prepare for combat!
+ | Requirements = Clear C2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 600x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x T3 Destroyer Retrofit Blueprint {{Blueprint|T3|Destroyer}}
+
+ | MobLevel = 72-74
+ | SirenLevel = 76
+ | MobExp1 = 355
+ | MobExp2 = 396
+ | MobExp3 = 438
+ | MobExpSiren = 506
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2
+ | Boss = [[Dunkerque]]
+ | BossLevel = 77
+ | BossExp = 551
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 710
+ | ActualAirSupremacy = 545
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{CA}} CA
+ | StatRestrictions = Average Level > 72, {{Firepower}} Total Firepower > 800, {{Reload}} Total Reload > 800
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 110x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Triple 150mm (SK C/25)|Triple 150mm (SK C/25)|42100}}
+{{EquipmentBox|4|T3 Submarine-mounted 550mm 24V Torpedo|Submarine-mounted 550mm 24V Torpedo|5500}}
+ | ShipDrops = 
+{{IconHover|York|4}}
+{{IconHover|Exeter|4}}
+{{IconHover|Le Mars|3}}
+{{IconHover|Fletcher|3}}
+{{IconHover|Tennessee|3}}
+{{IconHover|California|3}}
+{{IconHover|Achilles|3}}
+{{IconHover|Ajax|3}}
+{{IconHover|Cassin|2}}
+{{IconHover|Downes|2}}
+{{IconHover|Craven|2}}
+{{IconHover|McCall|2}}
+{{IconHover|Nevada|2}}
+{{IconHover|Oklahoma|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Foxhound|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s|x|x|x|e| | |p|c| |q
+    | | | | | | |c| | | | 
+    |e| |x|e| | | | |x|x| 
+    |e| | | |p|x|u| |b|x| 
+    | | |e| | | | | | | | 
+    | | |x|x|e|e| |c|x|x|x
+    |s| |x|x|e| | | | |c|q
+  }}
+}}
+|-|
+D1={{Map
+ | ctID = 1240015
+ | Title = Rendezvous
+ | Introduction = The joint operation between the Royal Navy and Eagle Union has begun. Their first target: the Sirens' network of defenses.
+ | Requirements = Clear C3
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 400x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 500x Oil {{Oil}}
+
+ | MobLevel = 78-80
+ | SirenLevel = 82
+ | MobExp1 = 385
+ | MobExp2 = 429
+ | MobExp3 = 474
+ | MobExpSiren = 547
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2, 1
+ | Boss = [[Le Mars]] and Explorer II
+ | BossLevel = 83
+ | BossExp = 594
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 845
+ | ActualAirSupremacy = 650
+
+ | Fleet1 = 1 {{BB}} BB, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 78, {{Firepower}} Total Firepower > 950, {{Evasion}} Total Evasion > 600
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 120x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 SG Radar|SG Radar|1500}}
+{{EquipmentBox|4|T2 SG Radar|SG Radar|1500}}
+{{EquipmentBox|4|T3 Twin 152mm (BL 6" Mk XXII)|Twin 152mm (BL 6" Mk XXII)|22100}}
+{{EquipmentBox|4|T3 102mm AA QF 4" Mk V|102mm AA QF 4" Mk V|21000}}
+{{EquipmentBox|4|T3 Twin 150mm (TbtsK C/36)|Twin 150mm (TbtsK C/36)|42200}}
+ | ShipDrops = 
+{{IconHover|Renown|4}}
+{{IconHover|Queen Elizabeth|4}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |x|x|x| | | | |b
+    |p| | | |u|c|c| 
+    |e| |e|x|x|p| | 
+    |s| |e|x|x|p|e| 
+    |e| | | | | | | 
+    |s| | |e|p|c| |b
+  }}
+}}
+|-|
+D2={{Map
+ | ctID = 1240017
+ | Title = The Roar of Justice
+ | Introduction = A hostile force, consisting of both Vichya and Siren troops, stands in the way. Show them the principle that might makes right!
+ | Requirements = Clear D1
+ | ClearReward = 1x Wisdom Cube {{Cube}}, 600x Coins {{Coin}}, 600x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]]
+ | 3StarReward = 1x [[Trial Bullin MKII]]
+
+ | MobLevel = 84-86
+ | SirenLevel = 88
+ | MobExp1 = 415
+ | MobExp2 = 462
+ | MobExp3 = 510
+ | MobExpSiren = 587
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2, 1
+ | Boss = Strategist II
+ | BossLevel = 89
+ | BossExp = 638
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1000
+ | ActualAirSupremacy = 770
+
+ | Fleet1 = 1 {{BB}} BB, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 84, {{Firepower}} Total Firepower > 1100, {{AA}} Total Anti-Air > 1600
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 150x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Single 138.6mm (Mle 1929)|Single 138.6mm (Mle 1929)|50100}}
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T2 Single 138.6mm (Mle 1929)|Single 138.6mm (Mle 1929)|50100}}
+ | ShipDrops = 
+{{IconHover|Erebus|4}}
+{{IconHover|Terror|4}}
+{{IconHover|Le Mars|3}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| | | | | |c|x|b
+    | |c| |p|e| | |x| 
+    | | |e|x|x|x| | | 
+    |e|u| |e|e|e| |p| 
+    |e|p| |x|x|x| | | 
+    | |e| |e| | | |x| 
+    |s| | | | |e| |x|b
+  }}
+}}
+|-|
+D3={{Map
+ | ctID = 1240018
+ | Title = Operation Torch
+ | Introduction = At long last, their battle spanning an entire ocean has begun; their battle of virtues; their battle for the title of the mightiest battleship.
+ | Requirements = Clear D2
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}, 800x Iris Écus [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]], 1x Iris Bell (Furniture) [[File:Iris_Libre_Medal.png|25px]]
+ | 3StarReward = 1x T3 Destroyer Retrofit Blueprint {{Blueprint|T3|Destroyer}}
+
+ | MobLevel = 90-92
+ | SirenLevel = 94
+ | MobExp1 = 445
+ | MobExp2 = 495
+ | MobExp3 = 546
+ | MobExpSiren = 628
+ | MobSpawnOrder = 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2, 1
+ | Boss = [[Jean Bart]]
+ | BossLevel = 95
+ | BossExp = 681
+
+ | BossBattleReq = 6
+ | BossBattleClear = 6
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1175
+ | ActualAirSupremacy = 905
+
+ | Fleet1 = 1 {{BB}} BB, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average Level > 90, {{Firepower}} Total Firepower > 1300, {{Torpedo}} Total Torpedo > 1500
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 180x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T3 Quadruple 330mm (Mle 1931)|Quadruple 330mm (Mle 1931)|50300}}
+{{EquipmentBox|4|T2 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+ | ShipDrops = 
+{{IconHover|Le Triomphant|5|Boss only}}
+{{IconHover|Nelson|4}}
+{{IconHover|Rodney|4}}
+{{IconHover|Le Mars|3}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    |s| |x|x| |p| |e| 
+    | |e|x|x| |c| | | 
+    | | | | | | |c|c| 
+    |e| |c|e| |c|x|x|x
+    | | |x|u| | | |b|x
+    | |e|x| | |e|x|x|x
+    | | |p| |x|c| |e| 
+    |s| | | |x| | |e| 
+    |s| |p| | |e| | | 
+  }}
+}}
+</tabber>
+
+===EX Map===
+<tabber>
+SP={{Map
+ | ctID = 1240019
+ | Title = Graceful Iris 
+ | Introduction = A brilliant light and a cold shadow seem to struggle for control upon the delicate petals of this iris. The outcome has not yet been decided...
+ | Requirements = Clear D3
+ | ClearReward = 2x Wisdom Cube {{Cube}}, 1500x Coins {{Coin}}
+
+ | MobLevel = 110
+ | SirenLevel = 110
+ | MobExp1 = 445
+ | MobExp2 = 495
+ | MobExp3 = 546
+ | MobExpSiren = 628
+ | MobSpawnOrder = 1, 1, 1, 1, 1, 1
+ | EliteSpawnOrder = 1, 1, 1
+ | SirenSpawnOrder = 2, 1
+ | Boss = [[Jean Bart]]
+ | BossLevel = 110
+ | BossExp = 681
+
+ | BossBattleReq = 7
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Use ≤8 Ships in Fleet
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1370
+ | ActualAirSupremacy = 1055
+
+ | StatRestrictions = Average Level > 110
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins, [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]] 800x Iris Écus
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T3 Quadruple 330mm (Mle 1931)|Quadruple 330mm (Mle 1931)|50300}}
+{{EquipmentBox|4|T2 Quadruple 380mm (Mle 1935)|Quadruple 380mm (Mle 1935)|50400}}
+ | ShipDrops = 
+{{IconHover|Le Triomphant|5|Boss only}}
+{{IconHover|Nelson|4}}
+{{IconHover|Rodney|4}}
+{{IconHover|Le Mars|3}}
+{{IconHover|Northampton|3}}
+{{IconHover|Chicago|3}}
+{{IconHover|Arethusa|3}}
+{{IconHover|Galatea|3}}
+{{IconHover|Repulse|3}}
+{{IconHover|Aulick|2}}
+{{IconHover|Foote|2}}
+{{IconHover|Spence|2}}
+{{IconHover|Pensacola|2}}
+{{IconHover|Salt Lake City|2}}
+{{IconHover|Langley|2}}
+{{IconHover|Ranger|2}}
+{{IconHover|Comet|2}}
+{{IconHover|Crescent|2}}
+{{IconHover|Cygnet|2}}
+{{IconHover|Leander|2}}
+{{IconHover|Hermes|2}}
+{{IconHover|Königsberg|2}}
+{{IconHover|Karlsruhe|2}}
+{{IconHover|Köln|2}}
+ | NodeMap = {{MapTable
+    | |p| | | |x| | |e
+    | | |c| |e|x|e|c| 
+    |x|x|x|p|c| | | |s
+    | | |b| |u| |e| | 
+    |x|x|x|c| |e| | |s
+    | |c| |p|e| |e|x| 
+    | | | | |b| | |e| 
+  }}
+ | Notes = Can only be cleared once per day.
+}}
+|-|
+EXTRA={{Map
+ | ctID = 1240021
+ | Title = Light and Dark
+ | Introduction = The Sanctuary radiates a brilliant light, casting a shadow upon its own stage. If light is that which you desire, Challenger, first you must wade through the darkness.
+ | Requirements = Clear D3
+
+ | Boss = [[Jean Bart]] and [[Dunkerque]]
+ | BossLevel = 115
+
+ | BossBattleReq = 0
+ | BossBattleClear = 1
+ | Star1 = Sink Boss
+ | Star2 = Use ≤4 Ships in Fleet
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 810
+ | ActualAirSupremacy = 620
+
+ | Fleet1 = 1 {{BC}} BC or BB, 1 {{BB}} BB
+ | Fleet2 = Not available
+
+ | NodeMap = {{MapTable
+    | | |x| | | 
+    | | |x|x|x|x
+    | | | |s| |b
+    | | |x|x|x|x
+    | | |x| | | 
+  }}
+ | Notes = This map does not give any rewards or experience. It does not consume oil or lower morale.
+}}
+</tabber>
+
+==Exchange Shop==
+
+*You can receive rewards in exchange for [[File:CrestedMedallionPt.png|25px|link=|Iris Écu]].
+
+{{EventShop
+| ShopName=Iris of Light and Dark Rerun
+| TotalPt=68600
+| PtImage=CrestedMedallionPt
+
+| ColorScheme=#414ea3
+| Image=Le Triomphant
+| Size=550
+| Top=-45
+| Left=-90
+
+| Items=
+{{EventShopItem|5|Le Triomphant|Le Triomphant|Le TriomphantIcon|1|8000|CrestedMedallionPt|1}}
+{{EventShopItem|3|Le Mars|Le Mars|Le MarsIcon|1|2000|CrestedMedallionPt|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|CrestedMedallionPt|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|CrestedMedallionPt|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|CrestedMedallionPt|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|CrestedMedallionPt|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|CrestedMedallionPt|100}}
+{{EventShopItem|5|Single 138.6mm (Mle 1929) Blueprint|Single 138.6mm (Mle 1929)|50100|15|135|CrestedMedallionPt|1}}
+{{EventShopItem|5|Quadruple 380mm (Mle 1935) Blueprint|Quadruple 380mm (Mle 1935)|50400|15|135|CrestedMedallionPt|1}}
+{{EventShopItem|3|Rare Cat Box|Meowfficer|Cat Box Rare|10|250|CrestedMedallionPt|1}}
+{{EventShopItem|4|Elite Cat Box|Meowfficer|Cat Box Elite|5|500|CrestedMedallionPt|1}}
+{{EventShopItem|5|Super Rare Cat Box|Meowfficer|Cat Box Super Rare|2|3000|CrestedMedallionPt|1}}
+{{EventShopItem|5|Strengthening Unit S2|Research|AllSUnit|30|500|CrestedMedallionPt|1}}
+{{EventShopItem|6|Advanced Strengthening Unit S2|Research|AllSUnit3|10|1000|CrestedMedallionPt|1}}
+{{EventShopItem|4|T3 General Part||AuxT3Plate|30|30|CrestedMedallionPt|1}}
+{{EventShopItem|4|T3 Main Gun Part||GunT3Plate|30|30|CrestedMedallionPt|1}}
+{{EventShopItem|4|T3 Torpedo Part||TorpT3Plate|30|30|CrestedMedallionPt|1}}
+{{EventShopItem|4|T3 Anti-Air Part||AAT3Plate|30|30|CrestedMedallionPt|1}}
+{{EventShopItem|4|T3 Aircraft Part||PlaneT3Plate|30|30|CrestedMedallionPt|1}}
+{{EventShopItem|1|Coins||Coinicon|5|500|CrestedMedallionPt|2000}}
+{{EventShopItem|1|Oil||Oilicon|5|450|CrestedMedallionPt|1000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|CrestedMedallionPt|1}}
+}}
+
+==Event Milestones==
+===Iris Écu Milestones===
+
+*The '''total amount of Iris Écus''' you gain during this event will be counted. Once you reach certain thresholds you will get rewards.
+
+{| class="wikitable" style="text-align:center"
+![[File:CrestedMedallionPt.png|30px|link=|Iris Écu]]
+!Reward
+![[File:CrestedMedallionPt.png|30px|link=|Iris Écu]]
+!Reward
+![[File:CrestedMedallionPt.png|30px|link=|Iris Écu]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|P|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|E|3000x Coins}}
+|1000
+|{{Display|Moduleicon|G|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|E|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|E|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|G|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|G|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|8500
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|G|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|10000
+|{{Display|Émile BertinIcon|P|1x [[Émile Bertin]]||Émile Bertin}}
+|11000
+|{{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|G|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|15000
+|{{Display|Émile BertinIcon|P|1x [[Émile Bertin]]||Émile Bertin}}
+|20000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|25000
+|{{Display|AllSUnit3|R|2x Advanced Strengthening Unit S2}}
+|-
+|30000
+|{{Display|Moduleicon|G|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|40000
+|{{Display|Émile BertinIcon|P|1x [[Émile Bertin]]||Émile Bertin}}
+|-
+|45000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|Émile BertinIcon|P|1x [[Émile Bertin]]||Émile Bertin}}
+|80000
+|{{Display|T5Box|R|1x T5 Eagle Tech Pack}}
+|100000
+|{{Display|T5Box|R|1x T5 Eagle Tech Pack}}
+|}
+
+===Oil Usage Milestones===
+
+*The '''total amount of Oil''' you spend during this event will be counted. Once you reach certain thresholds you will get rewards.
+*These missions are time gated; one per day.
+
+{| class="wikitable" style="text-align:center"
+!{{Oil}}
+!Reward
+!{{Oil}}
+!Reward
+|-
+|500
+|{{Display|AuxT3Plate|P|5x T3 General Part}}
+|1000
+|{{Display|Coinicon|E|1000x Coins}}
+|-
+|1500
+|{{Display|AuxT3Plate|P|5x T3 General Part}}
+|2000
+|{{Display|Coinicon|E|1000x Coins}}
+|-
+|2500
+|{{Display|AuxT3Plate|P|10x T3 General Part}}
+|3000
+|{{Display|Coinicon|E|1500x Coins}}
+|-
+|4000
+|{{Display|AuxT3Plate|P|10x T3 General Part}}
+|5000
+|{{Display|AllSUnit3|R|1x Advanced Strengthening Unit S2}}
+|-
+|6500
+|{{Display|AuxT3Plate|P|10x T3 General Part}}
+|8000
+|{{Display|Le MarsSummerIcon|B|[[Le Mars/Gallery#Été Brillant|Le Mars' Été Brillant]]||Le Mars/Gallery#Été Brillant}}
+|}
+
+[[Category:Events]]

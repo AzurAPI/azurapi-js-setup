@@ -1,0 +1,135 @@
+{{ContentBox
+|scheme = lavender
+|logo = UnicornEventChibi.png{{!}}70px
+|title = "Stardust" Event
+|content =<div class="col col-2">
+* '''CN Server: November 2nd - November 15th 2017'''
+* '''JP Server: November 9th - November 23th 2017'''
+* '''EN Server: October 19th - November 1st 2018'''
+* '''Event story: [[Memories/Bits_of_Courage|Bits of Courage]]''' 
+</div>
+}}
+[[File:Stardust_event.png|500px]]
+
+Meet the very first collaboration event: '''"Azur Lane" x Chinese Vocaloid "Stardust"'''. This event will introduce following things:
+
+* New star-themed furniture set, [[Decorations#Stardust|'''"Stardust"''']] and 2 time-limited {{Ruby}} only furniture: '''Lunar Ship''' and '''Little Spaceship'''
+
+{| class="wikitable"
+|-
+| [[File:Star_furniture.png]]
+| [[File:Star_limited_furniture.png]]
+|}
+
+* There will be an Event quest chain with '''[[Unicorn]]'s "Little Star Songstress"''' skin as a final reward:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Unicorn|CVL|Event|Little Star Songstress}}
+</div>
+
+* '''One event task''' will be unlocked per day. Tap Unicorn in [[Academy]] to receive it.
+
+{{TaskHeader}}
+{{Task
+|type = Event
+|listnum = E10-01
+|reqQuest = 
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 完成任意委托4次<br>委託を4回完了する
+
+|descen = Complete 4 [[Expeditions|Commission]]s.
+|fuel=200
+|coin=
+|cube=
+|other= 
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E10-02
+|reqQuest = E10-01
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船3次<br>建造を3回行う
+|descen = [[Building|Construct]] 3 ships.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|UnknownT2Book|P|x2 Random T2 skillbooks}}
+|notes=
+
+'''Song that playing in event scene: 【星塵原創曲】Zeno - 雪之花'''
+}}
+{{Task
+|type = Event
+|listnum = E10-03
+|reqQuest = E10-02
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得15次胜利<br>艦隊を出撃させ、15回勝利せよ！
+|descen = Sortie and obtain 15 victories.
+|fuel=200
+|coin=
+|cube=
+|other= 
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E10-04
+|reqQuest = E10-03
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船3次<br>建造を3回行う
+|descen = [[Building|Construct]] 3 ships.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|T3Box|P|x2 Random T3 boxes}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E10-05
+|reqQuest = E10-04
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，消灭敌方旗舰3次<br>艦隊を出撃させ、敵中枢艦隊を3回撃破せよ
+|descen = Destroy Enemy's boss fleet 3 times.
+|fuel=200
+|coin=
+|cube=
+|other= 
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E10-06
+|reqQuest = E10-05
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 建造舰船3次<br>建造を3回行う
+|descen = [[Building|Construct]] 3 ships.
+|fuel=
+|coin=500
+|cube=
+|other= {{Display|UnknownT2BP|P|1x Random T2 blueprint}}
+|notes=
+}}
+{{Task
+|type = Event
+|listnum = E10-07
+|reqQuest = E10-06
+|reqQuest2 = 
+|reqQuest3 = 
+|desccn = 舰队出征，获得20次胜利<br>艦隊を出撃させ、20回勝利せよ！
+|descen = Sortie and obtain 20 victories.
+|fuel=
+|coin=
+|cube=
+|other= {{Display|UnicornEventIcon|P|''[[Unicorn]]´s "Little Star Songstress"''}}
+|notes=
+}}
+|}
+
+[[Category:Events]]

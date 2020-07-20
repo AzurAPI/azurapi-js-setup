@@ -1,0 +1,1341 @@
+{{EventInfobox
+ | Title = Microlayer Medley
+ | Banner = Microlayer Medley Event Banner EN.png
+ | Stories = [[File:Memory Microlayer Medley.png|158px|link=Memories/Microlayer Medley]]<br>[[Memories/Microlayer Medley|Microlayer Medley]]
+ | Dates =
+{{EventInfoDate
+ | Title = EN/JP/CN Servers
+ | Start = March 26th 2020
+ | End = April 8th 2020
+}}
+}}
+
+== Ships and Construction ==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Intrepid|CV||'''Construction (2.0%)<br />04:25:00'''}}
+{{ShipDisplay|5|Reno|CL||'''Construction (2.0%)<br />01:10:00 '''}}
+{{ShipDisplay|5|Bremerton|CA||'''Construction  (0.5%)<br />02:00:00 '''|'''[[#Shop|Point Shop]]<br />Map drop'''}}
+{{ShipDisplay|4|Cooper|DD||'''Construction  (2.5%)<br />00:29:00 '''}}
+{{ShipDisplay|3|Marblehead|CL||'''Construction (5.0%)<br />01:05:00'''}}
+{{ShipDisplay|3|Casablanca|CVL||'''[[#Shop|Point Shop]]<br />Map drop'''}}
+{{ShipDisplay|4|Bluegill|SS||'''[[#Milestone|Point Accumulation]]'''}}
+</div>
+
+== Skins ==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Z46|DD|Sport|Girls' Relay|{{Gem}} 1180*|1|L2D BG|112|y}}
+{{ShipDisplay|4|Cooper|DD|Sport|Blazing Tennis Battle|{{Gem}} 1100|1|L2D BG|132|y}}
+{{ShipDisplay|5|Baltimore|CA|Sport|Black Ace|{{Gem}} 900*|1|BG|132|y}}
+{{ShipDisplay|5|Bremerton|CA|Sport|Scorching-Hot Training|{{Gem}} 880|1|BG|112|y}}
+{{ShipDisplay|5|Intrepid|CV|Sport|One Intrepid Pitch|{{Gem}} 900*|1|BG|132|y}}
+{{ShipDisplay|5|Minneapolis|CA|Sport|eXtreme Games|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|5|Reno|CL|Sport|Biggest Little Cheerleader|{{Gem}} 900|1|BG|132|y}}
+{{ShipDisplay|4|Bluegill|SS|Sport|Up-And-Coming Infielder|{{Gem}} 800|1|BG|132|y}}
+{{ShipDisplay|3|Bache|DD|Sport|Showy Sports Star|{{Gem}} 800|1|BG|132|y}}
+{{ShipDisplay|3|Casablanca|CVL|Sport|Cheer Squad on Break|{{Gem}} 800|1|BG|132|y}}
+{{ShipDisplay|3|Marblehead|CL|Sport|Boxing Girl!|{{Gem}} 700|1|||y}}
+{{ShipDisplay|2|Cygnet|DD|Sport|Royal Fanfare|{{Gem}} 780|1|BG|112|y}}
+</div>
+
+Skins marked with * can be rented during the event. Renting allows you to use the skin '''for free''' for 2 days. Every player is allowed to rent twice during the event.
+
+== Furniture ==
+For the duration of the event, the furniture set '''"Manjuu Sports Meet"''' will be available in the dorm shop.
+{{:Furniture Sets/Manjuu Sports Meet}}
+
+== Equipment Skins ==
+For the duration of the event, the '''Gear Skin Box (Union)''' [[File:appearanceboxbaiying.png|25px|link=]] will be available in the [[Shops#General_Shop|General Shop]] for a price of 7000 Coins {{Coin}}. The following skins can be obtained by opening these boxes:
+{{:Equipment Skins/Eagle Union Staples}}
+
+== Tasks ==
+=== Daily Tasks ===
+For each day of the event, these three tasks will be available to be completed once and reset again at the end of the day:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|SilverWingPt|Rare|x300 Silver Wing Badge|35}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|SilverWingPt|Rare|x300 Silver Wing Badge|35}}
+|-
+| Sortie and clear 1 non-event Hard Mode Stage.
+| {{Display|SilverWingPt|Rare|x150 Silver Wing Badge|35}}
+|}
+
+=== Map Completion Tasks ===
+*There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once by either Normal or Hard maps.
+<div style="display:flex; flex-wrap:wrap">
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !A1/C1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SilverWingPt|Rare|x 200}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !A2/C2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SilverWingPt|Rare|x 400}}
+   | {{Display|Universal BullinIcon|P|[[Universal Bullin]]}}
+   |-
+   !A3/C3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|SilverWingPt|Rare|x 600}}
+   | {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !B1/D1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SilverWingPt|Rare|x 400}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !B2/D2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|SilverWingPt|Rare|x 600}}
+   | {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+   |-
+   !B3/D3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|SilverWingPt|Rare|x 800}}
+   | {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+ <div>
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   |-
+   !SP
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}}
+  |}
+  </div>
+</div>
+
+*Special furniture reward for clearing '''D3''' map:
+{{Display|FurnIcon usver3xunzhangicon|6|Canal Medal}}
+
+=== Achievement ===
+
+* By doing [[Under the Mist#Phase II|Under the Mist]] missions, you can unlock the special frame "Wings of Lightning".
+{{Display|307|6|Wings of Lightning}}
+
+== Maps ==
+* The event maps are split into corresponding normal and hard modes, giving a total of 6 maps for each mode, a '''SP stage''' and an '''EX stage'''. 
+* '''Silver Wing Badges''' [[File:SilverWingPt.png|25px|link=]] are rewarded for defeating the boss on any map (except EX), with '''SP''' giving a greater amount, but only being able to be cleared once per day. <span style="color:red">Normal maps will have x3 ''Silver Wing Badges'' [[File:SilverWingPt.png|25px|link=]] bonus for first clear each day.</span>
+* This event uses the [[Combat#Danger Level|Danger Level]] and the Siren mechanics.
+* The A3/C3 and B3/D3 bosses and some Sirens on B/D maps will be submarines. However these surface very rapidly (Skill: "Surface Mode") allowing S rank without ASW gear. Alternatively the non-boss submarine-type Sirens can be completely avoided since, unlike other Sirens, they do not advance on the players fleet.
+* New mechanic: '''Heavy Mist''' - Reduces accuracy of all ships by 5% on all maps.
+
+==== [[File:SilverWingPt.png|24px|link=|Silver Wing Badges]]&thinsp;Silver Wing Badges drops per map ====
+{| class="azltable" style="text-align: center;"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|30 [[File:SilverWingPt.png|25px|link=]]
+|'''C1'''
+|90 [[File:SilverWingPt.png|25px|link=]]
+|-
+|'''A2'''
+|40 [[File:SilverWingPt.png|25px|link=]]
+|'''C2'''
+|100 [[File:SilverWingPt.png|25px|link=]]
+|-
+|'''A3'''
+|50 [[File:SilverWingPt.png|25px|link=]]
+|'''C3'''
+|110 [[File:SilverWingPt.png|25px|link=]]
+|-
+|'''B1'''
+|60  [[File:SilverWingPt.png|25px|link=]]
+|'''D1'''
+|120  [[File:SilverWingPt.png|25px|link=]]
+|-
+|'''B2'''
+|70  [[File:SilverWingPt.png|25px|link=]]
+|'''D2'''
+|150  [[File:SilverWingPt.png|25px|link=]]
+|-
+|'''B3'''
+|80  [[File:SilverWingPt.png|25px|link=]]
+|'''D3'''
+|180  [[File:SilverWingPt.png|25px|link=]]
+|-
+! colspan="2" |'''Special'''
+| colspan="2" | 800 [[File:SilverWingPt.png|25px|link=]]
+|}
+====Ship Drops====
+{| class="azltable" style="text-align:center;margin-right:1em"
+|+ Ship Drops
+|-
+| style="background-color:PaleGoldenRod" | [[File:BremertonIcon.png|50px|link=Bremerton]]
+| [[Bremerton]]
+| B3, D3, SP (Boss node only)
+|-
+| style="background-color:PowderBlue" | [[File:CasablancaIcon.png|50px|link=Casablanca]]
+| [[Casablanca]]
+| B1/D1, B2/D2
+|}
+
+=== Normal ===
+<tabber>|-|A1={{Map
+<!-- General Information -->
+ | ctID = 1330001
+ | Title = Rescue Fleet
+ | Introduction = Baltimore's fleet is lost at sea. The rescue fleet put together to find them arrives at the Canal Stronghold.
+ | Requirements = None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 200 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 21-23, '''Siren''': 24
+ | MobExp1 = 105
+ | MobExp2 = 121
+ | MobExp3 = 138
+ | MobExpSiren = 162
+ | Boss = Explorer II
+ | BossLevel = 25
+ | BossExp = 181
+
+<!-- Stage Information -->
+ | BossBattleReq = 3
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 10 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 150
+ | ActualAirSupremacy = 100
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T3 Naval Camouflage|Naval Camouflage|1900}}
+{{EquipmentBox|3|T3 Single 120mm (Type 3)|Single 120mm (Type 3)|31100}}
+{{EquipmentBox|3|T1 Improved Sonar|Improved Sonar|3000}}
+{{EquipmentBox|3|T2 Improved Depth Charges|Improved Depth Charges|4100}}
+{{EquipmentBox|4|T3 Twin 20mm AA Oerlikon|Twin 20mm AA Oerlikon|16100}}
+ | ShipDrops = 
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Charles Ausburne|4}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable
+    | | |e| | |x
+    |e|x|x|e| |e
+    | |x|p| |s| 
+    |b|b|u| | |e
+    |e|b|p| |s| 
+    | |x|e|e| | 
+    |c|x|c|c|x|c
+  }}
+}}
+|-|A2={{Map
+<!-- General Information -->
+ | ctID = 1330002
+ | Title = Under the Mist
+ | Introduction = Enterprise attempts to pick up on Baltimore's trail, only to be engulfed by the mist herself. What are the Sirens plotting...?!
+ | Requirements = [[#A1|Clear A1]]
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = [[Universal Bullin]]
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 26-28, '''Siren''': 29
+ | MobExp1 = 130
+ | MobExp2 = 148
+ | MobExp3 = 168
+ | MobExpSiren = 196
+ | Boss = Oceana II
+ | BossLevel = 30
+ | BossExp = 217
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 221
+ | ActualAirSupremacy = 170
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T3 Triple 203mm (8"/55 Mk 9)|Triple 203mm (8"/55 Mk 9)|13000}}
+{{EquipmentBox|3|T3 20mm AA Oerlikon|20mm AA Oerlikon|16000}}
+{{EquipmentBox|3|T3 Single 127mm (SK C/34)|Single 127mm (SK C/34)|41000}}
+{{EquipmentBox|4|T3 Quadruple 28mm AA Chicago Piano|Quadruple 28mm AA Chicago Piano|16200}}
+{{EquipmentBox|4|T2 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+ | ShipDrops = 
+{{ShipDropIcon|London|4}}
+{{ShipDropIcon|Indianapolis|4}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable
+    | |e| |e|c|e
+    | |e| | |p| 
+    |x|x|x|e| | 
+    |s| | | | |s
+    |e| | | |x|x
+    | |p|e|u|x|x
+    |c| |x| | |b
+    | |c| |e|b|b
+  }}
+}}
+|-|A3={{Map
+<!-- General Information -->
+ | ctID = 1330003
+ | Title = From the Abyss
+ | Introduction = Intrepid searches for some way to disrupt the heavy mist. Blocking her way are a new type of Siren foe.
+ | Requirements = [[#A2|Clear A2]]
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, 600 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 1 [[File:BattleshipT3BP.png|30px]] T3 Battleship Retrofit Blueprint
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 31-33, '''Siren''': 34
+ | MobExp1 = 155
+ | MobExp2 = 176
+ | MobExp3 = 198
+ | MobExpSiren = 229
+ | Boss = Lurker I
+ | BossLevel = 35
+ | BossExp = 254
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 364
+ | ActualAirSupremacy = 280
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T3 Single 76mm (3"/50 caliber gun)|Single 76mm (3"/50 caliber gun)|11000}}
+{{EquipmentBox|3|T2 Submarine-mounted Mark 14 Torpedo|Submarine-mounted Mark 14 Torpedo|15000}}
+{{EquipmentBox|4|T3 Submarine-mounted Mark 14 Torpedo|Submarine-mounted Mark 14 Torpedo|15000}}
+{{EquipmentBox|4|T2 Submarine-mounted Mark 16 Torpedo|Submarine-mounted Mark 16 Torpedo|15100}}
+{{EquipmentBox|4|T3 Submarine-mounted G7a Torpedo|Submarine-mounted G7a Torpedo|45300}}
+ | ShipDrops = 
+{{ShipDropIcon|Glowworm|4}}
+{{ShipDropIcon|Cleveland|4}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable
+    |x|x|e|c|e|x| 
+    |x|p| |e| |p|x
+    |e| | |u| | |e
+    |c| |s|b|s| |c
+    |e| | |b| | |e
+    | |p| |b|x|x|x
+    |x| |e| |e| | 
+  }}
+ | Notes = The boss fleet contains submarines, it is advised to equip your vanguard with [[List of ASW Equipment|ASW gear]].
+}}
+|-|B1={{Map
+<!-- General Information -->
+ | ctID = 1330004
+ | Title = Return
+ | Introduction = Bluegill makes her triumphant return at a critical moment, but she also brings back new insight as to what is causing the massive waves.
+ | Requirements = [[#A3|Clear A3]]
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 41-43, '''Siren''': 44
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 297
+ | Boss = Peace Breaker II
+ | BossLevel = 45
+ | BossExp = 326
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 312
+ | ActualAirSupremacy = 240
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|3|T3 Twin 40mm Pom-Pom|Twin 40mm Pom-Pom|26000}}
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Twin 134mm (QF Mark II)|Twin 134mm (QF Mark II)|21500}}
+{{EquipmentBox|4|T2 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T2 Octuple 40mm Pom-Pom|Octuple 40mm Pom-Pom|26200}}
+ | ShipDrops = 
+{{ShipDropIcon|Nelson|4}}
+{{ShipDropIcon|Arizona|4}}
+{{ShipDropIcon|Casablanca|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable
+    | |c| |e|x|x|s|s
+    |c| |p| |e| | |s
+    |x|e| | | | | | 
+    |x|e| | |p| |e|x
+    |c| |u|e|x| | | 
+    |b| | |p|x| |e|e
+    |b|b|c| |e| |e| 
+  }}
+}}
+|-|B2={{Map
+<!-- General Information -->
+ | ctID = 1330005
+ | Title = Hero's Party
+ | Introduction = After enduring many hardships, the scattered heroes regroup to answer the call of justice. A stirring drama awaits.
+ | Requirements = [[#B1|Clear B1]]
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 600 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = [[Trial Bullin MKII]]
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 51-53, '''Siren''': 54
+ | MobExp1 = 255
+ | MobExp2 = 286
+ | MobExp3 = 318
+ | MobExpSiren = 364
+ | Boss = Strategist II
+ | BossLevel = 55
+ | BossExp = 399
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 494
+ | ActualAirSupremacy = 380
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Vought F4U Corsair|Vought F4U Corsair|17200}}
+{{EquipmentBox|4|T2 Grumman F6F Hellcat|Grumman F6F Hellcat|17300}}
+{{EquipmentBox|4|T3 Grumman TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T2 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+ | ShipDrops = 
+{{ShipDropIcon|Ark Royal|4}}
+{{ShipDropIcon|Lexington|4}}
+{{ShipDropIcon|Casablanca|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable
+    |c|e|p|p|e|c
+    |e| | | | |e
+    |x|x| | |x|x
+    |x|x|s|s|c|x
+    |p| | | | |p
+    |e| |b|b|u|e
+    | |e|x|x| |e
+    | |c|x|c| |e
+    | | |e| | |c
+  }}
+}}
+|-|B3={{Map
+<!-- General Information -->
+ | ctID = 1330006
+ | Title = The Mist Clears
+ | Introduction = The ocean groans and splits apart as the harbinger of doom surfaces.
+ | Requirements = [[#B2|Clear B2]]
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, 800 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 1 [[File:BattleshipT3BP.png|30px]] T3 Battleship Retrofit Blueprint
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 56-58, '''Siren''': 59
+ | MobExp1 = 280
+ | MobExp2 = 313
+ | MobExp3 = 348
+ | MobExpSiren = 398
+ | Boss = Compiler
+ | BossLevel = 60
+ | BossExp = 435
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 481
+ | ActualAirSupremacy = 370
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Triple 25mm AA Type 96|Triple 25mm AA Type 96|36300}}
+{{EquipmentBox|4|T3 Aichi E16A Zuiun|Aichi E16A Zuiun|39200}}
+{{EquipmentBox|4|T3 Submarine-mounted Type 92 Battery-powered Torpedo|Submarine-mounted Type 92 Battery-powered Torpedo|35400}}
+{{EquipmentBox|4|T2 Submarine-mounted Type 95 Oxygen Torpedo|Submarine-mounted Type 95 Oxygen Torpedo|35500}}
+{{EquipmentBox|4|T2 Submarine-mounted G7e Acoustic Homing Torpedo|Submarine-mounted G7e Acoustic Homing Torpedo|45400}}
+ | ShipDrops = 
+{{ShipDropIcon|Bremerton|5|Boss Only}}
+{{ShipDropIcon|Unicorn|4}}
+{{ShipDropIcon|Saratoga|4}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Tennessee|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable
+    |e| |e| |e| |e
+    |x| | |c| | |x
+    |x| |x|x|x| |x
+    |p| |b|b|b| |p
+    |c|e| |u| |e|c
+    |x|x|s| |s|x|x
+    |x|e| | | |e|x
+    |c| | |e| | |c
+    | |p|e| |e|p| 
+  }}
+}}</tabber>
+
+=== Hard ===
+
+<tabber>
+|-|C1={{Map
+<!-- General Information -->
+ | ctID = 1330021
+ | Title = Rescue Fleet
+ | Introduction = Baltimore's fleet is lost at sea. The rescue fleet put together to find them arrives at the Canal Stronghold.
+ | Requirements = None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 200 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 71-73, '''Siren''': 74
+ | MobExp1 = 355
+ | MobExp2 = 396
+ | MobExp3 = 438
+ | MobExpSiren = 499
+ | Boss = Explorer II
+ | BossLevel = 75
+ | BossExp = 544
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 17 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1014
+ | ActualAirSupremacy = 780
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{CA}} CA,  1 {{BB}} BB/BC
+ | Fleet2 = 
+ | StatRestrictions = Average Level >70, {{Firepower}} Total Firepower >500, {{Torpedo}} Total Torpedo >400
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Single 127mm (5"/38 Mk 30)|Single 127mm (5"/38 Mk 30)|11100}}
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Twin 20mm AA Oerlikon|Twin 20mm AA Oerlikon|16100}}
+{{EquipmentBox|4|T2 Improved Sonar|Improved Sonar|3000}}
+{{EquipmentBox|4|T3 Improved Depth Charges|Improved Depth Charges|4100}}
+ | ShipDrops = 
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Charles Ausburne|4}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    | | |e| | |x
+    |e|x|x|e| |e
+    | |x|p| |s| 
+    |b|b|u| | |e
+    |e|b|p| |s| 
+    | |x|e|e| | 
+    |c|x|c|c|x|c
+  }}
+}}
+|-|C2={{Map
+<!-- General Information -->
+ | ctID = 1330022
+ | Title = Under the Mist
+ | Introduction = Enterprise attempts to pick up on Baltimore's trail, only to be engulfed by the mist herself. What are the Sirens plotting...?!
+ | Requirements = [[#C1|Clear C1]]
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = [[Universal Bullin]]
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 76-78, '''Siren''': 79
+ | MobExp1 = 380
+ | MobExp2 = 423
+ | MobExp3 = 468
+ | MobExpSiren = 533
+ | Boss = Oceana II
+ | BossLevel = 80
+ | BossExp = 580
+
+<!-- Stage Information -->
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 17 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1196
+ | ActualAirSupremacy = 920
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{CA}} CA,  1 {{BB}} BB/BC
+ | Fleet2 = 
+ | StatRestrictions = Average Level >75, {{Firepower}} Total Firepower >650, {{Evasion}} Total Evasion >350
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Repair Toolkit|Repair Toolkit|2400}}
+{{EquipmentBox|4|T3 Single 127mm (5"/38 Mk 30)|Single 127mm (5"/38 Mk 30)|11100}}
+{{EquipmentBox|4|T3 Quadruple 28mm AA Chicago Piano|Quadruple 28mm AA Chicago Piano|16200}}
+{{EquipmentBox|4|T2 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+{{EquipmentBox|5|T3 Twin 203mm (SK C/34)|Twin 203mm (SK C/34)|43000}}
+ | ShipDrops = 
+{{ShipDropIcon|London|4}}
+{{ShipDropIcon|Indianapolis|4}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    | |e| |e|c|e
+    | |e| | |p| 
+    |x|x|x|e| | 
+    |s| | | | |s
+    |e| | | |x|x
+    | |p|e|u|x|x
+    |c| |x| | |b
+    | |c| |e|b|b
+  }}
+}}
+|-|C3={{Map
+<!-- General Information -->
+ | ctID = 1330023
+ | Title = From the Abyss
+ | Introduction = Intrepid searches for some way to disrupt the heavy mist. Blocking her way are a new type of Siren foe.
+ | Requirements = [[#C2|Clear C2]]
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, 600 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 1 [[File:BattleshipT3BP.png|30px]] T3 Battleship Retrofit Blueprint
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 81-83, '''Siren''': 84
+ | MobExp1 = 405
+ | MobExp2 = 451
+ | MobExp3 = 498
+ | MobExpSiren = 567
+ | Boss = Lurker I
+ | BossLevel = 85
+ | BossExp = 616
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 21 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1482
+ | ActualAirSupremacy = 1140
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{CA}} CA,  1 {{BB}} BB/BC
+ | Fleet2 = 
+ | StatRestrictions = Average Level >80, {{Firepower}} Total Firepower >800, {{Reload}} Total Reload >800
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 76mm AA Gun (3"/50 Mk 22)|76mm AA Gun (3"/50 Mk 22)|26300}}
+{{EquipmentBox|4|T3 Submarine-mounted Mark 14 Torpedo|Submarine-mounted Mark 14 Torpedo|15000}}
+{{EquipmentBox|4|T2 Submarine-mounted Mark 16 Torpedo|Submarine-mounted Mark 16 Torpedo|15100}}
+{{EquipmentBox|4|T3 Submarine-mounted G7a Torpedo|Submarine-mounted G7a Torpedo|45300}}
+{{EquipmentBox|5|T3 Submarine-mounted Mark 16 Torpedo|Submarine-mounted Mark 16 Torpedo|15100|||<small>Boss & Siren</small>}}
+ | ShipDrops = 
+{{ShipDropIcon|Glowworm|4}}
+{{ShipDropIcon|Cleveland|4}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    |x|x|e|c|e|x| 
+    |x|p| |e| |p|x
+    |e| | |u| | |e
+    |c| |s|b|s| |c
+    |e| | |b| | |e
+    | |p| |b|x|x|x
+    |x| |e| |e| | 
+  }}
+ | Notes = The boss fleet contains submarines, it is advised to equip your vanguard with [[List of ASW Equipment|ASW gear]].
+}}
+|-|D1={{Map
+<!-- General Information -->
+ | ctID = 1330024
+ | Title = Return
+ | Introduction = Bluegill makes her triumphant return at a critical moment, but she also brings back new insight as to what is causing the massive waves.
+ | Requirements = [[#C3|Clear C3]]
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 500 {{oil}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 91-93, '''Siren''': 94
+ | MobExp1 = 455
+ | MobExp2 = 506
+ | MobExp3 = 558
+ | MobExpSiren = 634
+ | Boss = Peace Breaker II
+ | BossLevel = 95
+ | BossExp = 689
+
+<!-- Stage Information -->
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1417
+ | ActualAirSupremacy = 1090
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{DD}} DD,  1 {{CL}} CL,  1 {{BB}} BB
+ | Fleet2 = 1 {{DD}} DD,  1 {{CA}} CA,  1 {{CV}} CV
+ | StatRestrictions = Average Level >90, {{Firepower}} Total Firepower >950, {{Evasion}} Total Evasion >600
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Twin 134mm (QF Mark II)|Twin 134mm (QF Mark II)|21500}}
+{{EquipmentBox|4|T2 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T2 Octuple 40mm Pom-Pom|Octuple 40mm Pom-Pom|26200}}
+{{EquipmentBox|5|T3 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+ | ShipDrops = 
+{{ShipDropIcon|Nelson|4}}
+{{ShipDropIcon|Arizona|4}}
+{{ShipDropIcon|Casablanca|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    | |c| |e|x|x|s|s
+    |c| |p| |e| | |s
+    |x|e| | | | | | 
+    |x|e| | |p| |e|x
+    |c| |u|e|x| | | 
+    |b| | |p|x| |e|e
+    |b|b|c| |e| |e| 
+  }}
+}}
+|-|D2={{Map
+<!-- General Information -->
+ | ctID = 1330025
+ | Title = Hero's Party
+ | Introduction = After enduring many hardships, the scattered heroes regroup to answer the call of justice. A stirring drama awaits.
+ | Requirements = [[#D1|Clear D1]]
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 600 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = [[Trial Bullin MKII]]
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 96-98, '''Siren''': 99
+ | MobExp1 = 480
+ | MobExp2 = 533
+ | MobExp3 = 588
+ | MobExpSiren = 668
+ | Boss = Strategist II
+ | BossLevel = 100
+ | BossExp = 725
+
+<!-- Stage Information -->
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1963
+ | ActualAirSupremacy = 1510
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{DD}} DD,  1 {{CL}} CL,  1 {{BB}} BB
+ | Fleet2 = 1 {{DD}} DD,  1 {{CA}} CA,  1 {{CV}} CV
+ | StatRestrictions = Average Level >95, {{Firepower}} Total Firepower >1100, {{AA}} Total Antiaircraft >1600
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Grumman F6F Hellcat|Grumman F6F Hellcat|17300}}
+{{EquipmentBox|4|T3 Grumman TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T3 Curtiss SB2C Helldiver|Curtiss SB2C Helldiver|19100}}
+{{EquipmentBox|4|T2 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+{{EquipmentBox|5|T3 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+ | ShipDrops = 
+{{ShipDropIcon|Ark Royal|4}}
+{{ShipDropIcon|Lexington|4}}
+{{ShipDropIcon|Casablanca|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    |c|e|p|p|e|c
+    |e| | | | |e
+    |x|x| | |x|x
+    |x|x|s|s|c|x
+    |p| | | | |p
+    |e| |b|b|u|e
+    | |e|x|x| |e
+    | |c|x|c| |e
+    | | |e| | |c
+  }}
+}}
+|-|D3={{Map
+<!-- General Information -->
+ | ctID = 1330026
+ | Title = The Mist Clears
+ | Introduction = The ocean groans and splits apart as the harbinger of doom surfaces.
+ | Requirements = [[#D2|Clear D2]]
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, 800 [[File:SilverWingPt.png|30px]]
+ | 3StarReward = 1 [[File:BattleshipT3BP.png|30px]] T3 Battleship Retrofit Blueprint
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 101-103, '''Siren''': 104
+ | MobExp1 = 505
+ | MobExp2 = 561
+ | MobExp3 = 618
+ | MobExpSiren = 702
+ | Boss = Compiler
+ | BossLevel = 105
+ | BossExp = 761
+
+<!-- Stage Information -->
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1924
+ | ActualAirSupremacy = 1480
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{DD}} DD,  1 {{CL}} CL,  1 {{BB}} BB
+ | Fleet2 = 1 {{DD}} DD,  1 {{CA}} CA,  1 {{CV}} CV
+ | StatRestrictions = Average Level >100, {{Firepower}} Total Firepower >1500, {{Torpedo}} Total Torpedo >1500
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Triple 25mm AA Type 96|Triple 25mm AA Type 96|36300}}
+{{EquipmentBox|4|T3 Aichi E16A Zuiun|Aichi E16A Zuiun|39200}}
+{{EquipmentBox|4|T3 Submarine-mounted Type 92 Battery-powered Torpedo|Submarine-mounted Type 92 Battery-powered Torpedo|35400}}
+{{EquipmentBox|4|T2 Submarine-mounted Type 95 Oxygen Torpedo|Submarine-mounted Type 95 Oxygen Torpedo|35500}}
+{{EquipmentBox|5|T3 Submarine-mounted Type 95 Oxygen Torpedo|Submarine-mounted Type 95 Oxygen Torpedo|35500|||<small>Boss & Siren</small>}}
+ | ShipDrops = 
+{{ShipDropIcon|Bremerton|5|Boss Only}}
+{{ShipDropIcon|Unicorn|4}}
+{{ShipDropIcon|Saratoga|4}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Tennessee|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    |e| |e| |e| |e
+    |x| | |c| | |x
+    |x| |x|x|x| |x
+    |p| |b|b|b| |p
+    |c|e| |u| |e|c
+    |x|x|s| |s|x|x
+    |x|e| | | |e|x
+    |c| | |e| | |c
+    | |p|e| |e|p| 
+  }}
+}}</tabber>
+
+=== Special ===
+
+<tabber>
+|-|SP={{Map
+<!-- General Information -->
+ | ctID = 1330041
+ | Title = Stars in the Firmament
+ | Introduction = "All the lights in the skies are our friends, but all the lights in the ocean are our enemies." Commander, will there come a day when the fighting stops?
+ | Requirements = [[#D3|Clear D3]]
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}
+
+<!-- Enemy Fleet Information -->
+ | MobLevel = 110-110, '''Siren''': 110
+ | MobExp1 = 550
+ | MobExp2 = 605
+ | MobExp3 = 660
+ | MobExpSiren = 742
+ | Boss = 
+ | BossLevel = 110
+ | BossExp = 797
+
+<!-- Stage Information -->
+ | BossBattleReq = 7
+ | BossBattleClear = 1
+ | Star1 = 
+ | Star2 = 
+ | Star3 = 
+ | SuggestedAirSupremacy = 2574
+ | ActualAirSupremacy = 1980
+ | StatRestrictions = Average Level >110
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{Coin}} Coins
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+{{EquipmentBox|4|T3 Twin 134mm (QF Mark II)|Twin 134mm (QF Mark II)|21500}}
+{{EquipmentBox|4|T2 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T2 Octuple 40mm Pom-Pom|Octuple 40mm Pom-Pom|26200}}
+{{EquipmentBox|5|T3 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+ | ShipDrops = 
+{{ShipDropIcon|Bremerton|5|Boss Only}}
+{{ShipDropIcon|Nelson|4}}
+{{ShipDropIcon|Arizona|4}}
+{{ShipDropIcon|Tennessee|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Repulse|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Richmond|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable
+    |c|x|e|e| |p|e
+    |p|x| | | |x|x
+    | | |s|b|c| |e
+    |e| |b|u|b| |e
+    |e| |c|b|s| | 
+    |x|x| | | |x|p
+    |e|p| |e|e|x|e
+  }}
+}}
+|-|EXTRA={{Map
+<!-- General Information -->
+ | ctID = 1330051
+ | Title = Microlayer Medley
+ | Introduction = They were born into a tumultous era and knew no peace. However, their ironclad wills did not succumb to despair. Even in the mist, they continued to struggle.
+ | Requirements = [[#D3|Clear D3]]
+ | ClearReward = 
+ | 3StarReward = 
+
+<!-- Enemy Fleet Information -->
+ | Boss = 
+ | BossLevel = 120
+ | BossExp = 0
+
+<!-- Stage Information -->
+ | BossBattleReq = 0
+ | BossBattleClear = 1
+ | SuggestedAirSupremacy = 810
+ | ActualAirSupremacy = 620
+
+<!-- Hardmode Restrictions -->
+ | Fleet1 = 1 {{BB}} BB
+ | Fleet2 = 
+ | StatRestrictions = 
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | PreviewFile = 
+ | NodeMap = {{MapTable
+    | | | | | 
+    | | | | | 
+    | |x|x|x| 
+    | |x|b|x| 
+    |x|x| |x|x
+    |x|x| |x|x
+    | | |s| | 
+  }}
+}}
+</tabber>
+
+== Shop ==
+In the ''Silver Wing Badges Exchange Shop'' the earned '''Silver Wing Badges''' [[File:SilverWingPt.png|25px|link=]] can be exchanged for the items listed below. The shop will be available until April 15th after the end of the event period.
+*'''Note:''' This shop contains five copies of each Bremerton and Casablanca, which brings the total cost to clear the entire shop to 127,550 Silver Wing Badges [[File:SilverWingPt.png|25px|link=]]. The total cost when buying only one copy of each is 87,550 Silver Wing Badges [[File:SilverWingPt.png|25px|link=]].
+
+{{EventShop
+ | ShopName = Microlayer Medley
+ | TotalPt = 127550
+ | PtImage = SilverWingPt
+
+ | ColorScheme = #4169E1
+ | Image = Bremerton
+ | Size = 600
+ | Top = -35
+ | Left = 0
+
+ | Items = 
+{{EventShopItem|Super Rare|Bremerton|Bremerton|BremertonIcon|5|8000|SilverWingPt|1}}
+{{EventShopItem|Rare|Casablanca|Casablanca|CasablancaIcon|5|2000|SilverWingPt|1}}
+{{EventShopItem|Super Rare|Gear Skin Box (Union)|#Equipment Skins|appearanceboxbaiying|10|2000|SilverWingPt|1}}
+{{EventShopItem|Super Rare|TBM Avenger (VT-18 Squadron)|TBM Avenger (VT-18 Squadron)|18180|1|2000|SilverWingPt|1}}
+{{EventShopItem|Elite|PBY-5A Catalina|PBY-5A Catalina|15500|1|1000|SilverWingPt|1}}
+{{EventShopItem|Super Rare|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SilverWingPt|1}}
+{{EventShopItem|Super Rare|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SilverWingPt|1}}
+{{EventShopItem|Super Rare|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SilverWingPt|1}}
+{{EventShopItem|Super Rare|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|SilverWingPt|1}}
+{{EventShopItem|Super Rare|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|SilverWingPt|100}}
+{{EventShopItem|Rare|Rare Cat Box||Cat Box Rare|10|250|SilverWingPt|1}}
+{{EventShopItem|Elite|Elite Cat Box||Cat Box Elite|5|500|SilverWingPt|1}}
+{{EventShopItem|Super Rare|Super Rare Cat Box||Cat Box Super Rare|2|3000|SilverWingPt|1}}
+{{EventShopItem|Super Rare|Strengthening Unit S2|Research|AllSUnit2|30|500|SilverWingPt|1}}
+{{EventShopItem|Legendary|Special Strengthening Unit S2|Research|AllSUnit3|10|1000|SilverWingPt|1}}
+{{EventShopItem|Elite|T3 General Part||AuxT3Plate|30|30|SilverWingPt|1}}
+{{EventShopItem|Elite|T3 Main Gun Part||GunT3Plate|30|30|SilverWingPt|1}}
+{{EventShopItem|Elite|T3 Torpedo Part||TorpT3Plate|30|30|SilverWingPt|1}}
+{{EventShopItem|Elite|T3 Anti-Air Gun Part||AAT3Plate|30|30|SilverWingPt|1}}
+{{EventShopItem|Elite|T3 Aircraft Part||PlaneT3Plate|30|30|SilverWingPt|1}}
+{{EventShopItem|Normal|Coins||Coinicon|5|500|SilverWingPt|2000}}
+{{EventShopItem|Normal|Oil||Oilicon|5|450|SilverWingPt|1000}}
+{{EventShopItem|Rare|Oxy-cola|Living_Area#Refilling_supplies|Food1|100|15|SilverWingPt|1}}
+}}
+
+== Milestone ==
+{| class="wikitable" style="text-align:center"
+![[File:SilverWingPt.png|25px|link=]]
+!Reward
+![[File:SilverWingPt.png|25px|link=]]
+!Reward
+![[File:SilverWingPt.png|25px|link=]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|Elite|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|Normal|3000x Coins}}
+|1000
+|{{Display|Moduleicon|Super Rare|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|Normal|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|DestroyerT2BP|Elite|1x T2 Destroyer Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|Normal|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|4000
+|{{Display|BattleshipT2BP|Elite|1x T2 Battleship Retrofit Blueprint}}
+|4500
+|{{Display|CarrierT2BP|Elite|1x T2 Carrier Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|Super Rare|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|Super Rare|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|BattleshipT3BP|Super Rare|1x T3 Battleship Retrofit Blueprint}}
+|8500
+|{{Display|CarrierT3BP|Super Rare|1x T3 Carrier Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|Super Rare|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|10000
+|{{Display|BluegillIcon|Elite|1x [[Bluegill]]}}
+|11000
+|{{Display|UnknownT3Book|Super Rare|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|15000
+|{{Display|AllSUnit3|Legendary|1x Special Strengthening Unit S2}}
+|20000
+|{{Display|BluegillIcon|Elite|1x [[Bluegill]]}}
+|25000
+|{{Display|AllSUnit3|Legendary|2x Special Strengthening Unit S2}}
+|-
+|30000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|Super Rare|5x T3 Random Skill Book}}
+|40000
+|{{Display|BluegillIcon|Elite|1x [[Bluegill]]}}
+|-
+|45000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|AllSUnit3|Legendary|2x Special Strengthening Unit S2}}
+|55000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|BluegillIcon|Elite|1x [[Bluegill]]}}
+|80000
+|{{Display|T5Box|Legendary|1x T5 Eagle Tech Pack}}
+|100000
+|{{Display|T5Box|Legendary|1x T5 Eagle Tech Pack}}
+|-
+|}
+
+== See Also ==
+* [[Under the Mist]], the associated event
+* [[Events]]
+
+[[Category:Events]]

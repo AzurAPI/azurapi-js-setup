@@ -1,0 +1,87 @@
+{{ContentBox
+|text = white
+|border = #000
+|header = #206040
+|body = #404040
+|logo = OoshioPartyChibi.png{{!}}60px
+|title = "Woozy Party" event
+|marginTop = 10px
+|content = <div style="padding-bottom:3px; color:white">
+* '''CN/JP/EN servers: September 19th - October 2nd 2019'''
+* '''Event story: [[Memories/Swept Away in the Moment|<span style="color:white; text-decoration:underline solid white">Swept Away in the Moment</span>]]'''
+</div>
+}}
+
+[[File:Woozy Party Banner EN.png|500px]]
+
+{{ShipDisplay|3|Ooshio|DD|Party|Woozy Party||2|BG|117}}
+== Tasks ==
+*From September 19th to September 25th, two missions will unlock daily. Complete all missions to receive [[Ooshio]]s skin "Woozy Party".
+
+{{MissionHeader}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-1
+ | descen1 = Sortie and obtain 10 Perfect victories.
+ | descen2 = Enhance gear 2 times.
+ | reward1 = {{Display|SkinTicket|Super Rare|1x Rental Outfit Voucher (Exp. Date: Nove. 13th)}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 1
+}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-2
+ | descen1 = Conduct 2 Exercises.
+ | descen2 = Complete 2 Commissions.
+ | reward1 = {{Display|Cat Box Elite|Elite|1x Elite Cat Box}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 2
+}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-3
+ | descen1 = Retire 2 ships.
+ | descen2 = Complete 3 Daily Challenges.
+ | reward1 = {{Display|Coinicon|Normal|100x Coins}}
+ | reward2 = {{Display|SkinTicket|Super Rare|1x Rental Outfit Voucher (Exp. Date: Nove. 13th)}}
+ | notes = Day 3
+}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-4
+ | descen1 = Enhance ships 5 times.
+ | descen2 = Conduct tactical training 2 times.
+ | reward1 = {{Display|Cat Box Elite|Elite|1x Elite Cat Box}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 4
+}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-5
+ | descen1 = Resupply the Dorm with Snacks 5 times.
+ | descen2 = Defeat 20 enemies.
+ | reward1 = {{Display|Cat Box Rare|Rare|4x Rare Cat Box}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 5
+}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-6
+ | descen1 = Build 2 ships.
+ | descen2 = Open a Tech Box.
+ | reward1 = {{Display|Coinicon|Normal|100x Coins}}
+ | reward2 = {{Display|Cat Box Elite|Elite|2x Elite Cat Box}}
+ | notes = Day 6
+}}
+{{MissionDouble
+ | type = Event
+ | listnum = WP-7
+ | descen1 = Sortie and defeat 3 boss fleets.
+ | descen2 = Conduct tactical training 2 times.
+ | reward1 = {{Display|Cat Box Super Rare|Super Rare|1x Super Rare Cat Box}}
+ | reward2 = {{Display|OoshioPartyIcon|Normal|1x Woozy Party}}
+ | notes = Day 7
+}}
+|}
+
+[[Category:Events]]

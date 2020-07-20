@@ -1,0 +1,111 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #d0444e
+|body = #236449
+|logo = WakabaChristmasChibi.png{{!}}80px
+|title = "Christmas 2019" Event
+|marginTop = 10px
+|content = <div class="darklinks" style="padding:5px 0px 10px 0px; color:#eeeeee">
+* '''CN/JP/EN Server: December 19th 2019 - January 2nd 2020'''
+* '''Event Story: [[Memories/Christmas_Party!|Christmas Party!]]'''
+</div>
+}}
+This event introduces eight [[#Event Skins|new skins]] (six for EN), reintroduces four skins and another six skins are becoming permanently available. A [[#Event Furniture|new furniture set]] is introduced and a [[#Event Tasks|seven-day-mission]] to aquire "[[Wakaba]]'s" skin "Holiday Special Wakaba!" is added.
+
+== Event Skins ==
+*For the duration of the event, the following skins will be available in the '''skin shop''':
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|HMS Neptune|CL|Christmas|Princess of Reindeers|{{Ruby}} 900|1|BG|125|y}}
+{{ShipDisplay|5|Seattle|CL|Christmas|Christmas Party!|{{Ruby}} 800|1|BG|125|y}}
+{{ShipDisplay|4|Agano|CL|Christmas|Christmas Eve Tease|{{Ruby}} 800|1|BG|125|y}}
+{{ShipDisplay|3|Concord|CL|Christmas|Sweet☆Christmas|{{Ruby}} 800|1|BG|125|y}}
+{{ShipDisplay|3|Dewey|DD|Christmas|Thanks For Winter|{{Ruby}} 800|1|BG|125|y}}
+{{ShipDisplay|3|Isuzu|CL|Christmas|Cozy Christmas Eve|{{Ruby}} 800|1|BG|125|y}}
+{{ShipDisplay|3|Kiyonami|DD|Christmas|Festive Riding Hood|{{Ruby}} 800|1|BG|125|y}}
+{{ShipDisplay|3|Wakaba|DD|Christmas|Holiday Special Wakaba!|[[Christmas 2019]]|2|BG|125|y}}
+</div>
+
+*For the duration of the event, the following skins will '''return''' to the skin shop:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Warspite|BB|Christmas|'''Gift from a Warrior'''|{{Ruby}} 880|1|BG|100}}
+{{ShipDisplay|4|Nicholas|DD|Christmas|'''Mispackaging?'''|{{Ruby}} 780|1|BG|100}}
+{{ShipDisplay|3|Honolulu|CL|Christmas|'''Fire Red Present'''|{{Ruby}} 780|1|BG|100}}
+{{ShipDisplay|3|Urakaze|DD|Christmas|'''Christmas Shogun'''|{{Ruby}} 780|1|BG|100}}
+</div>
+
+*The following skins will return and '''become permanently available''' in the skin shop:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Enterprise|CV|Christmas|'''Reindeer Master'''|{{Ruby}} 880||BG|100}}
+{{ShipDisplay|5|Eldridge|DD|Christmas|'''Holy Night's Embrace'''|{{Ruby}} 780||BG|100}}
+{{ShipDisplay|5|San Diego|CL|Christmas|'''Sandy Claus!'''|{{Ruby}} 680||BG|100}}
+{{ShipDisplay|3|Yamashiro|BB|Christmas|'''Christmas Offensive'''|{{Ruby}} 680||BG|100}}
+{{ShipDisplay|2|Cygnet|DD|Christmas|'''Holy Night's Hymn'''|{{Ruby}} 680||BG|100}}
+{{ShipDisplay|2|Mutsuki|DD|Christmas|'''Mr Reindeer, Depart!'''|{{Ruby}} 600||BG|100}}
+</div>
+
+== Event Furniture ==
+{{Main|List of Furniture Sets}}
+For the duration of the event, the  new furniture set '''"Fairytale Town"''' and returning furniture set '''"Christmas Town"'''' will be available in the dorm. Additionally the sets "Christmas Town" and "[[List of Furniture Sets#Christmas|Christmas]]" will be '''on sale''' for 20% price reduction.
+
+=== Fairytale Town ===
+{{:Furniture Sets/Fairytale Town}}
+
+=== Christmas Town ===
+{{:Furniture Sets/Christmas Town}}
+
+== Event Tasks ==
+*From December 19th to December 25th, two missions will unlock daily. Complete all missions to receive [[Wakaba]]s skin "Holiday Special Wakaba!".
+{{MissionHeader}}
+{{MissionDouble
+ | descen1 = Sortie and defeat 3 Boss Fleets.
+ | descen2 = Log in to the game.
+ | reward1 = {{Display|UnknownT2Plate|Rare|5x T2 Random Gear Part}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 1
+}}
+{{MissionDouble
+ | descen1 = Complete 3 Daily Challenges.
+ | descen2 = Retire 2 ships.
+ | reward1 = {{Display|UnknownT2BP|Elite|2x T2 Random Retrofit Blueprint}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 2
+}}
+{{MissionDouble
+ | descen1 = Conduct tactical training 2 times.
+ | descen2 = Resupply the Dorm with Snacks 5 times.
+ | reward1 = {{Display|T2Box|Rare|3x Random T2 Tech Pack}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 3
+}}
+{{MissionDouble
+ | descen1 = Defeat 20 enemies.
+ | descen2 = Build 2 ships.
+ | reward1 = {{Display|FoodChristmas|Rare|3x Candy Cane}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 4
+}}
+{{MissionDouble
+ | descen1 = Open 1 Tech Box.
+ | descen2 = Enhance ships 5 times.
+ | reward1 = {{Display|T3Box|Elite|1x Random T3 Tech Pack}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 5
+}}
+{{MissionDouble
+ | descen1 = Complete 2 commissions.
+ | descen2 = Conduct 2 Exercises.
+ | reward1 = {{Display|UnknownT3Book|Super Rare|2x T3 Random Skill Book}}
+ | reward2 = {{Display|Coinicon|Normal|100x Coins}}
+ | notes = Day 6
+}}
+{{MissionDouble
+ | descen1 = Enhance gear 2 times.
+ | descen2 = Sortie and obtain 10 Perfect victories.
+ | reward1 = {{Display|T4Box|Super Rare|1x Random T4 Tech Pack}}
+ | reward2 = {{Display|WakabaChristmasIcon|Normal|1x Holiday Special Wakaba!}}
+ | notes = Day 7
+}}
+|}
+
+[[Category:Events]]

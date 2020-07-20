@@ -1,0 +1,84 @@
+{{ContentBox
+|text = black
+|border = #61FFAC
+|header = #61FFAC
+|body = #81FFEC
+|logo = CentaurChibi.png{{!}}80px
+|title = "Midsummer Sagittarius" Event
+|marginTop = 10px
+|content = <div style="padding:0 0 4px 0; color:black">
+* '''CN/JP/KR Server: August 20th - August 29th 2018'''
+* '''EN Server: July 24th - August 2nd 2019'''
+* '''Event Story:''' [[Memories/Midsummer_Sagittarius|Midsummer Sagittarius]]
+</div>
+}}
+
+== Event Ships ==
+
+[[File:Centaur_Limited_Construction_JP.png|500px]]
+
+*During the event and for a limited rate-up time, [[Centaur]] will be available to be constructed from '''Special Construction''' banner.
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Centaur|CVL||''03:00:00''|'''2%'''}}
+</div>
+
+== Daily Event Missions ==
+
+* These event missions are time-gated from July 24th - 29th.
+
+[[File:CentaurEvent.png|500px]]
+
+* Tap the event banner to receive the event tasks. New tasks will unlock every day. Complete all 7 tasks and gather all items to receive the [[Hawker Sea Fury]] plane.
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = E26-01
+|desccn = 舰队出征，获得3次胜利<br>艦隊を出撃させ、3回勝利せよ！ 
+|descen = Sortie and obtain 3 victories.
+|reward = {{Display|UnknownT2Book|P|[[Living_Area#Tactical_Classroom|2x Random T2 Skill Book]]}}
+|notes = Day 1
+}}
+{{Mission
+|type = Event
+|listnum = E26-02
+|desccn =ハードモードステージを3回クリアする<br>困难模式通关3次
+|descen = Clear any Hardmode map 3 times.
+|reward = {{Display|UnknownT2Book|P|[[Living_Area#Tactical_Classroom|2x Random T2 Skill Book]]}}
+|notes = Day 2
+}}
+{{Mission
+|type = Event
+|listnum = E26-03
+|desccn = 舰队出征，获得10次胜利<br>艦隊を出撃させ、10回勝利せよ！ 
+|descen = Sortie and obtain 10 victories.
+|reward = {{Display|DestroyerT2BP|P|[[Dockyard#Retrofit|2x T2 Destroyer Blueprints]]}}
+|notes = Day 3
+}}
+{{Mission
+|type = Event
+|listnum = E26-04
+|desccn = 敵中枢艦隊を3回撃破する<br>通关地图3次
+|descen = Defeat 3 bosses.
+|reward = {{Display|UnknownT3Plate|P|[[Equipment#Upgrading|3x Random T3 Plates]]}}
+|notes = Day 4
+}}
+{{Mission
+|type = Event
+|listnum = E26-05
+|desccn = デイリーチャレンジを3回クリアする<br>完成3次每日副本挑战 
+|descen = Clear Daily Raid 3 times.
+|reward = {{Display|UnknownT3Plate|P|[[Equipment#Upgrading|3x Random T3 Plates]]}}
+|notes = Day 5
+}}
+{{Mission
+|type = Event
+|listnum = E26-06
+|desccn = 敵中枢艦隊を5回撃破する<br>通关地图5次
+|descen = Defeat 5 bosses.
+|reward = {{Display|27300|G|[[Hawker Sea Fury]]}}
+|notes = Day 6
+}}
+|}
+
+[[Category:Events]]

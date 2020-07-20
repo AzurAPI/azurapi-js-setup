@@ -1,0 +1,1093 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #BC002D
+|body = #ea818b
+|logo = Zuikaku_head.png
+|title = "Visitors Dyed in Red" Event
+|marginTop = 10px
+|content = 
+* '''JP Server: October 27th - November 9th 2017'''
+* '''CN Server: September 28th - October 12th 2017'''
+* '''KR Server: ?'''
+* '''EN Server: September 30th - October 19th 2018'''
+* '''For information on the rerun of the event, visit [[Visitors Dyed in Red Rerun|this page]].'''
+}}
+
+{| class="wikitable"
+|-
+|[[File:Visitors Dyed In Red EN.png|500px]]
+|}
+
+*During the Event, there will be two active and available chapters featuring two difficulty modes: Hard and Normal. The Difficulty can be changed whenever, and their progress will be tracked separately. Each successful boss kill will yield you the exchangeable item '''Painted Horse''' (Ema). There is a daily bonus where the amount of Ema dropped per day on each map will be multiplied by 3.
+
+==Event Ships==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Shoukaku|CV||'''{{Tooltip|Construction|04:30:00}}'''}}
+{{ShipDisplay|5|Zuikaku|CV||'''{{Tooltip|Drop|B3, D3<hr>Boss node only}}, {{Tooltip|Construction|04:30:00}},<br>{{Tooltip|Event Shop|[[File:EmaPt.png|22px]] 8000}}'''}}
+{{ShipDisplay|4|Nowaki|DD||'''{{Tooltip|Construction|00:27:00}}'''}}
+{{ShipDisplay|3|Ise|BB||'''{{Tooltip|Construction|04:25:00}}'''}}
+{{ShipDisplay|3|Hyuuga|BB||'''{{Tooltip|Construction|04:25:00}}'''}}
+{{ShipDisplay|3|Akatsuki|DD||'''{{Tooltip|Drop|A3, B3, C3, D1, D2, D3}}'''}}
+</div>
+
+==Limited Craft==
+
+{| class="wikitable"
+|-
+|[[File:Visitors Dyed In Red EN Construction.png|500px]]
+|}
+
+* During the event and for a limited time five new ships will be available to be constructed from limited construction banner.
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Zuikaku|CV||''04:30:00''|'''0.7%'''}}
+{{ShipDisplay|5|Shoukaku|CV||''04:30:00''|'''2%'''}}
+{{ShipDisplay|4|Nowaki|DD||''00:27:00''|'''4%'''}}
+{{ShipDisplay|3|Ise|BB||''04:25:00''|'''6.75%'''}}
+{{ShipDisplay|3|Hyuuga|BB||''04:25:00''|'''6.75%'''}}
+</div>
+
+* Ships in limited construction will later be added to permanent pool.
+
+==Event Maps==
+
+{| class="wikitable"
+|-
+|[[File:Visitors Dyed in Red - Map_EN.png|500px]]
+|}
+
+*The event maps are split featuring a normal and a hard mode each consisting of 6 maps for a total of 12. '''"Ema"''' [[File:EmaPt.png|25px]] is rewarded for defeating the boss at any map.
+
+*New ship drop locations and [[File:EmaPt.png|25px]] rewards:
+**All Normal maps will have '''x3 Points [[File:EmaPt.png|25px]] bonus for first clear each day'''.
+<div style="display:flex; flex-wrap:wrap">
+{| class="azltable" style="text-align:center;margin-right:1em"
+|+ Ship Drops
+|-
+| style="background-color:PaleGoldenrod" | [[File:ZuikakuIcon.png|50px|link=Zuikaku]]
+| [[Zuikaku]]
+| B3, D3 (Boss node only)
+|-
+| style="background-color:PowderBlue" | [[File:AkatsukiIcon.png|50px|link=Akatsuki]]
+| [[Akatsuki]]
+| A3, B3, C3, D1, D2, D3
+|}
+{| class="azltable" style="text-align: center;"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|10 [[File:EmaPt.png|25px|link=]]
+|'''C1'''
+|50 [[File:EmaPt.png|25px|link=]]
+|-
+|'''A2'''
+|20 [[File:EmaPt.png|25px|link=]]
+|'''C2'''
+|60 [[File:EmaPt.png|25px|link=]]
+|-
+|'''A3'''
+|30 [[File:EmaPt.png|25px|link=]]
+|'''C3'''
+|80 [[File:EmaPt.png|25px|link=]]
+|-
+|'''B1'''
+|40  [[File:EmaPt.png|25px|link=]]
+|'''D1'''
+|120  [[File:EmaPt.png|25px|link=]]
+|-
+|'''B2'''
+|60  [[File:EmaPt.png|25px|link=]]
+|'''D2'''
+|150  [[File:EmaPt.png|25px|link=]]
+|-
+|'''B3'''
+|80  [[File:EmaPt.png|25px|link=]]
+|'''D3'''
+|180  [[File:EmaPt.png|25px|link=]]
+|}
+</div>
+
+===Normal Maps===
+
+<tabber>
+A-1={{Map
+ | Title = Storm's End
+ | Introduction = After weathering the storm and leaving her companions, Zuikaku is alone in the seas. Is this really the 'Sanctuary' we've been looking for?
+ | Requirements = None.
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 30
+ | MobExp1 = 294
+ | MobExp2 = 324
+ | MobExp3 = 367
+ | Boss = [[Akatsuki]]
+ | BossLevel = 32
+ | BossExp = 432
+
+ | BossBattleReq = 3
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{coin}} Coin, 10 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T3 610mm Triple Torpedo Mount|610mm Triple Torpedo Mount|35100}}
+{{EquipmentBox|4|T3 Twin 40mm Vickers ("HI" Shiki Type 91)|Twin 40mm Vickers ("HI" Shiki Type 91)|36400}}
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|3|T1 Mitsubishi A7M Reppuu|Mitsubishi A7M Reppuu|37300}}
+ | ShipDrops = 
+{{ShipDropIcon|Shigure|E}}
+{{ShipDropIcon|Houston|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Northampton|R}}
+{{ShipDropIcon|Yamashiro|R}}
+{{ShipDropIcon|Fusou|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red A-1
+ | NodeMap = {{MapTable/2
+    |s| | |x|x|x|x|x
+    | |x|e|e|e| |e|x
+    |s| |e| |e|x|e|b
+    | | |x|e|e|x|e|b
+    |s| |x| |e| |e|b
+  }}
+
+}}
+ |-|
+A-2 ={{Map
+ | Title = Distress Signal
+ | Introduction = Zuikaku received a distress call while anxiously searching for her sisters. Is it a trap? Or is it truly an ally? We have to look, no matter the cost.
+ | Requirements = A-1 Clear.
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = [[Universal Bullin]]
+
+ | MobLevel = 34
+ | MobExp1 = 306
+ | MobExp2 = 337
+ | MobExp3 = 367
+ | Boss = [[Ise]] and [[Hyuuga]]
+ | BossLevel = 36
+ | BossExp = 448
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{coin}} Coin, 20 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 140mm (3rd Year Type)|Twin 140mm (3rd Year Type)|32100}}
+{{EquipmentBox|4|T3 Twin 25mm AA Type 96|Twin 25mm AA Type 96|36000}}
+{{EquipmentBox|4|T3 Triple 25mm AA Type 96|Triple 25mm AA Type 96|36300}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+{{EquipmentBox|3|T1 Aichi B7A Ryuusei|Aichi B7A Ryuusei|38200}}
+ | ShipDrops = 
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Indianapolis|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Northampton|R}}
+{{ShipDropIcon|Yamashiro|R}}
+{{ShipDropIcon|Fusou|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red A-2
+ | NodeMap = {{MapTable/2
+    | | |x|x|x|x| |q
+    |e| |e| |e| |e| 
+    | |x| |x|x|e|x|e
+    | | |e|x|x|e|x| 
+    | | |x|b|e|e| | 
+    |s|s|x|b|e|e|e| 
+  }}
+
+
+}}
+ |-|
+A-3 ={{Map
+ | Title = Sanctuary Protectors
+ | Introduction = According to previous intel, there is no doubt that this is the 'Sanctuary'. What have 'they' been planning? They don't look too difficult...the newly shielded Yamashiro is right before Zuikaku's eyes.
+ | Requirements = A-2 Clear.
+ | ClearReward = 2 {{Cube}}, 1500 {{Coin}}
+ | 3StarReward = [[Aichi E16A Zuiun]]
+
+ | MobLevel = 38
+ | MobExp1 = 318
+ | MobExp2 = 350
+ | MobExp3 = 381
+ | Boss = [[Yamashiro]]
+ | BossLevel = 40
+ | BossExp = 466
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 30 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+{{EquipmentBox|4|T3 Mitsubishi A6M2 Zero|Mitsubishi A6M2 Zero|37100}}
+{{EquipmentBox|4|T3 Aichi E16A Zuiun|Aichi E16A Zuiun|39200}}
+{{EquipmentBox|3|T2 Aichi E16A Zuiun|Aichi E16A Zuiun|39200}}
+ | ShipDrops = 
+{{ShipDropIcon|Cleveland|E}}
+{{ShipDropIcon|London|E}}
+{{ShipDropIcon|Arizona|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Akatsuki|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Northampton|R}}
+{{ShipDropIcon|Yamashiro|R}}
+{{ShipDropIcon|Fusou|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Visitors Dyed in Red A-3
+ | NodeMap = {{MapTable/2
+    |s| | |x|x|x|x|x
+    | |x|e| |e| | |x
+    |s| | |e|e| |e|x
+    |x|x|x|x|x|e| |x
+    |x|b|e|x|x| |e|
+    |x|e|e|e|e|e|x| 
+    |x|e| |e|e| |e| 
+  }}
+
+}}
+ |-|
+B-1 ={{Map
+ | Title = Reddened Sea
+ | Introduction = An island of falling maple leafs and shrines is enough to enchant anyone. What secrets could be hidden here?
+ | Requirements = A-3 Clear.
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 40
+ | MobExp1 = 324
+ | MobExp2 = 356
+ | MobExp3 = 388
+ | Boss = [[Akatsuki]] and [[Nowaki]]
+ | BossLevel = 42
+ | BossExp = 475
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 40 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Twin 127mm AA Gun (Type 89)|Twin 127mm AA Gun (Type 89)|36600}}
+ | ShipDrops = 
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Exeter|E}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Shouhou|R}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red B-1
+ | NodeMap = {{MapTable/2
+    | | |e| |e|e|e|e|e| 
+    |s| |x| |e| |e|x| |b
+    |x|x|x|x|x|x| |x|e|x
+    |s| | |x|e| |e|x| |b
+    | | | |e| |e|e|e|e| 
+  }}
+}}
+|-|
+B-2 ={{Map
+ | Title = Sistership
+ | Introduction = I obviously don't want this to happen again... I have to become stronger... but did you have to turn into this Shoukaku!?
+ | Requirements = B-1 Clear.
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = [[Trial Bullin MKII]]
+
+ | MobLevel = 44
+ | MobExp1 = 336
+ | MobExp2 = 369
+ | MobExp3 = 403
+ | Boss = [[Shoukaku]]
+ | BossLevel = 46
+ | BossExp = 492
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 60 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T2 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+{{EquipmentBox|4|T3 Nakajima B6N Tenzan|Nakajima B6N Tenzan|38100}}
+{{EquipmentBox|4|T2 Mitsubishi A7M Reppuu|Mitsubishi A7M Reppuu|37300}}
+ | ShipDrops = 
+{{ShipDropIcon|Erebus|E}}
+{{ShipDropIcon|Terror|E}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Shouhou|R}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red B-2
+ | NodeMap = {{MapTable/2
+    |x| |e|e|e|e| | |x
+    |b|e|e|e|x| |e| |x
+    |b|b|x|x|x|x|x|e| 
+    |x|x|x|x| | |e|e| 
+    |s|s| |x| |e|e| |x
+    |s| | |e| | |x| | 
+    |s|s|x| | | |x| |q
+  }}
+}}
+|-|
+B-3 ={{Map
+ | Title = Crimson Protectors
+ | Introduction = The whole truth surely lies with Akagi and Kaga. With her determination, Zuikaku heads deeper into the 'sanctuary'...
+ | Requirements = B-2 Clear.
+ | ClearReward = 2 {{Cube}}, 1500 {{Coin}}
+ | 3StarReward = [[Aichi B7A Ryuusei]]
+
+ | MobLevel = 48
+ | MobExp1 = 348
+ | MobExp2 = 382
+ | MobExp3 = 417
+ | Boss = [[Akagi]] and [[Kaga]]
+ | BossLevel = 50
+ | BossExp = 510
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 80 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Yokosuka D4Y Suisei|Yokosuka D4Y Suisei|39100}}
+{{EquipmentBox|4|T3 Aichi D3A Type 99|Aichi D3A Type 99|39000}}
+{{EquipmentBox|4|T2 Yokosuka D4Y Suisei|Yokosuka D4Y Suisei|39100}}
+{{EquipmentBox|4|T2 Aichi B7A Ryuusei|Aichi B7A Ryuusei|38200}}
+ | ShipDrops = 
+{{ShipDropIcon|Zuikaku|SR}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Vestal|E}}
+{{ShipDropIcon|Akatsuki|R}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Shouhou|R}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red B-3
+ | NodeMap = {{MapTable/2
+    |x|x|x|x|x|x
+    |x|b|x|x|b|x
+    |x| |x|x| |x
+    |x|e|e|e|e|x
+    |x|e|e|e|e|x
+    | |e|e|e|e| 
+    |e|x|x|x|x|e
+    |e|e| | |e|e
+    | | |s|s| | 
+    |x|x|x|x|x|x
+  }}
+}}
+</tabber>
+
+===Hard Maps===
+
+<tabber>
+C-1 ={{Map
+ | Title = Storm's End
+ | Introduction = After weathering the storm and leaving her companions, Zuikaku is alone in the seas. Is this really the 'Sanctuary' we've been looking for?
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 60
+ | MobExp1 = 414
+ | MobExp2 = 456
+ | MobExp3 = 496
+ | Boss = [[Akatsuki]] and [[Yuudachi]]
+ | BossLevel = 62
+ | BossExp = 618
+
+ | BossBattleReq = 5
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 2 {{BB}} BB, 1 {{CA}} CA
+ | StatRestrictions = Average level > 60, {{Torpedo}} Total Torpedo stat > 550, {{Evasion}} Total Evasion stat > 320
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 50 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T3 Twin 127mm (Type 3)|Twin 127mm (Type 3)|31200}}
+{{EquipmentBox|4|T3 610mm Triple Torpedo Mount|610mm Triple Torpedo Mount|35100|No|64}}
+{{EquipmentBox|4|T3 Twin 40mm Vickers ("HI" Shiki Type 91)|Twin 40mm Vickers ("HI" Shiki Type 91)|36400}}
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+ | ShipDrops = 
+{{ShipDropIcon|Shigure|E}}
+{{ShipDropIcon|Houston|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Northampton|R}}
+{{ShipDropIcon|Yamashiro|R}}
+{{ShipDropIcon|Fusou|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red C-1
+ | NodeMap = {{MapTable/2
+    |s| | |x|x|x|x|x
+    | |x|e|e|e| |e|x
+    |s| |e| |e|x|e|b
+    | | |x|e|e|x|e|b
+    |s| |x| |e| |e|b
+  }}
+}}
+ |-|
+C-2 ={{Map
+ | Title = Distress Signal
+ | Introduction = Zuikaku received a distress call while anxiously searching for her sisters. Is it a trap? Or is it truly an ally? We have to look, no matter the cost.
+ | Requirements = C-1 Clear
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = [[Universal Bullin]]
+
+ | MobLevel = 64
+ | MobExp1 = 438
+ | MobExp2 = 482
+ | MobExp3 = 525
+ | Boss = [[Ise]] and [[Hyuuga]]
+ | BossLevel = 66
+ | BossExp = 652
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 2 {{BB}} BB, 1 {{CA}} CA
+ | StatRestrictions = Average level > 64, {{Firepower}} Total Firepower stat > 650, {{Evasion}} Total Evasion stat >= 360
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 60 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Ship Maintenance Crane|Ship Maintenance Crane|1000}}
+{{EquipmentBox|4|T3 Twin 140mm (3rd Year Type)|Twin 140mm (3rd Year Type)|32100}}
+{{EquipmentBox|4|T3 Twin 25mm AA Type 96|Twin 25mm AA Type 96|36000}}
+{{EquipmentBox|4|T3 Triple 25mm AA Type 96|Triple 25mm AA Type 96|36300}}
+{{EquipmentBox|4|T3 Improved Boiler|Improved Boiler|1800}}
+ | ShipDrops = 
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Indianapolis|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Northampton|R}}
+{{ShipDropIcon|Yamashiro|R}}
+{{ShipDropIcon|Fusou|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red C-2
+ | NodeMap = {{MapTable/2
+    | | |x|x|x|x| |q
+    |e| |e| |e| |e| 
+    | |x| |x|x|e|x|e
+    | | |e|x|x|e|x| 
+    | | |x|b|e|e| | 
+    |s|s|x|b|e|e|e| 
+  }}
+}}
+ |-|
+C-3 ={{Map
+ | Title = Sanctuary Protectors
+ | Introduction = According to previous intel, there is no doubt that this is the 'Sanctuary'. What have 'they' been planning? They don't look too difficult...the newly shielded Yamashiro is right before Zuikaku's eyes.
+ | ClearReward = 2 {{Cube}}, 1500 {{Coin}}
+ | 3StarReward = [[Aichi E16A Zuiun]]
+
+ | MobLevel = 68
+ | MobExp1 = 462
+ | MobExp2 = 508
+ | MobExp3 = 554
+ | Boss = [[Yamashiro]]
+ | BossLevel = 70
+ | BossExp = 687
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 2 {{BB}} BB, 1 {{CA}} CA
+ | StatRestrictions = Average level > 68, {{Firepower}} Total Firepower stat > 750, {{Airpower}} Total Aviation stat =< 1800.
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 80 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+{{EquipmentBox|4|T2 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+{{EquipmentBox|4|T3 Mitsubishi A6M2 Zero|Mitsubishi A6M2 Zero|37100}}
+{{EquipmentBox|4|T3 Aichi E16A Zuiun|Aichi E16A Zuiun|39200}}
+ | ShipDrops = 
+{{ShipDropIcon|Cleveland|E}}
+{{ShipDropIcon|London|E}}
+{{ShipDropIcon|Arizona|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Akatsuki|R}}
+{{ShipDropIcon|Chicago|R}}
+{{ShipDropIcon|Northampton|R}}
+{{ShipDropIcon|Yamashiro|R}}
+{{ShipDropIcon|Fusou|R}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Visitors Dyed in Red C-3
+ | NodeMap = {{MapTable/2
+    |s| | |x|x|x|x|x
+    | |x|e| |e| | |x
+    |s| | |e|e| |e|x
+    |x|x|x|x|x|e| |x
+    |x|b|e|x|x| |e|
+    |x|e|e|e|e|e|x| 
+    |x|e| |e|e| |e| 
+  }}
+}}
+ |-|
+D-1 ={{Map
+ | Title = Reddened Sea
+ | Introduction = An island of falling maple leafs and shrines is enough to enchant anyone. What secrets could be hidden here?
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 70
+ | MobExp1 = 
+ | MobExp2 = 522
+ | MobExp3 = 568
+ | Boss = [[Nowaki]]
+ | BossLevel = 72
+ | BossExp = 699
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | Fleet1 = 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 72, {{Torpedo}} Total Torpedo stat > 750, {{Evasion}} Total Evasion stat > 450
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 120 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|5|T3 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Twin 127mm AA Gun (Type 89)|Twin 127mm AA Gun (Type 89)|36600}}
+ | ShipDrops = 
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Exeter|E}}
+{{ShipDropIcon|Akatsuki|R}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Shouhou|R}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red D-1
+ | NodeMap = {{MapTable/2
+    | | |e| |e|e|e|e|e| 
+    |s| |x| |e| |e|x| |b
+    |x|x|x|x|x|x| |x|e|x
+    |s| | |x|e| |e|x| |b
+    | | | |e| |e|e|e|e| 
+  }}
+}}
+|-|
+D-2 ={{Map
+ | Title = Sistership
+ | Introduction = I obviously don't want this to happen again... I have to become stronger... but did you have to turn into this Shoukaku!?
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}
+ | 3StarReward = [[Trial Bullin MKII]]
+
+ | MobLevel = 74
+ | MobExp1 = 498
+ | MobExp2 = 548
+ | MobExp3 = 597
+ | Boss = [[Shoukaku]]
+ | BossLevel = 76
+ | BossExp = 734
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | Fleet1 = 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 76, {{Airpower}} Total Aviation stat > 900, {{AA}} Total Anti-Air stat > 1400
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 150 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Mitsubishi A7M Reppuu|Mitsubishi A7M Reppuu|37300}}
+{{EquipmentBox|5|T3 Triple 155mm (3rd Year Type)|Triple 155mm (3rd Year Type)|32200}}
+{{EquipmentBox|4|T2 Mitsubishi A6M5 Zero|Mitsubishi A6M5 Zero|37200}}
+{{EquipmentBox|4|T3 Nakajima B6N Tenzan|Nakajima B6N Tenzan|38100}}
+{{EquipmentBox|4|T2 Mitsubishi A7M Reppuu|Mitsubishi A7M Reppuu|37300}}
+ | ShipDrops = 
+{{ShipDropIcon|Erebus|E}}
+{{ShipDropIcon|Terror|E}}
+{{ShipDropIcon|Akatsuki|R}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Shouhou|R}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red D-2
+ | NodeMap = {{MapTable/2
+    |x| |e|e|e|e| | |x
+    |b|e|e|e|x| |e| |x
+    |b|b|x|x|x|x|x|e| 
+    |x|x|x|x| | |e|e| 
+    |s|s| |x| |e|e| |x
+    |s| | |e| | |x| | 
+    |s|s|x| | | |x| |q
+  }}
+}}
+|-|
+D-3 ={{Map
+ | Title = Crimson Protectors
+ | Introduction = The whole truth surely lies with Akagi and Kaga. With her determination, Zuikaku heads deeper into the 'sanctuary'...
+ | ClearReward = '''Medal of Sakura Empire'''
+ | 3StarReward = [[Aichi B7A Ryuusei]]
+
+ | MobLevel = 78
+ | MobExp1 = 522
+ | MobExp2 = 574
+ | MobExp3 = 626
+ | Boss = [[Akagi]] and [[Kaga]]
+ | BossLevel = 80
+ | BossExp = 769
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | Fleet1 = 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{DD}} DD
+ | Fleet2 = 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 80, {{Firepower}} Total Firepower stat > 1000, {{AA}} Total Anti-Air stat > 1800.
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 180 [[File:EmaPt.png|30px|link=|Ema]] Ema
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Aichi B7A Ryuusei|Aichi B7A Ryuusei|38200}}
+{{EquipmentBox|5|T3 Yokosuka D4Y Suisei|Yokosuka D4Y Suisei|39100}}
+{{EquipmentBox|4|T3 Aichi D3A Type 99|Aichi D3A Type 99|39000}}
+{{EquipmentBox|4|T2 Yokosuka D4Y Suisei|Yokosuka D4Y Suisei|39100}}
+{{EquipmentBox|4|T2 Aichi B7A Ryuusei|Aichi B7A Ryuusei|38200}}
+ | ShipDrops = 
+{{ShipDropIcon|Zuikaku|SR}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Vestal|E}}
+{{ShipDropIcon|Akatsuki|R}}
+{{ShipDropIcon|Shiratsuyu|R}}
+{{ShipDropIcon|Kagerou|R}}
+{{ShipDropIcon|Nachi|R}}
+{{ShipDropIcon|Myoukou|R}}
+{{ShipDropIcon|Shouhou|R}}
+{{ShipDropIcon|Shiranui|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Abukuma|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Hermes|N}}
+
+ | PreviewFile = Visitors Dyed in Red D-3
+ | NodeMap = {{MapTable/2
+    |x|x|x|x|x|x
+    |x|b|x|x|b|x
+    |x| |x|x| |x
+    |x|e|e|e|e|x
+    |x|e|e|e|e|x
+    | |e|e|e|e| 
+    |e|x|x|x|x|e
+    |e|e| | |e|e
+    | | |s|s| | 
+    |x|x|x|x|x|x
+  }}
+}}
+</tabber>
+
+==Event Tasks==
+
+* There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once.
+** Maps clear and 3★ Rewards:
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!A1/C1
+|{{Display|Coreicon2|G|x1 Cube}} {{Display|Coinicon|G|x600 Gold}}
+|{{Display|Oilicon|W|x500 Oil}}
+|-
+!A2/C2
+|{{Display|Coreicon2|G|x1 Cube}} {{Display|Coinicon|G|x600 Gold}}
+|{{Display|Universal_BullinIcon|P|[[Universal Bullin]]}}
+|-
+!A3/C3
+|{{Display|Coreicon2|G|x2 Cubes}} {{Display|Coinicon|G|x1500 Gold}}
+|{{Display|39200|P|[[Aichi E16A Zuiun]]}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+!B1/D1
+|{{Display|Coreicon2|G|x1 Cube}} {{Display|Coinicon|G|x600 Gold}}
+|{{Display|Oilicon|W|x500 Oil}}
+|-
+!B2/D2
+|{{Display|Coreicon2|G|x1 Cube}} {{Display|Coinicon|G|x600 Gold}}
+|{{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+|-
+!B3/D3
+|{{Display|Coreicon2|G|x2 Cubes}} {{Display|Coinicon|G|x1500 Gold}}
+|{{Display|38200|G|[[Aichi B7A Ryuusei]]}}
+|}
+|}
+
+*Special reward for clearing '''D3''' map:
+{{Display|Medal_of_Sakura_Empire|6|Medal of<br />Sakura Empire}}
+'''Note:''' ''This medal will not be rewarded if you have claimed it before on the first run.''
+
+* Each day during event 2 special daily task will be available:
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = E8-01
+|desccn = 建造舰船3次<br>3回建造する
+|descen = [[Building|Construct]] 3 ships.
+|reward= {{Display|EmaPt|B|x200 "Painted Horses"}}
+|notes=
+}}
+{{Mission
+|type = Event
+|listnum = E8-02
+|desccn = 舰队出征，获得15次胜利<br>艦隊を出撃させ、15回勝利せよ！
+|descen = Sortie and obtain 15 victories.
+|reward= {{Display|EmaPt|B|x200 "Painted Horses"}}
+|notes= Can be done either with [[Campaign]] battles or [[Daily Raid]] battles.
+}}
+|}
+
+==Ema Exchange Shop==
+
+{| class="wikitable" style="text-align: center;"
+|-
+| [[File:Ema_Store_EN.png|500px]]
+|-
+| '''''Exchange Shop'''''
+|}
+
+*During the event, the credit shop will also have an '''"Exchange Shop"''' where '''"Ema"''' [[File:EmaPt.png|25px]] can be exchanged for items. This will be available from September 30th to October 26th, 23:59. Items that can be exchanged but not limited to be are listed as the following:
+
+{|class="wikitable" style="text-align:center;"
+|-
+! colspan="4" |Ema Exchange
+|-
+!Items
+!Rarity
+! No. Available
+!Amount of [[File:EmaPt.png|25px]]
+|-
+|style="background-color:PaleGoldenRod"|{{Display|ZuikakuIcon|G|[[Zuikaku]]}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 1
+|''8000 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}"|{{Display|00841_2600_2600|#ffdddd, #ddffdd 50%, #ddddff|[[Type 93 Pure Oxygen Torpedo]]}}
+|style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}"|{{Legendary}}
+| 1
+|''6000 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PaleGoldenRod"|{{Display|34100|G|[[Twin 410mm (Type 3 Shell)]]}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 1
+|''2500 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PaleGoldenRod"|{{Display|37300|G|[[Mitsubishi A7M Reppuu]]}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 1
+|''2500 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PaleGoldenRod"|{{Display|T4Box|G|[[Equipment#Equipment_Boxes|T4 Sakura<br>Tech Boxes]]}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 10
+|''300 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PaleGoldenRod"|{{Display|Lamppost|G|Lamppost}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 1
+| ''1200 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PaleGoldenRod"|{{Display|Gazebo|G|Gazebo}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 1
+| ''1200 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PaleGoldenRod"|{{Display|Koi Streamer|G|Koi Streamer}}
+|style="background-color:PaleGoldenRod"|{{Super Rare}}
+| 1
+| ''1200 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:Plum"|{{Display|Koi Scroll|P|Koi Scroll}}
+|style="background-color:Plum"|{{Elite}}
+| 1
+| ''300 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PowderBlue"|{{Display|FoodFortune|B|[[Living_Area#Refilling_supplies|Fortune Cookies]]}}
+|style="background-color:PowderBlue"|{{Rare}}
+| 10
+| ''50 [[File:EmaPt.png|25px]]''
+|-
+|style="background-color:PowderBlue"|{{Display|Food1|B|[[Living_Area#Refilling_supplies|Oxy-Cola]]}}
+|style="background-color:PowderBlue"|{{Rare}}
+| 100
+| ''15 [[File:EmaPt.png|25px]]''
+|}
+
+Sorties on the 'Visitors Dyed in Red' event maps will award some number of points. The two daily [[Visitors_Dyed_in_Red#Event_Tasks|event tasks]] also provide 200 [[File:EmaPt.png|25px]] each.
+
+It takes a total of 27900 [[File:EmaPt.png|25px]] to buy out the entire shop. Absent any other income, this is 349 runs of B3, or 155 runs of D3.
+
+For a three-week farm (EN):
+* Daily tasks will provide 8400 [[File:EmaPt.png|25px]].
+* Clearing every Normal map once for the daily x3 bonus will provide 15120 [[File:EmaPt.png|25px]].
+* This leaves just 4380 [[File:EmaPt.png|25px]] for a full buyout.
+* Of course, any tasks or daily x3 bonuses that are missed will increase this. (Deliberately or not---for example, if you draw the event ships early or are not interested in them in the first place, you may not wish to execute all 63 builds needed to finish the "construct 3 ships" task for all 21 days.)
+
+
+[[Category:Events]]

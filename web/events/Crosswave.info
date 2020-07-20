@@ -1,0 +1,241 @@
+{{ContentBox
+|text = white
+|border = #FF0000
+|header = #c63939
+|body = #ff8080
+|logo = YuugureKaiChibi.png{{!}}60px
+|title = "Crosswave" event
+|marginTop = 10px
+|content = <div style="padding-bottom:3px; color:black">
+* '''CN/JP/EN servers: September 26th - October 10th 2019'''
+</div>
+}}
+
+== Event Description ==
+[[File:Crosswave Event Banner EN.png|500px]]
+
+*In this event, Suruga will be the boss and all the Commanders in the Server will need to work together to defeat Suruga.
+**Participating in the event '''will cost oil''' depending on fleet used.
+*In EX map, when the timer runs out, or if your fleet is defeated, contribution value will be given according to the total damage done.
+*The battle in EX map has a total time limit of 60 seconds. The higher the damage you deal, the better the rewards are and contributions you will get. If you withdraw from battle, you will not receive any reward.
+*The other maps will have a time limit of 3 minutes, and the boss must be defeated to obtain contribution points.
+*Each server's progression will be calculated separately. When the Gauge reaches 0%, the event will be successfully completed.
+
+== Event Stage ==
+* The event stage has 4 difficulties: Easy, Normal, Hard, and EX. The Contribution Point [[File:SurugaPt.png|25px]] gain will increase along with the difficulties. To access the EX stage you will need a Special Pass [[File:SurugaTicket.png|30px]] and the point gain will be based on how much damage you have done (Note: Practice mode is available for EX).
+** Levels for the four difficulties:
+*** Easy: Lvl 30 (30 [[File:SurugaPt.png|25px]])
+*** Normal: Lvl 60 (70 [[File:SurugaPt.png|25px]])
+*** Hard: Lvl 100 (120 [[File:SurugaPt.png|25px]])
+*** EX: Lvl 125 ([[File:SurugaPt.png|25px]] rewarded will vary depending on damage dealt to the boss for 60 seconds)
+* Your first 15 battles for each day on each of the Easy, Normal and Hard difficulties will give you better clear rewards. If you have used up all 15 sorties, you can use a Special pass [[File:SurugaTicket.png|30px]] to keep getting better clear rewards. 
+**You can still play the event maps (except for EX) after using up the daily sorties, even with zero Special passes. The amount of contribution points will stay the same.
+* Submarines and Meowfficers can be used. Summoning submarines will cost fuel.
+{| class="wikitable" style="text-align:center"
+ ! colspan="7" |Gauge Reward
+ |-
+ !75&nbsp;%
+ !50&nbsp;%
+ !25&nbsp;%
+ !0&nbsp;%
+ |-
+ | {{Display|AuxT3Plate|P|10x T3 General Part|60|}}
+ | {{Display|DestroyerT3BP|G|2x T3 Destroyer Retrofit Blueprint|60|}}
+ | {{Display|34180|G|5x Triple 410mm (10th Year Type Prototype) Designs|60|Triple 410mm (10th Year Type Prototype)}}
+ | {{Display|2600|R|1x Type 93 Pure Oxygen Torpedo|60|Type 93 Pure Oxygen Torpedo}}
+ |}
+*Possible equipment blueprint drops from Hard and EX maps:
+{{EquipmentBox|5|T3 Aichi B7A Ryuusei|Aichi B7A Ryuusei|38200}}
+{{EquipmentBox|4|T2 Twin 100mm (Type 98)|Twin 100mm (Type 98)|31000}}
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 Nakajima B6N Tenzan|Nakajima B6N Tenzan|38100}}
+
+== Event Tasks ==
+* Each day during the event, 9 special daily tasks are available. Complete them to get Special Pass and [[Popularity Poll 2019|Support Points]]:
+
+{{MissionHeader}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D1
+ | descen = Log in.
+ | reward = {{Display|SurugaTicket|5|1x Special Pass}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D2
+ | descen = Clear Hardmode 1 time.
+ | reward = {{Display|SurugaTicket|5|1x Special Pass}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D3
+ | descen = Clear Hardmode 3 times.
+ | reward = {{Display|SurugaTicket|5|1x Special Pass}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D4
+ | descen = Clear the Crossing Waves event stage 5 times.
+ | reward = {{Display|SurugaTicket|5|1x Special Pass}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D5
+ | descen = Clear the Crossing Waves event stage 10 times.
+ | reward = {{Display|SurugaTicket|5|1x Special Pass}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D6
+ | descen = Clear the Crossing Waves event stage 1 times.
+ | reward = {{Display|Vote pt|3|100x Support Points}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D7
+ | descen = Clear the Crossing Waves event stage 5 times.
+ | reward = {{Display|Vote pt|3|200x Support Points}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D8
+ | descen = Clear the Crossing Waves event stage 10 times.
+ | reward = {{Display|Vote pt|3|600x Support Points}}
+}}
+{{Mission
+ | color = rgb(10,194,10)
+ | listnum = RD-D9
+ | descen = Clear the Crossing Waves event stage 15 times.
+ | reward = {{Display|Vote pt|3|900x Support Points}}
+}}
+|}
+
+== Point Milestone ==
+<tabber>CN/JP={| class="wikitable" style="text-align:center"
+![[File:SurugaPt.png|25px|link=]]
+!Reward
+![[File:SurugaPt.png|25px|link=]]
+!Reward
+![[File:SurugaPt.png|25px|link=]]
+!Reward
+|-
+|400
+|{{Display|UnknownT1Book|Rare|3x T1 Random Skill Book}}
+|600
+|{{Display|34180|Super Rare|1x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|800
+|{{Display|Moduleicon|Super Rare|50x Cognitive Chips}}
+|-
+|1000
+|{{Display|34180|Super Rare|2x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|1500
+|{{Display|Moduleicon|Super Rare|100x Cognitive Chips}}
+|2000
+|{{Display|Oilicon|Normal|200x Oil}}
+|-
+|2500
+|{{Display|Cat Box Elite|Elite|1x Elite Cat Box}}
+|3000
+|{{Display|34180|Super Rare|3x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|3500
+|{{Display|Coinicon|Normal|1000x Coins}}
+|-
+|4000
+|{{Display|3220|Elite|1x [[VC Armor Plating]]}}
+|5000
+|{{Display|34180|Super Rare|4x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|6000
+|{{Display|Core Data|Rare|300x Core Data}}
+|-
+|7000
+|{{Display|UnknownT3Book|Super Rare|3x T3 Random Skill Book}}
+|8000
+|{{Display|Cat Box Super Rare|Super Rare|1x Super Rare Cat Box}}
+|9000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|10000
+|{{Display|3200|Super Rare|1x [[VH Armor Plating]]}}
+|14000
+|{{Display|34180|Super Rare|5x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|18000
+|{{Display|AllSUnit3|Legendary|1x Advanced Strengthening Unit S2}}
+|-
+|24000
+|{{Display|34180|Super Rare|5x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|30000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|38000
+|{{Display|Core Data|Rare|700x Core Data}}
+|-
+|48000
+|{{Display|AllSUnit3|Legendary|2x Advanced Strengthening Unit S2}}
+|60000
+|{{Display|T5Box|Legendary|1x T5 Sakura Tech Pack}}
+|}
+|-|EN={| class="wikitable" style="text-align:center"
+![[File:SurugaPt.png|25px|link=]]
+!Reward
+![[File:SurugaPt.png|25px|link=]]
+!Reward
+![[File:SurugaPt.png|25px|link=]]
+!Reward
+|-
+|400
+|{{Display|UnknownT1Book|Rare|3x T1 Random Skill Book}}
+|600
+|{{Display|34180|Super Rare|1x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|800
+|{{Display|Moduleicon|Super Rare|50x Cognitive Chips}}
+|-
+|1000
+|{{Display|34180|Super Rare|2x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|1500
+|{{Display|Moduleicon|Super Rare|100x Cognitive Chips}}
+|2000
+|{{Display|Oilicon|Normal|200x Oil}}
+|-
+|2500
+|{{Display|Cat Box Elite|Elite|1x Elite Cat Box}}
+|3000
+|{{Display|34180|Super Rare|3x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|3500
+|{{Display|Coinicon|Normal|1000x Coins}}
+|-
+|4000
+|{{Display|3220|Elite|1x [[VC Armor Plating]]}}
+|5000
+|{{Display|34180|Super Rare|4x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|6000
+|{{Display|Core Data|Rare|300x Core Data}}
+|-
+|7000
+|{{Display|UnknownT3Book|Super Rare|3x T3 Random Skill Book}}
+|8000
+|{{Display|Cat Box Super Rare|Super Rare|1x Super Rare Cat Box}}
+|9000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|10000
+|{{Display|3200|Super Rare|1x [[VH Armor Plating]]}}
+|14000
+|{{Display|34180|Super Rare|5x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|18000
+|{{Display|AllSUnit|Rare|1x Strengthening Unit S1}}
+|-
+|24000
+|{{Display|34180|Super Rare|5x [[Triple 410mm (10th Year Type Prototype)]] Design}}
+|30000
+|{{Display|DestroyerT3BP|Super Rare|1x T3 Destroyer Retrofit Blueprint}}
+|38000
+|{{Display|Core Data|Rare|700x Core Data}}
+|-
+|48000
+|{{Display|AllSUnit|Rare|2x Strengthening Unit S1}}
+|60000
+|{{Display|T5Box|Legendary|1x T5 Sakura Tech Pack}}
+|}
+</tabber>
+
+[[Category:Events]]

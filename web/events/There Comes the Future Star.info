@@ -1,0 +1,156 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #f24665
+|body = #e0628e 
+|logo = Li'l SandyChibi.png{{!}}60px
+|title = "There Comes the Future Star!" Event
+|marginTop = 10px
+|content = <div style="padding:0 0 4px 0">
+* '''CN/JP/KR/EN Server: May 30th - June 12th 2019'''
+</div>
+}}
+
+== Event Ships ==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Li'l Sandy|CL||'''Friendship Points'''|[[File:SandyPt.png|25px]] 1000}}
+{{ShipDisplay|4|Clevelad|CL||'''Construction'''|1:20:00}}
+{{ShipDisplay|4|Lena|CL||'''Construction'''|1:10:00}}
+</div>
+
+== Limited Light Construction ==
+[[File:There Comes the Future Star - Construction EN.png|500px]]
+
+*During the event and for a limited time, 2 new ships will be added to light construction with a rate-up.
+*<span style="color:red">'''They will stay in the light construction pool after the event has ended.'''</span>
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Clevelad|CL||''1:20:00''|'''2.5%'''}}
+{{ShipDisplay|4|Lena|CL||''1:10:00''|'''2.5%'''}}
+</div>
+
+== Friendship Points ==
+[[File:There Comes the Future Star Task Banner EN.png|500px]]
+
+*After maintenance, {{Elite}} '''[[Li'l Sandy]]''' {{CL}} will provisionally join your fleet after you log into the game.
+*You can collect '''"Friendship Points"''' by clearing normal mode story maps or [[Scherzo of Iron and Blood]] event maps during the event.
+*By accumulating '''"Friendship Points"''', you can clear limited event missions and obtain rewards such as gold and items.
+*'''[[Li'l Sandy]]''' will permanently join your fleet after you clear the last mission.
+*'''IMPORTANT!''' <span style="color:red">'''If [[Li'l Sandy]] participates in and survives the boss battle, the amount of friendship points is doubled.'''</span>
+
+{|
+ |
+{| class="wikitable" style="text-align:center"
+! Normal Maps
+! Friendship Points
+|-
+|'''Chapter 3'''
+|{{Display|SandyPt|B|x7 Friendship Points}}
+|-
+|'''Chapter 4'''
+|{{Display|SandyPt|B|x8 Friendship Points}}
+|-
+|'''Chapter 5'''
+|{{Display|SandyPt|B|x9 Friendship Points}}
+|-
+|'''Chapter 6'''
+|{{Display|SandyPt|B|x10 Friendship Points}}
+|-
+|'''Chapter 7'''
+|{{Display|SandyPt|B|x11 Friendship Points}}
+|-
+|'''Chapter 8'''
+|{{Display|SandyPt|B|x12 Friendship Points}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+! Normal Maps
+! Friendship Points
+|-
+|'''Chapter 9'''
+|{{Display|SandyPt|B|x13 Friendship Points}}
+|-
+|'''Chapter 10'''
+|{{Display|SandyPt|B|x14 Friendship Points}}
+|-
+|'''Chapter 11'''
+|{{Display|SandyPt|B|x15 Friendship Points}}
+|-
+|'''Chapter 12'''
+|{{Display|SandyPt|B|x16 Friendship Points}}
+|-
+|'''Chapter 13'''
+|{{Display|SandyPt|B|x17 Friendship Points}}
+|}
+|
+{| class="wikitable" style="text-align: center;"
+! Scherzo of Iron and Blood
+! Friendship Points
+|-
+|'''A Stage'''
+|{{Display|SandyPt|B|x10 Friendship Points}}
+|-
+|'''B Stage'''
+|{{Display|SandyPt|B|x12 Friendship Points}}
+|-
+|'''C Stage'''
+|{{Display|SandyPt|B|x14 Friendship Points}}
+|-
+|'''D Stage'''
+|{{Display|SandyPt|B|x16 Friendship Points}}
+|-
+|'''SP Stage'''
+|{{Display|SandyPt|B|x18 Friendship Points}}
+|}
+|}
+
+== Event Missions ==
+*Event missions will unlock one-by-one daily from May 30th to June 6th.
+
+{| class="wikitable" style="text-align:center"
+! Phases
+! Total Amount of<br> "Friendship Points"
+! Rewards
+|-
+|'''Day 1'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x100 Friendship Points}}
+|{{Display|Coinicon|N|x300 Coins}}
+|-
+|'''Day 2'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x200 Friendship Points}}
+|{{Display|Coinicon|N|x300 Coins}}
+|-
+|'''Day 3'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x350 Friendship Points}}
+|{{Display|Coinicon|N|x500 Coins}}
+|-
+|'''Day 4'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x500 Friendship Points}}
+|{{Display|DefenseT3TB|G|x1 T3 Defense Skillbook|50|Skills#Training_Skills{{!}}T3 Defense Support}}
+|-
+|'''Day 5'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x650 Friendship Points}}
+|{{Display|SupportT3TB|G|x1 T3 Support Skillbook|50|Skills#Training_Skills{{!}}T3 Utility Support}}
+|-
+|'''Day 6'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x800 Friendship Points}}
+|{{Display|OffenseT3TB|G|x1 T3 Offense Skillbook|50|Skills#Training_Skills{{!}}T3 Offense Skillbook}}
+|-
+|'''Day 7'''
+| style="background-color:PowderBlue" | {{Display|SandyPt|B|x1000 Friendship Points}}
+|{{Display|Li'l SandyIcon|B|''[[Li'l Sandy]]''}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |Provisional Ship (NPC)
+|-
+!will be able to do the following:
+!will NOT be able to do the following:
+|-
+| style="background-color:PaleGreen" |'''★''' Sortie to normal mode maps<br>'''★''' Gain experience<br>'''★''' Increase affection<br>'''★''' Be reinforced<br>'''★''' Be limit broken<br>'''★''' Train skills
+| style="background-color:LightCoral" |'''★''' Be set as secretary<br>'''★''' Join commissions<br>'''★''' Go into either floor of Dorm<br>'''★''' Study in Classroom<br>'''★''' Join PvP or serve in PvP defense fleet<br>'''★''' Break level cap<br>'''★''' Be used as reinforcement for another ship<br>'''★''' Be retired<br>'''★''' Marry
+|-
+|}
+
+*'''★ NOTICE!''' If '''[[Li'l Sandy]]''' has not permanently joined your fleet after the event ends, she will leave your fleet.

@@ -1,0 +1,202 @@
+{{ContentBox
+|text = black
+|border = #0000FF
+|header = #00FFFF
+|body = #1178CE
+|logo = EssexChibi.png{{!}}60px
+|title = "Air Raid Drills with Essex" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:#ffffff;">
+* '''CN/JP/KR Server: February 28th 2019 - March 7th 2019'''
+</div>
+}}
+
+<div style="width:640px; margin:auto; padding:10px; clear:both; background:#ffdddd; border:1px solid #a2a9b1; border-left:8px solid red; display:flex"><div class="mbox-image" style="margin:auto;padding:0 10px;">[[File:Secret node.png|52px]]</div><div class="mbox-text" style="padding:5px"><span style="font-size:120%">'''This event page is about the original CN/JP run of this event.'''</span><br>The page for the rerun version of this event, which is also the first run for EN, can be found '''[[Air Raid Drills with Essex Rerun|here]]'''</div></div>
+
+== Event Ships ==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Shangri-La|CV||'''Construction'''|04:25:00}}
+{{ShipDisplay|5|Essex|CV||'''Construction'''|04:25:00}}
+{{ShipDisplay|4|Independence|CVL||'''[[#Point Milestones|Point Accumulation]]'''}}
+</div>
+
+== Limited Craft ==
+[[File:Air Raid Drills with Essex - Construction.png|500px]]
+
+*During the event, 2 new ships will be added to limited construction:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Shangri-La|CV||''04:25:00''|'''2%'''}}
+{{ShipDisplay|5|Essex|CV||''04:25:00|'''1.8%'''}}
+</div>
+
+== Limited Skin ==
+*'''New time-limited skins''' will be available in the cash shop for the duration of the event:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Shangri-La|CV|Casual|'''The Collector's Paradise'''|<!-- gem cost here -->|1}}
+{{ShipDisplay|4|Independence|CVL|School|'''New Transfer Student'''|<!-- gem cost here -->|1}}
+</div>
+
+== Event Description ==
+[[File:Air Raid Drills with Essex - Main Screen Start.png|500px]]
+
+*In this event, Essex will be the boss and all the Commanders in the Server will need to work together to defeat Essex.
+* Participating in the event will cost oil depending on fleet used but will not give any experience to ships.
+*When the timer runs out, or your fleet is defeated, or the enemy is exhausted, contribution value will be given according to the total damage done.
+*The battle will have a total time limit of 60 seconds. The higher the damage you cause, the  better rewards and contributions you will get. If you withdraw from battle, you will not receive any reward.
+*Using the following ships will grant increased contribution points:
+**[[Shangri-La]]: 20% more
+**[[Independence]]: 10% more
+*The event will be divided into multiple stages: 75%, 50%, 25%, and 0%. The lower the percentage, the stronger Essex will be.
+*After it gets down to 0%, the enemy will get an "exhausted effect" and will do lower damage.
+{| class="wikitable"
+|-
+ ! Stamina
+ ! Weapon Type
+ ! Status Effects on Boss Essex
+|-
+ | rowspan="3" | 100% - 75%
+ | Air
+ | Decreases damage taken by 78%
+|-
+ | Shelling
+ | No change
+|-
+ | Torpedo
+ | No change
+|-
+ | rowspan="3" | 75% - 50%
+ | Air
+ | Decreases damage taken by 73%
+|-
+ | Shelling
+ | Decreases damage taken by 10%
+|-
+ | Torpedo
+ | Decreases damage taken by 10%
+|-
+ | rowspan="3" | 50% - 25%
+ | Air
+ | Decreases damage taken by 63%
+|-
+ | Shelling
+ | Decreases damage taken by 20%
+|-
+ | Torpedo
+ | Decreases damage taken by 20%
+|-
+ | rowspan="3" | 25% - 0%
+ | Air
+ | Decreases damage taken by 48%
+|-
+ | Shelling
+ | Decreases damage taken by 30%
+|-
+ | Torpedo
+ | Decreases damage taken by 30%
+|-
+ | rowspan="3" | Exhausted
+ | Air
+ | Decreases damage taken by 59%
+|-
+ | Shelling
+ | No change
+|-
+ | Torpedo
+ | No change
+|}
+
+===Event Drops===
+{| class="wikitable" style="text-align:center"
+ ! colspan="7" |Gauge Reward
+ |-
+ !75&nbsp;%
+ !50&nbsp;%
+ !25&nbsp;%
+ !0&nbsp;%
+ |-
+ | {{Display|AuxT3Plate|P|T3 General Part|60|}}
+ | {{Display|BattleshipT3BP|G|T3 Battleship Retrofit Blueprint|60|}}
+ | {{Display|26620|G|Twin 40mm Bofors Hazemeyer Mount Mk IV Designs|60|Twin 40mm Bofors Hazemeyer Mount Mk IV}}
+ | {{Display|18060|G|1x Torpedo Squadron 8 (VT-8)|60|Torpedo Squadron 8 (VT-8)}}
+ |}
+* Possible equipment blueprint drops :
+{{EquipmentBox|5|T0 Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer Mount Mk IV|26620}}
+{{EquipmentBox|4|T3 Grumman TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T2 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+{{EquipmentBox|4|T3 Vought F4U Corsair|Vought F4U Corsair|17200}}
+{{EquipmentBox|4|T3 Quadruple 28mm AA Chicago Piano|Quadruple 28mm AA Chicago Piano|16200}}
+Other possible drops from the battle include food, weapon skins, gold, and T2 plates. T3 plates may also drop, but only after Essex drops to below 50%.
+
+== Daily Tasks ==
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = ESX-1
+|desccn = 参与活动5次
+|descen = Participate in the event 5 times.
+|reward= {{Display|EssexPt|Rare|300x Contribution Point}}
+}}
+|}
+
+== Point Milestones ==
+* Introduced in this event, the '''total amount of Contribution''' you gain during this event will be counted. Once you reach certain thresholds you will get rewards.
+
+{| class="wikitable" style="text-align:center"
+![[File:EssexPt.png|30px|link=|Exercise Points]]
+!Reward
+![[File:EssexPt.png|30px|link=|Exercise Points]]
+!Reward
+![[File:EssexPt.png|30px|link=|Exercise Points]]
+!Reward
+|-
+|400
+|{{Display|UnknownT1Book|Rare|3x T1 Random Skill Book}}
+|600
+|{{Display|26620|G|1x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer]] blueprint}}
+|800
+|{{Display|Moduleicon|G|50x Cognitive Chips}}
+|-
+|1000
+|{{Display|26620|G|2x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer]] blueprint}}
+|1500
+|{{Display|Moduleicon|G|100x Cognitive Chips}}
+|2000
+|{{Display|Oilicon|E|200x Oil}}
+|-
+|2500
+|{{Display|Cat Box Elite|P|1x Elite Cat Box}}
+|3000
+|{{Display|26620|G|3x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer]] blueprint}}
+|3500
+|{{Display|Coinicon|E|1000x Coins}}
+|-
+|4000
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|4500
+|{{Display|IndependenceIcon|P|[[Independence]]}}
+|5000
+|{{Display|26620|G|4x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer]] blueprint}}
+|-
+|6000
+|{{Display|IndependenceIcon|P|[[Independence]]}}
+|7000
+|{{Display|UnknownT3Book|G|3x T3 Random Skill Book}}
+|8000
+|{{Display|Cat Box Super Rare|G|1x Super Rare Cat Box}}
+|-
+|9000
+|{{Display|CarrierT3BP|G|1x T3 Carrier Retrofit Blueprint}}
+|10000
+|{{Display|IndependenceIcon|P|[[Independence]]}}
+|14000
+|{{Display|26620|G|5x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer]] blueprint}}
+|-
+|18000
+|{{Display|IndependenceIcon|P|[[Independence]]}}
+|24000
+|{{Display|26620|G|5x [[Twin 40mm Bofors Hazemeyer Mount Mk IV|Twin 40mm Bofors Hazemeyer]] blueprint}}
+|30000
+|{{Display|IndependenceIcon|P|[[Independence]]}}
+|}
+
+[[Category:Events]]

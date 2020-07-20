@@ -1,0 +1,247 @@
+{{ContentBox
+|text = white
+|border = #000
+|header = #A7312F
+|body = #F8D095
+|logo = Pow_head.png
+|title = "Effort, Hope, and Planning" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:black;">
+* '''CN Server: June 8th 2017 - June 16th 2017'''
+* '''JP Server: September 28th 2017 - October 8th 2017'''
+* '''KR Server: April 10th 2018 - April 24th 2018'''
+* '''EN Server: September 13th 2018 - September 30th 2018 (Named: Strive, Wish and Strategize)'''
+* '''EN Rerun: October 20th 2018 - October 22nd 2018 (Named: Strive, Wish and Strategize)'''
+* '''Event Story:''' [[Memories/Power,_Hope_and_Plans|Power, Hope and Plans]]
+</div>
+}}
+
+==Limited Craft==
+
+{| class="wikitable"
+|-
+| [[File:pow_craft.png|500px]]
+|}
+
+*During event time following new ships will be available for construct in limited construction tab:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Prince of Wales|BB||''04:50:00''|'''2.25%'''}}
+{{ShipDisplay|5|Atago|CA||''02:05:00''|'''1.75%'''}}
+{{ShipDisplay|4|Vampire|DD||''00:18:00''|'''3.5%'''}}
+</div>
+
+*Ships in limited construction will later be added to permanent pool.
+
+==Event Maps==
+
+*New ships drop locations:
+
+{| class="wikitable" style="text-align: center;"
+|-
+| style="background-color:PaleGoldenrod"|[[File:Prince_of_WalesIcon.png|50px|link=Prince_of_Wales]]
+| style="background-color:PaleGoldenrod"|[[Prince of Wales]]
+| SP3
+|-
+| style="background-color:Plum"|[[File:VampireIcon.png|50px|link=Vampire]]
+| style="background-color:Plum"|[[Vampire]]
+| SP2, SP3
+|-
+|}
+
+<tabber>
+SP1={{Map
+ | Title = 立ち込める暗雲
+ | Introduction = 敵艦隊、マレー海域に集結！新たに結成された「Z部隊」は敵情調査を一任された。
+「Z部隊」を援護して任務を完遂せよ！
+ | Requirements = Commander Level 15
+ | ClearReward = [[Universal Bullin]]
+ | 3StarReward = 100 {{Furniture Coin}}
+
+ | MobLevel = 28
+ | MobExp1 = 
+ | MobExp2 = 282
+ | MobExp3 = 
+ | Boss = [[Kongou]]
+ | BossLevel = 30
+ | BossExp = 
+
+ | BossBattleReq = 2
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 5 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = None
+ | ActualAirSupremacy = None
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T2}} T1-T2 Tech Boxes, {{coin}} Coin
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Douglas BTD-1 Destroyer|Douglas BTD-1 Destroyer|19200}}
+{{EquipmentBox|4|T3 Fairey Swordfish|Fairey Swordfish|28000}}
+{{EquipmentBox|4|T3 Fairey Fulmar|Fairey Fulmar|29100}}
+{{EquipmentBox|4|T3 Nakajima B6N Tenzan|Nakajima B6N Tenzan|38100}}
+{{EquipmentBox|4|T3 Aichi D3A Type 99|Aichi D3A Type 99|39000}}
+ | ShipDrops = 
+
+ | PreviewFile = POW SP1
+ | NodeMap = 
+
+ | Fleet1 = 1 {{BB}} BC, 1 {{CL}} CL
+ | Fleet2 = 1 {{BB}} BB, 1 {{DD}} DD
+}}
+ |-|
+SP2={{Map
+ | Title = 「Z」の反撃
+ | Introduction = 重桜陸軍航空隊相手に、POWとレパルスの対空火力が足りず、戦闘は膠着状態に入った。
+ | Requirements = SP1 Clear
+ | ClearReward = 2500 {{coin}}
+ | 3StarReward = {{Box|T4}} x2 Random T4 Tech Boxes
+
+ | MobLevel = 32
+ | MobExp1 = 
+ | MobExp2 = 306
+ | MobExp3 = 
+ | Boss = [[Kongou]]
+ | BossLevel = 35
+ | BossExp = 470
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = None
+ | ActualAirSupremacy = None
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T3 Quadruple 40mm AA Vickers Pom Pom|Quadruple 40mm AA Vickers Pom Pom|26100}}
+{{EquipmentBox|4|T3 Twin 140mm (3rd Year Type)|Twin 140mm (3rd Year Type)|32100}}
+{{EquipmentBox|4|T3 Twin 410mm (3rd Year Type)|Twin 410mm (3rd Year Type)|34100}}
+ | ShipDrops =
+{{ShipDropIcon|Vampire|E}}
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Indianapolis|E}}
+{{ShipDropIcon|Sims|Ra}}
+{{ShipDropIcon|Hammann|Ra}}
+{{ShipDropIcon|Tennessee|R}}
+{{ShipDropIcon|California|R}}
+{{ShipDropIcon|Repulse|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = POW SP2
+ | NodeMap = 
+
+ | Fleet1 = 1 {{BB}} BC, 1 {{CL}} CL
+ | Fleet2 = 1 {{BB}} BB, 1 {{DD}} DD
+
+}} 
+ |-|
+SP3={{Map
+ | Title = 大艦巨砲の挽歌
+ | Introduction = レパルスとPOWに被雷多数！重桜南方艦隊も接近中！最後の一刻まで持ちこたえよ！
+ | Requirements = SP2 Clear
+ | ClearReward = [[Universal Bullin]]
+ | 3StarReward = T3 [[Quadruple 356mm (BL 14" Mk VII)]]
+
+ | MobLevel = 38
+ | MobExp1 = 
+ | MobExp2 = 342
+ | MobExp3 = 
+ | Boss = [[Atago]]
+ | BossLevel = 40
+ | BossExp = 513
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = None
+ | ActualAirSupremacy = None
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin
+ | EquipmentDrops =
+{{EquipmentBox|5|T3 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 Twin 152mm (BL 6" Mk XXII)|Twin 152mm (BL 6" Mk XXII)|22100}}
+{{EquipmentBox|4|T2 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 Twin 203mm (3rd Year Type)|Twin 203mm (3rd Year Type)|33000}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+ | ShipDrops =
+{{ShipDropIcon|Prince of Wales|SR}}
+{{ShipDropIcon|Vampire|E}}
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Rodney|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Repulse|R}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Oklahoma|N}}
+{{ShipDropIcon|Nevada|N}}
+{{ShipDropIcon|Bogue|N}}
+{{ShipDropIcon|Langley|N}}
+{{ShipDropIcon|Ranger|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = POW SP3
+ | NodeMap = 
+
+ | FleetA = 1 {{BB}} BC, 1 {{CL}} CL
+ | FleetB = 1 {{BB}} BB, 1 {{DD}} DD
+
+}}
+</tabber>
+
+==Event Tasks==
+
+{| class="wikitable"
+|-
+|[[File:pow_tasks.png|500px]]
+|}
+
+*Maps clear and 3★ Rewards:
+
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+|'''SP1'''
+|{{Display|Universal_BullinIcon|P|[[Universal Bullin]]}}
+|{{Display|Furniture coin|B|100 Furniture Coins}}
+|-
+|'''SP2'''
+|{{Display|Coinicon|W|2500 Gold}}
+|{{Display|T4Box|G|2x Random T4 Equipment Boxes}}
+|-
+|'''SP3'''
+|{{Display|Universal_BullinIcon|P|[[Universal Bullin]]}}
+|{{Display|24000|G|[[Quadruple 356mm (BL 14" Mk VII)]]}}
+|}
+
+[[Category:Events]]

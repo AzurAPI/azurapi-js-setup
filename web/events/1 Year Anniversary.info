@@ -1,0 +1,422 @@
+{{ContentBox
+|text = #414141
+|border = #F0D28D
+|header = #F0D28D
+|body = #F9E8C3
+|logo = FubukiPartyChibi.png{{!}}80px
+|title = "1 Year Anniversary" Event
+|marginTop = 10px
+|content = <div style="padding-bottom:3px; color:282957">
+* '''CN/JP/KR servers: September 14th - October 7th 2018'''
+** While this event run happened concurrently in all regions, it was the 1st Year Anniversary only for the JP region.
+* '''EN server: August 15th - September 4th 2019'''
+</div>
+}}
+
+__TOC__
+==Limited Craft==
+{| class="wikitable"
+|-
+| [[File:1st_Year_Construction_JP.png|500px]]
+|}
+
+* During the event and for a limited time, 4 new ships will be available to be constructed from limited construction banner.
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Albacore|SS||''00:24:00''|'''0.5%'''}}
+{{ShipDisplay|5|Essex|CV||''04:25:00''|'''1.8%'''}}
+{{ShipDisplay|5|Taihou|CV||''04:45:00''|'''1.8%'''}}
+{{ShipDisplay|4|Le Temeraire|DD||''00:26:00''|'''2.5%'''}}
+</div>	
+
+* Ships in limited construction will later be added to permanent pool.
+==New Skins: "Party" series==
+{| class="wikitable"
+|-
+| [[File:The_Minuet_in_G_Minor_Event_CN.png|500px]]
+|}
+
+*During the event, "Party" series skins will be on sale. Afterwards, they will remain available for purchase in the store:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|Ajax|CL|Party|Party Queen|{{Ruby}} 780}}
+{{ShipDisplay|5|Akashi|AR|Party|Black Cat Strikes!|{{Ruby}} 880}}
+{{ShipDisplay|3|Amazon|DD|Party|Little Orchestra|{{Ruby}} 780}}
+{{ShipDisplay|4|Aurora|CL|Party|Dawn's Paean|{{Ruby}} 780}}
+{{ShipDisplay|4|Cleveland|CL|Party|Gentry Knight|{{Ruby}} 1080||L2D}}
+{{ShipDisplay|4|Fubuki|CL|Party|Music Pixy|{{Ruby}} 1080||L2D}}
+{{ShipDisplay|5|Illustrious|CV|Party|Illustrious Ballroom|{{Ruby}} 880}}
+{{ShipDisplay|5|Monarch|BB|Party|Simple White Grandeur|{{Ruby}} 800<br>(not discounted)}}
+{{ShipDisplay|4|Queen Elizabeth|BB|Party|Queen's Ball|{{Ruby}} 780}}
+{{ShipDisplay|5|South Dakota|BB|Party|Solo Concert|{{Ruby}} 880}}
+{{ShipDisplay|5|Taihou|CV|Party|Forbidden Feast|{{Ruby}} 1180||L2D}}
+{{ShipDisplay|5|U-81|SS|Party|Tranquil Serenade|{{Ruby}} 880}}
+</div>
+
+* These skins will be discounted until Oct 7th, 23:59 JST. Afterwards, they will be permanently implemented at standard price.
+
+==Albacore's Canvas==
+{| class="wikitable"
+|-
+| [[File:Albacore_Event_Banner_JP.png|500px]]
+|}
+
+*During the event, you can clear special event missions by reaching certain amounts of total fuel used.
+*These tasks will grant you "Paint Pigment" [[File:Draw_a.png|28px]] that you can use to complete your paintings. 
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = E28-01
+|desccn = 累計燃料消費500<br>累计消耗石油500
+|descen = Spend 500 oil total.
+|reward= {{Display|Draw_a|B|20x Paint A}}{{Display|Draw_b|B|50x Paint B}}{{Display|Draw_c|B|50x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-02
+|desccn = 累計燃料消費1000<br>累计消耗石油1000
+|descen = Spend 1,000 oil total.
+|reward= {{Display|Draw_e|B|10x Paint E}}{{Display|Draw_f|B|9x Paint F}}{{Display|Draw_g|B|31x Paint G}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-03
+|desccn = 累計燃料消費1500<br>累计消耗石油1500
+|descen = Spend 1,500 oil total.
+|reward= {{Display|Draw_a|B|25x Paint A}}{{Display|Draw_b|B|51x Paint B}}{{Display|Draw_c|B|58x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-04
+|desccn = 累計燃料消費2000<br>累计消耗石油2000
+|descen = Spend 2,000 oil total.
+|reward= {{Display|Draw_a|B|30x Paint A}}{{Display|Draw_b|B|42x Paint B}}{{Display|Draw_c|B|75x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-05
+|desccn = 累計燃料消費2500<br>累计消耗石油2500
+|descen = Spend 2,500 oil total.
+|reward= {{Display|Draw_d|B|39x Paint D}}{{Display|Draw_f|B|40x Paint F}}{{Display|Draw_g|B|2x Paint G}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-06
+|desccn = 累計燃料消費3000<br>累计消耗石油4000
+|descen = Spend 3,000 oil total.
+|reward= {{Display|Draw_a|B|37x Paint A}}{{Display|Draw_b|B|50x Paint B}}{{Display|Draw_c|B|75x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-07
+|desccn = 累計燃料消費4000<br>累计消耗石油4000
+|descen = Spend 4,000 oil total.
+|reward= {{Display|Draw_b|B|50x Paint B}}{{Display|Draw_c|B|85x Paint C}}{{Display|Draw_f|B|44x Paint F}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-08
+|desccn = 累計燃料消費5000<br>累计消耗石油5000
+|descen = Spend 5,000 oil total.
+|reward= {{Display|Draw_a|B|51x Paint A}}{{Display|Draw_b|B|175x Paint B}}{{Display|Draw_c|B|153x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-09
+|desccn = 累計燃料消費6000<br>累计消耗石油6000
+|descen = Spend 6,000 oil total.
+|reward= {{Display|Draw_e|B|32x Paint E}}{{Display|Draw_f|B|8x Paint F}}{{Display|Draw_g|B|80x Paint G}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-10
+|desccn = 累計燃料消費7000<br>累计消耗石油7000
+|descen = Spend 7,000 oil total.
+|reward= {{Display|Draw_a|B|4x Paint A}}{{Display|Draw_b|B|60x Paint B}}{{Display|Draw_c|B|120x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-11
+|desccn = 累計燃料消費8000<br>累计消耗石油8000
+|descen = Spend 8,000 oil total.
+|reward= {{Display|Draw_f|B|8x Paint F}}{{Display|Draw_b|B|75x Paint B}}{{Display|Draw_c|B|159x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-12
+|desccn = 累計燃料消費9000<br>累计消耗石油9000
+|descen = Spend 9,000 oil total.
+|reward= {{Display|Draw_a|B|271x Paint A}}{{Display|Draw_b|B|149x Paint B}}{{Display|Draw_c|B|5x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-13
+|desccn = 累計燃料消費10000<br>累计消耗石油10000
+|descen = Spend 10,000 oil total.
+|reward= {{Display|Draw_e|B|34x Paint E}}{{Display|Draw_f|B|24x Paint F}}{{Display|Draw_g|B|148x Paint G}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-14
+|desccn = 累計燃料消費11000<br>累计消耗石油11000
+|descen = Spend 11,000 oil total.
+|reward= {{Display|Draw_a|B|100x Paint A}}{{Display|Draw_b|B|100x Paint B}}{{Display|Draw_c|B|24x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-15
+|desccn = 累計燃料消費12000<br>累计消耗石油12000
+|descen = Spend 12,000 oil total.
+|reward= {{Display|Draw_d|B|28x Paint A}}{{Display|Draw_e|B|7x Paint B}}{{Display|Draw_f|B|3x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-16
+|desccn = 累計燃料消費13000<br>累计消耗石油13000
+|descen = Spend 13,000 oil total.
+|reward= {{Display|Draw_g|B|42x Paint G}}{{Display|Draw_a|B|107x Paint A}}{{Display|Draw_b|B|118x Paint B}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-17
+|desccn = 累計燃料消費14000<br>累计消耗石油14000
+|descen = Spend 14,000 oil total.
+|reward= {{Display|Draw_a|B|200x Paint A}}{{Display|Draw_b|B|184x Paint B}}{{Display|Draw_c|B|23x Paint C}}
+|notes= 
+}}
+{{Mission
+|type = Event
+|listnum = E28-18
+|desccn = 累計燃料消費15000<br>累计消耗石油15000
+|descen = Spend 15,000 oil total.
+|reward= {{Display|Draw_e|B|25x Paint E}}{{Display|Draw_f|B|113x Paint F}}{{Display|Draw_g|B|119x Paint G}}
+|notes= 
+}}
+|}
+
+*By completing these paintings, you will receive rewards such as {{Super Rare}} '''[[Albacore]]''' {{SS}} and the furniture piece, '''"Festival Stage"'''.
+*Paint is obtained through cumulative spending of oil, estimated completion of event requires approximately 15000 {{oil}}.
+*The incomplete canvases will be unlocked one-by-one each day from Sep. 14th to Sep. 20th.
+
+===Rewards in JP===
+
+{| class="wikitable" style="text-align: center;"
+! '''Painting 1'''
+! '''Painting 2'''
+! '''Painting 3'''
+! '''Painting 4'''
+! '''Painting 5'''
+! '''Painting 6'''
+! '''Painting 7'''
+|-
+| width="50px" | ''"Roll Paper"''
+| width="50px" | 1x Random T3 Skill Book
+| width="50px" | ''"Gem Recycler"''
+| width="50px" | 2x T3 Auxiliary Plates
+| width="50px" | ''"Festival Stage"''
+| width="50px" | 3x T3 Auxiliary Plates
+| width="50px" | [[Albacore]]
+|-
+| style="background-color:PowderBlue" |[[File:Roll_Paper.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:UnknownT3Book.png|100px]]
+| style="background-color:Plum" |[[File:Gem_Recycler.png|100px]]
+| style="background-color:Plum" |[[File:AuxT3Plate.png|100px]]
+| style="background-color:Plum" |[[File:Festival_Stage.png|100px]]
+| style="background-color:Plum" |[[File:AuxT3Plate.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:AlbacoreIcon.png|100px]]
+|}
+
+===Rewards in CN===
+
+{| class="wikitable" style="text-align: center;"
+! '''Painting 1'''
+! '''Painting 2'''
+! '''Painting 3'''
+! '''Painting 4'''
+! '''Painting 5'''
+! '''Painting 6'''
+! '''Painting 7'''
+|-
+| width="50px" | ''"Announcement Stand"''
+| width="50px" | 1x Random T3 Skill Book
+| width="50px" | ''"Floating Balloon"''
+| width="50px" | 2x T3 Auxiliary Plates
+| width="50px" | ''"Candy Van"''
+| width="50px" | 3x T3 Auxiliary Plates
+| width="50px" | [[Albacore]]
+|-
+| style="background-color:PowderBlue" |[[File:Announcement_Stand.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:UnknownT3Book.png|100px]]
+| style="background-color:Plum" |[[File:Floating_Balloon.png|100px]]
+| style="background-color:Plum" |[[File:AuxT3Plate.png|100px]]
+| style="background-color:Plum" |[[File:Candy_Van.png|100px]]
+| style="background-color:Plum" |[[File:AuxT3Plate.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:AlbacoreIcon.png|100px]]
+|}
+
+===Painting Gallery===
+<gallery mode="packed">
+1YA_Paint_1.png|''Nº 1'' 
+1YA_Paint_2.png|''Nº 2'' 
+1YA_Paint_3.png|''Nº 3''
+1YA_Paint_4.png|''Nº 4'' 
+1YA_Paint_5.png|''Nº 5''
+1YA_Paint_6.png|''Nº 6'' 
+1YA_Paint_7.png|''Nº 7'' 
+</gallery>
+
+==Special Party by the Harbor==
+{| class="wikitable"
+|-
+| [[File:YamaParty_Event_Banner_JP.png|500px]]
+|}
+*'''Yamashiro's questline:''' tap [[Yamashiro]] in [[Academy]] to receive the event task. Every day 2 new tasks will unlock. Complete all the tasks to receive [[Yamashiro]]'s '''"Stylish Black Cat"''' skin.
+*'''Questline story:''' [[Memories/Special Party by the Harbor|Special Party by the Harbor]]
+
+{{MissionHeader}}
+{{MissionDouble
+|type = Event
+|listnum = E29-01
+|desccn1 = S評価で10回勝利する<br>舰队出征，以S胜评价通关10次
+|desccn2 = 装備を2回強化する<br>进行装备强化2次
+|descen1 = Sortie and obtain 10 wins with S ranks.
+|descen2 = Enhance gears 2 times.
+|reward1 = {{Display|Cat_Box_Rare|B|3x Rare Cat Boxes}}
+|reward2 = {{Display|Coinicon|N|100x Coin}}
+|notes= Day 1
+}}
+{{MissionDouble
+|type = Event
+|listnum = E29-02
+|desccn1 = 委託を2回行う<br>进行2次委托
+|desccn2 = 演習を2回行う<br>进行2次演习
+|descen1 = Complete 2 commissions.
+|descen2 = Win 2 exercises.
+|reward1 = {{Display|Cat_Box_Elite|P|1x Elite Cat Box}}
+|reward2 = {{Display|Coinicon|N|100x Coin}}
+|notes= Day 2
+}}
+{{MissionDouble
+|type = Event
+|listnum = E29-03
+|desccn1 = 任意の艦を2隻退役させる<br>退役2次舰船
+|desccn2 = デイリーチャレンジを3回クリアする<br>完成3次每日副本挑战
+|descen1 = Retire 2 ships.
+|descen2 = Complete 3 Daily Challenges.
+|reward1 = {{Display|Cat_Box_Rare|B|3x Rare Cat Boxes}}
+|reward2 = {{Display|Coinicon|N|100x Coin}}
+|notes= Day 3
+}}
+{{MissionDouble
+|type = Event
+|listnum = E29-04
+|desccn1 = 戦術教室で戦術訓練を2回行う<br>进行2次技能训练
+|desccn2 = 艦隊を5回「強化」せよ！<br>舰船强化5次
+|descen1 = Conduct tactical training 2 times.
+|descen2 = Enhance ships 5 times.
+|reward1 = {{Display|Cat_Box_Elite|P|1x Elite Cat Box}}
+|reward2 = {{Display|Coinicon|N|100x Coin}}
+|notes= Day 4
+}}
+{{MissionDouble
+|type = Event
+|listnum = E29-05
+|desccn1 = 任意の敵を20隻撃破する<br>累计击败敌方舰队20艘
+|desccn2 = 寮舎で食糧を5回補充する<br>补充后宅食物5次
+|descen1 = Defeat 20 enemies.
+|descen2 = Resupply the Dorm 5 times.
+|reward1 = {{Display|Cat_Box_Rare|B|4x Rare Cat Boxes}}
+|reward2 = {{Display|Coinicon|N|100x Coin}}
+|notes= Day 5
+}}
+{{MissionDouble
+|type = Event
+|listnum = E29-06
+|desccn1 = 建造を2回行う<br>建造2次舰船
+|desccn2 = 装備箱を1個使用する<br>使用1次科技箱
+|descen1 = Build 2 ships.
+|descen2 = Open any Tech Box.
+|reward1 = {{Display|Cat_Box_Elite|P|2x Elite Cat Box}}
+|reward2 = {{Display|Coinicon|N|100x Coin}}
+|notes= Day 6
+}}
+{{MissionDouble
+|type = Event
+|listnum = E29-07
+|desccn1 = 敵中枢艦隊を3回撃破する<br>通关地图3次
+|desccn2 = 戦術教室でスキルを2回強化する<br>进行战术训练2次
+|descen1 = Sortie and defeat 3 Boss Fleets.
+|descen2 = Conduct tactical training 2 times.
+|reward1 = {{Display|Cat_Box_Super_Rare|G|x1 Super Rare Cat Box}}
+|reward2 = {{Display|YamashiroPartyIcon|B|[[Yamashiro]]´s ''"Stylish Black Cat"''}}
+|notes= Day 7
+}}
+|}
+
+==1 Year Anniversary - Login Bonus==
+<center>
+{| class="wikitable" style="text-align:left;font-size:15px"
+|-
+| [[File:1YA_Login_Banner_JP_1.png|500px]]
+| [[File:1YA_Login_Banner_JP_2.png|500px]]
+|}</center>
+
+*By logging in during the event a certain number of days, you will receive wonderful prizes such as {{Elite}} '''[[Kirishima]]''' {{BB}} and [[File:T5Box.png|28px]] T5 equipment box.
+*Added an additional '''8th day reward''', '''"Invitation to the Anniversary"'''. Use it to choose one of the following {{Super Rare}} ships: 
+{{Display|San DiegoIcon|G|[[San Diego]]}} {{Display|BelfastIcon|G|[[Belfast]]}} {{Display|TakaoIcon|G|[[Takao]]}} {{Display|WarspiteIcon|G|[[Warspite]]}} {{Display|HoodIcon|G|[[Hood]]}} {{Display|EnterpriseIcon|G|[[Enterprise]]}} {{Display|IllustriousIcon|G|[[Illustrious]]}} {{Display|Prince of WalesIcon|G|[[Prince of Wales]]}} {{Display|AtagoIcon|G|[[Atago]]}}
+{| class="wikitable" style="text-align: center;"
+! '''1st Day'''
+! '''2nd Day'''
+! '''3rd Day'''
+! '''4th Day'''
+! '''5th Day'''
+! '''6th Day'''
+! '''7th Day'''
+! '''8th Day'''
+|-
+| width="50px" | 10x Random T4 Tech Box
+| width="50px" | 100x Furniture Coins
+| width="50px" | 200x Core Data
+| width="50px" | 3x T3 Offense Skill Book
+| width="50px" | 1x Random T5 Tech Box
+| width="50px" | 1000x Mental Modules
+| width="50px" | [[Kirishima]]
+| width="50px" | ''"Invitation to the Anniversary"''
+|-
+| style="background-color:PaleGoldenRod" |[[File:T4Box.png|100px]]
+| style="background-color:PowderBlue" |[[File:Furniture coin.png|100px]]
+| style="background-color:PowderBlue" |[[File:Core_Data.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:OffenseT3TB.png|100px]]
+| style="background-color:{{linear-gradient|left|#ffdddd, #ddffdd 50%, #ddddff}}" |[[File:T5Box.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:Moduleicon.png|100px]]
+| style="background-color:Plum" |[[File:KirishimaIcon.png|100px]]
+| style="background-color:PaleGoldenRod" |[[File:Invitiation.png|100px]]
+|}
+
+==1 Year Anniversary - Summary==
+
+*During the anniversary, you may check out many of your player statistics such as:
+*Available period from Sept 14th after maintenance to Oct 7th 23:59 JST.
+<gallery mode="slideshow">
+OneYear_SummayJP_1.png|''1st Page'' 
+OneYear_SummayJP_2.png|''2nd Page'' 
+OneYear_SummayJP_3.png|''3rd Page''
+OneYear_SummayJP_4.png|''4th Page'' 
+</gallery>
+
+[[Category:Events]]

@@ -1,0 +1,1484 @@
+{{ContentBox
+|text = white
+|border = #000
+|header = #e14529
+|body = #707070
+|logo = Deutschland_head.png
+|title = "Opposite-Colored" Event
+|marginTop = 10px
+|content = <div class="darklinks" style="padding:5px 0px 10px 0px; color:white;">
+* '''CN/JP Server: June 28th - July 15th 2018'''
+* '''EN Server: October 31st - November 13th 2019'''
+* '''See also the initial run [[Opposite-Colored]] and the initial run of the EN version, "[[Divergent Chessboard]]".'''
+</div>
+}}
+
+== Event Ships and Construction ==
+For the duration of the event, the following ships will be available as '''rewards''' or in the '''Limited Construction Pool''':
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Graf Zeppelin|CV||'''Construction (2%)<br>04:35:00'''}}
+{{ShipDisplay|5|Z46|DD||'''Construction (1.5%)<br>00:39:00'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|5|U-47|SS||'''Construction (2%)<br>00:11:00'''}}
+{{ShipDisplay|5|Tirpitz|BB||'''[[#Points Exchange Shop|Event Shop]]'''}}
+{{ShipDisplay|5|Prinz Eugen|CA||'''Construction (No Rate up) 02:00:00'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|4|Deutschland|CA||'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|4|Admiral Hipper|CA||'''Construction (2.5%)<br>02:00:00'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|4|Scharnhorst|BC||'''[[#Map Completion Tasks|Map Clear Reward]]'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|4|Gneisenau|BC||'''[[#Points Exchange Shop|Event Shop]]'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|4|U-557|SS||'''[[#Point Milestone|Point Accumulation Reward]]'''}}
+{{ShipDisplay|4|Z25|DD||'''Construction (2.5%)<br>00:33:00'''}}
+{{ShipDisplay|4|Z35|DD||'''Construction (2.5%)<br>00:35:00'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|3|Z19|DD||'''Construction (5%)<br>00:31:00'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|2|Z20|DD||'''[[#Map Completion Tasks|Map Clear Reward]]'''|'''[[#Event Maps|Map Drop]]'''}}
+{{ShipDisplay|2|Z21|DD||'''[[#Map Completion Tasks|Map Clear Reward]]'''|'''[[#Event Maps|Map Drop]]'''}} 
+</div>
+
+== Event Skins ==
+For the duration of the event, the following skins will be available in the '''skin shop''':
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Graf Zeppelin|CV|Summer|Beachside Urd|{{Ruby}} 1180|1|L2D BG|106|}}
+{{ShipDisplay|5|Z46|DD|Summer|First Summer|{{Ruby}} 1180|1|L2D BG|106|}}
+{{ShipDisplay|5|U-47|SS|Bike|Beginner Rider|{{Gem}} 880|1}}
+{{ShipDisplay|4|Z25|DD|Summer|Cool Breeze of the Hot Summer|{{Gem}} 780|1}}
+</div>
+
+== Event Maps ==
+The event maps consist of eight '''Normal stages''', eight '''Hard stages''' and an '''EX stage'''. '''Points''' [[File:RedPt.png|25px]] are rewarded for defeating the boss at any map (except EX).
+*All Normal maps will have '''x3 Points [[File:RedPt.png|25px]] bonus for first clear each day'''.
+*The EN version of this event uses the [[Combat#Danger_Level|Danger Level]] mechanic.
+*'''Points''' [[File:RedPt.png|25px|link=]] rewards per map and '''ship drops''':
+<div style="display:flex; flex-wrap:wrap">
+{| class="azltable" style="text-align:center;margin-right:1em"
+|+ Ship Drops
+|-
+| style="background-color:PaleGoldenrod" |[[File:Z46Icon.png|50px|link=Z46]]
+| [[Z46]]
+| B4, D4 (Boss node only)
+|-
+| style="background-color:PaleGoldenrod" |[[File:Prinz_EugenIcon.png|50px|link=Prinz_Eugen]]
+| [[Prinz Eugen]]
+| D3 (Boss node only)
+|-
+| style="background-color:Plum" |[[File:Z35Icon.png|50px|link=Z35]]
+| [[Z35]]
+| B4, D4
+|-
+| style="background-color:Plum" |[[File:DeutschlandIcon.png|50px|link=Deutschland]]
+| [[Deutschland]]
+| B1, B4, C4, D1, D4
+|-
+| style="background-color:Plum" |[[File:Admiral_HipperIcon.png|50px|link=Admiral_Hipper]]
+| [[Admiral Hipper]]
+| A4, C4, D1
+|-
+| style="background-color:Plum" |[[File:ScharnhorstIcon.png|50px|link=Scharnhorst]]
+| [[Scharnhorst]]
+| B3, D2, D3, D4
+|-
+| style="background-color:Plum" |[[File:GneisenauIcon.png|50px|link=Gneisenau]]
+| [[Gneisenau]]
+| B2, D2, D3, D4
+|-
+| style="background-color:PowderBlue " |[[File:Z19Icon.png|50px|link=Z19]]
+| [[Z19]]
+| All maps except A1, A2
+|-
+| style="background-color:Gainsboro " |[[File:Z20Icon.png|50px|link=Z20]]
+| [[Z20]]
+| All maps except A1
+|-
+| style="background-color:Gainsboro " |[[File:Z21Icon.png|50px|link=Z21]]
+| [[Z21]]
+| All maps except A1
+|}
+{| class="azltable" style="text-align: center;"
+|+ [[File:RedPt.png|25px]] Rewards
+|-
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|30 [[File:RedPt.png|25px]]
+|'''C1'''
+|110 [[File:RedPt.png|25px]]
+|-
+|'''A2'''
+|40 [[File:RedPt.png|25px]]
+|'''C2'''
+|120 [[File:RedPt.png|25px]]
+|-
+|'''A3'''
+|50 [[File:RedPt.png|25px]]
+|'''C3'''
+|130 [[File:RedPt.png|25px]]
+|-
+|'''A4'''
+|60 [[File:RedPt.png|25px]]
+|'''C4'''
+|150 [[File:RedPt.png|25px]]
+|-
+|'''B1'''
+| 70 [[File:RedPt.png|25px]]
+|'''D1'''
+|180 [[File:RedPt.png|25px]]
+|-
+|'''B2'''
+| 80 [[File:RedPt.png|25px]]
+|'''D2'''
+|210 [[File:RedPt.png|25px]]
+|-
+|'''B3'''
+| 90 [[File:RedPt.png|25px]]
+|'''D3'''
+|250 [[File:RedPt.png|25px]]
+|-
+|'''B4'''
+| 100 [[File:RedPt.png|25px]]
+|'''D4'''
+|300 [[File:RedPt.png|25px]]
+|}
+</div>
+
+<div role="presentation" style="max-width:640px;margin:auto;padding:.2em;clear:both;background:#ffd;border:1px solid #aab;border-left:8px solid #f90;display:flex"><div class="mbox-image" style="margin:auto;padding:0 10px;">[[File:Secret node.png|40px]]</div><div class="mbox-text" style="padding:5px;margin:auto 0">The following sections describe maps available for the November 2019 EN Rerun version. Other versions of this event may have different map layout, composition and rewards.</div></div>
+===Normal Maps===
+<tabber>
+A1={{Map
+ | Title = ~Opening~
+ | Requirements = Clear [[2-1]]
+ | Introduction = <<SysLog.Id256>>Reset all tactical modules, Player "WHITE" has entered the board, begin deployment of "BLACK" <Minor pieces>, behavior synchronicity: 98.3%
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 200 [[File:RedPt.png|25px]]
+ | 3StarReward = 500 {{oil}}, [[Z20]]
+
+ | MobLevel = 20-22
+ | MobExp1 = 130
+ | MobExp2 = 149
+ | MobExp3 = 168
+ | Boss = [[Deutschland]]
+ | BossLevel = 23
+ | BossExp = 210
+
+ | BossBattleReq = 3
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}}, 30 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+{{EquipmentBox|3|T2 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+{{EquipmentBox|3|T2 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|44000}}
+ | ShipDrops = 
+{{ShipDropIcon|Amazon|3}}
+{{ShipDropIcon|Brooklyn|3}}
+{{ShipDropIcon|Phoenix|3}}
+{{ShipDropIcon|Atlanta|3}}
+{{ShipDropIcon|Juneau|3}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s| |x|e| |e| |x|
+    | |e| | |e| |c|x|c
+    | | |e| | | |u| |
+    | |e| |x|x|c| |c|
+    |s| | |c|x| |c| |b
+  }}
+}}
+ |-|
+A2={{Map
+ | Title = ~Development~
+ | Requirements = A1 Clear
+ | Introduction = <<SysLog:Id256>>"WHITE" has sacrificed a pawn, earning small <Development> advantage, behavior synchronicity: 97.1%
+ | ClearReward =  1 {{cube}}, 600 {{coin}}, 400 [[File:RedPt.png|25px]]
+ | 3StarReward = [[Universal Bullin]], [[Z21]]
+
+ | MobLevel = 24-26
+ | MobExp1 = 150
+ | MobExp2 = 171
+ | MobExp3 = 192
+ | Boss = [[Admiral Hipper]]
+ | BossLevel = 27
+ | BossExp = 239
+
+ | BossBattleReq = 3
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 175
+ | ActualAirSupremacy = 135
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 40 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|44000}}
+{{EquipmentBox|3|T2 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+{{EquipmentBox|3|T2 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+ | ShipDrops =
+{{ShipDropIcon|Fortune|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Tennessee|3}}
+{{ShipDropIcon|California|3}}
+{{ShipDropIcon|Shropshire|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}} 
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s|e| |e| | | | | |c|
+    |s| | | | |e| |c|x|x|
+    |s| |e|x|x|x| | |u|c|
+    |s| |e|x|x|x| |e| | |c
+    |s| | |e| | | | |x| |
+    |s| | | | |e| |b|x| |b
+  }}
+}}
+ |-|
+A3={{Map
+ | Title = ~Initiative~
+ | Requirements = A2 Clear 
+ | Introduction = <<SysLog.Id256>>"WHITE" has gained <Initiative> for the time being, "BLACK" begin <Counterplay>, behavior synchronicity: 84.3%
+ | ClearReward = 1 {{Cube}}, 600 {{Coin}}, 600 [[File:RedPt.png|25px]]
+ | 3StarReward = [[File:DestroyerT3BP.png|25px]] 1x T3 Destroyer Retrofit Blueprint
+
+ | MobLevel = 28-30
+ | MobExp1 = 170
+ | MobExp2 = 193
+ | MobExp3 = 216
+ | Boss = [[Gneisenau]]
+ | BossLevel = 31
+ | BossExp = 268
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 220
+ | ActualAirSupremacy = 170
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 50 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+{{EquipmentBox|3|T2 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+{{EquipmentBox|3|T2 Junkers Ju-87C|Junkers Ju-87C|49000}}
+ | ShipDrops =
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Arethusa|3}}
+{{ShipDropIcon|Galatea|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Thatcher|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Abukuma|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s|x|e| |e| | | |c|b
+    |s|x| | | | |e| | |
+    | | | |e|x|x|x|u|c|x
+    | |e| | | | |c| | |c
+    | | | | |e| | |c| |
+    |x|e|e|x|x|x|q| | |b
+  }}
+}}
+ |-|
+A4={{Map
+ | Title = ~Promotion~
+ | Requirements = A3 Clear
+ | Introduction = <<SysLog.Id256>>"WHITE" has gained <Promotion>, "BLACK" executes Action: <Skewer>, behavior synchronicity: 57.9%
+ | ClearReward = 2 {{Cube}}, 600 {{Coin}}, 800 [[File:RedPt.png|25px]]
+ | 3StarReward = [[File:DestroyerT3BP.png|25px]] 2x T3 Destroyer Retrofit Blueprint
+
+ | MobLevel = 32-34
+ | MobExp1 = 190
+ | MobExp2 = 215
+ | MobExp3 = 240
+ | Boss = [[Scharnhorst]] and [[Gneisenau]]
+ | BossLevel = 35
+ | BossExp = 297
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 265
+ | ActualAirSupremacy = 205
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 20 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+{{EquipmentBox|4|T3 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+{{EquipmentBox|4|T3 Junkers Ju-87C|Junkers Ju-87C|49000}}
+{{EquipmentBox|3|T2 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+ | ShipDrops =
+{{ShipDropIcon|Admiral Hipper|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Northampton|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Fortune|3}}
+{{ShipDropIcon|Juno|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}} 
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s| | |x|e| | | |c| |q
+    | | |x|x|x| |c| | | |
+    |e| | |e| | | |x|x|x|
+    |e| | | | |x|u|x|b| |
+    | | |e| | | |c|x|x|x|
+    | | |x|x|e| | |c| | |
+    |s| |e|x| |e| | | |c|q
+  }}
+ | Notes = Scharnhorst and Gneisenau are stationary; if a player has enough health to tank any incoming damage, it is advisable to sit in front of Scharnhorst and focus fire on them, and unleash as many torpedo salvos directly into them as possible.
+}}
+|-|
+B1={{Map
+ | Title = ~Transposition~
+ | Requirements = A4 Clear
+ | Introduction = <<SysLog.Id256>>Test is reset, uNknOwN. Quarantine mechanism is activated. All <Piece> back to the mix, behavior synchronicity: 0%
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:RedPt.png|25px]]
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 36-38
+ | MobExp1 = 210
+ | MobExp2 = 237
+ | MobExp3 =  264
+ | Boss = [[Z46]]
+ | BossLevel = 39
+ | BossExp = 326
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 285
+ | ActualAirSupremacy = 220
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 30 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T2 533mm Quadruple Homing Torpedo Mount|533mm Quadruple Homing Torpedo Mount|45100}}
+{{EquipmentBox|4|T3 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+{{EquipmentBox|3|T2 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+ | ShipDrops = 
+{{ShipDropIcon|Deutschland|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Thatcher|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | NodeMap = {{MapTable/2
+    |x|e| | | | | |b
+    |x| | |e|u|c|c|
+    |e| |e|x|x|x| |
+    | | |e|x|x|x|e|
+    |s| | | | | | |
+    |s| | |e| |c| |b
+  }}
+}}
+ |-|
+B2={{Map
+ | Title = ~Deflection~
+ | Requirements = B1 Clear
+ | Introduction = <<SysLog.Id256>>"WHITE" checks "BLACK", defending against <Skewer> and regaining <Initiative>, behavior synchronicity: None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 600 [[File:RedPt.png|25px]]
+ | 3StarReward = [[Trial Bullin MKII]]
+
+ | MobLevel = 40-42
+ | MobExp1 = 230
+ | MobExp2 = 259
+ | MobExp3 = 288
+ | Boss = [[Graf Zeppelin]]
+ | BossLevel = 43
+ | BossExp = 355
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 415
+ | ActualAirSupremacy = 320
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 40 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Air Radar|Air Radar|1100}}
+{{EquipmentBox|4|T3 Drop Tank|Drop Tank|2100}}
+{{EquipmentBox|4|T2 Messerschmitt Me-155A|Messerschmitt Me-155A|47100}}
+{{EquipmentBox|4|T3 Junkers Ju-87C|Junkers Ju-87C|49000}}
+{{EquipmentBox|3|T2 Junkers Ju-87C|Junkers Ju-87C|49000}}
+ | ShipDrops = 
+{{ShipDropIcon|Gneisenau|4}}
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Sims|3}}
+{{ShipDropIcon|Hammann|3}}
+{{ShipDropIcon|Brooklyn|3}}
+{{ShipDropIcon|Phoenix|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable/2
+    |b| | | | |b
+    |c| |x|x| |c
+    | |u|c|x| |
+    |c| | |e| |e
+    | |e| | | |q
+    |x|x| | |e|x
+    | |x| |e| |
+    |s| | | | |s
+  }}
+}}
+ |-|
+B3={{Map
+ | Title = ~Overworked~
+ | Requirements = B2 Clear
+ | Introduction = <<SysLog.Id256>>WARNING: Experiment has encountered a BUG, Multiple "BLACK" piece exhibit signs of sentience, recommendation: emergency DEBUG protocol
+ | ClearReward = 2 {{cube}}, 600 {{coin}}, 800 [[File:RedPt.png|25px]]
+ | 3StarReward = [[File:DestroyerT3BP.png|30px]] 1x T3 Destroyer Retrofit Blueprint
+
+ | MobLevel = 44-46
+ | MobExp1 = 250
+ | MobExp2 = 281
+ | MobExp3 = 312
+ | Boss = [[Tirpitz]]
+ | BossLevel = 47
+ | BossExp = 384
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 50 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|44000}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+{{EquipmentBox|4|T3 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+{{EquipmentBox|4|T1 533mm Quintuple Homing Torpedo Mount|533mm Quintuple Homing Torpedo Mount|45200}}
+ | ShipDrops =
+{{ShipDropIcon|Scharnhorst|4}}
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Yamashiro|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Amazon|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+ | NodeMap = {{MapTable/2
+    |x|c|c|q|c| |x
+    | | |u| | | |c
+    | |c|x|x|x| |
+    | | |x|b|x|c|
+    |e| | | | | |
+    | | |x|x|x| |e
+    | |e| |e| | |
+    |s| | | | |e|s
+  }}
+}}
+ |-|
+B4={{Map
+ | Title = ~Checkmate~
+ | Requirements = B3 Clear
+ | Introduction = <<SysLog.Id256>><wbr>Logging interrupted<wbr>>>>Abnormal data detected<wbr>>>>Log overwritten <<SysLog.Id257>><wbr>Reset all tactical modules, Player "WHITE" has entered the board on time
+ | ClearReward = [[Scharnhorst]], 600 {{coin}}, 1000 [[File:RedPt.png|25px]]
+ | 3StarReward = [[File:DestroyerT3BP.png|30px]] 2x T3 Destroyer Retrofit Blueprint
+
+ | MobLevel = 48-50
+ | MobExp1 = 207
+ | MobExp2 = 303
+ | MobExp3 = 336
+ | Boss = [[Tester Beta]]
+ | BossLevel = 61 ('''CN'''), 51 ('''EN/JP''')
+ | BossExp = 413
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 695
+ | ActualAirSupremacy = 535
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, 60 [[File:RedPt.png|25px]]
+ | EquipmentDrops =
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T2 Twin 105mm (SK C/33)|Twin 105mm (SK C/33)|46300}}
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+ | ShipDrops =
+{{ShipDropIcon|Z46|5}}
+{{ShipDropIcon|Deutschland|4}}
+{{ShipDropIcon|Z35|4}}
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Shropshire|3}}
+{{ShipDropIcon|Kent|3}}
+{{ShipDropIcon|Suffolk|3}}
+{{ShipDropIcon|Norfolk|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | NodeMap = {{MapTable/2
+    |x| | |e| | | | |c
+    | |e| | | |c| | |
+    | | | |c| |x|x|c|
+    |e| |c|x| |x|x| |
+    | | | | |b| | | |
+    | |e|x|x| |x|c| |e
+    | | | |x| |c|u| |
+    |s| | |e| | | |e|
+    |s|s| | | |e| | |x
+  }}
+}}
+</tabber>
+
+===Hard Maps===
+<tabber>
+C1={{Map
+ | Title = ~Openings~
+ | Introduction = <<SysLog.Id256>><wbr>Initializing Tactical Model. "White" Player Confirmed. "Black" "Minor Pieces" Transport begins. Rate of matching action 98.3%.
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 200 [[File:RedPt.png|25px]]
+ | 3StarReward = 500 {{oil}}, [[Z20]]
+
+ | MobLevel = 55-57
+ | MobExp1 = 305
+ | MobExp2 = 341
+ | MobExp3 = 378
+ | Boss = [[Deutschland]]
+ | BossLevel = 58
+ | BossExp = 464
+
+ | BossBattleReq = 3
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 460
+ | ActualAirSupremacy = 355
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 110 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 127mm (5"/38 Mk 38)|Twin 127mm (5"/38 Mk 38)|11200}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+{{EquipmentBox|3|T2 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+{{EquipmentBox|3|T2 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|44000}}
+ | ShipDrops =
+{{ShipDropIcon|Z19|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Cygnet|N}}
+{{ShipDropIcon|Z20|N}}
+{{ShipDropIcon|Z21|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s| |x|e| |e| |x|
+    | |e| | |e| |c|x|c
+    | | |e| | | |u| |
+    | |e| |x|x|c| |c|
+    |s| | |c|x| |c| |b
+  }}
+ | Notes = 
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CL}} CL, 1 {{DD}} DD
+ | Fleet2 = No restrictions
+ | StatRestrictions = Average level > 55, {{Firepower}} Total Firepower stat > 500, {{Aviation}} Total Aviation stat > 600 ('''EN/JP''')
+}}
+ |-|
+C2={{Map
+ | Title = ~Development~
+ | Introduction = <<SysLog.Id256>>"WHITE" has sacrificed a pawn, earning small <Development> advantage, behavior synchronicity: 97.1%
+ | Requirements = C1 Clear
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:RedPt.png|25px]]
+ | 3StarReward = [[Universal Bullin]], [[Z21]]
+
+ | MobLevel = 59-61
+ | MobExp1 = 325
+ | MobExp2 = 363
+ | MobExp3 = 402
+ | Boss = [[Admiral Hipper]]
+ | BossLevel = 62
+ | BossExp = 493
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 560
+ | ActualAirSupremacy = 430
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 120 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Triple 203mm (8"/55 Mk 15)|Triple 203mm (8"/55 Mk 15)|13100}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|43100}}
+{{EquipmentBox|3|T2 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+{{EquipmentBox|3|T2 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+ | ShipDrops =
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Pennsylvania|3}}
+{{ShipDropIcon|Tennessee|3}}
+{{ShipDropIcon|California|3}}
+{{ShipDropIcon|Shropshire|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s|e| |e| | | | | |c|
+    |s| | | | |e| |c|x|x|
+    |s| |e|x|x|x| | |u|c|
+    |s| |e|x|x|x| |e| | |c
+    |s| | |e| | | | |x| |
+    |s| | | | |e| |b|x| |b
+  }}
+ | Notes =
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CL}} CL,  1 {{DD}} DD
+ | Fleet2 = No restrictions
+ | StatRestrictionss = Average level > 59, {{Torpedo}} Total Torpedo stat > 850, {{Aviation}} Total Aviation stat > 650
+}}
+ |-|
+C3={{Map
+ | Title = ~Initiative~
+ | Introduction = <<SysLog.Id256>>"WHITE" has gained <Initiative> for the time being, "BLACK" begin <Counterplay>, behavior synchronicity: 84.3%
+ | Requirements = C2 Clear
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 600 [[File:RedPt.png|25px]]
+ | 3StarReward = 1 [[File:DestroyerT3BP.png|30px]]
+
+ | MobLevel = 63-65
+ | MobExp1 = 345
+ | MobExp2 = 385
+ | MobExp3 = 426
+ | Boss = [[Gneisenau]]
+ | BossLevel = 65
+ | BossExp = 515
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 655
+ | ActualAirSupremacy = 505
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 130 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T3 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+{{EquipmentBox|3|T2 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+{{EquipmentBox|3|T2 Junkers Ju-87C|Junkers Ju-87C|49000}}
+ | ShipDrops =
+{{ShipDropIcon|Z19|3}}        
+{{ShipDropIcon|Arethusa|3}}   
+{{ShipDropIcon|Galatea|3}}    
+{{ShipDropIcon|Gridley|3}}    
+{{ShipDropIcon|Thatcher|3}}   
+{{ShipDropIcon|Z20|2}}        
+{{ShipDropIcon|Z21|2}}        
+{{ShipDropIcon|Aulick|2}}     
+{{ShipDropIcon|Foote|2}}      
+{{ShipDropIcon|Spence|2}}     
+{{ShipDropIcon|Omaha|2}}      
+{{ShipDropIcon|Raleigh|2}}    
+{{ShipDropIcon|Abukuma|2}}    
+{{ShipDropIcon|Furutaka|2}}   
+{{ShipDropIcon|Kako|2}}       
+{{ShipDropIcon|Königsberg|2}} 
+{{ShipDropIcon|Karlsruhe|2}}  
+{{ShipDropIcon|Köln|2}}       
+{{ShipDropIcon|Beagle|2}}     
+{{ShipDropIcon|Bulldog|2}}    
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s|x|e| |e| | | |c|b
+    |s|x| | | | |e| | |
+    | | | |e|x|x|x|u|c|x
+    | |e| | | | |c| | |c
+    | | | | |e| | |c| |
+    |x|e|e|x|x|x|q| | |b
+  }}
+ | Notes = 
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CL}} CL,  1 {{DD}} DD
+ | Fleet2 = No restrictions
+ | StatRestrictions = Average level > 63, {{Evasion}} Total Evasion stat > 400, {{Aviation}} Total Aviation stat < 2000
+}}
+ |-|
+C4={{Map
+ | Title = ~Promotion~
+ | Introduction = <<SysLog.Id256>>"WHITE" has gained <Promotion>, "BLACK" executes Action: <Skewer>, behavior synchronicity: 57.9%
+ | Requirements = C3 Clear
+ | ClearReward = 2 {{cube}}, 600 {{coin}}, 800 [[File:RedPt.png|25px]]
+ | 3StarReward = 2 [[File:DestroyerT3BP.png|30px]]
+
+ | MobLevel = 66-68
+ | MobExp1 = 360
+ | MobExp2 = 402
+ | MobExp3 = 444
+ | MobExpSiren = 
+ | Boss = [[Scharnhorst]] and [[Gneisenau]]
+ | BossLevel = 69
+ | BossExp = 544
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 755
+ | ActualAirSupremacy = 580
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 150 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 381mm (BL 15" Mk I)|Twin 381mm (BL 15" Mk I)|24100}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+{{EquipmentBox|4|T3 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+{{EquipmentBox|4|T3 Junkers Ju-87C|Junkers Ju-87C|49000}}
+{{EquipmentBox|3|T2 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+ | ShipDrops =
+{{ShipDropIcon|Admiral Hipper|4}}
+{{ShipDropIcon|Deutschland|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Northampton|3}}
+{{ShipDropIcon|Chicago|3}}
+{{ShipDropIcon|Fortune|3}}
+{{ShipDropIcon|Juno|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Pensacola|2}}
+{{ShipDropIcon|Salt Lake City|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |s| | |x|e| | | |c| |q
+    | | |x|x|x| |c| | | |
+    |e| | |e| | | |x|x|x|
+    |e| | | | |x|u|x|b| |
+    | | |e| | | |c|x|x|x|
+    | | |x|x|e| | |c| | |
+    |s| |e|x| |e| | | |c|q
+  }}
+ | Notes = Scharnhorst and Gneisenau are stationary; if a player has enough health to tank any incoming damage, it is advisable to sit in front of Scharnhorst and focus fire on them, and unleash as many torpedo salvos directly into them as possible.
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CL}} CL,  1 {{DD}} DD
+ | Fleet2 = No restrictions
+ | StatRestrictions = Average level > 66, {{Firepower}} Firepower total value > 1000, {{AA}} Total Anti-Air stat > 1600
+}}
+|-|
+D1={{Map
+ | Title = ~Transposition~
+ | Introduction = <<SysLog.Id256>>Test is reset, uNknOwN. Quarantine mechanism is activated. All <Piece> back to the mix, behavior synchronicity: 0%
+ | Requirements = C4 Clear
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 400 [[File:RedPt.png|25px]]
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 70-72
+ | MobExp1 = 380
+ | MobExp2 = 424
+ | MobExp3 = 468
+ | MobExpSiren = 
+ | Boss = [[Z46]]
+ | BossLevel = 73
+ | BossExp = 573
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 825
+ | ActualAirSupremacy = 635
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 180 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 533mm Quadruple Homing Torpedo Mount|533mm Quadruple Homing Torpedo Mount|45100}}
+{{EquipmentBox|4|T3 533mm Quadruple Torpedo Mount|533mm Quadruple Torpedo Mount|5100}}
+{{EquipmentBox|4|T2 610mm Quadruple Torpedo Mount|610mm Quadruple Torpedo Mount|35200}}
+{{EquipmentBox|4|T2 533mm Quadruple Homing Torpedo Mount|533mm Quadruple Homing Torpedo Mount|45100}}
+{{EquipmentBox|4|T3 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+{{EquipmentBox|3|T2 Messerschmitt BF-109T|Messerschmitt BF-109T|47000}}
+ | ShipDrops = 
+{{ShipDropIcon|Admiral Hipper|4}}
+{{ShipDropIcon|Deutschland|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Portland|3}}
+{{ShipDropIcon|Gridley|3}}
+{{ShipDropIcon|Fletcher|3}}
+{{ShipDropIcon|Thatcher|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Leander|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |x|e| | | | | |b
+    |x| | |e|u|c|c|
+    |e| |e|x|x|x| |
+    | | |e|x|x|x|e|
+    |s| | | | | | |
+    |s| | |e| |c| |b
+  }}
+ | Notes = 
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 70, {{Torpedo}} Total Torpedo stat > 900, {{Evasion}} Total Evasion stat > 500
+}}
+ |-|
+D2={{Map
+ | Title = ~Deflection~
+ | Introduction = <<SysLog.Id256>><wbr>WARNING: Experiment has encountered a BUG, Multiple "BLACK" piece exhibit signs of sentience, recommendation: emergency DEBUG protocol
+ | Requirements = D1 Clear
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, 600 [[File:RedPt.png|25px]]
+ | 3StarReward = [[Trial Bullin MKII]]
+
+ | MobLevel = 74-76
+ | MobExp1 = 400
+ | MobExp2 = 446
+ | MobExp3 = 492
+ | MobExpSiren = 
+ | Boss = [[Graf Zeppelin]]
+ | BossLevel = 77
+ | BossExp = 602
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1025
+ | ActualAirSupremacy = 790
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 210 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Messerschmitt Me-155A|Messerschmitt Me-155A|47100}}
+{{EquipmentBox|4|T3 Air Radar|Air Radar|1100}}
+{{EquipmentBox|4|T3 Drop Tank|Drop Tank|2100}}
+{{EquipmentBox|4|T3 Junkers Ju-87C|Junkers Ju-87C|49000}}
+{{EquipmentBox|4|T2 Messerschmitt Me-155A|Messerschmitt Me-155A|47100}}
+{{EquipmentBox|3|T2 Junkers Ju-87C|Junkers Ju-87C|49000}}
+ | ShipDrops = 
+{{ShipDropIcon|Scharnhorst|4}}
+{{ShipDropIcon|Gneisenau|4}}
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Sims|3}}
+{{ShipDropIcon|Hammann|3}}
+{{ShipDropIcon|Brooklyn|3}}
+{{ShipDropIcon|Phoenix|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Cassin|2}}
+{{ShipDropIcon|Downes|2}}
+{{ShipDropIcon|Craven|2}}
+{{ShipDropIcon|McCall|2}}
+{{ShipDropIcon|Omaha|2}}
+{{ShipDropIcon|Raleigh|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |b| | | | |b
+    |c| |x|x| |c
+    | |u|c|x| |
+    |c| | |e| |e
+    | |e| | | |q
+    |x|x| | |e|x
+    | |x| |e| |
+    |s| | | | |s
+  }}
+ | Notes = 
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 74, {{AA}} Total Anti-Air stat > 2100, {{Aviation}} Total Aviation stat > 1100
+}}
+ |-|
+D3={{Map
+ | Title = ~Overworked~
+ | Introduction = <<SysLog.Id256>><wbr>Logging interrupted<wbr>>>>Abnormal data detected<wbr>>>>Log overwritten <<SysLog.Id257>><wbr>Reset all tactical modules, Player "WHITE" has entered the board on time
+ | Requirements = D2 Clear
+ | ClearReward = 2 {{cube}}, 600 {{coin}}, 800 [[File:RedPt.png|25px]]
+ | 3StarReward = 1 [[File:DestroyerT3BP.png|30px]]
+
+ | MobLevel = 78-80
+ | MobExp1 = 420
+ | MobExp2 = 468
+ | MobExp3 = 516
+ | MobExpSiren = 
+ | Boss = [[Tirpitz]]
+ | BossLevel = 81
+ | BossExp = 631
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 1240
+ | ActualAirSupremacy = 955
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, 250 [[File:RedPt.png|25px]]
+ | EquipmentDrops = 
+{{EquipmentBox|5|T2 533mm Quintuple Homing Torpedo Mount|533mm Quintuple Homing Torpedo Mount|45200}}
+{{EquipmentBox|4|T2 533mm Quintuple Torpedo Mount|533mm Quintuple Torpedo Mount|5200}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|44000}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/28)|Triple 283mm (SK C/28)|43100}}
+{{EquipmentBox|4|T3 533mm Triple Homing Torpedo Mount|533mm Triple Homing Torpedo Mount|45000}}
+{{EquipmentBox|4|T1 533mm Quintuple Homing Torpedo Mount|533mm Quintuple Homing Torpedo Mount|45200}}
+ | ShipDrops = 
+{{ShipDropIcon|Prinz Eugen|5}}
+{{ShipDropIcon|Scharnhorst|4}}
+{{ShipDropIcon|Gneisenau|4}}
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Fusou|3}}
+{{ShipDropIcon|Yamashiro|3}}
+{{ShipDropIcon|Long Island|3}}
+{{ShipDropIcon|Amazon|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Aulick|2}}
+{{ShipDropIcon|Foote|2}}
+{{ShipDropIcon|Spence|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Comet|2}}
+{{ShipDropIcon|Crescent|2}}
+{{ShipDropIcon|Cygnet|2}}
+{{ShipDropIcon|Foxhound|2}}
+{{ShipDropIcon|Hermes|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |x|c|c|q|c| |x
+    | | |u| | | |c
+    | |c|x|x|x| |
+    | | |x|b|x|c|
+    |e| | | | | |
+    | | |x|x|x| |e
+    | |e| |e| | |
+    |s| | | | |e|s
+  }}
+ | Notes = 
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 78, {{Firepower}} Total Firepower stat > 1100, {{Aviation}} Total Aviation stat < 2000
+}}
+ |-|
+D4={{Map
+ | Title = ~Checkmate~
+ | Introduction = <<SysLog.Id256>><wbr>logging paused
+ | Requirements = D-3 Clear
+ | ClearReward = [[Scharnhorst]], 600 {{coin}}, 1000 [[File:RedPt.png|25px]], '''"Medal of Iron Blood"''' furniture
+ | 3StarReward = 2 [[File:DestroyerT3BP.png|30px]]
+
+ | MobLevel = 82-84
+ | MobExp1 = 440
+ | MobExp2 = 490
+ | MobExp3 = 540
+ | MobExpSiren = 
+ | Boss = Testerβ
+ | BossLevel = 85
+ | BossExp = 660
+
+ | BossBattleReq = 5
+ | BossBattleClear = 6
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:RedPt.png|25px]] x300 PT, {{coin}}
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T2 Twin 105mm (SK C/33)|Twin 105mm (SK C/33)|46300}}
+{{EquipmentBox|4|T3 Twin 128mm (SK C/41)|Twin 128mm (SK C/41)|41100}}
+ | ShipDrops = 
+{{ShipDropIcon|Z46|5}}
+{{ShipDropIcon|Scharnhorst|4}}
+{{ShipDropIcon|Gneisenau|4}}
+{{ShipDropIcon|Deutschland|4}}
+{{ShipDropIcon|Z35|4}}
+{{ShipDropIcon|Z1|4}}
+{{ShipDropIcon|Z19|3}}
+{{ShipDropIcon|Shropshire|3}}
+{{ShipDropIcon|Kent|3}}
+{{ShipDropIcon|Suffolk|3}}
+{{ShipDropIcon|Norfolk|3}}
+{{ShipDropIcon|Z20|2}}
+{{ShipDropIcon|Z21|2}}
+{{ShipDropIcon|Nevada|2}}
+{{ShipDropIcon|Oklahoma|2}}
+{{ShipDropIcon|Bogue|2}}
+{{ShipDropIcon|Langley|2}}
+{{ShipDropIcon|Ranger|2}}
+{{ShipDropIcon|Beagle|2}}
+{{ShipDropIcon|Bulldog|2}}
+{{ShipDropIcon|Hermes|2}}
+{{ShipDropIcon|Furutaka|2}}
+{{ShipDropIcon|Kako|2}}
+{{ShipDropIcon|Königsberg|2}}
+{{ShipDropIcon|Karlsruhe|2}}
+{{ShipDropIcon|Köln|2}}
+ | PreviewFile = 
+ | NodeMap = {{MapTable/2
+    |x| | |e| | | | |c
+    | |e| | | |c| | |
+    | | | |c| |x|x|c|
+    |e| |c|x| |x|x| |
+    | | | | |b| | | |
+    | |e|x|x| |x|c| |e
+    | | | |x| |c|u| |
+    |s| | |e| | | |e|
+    |s|s| | | |e| | |x
+  }}
+ | Notes = 
+
+ | Hardmode = 1
+ | Fleet1 = 1 {{CV}} CV, 2 {{DD}} DD
+ | Fleet2 = 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL
+ | StatRestrictions = Average level > 82, {{Firepower}} Total Firepower stat > 1200, {{Aviation}} Total Aviation stat > 1000
+}}
+</tabber>
+
+=== EX Map ===
+{{Map
+<!-- General Information -->
+ | ctID = 9920021
+ | Title = ~Ending~
+ | Introduction = <<SysLog.Undefined>><wbr>"To the challenger who has broken samsara, surpassed limits, and reached the final <Ending>, wager the proof of your existence and await my final death <Game>"
+ | Requirements = D4 Clear
+
+<!-- Enemy Fleet Information -->
+ | Boss = [[Tirpitz]]
+ | BossLevel = 105
+ | BossExp = 0
+
+<!-- Stage Information -->
+ | BossBattleReq = 0
+ | BossBattleClear = 1
+ | Star1 =
+ | Star2 =
+ | Star3 =
+ | SuggestedAirSupremacy = 0
+ | ActualAirSupremacy = 0
+
+<!-- Stage Drop Information, Node Map and Notes -->
+ | MapDrops = None
+ | PreviewFile =
+ | NodeMap = {{MapTable/2
+    |x|x|x|x|x|x
+    |x| | | | |x
+    |x|s| | |b|x
+    |x| | | | |x
+    |x|x|x|x|x|x
+  }}
+}}
+
+== Event Tasks ==
+=== Map Completion Tasks ===
+The following rewards can be claimed after clearing event maps (reaching 100%) or 3-starring them. They can be completed using either normal or hard mode, '''both don't have to be completed''':
+<div style="display:flex; flex-wrap:wrap">
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !A1/C1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 200}}
+   | {{Display|Z20Icon|Normal|[[Z20]]}} {{Display|Oilicon|Grey|x 500}}
+   |-
+   !A2/C2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 400}}
+   | {{Display|Z21Icon|Normal|[[Z21]]}} {{Display|Universal BullinIcon|P|[[Universal Bullin]]}}
+   |-
+   !A3/C3
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 600}}
+   | {{Display|DestroyerT3BP|Super Rare|x 1}}
+   |-
+   !A4/C4
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 800}}
+   | {{Display|DestroyerT3BP|Super Rare|x 2}}
+  |}
+ </div>
+ <div>
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !B1/D1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 400}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !B2/D2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 600}}
+   | {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+   |-
+   !B3/D3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 800}}
+   | {{Display|DestroyerT3BP|Super Rare|x 1}}
+   |-
+   !B4/D4
+   | {{Display|ScharnhorstIcon|Elite|[[Scharnhorst]]}} {{Display|Coinicon|N|x 600}} {{Display|RedPt|Rare|x 1000}}
+   | {{Display|DestroyerT3BP|Super Rare|x 2}}
+  |}
+ </div>
+</div>
+
+Special furniture reward for clearing '''D4''' map:
+{{Display|Metalblood_Medal|6|Medal of<br>Ironblood}}
+
+=== Daily Tasks ===
+For each day of the event, these two tasks will be available to be completed once and reset again at the end of the day:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|RedPt|Rare|x 300 Points|35}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|RedPt|Rare|x 300 Points|35}}
+|}
+
+== Points Exchange Shop ==
+In the ''Points Exchange Shop'' the earned '''Points''' [[File:RedPt.png|25px|link=]] can be exchanged for the items listed below. The shop will be available until '''November 20th''' after the end of the event period.
+{{EventShop
+ | ShopName = Divergent-Chessboard Rerun
+ | TotalPt = 41200
+ | PtImage = RedPt
+
+ | ColorScheme = #960000
+ | Image = Tirpitz
+ | Size = 500
+ | Top = -45
+ | Left = 
+
+ | Items = 
+{{EventShopItem|Super Rare|Tirpitz|Tirpitz|TirpitzIcon|1|8000|RedPt|1}}
+{{EventShopItem|Elite|Gneisenau|Gneisenau|GneisenauIcon|1|4000|RedPt|1}}
+{{EventShopItem|Legendary|533mm Quintuple Homing Torpedo Mount|533mm_Quintuple_Homing_Torpedo_Mount|45200|1|6000|RedPt|1}}
+{{EventShopItem|Super Rare|Twin 380mm (SK C/34)|Twin_380mm_(SK_C/34)|44100|1|2000|RedPt|1}}
+{{EventShopItem|Super Rare|533mm Quadruple Homing Torpedo Mount|533mm_Quadruple_Homing_Torpedo_Mount|45100|1|2000|RedPt|1}}
+{{EventShopItem|Super Rare|Messerschmitt Me-155A|Messerschmitt Me-155A|47100|1|2000|RedPt|1}}
+{{EventShopItem|Elite|Compressed Oxygen Cylinder|Compressed Oxygen Cylinder|3100|1|1000|RedPt|1}}
+{{EventShopItem|Elite|Swordfish Mark II-ASV (Anti-Sub)|Swordfish Mark II-ASV (Anti-Sub)|4200|1|1000|RedPt|1}}
+{{EventShopItem|Super Rare|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|RedPt|100}}
+{{EventShopItem|Super Rare|Strengthening Unit S1|Research|AllSUnit|10|500|RedPt|1}}
+{{EventShopItem|Legendary|Winery Bath|Decorations|FurnIcon_pijiuchigericon|1|2000|RedPt|1}}
+{{EventShopItem|Super Rare|Wine Cask Bath|Decorations|FurnIcon_yuganggericon|1|1200|RedPt|1}}
+{{EventShopItem|Elite|Wine Cask Bed|Decorations|FurnIcon_chuanggericon|2|300|RedPt|1}}
+{{EventShopItem|Elite|Fancy Bar|Decorations|FurnIcon_gerbataiicon|1|300|RedPt|1}}
+{{EventShopItem|Elite|Chateau Sofa|Decorations|FurnIcon_shafagericon|2|300|RedPt|1}}
+{{EventShopItem|Normal|Oil||Oilicon|5|450|RedPt|1000}}
+{{EventShopItem|Rare|Naval Curry|Living_Area#Refilling_supplies|Food4|5|50|RedPt|1}}
+}}
+
+=== Historical Shops ===
+{| class="wikitable" style="text-align:center"
+|-
+| [[File:KMSRerunEventShopCN.png|500px]]
+| [[File:KMSRerunEventShopJP.png|500px]]
+|-
+| '''''CN Server Exchange Shop'''''
+| '''''JP Server Exchange Shop'''''
+|}
+
+== Point Milestone ==
+After reaching a certain threshold of '''Points''' [[File:RedPt.png|25px|link=]], you will be able to claim the rewards listed below. The rewards can be claimed until until the end of the event on '''November 13th''' (EN run date). Notable rewards include '''[[U-557]]'''.
+
+{| class="wikitable" style="text-align:center"
+![[File:RedPt.png|25px|link=]]
+!Reward
+![[File:RedPt.png|25px|link=]]
+!Reward
+![[File:RedPt.png|25px|link=]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|Elite|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|BattleshipT2BP|Elite|1x T2 Battleship Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|Normal|3000x Coins}}
+|1000
+|{{Display|Moduleicon|Super Rare|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|Normal|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|BattleshipT2BP|Elite|1x T2 Battleship Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|Normal|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|Elite|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|BattleshipT2BP|Elite|1x T2 Battleship Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|Super Rare|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|BattleshipT3BP|Super Rare|1x T3 Battleship Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|Super Rare|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|8500
+|{{Display|BattleshipT3BP|Super Rare|1x T3 Battleship Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|Super Rare|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|Super Rare|300x Cognitive Chips}}
+|10000
+|{{Display|U-557Icon|Elite|1x U-557}}
+|11000
+|{{Display|UnknownT3Book|Super Rare|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|Super Rare|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|BattleshipT3BP|Super Rare|1x T3 Battleship Retrofit Blueprint}}
+|-
+|15000
+|{{Display|U-557Icon|Elite|1x U-557}}
+|20000
+|{{Display|T5Box|Legendary|1x T5 Ironblood Tech Pack}}
+|25000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|-
+|30000
+|{{Display|Moduleicon|Super Rare|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|Super Rare|5x T3 Random Skill Book}}
+|40000
+|{{Display|U-557Icon|Elite|1x U-557}}
+|-
+|45000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|Super Rare|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|Super Rare|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|U-557Icon|Elite|1x U-557}}
+|80000
+|{{Display|T5Box|Legendary|1x T5 Ironblood Tech Pack}}
+|100000
+|{{Display|T5Box|Legendary|1x T5 Ironblood Tech Pack}}
+|}
+
+== Notes ==
+For old commanders that previously played the event, the following will be reset:
+* Amount of Pt possessed.
+* Total amount of Pt obtained.
+* Mission progression.
+* Stage progression.
+* Items in event shop, excluding furniture and hard mode medal.
+
+[[Category:Events]]

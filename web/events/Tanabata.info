@@ -1,0 +1,199 @@
+{{ContentBox
+|text = black
+|border = #AB5494
+|header = #AB5494
+|body = #DA94D7
+|logo = HoushouFestivalChibi.png{{!}}70px
+|title = "Tanabata" Event
+|marginTop = 10px
+|content = 
+* '''CN Server: August 28th 2017 - September 4th 2017'''
+* '''Event Story:''' [[Memories/Tanabata_Festival|Tanabata Festival]]
+</div>
+}}
+
+{| class="wikitable"
+|-
+| [[File:Qixi.jpg|400px]]
+|}
+
+==Maps==
+
+There are three maps for this event: SP1-SP3. Some tips:
+*SP-1 mobs drop T3 Upgrade plates; at level 50, this makes the map the lowest overall level to farm for these plates.
+*[[Houshou]] can be farmed on SP-3.
+
+<tabber>
+SP-1={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = 
+ | ClearReward = 600 {{coin}}, 1 {{cube}}
+ | 3StarReward = 500 {{fuel}}
+
+ | MobLevel = 50
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Akagi and Kaga
+ | BossLevel = 54
+ | BossExp = 
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = None
+ | ActualAirSupremacy = None
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Coin}} Coins
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = 
+ | NodeMap = 
+ | Notes = 
+
+}}
+ |-|
+SP-2={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = Clear SP-1
+ | ClearReward = 600 {{coin}}, 1 {{cube}}
+ | 3StarReward = 500 {{fuel}}
+
+ | MobLevel = 58
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Repulse and Prince of Wales
+ | BossLevel = 62
+ | BossExp = 
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = None
+ | ActualAirSupremacy = None
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Coin}} Coins
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = 
+ | NodeMap = 
+ | Notes = 
+
+}}
+ |-|
+SP-3={{Map
+ | Title = 
+ | Introduction = 
+ | Requirements = Clear SP-2
+ | ClearReward = Furniture
+ | 3StarReward = Bridge Furniture
+
+ | MobLevel = 66
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = 
+ | BossLevel = 70
+ | BossExp = 
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = None
+ | ActualAirSupremacy = None
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Coin}} Coins
+ | EquipmentDrops = 
+ | ShipDrops = {{ShipDropIcon|Houshou|4}}
+ | PreviewFile = 
+ | NodeMap = 
+ | Notes = 
+
+}}
+</tabber>
+
+==Tasks==
+
+There is an animated quest chain for this event, similar to the [[Akashi]] quest chain, as well as clear rewards for the maps (listed in the map template). They will be released once per day. '''Each Day, [[Houshou]] must be found in the academy, tapped, and the speech bubble tapped as well.''' The dialog box at the end of the screen takes the player to the tasks screen.
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = E5-01
+|desccn = 
+|descen = Build 1 ship.
+|reward = 
+|notes = Day 1
+}}
+{{Mission
+|type = Event
+|listnum = E5-02
+|desccn = 
+|descen = Clear SP-1.
+|reward = {{Display|Oilicon|Normal|100x Oil}}
+|notes = Day 2
+}}
+{{Mission
+|type = Event
+|listnum = E5-03
+|desccn = 
+|descen = Clear SP-2.
+|reward = {{Display|Oilicon|Normal|120x Oil}}
+|notes = Day 3
+}}
+{{Mission
+|type = Event
+|listnum = E5-04
+|desccn = 
+|descen = Clear SP-3.
+|reward = {{Display|Oilicon|Normal|150x Oil}}
+|notes = Day 4
+}}
+{{Mission
+|type = Event
+|listnum = E5-05
+|desccn = 
+|descen = Complete a Commission.
+|reward = 
+|notes = Day 5
+}}
+{{Mission
+|type = Event
+|listnum = E5-06
+|desccn = 
+|descen = Clear any event map three times.
+|reward = {{Display|T4Box|G|1x T4 Equipment Box}}
+|notes = Day 6
+}}
+{{Mission
+|type = Event
+|listnum = E5-07
+|desccn = 
+|descen = Watch a recollection.
+|reward = {{Display|HoushouFestivalIcon|Elite|[[Houshou]]'s "The dream of the Autumn Pillow"}}
+|notes = Day 7
+}}
+|}
+
+==Misc.==
+
+In addition to these two, there are a few additional things worth mentioning:
+
+*[[Ayanami]] has been added as a [[Collection]] reward for the Starter Ship collection's highest tier.
+*A premium item, 'Flying with Wings,' will be able to be purchased once. It is a set of two marriage rings.
+*There is a limited-time [[Erebus]] skin ('Unreal Happiness') available for purchase.
+*A limited-time, event only furniture set, 'Painting Classroom,' will be available in the backyard.
+
+[[Category:Events]]

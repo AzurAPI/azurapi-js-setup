@@ -1,0 +1,832 @@
+{{ContentBox
+|text = white
+|border = #000
+|header = #e14529
+|body = #707070
+|logo = Deutschland_head.png
+|title = "Opposite-Colored" Event
+|marginTop = 10px
+|content = <div style="padding:5px 0px 10px 0px; color:white;">
+* '''CN server: August 2nd - August 22th 2017'''
+* '''JP Server: December 26th 2017 - January 12th 2018'''
+* '''See also the [[Opposite-Colored Rerun|rerun]] and the EN version, "[[Divergent Chessboard]]".'''
+</div>
+}}
+
+===Limited Craft===
+{| class="wikitable"
+|-
+| [[File:kms_craft.png|500px]]
+|}
+
+*During event 3 new ships will be available for construct in limited construction tab:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Graf Zeppelin|CV||''04:35:00''|'''2%'''}}
+{{ShipDisplay|5|Z46|DD||''00:39:00''|'''1.5%'''}}
+{{ShipDisplay|4|Admiral Hipper|CA||''02:00:00''|'''2.5%'''}}
+</div>
+
+===Event Maps===
+
+{| class="wikitable"
+|-
+| [[File:kms_event_maps.png|500px]]
+|}
+
+*The event maps of Opposite-Colored can be played on two different difficulties: Normal and Hard (Commander level 50 required for CN server). They will take the Commander's fleet through a gauntlet of maps featuring special [[Ironblood]] enemies, and reward several Ironblood ships and equipment drops. Pt points ([[File:Pt.png|25px]]) are rewarded for defeating the boss at any map. <span style="color:red">All Normal maps will have x5 [[File:Pt.png|25px]] bonus for first clear each day (for JP Server only)</span>.
+
+*New ships drop and [[File:Pt.png|25px]] rewards:
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!
+!
+!JP Server
+!CN Server
+|-
+| style="background-color:PaleGoldenrod"|[[File:Z46Icon.png|50px|link=Z46]]
+| style="background-color:PaleGoldenrod"|[[Z46]]
+| B4, D4 (Boss node only)
+| D4 (Boss node only)
+|-
+| style="background-color:PaleGoldenrod"|
+[[File:Prinz EugenIcon.png|50px|link=Prinz Eugen]]
+| style="background-color:PaleGoldenrod"|[[Prinz Eugen]]
+| D3 (Boss node only)
+| D3 (Boss node only)
+|-
+| style="background-color:Plum"|[[File:DeutschlandIcon.png|50px|link=Deutschland]]
+| style="background-color:Plum"|[[Deutschland]]
+| B1, B4, C4, D1, D4
+| B4, D1, D2, D3, D4
+|-
+| style="background-color:Plum"|[[File:Admiral_HipperIcon.png|50px|link=Admiral_Hipper]]
+| style="background-color:Plum"|[[Admiral Hipper]]
+| A4, C4, D1
+| D3, D4
+|-
+| style="background-color:Plum"|[[File:ScharnhorstIcon.png|50px|link=Scharnhorst]]
+| style="background-color:Plum"|[[Scharnhorst]]
+| B3, D2, D3, D4
+| D3, D4
+|-
+| style="background-color:Plum"|[[File:GneisenauIcon.png|50px|link=Gneisenau]]
+| style="background-color:Plum"|[[Gneisenau]]
+| B2, D2, D3, D4
+| D3, D4
+|-
+| style="background-color:PowderBlue "|[[File:Z19Icon.png|50px|link=Z19]]
+| style="background-color:PowderBlue "|[[Z19]]
+| All maps
+| All maps
+|-
+| style="background-color:Gainsboro "|[[File:Z20Icon.png|50px|link=Z20]]
+| style="background-color:Gainsboro "|[[Z20]]
+| All maps
+| All maps
+|-
+| style="background-color:Gainsboro "|[[File:Z21Icon.png|50px|link=Z21]]
+| style="background-color:Gainsboro "|[[Z21]]
+| All maps
+| All maps
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!colspan=2|Normal Maps
+!colspan=2|Hard Maps
+|-
+|'''A1'''
+|5 [[File:Pt.png|50px]]
+|'''C1'''
+|30 [[File:Pt.png|50px]]
+|-
+|'''A2'''
+|10 [[File:Pt.png|50px]]
+|'''C2'''
+|50 [[File:Pt.png|50px]]
+|-
+|'''A3'''
+|15 [[File:Pt.png|50px]]
+|'''C3'''
+|70 [[File:Pt.png|50px]]
+|-
+|'''A4'''
+|20 [[File:Pt.png|50px]]
+|'''C4'''
+|90 [[File:Pt.png|50px]]
+|-
+|'''B1'''
+|30 [[File:Pt.png|50px]]
+|'''D1'''
+|120 [[File:Pt.png|50px]]
+|-
+|'''B2'''
+|40 [[File:Pt.png|50px]]
+|'''D2'''
+|150 [[File:Pt.png|50px]]
+|-
+|'''B3'''
+|50 [[File:Pt.png|50px]]
+|'''D3'''
+|180 [[File:Pt.png|50px]]
+|-
+|'''B4'''
+|60 [[File:Pt.png|50px]]
+|'''D4'''
+|210 [[File:Pt.png|50px]]
+|}
+|}
+
+====Normal Maps====
+
+<tabber>
+A-1={{Map
+ | Title = ~Openings~
+ | Introduction = <<SysLog.Id256>>戦術モジュール初期化。「白」プレイヤー確認「黒」「小駒(Minor Pieces)」移動開始。行動マッチング率100%
+ | ClearReward = T3 [[Twin 128mm (SK C/41)]]
+ | 3StarReward = 200 [[File:Pt.png|25px]]
+
+ | MobLevel = 50 ('''CN'''), 20 ('''JP''')
+ | MobExp1 = 234
+ | MobExp2 = 256
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = [[Deutschland]]
+ | BossLevel = 52 ('''CN'''), 22 ('''JP''')
+ | BossExp = 356
+
+ | BossBattleReq = 4 ('''CN'''), 3 ('''JP''')
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 5 [[File:Pt.png|25px]] (boss),  {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS A-1
+ | NodeMap = 
+ | Notes = 
+
+}}
+ |-|
+A-2={{Map
+ | Title = ~Development~
+ | Introduction = <<SysLog:Id256>>「白」ガンピット。「優勢(Development)」・小。行動マッチング率100%
+ | Requirements = A-1 Clear
+ | ClearReward = [[Universal Bullin]]
+ | 3StarReward = 250 [[File:Pt.png|25px]]
+
+ | MobLevel = 53 ('''CN'''), 24 ('''JP''')
+ | MobExp1 = 258
+ | MobExp2 = 283
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = [[Admiral Hipper]]
+ | BossLevel = 55 ('''CN'''), 26 ('''JP''')
+ | BossExp = 391
+
+ | BossBattleReq = 4 ('''CN'''), 3 ('''JP''')
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 10 [[File:Pt.png|25px]] (boss),  {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS A-2
+ | NodeMap = 
+ | Notes = 
+
+}}
+ |-|
+A-3={{Map
+ | Title = ~Initiative~
+ | Introduction = <<SysLog.Id256>>「白」「主導権(Initiative)」一時的確保。「黒」「反撃(CounterPlay)」開始。行動マッチング率93.6%
+ | Requirements = A-2 Clear
+ | ClearReward = T3 [[Messerschmitt BF-109T]]
+ | 3StarReward = 300 [[File:Pt.png|25px]]
+
+ | MobLevel = 56 ('''CN'''), 28 ('''JP''')
+ | MobExp1 = 338
+ | MobExp2 = 370
+ | MobExp3 = 405
+ | MobExpSiren = 
+ | Boss = [[Gneisenau]]
+ | BossLevel = 58 ('''CN'''), 30 ('''JP''')
+ | BossExp = 511
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 15 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS A-3
+ | NodeMap = 
+ | Notes = ? Node appears after second battle.
+
+}}
+ |-|
+A-4={{Map
+ | Title = ~Promotion~
+ | Introduction = <<SysLog.Id256>>「白」ポーンが「昇格(Promotion)」。「黒」「串刺し(Skewer)」を行う。行動マッチング率76.2%
+ | Requirements = A-3 Clear
+ | ClearReward = T3 [[533mm Quadruple Homing Torpedo Mount]]
+ | 3StarReward = 350 [[File:Pt.png|25px]]
+
+ | MobLevel = 59 ('''CN'''), 32 ('''JP''')
+ | MobExp1 = 367
+ | MobExp2 = 403
+ | MobExp3 = 440
+ | MobExpSiren = 
+ | Boss = [[Scharnhorst]]
+ | BossLevel = 61 ('''CN'''), 35 ('''JP''')
+ | BossExp = 604 ('''CN'''), 562 ('''JP''')
+
+ | BossBattleReq = 5 ('''CN'''), 4 ('''JP''')
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 20 [[File:Pt.png|25px]] (boss),  {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = {{ShipDropIcon|Z1|E}} 
+ | PreviewFile = KMS A-4
+ | NodeMap = 
+ | Notes = ? Nodes at far right top and bottom corners appear after 2nd and 3rd battle.<br/>
+Scharnhorst and Gneisenau are stationary; if a player has enough health to tank any incoming damage, it is advisable to sit in front of Scharnhorst and focus fire on them, and unleash as many torpedo salvos directly into them as possible.
+
+}}
+|-|
+B-1={{Map
+ | Title = ~Transposition~
+ | Introduction = <<SysLog.Id256>>実験初期化。原因不明。遮断構造「■■■」起動。全ての「ピース(Piece)」至急特異点に帰還せよ。行動マッチング率:None
+ | Requirements = A-4 Clear
+ | ClearReward = T3 [[Triple 283mm (SK C/28)]]
+ | 3StarReward = 400 [[File:Pt.png|25px]]
+
+ | MobLevel = 61 ('''CN'''), 38 ('''JP''')
+ | MobExp1 = 426 ('''CN'''), 342 ('''JP''')
+ | MobExp2 = 469 ('''CN'''), 375 ('''JP''')
+ | MobExp3 = 511 ('''CN'''), 410 ('''JP''')
+ | MobExpSiren = 
+ | Boss = [[Z46]]
+ | BossLevel = 63 ('''CN'''), 40 ('''JP''')
+ | BossExp = 631 ('''CN'''), 513 ('''JP''')
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 30 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS B-1
+ | NodeMap = 
+ | Notes = 
+
+}}
+ |-|
+B-2={{Map
+ | Title = ~Deflection~
+ | Introduction = <<SysLog.Id256>>「黒」ガーディアンの「串刺し(Skewer)」を確認。「白」再度主導権を獲得。行動マッチング率:None
+ | Requirements = B-1 Clear
+ | ClearReward = T3 [[Twin 380mm (SK C/34)]]
+ | 3StarReward = 450 [[File:Pt.png|25px]]
+
+ | MobLevel = 64 ('''CN'''), 41 ('''JP''')
+ | MobExp1 = 444 ('''CN'''), 360 ('''JP''')
+ | MobExp2 = 488 ('''CN'''), 396 ('''JP''')
+ | MobExp3 = 532 ('''CN'''), 538 ('''JP''')
+ | MobExpSiren = 
+ | Boss = [[Graf Zeppelin]]
+ | BossLevel = 65 ('''CN'''), 43 ('''JP''')
+ | BossExp = 648 ('''CN'''), 538 ('''JP''')
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 40 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS B-2
+ | NodeMap = 
+ | Notes = ? node on D5
+
+}}
+ |-|
+B-3={{Map
+ | Title = ~Overworked~
+ | Introduction = <<SysLog.Id256>>テストに致命的なバグを探知。「黒」「ピース ＜Piece＞」多数に覚醒反応。デバックバッチの実行を推奨。
+ | Requirements = B-2 Clear
+ | ClearReward = [[Trial Bullin MKII]]
+ | 3StarReward = 500 [[File:Pt.png|25px]]
+
+ | MobLevel = 66 ('''CN'''), 44 ('''JP''')
+ | MobExp1 = 456 ('''CN'''), 378 ('''JP''')
+ | MobExp2 = 501 ('''CN'''), 415 ('''JP''')
+ | MobExp3 = 547 ('''CN'''), 453 ('''JP''')
+ | MobExpSiren = 
+ | Boss = [[Tirpitz]]
+ | BossLevel = 67 ('''CN'''), 46 ('''JP''')
+ | BossExp = 664 ('''CN'''), 565 ('''JP''')
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 50 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS B-3
+ | NodeMap = 
+ | Notes = 
+
+}}
+ |-|
+B-4={{Map
+ | Title = ~Checkmate~
+ | Introduction = <<SysLog.Id256>>ログ記録中止
+ | Requirements = B-3 Clear
+ | ClearReward = [[Scharnhorst]]
+ | 3StarReward = 800 [[File:Pt.png|25px]]
+
+ | MobLevel = 68 ('''CN'''), 48 ('''JP''')
+ | MobExp1 = 468 ('''CN''')
+ | MobExp2 = 514 ('''CN'''), 529 ('''JP''')
+ | MobExp3 = 561 ('''CN'''), 578 ('''JP''')
+ | MobExpSiren = 
+ | Boss = Testerβ
+ | BossLevel = 70 ('''CN'''), 50 ('''JP''')
+ | BossExp = 691 ('''CN'''), 720 ('''JP''')
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 60 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = {{ShipDropIcon|Deutschland|E}} 
+ | PreviewFile = KMS B-4
+ | NodeMap = 
+ | Notes = 
+
+}}
+</tabber>
+
+====Hard Maps====
+
+<tabber>
+C-1={{Map
+ | Title = Openings
+ | Introduction = <<SysLog.Id256>>戦術モジュール初期化。
+「白」プレイヤー確認。「黒」
+「小駒 〈Minor pieces〉 」移動開始。
+行動マッチング率:98.3%
+ | Requirements = Commander Level 50 ('''CN Server''')
+ | ClearReward = T3 [[Twin 128mm (SK C/41)]]
+ | 3StarReward = 200 [[File:Pt.png|25px]]
+
+ | MobLevel = 75 ('''CN Server''') 50 ('''JP Server''')
+ | MobExp1 = '''1*''':510 '''2*''':561 '''3*''':612 ('''CN Server''')
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Deutschland
+ | BossLevel = 77 ('''CN Server''') 52 ('''JP Server''')
+ | BossExp = 751 ('''CN Server''')
+
+ | BossBattleReq = 4 ('''CN Server''') 3 ('''JP Server''')
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 30 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS C-1
+ | NodeMap = 
+ | Notes = Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV, 2 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{BB}} BB, 1 {{BB}} BB/BC, 1 {{CA}} CA<BR>
+'''Totals CN Server''': Average level greater than 70, {{Firepower}} Firepower total value greater than 700, {{Aviation}} Aviation total value greater than 800<br>
+'''Totals JP Server''': Average level greater than 50, {{Firepower}} Firepower total value greater than 700, {{Aviation}} Aviation total value greater than 600
+
+}}
+ |-|
+C-2={{Map
+ | Title = Occupation
+ | Introduction = <<SysLog.Id256>>「白方」采用弃兵开局，获得较小的「出子<Development>」领先优势，行为匹配度：97.1%
+ | Requirements = C-1 Clear
+ | ClearReward = [[Universal Bullin]]
+ | 3StarReward = 250 [[File:Pt.png|25px]]
+
+ | MobLevel = 78 ('''CN Server''') 54 ('''JP Server''')
+ | MobExp1 = '''1*''':- '''2*''':580 '''3*''':633 ('''CN Server''')
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Admiral Hipper
+ | BossLevel = 80 ('''CN Server''') 56 ('''JP Server''')
+ | BossExp = 
+
+ | BossBattleReq = 5 ('''CN Server''') 4 ('''JP Server''')
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 50 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS C-2
+ | NodeMap = 
+ | Notes = Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV, 2 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{BB}} BB, 1 {{BB}} BB/BC, 1 {{CA}} CA<BR>
+'''Totals CN Server''': Average level greater than 73, {{Torpedo}} Torpedo stat total value greater than 850, {{Aviation}} Aviation total value greater than 850<br>
+'''Totals JP Server''': Average level greater than 53, {{Torpedo}} Torpedo stat total value greater than 800, {{Aviation}} Aviation total value greater than 650
+}}
+ |-|
+C-3={{Map
+ | Title = Initiative
+ | Introduction = <<SysLog.Id256>>「白」「主導権〈Initiative〉」一時確保。
+「黒」「反撃〈Counterplay〉」開始。
+行動マッチング率：84.3%
+ | Requirements = C-2 Clear
+ | ClearReward = T3 [[Messerschmitt BF-109T]]
+ | 3StarReward = 300 [[File:Pt.png|25px]]
+
+ | MobLevel = 81 ('''CN Server''') 58 ('''JP Server''')
+ | MobExp1 = '''1*''':546 '''2*''':601 '''3*''':655 ('''CN Server''')
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Gneisenau
+ | BossLevel = 83 ('''CN Server''') 60 ('''JP Server''')
+ | BossExp = 
+
+ | BossBattleReq = 5 ('''CN Server''') 4 ('''JP Server''')
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 70 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS C-3
+ | NodeMap = 
+ | Notes = ? Node appears after second battle.<br/>
+Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV,  2 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{BB}} BB, 1 {{BB}} BB/BC, 1 {{CA}} CA<BR>
+'''Totals CN Server''': Average level greater than 76, {{Evasion}} Evasion total value greater than 400, {{Aviation}} Aviation total value less than 2000<br>
+'''Totals JP Server''': Average level greater than 56, {{Evasion}} Evasion total value greater than 400, {{Aviation}} Aviation total value less than 2000
+}}
+ |-|
+C-4={{Map
+ | Title = Promotion
+ | Introduction = <<SysLog.Id256>>「白」ポーンが「昇格〈Promotion〉」。
+「黒」「串刺し〈Skewer〉」を行う。
+行動マッチング率：57.9%
+ | Requirements = C-3 Clear
+ | ClearReward = T3 [[533mm Quadruple Homing Torpedo Mount]]
+ | 3StarReward = 350 [[File:Pt.png|25px]]
+
+ | MobLevel = 84 ('''CN Server''') 62 ('''JP Server''')
+ | MobExp1 = '''1*''':564 '''2*''':620 '''3*''':676 ('''CN Server''')
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Scharnhorst and Gneisenau
+ | BossLevel = 86 ('''CN Server''') 64 ('''JP Server''')
+ | BossExp = 829 ('''CN Server''')
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 90 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS C-4
+ | NodeMap = 
+ | Notes = ? Nodes at far right top and bottom corners appear after 2nd and 3rd battle.<br/>
+Scharnhorst and Gneisenau are stationary; if a player has enough health to tank any incoming damage, it is advisable to sit in front of Scharnhorst and focus fire on them, and unleash as many torpedo salvos directly into them as possible.<br/>
+Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV,  2 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{BB}} BB, 1 {{BB}} BB/BC, 1 {{CA}} CA<BR>
+'''Totals CN Server''': Average level greater than 80, {{Firepower}} Firepower total value greater than 1300, {{AA}} AA total value greater than 2100<br>
+'''Totals JP Server''': Average level greater than 60, {{Firepower}} Firepower total value greater than 900, {{AA}} AA total value greater than 1400
+
+
+}}
+|-|
+D-1={{Map
+ | Title = Transposition
+ | Introduction = <<SysLog.ld256>>测试被重置,原因不明,特殊保卫系统「风暴螺旋」开启,所有「棋子<Piece>」回归交汇点,行为匹配度:None
+ | Requirements = C-4 Clear
+ | ClearReward = T3 [[Triple 283mm (SK C/28)]]
+ | 3StarReward = 400 [[File:Pt.png|25px]]
+
+ | MobLevel = 87 ('''CN Server''') 66 ('''JP Server''')
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Z46
+ | BossLevel = 88 ('''CN Server''') 68 ('''JP Server''')
+ | BossExp = 
+
+ | BossBattleReq = 5
+ | BossBattleClear = 
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 120 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS D-1
+ | NodeMap = 
+ | Notes = Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BC, 1 {{CA}} CA,  1 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL<BR>
+'''Totals CN Server''': Average level greater than 83, {{Torpedo}} Torpedo stat total value greater than 990, {{Evasion}} Evasion total value greater than 500<br>
+'''Totals JP Server''': Average level greater than 63, {{Torpedo}} Torpedo stat total value greater than 800, {{Evasion}} Evasion total value greater than 500
+
+}}
+ |-|
+D-2={{Map
+ | Title = Deflection
+ | Introduction = <<SysLog.ld256>>「白方」将「黑方」保卫者「引离<Skewer>」,再次获得主动权,行为匹配度:None
+ | Requirements = D-1 Clear
+ | ClearReward = T3 [[Twin 380mm (SK C/34)]]
+ | 3StarReward = 450 [[File:Pt.png|25px]]
+
+ | MobLevel = 89 ('''CN Server''') 70 ('''JP Server''')
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Graf Zeppelin
+ | BossLevel = 90 ('''CN Server''') 72 ('''JP Server''')
+ | BossExp = 
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 150 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS D-2
+ | NodeMap = 
+ | Notes = Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BC, 1 {{CA}} CA,  1 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL<BR>
+'''Totals CN Server''': Average level greater than 86, {{AA}} AA total value greater than 2700, {{Aviation}} Aviation total value greater than 1200<br>
+'''Totals JP Server''': Average level greater than 66, {{AA}} AA total value greater than 1800, {{Aviation}} Aviation total value greater than 1000
+
+}}
+ |-|
+D-3={{Map
+ | Title = Overworked
+ | Introduction = <<SysLog.ld256>>警告,测试发现BUG,「黑方」多数「棋子<Piece>」出现觉醒反应,建议立刻执行紧急DEBUG
+ | Requirements = D-2 Clear
+ | ClearReward = [[Trial Bullin MKII]]
+ | 3StarReward = 500 [[File:Pt.png|25px]]
+
+ | MobLevel = 91 ('''CN Server''') 74 ('''JP Server''')
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Tirpitz
+ | BossLevel = 92 ('''CN Server''') 76 ('''JP Server''')
+ | BossExp = 
+
+ | BossBattleReq = 5
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 180 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS D-3
+ | NodeMap = 
+ | Notes = Composition Restrictions:<br/>
+'''1st Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BC, 1 {{CA}} CA,  1 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL<BR>
+'''Totals CN Server''': Average level greater than 90, {{Firepower}} Firepower total value greater than 1200, {{Aviation}} Aviation total value less than 2000<br>
+'''Totals JP Server''': Average level greater than 70, {{Firepower}} Firepower total value greater than 1000, {{Aviation}} Aviation total value less than 2000
+
+}}
+ |-|
+D-4={{Map
+ | Title = Checkmate
+ | Introduction = <<SysLog.ld256>>日志记录被中断
+ | Requirements = D-3 Clear
+ | ClearReward = [[Scharnhorst]], '''"Medal of Iron Blood"''' furniture
+ | 3StarReward = 800 [[File:Pt.png|25px]]
+
+ | MobLevel = 93 ('''CN Server''') 78 ('''JP Server''')
+ | MobExp1 = 
+ | MobExp2 = 
+ | MobExp3 = 
+ | MobExpSiren = 
+ | Boss = Tester Beta
+ | BossLevel = 95 ('''CN Server''') 80 ('''JP Server''')
+ | BossExp = 
+
+ | BossBattleReq = 4
+ | BossBattleClear = 6
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = Ships, Equip BPs, Upgrade Plates, Tech Boxes, 210 [[File:Pt.png|25px]] (boss), {{coin}}
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = KMS D-4
+ | NodeMap = 
+ | Notes = '''1st Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BC, 1 {{CA}} CA,  1 {{DD}} DD<br>
+'''2nd Fleet''':<br/> 1 {{CV}} CV, 1 {{BB}} BB, 1 {{CA}} CA, 1 {{CL}} CL<BR>
+'''Totals CN Server''': Average level greater than 92, {{Firepower}} Firepower total value greater than 1000, {{Aviation}} Aviation total value greater than 1000<br>
+'''Totals JP Server''': Average level greater than 75, {{Firepower}} Firepower total value greater than 1200, {{Aviation}} Aviation total value greater than 1000
+
+
+}}
+</tabber>
+
+===Event Tasks===
+
+*There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once by either Normal or Hard maps.
+**Maps clear and 3★ Rewards:
+
+{|
+ |
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+|'''A1/C1'''
+| {{Display|41100|P|T3 [[Twin 128mm (SKC 41)|Twin 128mm<br />(SKC 41)]]}}
+| '''200''' [[File:Pt.png|50px]]
+|-
+|'''A2/C2'''
+| {{Display|Universal_BullinIcon|P|[[Universal Bullin]]}}
+| '''250''' [[File:Pt.png|50px]]
+|-
+|'''A3/C3'''
+| {{Display|47000|P|T3 [[Messerschmitt BF-109T|Messerschmitt<br />BF-109T]]}}
+| '''300''' [[File:Pt.png|50px]]
+|-
+|'''A4/C4'''
+| {{Display|45100|G|T3 [[533mm Quadruple Homing Torpedo Mount|533mm Quadruple<br />Homing Torpedo]]}}
+| '''350''' [[File:Pt.png|50px]]
+|}
+|
+{| class="wikitable" style="text-align: center;"
+!Map
+!Clear Reward
+!3★ Reward
+|-
+|'''B1/D1'''
+| {{Display|43100|P|T3 [[Triple 283mm (SK C/28)|Triple 283mm<br />(SK C/28)]]}}
+| '''400''' [[File:Pt.png|50px]]
+|-
+|'''B2/D2'''
+| {{Display|44100|G|T3 [[Twin 380mm (SK C/34)|Twin 380mm<br />(SK C/34)]]}}
+| '''450''' [[File:Pt.png|50px]]
+|-
+|'''B3/D4'''
+| {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+| '''500''' [[File:Pt.png|50px]]
+|-
+|'''B4/D4'''
+| {{Display|ScharnhorstIcon|P|[[Scharnhorst]]}}
+| '''800''' [[File:Pt.png|50px]]
+|}
+|}
+
+*Special furniture reward for clearing '''D4''' map:
+{{Display|Metalblood_Medal|6|Medal of<br />Ironblood}}
+
+*Each day during event 2 special daily task will be available:
+
+{{MissionHeader}}
+{{Mission
+|type = Event
+|listnum = KMS-01
+|desccn = 建造舰船3次<br>3回建造する
+|descen = [[Building|Construct]] 3 ships.
+|reward = {{Display|Pt|Salmon|200x Points}}
+}}
+{{Mission
+|type = Event
+|listnum = KMS-02
+|desccn = 舰队出征，获得15次胜利<br>艦隊を出撃させ、15回勝利せよ！
+|descen = Sortie and obtain 15 victories.
+|reward = {{Display|Pt|Salmon|200x Points}}
+}}
+|}
+
+===Semiconservative Replication===
+
+{| class="wikitable"
+|-
+| [[File:kms_event_logo.png|500px]]
+|}
+
+*Replication is a new combat mode that sets a pool of the player's ships against 10 other "Mirror" fleets for [[File:Pt.png|25px]] points. It can be accessed via the grey button at the bottom right besides the shop icon. Notably, this game mode does not consume fuel, does not reward experience, and can only be completed once per day.
+
+{| class="wikitable"
+|-
+| [[File:replication_ship_choose.png|500px]]
+|}
+
+*To begin, the player is asked to select eight Escort Ships and seven Capital Ships, along with one Friend's flagship. The player will be able to switch between these ships for every battle either at the battle select screen or by hitting the formation button in the bottom right, and then tapping the ship they wish to switch. The formation screen also accessible by tapping your flagship chibi on the map.
+
+{| class="wikitable"
+|-
+| [[File:replication_map.png|500px]]
+|}
+
+*The player is then set onto the "Mirrored Seas" map, and must fight ten ships of the "Mirror" force (other player fleets). These get progressively more challenging, up until the 10th and final fleet, and are progressively rewarding. Upon victory, the Commander will be awarded a number of [[File:Pt.png|25px]] Points; these will increase with difficulty and scale with the difficulty of the map. Commanders with higher fleet power, being pitted against stronger fleets, will receive more in total than commanders with lower-power fleets. 
+**While sortied to "Mirrored Seas", you may change equipment, but it will not be reflected in "Mirrored Seas" unless you reset it.
+**"Mirrored Seas" battles does not gain you affection or affect morale.
+**"Mirrored Seas" battles do not count toward any quests regarding normal sorties.
+
+===Exchange Shop===
+
+{| class="wikitable" style="text-align: center;"
+|-
+|[[File:EventShop01.png|500px]]
+|[[File:KMS_jp_shop.png|500px]]
+|-
+|'''''CN Server Exchange Shop'''''
+|'''''JP Server Exchange Shop'''''
+|}
+
+*[[File:Pt.png|25px]] points can be redeemed at a special exchange shop, available through the announcements, the shop button on the Event screen, or by tabbing over to Exchange on any shop screen.
+
+[[Category:Events]]

@@ -1,0 +1,1527 @@
+{{ContentBox
+|text = white
+|border = #000000
+|header = #e14529
+|body = #707070
+|logo = BismarckChibi.png{{!}}60px
+|title = "Scherzo of Iron and Blood" Event
+|marginTop = 10px
+|content = <div style="padding:0 0 4px 0; color:white">
+* '''CN/JP/EN Server: May 23rd - June 12th 2019'''
+* '''KR Server: May 24th - June 13th 2019'''
+* '''Event story: [[Memories/Scherzo of Iron and Blood|<span style="color:white; text-decoration:underline solid white">Scherzo of Iron and Blood</span>]]''' 
+</div>
+}}
+
+== Event Ships ==
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Bismarck|BB||'''Construction'''|06:00:00}}
+{{ShipDisplay|5|King George V|BB||'''Construction, Event&nbsp;Shop'''|04:50:00<br>8000&nbsp;[[File:IronbloodPt.png|25px]]}}
+{{ShipDisplay|4|U-556|SS||'''Construction'''|00:13:00}}
+{{ShipDisplay|4|Z36|DD||'''Construction'''|00:35:00}}
+{{ShipDisplay|4|U-73|SS||'''Construction'''|00:11:00}}
+{{ShipDisplay|4|Scharnhorst|BC||'''Map Drop'''|B1, B3, D1, D3, SP}}
+{{ShipDisplay|4|Gneisenau|BC||'''Map Drop'''|B2, B3, D2, D3, SP}}
+{{ShipDisplay|3|Echo|DD||'''Map Drop, Construction'''|B1, B2, B3, D1, D2, D3, SP<br>00:28:00}}
+</div>
+
+== Limited Craft ==
+[[File:Scherzo of Iron and Blood - Construction EN.png|500px]]
+
+*During the event and for a limited time, 6 new ships will be added to limited construction:
+
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|5|Bismarck|BB||''06:00:00''|'''2%'''}}
+{{ShipDisplay|5|King George V|BB||''04:50:00''|'''0.5%'''}}
+{{ShipDisplay|4|U-556|SS||''00:13:00''|'''2.5%'''}}
+{{ShipDisplay|4|Z36|DD||''00:35:00''|'''2.5%'''}}
+{{ShipDisplay|4|U-73|SS||''00:11:00''|'''2.5%'''}}
+{{ShipDisplay|3|Echo|DD||''00:28:00''|'''5%'''}}
+</div>
+
+== Limited Skins ==
+*'''New time-limited skins''' will be available as rewards for the duration of the event:
+<div style="display:flex; flex-wrap:wrap">
+{{ShipDisplay|4|U-556|SS|Party|Party Knight!|Point Milestone<br>[[File:IronbloodPt.png|25px]] 15000|2}}
+{{ShipDisplay|4|U-73|SS|School|Science Rules!|Day 7 of [[#Science Rules!|Science Rules!]] Event|2}}
+</div>
+
+== Limited Furniture ==
+*New time-limited furniture set '''Das Bismarckhaus''' will be available in the dorm shop for the duration of the event:
+{{:Furniture Sets/Das Bismarckhaus}}
+
+==Event Maps==
+[[File:Scherzo of Iron and Blood - Map JP.png|500px]]
+
+* The event maps are split featuring a normal and a hard mode each consisting of 6 maps for a total of 12. Ironblood Medallions ([[File:IronbloodPt.png|25px]]) are rewarded for defeating the boss at any map.
+* Normal maps have 5 [[Combat#Danger_Level|Danger Level]], and Hard Maps have 8 Danger Level.
+* Submarines are available in this event.
+* Clear B3 or D3 8 times and 10 times to unlock the last 2 ??? memories 
+<br/>
+*New ship drop locations and [[File:IronbloodPt.png|25px]] rewards:
+**All Normal maps will have '''x3 Points [[File:IronbloodPt.png|25px]] bonus for first clear each day'''.
+<div style="display:flex; flex-wrap:wrap">
+{| class="azltable" style="text-align:center;margin-right:1em"
+|+ Ship Drops
+|-
+| style="background-color:Plum" | [[File:ScharnhorstIcon.png|50px|link=Scharnhorst]]
+| [[Scharnhorst]]
+| B1, B3, D1, D3, SP
+|-
+| style="background-color:Plum" | [[File:GneisenauIcon.png|50px|link=Gneisenau]]
+| [[Gneisenau]]
+| B2, B3, D2, D3, SP
+|-
+| style="background-color:PowderBlue" | [[File:EchoIcon.png|50px|link=Echo]]
+| [[Echo]]
+| B1, B2, B3, D1, D2, D3, SP
+|}
+{| class="azltable" style="text-align: center;"
+! colspan="2" |Normal Maps
+! colspan="2" |Hard Maps
+|-
+|'''A1'''
+|30 [[File:IronbloodPt.png|25px|link=]]
+|'''C1'''
+|90 [[File:IronbloodPt.png|25px|link=]]
+|-
+|'''A2'''
+|40 [[File:IronbloodPt.png|25px|link=]]
+|'''C2'''
+|100 [[File:IronbloodPt.png|25px|link=]]
+|-
+|'''A3'''
+|50 [[File:IronbloodPt.png|25px|link=]]
+|'''C3'''
+|110 [[File:IronbloodPt.png|25px|link=]]
+|-
+|'''B1'''
+|60  [[File:IronbloodPt.png|25px|link=]]
+|'''D1'''
+|120  [[File:IronbloodPt.png|25px|link=]]
+|-
+|'''B2'''
+|70  [[File:IronbloodPt.png|25px|link=]]
+|'''D2'''
+|150  [[File:IronbloodPt.png|25px|link=]]
+|-
+|'''B3'''
+|80  [[File:IronbloodPt.png|25px|link=]]
+|'''D3'''
+|180  [[File:IronbloodPt.png|25px|link=]]
+|-
+!colspan="2" |'''Special'''
+|colspan="2" | 800 [[File:IronbloodPt.png|25px|link=]]
+|}
+</div>
+
+=== Normal Maps ===
+
+<tabber>
+A1 = {{Map
+ | Title = Backworldsmen
+ | Introduction = Now, after their fight with Hood and Wales, Bismarck and Prinz Eugen are trying to escape the Royal Navy's encirclement...
+ | Requirements = None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, [[File:IronbloodPt.png|30px]] x200 Ironblood Medallion
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 32
+ | MobExp1 = 155
+ | MobExp2 = 176
+ | MobExp3 = 198
+ | MobExpSiren = 229
+ | Boss = [[Suffolk]] and [[Norfolk]]
+ | BossLevel = 35
+ | BossExp = 254
+
+ | BossBattleReq = 3
+ | BossBattleClear = 2
+ | Star1 = Sink Boss
+ | Star2 = Sink 15 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x30 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+{{EquipmentBox|3|T3 Single 120mm (QF Mark IX)|Single 120mm (QF Mark IX)|21300}}
+{{EquipmentBox|3|T3 Single 102mm (QF Mk V)|Single 102mm (QF Mk V)|21000}}
+{{EquipmentBox|3|T3 533mm Triple Torpedo Mount|533mm Triple Torpedo Mount|5000}}
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|London|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - A1
+ | NodeMap = {{MapTable/2
+    | |x| |e| | |e| 
+	|e|x| |b| |e|x| 
+	| | |u|x|x| | |e
+	| |e| |x|x| | |e
+	|s| |e|e| |e| | 
+	|s|s| | | |e|b| 
+  }}
+ | Notes = 
+
+}}
+|-|
+A2 = {{Map
+ | Title = Great Longing
+ | Introduction = The Royal Navy is closing in. A Siren whispers words of seduction. In the midst of a crisis, what will Bismarck do...?
+ | Requirements = Clear A1
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, [[File:IronbloodPt.png|30px]] x400 Ironblood Medallion
+ | 3StarReward = [[Universal Bullin]]
+
+ | MobLevel = 36
+ | MobExp1 = 180
+ | MobExp2 = 203
+ | MobExp3 = 228
+ | MobExpSiren = 263
+ | Boss = [[Victorious]]
+ | BossLevel = 40
+ | BossExp = 290
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x40 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|4|T3 Fairey Fulmar|Fairey Fulmar|29100}}
+{{EquipmentBox|4|T3 Drop Tank|Drop Tank|2100}}
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+{{EquipmentBox|3|T3 Brewster F2A Buffalo|Brewster F2A Buffalo|17000}}
+{{EquipmentBox|3|T3 Hydraulic Steering Gear|Hydraulic Steering Gear|1700}}
+ | ShipDrops =
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Renown|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - A2
+ | NodeMap = {{MapTable/2
+    | | | | | | |b
+	|e| | |x|x|x| 
+	| |e|u| |e|e| 
+	|e| | |e| | | 
+	|x|e| | | |e| 
+	| | | |e| |x| 
+	|s| | |e| |x|b
+  }}
+ | Notes = 
+
+}}
+|-|
+A3 = {{Map
+ | Title = Joys and Passions
+ | Introduction = Having suffered waves of airstrikes but surviving thanks to her immense strength, Bismarck is left with only one choice: to fight to the last shell.
+ | Requirements = Clear A2
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, [[File:IronbloodPt.png|30px]] x600 Ironblood Medallion
+ | 3StarReward = [[File:BattleshipT3BP.png|30px]] x1 T3 Battleship Retrofit Blueprint
+
+ | MobLevel = 42
+ | MobExp1 = 205
+ | MobExp2 = 231
+ | MobExp3 = 258
+ | MobExpSiren = 297
+ | Boss = [[Ark Royal]]
+ | BossLevel = 45
+ | BossExp = 326
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 20 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x50 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Fairey Barracuda|Fairey Barracuda|28100}}
+{{EquipmentBox|4|T3 Fairey Swordfish|Fairey Swordfish|28000}}
+{{EquipmentBox|4|T2 Supermarine Seafang|Supermarine Seafang|27100}}
+{{EquipmentBox|4|T3 Supermarine Seafire|Supermarine Seafire|27000}}
+{{EquipmentBox|3|T3 Blackburn Skua|Blackburn Skua|29000}}
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Queen Elizabeth|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Fortune|R}}
+{{ShipDropIcon|Achilles|R}}
+{{ShipDropIcon|Ajax|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - A3
+ | NodeMap = {{MapTable/2
+    |s|s| |e| | |e| | 
+	|s| | | |x|e| | | 
+	| |e| |e|x| | |e| 
+	| | | |u| |e| | |b
+	|e| |x|x| | |x|x|x
+	| | |x|x| |e| | | 
+	| |e| | |b| | | | 
+  }}
+ | Notes = 
+
+}}
+|-|
+B1 = {{Map
+ | Title = Songs of the Grave
+ | Introduction = The Pursuit of Bismarck is finally coming to an end. We shall seize victory to avenge our wounded comrade and uphold the Royal Family's honour!
+ | Requirements = Clear A3
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, [[File:IronbloodPt.png|30px]] x400 Ironblood Medallion
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 52
+ | MobExp1 = 255
+ | MobExp2 = 286
+ | MobExp3 = 318
+ | MobExpSiren = 364
+ | Boss = [[Bismarck]]
+ | BossLevel = 55
+ | BossExp = 399
+
+ | BossBattleReq = 4
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x60 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Twin 105mm (SK C/33)|Twin 105mm (SK C/33)|46300}}
+{{EquipmentBox|4|T3 Twin 37mm AA Gun (SK C/30|Twin 37mm AA Gun (SK C/30)|46200}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T3 Triple 283mm (SK C/34)|Triple 283mm (SK C/34)|43100}}
+{{EquipmentBox|4|T2 Twin 150mm (TbtsK C/36)|Twin 150mm (TbtsK C/36)|42200}}
+ | ShipDrops =
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Scharnhorst|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Repulse|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - B1
+ | NodeMap = {{MapTable/2
+    |b| | |e| | | | | 
+	| |e| |x|x|e|x|x| 
+	| | |u|x|x| |b|x| 
+	|e|e| | | | | |e| 
+	| | |e| |e|e| | |e
+	| |x| | | | |e|x| 
+	| |x|s|s| |e| |x| 
+  }}
+ | Notes = 
+
+}}
+|-|
+B2 = {{Map
+ | Title = Science and Learning
+ | Introduction = Humankind's evolution was driven by knowledge and technological advancement. If it's for evolution's sake, no means are out of the question...
+ | Requirements = Clear B1
+ | ClearReward = 1 {{Cube}}, 600 {{coin}}, [[File:IronbloodPt.png|25px]] x600 Ironblood Medallion
+ | 3StarReward = [[Trial Bullin MKII]]
+
+ | MobLevel = 56 - 58
+ | MobExp1 = 280
+ | MobExp2 = 313
+ | MobExp3 = 348
+ | MobExpSiren = 398
+ | Boss = [[Tester Beta]]
+ | BossLevel = 60
+ | BossExp = 435
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x70 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T2 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Twin 152mm (BL 6" Mk XXII)|Twin 152mm (BL 6" Mk XXII)|22100}}
+{{EquipmentBox|4|T3 Twin 120mm (QF Mark XII)|Twin 120mm (QF Mark XII)|21400}}
+ | ShipDrops =
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Gneisenau|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Repulse|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - B2
+ | NodeMap = {{MapTable/2
+    | |x| | |s|s| | | | 
+	|e|x| |b| | | |e| | 
+	| | | |x|x|x| | |e| 
+	|e| | | | | |e| | |e
+	| | | |e|e|u| |e|e| 
+	| |e|e| |x|e| | | |x
+	| | | |b|x| | |e| | 
+  }}
+
+}}
+|-|
+B3 = {{Map
+ | Title = Convalescence
+ | Introduction = When you want to fool the world, tell the truth. Play the Scherzo of Iron and Blood, and save their souls from their sorrowful destiny.
+ | Requirements = Clear B2
+ | ClearReward = 2 {{Cube}}, 1500 {{coin}}, [[File:IronbloodPt.png|25px]] x800 Ironblood Medallion
+ | 3StarReward = [[File:BattleshipT3BP.png|30px]] x1 T3 Battleship Retrofit Blueprint
+
+ | MobLevel = 61 - 63
+ | MobExp1 = 305
+ | MobExp2 = 341
+ | MobExp3 = 378
+ | MobExpSiren = 432
+ | Boss = [[Bismarck]]
+ | BossLevel = 65
+ | BossExp = 471
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T2}} T1-T2 Upgrade Parts, {{Box|T3}} T1-T3 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x80 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Triple 406mm (16"/45 Mk 6)|Triple 406mm (16"/45 Mk 6)|14300}}
+{{EquipmentBox|4|T3 Repair Toolkit|Repair Toolkit|2400}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+{{EquipmentBox|4|T3 Fire Control Radar|Fire Control Radar|1200}}
+ | ShipDrops =
+{{ShipDropIcon|Scharnhorst|E}}
+{{ShipDropIcon|Gneisenau|E}}
+{{ShipDropIcon|Amazon|R}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Brooklyn|R}}
+{{ShipDropIcon|Shropshire|R}}
+{{ShipDropIcon|Repulse|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+ | PreviewFile = Scherzo of Iron and Blood - B3
+ | NodeMap = {{MapTable/2
+    |e| | |x|x| | | | 
+	| |e|e|e|x| |e| | 
+	|s| | | | |e|x|x|x
+	| |e| |x| | | | |b
+	|s| |e|u| |e|x|x|x
+	|e| |x|e|e| | | | 
+	| |e|x| |e|e| | | 
+  }}
+ | Notes = 
+
+}}
+</tabber>
+
+=== Hard Maps ===
+
+<tabber>
+C1 = {{Map
+ | Title = Backworldsmen
+ | Introduction = Now, after their fight with Hood and Wales, Bismarck and Prinz Eugen are trying to escape the Royal Navy's encirclement...
+ | Requirements = None
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, [[File:IronbloodPt.png|30px]] x200 Ironblood Medallion
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 66 - 68
+ | MobExp1 = 330
+ | MobExp2 = 368
+ | MobExp3 = 408
+ | MobExpSiren = 466
+ | Boss = [[Suffolk]] and [[Norfolk]]
+ | BossLevel = 70
+ | BossExp = 507
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x90 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Octuple 40mm Pom-Pom|Octuple 40mm Pom-Pom|26200}}
+{{EquipmentBox|4|T3 76mm AA Gun (3"/50 Mk 22)|76mm AA Gun (3"/50 Mk 22)|26300}}
+{{EquipmentBox|4|T3 Quadruple 40mm AA Vickers Pom Pom|Quadruple 40mm AA Vickers Pom Pom|26100}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Triple 102mm (BL 4" Mk IX)|Triple 102mm (BL 4" Mk IX)|21200}}
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|London|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - C1
+ | NodeMap = {{MapTable/2
+    | |x| |e| | |e| 
+	|e|x| |b| |e|x| 
+	| | |u|x|x| | |e
+	| |e| |x|x| | |e
+	|s| |e|e| |e| | 
+	|s|s| | | |e|b| 
+  }}
+ | Notes = 
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CA}} CA<br>1 {{BC}} BC, 1 {{CA}} CA ('''Clearing Mode''')
+ | Fleet2 = No restriction
+ | StatRestrictions = Average level > 65, {{Firepower}} Total Firepower stat > 600, {{Evasion}} Total Evasion stat > 350 ('''EN''')
+
+}}
+|-|
+C2 = {{Map
+ | Title = Great Longing
+ | Introduction = The Royal Navy is closing in. A Siren whispers words of seduction. In the midst of a crisis, what will Bismarck do...?
+ | Requirements = Clear C1
+ | ClearReward = 1 {{cube}}, 600 {{coin}}, [[File:IronbloodPt.png|30px]] x400 Ironblood Medallion
+ | 3StarReward = [[Universal Bullin]]
+
+ | MobLevel = 71 - 73 (EN)
+ | MobExp1 = 355
+ | MobExp2 = 396
+ | MobExp3 = 438
+ | MobExpSiren = 499
+ | Boss = [[Victorious]]
+ | BossLevel = 75
+ | BossExp = 544
+
+ | BossBattleReq = 4
+ | BossBattleClear = 3
+ | Star1 = Sink Boss
+ | Star2 = Sink 25 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x100 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Grumman F6F Hellcat|Grumman F6F Hellcat|17300}}
+{{EquipmentBox|4|T3 Fairey Fulmar|Fairey Fulmar|29100}}
+{{EquipmentBox|4|T3 Grumman TBF Avenger|Grumman TBF Avenger|18100}}
+{{EquipmentBox|4|T3 Drop Tank|Drop Tank|2100}}
+{{EquipmentBox|4|T2 Steam Catapult|Steam Catapult|1400}}
+ | ShipDrops =
+{{ShipDropIcon|York|E}}
+{{ShipDropIcon|Renown|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - C2
+ | NodeMap = {{MapTable/2
+    | | | | | | |b
+	|e| | |x|x|x| 
+	| |e|u| |e|e| 
+	|e| | |e| | | 
+	|x|e| | | |e| 
+	| | | |e| |x| 
+	|s| | |e| |x|b
+  }}
+ | Notes = 
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CA}} CA<br>1 {{BC}} BC, 1 {{CA}} CA ('''Clearing Mode''')
+ | Fleet2 = No restriction
+ | StatRestrictions = Average level > 70, {{Firepower}} Total Firepower stat > 700, {{Evasion}} Total Evasion stat > 420 ('''EN''')
+
+}}
+|-|
+C3 = {{Map
+ | Title = Joys and Passions
+ | Introduction = Having suffered waves of airstrikes but surviving thanks to her immense strength, Bismarck is left with only one choice: to fight to the last shell.
+ | Requirements = Clear C2
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}, [[File:IronbloodPt.png|30px]] x600 Ironblood Medallion
+ | 3StarReward = [[File:BattleshipT3BP.png|30px]] x1 T3 Battleship Retrofit Blueprint
+
+ | MobLevel = 77
+ | MobExp1 = 380
+ | MobExp2 = 423
+ | MobExp3 = 468
+ | MobExpSiren = 533
+ | Boss = [[Ark Royal]]
+ | BossLevel = 80
+ | BossExp = 580
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 30 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x110 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Fairey Barracuda|Fairey Barracuda|28100}}
+{{EquipmentBox|4|T2 Fairey Barracuda|Fairey Barracuda|28100}}
+{{EquipmentBox|4|T3 Fairey Swordfish|Fairey Swordfish|28000}}
+{{EquipmentBox|4|T2 Supermarine Seafang|Supermarine Seafang|27100}}
+{{EquipmentBox|4|T3 Supermarine Seafire|Supermarine Seafire|27000}}
+ | ShipDrops =
+{{ShipDropIcon|Glowworm|E}}
+{{ShipDropIcon|Queen Elizabeth|E}}
+{{ShipDropIcon|Ark Royal|E}}
+{{ShipDropIcon|Juno|R}}
+{{ShipDropIcon|Atlanta|R}}
+{{ShipDropIcon|Juneau|R}}
+{{ShipDropIcon|Suffolk|R}}
+{{ShipDropIcon|Norfolk|R}}
+{{ShipDropIcon|Aulick|N}}
+{{ShipDropIcon|Foote|N}}
+{{ShipDropIcon|Spence|N}}
+{{ShipDropIcon|Beagle|N}}
+{{ShipDropIcon|Bulldog|N}}
+{{ShipDropIcon|Comet|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Omaha|N}}
+{{ShipDropIcon|Raleigh|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - C3
+ | NodeMap = {{MapTable/2
+    |s|s| |e| | |e| | 
+	|s| | | |x|e| | | 
+	| |e| |e|x| | |e| 
+	| | | |u| |e| | |b
+	|e| |x|x| | |x|x|x
+	| | |x|x| |e| | | 
+	| |e| | |b| | | | 
+  }}
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{CA}} CA<br>1 {{BC}} BC, 1 {{CA}} CA ('''Clearing Mode''')
+ | Fleet2 = No restriction
+ | StatRestrictions = Average level > 75, {{Firepower}} Total Firepower stat > 800, {{Torpedo}} Total Torpedo stat > 950 ('''EN''')
+
+}}
+|-|
+D1 = {{Map
+ | Title = Songs of the Grave
+ | Introduction = The Pursuit of Bismarck is finally coming to an end. We shall seize victory to avenge our wounded comrade and uphold the Royal Family's honour!
+ | Requirements = Clear C3
+ | ClearReward = 1 {{Cube}}, 600 {{coin}}, [[File:IronbloodPt.png|25px]] x400 Ironblood Medallion
+ | 3StarReward = 500 {{oil}}
+
+ | MobLevel = 
+ | MobExp1 = 405
+ | MobExp2 = 451
+ | MobExp3 = 498
+ | MobExpSiren = 567
+ | Boss = [[Bismarck]]
+ | BossLevel = 95 ('''CN/JP'''), 85 ('''EN''')
+ | BossExp = 616
+
+ | BossBattleReq = 5
+ | BossBattleClear = 4
+ | Star1 = Sink Boss
+ | Star2 = Sink 35 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x120 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T2 Twin 105mm (SK C/33)|Twin 105mm (SK C/33)|46300}}
+{{EquipmentBox|4|T3 Twin 37mm AA Gun (SK C/30)|Twin 37mm AA Gun (SK C/30)|46200}}
+{{EquipmentBox|4|T2 Twin 380mm (SK C/34)|Twin 380mm (SK C/34)|44100}}
+{{EquipmentBox|4|T3 Twin 150mm (TbtsK C/36)|Twin 150mm (TbtsK C/36)|42200}}
+ | ShipDrops =
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Scharnhorst|E}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - D1
+ | NodeMap = {{MapTable/2
+    |b| | |e| | | | | 
+	| |e| |x|x|e|x|x| 
+	| | |u|x|x| |b|x| 
+	|e|e| | | | | |e| 
+	| | |e| |e|e| | |e
+	| |x| | | | |e|x| 
+	| |x|s|s| |e| |x| 
+  }}
+ | Notes = 
+
+ | Fleet1 = 2 {{BB}} BB, 1 {{CA}} CA
+ | Fleet2 = 1 {{BC}} BC, 1 {{CV}} CV, 1 {{CL}} CL
+ | StatRestrictions = Average level > 80, {{Firepower}} Total Firepower stat > 1000, {{Evasion}} Total Evasion stat > 600 ('''EN''')
+
+}}
+|-|
+D2 = {{Map
+ | Title = Science and Learning
+ | Introduction = Humankind's evolution was driven by knowledge and technological advancement. If it's for evolution's sake, no means are out of the question...
+ | Requirements = Clear D1
+ | ClearReward = 1 {{Cube}}, 1500 {{coin}}, [[File:IronbloodPt.png|25px]] x600 Ironblood Medallion
+ | 3StarReward = [[Trial Bullin MKII]]
+
+ | MobLevel = 
+ | MobExp1 = 430
+ | MobExp2 = 478
+ | MobExp3 = 528
+ | MobExpSiren = 601
+ | Boss = [[Tester Beta]]
+ | BossLevel = 100 ('''CN/JP'''), 90 ('''EN''')
+ | BossExp = 652
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x150 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T2 Triple 406mm (BL 16" Mk I)|Triple 406mm (BL 16" Mk I)|24200}}
+{{EquipmentBox|4|T2 Quadruple 356mm (BL 14" Mk VII)|Quadruple 356mm (BL 14" Mk VII)|24000}}
+{{EquipmentBox|4|T3 Twin 203mm (BL 8" Mk VIII)|Twin 203mm (BL 8" Mk VIII)|23000}}
+{{EquipmentBox|4|T3 Twin 152mm (BL 6" Mk XXII)|Twin 152mm (BL 6" Mk XXII)|22100}}
+ | ShipDrops =
+{{ShipDropIcon|Z1|E}}
+{{ShipDropIcon|Gneisenau|E}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - D2
+ | NodeMap = {{MapTable/2
+    | |x| | |s|s| | | | 
+	|e|x| |b| | | |e| | 
+	| | | |x|x|x| | |e| 
+	|e| | | | | |e| | |e
+	| | | |e|e|u| |e|e| 
+	| |e|e| |x|e| | | |x
+	| | | |b|x| | |e| | 
+  }}
+ | Notes = 
+
+ | Fleet1 = 2 {{BB}} BB, 1 {{CA}} CA
+ | Fleet2 = 1 {{BC}} BC, 1 {{CV}} CV, 1 {{CL}} CL
+
+ | StatRestrictions = Average level > 85, {{Airpower}} Total Aviation stat > 1100, {{ASW}} Total ASW stat > 500 ('''EN''')
+
+}}
+|-|
+D3 = {{Map
+ | Title = Convalescence
+ | Introduction = When you want to fool the world, tell the truth. Play the Scherzo of Iron and Blood, and save their souls from their sorrowful destiny.
+ | Requirements = Clear D2
+ | ClearReward = 2 {{Cube}}, 1500 {{coin}}, [[File:IronbloodPt.png|25px]] x800 Ironblood Medallion
+ | 3StarReward = [[File:BattleshipT3BP.png|30px]] x1 T3 Battleship Retrofit Blueprint
+
+ | MobLevel = 93 ('''EN''')
+ | MobExp1 = 455
+ | MobExp2 = 506
+ | MobExp3 = 558
+ | MobExpSiren = 634
+ | Boss = [[Bismarck]]
+ | BossLevel = 105 ('''CN/JP'''), 95 ('''EN''')
+ | BossExp = 689
+
+ | BossBattleReq = 6
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Sink 40 Fleets
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x180 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Triple 406mm (16"/45 Mk 6)|Triple 406mm (16"/45 Mk 6)|14300}}
+{{EquipmentBox|4|T3 Repair Toolkit|Repair Toolkit|2400}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+ | ShipDrops =
+{{ShipDropIcon|Scharnhorst|E}}
+{{ShipDropIcon|Gneisenau|E}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - D3
+ | NodeMap = {{MapTable/2
+    |e| | |x|x| | | | 
+	| |e|e|e|x| |e| | 
+	|s| | | | |e|x|x|x
+	| |e| |x| | | | |b
+	|s| |e|u| |e|x|x|x
+	|e| |x|e|e| | | | 
+	| |e|x| |e|e| | | 
+  }}
+ | Notes = '''Specific Node Buff:'''<br>
+Due to a highly reactive Wisdom Cube, the entire fleet's damage dealt is increased by 20%, but their damage taken is also increased by 20%.
+
+ | Fleet1 = 2 {{BB}} BB, 1 {{CA}} CA
+ | Fleet2 = 1 {{BC}} BC, 1 {{CV}} CV, 1 {{CL}} CL
+ | StatRestrictions = Average level > 90, {{Firepower}} Total Firepower stat > 1200, {{Torpedo}} Torpedo total value > 1000 ('''EN''')
+}}
+</tabber>
+
+===E.X. Nodes===
+
+<tabber>
+SP = {{Map
+ | Title = Song of Dance
+ | Introduction = O seaborne traveler searching for the truth of war... let us rest, and dance cheerfully to the tune of the waves.
+ | Requirements = Clear D3
+ | ClearReward = 2 {{cube}}, 1500 {{coin}}
+ | 3StarReward = None
+
+ | MobLevel = 100
+ | MobExp1 = 660
+ | MobExp2 = 720
+ | MobExp3 = 810
+ | MobExpSiren = 
+ | Boss = [[Bismarck]]
+ | BossLevel = 100
+ | BossExp = 870
+
+ | BossBattleReq = 7
+ | BossBattleClear = 5
+ | Star1 = Sink Boss
+ | Star2 = Deploy <= 8 ships
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = {{Plate|T3}} T1-T3 Upgrade Parts, {{Box|T4}} T1-T4 Tech Boxes, {{coin}} Coin, [[File:IronbloodPt.png|30px]] x800 Ironblood Medallion
+ | EquipmentDrops = 
+{{EquipmentBox|5|T3 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T2 Quadruple 40mm L60 Mk2 Bofors|Quadruple 40mm L60 Mk2 Bofors|16400}}
+{{EquipmentBox|4|T3 Triple 406mm (16"/45 Mk 6)|Triple 406mm (16"/45 Mk 6)|14300}}
+{{EquipmentBox|4|T3 Repair Toolkit|Repair Toolkit|2400}}
+{{EquipmentBox|4|T3 Anti-Torpedo Bulge|Anti-Torpedo Bulge|1300}}
+ | ShipDrops =
+{{ShipDropIcon|Scharnhorst|E}}
+{{ShipDropIcon|Gneisenau|E}}
+{{ShipDropIcon|Echo|R}}
+{{ShipDropIcon|Arethusa|R}}
+{{ShipDropIcon|Galatea|R}}
+{{ShipDropIcon|Phoenix|R}}
+{{ShipDropIcon|Kent|R}}
+{{ShipDropIcon|Cassin|N}}
+{{ShipDropIcon|Downes|N}}
+{{ShipDropIcon|Craven|N}}
+{{ShipDropIcon|McCall|N}}
+{{ShipDropIcon|Crescent|N}}
+{{ShipDropIcon|Foxhound|N}}
+{{ShipDropIcon|Leander|N}}
+{{ShipDropIcon|Königsberg|N}}
+{{ShipDropIcon|Karlsruhe|N}}
+{{ShipDropIcon|Köln|N}}
+{{ShipDropIcon|Pensacola|N}}
+{{ShipDropIcon|Salt Lake City|N}}
+{{ShipDropIcon|Furutaka|N}}
+{{ShipDropIcon|Kako|N}}
+{{ShipDropIcon|Hermes|N}} 
+
+ | PreviewFile = Scherzo of Iron and Blood - D0
+ | NodeMap = {{MapTable/2
+    | |e|x|s| |s| | |e
+	| | |e| | | |e| | 
+	|x|x| |e|e| |x|x| 
+	|x|x|e| |u| | |x|e
+	| | |e| | |e| |e| 
+	| |e| |x| |x|e| | 
+	| | |e|x|b|x| |e| 
+  }}
+ | Notes = 
+
+}}
+|-|
+EXTRA = {{Map
+ | Title = The Night Wanderer
+ | Introduction = One who becomes intoxicated with power will never know an end to their pursuit of more. O, illusory Night Wanderer, this song is for you.
+ | Requirements = Clear D3
+ | ClearReward = None
+ | 3StarReward = None
+
+ | Boss = [[Bismarck]]
+ | BossLevel = 110
+ | BossExp = None
+
+ | BossBattleReq = 0
+ | BossBattleClear = 0
+ | Star1 = Sink Boss
+ | Star2 = Deploy <= 4 ships
+ | Star3 = Sink all Fleets on the map
+ | SuggestedAirSupremacy = 
+ | ActualAirSupremacy = 
+
+ | MapDrops = None
+ | EquipmentDrops = 
+ | ShipDrops = 
+ | PreviewFile = Scherzo of Iron and Blood - EXTRA
+ | NodeMap = 
+ | Notes = Doesn't consume oil.
+
+ | Fleet1 = 1 {{BB}} BB, 1 {{BB}} BB/BC
+ | Fleet2 = Not available
+}}
+</tabber>
+
+== Event Tasks ==
+
+=== Map Completion Tasks ===
+
+* There are a series of Tasks for clearing each map, and for getting 3★ on each map, which can be filled once.
+**Maps clear and 3★ Rewards:
+<div style="display:flex; flex-wrap:wrap">
+ <div style="margin-right:10px">
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !A1/C1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IronbloodPt|Rare|x 200}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !A2/C2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IronbloodPt|Rare|x 400}}
+   | {{Display|Universal BullinIcon|P|[[Universal Bullin]]}}
+   |-
+   !A3/C3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|IronbloodPt|Rare|x 600}}
+   | {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+ <div>
+  {| class="wikitable" style="text-align:center"
+   ! Map
+   ! Clear Reward
+   ! 3★ Reward
+   |-
+   !B1/D1
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IronbloodPt|Rare|x 400}}
+   | {{Display|Oilicon|Grey|x 500}}
+   |-
+   !B2/D2
+   | {{Display|Cube|G|x 1}} {{Display|Coinicon|N|x 600}} {{Display|IronbloodPt|Rare|x 600}}
+   | {{Display|Trial_Bullin_MKIIIcon|G|[[Trial Bullin MKII]]}}
+   |-
+   !B3/D3
+   | {{Display|Cube|G|x 2}} {{Display|Coinicon|N|x 1500}} {{Display|IronbloodPt|Rare|x 800}}
+   | {{Display|BattleshipT3BP|Super Rare|x 1}}
+  |}
+ </div>
+</div>
+
+*Special furniture reward for clearing '''D3''' map:
+{{Display|Scherzo of Iron and Blood Medal|6|Iron Blood<br>Relic}}
+
+=== Achievement ===
+Achievement 1 - Fully limit break 6 event ships
+
+Reward: "The Iron Blood Oath" Style
+
+Achievement 2 - Buy all Iron Blood theme furniture
+
+Reward: Iron Blood Podium
+
+=== Daily Tasks ===
+
+For each day of the event, these three tasks will be available to be completed once and reset again at the end of the day:
+{| class="wikitable" style="text-align:center"
+! Task Description
+! Rewards
+|-
+| Build 3 ships.
+| {{Display|IronbloodPt|Rare|x 300 Ironblood Medallion|35}}
+|-
+| Sortie and obtain 15 victories.
+| {{Display|IronbloodPt|Rare|x 300 Ironblood Medallion|35}}
+|-
+| Sortie and clear 1 non-event Hard Mode Stage.
+| {{Display|IronbloodPt|Rare|x150 Ironblood Medallion|35}}
+|}
+
+== Science Rules! ==
+[[File:Science Rules Banner EN.png|500px]]
+
+*From May 23rd to May 31st, two missions will unlock daily. Complete the second mission on the 7th day to receive [[U-73]]'s skin '''"Science Rules!"'''.
+{{MissionHeader}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S1
+|descen1 = Complete battles with an S rating 10 times.
+|descen2 = Log in to the game.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|AllSUnit|G|2x General Blueprint - S1}}
+|notes = Day 1
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S2
+|descen1 = Conduct 2 exercises.
+|descen2 = Complete 2 commissions.
+|reward1 = {{Display|UnknownT1BP|B|2x T1 Random Retrofit Blueprint}}
+|reward2 = {{Display|Coinicon|E|100x Coins}}
+|notes = Day 2
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S3
+|descen1 = Retire 2 ships.
+|descen2 = Complete 3 Daily Challenges.
+|reward1 = {{Display|AllSUnit|G|2x General Blueprint - S1}}
+|reward2 = {{Display|Coinicon|E|100x Coins}}
+|notes = Day 3
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S4
+|descen1 = Enhance ships 5 times.
+|descen2 = Conduct tactical training 2 times.
+|reward1 = {{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|reward2 = {{Display|Coinicon|E|100x Coins}}
+|notes = Day 4
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S5
+|descen1 = Destroy 20 ships.
+|descen2 = Restock supplies in the dorm 5 times.
+|reward1 = {{Display|AllSUnit|G|2x General Blueprint - S1}}
+|reward2 = {{Display|Coinicon|E|100x Coins}}
+|notes = Day 5
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S6
+|descen1 = Build 2 ships.
+|descen2 = Open any 1 equipment box.
+|reward1 = {{Display|AuxT3Plate|P|10x T3 General Part}}
+|reward2 = {{Display|Coinicon|E|100x Coins}}
+|notes = Day 6
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S7
+|descen1 = Conduct tactical training 2 times.
+|descen2 = Sortie and defeat 3 Boss Fleets.
+|reward1 = {{Display|Coinicon|E|100x Coins}}
+|reward2 = {{Display|U-73SchoolIcon|P|[[#Limited_Skins|U-73's skin "Science Rules!"]]||#Event_Skins}}
+|notes = Day 7
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S8
+|descen1 = Participate in 2 PvP exercises.
+|descen2 = Complete 2 commissions.
+|reward1 = {{Display|UnknownT1BP|B|2x T1 Random Retrofit Blueprint}}
+|reward2 = {{Display|Coinicon|E|100x Coins}}
+|notes = Day 8
+}}
+{{MissionDouble
+|type = Event
+|listnum = BE-S9
+|descen1 = Retire 2 ships.
+|descen2 = Complete 3 daily challenges.
+|reward1 = {{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|reward2 = {{Display|AllSUnit|G|2x General Blueprint - S1}}
+|notes = Day 9
+}}
+|}
+
+== Exchange Shop ==
+
+{| class="wikitable" style="text-align: center"
+|-
+| [[File:Scherzo of Iron and Blood - Shop JP.png|500px]]
+|-
+| '''''Exchange Shop'''''
+|}
+
+* You can receive rewards in exchange for [[File:IronbloodPt.png|25px]].
+* The deadline for receiving these rewards is June 19th.
+<tabber>
+EN Shop={|
+{{EventShop
+| ShopName=Scherzo of Iron and Blood
+| TotalPt=41550
+| PtImage=IronbloodPt
+
+| ColorScheme=#822834
+| Image=Bismarck
+| Size=550
+| Top=-45
+| Left=-60
+
+| Items=
+{{EventShopItem|5|King George V|King George V|King George VIcon|1|8000|IronbloodPt|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|IronbloodPt|100}}
+{{EventShopItem|5|Strengthening Unit S1|Research|AllSUnit|30|500|IronbloodPt|1}}
+{{EventShopItem|4|T3 General Part||AuxT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Main Gun Part||GunT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Torpedo Part||TorpT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Anti-Air Part||AAT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Aircraft Part||PlaneT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|1|Coins||Coinicon|5|500|IronbloodPt|2000}}
+{{EventShopItem|1|Oil||Oilicon|5|450|IronbloodPt|1000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|IronbloodPt|1}}
+}}
+|-|
+JP/CN/KR Shop={{EventShop
+| ShopName=Scherzo of Iron and Blood
+| TotalPt=49550
+| PtImage=IronbloodPt
+
+| ColorScheme=#822834
+| Image=Bismarck
+| Size=550
+| Top=-45
+| Left=-60
+
+| Items=
+{{EventShopItem|5|King George V|King George V|King George VIcon|1|8000|IronbloodPt|1}}
+{{EventShopItem|5|T4 Eagle Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|T4 Royal Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|T4 Sakura Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|T4 Ironblood Tech Pack|Equipment#Equipment_Boxes|T4Box|4|300|IronbloodPt|1}}
+{{EventShopItem|5|Cognitive Chips|Dockyard#Cognition_Awaken|Moduleicon|10|300|IronbloodPt|100}}
+{{EventShopItem|5|Strengthening Unit S2|Research|AllSUnit2|30|500|IronbloodPt|1|}}
+{{EventShopItem|6|Advanced Strengthening Unit S2|Research|AllSUnit3|8|1000|IronbloodPt|1|}}
+{{EventShopItem|4|T3 General Part||AuxT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Main Gun Part||GunT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Torpedo Part||TorpT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Anti-Air Part||AAT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|4|T3 Aircraft Part||PlaneT3Plate|30|30|IronbloodPt|1}}
+{{EventShopItem|1|Coins||Coinicon|5|500|IronbloodPt|2000}}
+{{EventShopItem|1|Oil||Oilicon|5|450|IronbloodPt|1000}}
+{{EventShopItem|3|Oxy Cola|Living_Area#Refilling_supplies|Food1|100|15|IronbloodPt|1}}
+}}
+</tabber>
+
+== Ironblood Medallions Milestones ==
+[[File:Scherzo of Iron and Blood - Milestone JP.png|500px]]
+
+* The '''total amount of Ironblood Medallions''' you gain during this event will be counted. Once you reach certain thresholds you will get rewards.
+
+<tabber>
+EN Rewards={| class="wikitable" style="text-align:center"
+![[File:IronbloodPt.png|30px]]
+!Reward
+|rowspan="14"|
+![[File:IronbloodPt.png|30px]]
+!Reward
+|rowspan="14"|
+![[File:IronbloodPt.png|30px]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|P|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|E|3000x Coins}}
+|1000
+|{{Display|Moduleicon|G|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|E|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|E|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|G|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|G|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|8500
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|G|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|10000
+|{{Display|740|P|[[Flettner Fl 282 Kolibri]]}}
+|11000
+|{{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|G|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|15000
+|{{Display|U-556PartyIcon|P|[[U-556]] Skin "Party Knight!"}}
+|20000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|25000
+|{{Display|AllSUnit|G|2x General Blueprint - S1}}
+|-
+|30000
+|{{Display|Moduleicon|G|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|40000
+|{{Display|AllSUnit|G|2x General Blueprint - S1}}
+|-
+|45000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|AllSUnit|G|2x General Blueprint - S1}}
+|80000
+|{{Display|T5Box|R|1x T5 Ironblood Tech Pack}}
+|100000
+|{{Display|T5Box|R|1x T5 Ironblood Tech Pack}}
+|}
+|-|
+CN/JP/KR Rewards={| class="wikitable" style="text-align:center"
+![[File:IronbloodPt.png|30px]]
+!Reward
+|rowspan="14"|
+![[File:IronbloodPt.png|30px]]
+!Reward
+|rowspan="14"|
+![[File:IronbloodPt.png|30px]]
+!Reward
+|-
+|100
+|{{Display|UnknownT2Book|P|5x T2 Random Skill Book}}
+|300
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|700
+|{{Display|Coinicon|E|3000x Coins}}
+|1000
+|{{Display|Moduleicon|G|200x Cognitive Chips}}
+|1500
+|{{Display|Coinicon|E|3000x Coins}}
+|-
+|2000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|2500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|3000
+|{{Display|Coinicon|E|4000x Coins}}
+|-
+|3500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|4000
+|{{Display|CruiserT2BP|P|1x T2 Cruiser Retrofit Blueprint}}
+|4500
+|{{Display|DestroyerT2BP|P|1x T2 Destroyer Retrofit Blueprint}}
+|-
+|5000
+|{{Display|OffenseT3TB|G|2x T3 Offensive Skill Book}}
+|5500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|6000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|-
+|6500
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|7000
+|{{Display|SupportT3TB|G|2x T3 Support Skill Book}}
+|7500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|-
+|8000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|8500
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|9000
+|{{Display|DefenseT3TB|G|2x T3 Defensive Skill Book}}
+|-
+|9500
+|{{Display|Moduleicon|G|300x Cognitive Chips}}
+|10000
+|{{Display|740|P|[[Fl 282 Helicopter]]}}
+|11000
+|{{Display|UnknownT3Book|G|2x T3 Random Skill Book}}
+|-
+|12000
+|{{Display|Moduleicon|G|500x Cognitive Chips}}
+|13000
+|{{Display|CruiserT3BP|G|1x T3 Cruiser Retrofit Blueprint}}
+|14000
+|{{Display|DestroyerT3BP|G|1x T3 Destroyer Retrofit Blueprint}}
+|-
+|15000
+|{{Display|U-556PartyIcon|P|[[U-556]] Skin "Party Knight!"}}
+|20000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|25000
+|{{Display|AllSUnit3|R|1x Advanced Strengthening Unit S2}}
+|-
+|30000
+|{{Display|Moduleicon|G|500x Cognitive Chips}}
+|35000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|40000
+|{{Display|AllSUnit3|R|1x Advanced Strengthening Unit S2}}
+|-
+|45000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|50000
+|{{Display|UnknownT3Book|G|5x T3 Random Skill Book}}
+|55000
+|{{Display|UnknownT3BP|G|2x T3 Random Retrofit Blueprint}}
+|-
+|60000
+|{{Display|AllSUnit3|R|1x Advanced Strengthening Unit S2}}
+|80000
+|{{Display|T5Box|R|1x T5 Ironblood Tech Pack}}
+|100000
+|{{Display|T5Box|R|1x T5 Ironblood Tech Pack}}
+|}
+</tabber>
+
+[[Category:Events]]

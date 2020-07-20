@@ -21,6 +21,7 @@
     "dependencies": {
         "infobox-parser": "^3.4.1",
         "jsdom": "^16.2.2",
+        "moment": "^2.27.0",
         "node-fetch": "^2.6.0",
         "request": "^2.88.2",
         "utf8": "^3.0.0"
