@@ -460,7 +460,7 @@ function parseShip(id, name, body) {
     process.stdout.write(ship.names.en);
     ship.thumbnail = "https://azurlane.koumakan.jp" + doc.getElementsByTagName("img")[0].getAttribute("src");
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentNode.title;
-    let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim();
+    let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim().replace(/[^★☆]/g, '');
     ship.stars = {
         stars: stars,
         value: stars.split("★").length - 1
