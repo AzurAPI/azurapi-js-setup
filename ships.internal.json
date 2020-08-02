@@ -1230,7 +1230,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Effort, Hope, and Planning SP2, SP3",
+			"obtainedFrom": "Strive, Wish and Strategize SP2, SP3",
 			"fromMaps": []
 		},
 		"misc": {
@@ -9986,6 +9986,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Strive, Wish and Strategize SP3",
 			"fromMaps": []
 		},
 		"misc": {
@@ -10913,7 +10914,7 @@
 					"cn": "支援空母",
 					"jp": "支援空母"
 				},
-				"description": "After launching an airstrike, heal the Escort Fleet for 3.5% (8%) of their max HP.",
+				"description": "After launching an airstrike, heal the Vanguard Fleet for 3.5% (8%) of their max HP.",
 				"color": "gold"
 			},
 			{
@@ -10923,7 +10924,7 @@
 					"cn": "装填指挥·先锋",
 					"jp": "装填指揮・前衛"
 				},
-				"description": "Increase reload of the Escort Fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+				"description": "Increase reload of the Vanguard Fleet by 5% (15%). Does not stack with other command skills that have a similar effect.",
 				"color": "gold"
 			}
 		],
@@ -11223,21 +11224,21 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/7/7f/Skill_13520.png",
 				"names": {
-					"en": "变迁之秘",
+					"en": "Sacrament: Holy Bombardment",
 					"cn": "变迁之秘",
 					"jp": "王家技術・騎装爆撃"
 				},
-				"description": "副武器栏位装备主炮武器时，提升副武器栏位武器效率25.0% (45.0%)，提升该主炮武器的索敌范围和射程至80，战斗中每24秒发动一次弹幕攻击；副武器栏位装备轰炸机时，自身舰载机的第一轮空中支援加载时间缩短20.0% (50%)",
+				"description": "If this ship's third slot is equipped with a gun, increase its slot efficiency by 25% (45%), increase that weapon's range to 80, and fire a special barrage every 24 seconds. If the third slot is equipped with a dive bomber, decrease the load time of this ship's first airstrike by 20% (50%).",
 				"color": "pink"
 			},
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/4/40/Skill_13530.png",
 				"names": {
-					"en": "翔鹰之剑",
+					"en": "Sword of the Soaring Eagle",
 					"cn": "翔鹰之剑",
 					"jp": "王家技術・鷹翼積装"
 				},
-				"description": "自身发动空中支援时，额外使用专属剑鱼编队进行一轮航空鱼雷攻击Lv.1 (Lv.10)",
+				"description": "When launching an airstrike, launch an additional special swordfish torpedo squadron Lv.1 (Lv.10).",
 				"color": "pink"
 			}
 		],
@@ -11288,11 +11289,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during event: Aurora Noctis",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Aurora Noctis\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -11694,7 +11696,7 @@
 					"cn": "装甲空母",
 					"jp": "装甲空母"
 				},
-				"description": "Every time Illustrious launches an airstrike, applies a shield around ships in the Escort Fleet for 8s equal to 5% (10%) of Illustrious's HP",
+				"description": "Every time Illustrious launches an airstrike, applies a shield around ships in the Vanguard Fleet for 8s equal to 5% (10%) of Illustrious's HP",
 				"color": "gold"
 			}
 		],
@@ -12506,7 +12508,7 @@
 					"cn": "舰队空母",
 					"jp": "編隊空母"
 				},
-				"description": "When launching an airstrike: increases damage dealt by the Escort Fleet by 5% (15%) for 8 seconds. Does not stack with the same skill.",
+				"description": "When launching an airstrike: increases damage dealt by the Vanguard Fleet by 5% (15%) for 8 seconds. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -12516,7 +12518,7 @@
 					"cn": "航空掩护",
 					"jp": "航空援護"
 				},
-				"description": "When launching an airstrike: decreases damage taken by the Escort Fleet by 5% (15%) for 8 seconds. Does not stack with the same skill.",
+				"description": "When launching an airstrike: decreases damage taken by the Vanguard Fleet by 5% (15%) for 8 seconds. Does not stack with the same skill.",
 				"color": "deepskyblue"
 			}
 		],
@@ -15607,7 +15609,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Yuudachi, Takao, Belfast, Akagi and Kaga in a loading screen",
+				"url": "https://azurlane.koumakan.jp/w/images/6/60/Bg_belfast_4.png"
+			},
+			{
+				"description": "Yuudachi, Ibuki and Unicorn dressed up for Halloween",
+				"url": "https://azurlane.koumakan.jp/w/images/5/57/Bg_2019.10.31_1.png"
+			}
+		]
 	},
 	"165": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Shigure",
@@ -19385,7 +19396,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
+				"url": "https://azurlane.koumakan.jp/w/images/8/81/Bg_destroyers.png"
+			}
+		]
 	},
 	"177": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kuroshio",
@@ -31358,7 +31374,7 @@
 					"cn": "舰队空母",
 					"jp": "編隊空母"
 				},
-				"description": "When this ship launches an Airstrike: increases the damage of your Vanguard by 5% (15%) for 8 seconds.",
+				"description": "When this ship launches an Airstrike: increases the damage of your Vanguard by 5% (15%) for 8 seconds. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -33146,7 +33162,7 @@
 					"cn": "装填指挥·先锋",
 					"jp": "装填指揮・前衛"
 				},
-				"description": "Increases Reload of the Escort Fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+				"description": "Increases Reload of the Vanguard Fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
 				"color": "gold"
 			},
 			{
@@ -33758,7 +33774,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP1",
+			"obtainedFrom": "Encircling Graf Spee SP1Strive, Wish and Strategize SP2",
 			"fromMaps": [
 				"5-1",
 				"8-2",
@@ -37444,7 +37460,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Reward for clearing \"Encircling Graf Spee\" event stage SP3 60 times. Also available in Heavy Construction during the event period.",
+			"obtainedFrom": "Reward for completing Encircling Graf Spee Event Tasks and available in Heavy Construction during the event period.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -39845,7 +39861,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Ning Hai, Ping Hai and Yat Sen in the background with St. Louis, Belfast, and Enterprise in the foreground",
+				"url": "https://azurlane.koumakan.jp/w/images/8/82/Bg_belfast_2.png"
+			}
+		]
 	},
 	"258": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Ning_Hai",
@@ -41089,7 +41110,7 @@
 					"cn": "改变时代的炮声",
 					"jp": "レヴァリューツィヤ"
 				},
-				"description": "Increases damage dealt by all Escort ships by 15% (35%).",
+				"description": "Increases damage dealt by the Vanguard Fleet by 15% (35%).",
 				"color": "gold"
 			},
 			{
@@ -41875,7 +41896,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Z19, Tirpitz, Zeppy, Graf Zeppelin, Deutschland, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/7/73/Bg_2019.12.19_1.png"
+			}
+		]
 	},
 	"265": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Z20",
@@ -42279,7 +42305,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading screen depicting Z21",
+				"url": "https://azurlane.koumakan.jp/w/images/8/87/Bg_z21_1.png"
+			}
+		]
 	},
 	"267": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Z46",
@@ -68401,7 +68432,6 @@
 				},
 				"maxLevel": {
 					"applicable": [
-						"Submarine",
 						"Submarine carrier"
 					],
 					"stat": "Aviation",
@@ -71292,21 +71322,21 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/a/ac/Skill_12300.png",
 				"names": {
-					"en": "Anti-Air Order",
+					"en": "Swift Shooting",
 					"cn": "对空指令",
 					"jp": "スウィフトシュート"
 				},
-				"description": "10% (30%) chance to activate when AA gun fires, increases frontline's AA stat by 10% (30%) for 10 seconds; for every 5 aircraft shot down within fleet's AA radius, increases own Firepower by 1% and reduce aviation damage taken by main fleet by 1%. This effect can be stacked up to 5 (10) times.",
+				"description": "When this ship fires its Anti-Air Guns: 10% (30%) chance to increase your Vanguard's AA by 10% (30%) for 10s. For every 5 enemy aircraft shot down in your fleet's Anti-Air Gun range: increases this ship's FP by 1.0% and decreases the DMG your Main Fleet takes from enemy aircraft by 1.0%. Can be stacked up to 5 (10) times.",
 				"color": "deepskyblue"
 			},
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/3/34/Skill_12310.png",
 				"names": {
-					"en": "Advanced Fire Control System",
+					"en": "Swift Analysis",
 					"cn": "先进火控系统",
 					"jp": "スウィフトアナライズ"
 				},
-				"description": "During battle, increases own critical rate by 10% (30%) and increases own Hit Rate against Destroyers and Light Cruisers by 4% (10%); 10% chance to reduce Evasion Rate for enemies hit by own main gun by 4% (10%) for 6 seconds.",
+				"description": "Increases this ship's Crit Rate by 10% (30%) and its Hit Rate against enemy DDs and CLs by 4% (10%). When this ship hits an enemy with its Main Guns: 10.0% chance to decrease that enemy's Evasion Rate by 4% (10%) for 6s.",
 				"color": "pink"
 			},
 			{
@@ -77162,7 +77192,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Vittorio Veneto, Zara, Littorio, Giulio Cesare and Pola",
+				"url": "https://azurlane.koumakan.jp/w/images/5/5b/Bg_Tragicomedy.png"
+			}
+		]
 	},
 	"414": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Trento",
@@ -77488,7 +77523,7 @@
 					"cn": "巨龙之链",
 					"jp": "Fuoco di Copertura！"
 				},
-				"description": "Every 20 seconds, if placed in the backmost position of the Escort Fleet (there must be at least 2 Escort ships alive): 40% (70%) chance to increase damage dealt by self and the Lead Ship of the Escort Fleet by 5% (15%) for 10 seconds.",
+				"description": "Every 20 seconds, if placed in the backmost position of the Vanguard Fleet (there must be at least 2 Vanguard ships alive): 40% (70%) chance to increase damage dealt by self and the Lead Ship of the Vanguard Fleet by 5% (15%) for 10 seconds.",
 				"color": "gold"
 			},
 			{
@@ -85514,7 +85549,7 @@
 					"cn": "圣女的祷告",
 					"jp": "神聖なる祈り"
 				},
-				"description": "10 seconds after the battle starts and every 20 seconds after that, give each vanguard ship a shield. Each shield can block up to 1.5% (6.0%) of Jeanne's maximum HP, and and lasts up to 8 seconds.\nIf a ship's shield breaks before its duration expires, that ship will evade all attacks for the next 2s.\nIf a ship's shield expires without breaking, heal that ship for 70 hp.",
+				"description": "10 seconds after the battle starts and every 20 seconds after that, give each vanguard ship a shield. Each shield can block up to 1.5% (6.0%) of Jeanne's maximum HP, and lasts up to 8 seconds.\nIf a ship's shield breaks before its duration expires, that ship will evade all attacks for the next 2s.\nIf a ship's shield expires without breaking, heal that ship for 70 hp.",
 				"color": "deepskyblue"
 			},
 			{
@@ -87055,21 +87090,21 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/f/f2/Skill_13440.png",
 				"names": {
-					"en": "射击Synchronize",
+					"en": "Synchronized Shooting",
 					"cn": "射击Synchronize",
 					"jp": "射撃シンクロナイズ"
 				},
-				"description": "每35 (15)秒，随机瞄准一名敌人进行一次弹幕射击Lv.1 (Lv.10)(威力依据技能等级)，弹幕触发后主力舰队所有战列、战巡、航战角色装填、命中提高10.0% (20.0%)，持续8秒",
+				"description": "Every 35(15) seconds, randomly aim at 1 enemy and release a Lv.1 (Lv.10) barrage. After the barrage, increase all main fleet BB, BC, BBV's reload and accuracy by 10.0% (20.0%) for 8 seconds.",
 				"color": "pink"
 			},
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/5/5e/Skill_13450.png",
 				"names": {
-					"en": "骑士不朽之约",
+					"en": "Knight's Eternal Contract",
 					"cn": "骑士不朽之约",
 					"jp": "朽ちぬ騎士の結束"
 				},
-				"description": "进入战斗时，自身炮击、装填提升4.5% (12.0%)；与英王乔治五世、威尔士亲王、约克公爵、君主一同出击、或队伍中存在3个以上皇家阵营角色时，自身炮击、防空额外提升4.5% (12.0%)",
+				"description": "When entering combat, increase self FP and reload by 4.5% (12%); when sortied with King George V, Prince of Wales, Duke of York, Monarch, or sortied with 3 or more royal navy characters, increase self FP and AA for an additional 4.5% (12.0%).",
 				"color": "gold"
 			}
 		],
@@ -87121,11 +87156,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during event: Aurora Noctis",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Aurora Noctis\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -87280,7 +87316,7 @@
 					"cn": "翔翼的Talaria",
 					"jp": "ニュム・スクランブラー"
 				},
-				"description": "战斗开始时，将直接完成1 (2)次空中支援加载，自身舰载机的空中支援加载所需时间增加90%；自身每次执行空袭后，为先锋部队回复1.5% (7.0%)耐久，为主力部队回复1.0% (3.5%)耐久",
+				"description": "When the battle starts, 1 (2) airstrikes are available immediately. Airstrike cooldown time is increased by 90%. After launching an airstrike, heal the vanguard fleet for 1.5% (7.0%) of their max HP and the main fleet for 1.0% (3.5%) of their max HP.",
 				"color": "deepskyblue"
 			},
 			{
@@ -87290,7 +87326,7 @@
 					"cn": "弹射起飞试行",
 					"jp": "アテネ・カタパルト"
 				},
-				"description": "战斗开始后每12秒，随机从海大黄蜂、TBF、萤火虫三种机队中派出一种机队进行攻击Lv.1 (Lv.10)",
+				"description": "Every 12 seconds after the start of the battle, launch a special airstrike of a random choice of Sea Hornet, TBF Avengers, or Fairey Firefly. Damage depends on skill level.",
 				"color": "pink"
 			},
 			{
@@ -87300,7 +87336,7 @@
 					"cn": "广域舰船维护",
 					"jp": "ハデス・リペアラー"
 				},
-				"description": "自身机库总容量扩充为3，战斗中自身所在编队的所有角色每40 (20)秒回复1.0%耐久；关卡海域内其他编队进入战斗时，若自身存活，战斗开始20秒后，恢复该编队先锋舰队角色1.0% (3.0%)耐久",
+				"description": "Increase hangar size to 3. All ships in this fleet recover 1.0% of their max HP every 40 (20) seconds. When other fleets on the same map enter battle, after 20 seconds any surviving ships recover 1.0% (3.0%) of their max HP.",
 				"color": "gold"
 			}
 		],
@@ -87348,11 +87384,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during event: Aurora Noctis",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Aurora Noctis\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -87576,11 +87613,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during event: Aurora Noctis",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Aurora Noctis\" Event, in the event shop, and as a map drop.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -87795,11 +87833,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during event: Aurora Noctis",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Aurora Noctis\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -88018,7 +88057,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -88028,6 +88067,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available as a Point Accumulation reward during \"Aurora Noctis\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -93952,7 +93992,7 @@
 					"cn": "彩虹计划",
 					"jp": "レインボー・プラン"
 				},
-				"description": "When taking damage: Escort Fleet has 15% chance to evade all incoming attacks for 5 (10) seconds (Has a 20 second cooldown. Skill starts on cooldown.)",
+				"description": "When taking damage: Vanguard Fleet has 15% chance to evade all incoming attacks for 5 (10) seconds (Has a 20 second cooldown. Skill starts on cooldown.)",
 				"color": "deepskyblue"
 			},
 			{
@@ -101350,7 +101390,7 @@
 					"cn": "白鹰之泪",
 					"jp": "白鷲の黒い涙"
 				},
-				"description": "When firing main gun, 50% chance to heal the Escort Fleet for 4% (10%) of their max Health.",
+				"description": "When firing main gun, 50% chance to heal the Vanguard Fleet for 4% (10%) of their max Health.",
 				"color": "gold"
 			}
 		],
@@ -104695,7 +104735,7 @@
 					"cn": "舰炮掩护",
 					"jp": "支援砲撃"
 				},
-				"description": "Every 20 (10) seconds, provides supporting fire with 20.3 cm guns (damage based on skill level).Barrage preview (gif)",
+				"description": "Every 20 (10) seconds, provides supporting fire with CA-caliber guns. (Damage is based on skill level and Aviation stat.)Barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -104705,7 +104745,7 @@
 					"cn": "舰队空母",
 					"jp": "編隊空母"
 				},
-				"description": "Every time Lexington launches an airstrike, increases Escort Fleet damage by 5% (15%) for 8 seconds. Does not stack with the same skill.",
+				"description": "When this ship launches an Airstrike: increases the damage of your Vanguard by 5% (15%) for 8 seconds. Does not stack with the same skill.",
 				"color": "gold"
 			}
 		],
@@ -104963,7 +105003,7 @@
 					"cn": "舰炮掩护",
 					"jp": "支援砲撃"
 				},
-				"description": "Every 20 (10) seconds, provides supporting fire with 20.3 cm guns (damage based on skill level).Barrage preview (gif)",
+				"description": "Every 20 (10) seconds, provides supporting fire with CA-caliber guns. (Damage is based on skill level and Aviation stat.)Barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -104973,7 +105013,7 @@
 					"cn": "舰队空母",
 					"jp": "編隊空母"
 				},
-				"description": "When launching an airstrike: increases Escort Fleet damage by 5% (15%) for 8 seconds. Does not stack with the same skill.",
+				"description": "When this ship launches an Airstrike: increases the damage of your Vanguard by 5% (15%) for 8 seconds. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -105977,7 +106017,7 @@
 					"cn": "舰队空母",
 					"jp": "編隊空母"
 				},
-				"description": "When launching an airstrike: increases damage dealt by the Escort Fleet by 5% (15%) for 8 seconds. Does not stack with the same skill.",
+				"description": "When this ship launches an Airstrike: increases the damage of your Vanguard by 5% (15%) for 8 seconds. Does not stack with the same skill.",
 				"color": "gold"
 			}
 		],
@@ -107735,7 +107775,7 @@
 					"cn": "决死突袭",
 					"jp": "捨て身の突貫"
 				},
-				"description": "If Acasta is the last ship alive in the Escort fleet: increase own damage dealt by 20% (50%) and increases own damage received by 8% (20%).",
+				"description": "If Acasta is the last ship alive in the Vanguard fleet: increase own damage dealt by 20% (50%) and increases own damage received by 8% (20%).",
 				"color": "pink"
 			},
 			{
@@ -107745,7 +107785,7 @@
 					"cn": "烟雾弹",
 					"jp": "煙幕散布"
 				},
-				"description": "After battle begins and 15% (30%) chance to activate every 15 seconds after that: deploy a smokescreen for 5 seconds. Escort ships within the smokescreen have 20% (40%) additional Evasion Rate. Does not stack with the same skill effect.",
+				"description": "After battle begins and 15% (30%) chance to activate every 15 seconds after that: deploy a smokescreen for 5 seconds. Vanguard ships within the smokescreen have 20% (40%) additional Evasion Rate. Does not stack with the same skill effect.",
 				"color": "deepskyblue"
 			},
 			{
@@ -111783,7 +111823,7 @@
 					"cn": "彗星头槌",
 					"jp": "コメットヘッドスマッシュ"
 				},
-				"description": "All Escort ships deal 50% (100%) more ramming damage and take 20% (30%) less damage from ramming.",
+				"description": "All Vanguard ships deal 50% (100%) more ramming damage and take 20% (30%) less damage from ramming.",
 				"color": "pink"
 			},
 			{
@@ -111853,11 +111893,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": true
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A-1, C-1Visitors Dyed in Red A-2, C-2Winter's Crown A-1, C-1",
+			"obtainedFrom": "Fallen Wings A-1, C-1Visitors Dyed in Red A-2, C-2Winter's Crown A-1, C-1Strive, Wish and Strategize SP3",
 			"fromMaps": [
 				"5-2",
 				"11-2",
@@ -114656,7 +114696,7 @@
 		"names": {
 			"en": "Azuma",
 			"code": "IJN Azuma",
-			"cn": "猉",
+			"cn": "吾妻",
 			"jp": "吾妻",
 			"kr": "아즈마"
 		},
@@ -115475,8 +115515,8 @@
 		"names": {
 			"en": "Cheshire",
 			"code": "HMS Cheshire",
-			"cn": null,
-			"jp": null,
+			"cn": "柴郡",
+			"jp": "チェシャー",
 			"kr": null
 		},
 		"class": null,
@@ -115679,7 +115719,10 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
+			"artist": {
+				"name": "全班最菜嘤嘤嘤",
+				"url": "https://azurlane.koumakan.jp/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4"
+			},
 			"pixiv": null,
 			"twitter": {
 				"name": "zelda10010",
@@ -115690,7 +115733,7 @@
 				"url": "https://weibo.com/u/7477949468"
 			},
 			"voice": {
-				"name": "Ishigami Shizuka",
+				"name": "Shizuka Ishigami",
 				"url": "https://en.wikipedia.org/wiki/Shizuka_Ishigami"
 			}
 		},
@@ -115719,8 +115762,8 @@
 		"names": {
 			"en": "Drake",
 			"code": "HMS Drake",
-			"cn": null,
-			"jp": null,
+			"cn": "德雷克",
+			"jp": "ドレイク",
 			"kr": null
 		},
 		"class": null,
@@ -115962,8 +116005,8 @@
 		"names": {
 			"en": "Mainz",
 			"code": "KMS Mainz",
-			"cn": null,
-			"jp": null,
+			"cn": "美因茨",
+			"jp": "マインツ",
 			"kr": null
 		},
 		"class": "Mainz",
@@ -116211,8 +116254,8 @@
 		"names": {
 			"en": "Odin",
 			"code": "KMS Odin",
-			"cn": null,
-			"jp": null,
+			"cn": "奥丁",
+			"jp": "オーディン",
 			"kr": null
 		},
 		"class": null,
@@ -116457,11 +116500,11 @@
 		"names": {
 			"en": "Champagne",
 			"code": "FFNF Champagne",
-			"cn": null,
-			"jp": null,
+			"cn": "香槟",
+			"jp": "シャンパーニュ",
 			"kr": null
 		},
-		"class": null,
+		"class": "Champagne",
 		"nationality": "Iris Libre",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f1/ChampagneIcon.png",
@@ -118373,7 +118416,7 @@
 					"cn": "bili看板娘",
 					"jp": null
 				},
-				"description": "When sortied as the Escort Fleet Leader (First Slot) and paired with 33, increase Firepower, Reload by 10% (30%) and Evasion by 15% (35%) for both 22 and 33.",
+				"description": "When sortied as the Vanguard Fleet Leader (First Slot) and paired with 33, increase Firepower, Reload by 10% (30%) and Evasion by 15% (35%) for both 22 and 33.",
 				"color": "gold"
 			},
 			{
@@ -118571,7 +118614,7 @@
 					"cn": "bili看板娘",
 					"jp": null
 				},
-				"description": "When sortied as the Escort Fleet Leader (First Slot) and paired with 22, increase Torpedo stat by 15% (35%) for both 22 and 33.",
+				"description": "When sortied as the Vanguard Fleet Leader (First Slot) and paired with 22, increase Torpedo stat by 15% (35%) for both 22 and 33.",
 				"color": "gold"
 			},
 			{
@@ -118980,7 +119023,7 @@
 					"cn": "白虹",
 					"jp": "白虹"
 				},
-				"description": "100 seconds after battle starts: increases Evasion of all ships in Escort Fleet by 3.5% (8%) and recovers HP of all ships in Escort Fleet by 4.5% (12%) of Nekone's total HP.",
+				"description": "100 seconds after battle starts: increases Evasion of all ships in Vanguard Fleet by 3.5% (8%) and recovers HP of all ships in Vanguard Fleet by 4.5% (12%) of Nekone's total HP.",
 				"color": "deepskyblue"
 			},
 			{
