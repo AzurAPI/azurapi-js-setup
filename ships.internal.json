@@ -78012,13 +78012,13 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "Only during event: Jaws and Enigma",
+				"aviation": "Only during event: The Enigma and the Shark",
 				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Special Construction and as map clear reward during \"Jaws and Enigma\" event.",
+			"obtainedFrom": "Available in Special Construction and as map clear reward during \"The Enigma and the Shark\" event.",
 			"fromMaps": []
 		},
 		"misc": {
