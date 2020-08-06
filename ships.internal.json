@@ -113927,7 +113927,7 @@
 					"cn": "飞行NG!",
 					"jp": "フライングはNG！"
 				},
-				"description": "When an enemy aircraft is shot down within the fleet's AA range: increases own Firepower and Anti-Air by 5% (15%) for 8 seconds. If fleet has shot down 15 or more enemy aircraft during the battle: increases own Firepower by 5% (15%) and Reload by 10% (20%) for the rest of the battle.",
+				"description": "When an enemy aircraft is shot down within the fleet's AA range: increases own Firepower and Anti-Air by 5% (15%) for 8 seconds (does not stack). If fleet has shot down 15 or more enemy aircraft during the battle: increases own Firepower by 5% (15%) and Reload by 10% (20%) for the rest of the battle.",
 				"color": "deepskyblue"
 			},
 			{
@@ -113937,7 +113937,7 @@
 					"cn": "飞行NG!+",
 					"jp": "フライングはNG！+"
 				},
-				"description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP and AA by 5% (15%) for 8s; if your Airspace Control of the map is at Parity or higher: this buff's duration extends until the end of the battle, but does not stack. Additionally, when your fleet has shot down 15 or more aircraft in one battle: increases this ship's FP and RLD by 10% (20%) until the end of the battle. (Replaces No-Fly Zone!)",
+				"description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP and AA by 5% (15%) for 8s (does not stack); if your Airspace Control of the map is at Parity or higher: this buff is immediately applied at the start of the battle and lasts until the end. Additionally, when your fleet has shot down 15 or more aircraft in one battle: increases this ship's FP and RLD by 10% (20%) until the end of the battle. (Replaces No-Fly Zone!)",
 				"color": "deepskyblue"
 			},
 			{
@@ -115600,7 +115600,7 @@
 				"names": {
 					"en": "Grin and Fire!",
 					"cn": null,
-					"jp": null
+					"jp": "グリンしてファイア！"
 				},
 				"description": "Decrease this ship's DMG taken by 5% (15.0%). Every 12s after the start of the battle: 50% (100%) chance to fire a special barrage (DMG is based on the skill's level).",
 				"color": "pink"
@@ -115610,7 +115610,7 @@
 				"names": {
 					"en": "Bounce Right Back",
 					"cn": "柴郡PowerUp！",
-					"jp": null
+					"jp": "チェシャーがやるよ！"
 				},
 				"description": "Decrease the loading time of this ship's first wave of torpedoes by 40% (70.0%). When this ship takes DMG: 15.0% chance to increase this ship's FP, EVA, and AA by 1% (5.0%) until the end of the battle. Can be stacked up to 3 times.",
 				"color": "gold"
@@ -115620,7 +115620,7 @@
 				"names": {
 					"en": "Siren Killer",
 					"cn": "塞壬之敌",
-					"jp": null
+					"jp": "対セイレーン特化改修"
 				},
 				"description": "Increase this ship's DMG to Sirens by 5.0% (15%).",
 				"color": "pink"
@@ -115630,7 +115630,7 @@
 				"names": {
 					"en": "All Out Assault",
 					"cn": null,
-					"jp": null
+					"jp": "特殊弾幕-チェシャー"
 				},
 				"description": "Activates All Out Assault I (II): Cheshire once every 9 (6) times the Main Guns are fired.",
 				"color": "pink"
@@ -115646,8 +115646,8 @@
 				"Anti-Air Gun Mount +1"
 			],
 			"10": [
-				"Gains Full Barrage I",
 				"Gains Siren Killer I",
+				"Gains All Out Assault I",
 				"Main Gun efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -115671,8 +115671,8 @@
 				}
 			],
 			"30": [
-				"Upgrades Full Barrage I→II",
 				"Upgrades Siren Killer II→III",
+				"Upgrades All Out Assault I→II",
 				"All weapons' efficiency +5%",
 				"Stars increase to ★★★★★★"
 			]
@@ -115847,7 +115847,7 @@
 				"names": {
 					"en": "The Fearless Privateer",
 					"cn": "勇斗的Privateer",
-					"jp": null
+					"jp": "勇闘のプライベーティア"
 				},
 				"description": "Increase this ship's built-in Secondary Gun Crit Rate by 20% (50.0%) and gives a Lv.1 (Lv.10) ammo buff to it. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to special HE with 115/115/95 (125/125/105) modifiers.",
 				"color": "pink"
@@ -115857,7 +115857,7 @@
 				"names": {
 					"en": "Flintlock Burst",
 					"cn": "断罪之炎",
-					"jp": null
+					"jp": "フリントバースト"
 				},
 				"description": "Every 30s (20s): fires a special barrage that ignores shields and heals this ship for 15.0% of the DMG dealt (barrage DMG is based on the skill's level).  When sortied as lead ship : increase this ship's FP and EVA by 3% (15.0%) and RLD by 4.5% (21.0%).  When not sortied as lead ship: When this ship sinks an enemy: increase this ship's FP and EVA by 1% (5.0%) and RLD by 1.5% (7.0%) until the end of the battle. Can be stacked up to 3 times.",
 				"color": "gold"
@@ -115867,7 +115867,7 @@
 				"names": {
 					"en": "Siren Killer",
 					"cn": "塞壬之敌",
-					"jp": null
+					"jp": "対セイレーン特化改修"
 				},
 				"description": "Increase this ship's DMG to Sirens by 5.0% (15.0%).",
 				"color": "pink"
@@ -115877,7 +115877,7 @@
 				"names": {
 					"en": "All Out Assault",
 					"cn": null,
-					"jp": null
+					"jp": "特殊弾幕-ドレイク"
 				},
 				"description": "Activates All Out Assault I (II): Drake once every 12 (8) times the Main Guns are fired.",
 				"color": "pink"
@@ -115894,8 +115894,8 @@
 				"Main Gun Mount +1"
 			],
 			"10": [
-				"Gains Full Barrage I",
 				"Gains Siren Killer I",
+				"Gains All Out Assault I",
 				"Main Gun efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -115923,8 +115923,8 @@
 				""
 			],
 			"30": [
-				"Upgrades Full Barrage I→II",
 				"Upgrades Siren Killer II→III",
+				"Upgrades All Out Assault I→II",
 				"Main Gun efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -116090,7 +116090,7 @@
 				"names": {
 					"en": "Retaliatory Shield",
 					"cn": "反击之盾",
-					"jp": null
+					"jp": "撃ち返しの盾"
 				},
 				"description": "Every 15s: deploys a shield in front of this ship that lasts 8s and can block up to 6 enemy shells; if this shield is destroyed within the allotted time: fires a barrage and increases this ship's FP and Accuracy by 3.5% (8.0%) until the end of the battle. This buff can be stacked twice.",
 				"color": "deepskyblue"
@@ -116100,7 +116100,7 @@
 				"names": {
 					"en": "Ausgewogen",
 					"cn": "「Ausgewogen」",
-					"jp": null
+					"jp": "「アオスゲヴォーゲン」"
 				},
 				"description": "At the start of the battle, if this ship is in the frontmost position of your Vanguard: increase this ships Speed by 5 and EVA by 4.5% (12.0%) until the end of the battle, and decreases its DMG taken by 5% (15.0%) for 30s: if NOT in the frontmost position: increases this ship's Crit DMG by 15% (25.0%) and, every 15s: has a 40% (70.0%) chance to fire a special barrage (DMG is based on skill's level).",
 				"color": "pink"
@@ -116110,7 +116110,7 @@
 				"names": {
 					"en": "Siren Killer",
 					"cn": "塞壬之敌",
-					"jp": null
+					"jp": "対セイレーン特化改修"
 				},
 				"description": "Increases this ship's DMG to Sirens by 5% (15%).",
 				"color": "pink"
@@ -116120,7 +116120,7 @@
 				"names": {
 					"en": "All Out Assault",
 					"cn": null,
-					"jp": null
+					"jp": "特殊弾幕-マインツ"
 				},
 				"description": "Acitvates All Out Assault I (II): Mainz once every 15 (10) times the Main Guns are fired.",
 				"color": "pink"
@@ -116136,8 +116136,8 @@
 				"Main Gun Mount +1"
 			],
 			"10": [
-				"Gains Full Barrage I",
 				"Gains Siren Killer I",
+				"Gains All Out Assault I",
 				"Main Gun efficiency +5%",
 				"Stars increase to ★★★★☆☆"
 			],
@@ -116164,8 +116164,8 @@
 				""
 			],
 			"30": [
-				"Upgrades Full Barrage I→II",
 				"Upgrades Siren Killer II→III",
+				"Upgrades All Out Assault I→II",
 				"Main Gun efficiency +15%",
 				"Stars increase to ★★★★★★"
 			]
@@ -116339,7 +116339,7 @@
 				"names": {
 					"en": "Mímir's Keen Eyes",
 					"cn": "求知之贤眼",
-					"jp": null
+					"jp": "ミーミルの賢眼"
 				},
 				"description": "Changes this ship's position and decrease its DMG taken by 5% (20.0%). Every 15s: commences a sonar scan, revealing the locations of all enemy Submarines for 5s (10s) and decreasing your Vanguard's DMG taken from torpedoes by 5% (15.0%) for 5s (10s).",
 				"color": "gold"
@@ -116349,7 +116349,7 @@
 				"names": {
 					"en": "Herteitr's Rolling Thunder",
 					"cn": "贯穿之轰雷",
-					"jp": null
+					"jp": "ヘルテイトの轟雷"
 				},
 				"description": "Every 18s: 45% (75.0%) chance to fire a special barrage (DMG is based on the skill's level). Changes the Spread Angle of this ship's torpedoes.",
 				"color": "pink"
@@ -116359,7 +116359,7 @@
 				"names": {
 					"en": "Siren Killer",
 					"cn": "塞壬之敌",
-					"jp": null
+					"jp": "対セイレーン特化改修"
 				},
 				"description": "Increases this ship's DMG to Sirens by 5.0% (15%).",
 				"color": "pink"
@@ -116404,7 +116404,6 @@
 				"Main Gun Efficiency +5%"
 			],
 			"30": [
-				"Upgrades Full Barrage I→II",
 				"Upgrades Siren Killer II→III",
 				"Main Gun Mount +1",
 				"",
@@ -116585,7 +116584,7 @@
 				"names": {
 					"en": "Augmenting Mechanism: Setzer Principle",
 					"cn": "辅助机构「S.P.」",
-					"jp": null
+					"jp": "補助機構ゼッツアプリンシパル"
 				},
 				"description": "Decreases the loading time of this ship's Main Guns by 20% (40.0%) and fires an additional LV.1 (LV.10) barrage along with its primary Salvoes. Every 20s: fires a LV.1 (LV.10) special barrage (DMG is based on the skill's level).",
 				"color": "pink"
@@ -116595,7 +116594,7 @@
 				"names": {
 					"en": "Substitute Mechanism: Holy Thurible",
 					"cn": "代行机构「E.E.」",
-					"jp": null
+					"jp": "代行機構エグリーズサリブル"
 				},
 				"description": "When this ship uses a Main Gun that fires HE ammo: increases its FP by 1% (5.0%), AA by 5% (15.0%), and increases its HE DMG modifier against enemies with Heavy armor by 5% (15.0%); when using one that fires AP: increase this ship's FP by 1% (5.0%), RLD by 5% (15.0%), and increase its Main Gun Crit Rate by 5% (20.0%). While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does nothing if this ship is the Flagship); when this ship's HP falls below 75.0% increase this ship's EVA and Accuracy by 5% (15.0%).",
 				"color": "gold"
@@ -116605,7 +116604,7 @@
 				"names": {
 					"en": "Siren Killer",
 					"cn": "塞壬之敌",
-					"jp": null
+					"jp": "対セイレーン特化改修"
 				},
 				"description": "Increase this ship's DMG to Sirens by 5.0% (15%).",
 				"color": "pink"
