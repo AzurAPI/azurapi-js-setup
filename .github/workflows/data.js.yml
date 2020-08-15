@@ -28,8 +28,8 @@ jobs:
           committer: GitHub <noreply@github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           title: '[Auto] Data Update'
-          assignees: misuti
-          reviewers: misuti
+          assignees: octo-kumo
+          reviewers: octo-kumo
           body: |
             #### Automatic Data Update `${{ steps.current-time.outputs.formattedTime }}`
             Pull Request ${{ env.PULL_REQUEST_NUMBER }}
