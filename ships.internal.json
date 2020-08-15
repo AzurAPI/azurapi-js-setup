@@ -11298,10 +11298,22 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
-			"web": null,
+			"artist": {
+				"name": "活断層",
+				"url": "https://azurlane.koumakan.jp/Artists#.E6.B4.BB.E6.96.AD.E5.B1.A4"
+			},
+			"pixiv": {
+				"name": "活断層",
+				"url": "https://www.pixiv.net/en/users/1082547"
+			},
+			"twitter": {
+				"name": "活断層",
+				"url": "https://twitter.com/katsudansou"
+			},
+			"web": {
+				"name": "U-rica",
+				"url": "https://u-rica.jimdofree.com/"
+			},
 			"voice": {
 				"name": "Fumie Mizusawa",
 				"url": "https://en.wikipedia.org/wiki/Fumie_Mizusawa"
@@ -34511,6 +34523,19 @@
 				}
 			},
 			{
+				"name": "Oath",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/Z23Wedding.png/573px-Z23Wedding.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/34/Z23WeddingChibi.png",
+				"info": {
+					"enClient": "Schwarze Hochzeit",
+					"cnClient": "skin unavailable",
+					"jpClient": "skin unavailable",
+					"obtainedFrom": "Oath",
+					"live2dModel": "No"
+				}
+			},
+			{
 				"name": "Philosophy Sensei",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e1/Z23Bilibili.png/364px-Z23Bilibili.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
@@ -57495,7 +57520,7 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/05/U-47PartyChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Eigenen Raum",
 					"cnClient": "静谧一隅",
 					"jpClient": "Eigenen Raum",
 					"obtainedFrom": "Skin Shop",
@@ -64602,6 +64627,20 @@
 					"obtainedFrom": "Default",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Wending Waters, Serene Lotus",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e2/AmagiSummer.png/519px-AmagiSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c0/AmagiSummerChibi.png",
+				"info": {
+					"enClient": "Wending Waters, Serene Lotus",
+					"cnClient": "skin unavailable",
+					"jpClient": "skin unavailable",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -67396,6 +67435,21 @@
 					"jpClient": "此方の学園へ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "The Independent Line",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/92/IndependenceParty.png/474px-IndependenceParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/75/IndependencePartyChibi.png",
+				"info": {
+					"enClient": "The Independent Line",
+					"cnClient": "skin unavailable",
+					"jpClient": "skin unavailable",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
 					"live2dModel": "No"
 				}
 			}
@@ -87094,7 +87148,7 @@
 					"cn": "射击Synchronize",
 					"jp": "射撃シンクロナイズ"
 				},
-				"description": "Every 35(15) seconds, randomly aim at 1 enemy and release a Lv.1 (Lv.10) barrage. After the barrage, increase all main fleet BB, BC, BBV's reload and accuracy by 10.0% (20.0%) for 8 seconds.",
+				"description": "Every 35 (15) seconds after the battle starts: Fire a Level 1 (Level 10) special barrage at a random enemy, and increase the RLD and Accuracy of all BBs, BCs, and BBVs in your main fleet by 10.0% (20.0%) for 8 seconds.",
 				"color": "pink"
 			},
 			{
@@ -87104,7 +87158,7 @@
 					"cn": "骑士不朽之约",
 					"jp": "朽ちぬ騎士の結束"
 				},
-				"description": "When entering combat, increase self FP and reload by 4.5% (12%); when sortied with King George V, Prince of Wales, Duke of York, Monarch, or sortied with 3 or more royal navy characters, increase self FP and AA for an additional 4.5% (12.0%).",
+				"description": "When entering combat:\nIncrease own FP and RLD stats by 4.5% (12%) until the end of battle.\nIf sortied with King George V, Duke of York, Prince of Wales, Monarch, or any two other Royal Navy ships (not counting herself), increase own FP and AA stats by an additional 4.5% (12.0%) until the end of battle.",
 				"color": "gold"
 			}
 		],
@@ -98909,6 +98963,20 @@
 					"cost": "780",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "The Light of Circle City",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/IndianapolisParty.png/513px-IndianapolisParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/95/IndianapolisPartyChibi.png",
+				"info": {
+					"enClient": "The Light of Circle City",
+					"cnClient": "skin unavailable",
+					"jpClient": "skin unavailable",
+					"obtainedFrom": "",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -107048,7 +107116,7 @@
 					"cn": "定期维护",
 					"jp": "定期メンテ"
 				},
-				"description": "Begins each Sortie with 1 (3) Emergency Repair.",
+				"description": "When sortied, receive 1 (3) Emergency Repairs. This skill cannot be leveled up.",
 				"color": "deepskyblue"
 			}
 		],
@@ -114089,7 +114157,7 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/27/SeattlePartyChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Gorgeous Party",
 					"cnClient": "绚烂的盛宴",
 					"jpClient": "ゴージャスパーティー",
 					"obtainedFrom": "Skin Shop",
@@ -114393,7 +114461,7 @@
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4c/GeorgiaPartyChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "South Town Pearl",
 					"cnClient": "南方的黑珍珠",
 					"jpClient": "サウスタウンパール",
 					"obtainedFrom": "Skin Shop",
