@@ -5093,7 +5093,7 @@
 					"cn": "炮术指挥·先锋",
 					"jp": "砲術指揮・前衛"
 				},
-				"description": "Increases Firepower of the Escort Fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+				"description": "Increases the FP of your Vanguard by 5% (15%). Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -5103,7 +5103,7 @@
 					"cn": "Londinium",
 					"jp": "ロンディニウムショット"
 				},
-				"description": "When firing main gun: 15% (30%) chance to inflict double damage. Upon destroying an enemy ship: increases own Accuracy by 0.5% (1.5%), stacking up to 8 times.",
+				"description": "When this ship fires its Main Gun: 15% (30%) chance to inflict double DMG with them. When this ship sinks an enemy: increases its own Accuracy by 0.5% (1.5%) (can be stacked up to 8 times.)",
 				"color": "pink"
 			},
 			{
@@ -5113,7 +5113,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ロンドン級"
 				},
-				"description": "Every 9 (6) shots from the main guns, triggers Full Barrage - London Class I (II).",
+				"description": "Activates All Out Assault I: London Class once every 9 (6) times the Main Guns are fired (II).",
 				"color": "pink"
 			}
 		],
@@ -63816,7 +63816,7 @@
 					"cn": "湖之都的蛮牛",
 					"jp": "水都の猛き戦士"
 				},
-				"description": "Upon destroying an enemy vessel, increase own Firepower by 5% (15%) and Reload by 10% (30%) for 12 seconds. This effect can activate once every second and does not stack. The duration will reset upon activation.",
+				"description": "When this ship sinks an enemy: increases this ship's FP by 5.0% (15.0%) and RLD by 10.0% (30.0%) for 12s. This effect can not activate more than once a second and does not stack, but sinking additional enemies will refresh its duration.",
 				"color": "pink"
 			},
 			{
@@ -63826,7 +63826,7 @@
 					"cn": "杜尔拉汗",
 					"jp": "デュラハンクルーザー"
 				},
-				"description": "When Health falls under 30%, decrease damage received by 5% (10%). Then, for the next 16 seconds, decrease speed by 2, and recover 1% (4%) max Health every 3 seconds. Can only occur once per battle.",
+				"description": "Once per battle, when this ship's HP falls below 30.0%: decreases the DMG it takes by 5.0% (10.0%) for the rest of the battle and for 16s: decreases its Speed by 2 and recovers 1.0% (4.0%) of its max HP every 3s.",
 				"color": "deepskyblue"
 			},
 			{
@@ -63836,7 +63836,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ニューオーリンズ級"
 				},
-				"description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - New Orleans-Class I (II)",
+				"description": "Activates All Out Assault I: New Orleans Class once every 12 (8) times the Main Guns are fired (II).",
 				"color": "pink"
 			}
 		],
@@ -88423,8 +88423,16 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": null,
-				"maxLevel": null
+				"collection": {
+					"applicable": [],
+					"stat": "",
+					"bonus": ""
+				},
+				"maxLevel": {
+					"applicable": [],
+					"stat": "",
+					"bonus": ""
+				}
 			},
 			"techPoints": {
 				"collection": 0,
@@ -88609,8 +88617,16 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": null,
-				"maxLevel": null
+				"collection": {
+					"applicable": [],
+					"stat": "",
+					"bonus": ""
+				},
+				"maxLevel": {
+					"applicable": [],
+					"stat": "",
+					"bonus": ""
+				}
 			},
 			"techPoints": {
 				"collection": 0,
@@ -98974,7 +98990,7 @@
 					"enClient": "The Light of Circle City",
 					"cnClient": "skin unavailable",
 					"jpClient": "skin unavailable",
-					"obtainedFrom": "",
+					"obtainedFrom": "Lights of Circle City -  1,500",
 					"live2dModel": "No"
 				}
 			}
@@ -115587,7 +115603,7 @@
 			"jp": "チェシャー",
 			"kr": null
 		},
-		"class": null,
+		"class": "Cheshire",
 		"nationality": "Royal Navy",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/3b/CheshireIcon.png",
@@ -115834,7 +115850,7 @@
 			"jp": "ドレイク",
 			"kr": null
 		},
-		"class": null,
+		"class": "Drake",
 		"nationality": "Royal Navy",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/da/DrakeIcon.png",
@@ -116326,7 +116342,7 @@
 			"jp": "オーディン",
 			"kr": null
 		},
-		"class": null,
+		"class": "Odin",
 		"nationality": "Ironblood",
 		"hullType": "Battlecruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5e/OdinIcon.png",
