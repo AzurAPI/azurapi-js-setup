@@ -5093,7 +5093,7 @@
 					"cn": "炮术指挥·先锋",
 					"jp": "砲術指揮・前衛"
 				},
-				"description": "Increases the FP of your Vanguard by 5% (15%). Does not stack with the same skill.",
+				"description": "Increases the FP of your Vanguard by 5% (15%). Does not stack with any other Artillery Command skill.",
 				"color": "gold"
 			},
 			{
@@ -8644,6 +8644,10 @@
 			{
 				"description": "Queen Elizabeth",
 				"url": "https://azurlane.koumakan.jp/w/images/d/db/Bg_2020.06.03_1.png"
+			},
+			{
+				"description": "Queen Elizabeth, Perseus, Warspite",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a5/Bg_2020.08.13_6.png"
 			}
 		]
 	},
@@ -9149,6 +9153,10 @@
 			{
 				"description": "Belfast, Warspite, Queen Elizabeth, Akashi and Shiranui",
 				"url": "https://azurlane.koumakan.jp/w/images/c/c6/Bg_queen_elizabeth_1.png"
+			},
+			{
+				"description": "Queen Elizabeth, Perseus, Warspite",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a5/Bg_2020.08.13_6.png"
 			}
 		]
 	},
@@ -11345,7 +11353,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Hermione, Eagle, Howe",
+				"url": "https://azurlane.koumakan.jp/w/images/b/b5/Bg_2020.07.23_1.png"
+			}
+		]
 	},
 	"144": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Ark_Royal",
@@ -28929,6 +28942,10 @@
 			{
 				"description": "Nagato",
 				"url": "https://azurlane.koumakan.jp/w/images/d/d1/Bg_2020.07.16_1.png"
+			},
+			{
+				"description": "Mutsu, Nagato",
+				"url": "https://azurlane.koumakan.jp/w/images/6/64/Bg_2020.08.13_7.png"
 			}
 		]
 	},
@@ -29139,7 +29156,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Mutsu, Nagato",
+				"url": "https://azurlane.koumakan.jp/w/images/6/64/Bg_2020.08.13_7.png"
+			}
+		]
 	},
 	"215": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tosa",
@@ -40456,6 +40478,10 @@
 			{
 				"description": "Ning Hai with Ping Hai and Graf Spee",
 				"url": "https://azurlane.koumakan.jp/w/images/e/e1/Bg_graf_spee_2.png"
+			},
+			{
+				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
 			}
 		]
 	},
@@ -41030,6 +41056,10 @@
 			{
 				"description": "Swiftsure, Azuma, Chang Chun, Ping Hai, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/9/98/Bg_2020.01.22_1.png"
+			},
+			{
+				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
 			}
 		]
 	},
@@ -41250,7 +41280,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "San Diego, Lexington, Washington, Amagi, Avrora",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fa/Bg_2020.08.13_1.png"
+			}
+		]
 	},
 	"263": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Bailey",
@@ -61611,7 +61646,10 @@
 				"name": "Tony",
 				"url": "https://azurlane.koumakan.jp/Artists#Tony"
 			},
-			"pixiv": null,
+			"pixiv": {
+				"name": "Tony",
+				"url": "https://www.pixiv.net/en/users/50314970"
+			},
 			"twitter": {
 				"name": "Tony",
 				"url": "https://twitter.com/Tony_T2ARTWORKS"
@@ -61897,6 +61935,10 @@
 			{
 				"description": "Essex in her A Trip Down Route 66 skin with Cleveland and Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/1/13/Bg_union_riders.png"
+			},
+			{
+				"description": "Intrepid, Bunker Hill, Essex, Shangri-La",
+				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_2020.08.13_2.png"
 			}
 		]
 	},
@@ -63816,7 +63858,7 @@
 					"cn": "湖之都的蛮牛",
 					"jp": "水都の猛き戦士"
 				},
-				"description": "When this ship sinks an enemy: increases this ship's FP by 5.0% (15.0%) and RLD by 10.0% (30.0%) for 12s. This effect can not activate more than once a second and does not stack, but sinking additional enemies will refresh its duration.",
+				"description": "When this ship sinks an enemy: increases this ship's FP by 5% (15%) and RLD by 10% (30%) for 12s. This effect can not activate more than once a second and does not stack, but sinking additional enemies will refresh its duration.",
 				"color": "pink"
 			},
 			{
@@ -63826,7 +63868,7 @@
 					"cn": "杜尔拉汗",
 					"jp": "デュラハンクルーザー"
 				},
-				"description": "Once per battle, when this ship's HP falls below 30.0%: decreases the DMG it takes by 5.0% (10.0%) for the rest of the battle and for 16s: decreases its Speed by 2 and recovers 1.0% (4.0%) of its max HP every 3s.",
+				"description": "Once per battle, when this ship's HP falls below 30%: decreases the DMG it takes by 5% (10%) for the rest of the battle and for 16s: decreases its Speed by 2 and recovers 1% (4%) of its max HP every 3s.",
 				"color": "deepskyblue"
 			},
 			{
@@ -63836,7 +63878,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ニューオーリンズ級"
 				},
-				"description": "Activates All Out Assault I: New Orleans Class once every 12 (8) times the Main Guns are fired (II).",
+				"description": "Activates All Out Assault I (II): New Orleans Class once every 12 (8) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -64675,6 +64717,14 @@
 			{
 				"description": "Amagi, Tosa, Kaga (Battleship)",
 				"url": "https://azurlane.koumakan.jp/w/images/4/47/Bg_2020.04.23_2.png"
+			},
+			{
+				"description": "San Diego, Lexington, Washington, Amagi, Avrora",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fa/Bg_2020.08.13_1.png"
+			},
+			{
+				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
 			}
 		]
 	},
@@ -65588,6 +65638,10 @@
 			{
 				"description": "Sirius, Nagato, Roon",
 				"url": "https://azurlane.koumakan.jp/w/images/e/e9/Bg_2019.12.26_4.png"
+			},
+			{
+				"description": "Sirius",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6b/Bg_2020.08.13_3.png"
 			}
 		]
 	},
@@ -67703,6 +67757,10 @@
 			{
 				"description": "Independence, Shangri-La",
 				"url": "https://azurlane.koumakan.jp/w/images/9/9f/Bg_2020.06.24_1.png"
+			},
+			{
+				"description": "Intrepid, Bunker Hill, Essex, Shangri-La",
+				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_2020.08.13_2.png"
 			}
 		]
 	},
@@ -68130,7 +68188,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Intrepid, Bunker Hill, Essex, Shangri-La",
+				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_2020.08.13_2.png"
+			}
+		]
 	},
 	"381": {
 		"wikiUrl": "https://azurlane.koumakan.jp/I-13",
@@ -80231,7 +80294,10 @@
 				"name": "Tony",
 				"url": "https://azurlane.koumakan.jp/Artists#Tony"
 			},
-			"pixiv": null,
+			"pixiv": {
+				"name": "Tony",
+				"url": "https://www.pixiv.net/en/users/50314970"
+			},
 			"twitter": {
 				"name": "Tony",
 				"url": "https://twitter.com/Tony_T2ARTWORKS"
@@ -81664,6 +81730,10 @@
 			{
 				"description": "Tashkent, Sovetskaya Rossiya, Chapayev, Gangut, Kirov",
 				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_2020.02.27_4.png"
+			},
+			{
+				"description": "Tashkent, Sovetskaya Rossiya, Chapayev",
+				"url": "https://azurlane.koumakan.jp/w/images/9/95/Bg_2020.08.13_4.png"
 			}
 		]
 	},
@@ -82126,6 +82196,10 @@
 			{
 				"description": "Tashkent, Sovetskaya Rossiya, Chapayev, Gangut, Kirov",
 				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_2020.02.27_4.png"
+			},
+			{
+				"description": "Tashkent, Sovetskaya Rossiya, Chapayev",
+				"url": "https://azurlane.koumakan.jp/w/images/9/95/Bg_2020.08.13_4.png"
 			}
 		]
 	},
@@ -82591,6 +82665,10 @@
 			{
 				"description": "Tashkent, Sovetskaya Rossiya, Chapayev, Gangut, Kirov",
 				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_2020.02.27_4.png"
+			},
+			{
+				"description": "Tashkent, Sovetskaya Rossiya, Chapayev",
+				"url": "https://azurlane.koumakan.jp/w/images/9/95/Bg_2020.08.13_4.png"
 			}
 		]
 	},
@@ -82831,6 +82909,10 @@
 			{
 				"description": "Intrepid, Bremerton, Cooper, Bluegill",
 				"url": "https://azurlane.koumakan.jp/w/images/0/01/Bg_2020.03.26_2.png"
+			},
+			{
+				"description": "Intrepid, Bunker Hill, Essex, Shangri-La",
+				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_2020.08.13_2.png"
 			}
 		]
 	},
@@ -87266,7 +87348,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Hermione, Eagle, Howe",
+				"url": "https://azurlane.koumakan.jp/w/images/b/b5/Bg_2020.07.23_1.png"
+			}
+		]
 	},
 	"462": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Perseus",
@@ -87390,7 +87477,7 @@
 					"cn": "广域舰船维护",
 					"jp": "ハデス・リペアラー"
 				},
-				"description": "Increase hangar size to 3. All ships in this fleet recover 1.0% of their max HP every 40 (20) seconds. When other fleets on the same map enter battle, after 20 seconds any surviving ships recover 1.0% (3.0%) of their max HP.",
+				"description": "Increase hangar size to 3. All ships in this fleet recover 1.0% of their max HP every 40 (20) seconds. When the fleet this ship is NOT in engages in battle, 20 seconds after that battle starts, heal all vanguard ships in that fleet by 1.0% (3.0%) of their max HP.",
 				"color": "gold"
 			}
 		],
@@ -87494,7 +87581,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Queen Elizabeth, Perseus, Warspite",
+				"url": "https://azurlane.koumakan.jp/w/images/a/a5/Bg_2020.08.13_6.png"
+			}
+		]
 	},
 	"463": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Hermione",
@@ -87721,7 +87813,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Hermione, Eagle, Howe",
+				"url": "https://azurlane.koumakan.jp/w/images/b/b5/Bg_2020.07.23_1.png"
+			}
+		]
 	},
 	"464": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Valiant",
@@ -92991,6 +93088,10 @@
 			{
 				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/1/18/Bg_2020.03.31_1.png"
+			},
+			{
+				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
 			}
 		]
 	},
@@ -96612,6 +96713,10 @@
 			{
 				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/1/18/Bg_2020.03.31_1.png"
+			},
+			{
+				"description": "San Diego, Lexington, Washington, Amagi, Avrora",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fa/Bg_2020.08.13_1.png"
 			}
 		]
 	},
@@ -98957,12 +99062,21 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Indianapolis.png/748px-Indianapolis.png",
-				"imageCN": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/22/IndianapolisOriginal.png/748px-IndianapolisOriginal.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png",
 				"info": {
 					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Original Art",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/22/IndianapolisOriginal.png/748px-IndianapolisOriginal.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": null,
+				"info": {
+					"obtainedFrom": "Unobtainable",
 					"live2dModel": "No"
 				}
 			},
@@ -99829,7 +99943,7 @@
 					"cn": "炮术指挥·巡洋舰",
 					"jp": "砲術指揮・巡洋艦"
 				},
-				"description": "Increases Firepower of Cruisers in the fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+				"description": "Increases Firepower of Cruisers in the fleet by 5% (15%). Does not stack with any other Artillery Command skill.",
 				"color": "gold"
 			},
 			{
@@ -102819,6 +102933,10 @@
 			{
 				"description": "Washington, North Carolina",
 				"url": "https://azurlane.koumakan.jp/w/images/8/89/Bg_2020.04.09_1.png"
+			},
+			{
+				"description": "North Carolina, Washington",
+				"url": "https://azurlane.koumakan.jp/w/images/9/9f/Bg_2020.08.13_5.png"
 			}
 		]
 	},
@@ -102924,7 +103042,7 @@
 					"cn": "英勇炮击",
 					"jp": "勇敢なる砲撃"
 				},
-				"description": "Every 20 seconds: 40% (70%) chance to fire a strong barrage at enemies.Barrage preview (gif)",
+				"description": "Every 20 seconds: 40% (70%) chance to fire a special barrage at enemies.Barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -103044,6 +103162,14 @@
 			{
 				"description": "Washington, North Carolina",
 				"url": "https://azurlane.koumakan.jp/w/images/8/89/Bg_2020.04.09_1.png"
+			},
+			{
+				"description": "San Diego, Lexington, Washington, Amagi, Avrora",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fa/Bg_2020.08.13_1.png"
+			},
+			{
+				"description": "North Carolina, Washington",
+				"url": "https://azurlane.koumakan.jp/w/images/9/9f/Bg_2020.08.13_5.png"
 			}
 		]
 	},
@@ -104949,6 +105075,10 @@
 			{
 				"description": "Valentines loading screen featuring Lexington and Saratoga",
 				"url": "https://azurlane.koumakan.jp/w/images/a/ad/Bg_lexington_1.png"
+			},
+			{
+				"description": "San Diego, Lexington, Washington, Amagi, Avrora",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fa/Bg_2020.08.13_1.png"
 			}
 		]
 	},
@@ -106584,6 +106714,10 @@
 			{
 				"description": "Enterprise, Hood, Dunkerque",
 				"url": "https://azurlane.koumakan.jp/w/images/4/49/Bg_2019.12.19_3.png"
+			},
+			{
+				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
 			}
 		]
 	},
