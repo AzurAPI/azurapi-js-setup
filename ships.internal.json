@@ -7259,6 +7259,20 @@
 					"cost": "780",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Summoner from the Azure Depths",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d7/YorkSummer.png/565px-YorkSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/93/Skin_BG_133.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/f8/YorkSummerChibi.png",
+				"info": {
+					"enClient": "Summoner from the Azure Depths",
+					"cnClient": "碧波的召唤者",
+					"jpClient": "碧波を召喚せしもの",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -20658,9 +20672,10 @@
 		},
 		"slots": {
 			"1": {
-				"type": "CL/DD Guns",
+				"type": "CL Guns / DD Guns (LB2)",
 				"minEfficiency": 100,
-				"maxEfficiency": 105
+				"maxEfficiency": 105,
+				"kaiEfficiency": 105
 			},
 			"2": {
 				"type": "Torpedoes",
@@ -20700,7 +20715,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/a/a3/Skill_13190.png",
 				"names": {
-					"en": "(Retrofit)",
+					"en": "(Retrofit) I'm Not Afraid Anymore!",
 					"cn": null,
 					"jp": null
 				},
@@ -20724,7 +20739,7 @@
 				"Anti-Air Efficiency +5%"
 			],
 			[
-				"Can Use Destroyer Main Guns",
+				"Can Use Destroyer Guns",
 				"Anti-Air Gun +1",
 				"Anti-Air Efficiency +10%"
 			],
@@ -88271,6 +88286,453 @@
 		],
 		"gallery": []
 	},
+	"466": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Z26",
+		"id": "466",
+		"names": {
+			"en": "Z26",
+			"code": "KMS Z26",
+			"cn": "Z26",
+			"jp": "Z26",
+			"kr": null
+		},
+		"class": "Type 1936A",
+		"nationality": "Ironblood",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e4/Z26Icon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "344",
+				"armor": "Light",
+				"reload": "70",
+				"luck": "43",
+				"firepower": "22",
+				"torpedo": "61",
+				"evasion": "58",
+				"speed": "43",
+				"antiair": "29",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "62",
+				"antisubmarineWarfare": "49"
+			},
+			"level100": {
+				"health": "1778",
+				"armor": "Light",
+				"reload": "165",
+				"luck": "43",
+				"firepower": "104",
+				"torpedo": "289",
+				"evasion": "150",
+				"speed": "43",
+				"antiair": "134",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "161",
+				"antisubmarineWarfare": "181"
+			},
+			"level120": {
+				"health": "2116",
+				"armor": "Light",
+				"reload": "190",
+				"luck": "43",
+				"firepower": "120",
+				"torpedo": "327",
+				"evasion": "156",
+				"speed": "43",
+				"antiair": "154",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "169",
+				"antisubmarineWarfare": "201"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 140,
+				"maxEfficiency": 160
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 115,
+				"maxEfficiency": 120
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			}
+		},
+		"enhanceValue": {
+			"firepower": 7,
+			"torpedo": 20,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/7/70/Skill_13570.png",
+				"names": {
+					"en": "Anti-Torpedo Field",
+					"cn": "AntiTorpedoField",
+					"jp": "魚雷反射シールド、です！"
+				},
+				"description": "10 seconds after battle starts, spawn a shield that can block up to 3 torpedo attacks; shield lasts for 20 seconds. When this shield is destroyed or disappears due to timed out: launch a Lvl.1 (Lvl.10) torpedo barrage, and spawn the shield again after 30 seconds.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": null,
+				"names": {
+					"en": "Full Firepower",
+					"cn": "火力全开",
+					"jp": "火力全開"
+				},
+				"description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+				"color": "pink"
+			},
+			{
+				"icon": null,
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-1936A型II"
+				},
+				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - 1936A I (II)",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gains Full Barrage I",
+				"Main Gun Efficiency +5%"
+			],
+			[
+				"Max Torpedo Capacity +1",
+				"Pre-Loaded Torpedo +1",
+				"Main Gun Efficiency +10%"
+			],
+			[
+				"Upgrades Full Barrage I→II",
+				"All Weapon Efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 14,
+				"maxLimitBreak": 28,
+				"maxLevel": 20,
+				"total": 62
+			}
+		},
+		"construction": {
+			"constructionTime": "00:33:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Scherzo of Iron and Blood Rerun",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood Rerun event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/Z26.png/723px-Z26.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/2a/Z26Chibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Sharing is Caring",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/ee/Z26Casual.png/630px-Z26Casual.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/22/Z26CasualChibi.png",
+				"info": {
+					"enClient": "Sharing is Caring",
+					"cnClient": "友好的分享时间",
+					"jpClient": "友情シェアタイム",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"467": {
+		"wikiUrl": "https://azurlane.koumakan.jp/U-96",
+		"id": "467",
+		"names": {
+			"en": "U-96",
+			"code": "KMS U-96",
+			"cn": "U-96",
+			"jp": "U-96",
+			"kr": null
+		},
+		"class": "VIIC",
+		"nationality": "Ironblood",
+		"hullType": "Submarine",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/8d/U-96Icon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "211",
+				"armor": "Light",
+				"reload": "40",
+				"luck": "62",
+				"firepower": "10",
+				"torpedo": "103",
+				"evasion": "7",
+				"speed": "14",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "63",
+				"antisubmarineWarfare": "0",
+				"oxygen": "188",
+				"ammunition": "2",
+				"huntingRange": []
+			},
+			"level100": {
+				"health": "1089",
+				"armor": "Light",
+				"reload": "95",
+				"luck": "62",
+				"firepower": "46",
+				"torpedo": "487",
+				"evasion": "18",
+				"speed": "14",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "164",
+				"antisubmarineWarfare": "0",
+				"oxygen": "188",
+				"ammunition": "2",
+				"huntingRange": []
+			},
+			"level120": {
+				"health": "1306",
+				"armor": "Light",
+				"reload": "109",
+				"luck": "62",
+				"firepower": "52",
+				"torpedo": "536",
+				"evasion": "37",
+				"speed": "14",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "183",
+				"antisubmarineWarfare": "0",
+				"oxygen": "188",
+				"ammunition": "2",
+				"huntingRange": []
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Submarine Torpedoes",
+				"minEfficiency": 110,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Submarine Torpedoes",
+				"minEfficiency": 110,
+				"maxEfficiency": 125
+			},
+			"3": {
+				"type": "DD Guns",
+				"minEfficiency": 85,
+				"maxEfficiency": 85
+			}
+		},
+		"enhanceValue": {
+			"firepower": 1,
+			"torpedo": 41,
+			"aviation": 0,
+			"reload": 8
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/9/9a/Skill_13550.png",
+				"names": {
+					"en": "Smiling Hunter",
+					"cn": "微笑猎手",
+					"jp": "ノコギリはクールに微笑む"
+				},
+				"description": "During battle, increase the chance of critical hits by torpedoes launched from U-96 by 10% (20%). When entering battle: launch a torpedo barrage (damage and pattern of barrage is based on skill level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/ef/Skill_13560.png",
+				"names": {
+					"en": "Wolf Pack Formation - U-96",
+					"cn": "狼群战术-U96",
+					"jp": "ウルフパック-U96"
+				},
+				"description": "During battle, increase the Accuracy by 1% (10%) and critical damage by 5% (15%) for all Ironblood submarines in the fleet; also increases own Accuracy, Reload, and Evasion stat by 1.5% (6%) for every Ironblood submarine in the fleet.",
+				"color": "pink"
+			},
+			{
+				"icon": null,
+				"names": {
+					"en": "All Out Assault",
+					"cn": "专属弹幕-U96II",
+					"jp": "特殊弾幕U-96Ⅱ"
+				},
+				"description": "When entering the battle, triggers Full Barrage - U-96 I (II)",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gains Full Barrage I",
+				"Torpedo Efficiency +5%"
+			],
+			[
+				"Max Torpedo Capacity +1",
+				"Hunting Radius Increase"
+			],
+			[
+				"Upgrades Full Barrage I→II",
+				"Torpedo Efficiency +10%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"stat": "Torpedo",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"stat": "Accuracy",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 12,
+				"maxLimitBreak": 24,
+				"maxLevel": 18,
+				"total": 54
+			}
+		},
+		"construction": {
+			"constructionTime": "00:12:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Scherzo of Iron and Blood Rerun",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood Rerun event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "黑猫",
+				"url": "https://azurlane.koumakan.jp/Artists#.E9.BB.91.E7.8C.AB"
+			},
+			"pixiv": {
+				"name": "近所黒モモ",
+				"url": "https://www.pixiv.net/member.php?id=2331978"
+			},
+			"twitter": null,
+			"web": {
+				"name": "黑猫桃园-专注潜水20年",
+				"url": "https://weibo.com/u/2959771544"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/04/U-96.png/560px-U-96.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/a9/U-96Chibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Secret Gaming Session",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/ad/U-96Casual.png/609px-U-96Casual.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/8/8e/U-96CasualChibi.png",
+				"info": {
+					"enClient": "Secret Gaming Session",
+					"cnClient": "秘密的游戏时间",
+					"jpClient": "秘密の遊戯タイム",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
 	"9001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tone",
 		"id": "9001",
@@ -115965,6 +116427,21 @@
 					"obtainedFrom": "Default",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Summery Date!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/ed/CheshireSummer.png/649px-CheshireSummer.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/93/Skin_BG_133.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/e/e0/CheshireSummerChibi.png",
+				"info": {
+					"enClient": "Summery Date!",
+					"cnClient": "Dating Summer！",
+					"jpClient": "デーティングサマー！",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -116206,6 +116683,20 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/93/DrakeChibi.png",
 				"info": {
 					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "The Golden Hind's Respite",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/ba/DrakeSummer.png/647px-DrakeSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/93/Skin_BG_133.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/ff/DrakeSummerChibi.png",
+				"info": {
+					"enClient": "The Golden Hind's Respite",
+					"cnClient": "黄金鹿的闲暇时光",
+					"jpClient": "黄金鹿の無聊タイム",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
 					"live2dModel": "No"
 				}
 			}
