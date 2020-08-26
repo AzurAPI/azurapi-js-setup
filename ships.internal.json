@@ -29352,8 +29352,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Liduke(日子)",
-				"url": "https://azurlane.koumakan.jp/Artists#Liduke.28.E6.97.A5.E5.AD.90.29"
+				"name": "Liduke",
+				"url": "https://azurlane.koumakan.jp/Artists#Liduke"
 			},
 			"pixiv": {
 				"name": "Liduke(日子)",
@@ -53647,8 +53647,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "alic喵",
-				"url": "https://azurlane.koumakan.jp/Artists#alic.E5.96.B5"
+				"name": "Alic",
+				"url": "https://azurlane.koumakan.jp/Artists#Alic"
 			},
 			"pixiv": {
 				"name": "Alic",
@@ -53863,8 +53863,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "alic喵",
-				"url": "https://azurlane.koumakan.jp/Artists#alic.E5.96.B5"
+				"name": "Alic",
+				"url": "https://azurlane.koumakan.jp/Artists#Alic"
 			},
 			"pixiv": {
 				"name": "Alic",
@@ -54092,8 +54092,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "alic喵",
-				"url": "https://azurlane.koumakan.jp/Artists#alic.E5.96.B5"
+				"name": "Alic",
+				"url": "https://azurlane.koumakan.jp/Artists#Alic"
 			},
 			"pixiv": {
 				"name": "Alic",
@@ -54294,8 +54294,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "alic喵",
-				"url": "https://azurlane.koumakan.jp/Artists#alic.E5.96.B5"
+				"name": "Alic",
+				"url": "https://azurlane.koumakan.jp/Artists#Alic"
 			},
 			"pixiv": {
 				"name": "Alic",
@@ -57438,7 +57438,7 @@
 					"cn": "斯卡帕湾之牛",
 					"jp": "スカパ・フロー急襲"
 				},
-				"description": "When own torpedo hits an enemy ship: in the next 5 seconds, the next own torpedo to hit that enemy will deal 20% (40%) more damage.",
+				"description": "When this boat hits an enemy with its Torpedoes: for 5s,the enemy hit will take 20% (40%) more DMG from this boat's Torpedoes.",
 				"color": "pink"
 			},
 			{
@@ -60721,8 +60721,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Liduke(日子)",
-				"url": "https://azurlane.koumakan.jp/Artists#Liduke.28.E6.97.A5.E5.AD.90.29"
+				"name": "Liduke",
+				"url": "https://azurlane.koumakan.jp/Artists#Liduke"
 			},
 			"pixiv": {
 				"name": "Liduke(日子)",
@@ -61819,7 +61819,7 @@
 					"cn": "善战之舰",
 					"jp": "善戦のファーストライン"
 				},
-				"description": "When launching an airstrike: launches an additional TBF Avenger squadron that inflicts flood damage on hit (Damage based on own Aviation stat and skill level). Increases damage dealt to Battleships by 4% (10%).",
+				"description": "When this ship launches an Airstrike: launches an additional TBF Avenger squadron that inflicts flood damage on hit (Damage based on own Aviation stat and skill level). Increases damage dealt to Battleships by 4% (10%).",
 				"color": "pink"
 			},
 			{
@@ -64654,8 +64654,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Liduke(日子)",
-				"url": "https://azurlane.koumakan.jp/Artists#Liduke.28.E6.97.A5.E5.AD.90.29"
+				"name": "Liduke",
+				"url": "https://azurlane.koumakan.jp/Artists#Liduke"
 			},
 			"pixiv": {
 				"name": "Liduke(日子)",
@@ -78201,7 +78201,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "U-110",
+				"url": "https://azurlane.koumakan.jp/w/images/e/e7/Bg_2020.08.06_1.png"
+			}
+		]
 	},
 	"417": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Smalley",
@@ -105699,7 +105704,7 @@
 					"cn": "魔女的恶作剧",
 					"jp": "魔女っ子のイタズラ"
 				},
-				"description": "When launching an airstrike: 40% (70%) chance to launch additional planes (damage based on skill level and Aviation stat) that inflict flood and burn damage on hit.",
+				"description": "When this ship launches an Airstrike: 40% (70%) chance to launch additional planes (damage based on skill level and Aviation stat) that inflict flood and burn damage on hit.",
 				"color": "pink"
 			}
 		],
@@ -113318,8 +113323,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Liduke(日子)",
-				"url": "https://azurlane.koumakan.jp/Artists#Liduke.28.E6.97.A5.E5.AD.90.29"
+				"name": "Liduke",
+				"url": "https://azurlane.koumakan.jp/Artists#Liduke"
 			},
 			"pixiv": {
 				"name": "Liduke(日子)",
@@ -116131,8 +116136,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Liduke(日子)",
-				"url": "https://azurlane.koumakan.jp/Artists#Liduke.28.E6.97.A5.E5.AD.90.29"
+				"name": "Liduke",
+				"url": "https://azurlane.koumakan.jp/Artists#Liduke"
 			},
 			"pixiv": {
 				"name": "Liduke(日子)",
@@ -116918,8 +116923,8 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Liduke(日子)",
-				"url": "https://azurlane.koumakan.jp/Artists#Liduke.28.E6.97.A5.E5.AD.90.29"
+				"name": "Liduke",
+				"url": "https://azurlane.koumakan.jp/Artists#Liduke"
 			},
 			"pixiv": {
 				"name": "Liduke(日子)",
@@ -120565,7 +120570,7 @@
 					"cn": "百华蜜",
 					"jp": "百華蜜"
 				},
-				"description": "When Fumirul launches an airstrike, 30% (60%) chance to heal the ship with the lowest HP for 2% (10%) of her max Health.",
+				"description": "When this ship launches an Airstrike: 30% (60%) chance to heal the ship with the lowest HP for 2% (10%) of her max Health.",
 				"color": "deepskyblue"
 			},
 			{
