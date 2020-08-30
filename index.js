@@ -14,12 +14,12 @@ const SKIN_FILE_NAME = '${type}.png';
 const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
 
 let SHIP_LIST = require("./ship-list.json");
-let SHIPS = require("./ships.json");
+let SHIPS = require("./ships.json") || [];
+let SHIPS_INTERNAL = require("./ships.internal.json") || {};
 let EQUIPMENTS = require("./equipments.internal.json");
 let EQUIPMENTS_PUBLIC = require("./equipments.json");
 let CHAPTERS = require("./chapters.json");
 let MEMORIES = require("./memories.json");
-let SHIPS_INTERNAL = require("./ships.internal.json");
 let VERSION_INFO = require("./version-info.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
 let PATH_SIZE = require("./path-sizes.json");
@@ -244,15 +244,15 @@ async function refreshMemory(online) {
 }
 
 function publishShips() {
-    SHIPS = {};
+    SHIPS = [];
     for (let key in SHIPS_INTERNAL) {
         process.stdout.write(">");
-        SHIPS[key] = clone(SHIPS_INTERNAL[key]); //simple clone!
-        let root_folder = SKIN_PATH.replace('${id}', SHIPS[key].id);
-        SHIPS[key].thumbnail = IMAGE_REPO_URL + root_folder + "thumbnail.png";
+        let ship = clone(SHIPS_INTERNAL[key]); //simple clone!
+        let root_folder = SKIN_PATH.replace('${id}', ship.id);
+        ship.thumbnail = IMAGE_REPO_URL + root_folder + "thumbnail.png";
         process.stdout.write("-");
         let newSkins = [];
-        for (let skin of SHIPS[key].skins) {
+        for (let skin of ship.skins) {
             process.stdout.write(".");
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
             if (typeof(skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
@@ -265,26 +265,28 @@ function publishShips() {
             skin.info.live2dModel = skin.info.live2dModel === "Yes" // true if and only if "Yes"
             newSkins.push(skin); //not sure why but this feels safer
         }
-        SHIPS[key].skins = newSkins;
+        ship.skins = newSkins;
         process.stdout.write("|");
-        if (SHIPS[key].unreleased) continue;
+        if (ship.unreleased) continue;
         let newGallery = [];
-        for (let item of SHIPS[key].gallery) {
+        for (let item of ship.gallery) {
             process.stdout.write(".");
             item.url = IMAGE_REPO_URL + "images/gallery/" + item.url.substring(item.url.lastIndexOf('/') + 1).replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             newGallery.push(item);
         }
-        SHIPS[key].gallery = newGallery;
+        ship.gallery = newGallery;
         let publishSkill = async (skill) => {
             if (!skill) return {};
             let path = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
             skill.icon = path;
             return skill;
         };
-        for (let i = 0; i < SHIPS[key].skills[i].length; i++)
-            SHIPS[key].skills[i] = publishSkill(SHIPS[key].skills[i]);
+        for (let i = 0; i < ship.skills[i].length; i++)
+            ship.skills[i] = publishSkill(ship.skills[i]);
         process.stdout.write("|");
+        SHIPS.push(ship);
     }
+    SHIPS.sort((a, b) => a.names.en < b.names.en ? -1 : a.names.en > b.names.en ? 1 : 0);
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync('./ships.json', ships_value);
     fs.writeFileSync('./ships.formatted.json', JSON.stringify(SHIPS, null, 4));
