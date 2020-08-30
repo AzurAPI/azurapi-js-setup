@@ -1032,7 +1032,9 @@ async function verifyFile(url, localPath) {
     let correctSize;
     if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
     else {
-        PATH_SIZE[url] = correctSize = parseInt((await head(url)).res.headers['content-length']);
+        let header = await head(url);
+        if(!header.res) console.log(header);
+        PATH_SIZE[url] = correctSize = parseInt(header.res.headers['content-length']);
         fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
     }
     if (fs.statSync(localPath)["size"] === correctSize) return true;
