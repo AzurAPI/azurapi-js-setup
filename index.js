@@ -581,7 +581,7 @@ function parseDevelopmentLevelBuff(row) {
 function parseSkill(title, body) {
     if (!title || !body) return null;
     return {
-        icon: title.getElementsByTagName("a")[0] ? title.getElementsByTagName("a")[0].href : null,
+        icon: title.getElementsByTagName("img")[0] ? "https://azurlane.koumakan.jp" + galleryThumbnailUrlToActualUrl(title.getElementsByTagName("img")[0].src) : null,
         names: {
             en: title.firstElementChild.firstElementChild.lastElementChild.childNodes[0].textContent,
             cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
