@@ -609,7 +609,7 @@ function parseFleetTech(table_p) {
 }
 
 function parseStatsBonus(cell) {
-    if (!cell || cell.childElementCount === 0) return null;
+    if (!cell || cell.childElementCount === 0 || cell.children[0].tagName === "I") return null;
     let i = 0;
     let statsBonus = {};
     statsBonus.applicable = [];
