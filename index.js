@@ -524,6 +524,7 @@ function parseShip(id, name, body) {
 }
 
 function parseShipLimits(skill_table) {
+    if (skill_table.childElementCount === 2 && skill_table.children[1].children[0].children[0].tagName === "I") return null;
     let rows = skill_table.getElementsByTagName("tr");
     let limits = [];
     for (let i = 1; i < 4; i++) limits.push(parseLimitBreak(rows[i]));
