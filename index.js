@@ -609,11 +609,12 @@ function parseFleetTech(table_p) {
 }
 
 function parseStatsBonus(cell) {
-    if (!cell || cell.childElementCount === 0 || cell.children[0].tagName === "I") return null;
+    if (!cell || cell.childElementCount === 0 || !cell.children[0] || cell.children[0].tagName === "I") return null;
     let i = 0;
     let statsBonus = {};
     statsBonus.applicable = [];
-    for (; cell.children[i].tagName === "A"; i++) statsBonus.applicable.push(cell.children[i].title.replace(/\(\w+\)/, '').trim());
+    for (; cell.children[i] && cell.children[i].tagName === "A"; i++) statsBonus.applicable.push(cell.children[i].title.replace(/\(\w+\)/, '').trim());
+    if (!cell.children[i]) return null;
     statsBonus.stat = cell.children[i].title;
     statsBonus.bonus = cell.lastChild.textContent.trim();
     return statsBonus;
