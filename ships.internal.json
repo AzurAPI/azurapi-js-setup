@@ -772,12 +772,12 @@
 				}
 			},
 			{
-				"name": "Very Slow Advance!",
+				"name": "Slow Ahead!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/45/JavelinSchool.png/550px-JavelinSchool.png",
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/dd/JavelinSchoolChibi.png",
 				"info": {
-					"enClient": "Very Slow Advance!",
+					"enClient": "Slow Ahead!",
 					"cnClient": "微速前进！",
 					"jpClient": "びそくぜんしんっ！",
 					"obtainedFrom": "Monthly Manga Javelin - Collect all Puzzle Pieces",
@@ -18355,19 +18355,19 @@
 				"antisubmarineWarfare": "189"
 			},
 			"level100Retrofit": {
-				"health": "",
+				"health": "1642",
 				"armor": "Light",
-				"reload": "",
+				"reload": "171",
 				"luck": "51",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "51",
+				"torpedo": "475",
+				"evasion": "206",
 				"speed": "46",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"antiair": "156",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "171",
+				"antisubmarineWarfare": "169"
 			},
 			"level120Retrofit": {
 				"health": "1938",
@@ -30436,7 +30436,7 @@
 				"url": "https://weibo.com/u/1826365983"
 			},
 			"voice": {
-				"name": "Hiromi Kouno",
+				"name": "Hiromi sugioka",
 				"url": "https://twitter.com/koooonone"
 			}
 		},
@@ -33404,7 +33404,7 @@
 			"kr": "Z1"
 		},
 		"class": "Type 1934",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7f/Z1Icon.png",
 		"rarity": "Elite",
@@ -33901,7 +33901,7 @@
 			"kr": "Z23"
 		},
 		"class": "Type 1936A",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/86/Z23Icon.png",
 		"rarity": "Elite",
@@ -34710,7 +34710,7 @@
 			"kr": "Z25"
 		},
 		"class": "Type 1936A",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/6e/Z25Icon.png",
 		"rarity": "Elite",
@@ -34936,7 +34936,7 @@
 			"kr": "쾨니히스베르크"
 		},
 		"class": "Königsberg",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/88/K%C3%B6nigsbergIcon.png",
 		"rarity": "Normal",
@@ -35160,7 +35160,7 @@
 			"kr": "카를스루에"
 		},
 		"class": "Königsberg",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/89/KarlsruheIcon.png",
 		"rarity": "Normal",
@@ -35631,7 +35631,7 @@
 			"kr": "쾰른"
 		},
 		"class": "Königsberg",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/0/0c/K%C3%B6lnIcon.png",
 		"rarity": "Normal",
@@ -36102,7 +36102,7 @@
 			"kr": "라이프치히"
 		},
 		"class": "Leipzig",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7a/LeipzigIcon.png",
 		"rarity": "Rare",
@@ -36563,7 +36563,7 @@
 			"kr": "아드미랄 히퍼"
 		},
 		"class": "Admiral Hipper",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/a/af/Admiral_HipperIcon.png",
 		"rarity": "Elite",
@@ -36811,7 +36811,7 @@
 			"kr": "프린츠 오이겐"
 		},
 		"class": "Admiral Hipper",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f7/Prinz_EugenIcon.png",
 		"rarity": "Super Rare",
@@ -37085,7 +37085,7 @@
 			"kr": "도이칠란트"
 		},
 		"class": "Deutschland",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/95/DeutschlandIcon.png",
 		"rarity": "Elite",
@@ -37363,7 +37363,7 @@
 			"kr": "아드미랄 그라프 슈피"
 		},
 		"class": "Deutschland",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/3b/Admiral_Graf_SpeeIcon.png",
 		"rarity": "Elite",
@@ -37657,7 +37657,7 @@
 			"kr": "샤른호르스트"
 		},
 		"class": "Scharnhorst",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Battlecruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/39/ScharnhorstIcon.png",
 		"rarity": "Elite",
@@ -37883,7 +37883,7 @@
 			"kr": "그나이제나우"
 		},
 		"class": "Scharnhorst",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Battlecruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/4/49/GneisenauIcon.png",
 		"rarity": "Elite",
@@ -38109,7 +38109,7 @@
 			"kr": "비스마르크"
 		},
 		"class": "Bismarck",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e6/BismarckIcon.png",
 		"rarity": "Super Rare",
@@ -38210,7 +38210,7 @@
 					"cn": "不屈的力量",
 					"jp": "不屈の力"
 				},
-				"description": "When sortied as flagship:\nIncrease damage dealt by Ironblood carriers by 10% (20%).\nWhen firing main gun, 40% (70%) chance to fire a special barrage.Barrage preview (gif)",
+				"description": "When sortied as flagship:\nIncrease damage dealt by Iron Blood carriers by 10% (20%).\nWhen firing main gun, 40% (70%) chance to fire a special barrage.Barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -38350,7 +38350,7 @@
 			"kr": "티르피츠"
 		},
 		"class": "Bismarck",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5e/TirpitzIcon.png",
 		"rarity": "Super Rare",
@@ -38604,7 +38604,7 @@
 			"kr": "그라프 체펠린"
 		},
 		"class": "Graf Zeppelin",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Aircraft Carrier",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5f/Graf_ZeppelinIcon.png",
 		"rarity": "Super Rare",
@@ -38695,7 +38695,7 @@
 					"cn": "铁血之翼",
 					"jp": "鉄血の翼"
 				},
-				"description": "Reduces damage received by all Ironblood ships in the fleet by 5% (15%).",
+				"description": "Reduces damage received by all Iron Blood ships in the fleet by 5% (15%).",
 				"color": "deepskyblue"
 			},
 			{
@@ -38842,7 +38842,7 @@
 			"kr": "안샨"
 		},
 		"class": "Anshan",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/33/An_ShanIcon.png",
 		"rarity": "Elite",
@@ -39061,7 +39061,7 @@
 			"kr": "푸슌"
 		},
 		"class": "Anshan",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/a/a0/Fu_ShunIcon.png",
 		"rarity": "Elite",
@@ -39266,7 +39266,7 @@
 			"kr": "창춘"
 		},
 		"class": "Anshan",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/75/Chang_ChunIcon.png",
 		"rarity": "Elite",
@@ -39357,7 +39357,7 @@
 					"cn": "互助同盟",
 					"jp": "相互援助同盟"
 				},
-				"description": "Increase Firepower, Reload and Accuracy by 4.5% (12%) for all North Union and Eastern Radiance ships in Escort fleet.",
+				"description": "Increases the FP, RLD, and Accuracy of all Northern Parliament and Dragon Empery ships in the Vanguard Fleet by 4.5(12)%.",
 				"color": "gold"
 			},
 			{
@@ -39490,7 +39490,7 @@
 			"kr": "타이위안"
 		},
 		"class": "Anshan",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/db/Tai_YuanIcon.png",
 		"rarity": "Elite",
@@ -39709,7 +39709,7 @@
 			"kr": "얏센"
 		},
 		"class": "Yat Sen",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/4/42/Yat_SenIcon.png",
 		"rarity": "Elite",
@@ -39941,7 +39941,7 @@
 			"kr": "닝하이"
 		},
 		"class": "Ning Hai",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/9b/Ning_HaiIcon.png",
 		"rarity": "Elite",
@@ -40421,7 +40421,7 @@
 			},
 			{
 				"name": "Moon Palace Rabbit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/32/Ning_HaiFestivalCN.png/558px-Ning_HaiFestivalCN.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/13/Ning_HaiFestival.png/558px-Ning_HaiFestival.png",
 				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/3/32/Ning_HaiFestivalCN.png/558px-Ning_HaiFestivalCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/Ning_HaiFestivalChibi.png",
@@ -40511,7 +40511,7 @@
 			"kr": "핑하이"
 		},
 		"class": "Ning Hai",
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d7/Ping_HaiIcon.png",
 		"rarity": "Elite",
@@ -40991,7 +40991,7 @@
 			},
 			{
 				"name": "Osmanthus Moon Rabbit",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/45/Ping_HaiFestivalCN.png/578px-Ping_HaiFestivalCN.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bf/Ping_HaiFestival.png/578px-Ping_HaiFestival.png",
 				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/4/45/Ping_HaiFestivalCN.png/578px-Ping_HaiFestivalCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/46/Ping_HaiFestivalChibi.png",
@@ -41089,7 +41089,7 @@
 			"kr": "아브로라"
 		},
 		"class": "Pallada",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/19/AvroraIcon.png",
 		"rarity": "Super Rare",
@@ -41779,7 +41779,7 @@
 			"kr": "Z19"
 		},
 		"class": "Type 1936",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/58/Z19Icon.png",
 		"rarity": "Rare",
@@ -41989,7 +41989,7 @@
 			"kr": "Z20"
 		},
 		"class": "Type 1936",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/a/a8/Z20Icon.png",
 		"rarity": "Normal",
@@ -42191,7 +42191,7 @@
 			"kr": "Z21"
 		},
 		"class": "Type 1936",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/1c/Z21Icon.png",
 		"rarity": "Normal",
@@ -42398,7 +42398,7 @@
 			"kr": "Z46"
 		},
 		"class": "Type 1936C",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/18/Z46Icon.png",
 		"rarity": "Super Rare",
@@ -54468,16 +54468,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -56286,7 +56278,7 @@
 			"kr": "U-81"
 		},
 		"class": "VIIC",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/67/U-81Icon.png",
 		"rarity": "Super Rare",
@@ -57146,7 +57138,7 @@
 			"kr": "U-47"
 		},
 		"class": "VIIB",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/13/U-47Icon.png",
 		"rarity": "Super Rare",
@@ -57508,12 +57500,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": "CN/JP only",
-				"limited": "Only during event: Divergent Chessboard (rerun)",
+				"limited": "Only during event: Divergent Chessboard Rerun",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during Divergent Chessboard Rerun event.",
+			"obtainedFrom": "Available in Limited Construction during the Divergent Chessboard Rerun event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -57592,7 +57584,7 @@
 			"kr": "U-557"
 		},
 		"class": "VIIC",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/1b/U-557Icon.png",
 		"rarity": "Elite",
@@ -57959,7 +57951,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as Point Accumulation Reward in Opposite-Colored Rerun and as Map Drop in Aurora Noctis.",
+			"obtainedFrom": "Available as a point-accumulation reward in Opposite-Colored Rerun and as map drop in Aurora Noctis.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -58009,7 +58001,7 @@
 			"kr": "Z35"
 		},
 		"class": "Type 1936B",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/19/Z35Icon.png",
 		"rarity": "Elite",
@@ -58228,7 +58220,7 @@
 			"kr": "Z18"
 		},
 		"class": "Type 1936",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/90/Z18Icon.png",
 		"rarity": "Rare",
@@ -60030,7 +60022,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Iris of the Light and the Dark\" Event.",
+			"obtainedFrom": "Available in Limited Construction during the Iris of the Light and the Dark event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -62335,7 +62327,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction and as Mini-Event Rewards during \"1 Year Anniversary\" Event. Available in Munitions Shop for 20000 Merit",
+			"obtainedFrom": "Previously available in Limited Construction and as an event reward during the 1 Year Anniversary event. Now available in the Munitions Shop for 20000 Merit.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -67790,7 +67782,7 @@
 			"kr": "Z2"
 		},
 		"class": "Type 1934",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/fa/Z2Icon.png",
 		"rarity": "Elite",
@@ -68588,7 +68580,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Ink-Stained Steel Sakura Rerun\" Event",
+			"obtainedFrom": "Available in Limited Construction during the Ink-Stained Steel Sakura Rerun event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -68980,16 +68972,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -69181,16 +69165,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -69265,7 +69241,7 @@
 			"kr": "꼬마 그라프 체펠린"
 		},
 		"class": "Graf Zeppelin",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Aircraft Carrier",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/ef/ZeppyIcon.png",
 		"rarity": "Elite",
@@ -69387,16 +69363,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -69471,7 +69439,7 @@
 			"kr": "U-556"
 		},
 		"class": "VIIC",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e2/U-556Icon.png",
 		"rarity": "Elite",
@@ -69838,7 +69806,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood event.",
+			"obtainedFrom": "Available in Limited Construction during the Scherzo of Iron and Blood event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -69915,7 +69883,7 @@
 			"kr": "U-73"
 		},
 		"class": "VIIB",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f0/U-73Icon.png",
 		"rarity": "Elite",
@@ -70282,7 +70250,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood event.",
+			"obtainedFrom": "Available in Limited Construction during the Scherzo of Iron and Blood event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -70342,7 +70310,7 @@
 			"kr": "Z36"
 		},
 		"class": "Type 1936B",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/fc/Z36Icon.png",
 		"rarity": "Elite",
@@ -70877,16 +70845,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -71288,16 +71248,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -72463,12 +72415,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": true,
-				"limited": "Only from: July 11 to July 23, 2019",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019",
+			"obtainedFrom": "Previously available in Limited Construction during July 11 to July 23, 2019.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -72899,12 +72851,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": true,
-				"limited": "Only from: July 11 to July 23, 2019",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019",
+			"obtainedFrom": "Previously available in Limited Construction during July 11 to July 23, 2019.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -73326,12 +73278,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": true,
-				"limited": "Only from: July 11 to July 23, 2019",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019",
+			"obtainedFrom": "Previously available in Limited Construction during July 11 to July 23, 2019.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -73395,7 +73347,7 @@
 			"kr": "U-101"
 		},
 		"class": "VIIB",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/25/U-101Icon.png",
 		"rarity": "Super Rare",
@@ -73757,12 +73709,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": true,
-				"limited": "Only from: July 11 to July 23, 2019",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019",
+			"obtainedFrom": "Previously available in Limited Construction during July 11 to July 23, 2019.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -73826,7 +73778,7 @@
 			"kr": "U-522"
 		},
 		"class": "IXC",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5a/U-522Icon.png",
 		"rarity": "Elite",
@@ -74188,12 +74140,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": true,
-				"limited": "Only from: July 11 to July 23, 2019",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the period: July 11 to July 23, 2019",
+			"obtainedFrom": "Previously available in Limited Construction during July 11 to July 23, 2019.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -74827,7 +74779,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in point shop and as a drop during \"Ashen Simulacrum\" Event.",
+			"obtainedFrom": "Available in the exchange and as a map drop in the Ashen Simulacrum event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -77783,7 +77735,7 @@
 			"kr": null
 		},
 		"class": "IXB",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/1a/U-110Icon.png",
 		"rarity": "Elite",
@@ -78150,7 +78102,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Special Construction and as map clear reward during \"The Enigma and the Shark\" event.",
+			"obtainedFrom": "Available in Special Construction and as a map-clear reward during the The Enigma and the Shark event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -78554,16 +78506,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -78752,16 +78696,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -78959,16 +78895,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -79167,16 +79095,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -79243,7 +79163,7 @@
 			"kr": null
 		},
 		"class": "Admiral Hipper",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2e/Admiral_Hipper_%C2%B5Icon.png",
 		"rarity": "Elite",
@@ -79375,16 +79295,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -81056,7 +80968,7 @@
 			"kr": null
 		},
 		"class": "Gnevny",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/99/GroznyIcon.png",
 		"rarity": "Elite",
@@ -81287,7 +81199,7 @@
 			"kr": null
 		},
 		"class": "Leningrad",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d1/MinskIcon.png",
 		"rarity": "Elite",
@@ -81521,7 +81433,7 @@
 			"kr": null
 		},
 		"class": "Tashkent",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/72/TashkentIcon.png",
 		"rarity": "Super Rare",
@@ -81768,7 +81680,7 @@
 			"kr": null
 		},
 		"class": "Bogatyr",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_MerkuriaIcon.png",
 		"rarity": "Elite",
@@ -81988,7 +81900,7 @@
 			"kr": null
 		},
 		"class": "Chapayev",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/0/0c/ChapayevIcon.png",
 		"rarity": "Super Rare",
@@ -82234,7 +82146,7 @@
 			"kr": null
 		},
 		"class": "Gangut",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/4/4d/GangutIcon.png",
 		"rarity": "Elite",
@@ -82469,7 +82381,7 @@
 			"kr": null
 		},
 		"class": "Sovetsky Soyuz",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/12/Sovetskaya_RossiyaIcon.png",
 		"rarity": "Super Rare",
@@ -84001,7 +83913,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a Point Accumulation reward during Microlayer Medley.",
+			"obtainedFrom": "Available as a point-accumulation reward during the Microlayer Medley event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -85073,16 +84985,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -86873,16 +86777,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -88302,7 +88198,7 @@
 			"kr": null
 		},
 		"class": "Type 1936A",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e4/Z26Icon.png",
 		"rarity": "Elite",
@@ -88516,7 +88412,7 @@
 			"kr": null
 		},
 		"class": "VIIC",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/8d/U-96Icon.png",
 		"rarity": "Super Rare",
@@ -88691,7 +88587,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during Scherzo of Iron and Blood Rerun event.",
+			"obtainedFrom": "Available in Limited Construction during the Scherzo of Iron and Blood Rerun event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -88847,7 +88743,7 @@
 			"kr": null
 		},
 		"class": "Kirov",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Light Cruiser",
 		"unreleased": true,
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
@@ -88866,7 +88762,7 @@
 			"kr": null
 		},
 		"class": "Sovetsky Soyuz",
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"hullType": "Battleship",
 		"unreleased": true,
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
@@ -88980,23 +88876,11 @@
 				"color": "gold"
 			}
 		],
-		"limitBreaks": [
-			[],
-			[],
-			[]
-		],
+		"limitBreaks": null,
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -89174,23 +89058,11 @@
 				"color": "gold"
 			}
 		],
-		"limitBreaks": [
-			[],
-			[],
-			[]
-		],
+		"limitBreaks": null,
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -99529,7 +99401,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/22/IndianapolisOriginal.png/748px-IndianapolisOriginal.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Indianapolis.png/748px-Indianapolis.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png",
 				"info": {
@@ -113983,7 +113855,7 @@
 			"kr": "론"
 		},
 		"class": "Roon",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/57/RoonIcon.png",
 		"rarity": "Priority",
@@ -115658,7 +115530,7 @@
 			"kr": "프리드리히 데어 그로세"
 		},
 		"class": "Friedrich der Grosse",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7f/Friedrich_der_Gro%C3%9FeIcon.png",
 		"rarity": "Decisive",
@@ -116724,7 +116596,7 @@
 			"kr": null
 		},
 		"class": "Mainz",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2d/MainzIcon.png",
 		"rarity": "Priority",
@@ -116973,7 +116845,7 @@
 			"kr": null
 		},
 		"class": "Odin",
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"hullType": "Battlecruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/5e/OdinIcon.png",
 		"rarity": "Priority",
@@ -117567,16 +117439,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -117750,16 +117614,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -117933,16 +117789,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -118118,16 +117966,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -118323,16 +118163,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -118531,16 +118363,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -118740,16 +118564,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -118949,16 +118765,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -119160,16 +118968,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -119358,16 +119158,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -119558,16 +119350,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -119766,16 +119550,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -119974,16 +119750,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -120183,16 +119951,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -120392,16 +120152,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -120601,16 +120353,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -120808,16 +120552,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -121020,16 +120756,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -121222,16 +120950,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -121422,16 +121142,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -121622,16 +121334,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -121839,16 +121543,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -122261,16 +121957,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -122290,7 +121978,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Looking Glass of Fact and Fiction\" event.",
+			"obtainedFrom": "Available in Limited Construction during the Looking Glass of Fact and Fiction event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -122476,16 +122164,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -122687,16 +122367,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -122901,16 +122573,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
@@ -123115,16 +122779,8 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				},
-				"maxLevel": {
-					"applicable": [],
-					"stat": "",
-					"bonus": ""
-				}
+				"collection": null,
+				"maxLevel": null
 			},
 			"techPoints": {
 				"collection": 0,
