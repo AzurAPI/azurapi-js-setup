@@ -97,7 +97,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/6/6f/Skill_5100.png",
 				"names": {
-					"en": "Emergent Preparation",
+					"en": "Rapid Response",
 					"cn": "应急战备",
 					"jp": "即応態勢"
 				},
@@ -19614,7 +19614,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
-				"exchange": false
+				"exchange": "CN/JP only"
 			}
 		},
 		"obtainedFrom": {
@@ -19826,7 +19826,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
-				"exchange": false
+				"exchange": "CN/JP only"
 			}
 		},
 		"obtainedFrom": {
@@ -26154,7 +26154,7 @@
 			"constructionTime": "04:10:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
 				"exchange": false
@@ -50865,7 +50865,7 @@
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
@@ -51557,7 +51557,7 @@
 			"constructionTime": "03:30:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
 				"exchange": false
@@ -74704,7 +74704,7 @@
 					"cn": "鱼群守护",
 					"jp": "お守り魚"
 				},
-				"description": "Reduces damage taken by friendly submarines by 10% (15%); when leaving battle, heals 3.5% (8%) of own max Health.",
+				"description": "Allied SS and SSV take 10% (15%) reduced damage and heal for 3.5% (8%) of their max HP when retreating from battle.",
 				"color": "deepskyblue"
 			},
 			{
