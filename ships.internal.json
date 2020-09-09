@@ -37573,12 +37573,12 @@
 				}
 			},
 			{
-				"name": "Peaceful Days",
+				"name": "Peaceful Daily Life",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5c/Admiral_Graf_SpeeCasual.png/281px-Admiral_Graf_SpeeCasual.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/07/Admiral_Graf_SpeeCasualChibi.png",
 				"info": {
-					"enClient": "Peaceful Days",
+					"enClient": "Peaceful Daily Life",
 					"cnClient": "平和的每一天",
 					"jpClient": "平穏な毎日",
 					"obtainedFrom": "Skin Shop",
@@ -88437,7 +88437,71 @@
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
-				"huntingRange": []
+				"huntingRange": [
+					[
+						"",
+						"5",
+						"3",
+						"",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"4",
+						"2",
+						"",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"3",
+						"*",
+						"*",
+						"*",
+						"*",
+						"*"
+					],
+					[
+						"",
+						"2",
+						"*",
+						"S",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"*",
+						"*",
+						"2",
+						"3"
+					],
+					[
+						"*",
+						"*",
+						"*",
+						"2",
+						"3",
+						"4",
+						"5"
+					],
+					[
+						"*",
+						"",
+						"",
+						"",
+						"",
+						"",
+						""
+					]
+				]
 			},
 			"level100": {
 				"health": "1089",
@@ -88455,7 +88519,71 @@
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
-				"huntingRange": []
+				"huntingRange": [
+					[
+						"",
+						"5",
+						"3",
+						"",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"4",
+						"2",
+						"",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"3",
+						"*",
+						"*",
+						"*",
+						"*",
+						"*"
+					],
+					[
+						"",
+						"2",
+						"*",
+						"S",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"*",
+						"*",
+						"2",
+						"3"
+					],
+					[
+						"*",
+						"*",
+						"*",
+						"2",
+						"3",
+						"4",
+						"5"
+					],
+					[
+						"*",
+						"",
+						"",
+						"",
+						"",
+						"",
+						""
+					]
+				]
 			},
 			"level120": {
 				"health": "1306",
@@ -88473,7 +88601,71 @@
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
-				"huntingRange": []
+				"huntingRange": [
+					[
+						"",
+						"5",
+						"3",
+						"",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"4",
+						"2",
+						"",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"3",
+						"*",
+						"*",
+						"*",
+						"*",
+						"*"
+					],
+					[
+						"",
+						"2",
+						"*",
+						"S",
+						"*",
+						"",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"*",
+						"*",
+						"2",
+						"3"
+					],
+					[
+						"*",
+						"*",
+						"*",
+						"2",
+						"3",
+						"4",
+						"5"
+					],
+					[
+						"*",
+						"",
+						"",
+						"",
+						"",
+						"",
+						""
+					]
+				]
 			}
 		},
 		"slots": {
@@ -115360,7 +115552,7 @@
 					"cn": "特殊炮击训练",
 					"jp": "特殊砲術操典"
 				},
-				"description": "Every 8 times Main Gun is fired: fires a special barrage. If equipped with Prototype 310mm gun, increases Main Gun efficiency by 4.5% (12%); also improves said barrage and fire it every 4 times Main Gun is fired.",
+				"description": "Every 8 times Main Gun is fired: fires a special barrage. If equipped with Prototype 310mm gun, increases Main Gun efficiency by 4.5% (12%); also improves said barrage based upon proximity to nearest enemy and fire it every 4 times Main Gun is fired.",
 				"color": "pink"
 			},
 			{
