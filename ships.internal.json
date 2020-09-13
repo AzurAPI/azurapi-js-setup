@@ -10936,7 +10936,7 @@
 					"cn": "支援空母",
 					"jp": "支援空母"
 				},
-				"description": "After launching an airstrike, heal the Vanguard Fleet for 3.5% (8%) of their max HP.",
+				"description": "When this ship launches an Airstrike: heals your entire Vanguard for 3.5% (8%) of its max HP.",
 				"color": "gold"
 			},
 			{
@@ -10946,7 +10946,7 @@
 					"cn": "装填指挥·先锋",
 					"jp": "装填指揮・前衛"
 				},
-				"description": "Increase reload of the Vanguard Fleet by 5% (15%). Does not stack with other command skills that have a similar effect.",
+				"description": "Increases the RLD of your Vanguard by 5% (15%). Does not stack with any other Reload Command.",
 				"color": "gold"
 			}
 		],
@@ -88700,11 +88700,11 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/9/9a/Skill_13550.png",
 				"names": {
-					"en": "Smiling Hunter",
+					"en": "The Smiling Sawfish",
 					"cn": "微笑猎手",
 					"jp": "ノコギリはクールに微笑む"
 				},
-				"description": "During battle, increase the chance of critical hits by torpedoes launched from U-96 by 10% (20%). When entering battle: launch a torpedo barrage (damage and pattern of barrage is based on skill level).",
+				"description": "Increases this boat's Torpedo Crit Rate by 10% (20%). At the start of the battle: fires a torpedo barrage (damage and pattern of barrage is based on skill level).",
 				"color": "pink"
 			},
 			{
@@ -88714,7 +88714,7 @@
 					"cn": "狼群战术-U96",
 					"jp": "ウルフパック-U96"
 				},
-				"description": "During battle, increase the Accuracy by 1% (10%) and critical damage by 5% (15%) for all Ironblood submarines in the fleet; also increases own Accuracy, Reload, and Evasion stat by 1.5% (6%) for every Ironblood submarine in the fleet.",
+				"description": "Increases Accuracy by 1% (10%) and Crit DMG by 5% (15%) for all your Iron Blood SSs. Additionally, for each [Iron Blood] SS in your fleet: increases this boat's Accuracy, RLD, and EVA by 1.5% (6%).",
 				"color": "pink"
 			},
 			{
