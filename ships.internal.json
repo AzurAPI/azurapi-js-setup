@@ -36728,7 +36728,7 @@
 				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": "Only during event: Divergent Chessboard (EN)",
-				"exchange": false
+				"exchange": "CN/JP only"
 			}
 		},
 		"obtainedFrom": {
@@ -42559,7 +42559,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Divergent Chessboard (EN)",
-				"exchange": false
+				"exchange": "CN/JP only"
 			}
 		},
 		"obtainedFrom": {
@@ -88714,7 +88714,7 @@
 					"cn": "狼群战术-U96",
 					"jp": "ウルフパック-U96"
 				},
-				"description": "Increases Accuracy by 1% (10%) and Crit DMG by 5% (15%) for all your Iron Blood SSs. Additionally, for each [Iron Blood] SS in your fleet: increases this boat's Accuracy, RLD, and EVA by 1.5% (6%).",
+				"description": "Increases Accuracy by 1% (10%) and Crit DMG by 5% (15%) for all your Iron Blood SSs. Additionally, for each Iron Blood SS in your fleet: increases this boat's Accuracy, RLD, and EVA by 1.5% (6%).",
 				"color": "pink"
 			},
 			{
