@@ -25,7 +25,7 @@ refreshShips();
 async function parseShip(name) {
     let infobox = await fetch("https://azurlane.koumakan.jp/w/index.php?title=" + name + "&action=raw", './web/ships.source/' + name + '.info');
     const info = parseInfo(infobox).general;
-    let ship = {
+    return {
         id: info.id,
         names: {
             en: name,
@@ -41,9 +41,7 @@ async function parseShip(name) {
         luck: info.luck,
         armor: info.armor,
         speed: info.speed,
-        stats: {
-
-        },
+        stats: {},
         misc: {
             artist: info.artist,
             web: info.artistLink ? {
@@ -54,10 +52,9 @@ async function parseShip(name) {
                 url: info.artistPixiv.substring(1, info.artistPixiv.indexOf(" ")),
                 name: info.artistPixiv.substring(info.artistPixiv.indexOf(" "), info.artistPixiv.length - 1)
             } : undefined,
-            va: info.va ? (typeof(info.va) === "object" ? "object" : info.va.substring(info.va.indexOf(":"))) : undefined
+            va: info.va ? (typeof (info.va) === "object" ? "object" : info.va.substring(info.va.indexOf(":"))) : undefined
         }
     };
-    return ship;
 }
 
 function fetch(url, localPath) {

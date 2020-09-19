@@ -255,7 +255,7 @@ function publishShips() {
         for (let skin of ship.skins) {
             process.stdout.write(".");
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
-            if (typeof(skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            if (typeof (skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             else {
                 skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
                 skin.imageCN = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
@@ -439,7 +439,8 @@ function parseShip(id, name, body) {
         },
         class: doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a") ? doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a").textContent : null,
         nationality: doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent,
-        hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(2)").textContent
+        hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(2)").textContent,
+        retrofit_hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(4)") ? doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(4)").textContent : undefined
     }
     //console.log(ship.names.en); // If any parsing error arised
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) { // Unreleased
@@ -662,6 +663,7 @@ function parseShipEQSlot(slot) {
     }
     return eqslot;
 }
+
 // Parse the stats seperately for easy code reading
 
 function parseStats(doc) {
@@ -691,6 +693,7 @@ function parseStats(doc) {
     });
     return allStats;
 }
+
 // Parse ship's gallery page html body, need a name
 function parseGallery(name, body) {
     let skins = [];
@@ -706,8 +709,8 @@ function parseGallery(name, body) {
         tab.querySelectorAll(".shipskin-table tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
             name: tab.title,
-            image: typeof(image) === "string" ? image : image.normal,
-            imageCN: typeof(image) === "string" ? undefined : image.cn,
+            image: typeof (image) === "string" ? image : image.normal,
+            imageCN: typeof (image) === "string" ? undefined : image.cn,
             background: tab.querySelector(".res img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src") : null,
             chibi: tab.querySelector(".shipskin-lower .shipskin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-lower .shipskin-chibi img").getAttribute("src") : null,
             info: info
@@ -760,6 +763,7 @@ function parseShipObtainedFrom(construction_tbody, ship) {
         obtainedFrom: parseShipMapDrop(construction_tbody)
     };
 }
+
 const MAP_DROP_START_ANCHOR = ["1", "2", "3", "4 + SOS"]
 
 function parseShipMapDrop(construction_tbody) {
@@ -977,6 +981,7 @@ function parseChaptersNames(body) {
     }
     return names;
 }
+
 // Promise Wrapper for request, I dont trust their own promise support
 function fetch(url) {
     return new Promise((resolve, reject) => request({
@@ -991,7 +996,7 @@ function fetch(url) {
 
 function head(url) {
     return new Promise((resolve, reject) => {
-        request.head(url, function(err, res, body) {
+        request.head(url, function (err, res, body) {
             resolve({
                 err: err,
                 res: res,
@@ -1035,7 +1040,7 @@ async function verifyFile(url, localPath) {
     if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
     else {
         let header = await head(url);
-        if(!header.res) console.log(header);
+        if (!header.res) console.log(header);
         PATH_SIZE[url] = correctSize = parseInt(header.res.headers['content-length']);
         fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
     }
@@ -1051,7 +1056,7 @@ function deleteAll(path) {
     var files = [];
     if (fs.existsSync(path)) {
         files = fs.readdirSync(path);
-        files.forEach(function(file, index) {
+        files.forEach(function (file, index) {
             var curPath = path + "/" + file;
             if (fs.statSync(curPath).isDirectory()) { // recurse
                 deleteAll(curPath);
