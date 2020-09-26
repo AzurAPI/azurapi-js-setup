@@ -73,13 +73,15 @@ class Ship {
         2: Slot;
         3: Slot;
     };
-    enhanceValue: object;// mapped by [key = "stat type", value = "enhance value"]
+    enhanceValue: Map<string, string>;// mapped by [key = "stat type", value = "enhance value"]
     scrapValue: {
         coin: number;
         oil: number;
         medal: number;
     };
     skills: Array<Skill>;
+    skins: Array<Skin>;
+    gallery: Array<GalleryItem>;
     limitBreaks: Array<Array<string>>;      // first layer = breaks, second layer = bonus
     fleetTech: {                            // fleet tech stuff
         statsBonus: {
@@ -101,18 +103,25 @@ class Ship {
             total: number;
         };
     };
+    retrofit: boolean;                              // if the ship is retrofittable
+    retrofitId: string;                             // the id after retrofit
+	retrofitProjects: Map<string, RetrofitProject>; // mapped by project id
     construction: {
         constructionTime: string;
         availableIn: {
-            light: false;
-            heavy: false;
-            aviation: false;
-            limited: false;
-            exchange: false;
+            light: boolean;
+            heavy: boolean;
+            aviation: boolean;
+            limited: boolean;
+            exchange: boolean;
         };
     };
+    obtainedFrom: {
+        obtainedFrom: string;       // source, etc "Available in Medal Exchange for \"Medal\" 80."
+        fromMaps: Array<string>;    // map ids, etc "1-1" "10-2"
+    };
     misc: {
-        artist: string;
+        artist?: Artist;
         web?: Artist;
         pixiv?: Artist;
         twitter?: Artist;
@@ -160,9 +169,42 @@ class Skill {
     color: string;      // descriptive color name (not hex code)
 }
 
+class Skin {
+    name: string;
+    image: string;
+    imageCN?: string;
+    background: string;
+    chibi: string;
+    info: {
+        enClient?: string;
+        cnClient?: string;
+        jpClient?: string;
+        cost: string;
+        obtainedFrom: string;
+        live2dModel: string; // just gonna leave it as string to make sure no one complains, dont judge
+    };
+}
+
+class GalleryItem {
+    description: string;    // self-explanatory
+    url: string;            // the image url
+}
+
 class Artist {
     name: string;
     url: string;
+}
+
+class RetrofitProject{
+    name: string;
+    attributes: Array<string>;
+    materials: Array<string>;
+    coins: number;
+    level: number;
+    levelBreakLevel: number;
+    levelBreakStars: string; // ★★☆☆☆
+    recurrence: number;
+    require: Array<string>; // project ids, etc "A", "B"
 }
 ```
 
@@ -171,8 +213,8 @@ class Artist {
 ```typescript
 class Ship {
     Default: Array<Line>;
-    [Skin Name]: Array<Line>;
-    ...
+    // [Skin Name]: Array<Line>; // note: the skin name is directly from the wiki page
+    // ...
 }
 
 class Line {
