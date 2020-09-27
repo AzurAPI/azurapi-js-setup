@@ -105,7 +105,7 @@ class Ship {
     };
     retrofit: boolean;                              // if the ship is retrofittable
     retrofitId: string;                             // the id after retrofit
-	retrofitProjects: Map<string, RetrofitProject>; // mapped by project id
+    retrofitProjects: Map<string, RetrofitProject>; // mapped by project id
     construction: {
         constructionTime: string;
         availableIn: {
