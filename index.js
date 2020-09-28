@@ -255,7 +255,7 @@ function publishShips() {
         for (let skin of ship.skins) {
             process.stdout.write(".");
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
-            if (typeof (skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            if (typeof(skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             else {
                 skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
                 skin.imageCN = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
@@ -709,8 +709,8 @@ function parseGallery(name, body) {
         tab.querySelectorAll(".shipskin-table tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
             name: tab.title,
-            image: typeof (image) === "string" ? image : image.normal,
-            imageCN: typeof (image) === "string" ? undefined : image.cn,
+            image: typeof(image) === "string" || (!image) ? image : image.normal,
+            imageCN: typeof(image) === "string" || (!image) ? undefined : image.cn,
             background: tab.querySelector(".res img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src") : null,
             chibi: tab.querySelector(".shipskin-lower .shipskin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-lower .shipskin-chibi img").getAttribute("src") : null,
             info: info
@@ -996,7 +996,7 @@ function fetch(url) {
 
 function head(url) {
     return new Promise((resolve, reject) => {
-        request.head(url, function (err, res, body) {
+        request.head(url, function(err, res, body) {
             resolve({
                 err: err,
                 res: res,
@@ -1056,7 +1056,7 @@ function deleteAll(path) {
     var files = [];
     if (fs.existsSync(path)) {
         files = fs.readdirSync(path);
-        files.forEach(function (file, index) {
+        files.forEach(function(file, index) {
             var curPath = path + "/" + file;
             if (fs.statSync(curPath).isDirectory()) { // recurse
                 deleteAll(curPath);

@@ -758,12 +758,12 @@
 				}
 			},
 			{
-				"name": "Let’s Become Waitresses!",
+				"name": "Let's Become Waitresses!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f7/JavelinCoCo.png/453px-JavelinCoCo.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/76/JavelinCoCoChibi.png",
 				"info": {
-					"enClient": "Let’s Become Waitresses!",
+					"enClient": "Let's Become Waitresses!",
 					"cnClient": "一起成为服务生！",
 					"jpClient": "制服はお揃い♪",
 					"obtainedFrom": "Skin Shop",
@@ -3468,6 +3468,20 @@
 					"cost": "780",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Black Crow's Finery",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6d/SheffieldParty.png/854px-SheffieldParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/68/SheffieldPartyChibi.png",
+				"info": {
+					"enClient": "Black Crow's Finery",
+					"cnClient": "黑鸦的晚宴",
+					"jpClient": "ブラックロウ・アウトフィット",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -3478,6 +3492,10 @@
 			{
 				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
 				"url": "https://azurlane.koumakan.jp/w/images/7/77/Bg_2019.12.19_2.png"
+			},
+			{
+				"description": "Sheffield, Sirius, Little Bel",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c2/Bg_2020.09.24_5.png"
 			}
 		]
 	},
@@ -14115,7 +14133,7 @@
 				"info": {
 					"enClient": "Rock 'n' Demon",
 					"cnClient": "乐队型鬼神",
-					"jpClient": "ROCK'n KIJIN",
+					"jpClient": "ROCK'n KIJIN",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2dModel": "No"
@@ -14189,6 +14207,21 @@
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Nightfall Raiment",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/16/AyanamiParty.png/662px-AyanamiParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/1/17/AyanamiPartyChibi.png",
+				"info": {
+					"enClient": "Nightfall Raiment",
+					"cnClient": "黯然礼装",
+					"jpClient": "闇然礼装",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1100",
+					"live2dModel": "Yes"
 				}
 			}
 		],
@@ -14902,6 +14935,21 @@
 					"cost": "780",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Dawn's Thunder",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/4b/IkazuchiParty.png/477px-IkazuchiParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/ce/IkazuchiPartyChibi.png",
+				"info": {
+					"enClient": "Dawn's Thunder",
+					"cnClient": "晨曦精灵Ikatuchi",
+					"jpClient": "払暁のイカヅチ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -15151,6 +15199,21 @@
 					"jpClient": "オハナビイナヅマ",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Dusk's Lightning",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/42/InazumaParty.png/489px-InazumaParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/62/InazumaPartyChibi.png",
+				"info": {
+					"enClient": "Dusk's Lightning",
+					"cnClient": "月下妖精Inatuma",
+					"jpClient": "夕闇のイナヅマ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
 					"live2dModel": "No"
 				}
 			}
@@ -18733,6 +18796,20 @@
 					"obtainedFrom": "Retrofit",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Perennial Joy",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/dd/HatsushimoParty.png/464px-HatsushimoParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/cd/HatsushimoPartyChibi.png",
+				"info": {
+					"enClient": "Perennial Joy",
+					"cnClient": "吉时祝宴",
+					"jpClient": "季節問わぬ幸せの祝宴よ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": []
@@ -18933,6 +19010,21 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/91/AriakeChibi.png",
 				"info": {
 					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Unending Friendship",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/af/AriakeParty.png/450px-AriakeParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/1/1d/AriakePartyChibi.png",
+				"info": {
+					"enClient": "Unending Friendship",
+					"cnClient": "四季团圆",
+					"jpClient": "時日問わぬ楽しい団らんよ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
 					"live2dModel": "No"
 				}
 			}
@@ -26482,6 +26574,21 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Scarlet Innocence",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/53/HarunaParty.png/557px-HarunaParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/35/HarunaPartyChibi.png",
+				"info": {
+					"enClient": "Scarlet Innocence",
+					"cnClient": "绯红Innocence",
+					"jpClient": "真緋のイノセンス",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -30126,7 +30233,7 @@
 					"cn": "制空支援",
 					"jp": "制空支援"
 				},
-				"description": "After every airstrike, increase the air power of other CV/Ls by 5% (15%) for 8 seconds",
+				"description": "When this ship launches an airstrike, increase the AVI stat of each other CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds.",
 				"color": "gold"
 			}
 		],
@@ -30376,7 +30483,7 @@
 					"cn": "制空支援",
 					"jp": "制空支援"
 				},
-				"description": "After every airstrike, increase Air Power of other CVs/CVLs by 5% (15%) for 8 seconds.",
+				"description": "When this ship launches an airstrike, increase the AVI stat of each other CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds.",
 				"color": "gold"
 			}
 		],
@@ -31177,6 +31284,20 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Ruby-Laced Beauty",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/53/AkagiParty.png/468px-AkagiParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/4/4a/Skin_BG_136.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/58/AkagiPartyChibi.png",
+				"info": {
+					"enClient": "Ruby-Laced Beauty",
+					"cnClient": "朱娟余醺",
+					"jpClient": "朱絹の余醺",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -31460,6 +31581,20 @@
 					"jpClient": "白狐賀正",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Exalted White Wings",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/61/KagaParty.png/464px-KagaParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/1/10/KagaPartyChibi.png",
+				"info": {
+					"enClient": "Exalted White Wings",
+					"cnClient": "白羽风华",
+					"jpClient": "白羽の貴華",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}
@@ -33518,11 +33653,25 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a9/Shinano.png/516px-Shinano.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a9/Shinano.png/561px-Shinano.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5f/ShinanoChibi.png",
 				"info": {
 					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Dreams of the Hazy Moon",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b3/ShinanoParty.png/664px-ShinanoParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/ShinanoPartyChibi.png",
+				"info": {
+					"enClient": "Dreams of the Hazy Moon",
+					"cnClient": "胧月十夜",
+					"jpClient": "満ち欠ける朧月",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}
@@ -48868,6 +49017,10 @@
 			{
 				"description": "Brooklyn, Montpelier, Washington, Honolulu, St. Louis and Ranger during American Independence Day",
 				"url": "https://azurlane.koumakan.jp/w/images/5/57/Bg_July4th_6.png"
+			},
+			{
+				"description": "St. Louis inside her Luxurious Wheels",
+				"url": "https://azurlane.koumakan.jp/w/images/b/b7/Bg_2020.09.24_3.png"
 			}
 		]
 	},
@@ -52564,6 +52717,20 @@
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2dModel": "Yes"
+				}
+			},
+			{
+				"name": "Xanadu's Eventide",
+				"image": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/48/NoshiroPartyChibi.png",
+				"info": {
+					"enClient": "Xanadu's Eventide",
+					"cnClient": "夜响的绝园",
+					"jpClient": "夜饗の絶園",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
 				}
 			}
 		],
@@ -62391,6 +62558,21 @@
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
 					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Craft Fairytail",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7b/EssexParty.png/332px-EssexParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/7f/EssexPartyChibi.png",
+				"info": {
+					"enClient": "Craft Fairytail",
+					"cnClient": "Craft Fairytail",
+					"jpClient": "Craft Fairytail",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1200",
+					"live2dModel": "Yes"
 				}
 			}
 		],
@@ -78616,9 +78798,24 @@
 				"info": {
 					"enClient": "Kleiner Hai",
 					"cnClient": "Kleiner Hai",
-					"jpClient": "Kleiner Hai",
+					"jpClient": "Kleiner Hai",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "A Cute, Sharky Reverie",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c4/U-110Casual.png/461px-U-110Casual.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/a0/U-110CasualChibi.png",
+				"info": {
+					"enClient": "A Cute, Sharky Reverie",
+					"cnClient": "鲨鱼小可爱",
+					"jpClient": "潜水鮫のカワイイ夢",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
 					"live2dModel": "No"
 				}
 			}
@@ -81928,33 +82125,33 @@
 				"antisubmarineWarfare": "51"
 			},
 			"level100": {
-				"health": "2208",
+				"health": "2207",
 				"armor": "Light",
 				"reload": "178",
 				"luck": "86",
 				"firepower": "156",
-				"torpedo": "245",
-				"evasion": "173",
+				"torpedo": "244",
+				"evasion": "172",
 				"speed": "51",
 				"antiair": "153",
 				"aviation": "0",
 				"oilConsumption": "10",
-				"accuracy": "178",
-				"antisubmarineWarfare": "188"
+				"accuracy": "177",
+				"antisubmarineWarfare": "187"
 			},
 			"level120": {
-				"health": "2649",
+				"health": "2648",
 				"armor": "Light",
-				"reload": "205",
+				"reload": "204",
 				"luck": "86",
-				"firepower": "180",
+				"firepower": "179",
 				"torpedo": "279",
 				"evasion": "179",
 				"speed": "51",
 				"antiair": "176",
 				"aviation": "0",
 				"oilConsumption": "10",
-				"accuracy": "187",
+				"accuracy": "186",
 				"antisubmarineWarfare": "208"
 			}
 		},
@@ -83975,7 +84172,10 @@
 				"name": "WongPanda_Mr",
 				"url": "https://www.weibo.com/612325127"
 			},
-			"voice": null
+			"voice": {
+				"name": "Meiko Kawasaki",
+				"url": "https://en.wikipedia.org/wiki/ja:%E5%B7%9D%E5%B4%8E%E8%8A%BD%E8%A1%A3%E5%AD%90"
+			}
 		},
 		"skins": [
 			{
@@ -85504,7 +85704,10 @@
 				"name": "liyu黎",
 				"url": "https://www.weibo.com/p/1005055979033109/"
 			},
-			"voice": null
+			"voice": {
+				"name": "Ai Kayano",
+				"url": "https://en.wikipedia.org/wiki/Ai_Kayano"
+			}
 		},
 		"skins": [
 			{
@@ -85626,7 +85829,7 @@
 				"color": "gold"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "全弹发射",
@@ -86794,7 +86997,7 @@
 				"color": "gold"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "全弹发射",
@@ -87498,7 +87701,10 @@
 				"name": "土狗十三天",
 				"url": "https://www.weibo.com/p/1005053082090661"
 			},
-			"voice": null
+			"voice": {
+				"name": "Haruka Takahashi",
+				"url": "https://myanimelist.net/people/41889/Haruka_Takahashi"
+			}
 		},
 		"skins": [
 			{
@@ -88105,7 +88311,7 @@
 				"color": "gold"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/0/02/Skill_29580.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "专属弹幕-赫敏II",
@@ -88573,7 +88779,7 @@
 				"color": "deepskyblue"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault I",
 					"cn": "全弹发射II",
@@ -88806,7 +89012,7 @@
 				"color": "deepskyblue"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/e/e6/Skill_2010.png",
 				"names": {
 					"en": "Full Firepower",
 					"cn": "火力全开",
@@ -88816,7 +89022,7 @@
 				"color": "pink"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "全弹发射II",
@@ -88884,7 +89090,10 @@
 			"pixiv": null,
 			"twitter": null,
 			"web": null,
-			"voice": null
+			"voice": {
+				"name": "Satomi Amano",
+				"url": "https://en.wikipedia.org/wiki/ja:%E5%A4%A9%E9%87%8E%E8%81%A1%E7%BE%8E_(%E5%A3%B0%E5%84%AA)"
+			}
 		},
 		"skins": [
 			{
@@ -89231,7 +89440,7 @@
 				"color": "pink"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/8/84/Skill_29590.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "专属弹幕-U96II",
@@ -89309,7 +89518,10 @@
 				"name": "黑猫桃园-专注潜水20年",
 				"url": "https://weibo.com/u/2959771544"
 			},
-			"voice": null
+			"voice": {
+				"name": "Mayu Mineda",
+				"url": "https://en.wikipedia.org/wiki/ja:%E5%B3%AF%E7%94%B0%E8%8C%89%E5%84%AA"
+			}
 		},
 		"skins": [
 			{
@@ -89866,7 +90078,7 @@
 		"slots": {
 			"1": {
 				"type": "Fighters",
-				"minEfficiency": 114,
+				"minEfficiency": 115,
 				"maxEfficiency": 130
 			},
 			"2": {
@@ -89909,7 +90121,7 @@
 					"cn": "制空支援",
 					"jp": "制空支援"
 				},
-				"description": "After every airstrike, increase Air Power of other CVs/CVLs by 5% (15%) for 8 seconds.",
+				"description": "When this ship launches an airstrike, increase the AVI stat of each CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds. This buff does not apply to the airstrike that triggered it.",
 				"color": "gold"
 			}
 		],
@@ -90080,7 +90292,7 @@
 		"slots": {
 			"1": {
 				"type": "Fighters",
-				"minEfficiency": 114,
+				"minEfficiency": 115,
 				"maxEfficiency": 130
 			},
 			"2": {
@@ -90339,7 +90551,7 @@
 				"color": "deepskyblue"
 			},
 			{
-				"icon": null,
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "全弹发射II",
@@ -91024,9 +91236,9 @@
 			"reload": 0
 		},
 		"scrapValue": {
-			"coin": 4,
-			"oil": 3,
-			"medal": 30
+			"coin": 500,
+			"oil": 4,
+			"medal": 3
 		},
 		"skills": [
 			{
@@ -101412,8 +101624,8 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/95/IndianapolisPartyChibi.png",
 				"info": {
 					"enClient": "The Light of Circle City",
-					"cnClient": "skin unavailable",
-					"jpClient": "skin unavailable",
+					"cnClient": "环城之夜",
+					"jpClient": "サークルシティナイト",
 					"obtainedFrom": "Lights of Circle City -  1,500",
 					"live2dModel": "No"
 				}
@@ -102365,6 +102577,21 @@
 					"obtainedFrom": "Default",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "The General's Banquet",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/20/WichitaParty.png/596px-WichitaParty.png",
+				"imageCN": null,
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/WichitaPartyChibi.png",
+				"info": {
+					"enClient": "The General's Banquet",
+					"cnClient": "“将军”的晚宴",
+					"jpClient": "ジェネラル・バンケット",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": []
@@ -102607,6 +102834,20 @@
 					"obtainedFrom": "Skin Shop",
 					"cost": "900",
 					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Evening Breeze Minuet",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/85/BaltimoreParty.png/407px-BaltimoreParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/27/BaltimorePartyChibi.png",
+				"info": {
+					"enClient": "Evening Breeze Minuet",
+					"cnClient": "夜风Minuet",
+					"jpClient": "夜風Minuet",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1200",
+					"live2dModel": "Yes"
 				}
 			}
 		],
@@ -105856,7 +106097,7 @@
 					"cn": "制空支援",
 					"jp": "制空支援"
 				},
-				"description": "After every airstrike, increase the Air Power of other CVs/CVLs by 5% (15%) for 8 seconds.",
+				"description": "When this ship launches an airstrike, increase the AVI stat of each CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds. This buff does not apply to the airstrike that triggered it.",
 				"color": "gold"
 			}
 		],
@@ -106797,7 +107038,7 @@
 					"cn": "航空先驱",
 					"jp": "初期正規空母"
 				},
-				"description": "Increases experience gained by Carriers by 5% (15%)",
+				"description": "Increase battle experience gained by all CVs and CVLs in the same fleet as this ship by 5.0% (15.0%).",
 				"color": "gold"
 			},
 			{
@@ -116354,6 +116595,20 @@
 					"obtainedFrom": "Default",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Holy Knight's Resplendence",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/49/Saint_LouisParty.png/454px-Saint_LouisParty.png",
+				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b2/Saint_LouisPartyChibi.png",
+				"info": {
+					"enClient": "Holy Knight's Resplendence",
+					"cnClient": "华服的圣骑士",
+					"jpClient": "華麗なる聖騎士",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1200",
+					"live2dModel": "Yes"
+				}
 			}
 		],
 		"gallery": [
@@ -118650,7 +118905,7 @@
 					"cn": "反击之盾",
 					"jp": "撃ち返しの盾"
 				},
-				"description": "Every 15s: deploys a shield in front of this ship that lasts 8s and can block up to 6 enemy shells; if this shield is destroyed within the allotted time: fires a barrage and increases this ship's FP and Accuracy by 3.5% (8.0%) until the end of the battle. This buff can be stacked twice.",
+				"description": "Every 15 seconds, deploy a shield in front of this ship that lasts for 8 seconds and can block up to 6 enemy shells. If this shield is destroyed before it expires, fire a special barrage and increase this ship's FP and Accuracy by 3.5% (8.0%) until the end of the battle. This buff can be stacked twice.",
 				"color": "deepskyblue"
 			},
 			{
@@ -118660,7 +118915,7 @@
 					"cn": "「Ausgewogen」",
 					"jp": "「アオスゲヴォーゲン」"
 				},
-				"description": "At the start of the battle, if this ship is in the frontmost position of your Vanguard: increase this ships Speed by 5 and EVA by 4.5% (12.0%) until the end of the battle, and decreases its DMG taken by 5% (15.0%) for 30s: if NOT in the frontmost position: increases this ship's Crit DMG by 15% (25.0%) and, every 15s: has a 40% (70.0%) chance to fire a special barrage (DMG is based on skill's level).",
+				"description": "At the start of the battle:\nIf this ship is in the frontmost position of your Vanguard: Increase this ship's Speed by 5 and EVA by 4.5% (12.0%) until the end of the battle, and decrease its DMG taken by 5% (15.0%) for 30 seconds.\nIf this ship is NOT in the frontmost position: increase this ship's critical damage by 15.0% (25.0%), and every 15 seconds, 40.0% (70.0%) chance to fire a special barrage (barrage damage is based on skill level).",
 				"color": "pink"
 			},
 			{
