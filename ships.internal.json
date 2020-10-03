@@ -1004,7 +1004,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Winter's Crown B-1, B-2, B-3, D-1, D-2, D3",
+			"obtainedFrom": "Winter's Crown B1, B2, B3, D1, D2, D3\nDivergent Chessboard A4, C4\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3\nIris of Light and Dark B1, B2, B3",
 			"fromMaps": [
 				"2-1",
 				"6-2",
@@ -1230,7 +1230,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a map drop during \"Aurora Noctis\" event.",
+			"obtainedFrom": "Available as a map drop during Aurora Noctis (A1, C1) event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -4467,7 +4467,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP2Winter's Crown B-1, B-2, B-3, D-1, D-2, D-3",
+			"obtainedFrom": "Encircling Graf Spee SP2\n Winter's Crown B1, B2, B3, D1, D2, D3\n Divergent Chessboard A3, C3\n Ink-Stained Steel Sakura A4, B1, B2, C4, D1, D2\n Iris of Light and Dark  D1, D2, D3, SP,",
 			"fromMaps": [
 				"3-1",
 				"13-1",
@@ -4674,7 +4674,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP2Winter's Crown B-1, B-2, B-3, D-1, D-2, D-3",
+			"obtainedFrom": "Encircling Graf Spee SP2\nWinter's Crown B1, B2, B3, D1, D2, D3\nDivergent Chessboard A3, C3\nIris of Light and Dark  D1, D2, D3, SP\nInk-Stained Steel Sakura A4, B1, B2, C4, D1, D2",
 			"fromMaps": [
 				"3-1",
 				"13-1",
@@ -14402,7 +14402,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a drop during \"Visitors Dyed in Red\" event and available in Core Data Shop for 1000 \"Core Data\".",
+			"obtainedFrom": "Available in Core Data Shop for 1000 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -16143,7 +16143,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red A-1, C-1",
+			"obtainedFrom": "Visitors Dyed in Red A1, C1\nIris of Light and Dark A1, C1\nInk-Stained Steel Sakura A2, C2",
 			"fromMaps": [
 				"7-1",
 				"4-2",
@@ -16913,6 +16913,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Visitors Dyed in Red B1, B2, B3, D1, D2, D3",
 			"fromMaps": [
 				"9-2",
 				"3-3",
@@ -18878,23 +18879,56 @@
 				"oilConsumption": "8",
 				"accuracy": "180",
 				"antisubmarineWarfare": "189"
+			},
+			"level100Retrofit": {
+				"health": "",
+				"armor": "Light",
+				"reload": "",
+				"luck": "34",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level120Retrofit": {
+				"health": "",
+				"armor": "Light",
+				"reload": "",
+				"luck": "34",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
 			}
 		},
 		"slots": {
 			"1": {
 				"type": "DD Guns",
 				"minEfficiency": 70,
-				"maxEfficiency": 75
+				"maxEfficiency": 75,
+				"kaiEfficiency": 75
 			},
 			"2": {
 				"type": "Torpedoes",
 				"minEfficiency": 130,
-				"maxEfficiency": 150
+				"maxEfficiency": 150,
+				"kaiEfficiency": 155
 			},
 			"3": {
 				"type": "Anti-Air Guns",
 				"minEfficiency": 70,
-				"maxEfficiency": 75
+				"maxEfficiency": 75,
+				"kaiEfficiency": 80
 			}
 		},
 		"enhanceValue": {
@@ -18916,7 +18950,7 @@
 					"cn": "鱼雷连射",
 					"jp": "次発装填"
 				},
-				"description": "When launching a wave of torpedoes: 15% (30%) chance to launch another wave.",
+				"description": "When this ship fires its Torpedoes: 15% (30%) chance to launch a second wave of Torpedoes.",
 				"color": "pink"
 			},
 			{
@@ -18928,6 +18962,16 @@
 				},
 				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Hatsuharu Class I (II)",
 				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/9/96/Skill_1080.png",
+				"names": {
+					"en": "Air Raid Assistance (Retrofit)",
+					"cn": "空袭引导",
+					"jp": "空襲先導"
+				},
+				"description": "While this ship is afloat: increases the DMG of all Carriers in your fleet by 5% (15%). Does not stack with the same skill.",
+				"color": "gold"
 			}
 		],
 		"limitBreaks": [
@@ -18967,6 +19011,200 @@
 				"maxLimitBreak": 8,
 				"maxLevel": 6,
 				"total": 18
+			}
+		},
+		"retrofit": true,
+		"retrofitId": "3175",
+		"retrofitProjects": {
+			"A": {
+				"name": "Hull Improvement Ⅰ",
+				"attributes": [
+					"\"Health\" +45"
+				],
+				"materials": [
+					"2x \"DestroyerT1BP\""
+				],
+				"coins": 300,
+				"level": 1,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": []
+			},
+			"B": {
+				"name": "Evasion Enhancement Ⅰ",
+				"attributes": [
+					"\"Evasion\" +5"
+				],
+				"materials": [
+					"2x \"DestroyerT1BP\""
+				],
+				"coins": 400,
+				"level": 5,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"C": {
+				"name": "Anti-Air Gun Improvement Ⅰ",
+				"attributes": [
+					"Anti-Air Gun Efficiency +5%"
+				],
+				"materials": [
+					"3x \"DestroyerT1BP\""
+				],
+				"coins": 600,
+				"level": 20,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"D": {
+				"name": "Anti-Air Enhancement Ⅰ",
+				"attributes": [
+					"\"Anti-air\" +15"
+				],
+				"materials": [
+					"3x \"DestroyerT1BP\""
+				],
+				"coins": 800,
+				"level": 25,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"E": {
+				"name": "Torpedo Improvement Ⅰ",
+				"attributes": [
+					"Torpedo Efficiency +5%"
+				],
+				"materials": [
+					"3x \"DestroyerT1BP\""
+				],
+				"coins": 1000,
+				"level": 35,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"F": {
+				"name": "Torpedo Enhancement Ⅰ",
+				"attributes": [
+					"\"Torpedo\" +10"
+				],
+				"materials": [
+					"4x \"DestroyerT1BP\""
+				],
+				"coins": 1200,
+				"level": 40,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"E"
+				]
+			},
+			"G": {
+				"name": "Hull Improvement Ⅱ",
+				"attributes": [
+					"\"Health\" +45 / +75"
+				],
+				"materials": [
+					"1x / 2x \"DestroyerT2BP\""
+				],
+				"coins": 1500,
+				"level": 50,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 2,
+				"require": [
+					"E"
+				]
+			},
+			"H": {
+				"name": "Tactical Learning",
+				"attributes": [
+					"Learn Skill \"Air Raid Assistance\""
+				],
+				"materials": [
+					"3x \"DestroyerT2BP\""
+				],
+				"coins": 1800,
+				"level": 55,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"G"
+				]
+			},
+			"I": {
+				"name": "Motor Enhancement",
+				"attributes": [
+					"Spd +3"
+				],
+				"materials": [
+					"3x \"DestroyerT2BP\""
+				],
+				"coins": 2000,
+				"level": 70,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"G"
+				]
+			},
+			"J": {
+				"name": "Evasion Enhancement Ⅱ",
+				"attributes": [
+					"\"Evasion\" +5 / +10"
+				],
+				"materials": [
+					"2x / 2x \"DestroyerT2BP\""
+				],
+				"coins": 2500,
+				"level": 75,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 2,
+				"require": [
+					"B",
+					"I"
+				]
+			},
+			"K": {
+				"name": "Modernization",
+				"attributes": [
+					"\"Anti-air\" +15",
+					"\"Torpedo\" +30"
+				],
+				"materials": [
+					"1x \"DestroyerT3BP\"",
+					"1x \"Ariake\" or \"Universal Bulin\""
+				],
+				"coins": 3000,
+				"level": 85,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"H",
+					"I",
+					"J"
+				]
 			}
 		},
 		"construction": {
@@ -19010,6 +19248,16 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/91/AriakeChibi.png",
 				"info": {
 					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Retrofit",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/49/AriakeKai.png/606px-AriakeKai.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/44/AriakeKaiChibi.png",
+				"info": {
+					"obtainedFrom": "Retrofit",
 					"live2dModel": "No"
 				}
 			},
@@ -22044,7 +22292,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red All Maps",
+			"obtainedFrom": "Visitors Dyed in Red All Maps\nDivergent Chessboard A3, C3\nFallen Wings A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"8-1",
 				"8-2",
@@ -23222,7 +23470,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red All Maps",
+			"obtainedFrom": "Visitors Dyed in Red All Maps\nDivergent Chessboard  A1, A3, B1, B2, B4, C1, C3, D1, D2, D4,",
 			"fromMaps": [
 				"3-3",
 				"5-3",
@@ -23682,7 +23930,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red All Maps",
+			"obtainedFrom": "Visitors Dyed in Red All Maps\nDivergent Chessboard  A1, A3, B1, B2, B4, C1, C3, D1, D2, D4",
 			"fromMaps": [
 				"3-3",
 				"5-3",
@@ -24322,7 +24570,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red B-1, B-2, B-3, D-1, D-2, D-3",
+			"obtainedFrom": "Visitors Dyed in Red B1, B2, B3, D1, D2, D3,",
 			"fromMaps": [
 				"5-1",
 				"10-1"
@@ -24534,7 +24782,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red B-1, B-2, B-3, D-1, D-2, D-3",
+			"obtainedFrom": "Visitors Dyed in Red B1, B2, B3, D1, D2, D3,",
 			"fromMaps": [
 				"10-1",
 				"8-3",
@@ -26019,7 +26267,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in point shop and as a drop during  \"Ink-Stained Steel Sakura\" Event.",
+			"obtainedFrom": "Available (JP/CN only) in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -26515,7 +26763,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in point shop during \"Ink-stained Steel Sakura\" Event.",
+			"obtainedFrom": "Available in point shop during \"Ink-stained Steel Sakura\" Event. Available (JP/CN only) in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -27197,12 +27445,12 @@
 			"J": {
 				"name": "Modernization",
 				"attributes": [
-					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\"Firepower\" -26",
+					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\n\"Firepower\" -26",
 					"\"Reload\" -8",
 					"\"Anti-air\" +60",
-					"\"Aviation\"+131Main Gun Efficiency +20%",
+					"\"Aviation\"+131\nMain Gun Efficiency +20%",
 					"Main Gun Mount \"Firepower\" -1 Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
-					"Air Attack becomes available)Unlock Skill \"Air Reserve\""
+					"Air Attack becomes available)\nUnlock Skill \"Air Reserve\""
 				],
 				"materials": [
 					"3x \"BattleshipT3BP\"",
@@ -27247,7 +27495,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red A-1, A-2, A-3, C-1, C-2, C-3",
+			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3\nDivergent Chessboard B3, D3,",
 			"fromMaps": [
 				"6-2",
 				"6-3",
@@ -27684,12 +27932,12 @@
 			"J": {
 				"name": "Modernization",
 				"attributes": [
-					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\"Firepower\" -26",
+					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\n\"Firepower\" -26",
 					"\"Reload\" -8",
 					"\"Anti-air\" +60",
-					"\"Aviation\"+131Main Gun Efficiency +20%",
+					"\"Aviation\"+131\nMain Gun Efficiency +20%",
 					"Main Gun Mount \"Firepower\" -1 Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
-					"Air Attack becomes available)Unlock Skill \"Air Reserve\""
+					"Air Attack becomes available)\nUnlock Skill \"Air Reserve\""
 				],
 				"materials": [
 					"3x \"BattleshipT3BP\"",
@@ -27734,7 +27982,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red A-1, A-2, A-3, C-1, C-2, C-3",
+			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3\nDivergent Chessboard B3, D3",
 			"fromMaps": [
 				"6-2",
 				"6-3",
@@ -28157,12 +28405,12 @@
 			"E": {
 				"name": "Modernization",
 				"attributes": [
-					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\"Firepower\" - 9",
+					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\n\"Firepower\" - 9",
 					"\"Reload\" - 6",
 					"\"Anti-air\" + 47",
-					"\"Aviation\" + 166Main Gun Efficiency +25%",
-					"Main Gun Mount \"Firepower\" -1Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
-					"Air Attack becomes available)Equip 2 Efficiency -20%"
+					"\"Aviation\" + 166\nMain Gun Efficiency +25%",
+					"Main Gun Mount \"Firepower\" -1\nEquipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
+					"Air Attack becomes available)\nEquip 2 Efficiency -20%"
 				],
 				"materials": [
 					"5x \"BattleshipT3BP\"",
@@ -28617,11 +28865,11 @@
 			"E": {
 				"name": "Modernization",
 				"attributes": [
-					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\"Firepower\" - 9",
+					"Change Ship Type into \"Aviation battleship (BBV)\" Aviation Battleships\n\"Firepower\" - 9",
 					"\"Reload\" - 6",
 					"\"Anti-air\" + 47",
-					"\"Aviation\" + 166Main Gun Efficiency +25%",
-					"Main Gun Mount \"Firepower\" -1Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
+					"\"Aviation\" + 166\nMain Gun Efficiency +25%",
+					"Main Gun Mount \"Firepower\" -1\nEquipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
 					"Air Attack becomes available)"
 				],
 				"materials": [
@@ -29235,7 +29483,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as Sakura Amulets reward (10,000 total Sakura Amulets) during  \"Ink-stained Steel Sakura\" Event.",
+			"obtainedFrom": "Available as Sakura Amulets reward (10,000 total Sakura Amulets) during  \"Ink-stained Steel Sakura\" Event. Available (JP/CN only) in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -29392,7 +29640,7 @@
 					"cn": "战术解放·纪伊",
 					"jp": null
 				},
-				"description": "Every 20s: 45% (75%) chance to fire a special barrage (DMG is based on skill level).",
+				"description": "Every 20 seconds after the start of the battle, 45.0% (75.0%) chance to fire a special barrage (barrage damage scales with skill level).",
 				"color": "pink"
 			},
 			{
@@ -29402,7 +29650,7 @@
 					"cn": "英勇奋进",
 					"jp": null
 				},
-				"description": "While this ship is alive, increases Sakura Empire Main fleet ship's AA by 15%. At start of battle, if fleet has 3 or more Sakura Empire ships, increase own FP stat by 10% and TRP stat of Vanguard fleet ships by 10%.",
+				"description": "As long as this ship is afloat, increase the AA stat of each of your Sakura Empire main fleet ships by 5.0% (15.0%). If there are three or more Sakura Empire ships in your fleet (including this ship), increase this ship's FP by 1.0% (10.0%) and increase the TRP of each vanguard ship in your fleet by 1.0% (10.0%).",
 				"color": "gold"
 			}
 		],
@@ -29459,7 +29707,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during Dreamwaker's Butterfly event.",
+			"obtainedFrom": "Available in Limited Construction during \"Dreamwaker's Butterfly\" Event, in the event shop, and as a map drop.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -30223,7 +30471,7 @@
 					"cn": "航空先驱",
 					"jp": "初期正規空母"
 				},
-				"description": "Increases experience gained by Carriers by 5% (15%)",
+				"description": "Increase battle experience gained by all CVs and CVLs in the same fleet as this ship by 5.0% (15.0%).",
 				"color": "gold"
 			},
 			{
@@ -30233,7 +30481,7 @@
 					"cn": "制空支援",
 					"jp": "制空支援"
 				},
-				"description": "When this ship launches an airstrike, increase the AVI stat of each other CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds.",
+				"description": "When this ship launches an airstrike, increase the AVI stat of each CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds. This buff does not apply to the airstrike that triggered it.",
 				"color": "gold"
 			}
 		],
@@ -30483,7 +30731,7 @@
 					"cn": "制空支援",
 					"jp": "制空支援"
 				},
-				"description": "When this ship launches an airstrike, increase the AVI stat of each other CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds.",
+				"description": "When this ship launches an airstrike, increase the AVI stat of each CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds. This buff does not apply to the airstrike that triggered it.",
 				"color": "gold"
 			}
 		],
@@ -30733,7 +30981,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red B-1, B-2, B-3, D-1, D-2, D-3",
+			"obtainedFrom": "Visitors Dyed in Red B1, B2, B3, D1, D2, D3,",
 			"fromMaps": [
 				"2-2",
 				"2-3",
@@ -33531,7 +33779,7 @@
 			"3": {
 				"type": "Torpedo Bombers",
 				"minEfficiency": 125,
-				"maxEfficiency": 135
+				"maxEfficiency": 140
 			}
 		},
 		"enhanceValue": {
@@ -33553,7 +33801,7 @@
 					"cn": "星夜之云",
 					"jp": null
 				},
-				"description": "3s after battle starts, launch Saiun recon planes. When launching airstrikes, launch extra Shiden, Ryuusei, and Saiun barrage planes. Saiuns reduce the FP/Torp/AA of a single enemy by 3% and increase their damage taken by 3%, prioritizing elites (humanoids) first, debuff stacking up to 3 stacks max, lasting until end of battle.",
+				"description": "Three seconds after the start of the battle, launch a Saiun barrage. When this ship launches an airstrike, launch an additional Shinden Kai 2, Ryusei, and Saiun barrage (damage scales with skill level). Saiun barrages do not do damage; instead, they decrease the FP, TRP, AVI, and AA of one random enemy (humanoids prioritized) by 3.0% and increase the damage they receive by 3.0%, until the end of the battle. This debuff may stack up to three times.",
 				"color": "pink"
 			},
 			{
@@ -33563,7 +33811,7 @@
 					"cn": "幽蝶之梦",
 					"jp": null
 				},
-				"description": "Increase own AVI stat by 15% for her first 2 battles of each sortie. Every 15s, fire a special barrage. When the fleets this ship is NOT in engaging their 3rd/4th/5th battle, and this ship is alive, fire a support barrage 15s after battle starts.",
+				"description": "Increase own AVI stat by 5.0% (15.0%) for the first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle.",
 				"color": "gold"
 			},
 			{
@@ -33573,7 +33821,7 @@
 					"cn": "守护之樱",
 					"jp": null
 				},
-				"description": "While this ship is alive, increase FP/Eva/ASW stat of DDs in the same fleet by 15%. At start of battle, if fleet has 3 or more Sakura Empire ships, reduce Gun and Aviation damage taken by self by 20%, and increase AVI/Accuracy stat of Sakura Empire CV/CVL by 15%.",
+				"description": "As long as this ship is afloat, increase FP, EVA, and ASW stats for all DDs in your fleet by 5.0% (15.0%). At the beginning of the battle, if there are at least three Sakura Empire ships in your fleet (including this ship), decrease incoming gun and plane damage received on self by 10.0% (20.0%), and increase AVI and Accuracy for all Sakura Empire CVs and CVLs by 5.0% (15.0%) for the rest of the battle.",
 				"color": "deepskyblue"
 			}
 		],
@@ -33587,7 +33835,7 @@
 			[
 				"Hangar Capacity +1",
 				"Number of Torpedo Bombers +2",
-				"Torpedo Bomber Efficiency +5%"
+				"Torpedo Bomber Efficiency +10%"
 			],
 			[
 				"Number of All Planes +1",
@@ -33663,7 +33911,7 @@
 			},
 			{
 				"name": "Dreams of the Hazy Moon",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b3/ShinanoParty.png/664px-ShinanoParty.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b3/ShinanoParty.png/665px-ShinanoParty.png",
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/ShinanoPartyChibi.png",
 				"info": {
@@ -33889,6 +34137,19 @@
 				}
 			},
 			{
+				"name": "Oath",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/13/AkashiWedding.png/483px-AkashiWedding.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9e/AkashiWeddingChibi.png",
+				"info": {
+					"enClient": "White Cat's Repayment",
+					"cnClient": "白猫的报恩",
+					"jpClient": "白猫報恩す！",
+					"obtainedFrom": "Oath",
+					"live2dModel": "No"
+				}
+			},
+			{
 				"name": "Akashi's in the Red, Nya!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/fb/AkashiNew_Year.png/449px-AkashiNew_Year.png",
 				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
@@ -33923,7 +34184,7 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4f/AkashiEventChibi.png",
 				"info": {
 					"enClient": "Welcome to AzurCon!",
-					"cnClient": "IJN_在A1摊位喵！",
+					"cnClient": "茗_在A1摊位喵！",
 					"jpClient": "島へようこそ！",
 					"obtainedFrom": "Akashi's Fanbook - Complete Painting No. 3",
 					"live2dModel": "No"
@@ -34400,7 +34661,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP1Strive, Wish and Strategize SP2",
+			"obtainedFrom": "Encircling Graf Spee SP1\nStrive, Wish and Strategize SP2\nDivergent Chessboard B2, B3, B4, D2, D3, D4\nIris of Light and Dark A2, C2\nInk-Stained Steel Sakura A2, C2",
 			"fromMaps": [
 				"5-1",
 				"8-2",
@@ -35143,8 +35404,8 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/34/Z23WeddingChibi.png",
 				"info": {
 					"enClient": "Schwarze Hochzeit",
-					"cnClient": "skin unavailable",
-					"jpClient": "skin unavailable",
+					"cnClient": "黑曜的嫁衣",
+					"jpClient": "ハイラーテンシュヴァルツ",
 					"obtainedFrom": "Oath",
 					"live2dModel": "No"
 				}
@@ -36554,7 +36815,7 @@
 				"name": "Modernization",
 				"attributes": [
 					"\"Torpedo\" +15",
-					"\"Firepower\" +20First Auxiliary Slot will be improved to allow for the equipping of Helicopters."
+					"\"Firepower\" +20\nFirst Auxiliary Slot will be improved to allow for the equipping of Helicopters."
 				],
 				"materials": [
 					"6x \"CruiserT2BP\"",
@@ -37309,7 +37570,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction and as a drop during \"Divergent Chessboard\" event. And as a drop during \"Aurora Noctis\" event.",
+			"obtainedFrom": "Available as a drop during Aurora Noctis (A2, C2) event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -37821,7 +38082,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a drop during \"Opposite-Colored\", \"Opposite-Colored Rerun\", \"Aurora Noctis\", and Dreamwaker's Butterfly Events.",
+			"obtainedFrom": "Available as a drop during the Aurora Noctis (B2, D2), and Dreamwaker's Butterfly (T3, HT3) Events.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -38390,7 +38651,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in the Opposite-Colored, Opposite-Colored Rerun, Divergent Chessboard, Scherzo of Iron and Blood and Aurora Noctis events.",
+			"obtainedFrom": "Available in the Scherzo of Iron and Blood, Scherzo of Iron and Blood Rerun (B1, B3, D1, D3, SP) and Aurora Noctis (B3, D3, SP) events. Available (JP/CN only) in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -38612,11 +38873,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "Opposite-Colored Rerun and Divergent Chessboard only"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in the Opposite-Colored, Opposite-Colored Rerun, Divergent Chessboard, Scherzo of Iron and Blood and Aurora Noctis events.",
+			"obtainedFrom": "Available in the Scherzo of Iron and Blood (B2, B3, D2, D3, SP) and Aurora Noctis (B3, D3, SP) events.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -39082,7 +39343,7 @@
 				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": false,
-				"exchange": "Only during event: Divergent Chessboard"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -40051,7 +40312,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Swiftsure, Azuma, Chang Chun, Pinghai, Yukikaze",
+				"description": "Swiftsure, Azuma, Chang Chun, Ping Hai, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/9/98/Bg_2020.01.22_1.png"
 			}
 		]
@@ -42511,7 +42772,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction and as a drop during \"Divergent Chessboard\" event.",
+			"obtainedFrom": "Available as drop in the \"Counterattack Within the Fjord (SP1) event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -42721,7 +42982,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in the Opposite-Colored and Opposite-Colored Rerun events.",
+			"obtainedFrom": "Available in the Opposite-Colored, Opposite-Colored Rerun and Counterattack Within the Fjord events.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -42923,7 +43184,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in the Opposite-Colored and Opposite-Colored Rerun events.",
+			"obtainedFrom": "Available in the Opposite-Colored, Opposite-Colored Rerun and Counterattack Within the Fjord events.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -48418,6 +48679,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Also drops in the Ashen Simulacrum (B1, B2, B3, D1, D2, D3, SP) and Microlayer Medley (C1, C2, C3, D1, D2, D3, SP)",
 			"fromMaps": [
 				"9-1",
 				"10-1",
@@ -52196,6 +52458,19 @@
 				}
 			},
 			{
+				"name": "Oath",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1f/MikasaWedding.png/563px-MikasaWedding.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c4/MikasaWeddingChibi.png",
+				"info": {
+					"enClient": "Untarnished Splendor",
+					"cnClient": "无垢舰裳",
+					"jpClient": "艦前式裳",
+					"obtainedFrom": "Oath",
+					"live2dModel": "No"
+				}
+			},
+			{
 				"name": "Style of the Sakura Capital",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/da/MikasaSchool.png/465px-MikasaSchool.png",
 				"background": "https://azurlane.koumakan.jp/w/images/4/49/Skin_BG_105.png",
@@ -52665,7 +52940,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Swirling Cherry Blossoms",
-				"exchange": "Only during event: Swirling Cherry Blossoms"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -53137,7 +53412,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as map clear reward and as a drop during \"Winter's Crown\" Event. Also available in the Core Data Shop for 1200 \"Core Data\".",
+			"obtainedFrom": "Available in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -53339,7 +53614,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a drop during \"Winter's Crown\" Event. Also available in the Core Data Shop for 1000 \"Core Data\".",
+			"obtainedFrom": "Available in the Core Data Shop for 1000 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -57189,7 +57464,7 @@
 					"cn": "狼群战术-U81",
 					"jp": "ウルフパック-U-81"
 				},
-				"description": "Increases own Evasion by 20% (40%). During battle, increases own Torpedo stat, Reload and Accuracy by 2.5% (7%) per Ironblood submarine in the same fleet.",
+				"description": "Increases own Evasion by 20% (40%). During battle, increases own Torpedo stat, Reload and Accuracy by 2.5% (7%) per Iron Blood submarine in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -58495,7 +58770,7 @@
 					"cn": "狼群战术",
 					"jp": "ウルフパック"
 				},
-				"description": "During battle, increases own Torpedo stat and Reload by 1.5% (6.0%) per Ironblood submarine in the same fleet.",
+				"description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -58560,7 +58835,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a point-accumulation reward in Opposite-Colored Rerun and as map drop in Aurora Noctis.",
+			"obtainedFrom": "Available as map drop in Aurora Noctis (B1, D1).",
 			"fromMaps": []
 		},
 		"misc": {
@@ -58984,7 +59259,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Monthly login reward.",
+			"obtainedFrom": "Monthly login reward. Available as drop in the Counterattack Within the Fjord event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -60170,7 +60445,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as Pt reward (10000 total Pt) during \"Iris of the Light and the Dark\" Event.",
+			"obtainedFrom": "Available as Pt reward (10000 total Pt) during \"Iris of the Light and the Dark\" Event. Available (in JP/CN) in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -61101,7 +61376,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in points shop and as drop during \"Iris of the Light and the Dark\" Event.",
+			"obtainedFrom": "Available in points shop and as drop during \"Iris of the Light and the Dark\" Event. Available (in JP/CN) in the Core Data Shop for 1000 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -70379,7 +70654,7 @@
 					"cn": "狼群战术",
 					"jp": "ウルフパック"
 				},
-				"description": "During battle, increases own Torpedo stat and Reload by 1.5% (6%) per Ironblood submarine in the same fleet.",
+				"description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -70823,7 +71098,7 @@
 					"cn": "狼群战术",
 					"jp": "ウルフパック"
 				},
-				"description": "During battle, increases own Torpedo stat and Reload by 1.5% (6%) per Ironblood submarine in the same fleet.",
+				"description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -72202,7 +72477,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Swiftsure, Azuma, Chang Chun, Pinghai, Yukikaze",
+				"description": "Swiftsure, Azuma, Chang Chun, Ping Hai, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/9/98/Bg_2020.01.22_1.png"
 			},
 			{
@@ -74732,7 +75007,7 @@
 					"cn": "狼群战术",
 					"jp": "ウルフパック"
 				},
-				"description": "During battle, increases own Torpedo stat and Reload by 1.5% (6%) per Ironblood submarine in the same fleet.",
+				"description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -78689,7 +78964,7 @@
 					"cn": "狼群战术",
 					"jp": "ウルフパック"
 				},
-				"description": "During battle, increases own Torpedo stat and Reload by 1.5% (6%) per Ironblood submarine in the same fleet.",
+				"description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -83389,7 +83664,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/3/3b/Skill_13090.png",
 				"names": {
-					"en": "The Fearless Fighting",
+					"en": "The Fearless Fighting I",
 					"cn": "英勇无畏",
 					"jp": "恐れなきFighting"
 				},
@@ -83690,7 +83965,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Microlayer Medley",
-				"exchange": "Only during event: Microlayer Medley"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -87613,11 +87888,11 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/1/13/Skill_13390.png",
 				"names": {
-					"en": "Eskimo, attack!",
+					"en": "Lemme At 'Em!",
 					"cn": "尝尝这个！",
 					"jp": "エスキモー、アタック！"
 				},
-				"description": "Every 30s, with a 50% (100%) chance a special barrage gets fired (power and style based on skill level). If own HP falls below 30%, immediately restore 10% of own health and fire special barrage, limited to once per battle.",
+				"description": "Every 30s: 50% (100%) chance to fire a special barrage (DMG is based on the skill's level.) Once per battle, when this ship's HP falls below 30.0%: heals this ship for 10.0% HP and fires this barrage.",
 				"color": "pink"
 			},
 			{
@@ -87627,7 +87902,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-トライバル級"
 				},
-				"description": "Every 16 times the main gun is fired, trigger Full Barrage - Tribal-Class I (II)",
+				"description": "Every 24 (16) times the main gun is fired, trigger Full Barrage - Tribal-Class I (II)",
 				"color": "pink"
 			}
 		],
@@ -87676,12 +87951,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Counterattack through the Fjord",
+				"limited": "Only during event: Counterattack Within the Fjord",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Counterattack through the Fjord\" Event.",
+			"obtainedFrom": "Available in Limited Construction during \"Counterattack Within the Fjord\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -87703,7 +87978,7 @@
 			},
 			"voice": {
 				"name": "Haruka Takahashi",
-				"url": "https://myanimelist.net/people/41889/Haruka_Takahashi"
+				"url": "http://www.rme.jp/talent/women/haruka-takahashi.html"
 			}
 		},
 		"skins": [
@@ -87718,12 +87993,12 @@
 				}
 			},
 			{
-				"name": "Troublemaker in Atigi",
+				"name": "Parkaless Prankster",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/fa/EskimoSummer.png/656px-EskimoSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1a/EskimoSummerChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Parkaless Prankster",
 					"cnClient": "海边的“问题儿童”",
 					"jpClient": "アティギの問題児？",
 					"obtainedFrom": "Skin Shop",
@@ -91301,7 +91576,18 @@
 				"url": "https://en.wikipedia.org/wiki/Asami_Shimoda"
 			}
 		},
-		"skins": [],
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/57/Specialized_Bulin_Custom_MKIII.png/618px-Specialized_Bulin_Custom_MKIII.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3f/Specialized_Bulin_Custom_MKIIIChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
 		"gallery": []
 	},
 	"004": {
@@ -92668,7 +92954,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP1, SP2",
+			"obtainedFrom": "Encircling Graf Spee SP1, SP2\nDivergent Chessboard A3, B1, C3, D1\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3\nIris of Light and Dark A1, A2, A3",
 			"fromMaps": [
 				"7-1",
 				"11-1",
@@ -93809,7 +94095,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A-1, C-1Encircling Graf Spee SP1Winter's Crown A-1, C-1",
+			"obtainedFrom": "Fallen Wings A1, C1\nEncircling Graf Spee SP1\nWinter's Crown A1, C1\nInk-Stained Steel Sakura A1, C1\nIris of Light and Dark A1, C1",
 			"fromMaps": [
 				"4-1",
 				"9-1",
@@ -94019,7 +94305,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A1, A2, A3, C1, C2, C3",
+			"obtainedFrom": "Fallen Wings A1, A2, A3, C1, C2, C3\nDivergent Chessboard A3, B1, C3, D1\nIris of Light and Dark B1, B2, B3",
 			"fromMaps": [
 				"6-1",
 				"9-1",
@@ -96029,6 +96315,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Strive, Wish and Strategize SP2\nDivergent Chessboard B2, D2,",
 			"fromMaps": [
 				"4-1",
 				"11-1",
@@ -98116,7 +98403,7 @@
 				"name": "Modernization",
 				"attributes": [
 					"\"Anti-air\" +35",
-					"\"Accuracy\" +10\"Radar Scan\" skill upgrades to \"Radar Scan Plus\""
+					"\"Accuracy\" +10\n\"Radar Scan\" skill upgrades to \"Radar Scan Plus\""
 				],
 				"materials": [
 					"3x \"CruiserT3BP\"",
@@ -100198,7 +100485,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings All MapsWinter's Crown All Maps (excluding A-1 and C-1)",
+			"obtainedFrom": "Fallen Wings All Maps\nWinter's Crown All Maps (excluding A1 and C1)\nDivergent Chessboard A2, A4, C2, C4\nIris of Light and Dark B1, B2, B3, D1, D2, D3, SP",
 			"fromMaps": [
 				"13-1",
 				"13-2",
@@ -105224,7 +105511,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as map clear reward and as a drop during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events. Also available in Core Data Shop for 1200 \"Core Data\"",
+			"obtainedFrom": "Available in Core Data Shop for 1200 \"Core Data\"",
 			"fromMaps": []
 		},
 		"misc": {
@@ -109672,7 +109959,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a drop during \"Fallen Wings\" and \"Fallen Wings Rerun\" Events.Additionally, she is available in Exchange Gacha in \"Fallen Wings Rerun\" Event and in the Core Data Shop for 1000 \"Core Data\".",
+			"obtainedFrom": "Available in the Core Data Shop for 1000 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -114221,7 +114508,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3",
+			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3\nDivergent Chessboard A2, A4, C4\nIris of Light and Dark A1, A2\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"6-1",
 				"3-2",
@@ -114667,7 +114954,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A-1, C-1Visitors Dyed in Red A-2, C-2Winter's Crown A-1, C-1Strive, Wish and Strategize SP3",
+			"obtainedFrom": "Fallen Wings A1, C1\nVisitors Dyed in Red A2, C2\nWinter's Crown A1, C1\n Strive, Wish and Strategize SP3\nIris of Light and Dark A2, C2\nInk-Stained Steel Sakura A1, C1",
 			"fromMaps": [
 				"5-2",
 				"11-2",
@@ -117737,7 +118024,7 @@
 				"url": "https://azurlane.koumakan.jp/w/images/7/76/Bg_2019.12.26_3.png"
 			},
 			{
-				"description": "Swiftsure, Azuma, Chang Chun, Pinghai, Yukikaze",
+				"description": "Swiftsure, Azuma, Chang Chun, Ping Hai, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/9/98/Bg_2020.01.22_1.png"
 			},
 			{
@@ -119529,7 +119816,7 @@
 		"skins": [
 			{
 				"name": "Default",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/05/Champagne.png/820px-Champagne.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/05/Champagne.png/824px-Champagne.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d6/ChampagneChibi.png",
 				"info": {
@@ -121402,7 +121689,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {

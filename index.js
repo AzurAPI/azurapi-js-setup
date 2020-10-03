@@ -1115,6 +1115,7 @@ function deepToString(parent) {
     if (parent.nodeType === 3) return parent.textContent;
     if (parent.tagName === "IMG" && parent.title) return `"${parent.title}"`;
     if (parent.tagName === "IMG") return `"${parent.alt.replace(/(Icon)?.png/, '')}"`;
+    if (parent.tagName === "BR") return '\n';
     if (parent.childNodes.length > 0) {
         let text = "";
         for (node of parent.childNodes) text += deepToString(node);
