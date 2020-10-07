@@ -165,7 +165,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Reward for obtaining 1,000 Friendship Point during \"Starry Sky over the Arctic Fjord\" Event.",
+			"obtainedFrom": "Reward for obtaining 1,000 Friendship Point during \"Stars of the Shimmering Fjord\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -18881,34 +18881,34 @@
 				"antisubmarineWarfare": "189"
 			},
 			"level100Retrofit": {
-				"health": "",
+				"health": "1642",
 				"armor": "Light",
-				"reload": "",
+				"reload": "171",
 				"luck": "34",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
-				"speed": "",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"firepower": "51",
+				"torpedo": "475",
+				"evasion": "206",
+				"speed": "46",
+				"antiair": "156",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "171",
+				"antisubmarineWarfare": "169"
 			},
 			"level120Retrofit": {
-				"health": "",
+				"health": "1938",
 				"armor": "Light",
-				"reload": "",
+				"reload": "196",
 				"luck": "34",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
-				"speed": "",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"firepower": "59",
+				"torpedo": "518",
+				"evasion": "212",
+				"speed": "46",
+				"antiair": "175",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "180",
+				"antisubmarineWarfare": "189"
 			}
 		},
 		"slots": {
@@ -18954,6 +18954,16 @@
 				"color": "pink"
 			},
 			{
+				"icon": "https://azurlane.koumakan.jp/w/images/9/96/Skill_1080.png",
+				"names": {
+					"en": "(Retrofit) Air Raid Assistance",
+					"cn": "空袭引导",
+					"jp": "空襲先導"
+				},
+				"description": "While this ship is afloat: increases the DMG of all Carriers in your fleet by 5% (15%). Does not stack with the same skill.",
+				"color": "gold"
+			},
+			{
 				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
@@ -18962,16 +18972,6 @@
 				},
 				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Hatsuharu Class I (II)",
 				"color": "pink"
-			},
-			{
-				"icon": "https://azurlane.koumakan.jp/w/images/9/96/Skill_1080.png",
-				"names": {
-					"en": "Air Raid Assistance (Retrofit)",
-					"cn": "空袭引导",
-					"jp": "空襲先導"
-				},
-				"description": "While this ship is afloat: increases the DMG of all Carriers in your fleet by 5% (15%). Does not stack with the same skill.",
-				"color": "gold"
 			}
 		],
 		"limitBreaks": [
@@ -46173,9 +46173,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot Be Constructed",
+			"constructionTime": "00:21:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -68852,15 +68852,15 @@
 		"construction": {
 			"constructionTime": "00:29:00",
 			"availableIn": {
-				"light": false,
+				"light": "Only during event: Stars of the Shimmering Fjord",
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Starry Sky over the Arctic Fjord",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in the Starry Sky over the Arctic Fjord event in limited construction and as a drop.",
+			"obtainedFrom": "Available in the Stars of the Shimmering Fjord event in limited construction and as a drop and in the Counterattack Within the Fjord event as a drop only.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -87948,15 +87948,15 @@
 		"construction": {
 			"constructionTime": "00:29:00",
 			"availableIn": {
-				"light": false,
+				"light": "Only during event: Counterattack Within the Fjord",
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Counterattack Within the Fjord",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Counterattack Within the Fjord\" Event.",
+			"obtainedFrom": "Available in Light Construction, and point milestone reward during \"Counterattack Within the Fjord\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -115172,15 +115172,15 @@
 		"construction": {
 			"constructionTime": "00:26:00",
 			"availableIn": {
-				"light": false,
+				"light": "Only during event: Stars of the Shimmering Fjord",
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Starry Sky over the Arctic Fjord",
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction and as the task reward for clearing SP3 stage 60 times during \"Starry Sky over the Arctic Fjord\" Event.",
+			"obtainedFrom": "Available in Light Construction and as the task reward for clearing SP3 stage 60 times during \"Stars of the Shimmering Fjord\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -118043,7 +118043,7 @@
 			"jp": "フリードリヒ・デア・グローセ",
 			"kr": "프리드리히 데어 그로세"
 		},
-		"class": "Friedrich der Grosse",
+		"class": "Friedrich der Große",
 		"nationality": "Iron Blood",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7f/Friedrich_der_Gro%C3%9FeIcon.png",
