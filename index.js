@@ -751,7 +751,9 @@ function parseShipObtainedFrom(construction_tbody, ship) {
     for (let i = 0; i < 5; i++) {
         let elem = construction_tbody.children[3].children[i];
         let value = elem.textContent.trim();
-        if (elem.children.length > 0) value = elem.firstElementChild.firstElementChild.textContent.trim();
+        if (elem.children.length > 0 && elem.firstElementChild.title) value = elem.firstElementChild.title;
+        else if (elem.children.length > 0 && elem.firstElementChild.children.length > 0 && elem.firstElementChild.firstElementChild.title) value = elem.firstElementChild.firstElementChild.title;
+        else if (elem.children.length > 0) value = elem.firstElementChild.firstElementChild.textContent.trim();
         else value = value === '✓';
         available[construction_types[i]] = value;
     }

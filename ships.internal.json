@@ -1007,6 +1007,7 @@
 			"obtainedFrom": "Winter's Crown B1, B2, B3, D1, D2, D3\nDivergent Chessboard A4, C4\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3\nIris of Light and Dark B1, B2, B3",
 			"fromMaps": [
 				"2-1",
+				"12-1",
 				"6-2",
 				"5-3",
 				"9-3",
@@ -1226,7 +1227,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -2239,6 +2240,7 @@
 				"3-3",
 				"5-3",
 				"11-3",
+				"12-3",
 				"2-4"
 			]
 		},
@@ -3888,7 +3890,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -4131,7 +4133,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -6301,7 +6303,8 @@
 				"4-3",
 				"2-4",
 				"8-4",
-				"10-4"
+				"10-4",
+				"12-4"
 			]
 		},
 		"misc": {
@@ -6531,7 +6534,8 @@
 				"8-2",
 				"2-3",
 				"8-4",
-				"10-4"
+				"10-4",
+				"12-4"
 			]
 		},
 		"misc": {
@@ -7210,7 +7214,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -7959,7 +7963,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -8165,7 +8169,8 @@
 				"5-3",
 				"7-3",
 				"1-4",
-				"6-4"
+				"6-4",
+				"11-4"
 			]
 		},
 		"misc": {
@@ -8354,7 +8359,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -9117,7 +9122,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -11021,6 +11026,7 @@
 		"obtainedFrom": {
 			"fromMaps": [
 				"10-1",
+				"12-1",
 				"4-4",
 				"5-4"
 			]
@@ -11805,7 +11811,7 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -14398,7 +14404,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -17626,7 +17632,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -19954,7 +19960,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
-				"exchange": "CN/JP only"
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -20166,7 +20172,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
-				"exchange": "CN/JP only"
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -21821,7 +21827,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Swirling Cherry Blossoms",
-				"exchange": "Only during event: Swirling Cherry Blossoms"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -25235,7 +25241,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -26447,7 +26453,7 @@
 					"cn": "威光",
 					"jp": "威光烈し御召艦"
 				},
-				"description": "10 seconds after start of battle and 20% chance every 20 seconds after: For 8 seconds, receives 20% (50%) of damage other backline ships take, and increases damage dealt to a random enemy by 8% (20%).",
+				"description": "10 seconds after start of battle and 20% chance every 20 seconds after: For 8 seconds, receives 20% (50%) of damage other backline ships take, and increases damage taken by a random enemy by 8% (20%).",
 				"color": "gold"
 			}
 		],
@@ -28538,7 +28544,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -28998,7 +29004,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -33811,7 +33817,7 @@
 					"cn": "幽蝶之梦",
 					"jp": null
 				},
-				"description": "Increase own AVI stat by 5.0% (15.0%) for the first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle.",
+				"description": "Increase own AVI stat by 5.0% (15.0%) for the first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).",
 				"color": "gold"
 			},
 			{
@@ -37566,7 +37572,7 @@
 				"heavy": "CN/JP only",
 				"aviation": false,
 				"limited": "Only during event: Divergent Chessboard (EN)",
-				"exchange": "CN/JP only"
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -37804,7 +37810,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -38647,11 +38653,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "CN/JP Only"
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in the Scherzo of Iron and Blood, Scherzo of Iron and Blood Rerun (B1, B3, D1, D3, SP) and Aurora Noctis (B3, D3, SP) events. Available (JP/CN only) in the Core Data Shop for 1200 \"Core Data\".",
+			"obtainedFrom": "Available in the Scherzo of Iron and Blood, Scherzo of Iron and Blood Rerun (B1, B3, D1, D3, SP) and Aurora Noctis (B3, D3, SP) events. Available in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -39555,7 +39561,9 @@
 			[
 				"Hangar Capacity +1",
 				"Number of Dive Bombers +1",
-				"Dive Bomber Efficiency +5%"
+				"Dive Bomber Efficiency +5%Game displays Fighter Efficiency +5%<",
+				"div><",
+				"div>"
 			],
 			[
 				"Number of Dive Bombers +1",
@@ -39593,7 +39601,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP only",
+				"aviation": true,
 				"limited": "Only during event: Divergent Chessboard (EN)",
 				"exchange": false
 			}
@@ -43397,7 +43405,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Divergent Chessboard (EN)",
-				"exchange": "CN/JP only"
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -53408,7 +53416,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -53610,7 +53618,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -58383,7 +58391,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP only",
+				"aviation": true,
 				"limited": "Only during event: Divergent Chessboard Rerun",
 				"exchange": false
 			}
@@ -58829,7 +58837,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP only",
+				"aviation": true,
 				"limited": false,
 				"exchange": false
 			}
@@ -59470,7 +59478,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "CN/JP only"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -60158,7 +60166,7 @@
 					"cn": "驱逐编队",
 					"jp": "駆逐戦隊"
 				},
-				"description": "During sortie, if escort fleet is compose of Emile Bertin and destroyers only, increases own Speed by 4 and increases own damage against destroyers and cruisers by 5% (20%).",
+				"description": "During sortie, if your Vanguard consists of only this ship and destroyers: increases this ship's Speed by 4 and increases the damage it deals to enemy destroyers and light cruisers by 5% (20%).",
 				"color": "gold"
 			},
 			{
@@ -60441,7 +60449,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "CN/JP Only"
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -61372,7 +61380,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "CN/JP Only"
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -63236,7 +63244,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: 1st Year Anniversary",
-				"exchange": true
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -64177,7 +64185,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -82302,7 +82310,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "Only during event: Northern Overture"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -83002,7 +83010,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Northern Overture",
-				"exchange": "Only during event: Northern Overture"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -84353,7 +84361,7 @@
 					"cn": "锐目的支援者",
 					"jp": "ヴィジランテサポーター"
 				},
-				"description": "At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Crit Rate by 5.0% (15.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 1.5% (6.0%). For the 1st and 2nd battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.",
+				"description": "At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Main Gun Crit Rate by 5.0% (15.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 1.5% (6.0%). For the 1st and 2nd battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -85094,7 +85102,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": "Only during event: Microlayer Medley"
+				"exchange": false
 			}
 		},
 		"obtainedFrom": {
@@ -90934,6 +90942,211 @@
 		],
 		"gallery": []
 	},
+	"473": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Princeton",
+		"id": "473",
+		"names": {
+			"en": "Princeton",
+			"code": "USS Princeton",
+			"cn": "普林斯顿",
+			"jp": "プリンストン",
+			"kr": null
+		},
+		"class": "Independence",
+		"nationality": "Eagle Union",
+		"hullType": "Light Aircraft Carrier",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/94/PrincetonIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "799",
+				"armor": "Medium",
+				"reload": "66",
+				"luck": "49",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "22",
+				"speed": "31",
+				"antiair": "48",
+				"aviation": "64",
+				"oilConsumption": "3",
+				"accuracy": "29",
+				"antisubmarineWarfare": "24"
+			},
+			"level100": {
+				"health": "4130",
+				"armor": "Medium",
+				"reload": "157",
+				"luck": "49",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "56",
+				"speed": "31",
+				"antiair": "222",
+				"aviation": "301",
+				"oilConsumption": "11",
+				"accuracy": "75",
+				"antisubmarineWarfare": "87"
+			},
+			"level120": {
+				"health": "4791",
+				"armor": "Medium",
+				"reload": "181",
+				"luck": "49",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "85",
+				"speed": "31",
+				"antiair": "255",
+				"aviation": "340",
+				"oilConsumption": "11",
+				"accuracy": "89",
+				"antisubmarineWarfare": "99"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Fighters",
+				"minEfficiency": 110,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Torpedo Bombers",
+				"minEfficiency": 140,
+				"maxEfficiency": 155
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 80,
+				"maxEfficiency": 80
+			}
+		},
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 42,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 7,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/1/10/Skill_13710.png",
+				"names": {
+					"en": "Cloud Evasion",
+					"cn": "遁入雨云",
+					"jp": "クラウド・イヴェイジョン"
+				},
+				"description": "When this ship launches an airstrike: decreases the DMG this ship takes from enemy aircraft by 40.0% (70%) for 8 seconds.  After, 40% (70%) chance to launch a special Lv.1 (Lv.10) TBF Avenger airstrike (improves with skill level).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/e4/Skill_13720.png",
+				"names": {
+					"en": "Cool Extinguisher",
+					"cn": "燃烧禁令",
+					"jp": "クール・エクスティンクション"
+				},
+				"description": "When sortied with Birmingham, or at least 2 other Eagle Union ships: reduces Burn damage taken by Vanguard fleet by 5% (15%) and Burn duration on this ship by 1 (3) seconds. If sortied as flagship: reduces Burn duration on Vanguard fleet by 1 (3) seconds.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Number of Fighters +1",
+				"Fighter Efficiency +5%"
+			],
+			[
+				"Hangar Capacity +1",
+				"Number of Torpedo Bombers +1",
+				"Fighter Efficiency +10%"
+			],
+			[
+				"Number of All Planes +1",
+				"Torpedo Bombers Efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light aircraft carrier"
+					],
+					"stat": "Anti-submarine warfare",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"stat": "Reload",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 8,
+				"maxLimitBreak": 16,
+				"maxLevel": 12,
+				"total": 36
+			}
+		},
+		"construction": {
+			"constructionTime": "02:06:40",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": "Only during event: Piercing Through the Saipan Blue",
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Special Construction and point milestone reward during \"Piercing Through the Saipan Blue\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/Princeton.png/681px-Princeton.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/5e/PrincetonChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Canoeing Exercise",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/PrincetonSummer.png/590px-PrincetonSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/PrincetonSummerChibi.png",
+				"info": {
+					"enClient": "skin unavailable",
+					"cnClient": "浅海的特别训练",
+					"jpClient": "カヌートレーニング",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
 	"9001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tone",
 		"id": "9001",
@@ -91196,7 +91409,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -91378,7 +91591,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -91547,7 +91760,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Specialized Core"
 			}
 		},
 		"obtainedFrom": {
@@ -97032,7 +97245,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -99420,7 +99633,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -99700,7 +99913,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -105507,7 +105720,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -106177,7 +106390,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
@@ -109369,7 +109582,7 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -109729,9 +109942,9 @@
 		},
 		"obtainedFrom": {
 			"fromMaps": [
-				"13-1",
 				"7-2",
-				"5-3"
+				"5-3",
+				"13-3"
 			]
 		},
 		"misc": {
@@ -109955,7 +110168,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -110155,7 +110368,7 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -114504,13 +114717,14 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
 			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3\nDivergent Chessboard A2, A4, C4\nIris of Light and Dark A1, A2\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3",
 			"fromMaps": [
 				"6-1",
+				"12-1",
 				"3-2",
 				"3-3",
 				"5-3",
@@ -114950,7 +115164,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": true
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -115315,11 +115529,11 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/7/73/Skill_19010.png",
 				"names": {
-					"en": "(Fate Simulation)",
+					"en": "MKV-Class AP Shells+",
 					"cn": "MKV型穿甲弹+",
 					"jp": "MKV徹甲弾+"
 				},
-				"description": "Increases own AP damage dealt by 20% (40%). (replaces MKV-Class AP Shells)",
+				"description": "Increases own AP damage dealt by 20% (40%). (Fate Simulation replaces MKV-Class AP Shells)",
 				"color": "pink"
 			},
 			{
@@ -115467,7 +115681,7 @@
 			},
 			{
 				"name": "Princess of the Reindeers",
-				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/25/HMS_NeptuneChristmas.png/556px-HMS_NeptuneChristmas.png",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/25/HMS_NeptuneChristmas.png/550px-HMS_NeptuneChristmas.png",
 				"imageCN": null,
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d2/HMS_NeptuneChristmasChibi.png",
@@ -117004,7 +117218,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/e/e7/Skill_19130.png",
 				"names": {
-					"en": "(Fate Simulation) ",
+					"en": "(Fate Simulation)",
 					"cn": "飞行NG!+",
 					"jp": "フライングはNG！+"
 				},
@@ -117315,7 +117529,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/6/67/Skill_19150.png",
 				"names": {
-					"en": "(Fate Simulation) ",
+					"en": "(Fate Simulation)",
 					"cn": "Iron Sight Caliber+",
 					"jp": "アイアンサイト・キャリバー+"
 				},
@@ -117607,7 +117821,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/f/fa/Skill_19180.png",
 				"names": {
-					"en": "(Fate Simulation) ",
+					"en": "(Fate Simulation)",
 					"cn": "苝流·六莲雷+",
 					"jp": "北風流・魚雷ロクレン弾+"
 				},
