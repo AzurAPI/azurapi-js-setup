@@ -611,6 +611,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
@@ -1726,6 +1727,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:15:00",
 			"availableIn": {
@@ -2223,6 +2225,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:15:00",
 			"availableIn": {
@@ -2682,6 +2685,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:15:00",
 			"availableIn": {
@@ -3013,7 +3017,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Southampton subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/39/SouthamptonIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -3242,7 +3246,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Southampton subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/30/SheffieldIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -3740,7 +3744,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Edinburgh subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d4/EdinburghIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -3973,7 +3977,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Edinburgh subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/87/BelfastIcon.png",
 		"rarity": "Super Rare",
 		"stars": {
@@ -4990,7 +4994,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "London subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/11/LondonIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -5394,6 +5398,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:30:00",
 			"availableIn": {
@@ -5470,7 +5475,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "London subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e0/ShropshireIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -5686,7 +5691,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "Kent subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/86/KentIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -5902,7 +5907,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "Kent subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/a/ad/SuffolkIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -6286,6 +6291,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:30:00",
 			"availableIn": {
@@ -6370,7 +6376,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "Norfolk subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d5/NorfolkIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -6586,7 +6592,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "Norfolk subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/12/DorsetshireIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -7207,6 +7213,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:45:00",
 			"availableIn": {
@@ -7741,6 +7748,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:45:00",
 			"availableIn": {
@@ -8829,7 +8837,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/d/d6/Skill_11870.png",
 				"names": {
-					"en": "(Retrofit) Divine Marksman Plus",
+					"en": "(Retrofit) Divine Marksman+",
 					"cn": "神射手·改",
 					"jp": "絶対命中のオールドレディ・改"
 				},
@@ -9115,6 +9123,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Battleship",
 		"construction": {
 			"constructionTime": "04:10:00",
 			"availableIn": {
@@ -9752,7 +9761,7 @@
 					"cn": "最适化武装",
 					"jp": "兵装最適化"
 				},
-				"description": "During battle, 40% (70%) chance of triggering a barrage every 24 seconds. When equipped with Quadruple 356mm main cannon, reduces loading time of the first main salvo by 55% (75%), increases critical chance of main cannon by 10% (20%), reduces spread by 2 and enhances barrage.Barrage preview (gif), Enhanced barrage preview (gif)",
+				"description": "Every 24 seconds after the start of the battle, 40.0% (70.0%) chance to fire a special barrage (barrage damage scales with skill level). If equipped with a Quadruple 356mm main gun, increase the main gun's critical chance by 10.0% (20.0%), reduce its spread by 2.0, decrease the load time of the main gun's first salvo by 55.0% (75.0%), and enhance the special barrage.Barrage preview (gif), Enhanced barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -9762,7 +9771,7 @@
 					"cn": "日不落的辉光",
 					"jp": "沈まぬ太陽の威光"
 				},
-				"description": "Increase own damage dealt to Sakura Empire, Ironblood, Sardegna Empire and Siren factions by 4% (10%). If sortied with 3 or more Royal Navy ships (excluding self): increases own Firepower, Reload, Evasion and Anti-Air by 4% (20%).",
+				"description": "Increase own damage dealt to enemies from Sakura Empire, Iron Blood, Sardegna Empire, and Siren factions by 4.0% (10.0%). If sortied with three or more other Royal Navy ships (excluding this ship): increases own FP, RLD, EVA, and AA stats by 4.0% (20.0%).",
 				"color": "gold"
 			}
 		],
@@ -10754,6 +10763,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:10:00",
 			"availableIn": {
@@ -13441,7 +13451,7 @@
 		},
 		"class": "Fubuki",
 		"nationality": "Sakura Empire",
-		"hullType": "Ayanami subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/22/AyanamiIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -13841,6 +13851,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:23:00",
 			"availableIn": {
@@ -14254,7 +14265,7 @@
 		},
 		"class": "Fubuki",
 		"nationality": "Sakura Empire",
-		"hullType": "Akatsuki subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/d9/AkatsukiIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -14487,7 +14498,7 @@
 		},
 		"class": "Fubuki",
 		"nationality": "Sakura Empire",
-		"hullType": "Akatsuki subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7b/HibikiIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -14715,7 +14726,7 @@
 		},
 		"class": "Fubuki",
 		"nationality": "Sakura Empire",
-		"hullType": "Akatsuki subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/18/IkazuchiIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -14977,7 +14988,7 @@
 		},
 		"class": "Fubuki",
 		"nationality": "Sakura Empire",
-		"hullType": "Akatsuki subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/ed/InazumaIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -16054,11 +16065,11 @@
 				"materials": [
 					"1 / 2x \"DestroyerT2BP\""
 				],
-				"coins": 1200,
+				"coins": 2000,
 				"level": 55,
 				"levelBreakLevel": 2,
 				"levelBreakStars": "★★★★☆",
-				"recurrence": 1,
+				"recurrence": 2,
 				"require": [
 					"G"
 				]
@@ -16075,7 +16086,7 @@
 				"level": 70,
 				"levelBreakLevel": 3,
 				"levelBreakStars": "★★★★★",
-				"recurrence": 1,
+				"recurrence": 2,
 				"require": [
 					"G"
 				]
@@ -16138,6 +16149,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -16908,6 +16920,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -17377,6 +17390,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -18067,6 +18081,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:25:00",
 			"availableIn": {
@@ -18751,6 +18766,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:25:00",
 			"availableIn": {
@@ -19213,6 +19229,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:25:00",
 			"availableIn": {
@@ -19682,6 +19699,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:25:00",
 			"availableIn": {
@@ -20643,6 +20661,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:12:00",
 			"availableIn": {
@@ -21319,6 +21338,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -21820,6 +21840,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:05:00",
 			"availableIn": {
@@ -22287,6 +22308,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -22365,7 +22387,6 @@
 		"class": "Mogami",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Cruiser",
-		"retrofit_hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f0/MogamiIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -22775,6 +22796,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:48:00",
 			"availableIn": {
@@ -23465,6 +23487,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -23925,6 +23948,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -27113,7 +27137,6 @@
 		"class": "Fusou",
 		"nationality": "Sakura Empire",
 		"hullType": "Battleship",
-		"retrofit_hullType": "Aviation Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/6c/FusouIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -27490,6 +27513,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -27600,7 +27624,6 @@
 		"class": "Fusou",
 		"nationality": "Sakura Empire",
 		"hullType": "Battleship",
-		"retrofit_hullType": "Aviation Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/11/YamashiroIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -27977,6 +28000,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -28160,7 +28184,6 @@
 		"class": "Ise",
 		"nationality": "Sakura Empire",
 		"hullType": "Battleship",
-		"retrofit_hullType": "Aviation Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/b/b7/IseIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -28537,6 +28560,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "04:25:00",
 			"availableIn": {
@@ -28610,7 +28634,6 @@
 		"class": "Ise",
 		"nationality": "Sakura Empire",
 		"hullType": "Battleship",
-		"retrofit_hullType": "Aviation Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/92/HyuugaIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -28997,6 +29020,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "04:25:00",
 			"availableIn": {
@@ -30976,6 +31000,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -32313,6 +32338,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aircraft Carrier",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -32839,6 +32865,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aircraft Carrier",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -34656,6 +34683,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -35153,6 +35181,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:33:00",
 			"availableIn": {
@@ -36385,6 +36414,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:10:00",
 			"availableIn": {
@@ -36856,6 +36886,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:10:00",
 			"availableIn": {
@@ -37336,6 +37367,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:20:00",
 			"availableIn": {
@@ -41198,6 +41230,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "00:42:00",
 			"availableIn": {
@@ -41768,6 +41801,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "00:42:00",
 			"availableIn": {
@@ -42541,6 +42575,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
@@ -43894,6 +43929,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:20:00",
 			"availableIn": {
@@ -44342,6 +44378,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:20:00",
 			"availableIn": {
@@ -44792,6 +44829,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:21:00",
 			"availableIn": {
@@ -45297,6 +45335,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:21:00",
 			"availableIn": {
@@ -48415,6 +48454,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -49027,7 +49067,7 @@
 		},
 		"class": "Brooklyn",
 		"nationality": "Eagle Union",
-		"hullType": "St. Louis subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/6e/St._LouisIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -50119,6 +50159,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -50593,6 +50634,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -51727,6 +51769,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
@@ -52190,6 +52233,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
@@ -55229,7 +55273,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Edinburgh subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/8b/Little_BelIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -55640,7 +55684,7 @@
 		},
 		"class": "County",
 		"nationality": "Royal Navy",
-		"hullType": "London subclass",
+		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/80/SussexIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -59922,6 +59966,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:23:00",
 			"availableIn": {
@@ -60442,6 +60487,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
@@ -61373,6 +61419,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
@@ -62055,7 +62102,7 @@
 					"cn": "2700磅的正义",
 					"jp": "2700ポンドの正義"
 				},
-				"description": "Main gun property is changed to SHS with 60/135/115 modifiers. Increases salvo damage depending on max distances Salvo traveled, dealing bonus damage up to 15% (30%).",
+				"description": "Main gun property is changed to SHS with 60/135/115 modifiers with 20% chance to inflict armor break. Increases damage of the shells based upon their distance traveled from 35 to 105 (121), dealing bonus damage up to 15% (30%).",
 				"color": "pink"
 			}
 		],
@@ -63777,7 +63824,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Southampton subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/9e/NewcastleIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -64178,6 +64225,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
@@ -66974,6 +67022,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:07:00",
 			"availableIn": {
@@ -67453,6 +67502,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:07:00",
 			"availableIn": {
@@ -71636,7 +71686,7 @@
 		},
 		"class": "Brooklyn",
 		"nationality": "Eagle Union",
-		"hullType": "St. Louis subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/34/LenaIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -79914,7 +79964,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Southampton subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/39/Sheffield_%C2%B5Icon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -80314,7 +80364,7 @@
 		},
 		"class": "Town",
 		"nationality": "Royal Navy",
-		"hullType": "Southampton subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/0/05/GlasgowIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -81572,7 +81622,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-クリーブランド級"
 				},
-				"description": "Activates All Out Assault Ⅱ: Cleveland Class once every 10 times the Main Guns are fired.",
+				"description": "Activates All Out Assault I (II): Cleveland Class once every 15 (10) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -88030,7 +88080,6 @@
 		"class": "King George V",
 		"nationality": "Royal Navy",
 		"hullType": "Battleship",
-		"retrofit_hullType": "Monarch",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2e/HoweIcon.png",
 		"rarity": "Super Rare",
 		"stars": {
@@ -92426,6 +92475,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:23:00",
 			"availableIn": {
@@ -92902,6 +92952,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:23:00",
 			"availableIn": {
@@ -95863,6 +95914,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
@@ -96517,6 +96569,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -96978,6 +97031,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:26:00",
 			"availableIn": {
@@ -97359,6 +97413,10 @@
 			{
 				"description": "Izumo, Yamashiro, Eldridge, Minneapolis",
 				"url": "https://azurlane.koumakan.jp/w/images/c/c7/Bg_2019.12.19_6.png"
+			},
+			{
+				"description": "Multiple Eldridge in different costumes",
+				"url": "https://azurlane.koumakan.jp/w/images/e/ed/Bg_2020.09.30_3.png"
 			}
 		]
 	},
@@ -98243,7 +98301,7 @@
 		},
 		"class": "Brooklyn",
 		"nationality": "Eagle Union",
-		"hullType": "St. Louis subclass",
+		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2a/HelenaIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -98652,6 +98710,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:15:00",
 			"availableIn": {
@@ -99626,6 +99685,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Cruiser",
 		"construction": {
 			"constructionTime": "01:10:00",
 			"availableIn": {
@@ -101781,6 +101841,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:50:00",
 			"availableIn": {
@@ -103747,6 +103808,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Battleship",
 		"construction": {
 			"constructionTime": "04:00:00",
 			"availableIn": {
@@ -104234,6 +104296,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Battleship",
 		"construction": {
 			"constructionTime": "04:00:00",
 			"availableIn": {
@@ -106004,7 +106067,6 @@
 		"class": "North Carolina",
 		"nationality": "Eagle Union",
 		"hullType": "Battleship",
-		"retrofit_hullType": "South Dakota",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/51/WashingtonIcon.png",
 		"rarity": "Super Rare",
 		"stars": {
@@ -106837,6 +106899,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:15:00",
 			"availableIn": {
@@ -107300,6 +107363,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:20:00",
 			"availableIn": {
@@ -107792,6 +107856,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:00:00",
 			"availableIn": {
@@ -108549,6 +108614,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Aircraft Carrier",
 		"construction": {
 			"constructionTime": "03:40:00",
 			"availableIn": {
@@ -109064,6 +109130,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:40:00",
 			"availableIn": {
@@ -110442,7 +110509,7 @@
 		},
 		"class": "A and B",
 		"nationality": "Royal Navy",
-		"hullType": "A subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e6/AmazonIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -110824,6 +110891,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:19:00",
 			"availableIn": {
@@ -110922,7 +110990,7 @@
 		},
 		"class": "A and B",
 		"nationality": "Royal Navy",
-		"hullType": "A subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/81/AcastaIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -111312,6 +111380,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:19:00",
 			"availableIn": {
@@ -111412,7 +111481,7 @@
 		},
 		"class": "A and B",
 		"nationality": "Royal Navy",
-		"hullType": "A subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f9/ArdentIcon.png",
 		"rarity": "Rare",
 		"stars": {
@@ -111802,6 +111871,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:19:00",
 			"availableIn": {
@@ -111888,7 +111958,7 @@
 		},
 		"class": "A and B",
 		"nationality": "Royal Navy",
-		"hullType": "B subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/53/BeagleIcon.png",
 		"rarity": "Normal",
 		"stars": {
@@ -112117,7 +112187,7 @@
 		},
 		"class": "A and B",
 		"nationality": "Royal Navy",
-		"hullType": "B subclass",
+		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/4/4b/BulldogIcon.png",
 		"rarity": "Normal",
 		"stars": {
@@ -112726,6 +112796,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:21:00",
 			"availableIn": {
@@ -113203,6 +113274,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:21:00",
 			"availableIn": {
@@ -113689,6 +113761,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:21:00",
 			"availableIn": {
@@ -114240,6 +114313,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "00:24:00",
 			"availableIn": {
@@ -114710,6 +114784,7 @@
 				]
 			}
 		},
+		"retrofitHullType": "Destroyer",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {

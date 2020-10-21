@@ -439,8 +439,7 @@ function parseShip(id, name, body) {
         },
         class: doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a") ? doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a").textContent : null,
         nationality: doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent,
-        hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(2)").textContent,
-        retrofit_hullType: doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(4)") ? doc.querySelector(".wikitable tr:nth-child(3) a:nth-child(4)").textContent : undefined
+        hullType: doc.querySelector(".nomobile>div>div:last-child .wikitable tr:nth-child(3) a:nth-child(2)").textContent
     }
     //console.log(ship.names.en); // If any parsing error arised
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) { // Unreleased
@@ -494,6 +493,7 @@ function parseShip(id, name, body) {
         ship.retrofit = true;
         ship.retrofitId = (3000 + parseInt(ship.id)) + "";
         ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
+        ship.retrofitHullType = doc.querySelector(".nomobile>div:nth-child(1) .wikitable tr:nth-child(3) a:nth-child(4)") ? doc.querySelector(".nomobile>div:nth-child(1) .wikitable tr:nth-child(3) a:nth-child(4)").textContent : ship.hullType;
     }
     let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"), ship);
     ship.construction = obtainedFrom.construction;
