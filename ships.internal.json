@@ -1052,7 +1052,8 @@
 			{
 				"name": "Fairly Flavourful Festival",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bc/JunoFestival.png/548px-JunoFestival.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/f7/JunoFestivalWithoutBG.png/717px-JunoFestivalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/JunoFestivalChibi.png",
 				"info": {
@@ -3463,7 +3464,8 @@
 			{
 				"name": "A Moment's Respite",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/05/SheffieldFestival.png/619px-SheffieldFestival.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/4/4e/SheffieldFestivalWithoutBG.png/550px-SheffieldFestivalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/91/SheffieldFestivalChibi.png",
 				"info": {
@@ -3717,7 +3719,8 @@
 			{
 				"name": "Brilliance in Purple",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/73/GloucesterSpring.png/515px-GloucesterSpring.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/7a/GloucesterSpringWithoutBG.png/488px-GloucesterSpringWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/b/b4/Skin_BG_127.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/45/GloucesterSpringChibi.png",
 				"info": {
@@ -10089,7 +10092,8 @@
 			{
 				"name": "Sun Shining Upon Windsor",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e4/Prince_of_WalesSummer.png/398px-Prince_of_WalesSummer.png",
-				"imageCN": null,
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2c/Prince_of_WalesSummerChibi.png",
 				"info": {
@@ -12451,7 +12455,8 @@
 			{
 				"name": "The Lady of the Beach",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/FormidableSummer.png/667px-FormidableSummer.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/3/3a/FormidableSummerWithoutBG.png/643px-FormidableSummerWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/16/FormidableSummerChibi.png",
 				"info": {
@@ -14187,7 +14192,8 @@
 			{
 				"name": "Covert Ops Cloak",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1a/AyanamiBluray.png/459px-AyanamiBluray.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/d/d9/AyanamiBlurayWithoutBG.png/489px-AyanamiBlurayWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/80/AyanamiBlurayChibi.png",
 				"info": {
@@ -14229,7 +14235,8 @@
 			{
 				"name": "Nightfall Raiment",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/16/AyanamiParty.png/662px-AyanamiParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/2/24/AyanamiPartyWithoutBG.png/573px-AyanamiPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/17/AyanamiPartyChibi.png",
 				"info": {
@@ -14956,7 +14963,8 @@
 			{
 				"name": "Dawn's Thunder",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/4b/IkazuchiParty.png/477px-IkazuchiParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/d/d1/IkazuchiPartyWithoutBG.png/495px-IkazuchiPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/ce/IkazuchiPartyChibi.png",
 				"info": {
@@ -15222,7 +15230,8 @@
 			{
 				"name": "Dusk's Lightning",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/42/InazumaParty.png/489px-InazumaParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/4/40/InazumaPartyWithoutBG.png/467px-InazumaPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/62/InazumaPartyChibi.png",
 				"info": {
@@ -17453,7 +17462,8 @@
 			{
 				"name": "Mooncake Merchant",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c0/ShiranuiEvent.png/563px-ShiranuiEvent.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/ShiranuiEventWithoutBG.png/568px-ShiranuiEventWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/40/ShiranuiEventChibi.png",
 				"info": {
@@ -19287,7 +19297,8 @@
 			{
 				"name": "Unending Friendship",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/af/AriakeParty.png/450px-AriakeParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/AriakePartyWithoutBG.png/519px-AriakePartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/1d/AriakePartyChibi.png",
 				"info": {
@@ -25298,7 +25309,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/28/Takao.png/528px-Takao.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/9/9b/TakaoCN.png/528px-TakaoCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/9/9b/TakaoCN.png/528px-TakaoCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png",
 				"info": {
@@ -26360,7 +26372,8 @@
 			{
 				"name": "Hospital Talent",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/ba/KongouMedical.png/524px-KongouMedical.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/6/6e/KongouMedicalWithoutBG.png/540px-KongouMedicalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/0/02/Skin_BG_138.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/69/KongouMedicalChibi.png",
 				"info": {
@@ -26856,7 +26869,8 @@
 			{
 				"name": "Scarlet Innocence",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/53/HarunaParty.png/557px-HarunaParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/0/09/HarunaPartyWithoutBG.png/608px-HarunaPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/35/HarunaPartyChibi.png",
 				"info": {
@@ -33432,7 +33446,8 @@
 			{
 				"name": "Ceremonial Crane",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ZuikakuFestival.png/639px-ZuikakuFestival.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/1/1c/ZuikakuFestivalWithoutBG.png/550px-ZuikakuFestivalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a8/ZuikakuFestivalChibi.png",
 				"info": {
@@ -33668,7 +33683,8 @@
 			{
 				"name": "Forbidden Fruit",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8a/TaihouParty.png/437px-TaihouParty.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/c/c9/TaihouPartyCN.png/437px-TaihouPartyCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/c/c9/TaihouPartyCN.png/437px-TaihouPartyCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/7/7a/Skin_BG_107.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/1/19/TaihouPartyChibi.png",
 				"info": {
@@ -37898,7 +37914,8 @@
 			{
 				"name": "Unfading Smile",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/Prinz_EugenSummer.png/573px-Prinz_EugenSummer.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/2/28/Prinz_EugenSummerCN.png/573px-Prinz_EugenSummerCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/2/28/Prinz_EugenSummerCN.png/573px-Prinz_EugenSummerCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/59/Prinz_EugenSummerChibi.png",
 				"info": {
@@ -41301,7 +41318,8 @@
 			{
 				"name": "Moon Palace Rabbit",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/13/Ning_HaiFestival.png/558px-Ning_HaiFestival.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/3/32/Ning_HaiFestivalCN.png/558px-Ning_HaiFestivalCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/3/32/Ning_HaiFestivalCN.png/558px-Ning_HaiFestivalCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/Ning_HaiFestivalChibi.png",
 				"info": {
@@ -41872,7 +41890,8 @@
 			{
 				"name": "Osmanthus Moon Rabbit",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/bf/Ping_HaiFestival.png/578px-Ping_HaiFestival.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/4/45/Ping_HaiFestivalCN.png/578px-Ping_HaiFestivalCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/4/45/Ping_HaiFestivalCN.png/578px-Ping_HaiFestivalCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/46/Ping_HaiFestivalChibi.png",
 				"info": {
@@ -42162,7 +42181,8 @@
 			{
 				"name": "Shackled Saule",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/09/AvroraPrison.png/396px-AvroraPrison.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/2/21/AvroraPrisonWithoutBG.png/768px-AvroraPrisonWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7e/AvroraPrisonChibi.png",
 				"info": {
@@ -49027,7 +49047,8 @@
 			{
 				"name": "Among the Stalls",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/HonoluluFestival.png/591px-HonoluluFestival.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/2/24/HonoluluFestivalWithoutBG.png/633px-HonoluluFestivalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/df/HonoluluFestivalChibi.png",
 				"info": {
@@ -49270,7 +49291,8 @@
 			{
 				"name": "Blue and White Pottery",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/St._LouisSpring.png/434px-St._LouisSpring.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/0/09/St._LouisSpringCN.png/434px-St._LouisSpringCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/0/09/St._LouisSpringCN.png/434px-St._LouisSpringCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/e/ec/Skin_BG_102.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/5b/St._LouisSpringChibi.png",
 				"info": {
@@ -51138,7 +51160,8 @@
 			{
 				"name": "Seasonal Shogun",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/UrakazeChristmas.png/588px-UrakazeChristmas.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/3/33/UrakazeChristmasCN.png/588px-UrakazeChristmasCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/3/33/UrakazeChristmasCN.png/588px-UrakazeChristmasCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/70/UrakazeChristmasChibi.png",
 				"info": {
@@ -54830,7 +54853,8 @@
 			{
 				"name": "The Reindeer's Present",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/fc/OoshioChristmas.png/503px-OoshioChristmas.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/2/2c/OoshioChristmasCN.png/503px-OoshioChristmasCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/2/2c/OoshioChristmasCN.png/503px-OoshioChristmasCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/2/20/Skin_BG_100.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/71/OoshioChristmasChibi.png",
 				"info": {
@@ -56779,7 +56803,8 @@
 			{
 				"name": "Shortly Before the Fireworks",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f3/I-26Festival.png/490px-I-26Festival.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/76/I-26FestivalWithoutBG.png/494px-I-26FestivalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0c/I-26FestivalChibi.png",
 				"info": {
@@ -58494,7 +58519,8 @@
 			{
 				"name": "Eigenen Raum",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/U-47Party.png/583px-U-47Party.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/4/4a/U-47PartyWithoutBG.png/587px-U-47PartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3c/Skin_BG_115.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/05/U-47PartyChibi.png",
 				"info": {
@@ -60538,7 +60564,8 @@
 			{
 				"name": "Retrofit",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/82/%C3%89mile_BertinKai.png/623px-%C3%89mile_BertinKai.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/4/4c/%C3%89mile_BertinKaiCN.png/622px-%C3%89mile_BertinKaiCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/4/4c/%C3%89mile_BertinKaiCN.png/622px-%C3%89mile_BertinKaiCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/%C3%89mile_BertinKaiChibi.png",
 				"info": {
@@ -60989,7 +61016,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/Surcouf.png/499px-Surcouf.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/0/03/SurcoufCN.png/499px-SurcoufCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/0/03/SurcoufCN.png/499px-SurcoufCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png",
 				"info": {
@@ -62893,7 +62921,8 @@
 			{
 				"name": "Craft Fairytail",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7b/EssexParty.png/332px-EssexParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/4/44/EssexPartyWithoutBG.png/531px-EssexPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7f/EssexPartyChibi.png",
 				"info": {
@@ -63334,7 +63363,8 @@
 			{
 				"name": "Beneath the Black Dress",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/68/AlbacoreParty.png/611px-AlbacoreParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/f6/AlbacorePartyWithoutBG.png/751px-AlbacorePartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/AlbacorePartyChibi.png",
 				"info": {
@@ -64950,7 +64980,8 @@
 			{
 				"name": "Oath",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/62/MinneapolisWedding.png/500px-MinneapolisWedding.png",
-				"imageCN": null,
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/4e/MinneapolisWeddingChibi.png",
 				"info": {
@@ -67995,7 +68026,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/Mullany.png/516px-Mullany.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/a/ae/MullanyCN.png/516px-MullanyCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/a/ae/MullanyCN.png/516px-MullanyCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/47/MullanyChibi.png",
 				"info": {
@@ -68473,7 +68505,8 @@
 			{
 				"name": "The Independent Line",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/92/IndependenceParty.png/474px-IndependenceParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/IndependencePartyWithoutBG.png/377px-IndependencePartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/75/IndependencePartyChibi.png",
 				"info": {
@@ -68718,7 +68751,8 @@
 			{
 				"name": "Explorer of the Lost World",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/ef/Shangri-LaMisc.png/598px-Shangri-LaMisc.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/7e/Shangri-LaMiscWithoutBG.png/598px-Shangri-LaMiscWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/2d/Shangri-LaMiscChibi.png",
 				"info": {
@@ -76662,7 +76696,8 @@
 			{
 				"name": "Sunday Aquarium Visit",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d0/AylwinCasualWithoutBG.png/413px-AylwinCasualWithoutBG.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/d/d0/AylwinCasualWithoutBG.png/413px-AylwinCasualWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/AylwinCasualChibi.png",
 				"info": {
@@ -77575,7 +77610,8 @@
 			{
 				"name": "The Glory of Naples",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/39/LittorioSummer.png/630px-LittorioSummer.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/LittorioSummerWithoutBG.png/722px-LittorioSummerWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7d/LittorioSummerChibi.png",
 				"info": {
@@ -78465,7 +78501,8 @@
 			{
 				"name": "Summer's Hotness?",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/TrentoSummer.png/715px-TrentoSummer.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/2/26/TrentoSummerWithoutBG.png/838px-TrentoSummerWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e5/TrentoSummerChibi.png",
 				"info": {
@@ -79140,7 +79177,8 @@
 			{
 				"name": "A Cute, Sharky Reverie",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c4/U-110Casual.png/461px-U-110Casual.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/U-110CasualWithoutBG.png/611px-U-110CasualWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/a/a0/U-110CasualChibi.png",
 				"info": {
@@ -81702,7 +81740,8 @@
 			{
 				"name": "Dapper Gangstress",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5f/BiloxiSpring.png/553px-BiloxiSpring.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/ff/BiloxiSpringWithoutBG.png/574px-BiloxiSpringWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c6/BiloxiSpringChibi.png",
 				"info": {
@@ -82637,7 +82676,8 @@
 			{
 				"name": "The Bound Cruiser",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/66/TashkentPrison.png/710px-TashkentPrison.png",
-				"imageCN": null,
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0d/TashkentPrisonChibi.png",
 				"info": {
@@ -83103,7 +83143,8 @@
 			{
 				"name": "The Captive Cavalier",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/58/ChapayevPrison.png/456px-ChapayevPrison.png",
-				"imageCN": null,
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/92/ChapayevPrisonChibi.png",
 				"info": {
@@ -83572,7 +83613,8 @@
 			{
 				"name": "The Lackadaisical Lookout",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/97/Sovetskaya_RossiyaPrison.png/505px-Sovetskaya_RossiyaPrison.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/f0/Sovetskaya_RossiyaPrisonWithoutBG.png/698px-Sovetskaya_RossiyaPrisonWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/59/Sovetskaya_RossiyaPrisonChibi.png",
 				"info": {
@@ -86261,7 +86303,8 @@
 			{
 				"name": "Overthinking Summer",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/02/TartuSummer.png/643px-TartuSummer.png",
-				"imageCN": null,
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/05/TartuSummerChibi.png",
 				"info": {
@@ -86970,7 +87013,8 @@
 			{
 				"name": "White Sand Paradise",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/ba/Alg%C3%A9rieSummer.png/662px-Alg%C3%A9rieSummer.png",
-				"imageCN": null,
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d2/Alg%C3%A9rieSummerChibi.png",
 				"info": {
@@ -88739,7 +88783,8 @@
 			{
 				"name": "Pure White Angel",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/HermioneMedical.png/572px-HermioneMedical.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/c/c9/HermioneMedicalWithoutBG.png/208px-HermioneMedicalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/0/02/Skin_BG_138.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/HermioneMedicalChibi.png",
 				"info": {
@@ -97113,7 +97158,8 @@
 			{
 				"name": "Prideful Fairy of the Ballroom",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/18/HammannParty.png/541px-HammannParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/HammannPartyWithoutBG.png/593px-HammannPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/7c/HammannPartyChibi.png",
 				"info": {
@@ -102180,7 +102226,8 @@
 			{
 				"name": "The Light of Circle City",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/IndianapolisParty.png/513px-IndianapolisParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/b/b7/IndianapolisPartyWithoutBG.png/532px-IndianapolisPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/95/IndianapolisPartyChibi.png",
 				"info": {
@@ -103142,7 +103189,8 @@
 			{
 				"name": "The General's Banquet",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/20/WichitaParty.png/596px-WichitaParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/6/6c/WichitaPartyWithoutBG.png/529px-WichitaPartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/7/77/WichitaPartyChibi.png",
 				"info": {
@@ -106956,7 +107004,8 @@
 			{
 				"name": "Retrofit",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b8/Long_IslandKai.png/554px-Long_IslandKai.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/6/6e/Long_IslandKaiCN.png/554px-Long_IslandKaiCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/6/6e/Long_IslandKaiCN.png/554px-Long_IslandKaiCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/02/Long_IslandKaiChibi.png",
 				"info": {
@@ -109760,7 +109809,8 @@
 			{
 				"name": "Heroic Finery",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/EnterpriseParty.png/604px-EnterpriseParty.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/75/EnterprisePartyWithoutBG.png/671px-EnterprisePartyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/28/EnterprisePartyChibi.png",
 				"info": {
@@ -113847,7 +113897,8 @@
 			{
 				"name": "Sea Star on Shore",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/98/CygnetSummer.png/458px-CygnetSummer.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/a/a6/CygnetSummerCN.png/458px-CygnetSummerCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/a/a6/CygnetSummerCN.png/458px-CygnetSummerCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/81/CygnetSummerChibi.png",
 				"info": {
@@ -115757,7 +115808,8 @@
 			{
 				"name": "Princess of the Reindeers",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/25/HMS_NeptuneChristmas.png/550px-HMS_NeptuneChristmas.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/a/a0/HMS_NeptuneChristmasWithoutBG.png/556px-HMS_NeptuneChristmasWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d2/HMS_NeptuneChristmasChibi.png",
 				"info": {
@@ -118035,7 +118087,8 @@
 			{
 				"name": "Celebration Conquest!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f8/KitakazeFestival.png/533px-KitakazeFestival.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/1/15/KitakazeFestivalWithoutBG.png/533px-KitakazeFestivalWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/f/f5/Skin_BG_114.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bf/KitakazeFestivalChibi.png",
 				"info": {
@@ -118569,7 +118622,8 @@
 			{
 				"name": "Dark Raiments of Gagaku",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/Friedrich_der_Gro%C3%9FeNew_Year.png/705px-Friedrich_der_Gro%C3%9FeNew_Year.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/6/6d/Friedrich_der_Gro%C3%9FeNew_YearWithoutBG.png/800px-Friedrich_der_Gro%C3%9FeNew_YearWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/93/Friedrich_der_Gro%C3%9FeNew_YearChibi.png",
 				"info": {
@@ -118845,7 +118899,8 @@
 			{
 				"name": "Tropical Environs Acclimation Service Equipment",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/GascogneSummer.png/516px-GascogneSummer.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/6/6b/GascogneSummerWithoutBG.png/537px-GascogneSummerWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/98/GascogneSummerChibi.png",
 				"info": {
@@ -119111,7 +119166,8 @@
 			{
 				"name": "Summery Date!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/ed/CheshireSummer.png/649px-CheshireSummer.png",
-				"imageCN": null,
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/CheshireSummerWithoutBG.png/699px-CheshireSummerWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/9/93/Skin_BG_133.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e0/CheshireSummerChibi.png",
 				"info": {
@@ -120813,7 +120869,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6d/Vert.png/605px-Vert.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/0/06/VertCN.png/605px-VertCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/0/06/VertCN.png/605px-VertCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/33/VertCNChibi.png",
 				"info": {
@@ -121220,7 +121277,8 @@
 			{
 				"name": "Goddesses' Smile",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9d/Black_HeartCollab.png/454px-Black_HeartCollab.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/f/ff/Black_HeartCollabCN.png/464px-Black_HeartCollabCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/f/ff/Black_HeartCollabCN.png/464px-Black_HeartCollabCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/4/4f/Skin_BG_202.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/23/Black_HeartCollab_CNChibi.png",
 				"info": {
@@ -121612,7 +121670,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2f/Green_Heart.png/589px-Green_Heart.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/9/9f/Green_HeartCN.png/589px-Green_HeartCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/9/9f/Green_HeartCN.png/589px-Green_HeartCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/89/Green_HeartChibi.png",
 				"info": {
@@ -121623,7 +121682,8 @@
 			{
 				"name": "Goddesses' Moment",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7a/Green_HeartCollab.png/550px-Green_HeartCollab.png",
-				"imageCN": "https://azurlane.koumakan.jp/w/images/thumb/4/40/Green_HeartCollabCN.png/550px-Green_HeartCollabCN.png",
+				"nobg": null,
+				"cn": "https://azurlane.koumakan.jp/w/images/thumb/4/40/Green_HeartCollabCN.png/550px-Green_HeartCollabCN.png",
 				"background": "https://azurlane.koumakan.jp/w/images/8/88/Skin_BG_204.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f5/Green_HeartCollab_CNChibi.png",
 				"info": {

@@ -103,9 +103,11 @@ async function refreshShipImages() {
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
             let image_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_");
             let image_path_cn = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_");
+            let image_path_nobg = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.nobg').replace(/ +/g, "_");
             let chibi_path = root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_");
             if (skin.image) await fetchImage(skin.image, image_path);
-            if (skin.imageCN) await fetchImage(skin.imageCN, image_path_cn);
+            if (skin.cn) await fetchImage(skin.cn, image_path_cn);
+            if (skin.nobg) await fetchImage(skin.nobg, image_path_nobg);
             process.stdout.write(".");
             if (skin.chibi) await fetchImage(skin.chibi, chibi_path);
             else if (skin.name !== "Original Art" && !ship.unreleased) console.log("\n" + ship.names.en + " is missing a chibi for " + skin.name + "\n")
@@ -129,7 +131,6 @@ async function refreshShipImages() {
             let path = "./images/skills/" + key + "/" + skillName + ".png";
             if (skill.icon !== null)
                 await fetchImage(skill.icon, path);
-            return;
         };
         if (!fs.existsSync("./images/skills/" + key)) fs.mkdirSync("./images/skills/" + key);
         for (let skill of ship.skills) {
@@ -137,7 +138,7 @@ async function refreshShipImages() {
             process.stdout.write(".");
         }
         shipCounter++;
-        if (shipCounter % 50 == 0) process.stdout.write(` ${shipCounter} Done\n|`);
+        if (shipCounter % 50 === 0) process.stdout.write(` ${shipCounter} Done\n|`);
     }
     console.log("\nDone");
 }
@@ -255,11 +256,9 @@ function publishShips() {
         for (let skin of ship.skins) {
             process.stdout.write(".");
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
-            if (typeof(skin.image) === "string") skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-            else {
-                skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-                skin.imageCN = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-            }
+            if (skin.image) skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, ''); else skin.image = undefined;
+            if (skin.cn) skin.cn = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, ''); else skin.cn = undefined;
+            if (skin.nobg) skin.nobg = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, ''); else skin.nobg = undefined;
             skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.background = skin.background ? IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1) : null;
             skin.info.live2dModel = skin.info.live2dModel === "Yes" // true if and only if "Yes"
@@ -409,13 +408,12 @@ async function fetchEquipment(href, name, category, online) {
         const body = await fetch(href);
         process.stdout.write(".| ");
         fs.writeFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', body);
-        let equipment = parseEquipment(href, category, body);
-        return equipment;
+        return parseEquipment(href, category, body);
     } else {
         if (!fs.existsSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html')) return fetchEquipment(href, name, category, true); // Enforcing
         process.stdout.write("local ");
-        let equipment = parseEquipment(href, category, fs.readFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', 'utf8')); // Read from local cache
-        return equipment;
+        // Read from local cache
+        return parseEquipment(href, category, fs.readFileSync('./web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html', 'utf8'));
     }
 }
 
@@ -702,6 +700,7 @@ function parseGallery(name, body) {
     Array.from(doc.querySelectorAll(".mw-parser-output>.tabber>.tabbertab")).forEach(tab => {
         if (tab.querySelector(".tabbertab")) image = {
             normal: tab.querySelector(".tabbertab[title=Normal] .shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".tabbertab[title=Normal] .shipskin-image img").src : null,
+            nobg: tab.querySelector('.tabbertab[title="Without Background"] .shipskin-image img') ? "https://azurlane.koumakan.jp" + tab.querySelector('.tabbertab[title="Without Background"] .shipskin-image img').src : null,
             cn: tab.querySelector(".tabbertab[title=CN] .shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".tabbertab[title=CN] .shipskin-image img").src : null
         };
         else image = tab.querySelector(".shipskin-image img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-image img").src : null;
@@ -709,8 +708,9 @@ function parseGallery(name, body) {
         tab.querySelectorAll(".shipskin-table tr").forEach(row => info[camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim())] = row.getElementsByTagName("td")[0].textContent.trim());
         skins.push({
             name: tab.title,
-            image: typeof(image) === "string" || (!image) ? image : image.normal,
-            imageCN: typeof(image) === "string" || (!image) ? undefined : image.cn,
+            image: typeof (image) === "string" || (!image) ? image : image.normal,
+            nobg: typeof (image) === "string" || (!image) ? undefined : image.nobg,
+            cn: typeof (image) === "string" || (!image) ? undefined : image.cn,
             background: tab.querySelector(".res img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".res img").getAttribute("src") : null,
             chibi: tab.querySelector(".shipskin-lower .shipskin-chibi img") ? "https://azurlane.koumakan.jp" + tab.querySelector(".shipskin-lower .shipskin-chibi img").getAttribute("src") : null,
             info: info
@@ -998,7 +998,7 @@ function fetch(url) {
 
 function head(url) {
     return new Promise((resolve, reject) => {
-        request.head(url, function(err, res, body) {
+        request.head(url, function (err, res, body) {
             resolve({
                 err: err,
                 res: res,
@@ -1058,7 +1058,7 @@ function deleteAll(path) {
     var files = [];
     if (fs.existsSync(path)) {
         files = fs.readdirSync(path);
-        files.forEach(function(file, index) {
+        files.forEach(function (file, index) {
             var curPath = path + "/" + file;
             if (fs.statSync(curPath).isDirectory()) { // recurse
                 deleteAll(curPath);
