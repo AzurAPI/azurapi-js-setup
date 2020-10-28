@@ -258,7 +258,11 @@ function publishShips() {
             let skin_folder = SKIN_NAME_PATH.replace('${name}', skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_"));
             if (skin.image) skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, ''); else skin.image = undefined;
             if (skin.cn) skin.cn = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, ''); else skin.cn = undefined;
-            if (skin.nobg) skin.nobg = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.cn').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, ''); else skin.nobg = undefined;
+            if (skin.nobg) {
+                skin.bg = skin.image;
+                skin.image = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'image.nobg').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+            }
+            skin.nobg = undefined;
             skin.chibi = IMAGE_REPO_URL + root_folder + skin_folder + SKIN_FILE_NAME.replace('${type}', 'chibi').replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
             skin.background = skin.background ? IMAGE_REPO_URL + "images/backgrounds/" + skin.background.substring(skin.background.lastIndexOf('/') + 1) : null;
             skin.info.live2dModel = skin.info.live2dModel === "Yes" // true if and only if "Yes"
@@ -276,8 +280,7 @@ function publishShips() {
         ship.gallery = newGallery;
         let publishSkill = async (skill) => {
             if (!skill) return {};
-            let path = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
-            skill.icon = path;
+            skill.icon = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
             return skill;
         };
         for (let i = 0; i < ship.skills[i].length; i++)
