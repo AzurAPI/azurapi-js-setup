@@ -75871,7 +75871,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -76098,7 +76098,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -76317,7 +76317,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -80241,7 +80241,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be Constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -87297,7 +87297,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -87742,7 +87742,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -91490,7 +91490,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": "Only during event: Universe in Unison",
 				"exchange": false
 			}
 		},
@@ -91701,6 +91701,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/Tashkent_%C2%B5.png/524px-Tashkent_%C2%B5.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/Tashkent_%C2%B5WithoutBG.png/698px-Tashkent_%C2%B5WithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/f/f6/Tashkent_%C2%B5Chibi.png",
 				"info": {
@@ -91870,7 +91872,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": "Only during event: Universe in Unison",
 				"exchange": false
 			}
 		},
@@ -91891,6 +91893,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c4/Dido_%C2%B5.png/536px-Dido_%C2%B5.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/a/af/Dido_%C2%B5WithoutBG.png/688px-Dido_%C2%B5WithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/c/c4/Dido_%C2%B5Chibi.png",
 				"info": {
@@ -92049,7 +92053,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": "Only during event: Universe in Unison",
 				"exchange": false
 			}
 		},
@@ -92070,6 +92074,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/de/Albacore_%C2%B5.png/529px-Albacore_%C2%B5.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/Albacore_%C2%B5WithoutBG.png/503px-Albacore_%C2%B5WithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/db/Albacore_%C2%B5Chibi.png",
 				"info": {
@@ -92238,7 +92244,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": "Only during event: Universe in Unison",
 				"exchange": false
 			}
 		},
@@ -92259,6 +92265,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/55/Baltimore_%C2%B5.png/574px-Baltimore_%C2%B5.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/f6/Baltimore_%C2%B5WithoutBG.png/550px-Baltimore_%C2%B5WithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0c/Baltimore_%C2%B5Chibi.png",
 				"info": {
@@ -92427,7 +92435,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": false,
 				"exchange": false
 			}
 		},
@@ -92561,7 +92569,7 @@
 					"cn": "星占之歌",
 					"jp": "走査機オースペクスμ"
 				},
-				"description": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by 15.0% (30.0%) for 4s and randomly activates one of the following effects: a) Decreases all enemies' EVA by 5.0% (15.0%) for 10s, b) For 10s, increases your Vanguard's DMG dealt by 5.0% (15.0%) and decreases your Main Fleet's DMG taken by 4.0% (10.0%), c) For 10s, increases your Main Fleet's DMG dealt by 4.0% (10.0%) and decreases your Vanguard's DMG taken by 4.0% (10.0%).",
+				"description": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by 15.0% (30.0%) for 4s and randomly activates one of the following effects:\nDecreases all enemies' EVA by 5.0% (15.0%) for 10s.\nFor 10s, increases your Vanguard's DMG dealt by 5.0% (15.0%) and decreases your Main Fleet's DMG taken by 4.0% (10.0%).\nFor 10s, increases your Main Fleet's DMG dealt by 4.0% (10.0%) and decreases your Vanguard's DMG taken by 4.0% (10.0%).",
 				"color": "gold"
 			},
 			{
@@ -92603,16 +92611,17 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available as Point Milestone Reward during the \"Universe in Unison\" event",
 			"fromMaps": []
 		},
 		"misc": {
@@ -92629,6 +92638,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/Illustrious_%C2%B5.png/559px-Illustrious_%C2%B5.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/5/5f/Illustrious_%C2%B5WithoutBG.png/635px-Illustrious_%C2%B5WithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/8b/Illustrious_%C2%B5Chibi.png",
 				"info": {
@@ -92798,11 +92809,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": true,
+				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available as mini-game reward during the \"Universe in Unison\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -127091,7 +127103,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -127297,7 +127309,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot be constructed",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
