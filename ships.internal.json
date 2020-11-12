@@ -33916,7 +33916,7 @@
 					"cn": "幽蝶之梦",
 					"jp": null
 				},
-				"description": "Increase own AVI stat by 5.0% (15.0%) for the first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).",
+				"description": "Increase own AVI stat by 5.0% (15.0%) during her first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).",
 				"color": "gold"
 			},
 			{
@@ -34763,7 +34763,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -89252,7 +89252,7 @@
 					"cn": "雷击集中模式",
 					"jp": "雷撃集中…ですね！"
 				},
-				"description": "At the start of the battle and every 20s after that: for 10s, decreases the DMG this ships takes from torpedoes by 6% (20%) and changes this ship's torpedo barrage.",
+				"description": "At the start of the battle and every 20s after that: for 10s, decreases the DMG this ships takes from torpedoes by 6% (20%) and changes this ship's torpedo barrage to line with no spread.",
 				"color": "deepskyblue"
 			},
 			{
@@ -91297,13 +91297,13 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "Only during event: Piercing Through the Saipan Blue",
+				"aviation": "Only during event: Sundered Blue",
 				"limited": false,
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Special Construction and point milestone reward during \"Piercing Through the Saipan Blue\" Event.",
+			"obtainedFrom": "Available in Special Construction and point milestone reward during \"Sundered Blue\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -91311,7 +91311,10 @@
 			"pixiv": null,
 			"twitter": null,
 			"web": null,
-			"voice": null
+			"voice": {
+				"name": "Shiomi Yukina",
+				"url": "https://twitter.com/shiomi_yukina"
+			}
 		},
 		"skins": [
 			{
@@ -91325,12 +91328,12 @@
 				}
 			},
 			{
-				"name": "Canoeing Exercise",
+				"name": "Canoe Training",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/PrincetonSummer.png/590px-PrincetonSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/PrincetonSummerChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Canoe Training",
 					"cnClient": "浅海的特别训练",
 					"jpClient": "カヌートレーニング",
 					"obtainedFrom": "Skin Shop",
@@ -92188,7 +92191,7 @@
 					"cn": "超限充能",
 					"jp": "対甲弾ハイパーチャージμ"
 				},
-				"description": "At the start of the battle, and with a 40.0% (70.0%) chance every 20s after that: changes this ship's ammo type to Lv.1 (Lv.10) special AP for 10s.",
+				"description": "At the start of the battle, and with a 40.0% (70.0%) chance every 20s after that: changes this ship's main gun ammo type to special HEIn game displays AP with 90/100/110 (100/110/120) modifiers and speed 180 for 10s.",
 				"color": "pink"
 			},
 			{
@@ -93698,12 +93701,12 @@
 				}
 			},
 			{
-				"name": "Relaxing Summer",
+				"name": "Summer Longing",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e0/DeweySummer.png/693px-DeweySummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/DeweySummerChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Summer Longing",
 					"cnClient": "夏日憧憬",
 					"jpClient": "夏に憧れ",
 					"obtainedFrom": "Skin Shop",
@@ -94859,7 +94862,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -113636,12 +113639,12 @@
 				}
 			},
 			{
-				"name": "Ardent's Valentine's Day",
+				"name": "Ardent Valentine",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/60/ArdentSchool.png/573px-ArdentSchool.png",
 				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/bb/ArdentSchoolChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Ardent Valentine",
 					"cnClient": "热心的情人节",
 					"jpClient": "バレンタインの熱心",
 					"obtainedFrom": "Skin Shop",
