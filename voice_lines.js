@@ -1,7 +1,7 @@
 const fs = require('fs');
 const nodefetch = require('node-fetch');
 const JSDOM = require('jsdom').JSDOM;
-const AUDIO_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
+// const AUDIO_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
 let SHIPS = require("./ships.internal.json");
 let VOICE_LINES = require("./voice_lines.json");
 
@@ -11,7 +11,7 @@ const HEADERS = {
     'cookie': 'VEE=wikitext'
 };
 exports.refreshVoiceLines = async () => {
-    for (let key in SHIPS) {
+    for (let key in Object.keys(SHIPS)) {
         let ship = SHIPS[key];
         console.log("Voice Lines of ('" + key + "') " + ship.names.code);
         let text = await fetch(ship.wikiUrl + "/Quotes", "./web/ships.quotes/" + ship.names.en + ".html");
@@ -117,7 +117,7 @@ function findElSkinName(skins, name) {
 function camelize(str) {
     return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, (match, i) => {
         if (+match === 0) return "";
-        return i == 0 ? match.toLowerCase() : match.toUpperCase();
+        return i === 0 ? match.toLowerCase() : match.toUpperCase();
     });
 }
 
