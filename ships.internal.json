@@ -11409,7 +11409,7 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -44114,7 +44114,7 @@
 			},
 			"twitter": {
 				"name": "桜庭光",
-				"url": "https://twitter.com/loveindog"
+				"url": "https://twitter.com/loveindoghikaru"
 			},
 			"web": {
 				"name": "櫻庭光_",
@@ -44331,7 +44331,10 @@
 				"name": "桜庭ひかる",
 				"url": "https://www.pixiv.net/member.php?id=1423422"
 			},
-			"twitter": null,
+			"twitter": {
+				"name": "桜庭光",
+				"url": "https://twitter.com/loveindoghikaru"
+			},
 			"web": {
 				"name": "櫻庭光_",
 				"url": "https://weibo.com/u/5574429612"
@@ -44542,7 +44545,10 @@
 				"name": "桜庭ひかる",
 				"url": "https://www.pixiv.net/member.php?id=1423422"
 			},
-			"twitter": null,
+			"twitter": {
+				"name": "桜庭光",
+				"url": "https://twitter.com/loveindoghikaru"
+			},
 			"web": {
 				"name": "櫻庭光_",
 				"url": "https://weibo.com/u/5574429612"
@@ -94000,7 +94006,7 @@
 					"cn": "遁入雨云",
 					"jp": "クラウド・イヴェイジョン"
 				},
-				"description": "When this ship launches an Airstrike (airstrikes launched via skills do not count): decreases this ship's aviation DMG taken by 40.0% (70%) for 8s. When this buff wears off: 40.0% (70%) chance to launch an additional Lv.1 (Lv.10) TBF Avenger airstrike (DMG is based on the skill's level.)",
+				"description": "When this ship launches an Airstrike, decrease this ship's aviation DMG taken by 40.0% (70.0%) for 8 seconds. When this buff wears off, 40.0% (70.0%) chance to launch a TBF Avenger plane barrage (barrage damage scales with skill level).",
 				"color": "deepskyblue"
 			},
 			{
@@ -94753,7 +94759,10 @@
 				"aviation": "0",
 				"oilConsumption": "2",
 				"accuracy": "66",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "243",
+				"ammunition": "",
+				"huntingRange": []
 			},
 			"level100": {
 				"health": "1536",
@@ -94768,7 +94777,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "172",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "243",
+				"ammunition": "",
+				"huntingRange": []
 			},
 			"level120": {
 				"health": "1843",
@@ -94783,7 +94795,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "193",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "243",
+				"ammunition": "",
+				"huntingRange": []
 			}
 		},
 		"slots": {
