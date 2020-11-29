@@ -12,11 +12,11 @@
 			"focus": "Firepower",
 			"name": "DD Gun"
 		},
-		"nationality": "Vichya Dominion",
+		"nationality": "Iris Libre",
 		"image": "https://azurlane.koumakan.jp/w/images/8/82/7320.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -26,13 +26,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Historical equipment on Dunkerque. Currently unobtainable.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -135,7 +135,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/9/9e/21000.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -145,6 +145,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -401,7 +402,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/3/3f/21300.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -411,6 +412,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -682,7 +684,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/5/53/31100.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -692,6 +694,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -963,7 +966,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/c/cd/11100.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -973,6 +976,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -1240,11 +1244,11 @@
 			"focus": "Firepower",
 			"name": "DD Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/3/33/41000.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -1254,6 +1258,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -1506,11 +1511,11 @@
 			"focus": "Firepower",
 			"name": "DD Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/1/1a/7200.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -1520,6 +1525,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -1787,11 +1793,11 @@
 			"focus": "Firepower",
 			"name": "DD Gun"
 		},
-		"nationality": "Vichya Dominion",
+		"nationality": "Iris Libre",
 		"image": "https://azurlane.koumakan.jp/w/images/7/79/50000.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -1801,6 +1807,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -1991,7 +1998,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/b/b8/50700.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -2001,13 +2008,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Skybound Oratorio",
-			"notes": "Icon was previously used for the Single 138.6mm (Mle 1929).",
-			"animation": null
+			"notes": "Icon was previously used for the Single 138.6mm (Mle 1929)."
 		},
 		"tiers": {
 			"T1": {
@@ -2272,7 +2279,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/b/bc/50100.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -2282,6 +2289,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -2553,7 +2561,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/e/eb/11000.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -2563,6 +2571,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -2834,7 +2843,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/6/67/21200.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -2844,6 +2853,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -3115,7 +3125,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/3/3d/31000.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -3125,6 +3135,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -3396,7 +3407,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/3/39/21100.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -3406,6 +3417,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -3677,7 +3689,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/5/5d/21600.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -3687,11 +3699,12 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 3).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/3/37/Bullet_pattern_equip_21400.gif"
 		},
@@ -3806,6 +3819,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -3915,16 +3929,17 @@
 		"image": "https://azurlane.koumakan.jp/w/images/3/30/55400.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "unspecified",
-			"heavyCruiser": "unspecified",
-			"monitor": null,
-			"largeCruiser": "unspecified",
-			"battleship": "unspecified",
-			"battlecruiser": "unspecified",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
 			"aviationBattleship": null,
 			"aircraftCarrier": null,
-			"lightCarrier": "unspecified",
+			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -4196,7 +4211,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/4/40/21400.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -4206,6 +4221,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -4477,7 +4493,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/9/90/11200.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -4487,6 +4503,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -4758,7 +4775,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/a/a7/31200.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -4768,6 +4785,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -5035,11 +5053,11 @@
 			"focus": "Firepower",
 			"name": "DD Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/a/a1/41100.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -5049,6 +5067,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -5316,7 +5335,7 @@
 			"focus": "Firepower",
 			"name": "DD Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/a/ae/85000.png",
 		"fits": {
 			"destroyer": "primary",
@@ -5330,6 +5349,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -5520,7 +5540,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/5/50/50500.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -5530,6 +5550,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -5639,7 +5660,7 @@
 		"image": "https://azurlane.koumakan.jp/w/images/b/bf/21500.png",
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "secondary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "secondary",
@@ -5649,6 +5670,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": null
 		},
@@ -5927,9 +5949,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -6172,8 +6195,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "Normal",
-						"formatted": "Normal"
+						"value": "HE+",
+						"formatted": "HE+"
 					},
 					"characteristic": {
 						"type": "value",
@@ -6197,10 +6220,10 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"image": "https://azurlane.koumakan.jp/w/images/b/bd/7100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -6208,15 +6231,16 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Yat Sen.",
-			"notes": "Volley Time currently unknown; 0.30s is an educated guess.",
+			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/8/86/Bullet_pattern_equip_7000.gif"
 		},
 		"tiers": {
@@ -6316,7 +6340,7 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/8/86/42000.png",
 		"fits": {
 			"destroyer": null,
@@ -6327,9 +6351,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -6584,6 +6609,125 @@
 			}
 		}
 	},
+	"Single 150mm (TbtsK C/36)": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Single_150mm_(TbtsK_C/36)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Single 150mm Main Gun (TbtsK C/36)",
+			"cn": "单装TbtsKC36式150mm主炮",
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"nationality": "Iron Blood",
+		"image": "https://azurlane.koumakan.jp/w/images/c/c7/42300.png",
+		"fits": {
+			"destroyer": "Z23, Z25, Z26 only",
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
+			"lightCarrier": "\"Houshou\" only",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Stock equipment on Z26.",
+			"notes": "No notes"
+		},
+		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "5",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"value": "0",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "7",
+						"max": "10",
+						"multiplier": "3",
+						"formatted": "7 × 3 → 10 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "3.90s",
+						"max": "3.76s",
+						"per": "volley",
+						"formatted": "3.90s → 3.76s per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "25",
+						"unit": "° random aim",
+						"formatted": "25° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 45,
+						"formatted": "Firing: 65\nShell: 45"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "105",
+						"unit": "%",
+						"formatted": "105%"
+					},
+					"ammoType": {
+						"type": "value",
+						"value": "AP",
+						"formatted": "AP"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Lock-On",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		}
+	},
 	"Single 152mm (6\"/45 Pattern 1892)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Single_152mm_(6%22/45_Pattern_1892)",
 		"category": "Light Cruiser Guns",
@@ -6597,7 +6741,7 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/c/c0/7000.png",
 		"fits": {
 			"destroyer": null,
@@ -6608,9 +6752,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -6800,7 +6945,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/7/72/22000.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -6808,9 +6953,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -7092,13 +7238,13 @@
 			"aircraftCarrier": "\"Béarn\" only",
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Skybound Oratorio map dropStock equipment on Béarn",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -7197,10 +7343,10 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/9/9f/42100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -7208,9 +7354,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -7481,7 +7628,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/c/c0/12100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -7489,15 +7636,17 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-2, 9-4, 10-2, 10-3, 11-4, 13-1, T3/T4 Eagle Tech Box",
 			"notes": "Fires 1 volley with 6 projectiles in an arc towards the target.",
+			"blueprints": "45 Blueprints can be exchanged for Triple 152mm (6\"/47 Mk 17 DP Prototype) blueprints through research.",
 			"animation": "https://azurlane.koumakan.jp/w/images/1/15/Bullet_pattern_equip_12140.gif"
 		},
 		"tiers": {
@@ -7734,8 +7883,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE",
-						"formatted": "HE"
+						"value": "HE+",
+						"formatted": "HE+"
 					},
 					"characteristic": {
 						"type": "value",
@@ -7762,7 +7911,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/b/b3/12200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -7770,14 +7919,15 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 2).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/1/18/Bullet_pattern_equip_12200.gif"
 		},
@@ -7881,7 +8031,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/e/e6/22200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -7889,9 +8039,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -8000,7 +8151,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/5/5e/22260.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -8008,14 +8159,15 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 1).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/0/0d/Bullet_pattern_equip_22260.gif"
 		},
@@ -8116,10 +8268,10 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/8/85/85120.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -8127,9 +8279,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -8400,7 +8553,7 @@
 		"nationality": "Iris Libre",
 		"image": "https://azurlane.koumakan.jp/w/images/8/83/50200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -8408,9 +8561,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy and Béarn\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn, Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -8600,7 +8754,7 @@
 		"nationality": "Sakura Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/0/04/32200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -8608,9 +8762,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -8881,7 +9036,7 @@
 		"nationality": "Sakura Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/8/86/32100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -8889,9 +9044,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -9053,8 +9209,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "Normal",
-						"formatted": "Normal"
+						"value": "HE+",
+						"formatted": "HE+"
 					},
 					"characteristic": {
 						"type": "value",
@@ -9134,8 +9290,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE",
-						"formatted": "HE"
+						"value": "HE+",
+						"formatted": "HE+"
 					},
 					"characteristic": {
 						"type": "value",
@@ -9159,10 +9315,10 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/4/48/42200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -9170,9 +9326,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -9443,7 +9600,7 @@
 		"nationality": "Sakura Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/3/37/32300.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -9451,9 +9608,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "Houshou only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -9615,8 +9773,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE",
-						"formatted": "HE"
+						"value": "HE+",
+						"formatted": "HE+"
 					},
 					"characteristic": {
 						"type": "value",
@@ -9696,8 +9854,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE",
-						"formatted": "HE"
+						"value": "HE+",
+						"formatted": "HE+"
 					},
 					"characteristic": {
 						"type": "value",
@@ -9724,7 +9882,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/d/d5/12000.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -9732,9 +9890,10 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "Houshou only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -10005,7 +10164,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/a/a7/22100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -10013,15 +10172,17 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "Houshou only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-3, 10-1, T3/T4 Royal Tech Box",
 			"notes": "Fires 1 volley with 4 projectiles in an arc towards the target.",
+			"blueprints": "45 Blueprints can be exchanged for Triple 152mm (BL 6\" Mk XXV Prototype) blueprints through research.",
 			"animation": "https://azurlane.koumakan.jp/w/images/7/73/Bullet_pattern_equip_22100.gif"
 		},
 		"tiers": {
@@ -10283,10 +10444,10 @@
 			"focus": "Firepower",
 			"name": "CL Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/5/54/85440.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Z23, Z25, Z26 only",
 			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
@@ -10294,16 +10455,16 @@
 			"battleship": "secondary",
 			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": "\"Zeppy\" only",
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
 			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Pamiat Merkuria, Northern Overture map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T3": {
@@ -10405,17 +10566,18 @@
 		"nationality": "Iris Libre",
 		"image": "https://azurlane.koumakan.jp/w/images/d/de/50780.png",
 		"fits": {
-			"destroyer": null,
-			"lightCruiser": null,
+			"destroyer": "Z23, Z25, Z26 only",
+			"lightCruiser": "primary",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": null,
-			"battleship": null,
-			"battlecruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
 			"aviationBattleship": null,
-			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
+			"lightCarrier": "\"Houshou\" only",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -10535,12 +10697,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-3, 7-3, 8-3, 8-4, 13-1, T3/T4 Eagle Tech Box",
 			"notes": "Fires 1 volley with 3 projectiles in an arc towards the target.",
+			"blueprints": "45 Blueprints can be exchanged for Triple 203mm (Mle 1934 Prototype) blueprints through research.",
 			"animation": "https://azurlane.koumakan.jp/w/images/2/28/Bullet_pattern_equip_13040.gif"
 		},
 		"tiers": {
@@ -10816,6 +10980,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -11097,11 +11262,12 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 1).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/9/99/Bullet_pattern_equip_7300.gif"
 		},
@@ -11202,7 +11368,7 @@
 			"focus": "Firepower",
 			"name": "CA Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/8/83/43060.png",
 		"fits": {
 			"destroyer": null,
@@ -11216,11 +11382,12 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 1).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/5/51/Bullet_pattern_equip_43060.gif"
 		},
@@ -11312,7 +11479,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_234mm_(BL_9.2%22_Mk_XII_Prototype)",
 		"category": "Heavy Cruiser Guns",
 		"names": {
-			"en": "Prototype Twin 234mm Main Gun (9.2\\\" MK XII)",
+			"en": "Prototype Triple 234mm Main Gun (9.2\" MK XII)",
 			"cn": "试作型三联装234mm主炮T0",
 			"jp": "試作型234mm三連装砲",
 			"kr": null
@@ -11335,12 +11502,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "EN Equipment name is currently wrong in game.  Designs have the correct name.",
+			"obtainedFrom": "Acquired through research only (series 3).",
+			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/a/ac/Bullet_pattern_equip_23120.gif"
 		},
 		"tiers": {
@@ -11429,7 +11597,7 @@
 	},
 	"Triple 283mm (SK C/28)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)",
-		"category": "Heavy Cruiser Guns",
+		"category": "Large Cruiser Guns",
 		"names": {
 			"en": "Triple 283mm Main Gun (SK C/28)",
 			"cn": "三联283mmSKC28主炮",
@@ -11440,7 +11608,7 @@
 			"focus": "Firepower",
 			"name": "CB Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/9/99/43100.png",
 		"fits": {
 			"destroyer": null,
@@ -11454,13 +11622,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "T3/T4 Ironblood Tech Box",
-			"notes": "Rounds fired travel at an arc.",
-			"animation": null
+			"notes": "Rounds fired travel at an arc."
 		},
 		"tiers": {
 			"T1": {
@@ -11707,7 +11875,7 @@
 	},
 	"Triple 310mm (Type 0 Prototype)": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype)",
-		"category": "Heavy Cruiser Guns",
+		"category": "Large Cruiser Guns",
 		"names": {
 			"en": "Prototype Triple 310mm Main Gun (Type 0)",
 			"cn": "试作型三联装310mm主炮",
@@ -11732,11 +11900,12 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 2).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/c/cc/Bullet_pattern_equip_33100.gif"
 		},
@@ -11811,8 +11980,8 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"value": "HE+",
-						"formatted": "HE+"
+						"value": "HE",
+						"formatted": "HE"
 					},
 					"characteristic": {
 						"type": "value",
@@ -11850,6 +12019,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -11969,12 +12139,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-2, 8-3, 8-4, 12-1, T3/T4 Sakura Tech Box",
 			"notes": "Fires 2 volley with 2 projectiles each parallel towards the target.",
+			"blueprints": "45 Blueprints can be exchanged for Triple 310mm (Type 0 Prototype) blueprints through research.",
 			"animation": "https://azurlane.koumakan.jp/w/images/2/2c/Bullet_pattern_equip_33020.gif"
 		},
 		"tiers": {
@@ -12250,6 +12422,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -12531,6 +12704,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "\"Surcouf\" only",
 			"submarineCarrier": null
 		},
@@ -12642,20 +12816,20 @@
 			"lightCruiser": null,
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "primary",
 			"battleship": null,
 			"battlecruiser": null,
 			"aviationBattleship": null,
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Drop and event shop in Skybound Oratorio.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -12923,20 +13097,20 @@
 			"lightCruiser": null,
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "primary",
 			"battleship": null,
 			"battlecruiser": null,
 			"aviationBattleship": null,
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Trento",
-			"notes": "The in-game information suggests that it fires six shells;  however, actual play only shows two salvoes of two.",
-			"animation": null
+			"notes": "The in-game information suggests that it fires six shells;  however, actual play only shows two salvoes of two."
 		},
 		"tiers": {
 			"T1": {
@@ -13042,13 +13216,14 @@
 			"lightCruiser": null,
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "primary",
 			"battleship": null,
 			"battlecruiser": null,
 			"aviationBattleship": null,
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -13316,7 +13491,7 @@
 			"focus": "Firepower",
 			"name": "CA Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/2/2f/43000.png",
 		"fits": {
 			"destroyer": null,
@@ -13330,6 +13505,7 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
@@ -13588,7 +13764,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Twin_234mm_(BL_9.2%22_Mk_XII_Prototype)",
 		"category": "Heavy Cruiser Guns",
 		"names": {
-			"en": "Prototype Twin 234mm Main Gun (9.2\\\" MK XII)",
+			"en": "Prototype Twin 234mm Main Gun (9.2\" MK XII)",
 			"cn": "试作型双联装234mm主炮T0",
 			"jp": null,
 			"kr": null
@@ -13611,11 +13787,12 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
+			"obtainedFrom": "Acquired through research only (series 3).",
 			"notes": "No notes",
 			"animation": "https://azurlane.koumakan.jp/w/images/8/86/Bullet_pattern_equip_23100.gif"
 		},
@@ -13716,7 +13893,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "Vichya Dominion",
+		"nationality": "Iris Libre",
 		"image": "https://azurlane.koumakan.jp/w/images/d/df/50300.png",
 		"fits": {
 			"destroyer": null,
@@ -13730,13 +13907,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Iris of the Light and the Dark",
-			"notes": "Fires 2 shells twice in quick succession. The second two shells are aimed at where the first two were.",
-			"animation": null
+			"notes": "Fires 2 shells twice in quick succession. The second two shells are aimed at where the first two were."
 		},
 		"tiers": {
 			"T1": {
@@ -14005,13 +14182,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Effort, Hope, and Planning, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -14266,7 +14443,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "Vichya Dominion",
+		"nationality": "Iris Libre",
 		"image": "https://azurlane.koumakan.jp/w/images/b/bf/50400.png",
 		"fits": {
 			"destroyer": null,
@@ -14280,13 +14457,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Iris of the Light and the Dark event Pt. shop via blueprintsCrescendo of PolarisSkybound Oratorio event Pt. shop via blueprints",
-			"notes": "Fires 2 shells twice in quick succession. The second two shells are aimed at where the first two were.",
-			"animation": null
+			"obtainedFrom": "Iris of the Light and the Dark event Pt. shop via blueprintsCrescendo of PolarisSkybound Oratorio event Pt. shop via blueprintsCore Exchange Shop",
+			"notes": "Fires 2 shells twice in quick succession. The second two shells are aimed at where the first two were."
 		},
 		"tiers": {
 			"T1": {
@@ -14328,9 +14505,9 @@
 					},
 					"angle": {
 						"type": "value_unit",
-						"value": "45",
+						"value": "50",
 						"unit": "°",
-						"formatted": "45°"
+						"formatted": "50°"
 					},
 					"range": {
 						"type": "value",
@@ -14407,9 +14584,9 @@
 					},
 					"angle": {
 						"type": "value_unit",
-						"value": "45",
+						"value": "50",
 						"unit": "°",
-						"formatted": "45°"
+						"formatted": "50°"
 					},
 					"range": {
 						"type": "value",
@@ -14486,9 +14663,9 @@
 					},
 					"angle": {
 						"type": "value_unit",
-						"value": "45",
+						"value": "50",
 						"unit": "°",
-						"formatted": "45°"
+						"formatted": "50°"
 					},
 					"range": {
 						"type": "value",
@@ -14541,7 +14718,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/9/99/43100.png",
 		"fits": {
 			"destroyer": null,
@@ -14555,13 +14732,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "T3/T4 Ironblood Tech Box",
 			"notes": "No notes",
-			"animation": null
+			"blueprints": "45 Blueprints can be exchanged for Twin 406mm (SK C/34 Prototype) blueprints through research."
 		},
 		"tiers": {
 			"T1": {
@@ -14816,7 +14994,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/2/29/85420.png",
 		"fits": {
 			"destroyer": null,
@@ -14830,13 +15008,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Gangut.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T3": {
@@ -14934,7 +15112,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/a/a7/44300.png",
 		"fits": {
 			"destroyer": null,
@@ -14948,13 +15126,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 3).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -15065,13 +15243,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Conte di Cavour class, Empyreal Tragicomedy map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -15182,13 +15360,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-1, T2/3 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -15457,13 +15635,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 1).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -15574,13 +15752,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Available in \"Empyreal Tragicomedy\" event shop for 2000 .",
-			"notes": "\"Overheating\" skill:  Increase Volley DMG of ship that equipped this gun by 10.0% and after firing 2 Volleys, the next Volley will have its reload increased by 30.0%. This effect will then reset.",
-			"animation": null
+			"notes": "\"Overheating\" skill:  Increase Volley DMG of ship that equipped this gun by 10.0% and after firing 2 Volleys, the next Volley will have its reload increased by 30.0%. This effect will then reset."
 		},
 		"tiers": {
 			"T1": {
@@ -15849,13 +16027,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-2, 6-3, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -16124,13 +16302,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-3, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -16385,7 +16563,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/3/34/85300.png",
 		"fits": {
 			"destroyer": null,
@@ -16399,13 +16577,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Northern Overture map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -16597,13 +16775,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 3).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -16714,13 +16892,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 1).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -16831,13 +17009,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Mikasa.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -16948,13 +17126,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "1-4, T2/T3 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -17209,7 +17387,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/c/c2/44100.png",
 		"fits": {
 			"destroyer": null,
@@ -17223,13 +17401,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Opposite Colored Exchange, Event Map Reward, T4/T5 Ironblood Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -17498,13 +17676,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-2, T3/T4 Royal Tech Box",
 			"notes": "No notes",
-			"animation": null
+			"blueprints": "45 Blueprints can be exchanged for Triple 381mm (BL 15\" Mk III Prototype) blueprints through research."
 		},
 		"tiers": {
 			"T1": {
@@ -17773,13 +17952,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Research (Series 1/2/3)Fight On, Royal Maids!Aurora Noctis.",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -17890,13 +18069,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-1, 6-3, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -18151,7 +18330,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/8/8a/44200.png",
 		"fits": {
 			"destroyer": null,
@@ -18165,13 +18344,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 2).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -18282,13 +18461,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-3, 7-3, 12-4, T3/T4 Sakura Tech Box",
 			"notes": "No notes",
-			"animation": null
+			"blueprints": "45 Blueprints can be exchanged for Triple 410mm (10th Year Type Prototype) blueprints through research."
 		},
 		"tiers": {
 			"T1": {
@@ -18557,13 +18737,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired in Visitors Dyed in Red and its rerun event shop for 2500 , afterwards research only.",
-			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread.",
-			"animation": null
+			"obtainedFrom": "Acquired in Visitors Dyed in Red and its rerun event shop for 2500 Research only (series 1/2)",
+			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread."
 		},
 		"tiers": {
 			"T0": {
@@ -18674,13 +18854,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "Has a splash radius of 16, compared to 15 for most BB shells.",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 2).",
+			"notes": "Has a splash radius of 16, compared to 15 for most BB shells."
 		},
 		"tiers": {
 			"T0": {
@@ -18777,7 +18957,7 @@
 			"focus": "Torpedo",
 			"name": "Torpedo"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/5/51/45100.png",
 		"fits": {
 			"destroyer": "primary",
@@ -18791,13 +18971,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Opposite Colored Exchange, T4/T5 Ironblood Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Opposite Colored Drop and Exchange, The Pursuit of Graf Spee Drop, T4/T5 Ironblood Tech Box.",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -19006,13 +19186,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-2, Non-Ironblood T3/T4 Tech Boxes",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -19207,7 +19387,7 @@
 			"focus": "Torpedo",
 			"name": "Torpedo"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/7/7b/45200.png",
 		"fits": {
 			"destroyer": "primary",
@@ -19221,13 +19401,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Opposite Colored Exchange",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -19436,13 +19616,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-4, Non-Ironblood T4/T5 Tech Boxes. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -19637,7 +19817,7 @@
 			"focus": "Torpedo",
 			"name": "Torpedo"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/1/1e/45000.png",
 		"fits": {
 			"destroyer": "primary",
@@ -19651,13 +19831,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "T3/T4 Ironblood Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -19866,13 +20046,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-4, Any T2/3 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -20081,13 +20261,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Acquired through research only.",
-			"notes": "Research Only",
-			"animation": null
+			"notes": "Research Only"
 		},
 		"tiers": {
 			"T1": {
@@ -20237,13 +20417,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -20350,11 +20530,13 @@
 						"unit": "°",
 						"formatted": "60°"
 					},
-					"range": {
-						"type": "value",
-						"value": "90",
-						"formatted": "90"
-					},
+					"range": [
+						{
+							"type": "value",
+							"value": "Torpedo:",
+							"formatted": "Torpedo:"
+						}
+					],
 					"characteristic": {
 						"type": "value",
 						"value": "Normal",
@@ -20391,13 +20573,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-4, 8-2, 10-4, 11-2, 12-2, T4/T5 Sakura Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "Fires 4 fast torpedoes in a slightly narrow spread.",
-			"animation": null
+			"notes": "Fires 4 fast torpedoes in a slightly narrow spread."
 		},
 		"tiers": {
 			"T1": {
@@ -20606,13 +20788,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-3, 4-1, 8-2, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -20821,13 +21003,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-1, T2/T3 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -21036,15 +21218,131 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
-			"obtainedFrom": "Iris of the Light and the Dark",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Iris of Light and Dark",
+			"notes": "No notes"
 		},
 		"tiers": {
+			"T1": {
+				"tier": "T1",
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"torpedo": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "44",
+						"max": "62",
+						"multiplier": "2",
+						"formatted": "44 × 2 → 62 × 2"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "22.61s",
+						"max": "21.22s",
+						"per": "volley",
+						"formatted": "22.61s → 21.22s per volley"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "2",
+						"unit": "torpedoes",
+						"formatted": "2 torpedoes"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "80",
+						"unit": "°",
+						"formatted": "80°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			},
+			"T2": {
+				"tier": "T2",
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"torpedo": {
+						"type": "value",
+						"value": "12",
+						"formatted": "12"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "49",
+						"max": "91",
+						"multiplier": "2",
+						"formatted": "49 × 2 → 91 × 2"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "21.61s",
+						"max": "18.62s",
+						"per": "volley",
+						"formatted": "21.61s → 18.62s per volley"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "2",
+						"unit": "torpedoes",
+						"formatted": "2 torpedoes"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "80",
+						"unit": "°",
+						"formatted": "80°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 90,
+						"formatted": "Firing: 50\nShell: 90"
+					},
+					"characteristic": {
+						"type": "value",
+						"value": "Normal",
+						"formatted": "Normal"
+					}
+				}
+			},
 			"T3": {
 				"tier": "T3",
 				"rarity": "Elite",
@@ -21118,7 +21416,7 @@
 			"focus": "Torpedo",
 			"name": "Submarine Torpedo"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/c/cc/45300.png",
 		"fits": {
 			"destroyer": null,
@@ -21132,13 +21430,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Fires 2 torpedoes toward an enemy.",
-			"animation": null
+			"notes": "Fires 2 torpedoes toward an enemy."
 		},
 		"tiers": {
 			"T1": {
@@ -21330,7 +21628,7 @@
 			"focus": "Torpedo",
 			"name": "Submarine Torpedo"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/6/6b/45400.png",
 		"fits": {
 			"destroyer": null,
@@ -21344,13 +21642,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Fires 2 homing torpedoes toward an enemy.",
-			"animation": null
+			"notes": "Fires 2 homing torpedoes toward an enemy."
 		},
 		"tiers": {
 			"T1": {
@@ -21556,13 +21854,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Fires 3 torpedoes toward an enemy.",
-			"animation": null
+			"notes": "Fires 3 torpedoes toward an enemy."
 		},
 		"tiers": {
 			"T1": {
@@ -21768,13 +22066,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node. 13-4",
-			"notes": "Fires 3 torpedoes toward an enemy.",
-			"animation": null
+			"notes": "Fires 3 torpedoes toward an enemy."
 		},
 		"tiers": {
 			"T1": {
@@ -21980,13 +22278,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Fires 2 torpedoes toward an enemy.",
-			"animation": null
+			"notes": "Fires 2 torpedoes toward an enemy."
 		},
 		"tiers": {
 			"T1": {
@@ -22192,13 +22490,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Fires 2 torpedoes toward an enemy. Torpedoes accelerate as they travel.",
-			"animation": null
+			"notes": "Fires 2 torpedoes toward an enemy. Torpedoes accelerate as they travel."
 		},
 		"tiers": {
 			"T1": {
@@ -22404,13 +22702,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-3, T2/3 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -22431,12 +22729,6 @@
 						"min": "29",
 						"max": "43",
 						"formatted": "29 → 43"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "18",
-						"max": "24",
-						"formatted": "18  → 24"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -22489,12 +22781,6 @@
 						"max": "48",
 						"formatted": "33 → 48"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "20",
-						"max": "26",
-						"formatted": "20  → 26"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.96s",
@@ -22545,12 +22831,6 @@
 						"min": "37",
 						"max": "70",
 						"formatted": "37 → 70"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "22",
-						"max": "36",
-						"formatted": "22  → 36"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -22613,13 +22893,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Increases all fighters' efficiency by 4%. Does not stack.",
-			"animation": null
+			"notes": "Increases all fighters' efficiency by 4%. Does not stack."
 		},
 		"tiers": {
 			"T0": {
@@ -22640,12 +22920,6 @@
 						"min": "37",
 						"max": "93",
 						"formatted": "37 → 93"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "31",
-						"max": "69",
-						"formatted": "31  → 69"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -22708,13 +22982,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Obtainable in \"Glorious Battle\"",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Obtainable in Glorious Battle",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -22735,12 +23009,6 @@
 						"min": "28",
 						"max": "41",
 						"formatted": "28 → 41"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "13",
-						"max": "18",
-						"formatted": "13  → 18"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -22793,12 +23061,6 @@
 						"max": "46",
 						"formatted": "31 → 46"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "14",
-						"max": "19",
-						"formatted": "14  → 19"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.84s",
@@ -22849,12 +23111,6 @@
 						"min": "35",
 						"max": "66",
 						"formatted": "35 → 66"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "16",
-						"max": "30",
-						"formatted": "16  → 30"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -22917,13 +23173,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Skybound Oratorio dropStock equipment on Béarn",
-			"notes": "2 x 7.7mm MG GL.2 T0 is equivalent to 2 x 7.7mm MG T2",
-			"animation": null
+			"notes": "2 x 7.7mm MG GL.2 T0 is equivalent to 2 x 7.7mm MG T2"
 		},
 		"tiers": {
 			"T0": {
@@ -22938,12 +23194,6 @@
 						"type": "value",
 						"value": "12",
 						"formatted": "12"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "9",
-						"max": "17",
-						"formatted": "9  → 17"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -22961,8 +23211,8 @@
 						{
 							"type": "count_unit",
 							"count": "2",
-							"unit": "7.7mm MG GL.2 T0",
-							"formatted": "2 x 7.7mm MG GL.2 T0"
+							"unit": "7.7mm MG T2",
+							"formatted": "2 x 7.7mm MG T2"
 						}
 					]
 				}
@@ -22996,13 +23246,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-1, 9-3, 13-2, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -23023,12 +23273,6 @@
 						"min": "33",
 						"max": "48",
 						"formatted": "33 → 48"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "22",
-						"max": "33",
-						"formatted": "22  → 33"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23081,12 +23325,6 @@
 						"max": "70",
 						"formatted": "37 → 70"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "25",
-						"max": "47",
-						"formatted": "25  → 47"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.38s",
@@ -23137,12 +23375,6 @@
 						"min": "40",
 						"max": "101",
 						"formatted": "40 → 101"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "27",
-						"max": "69",
-						"formatted": "27  → 69"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23205,13 +23437,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-2, 13-3, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -23232,12 +23464,6 @@
 						"min": "37",
 						"max": "70",
 						"formatted": "37 → 70"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "31",
-						"max": "55",
-						"formatted": "31  → 55"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23304,12 +23530,6 @@
 						"max": "101",
 						"formatted": "40 → 101"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "34",
-						"max": "79",
-						"formatted": "34  → 79"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.75s",
@@ -23374,12 +23594,6 @@
 						"min": "44",
 						"max": "110",
 						"formatted": "44 → 110"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "37",
-						"max": "86",
-						"formatted": "37  → 86"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23456,13 +23670,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "The Grumman XF5F Skyrocket prototype climbs at near-record speeds. Due to issues encountered during development and a lack of auxiliary gear, the Skyrocket was produced in limited quantities.",
-			"animation": null
+			"notes": "The Grumman XF5F Skyrocket prototype climbs at near-record speeds. Due to issues encountered during development and a lack of auxiliary gear, the Skyrocket was produced in limited quantities."
 		},
 		"tiers": {
 			"T0": {
@@ -23483,12 +23697,6 @@
 						"min": "40",
 						"max": "101",
 						"formatted": "40 → 101"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "29",
-						"max": "72",
-						"formatted": "29  → 72"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23557,13 +23765,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Midsummer Sagittarius, Core Data Exchange",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -23584,12 +23792,6 @@
 						"min": "43",
 						"max": "107",
 						"formatted": "43 → 107"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "36",
-						"max": "86",
-						"formatted": "36  → 86"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23633,6 +23835,109 @@
 			}
 		}
 	},
+	"Kawanishi N1K3-A Shiden Kai 2": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2",
+		"category": "Fighter Planes",
+		"names": {
+			"en": "Kawanishi N1K3-A Shiden Kai 2",
+			"cn": "紫电改二",
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Aviation",
+			"name": "Fighter"
+		},
+		"nationality": "Sakura Empire",
+		"image": "https://azurlane.koumakan.jp/w/images/5/52/37400.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Dreamwaker's Butterly HT6/SP",
+			"notes": "No notes"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_max",
+						"min": "36",
+						"max": "90",
+						"formatted": "36 → 90"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "12.6s",
+						"max": "10.7s",
+						"per": "wave",
+						"formatted": "12.6s → 10.7s per wave"
+					},
+					"speed": {
+						"type": "value",
+						"value": "60",
+						"formatted": "60"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"value": "10",
+						"formatted": "10"
+					},
+					"crashDamage": {
+						"type": "value",
+						"value": "162",
+						"formatted": "162"
+					},
+					"aAGuns": [
+						{
+							"type": "count_unit",
+							"count": "4",
+							"unit": "20mm Type-99 Cannon T3",
+							"formatted": "4 x 20mm Type-99 Cannon T3"
+						},
+						{
+							"type": "count_unit",
+							"count": "2",
+							"unit": "13mm Cannon T3",
+							"formatted": "2 x 13mm Cannon T3"
+						}
+					],
+					"ordnance": [
+						{
+							"type": "count_unit",
+							"count": "2",
+							"unit": "500lb Bomb T3",
+							"formatted": "2 x 500lb Bomb T3"
+						}
+					]
+				}
+			}
+		}
+	},
 	"Messerschmitt BF-109T": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Messerschmitt_BF-109T",
 		"category": "Fighter Planes",
@@ -23646,7 +23951,7 @@
 			"focus": "Aviation",
 			"name": "Fighter"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/f/f9/47000.png",
 		"fits": {
 			"destroyer": null,
@@ -23660,13 +23965,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Opposite-Colored Rerun, T3/T4 Ironblood Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -23687,12 +23992,6 @@
 						"min": "31",
 						"max": "46",
 						"formatted": "31 → 46"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "21",
-						"max": "28",
-						"formatted": "21  → 28"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23751,12 +24050,6 @@
 						"max": "66",
 						"formatted": "35 → 66"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "23",
-						"max": "37",
-						"formatted": "23  → 37"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.71s",
@@ -23814,12 +24107,6 @@
 						"max": "96",
 						"formatted": "38 → 96"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "27",
-						"max": "56",
-						"formatted": "27  → 56"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.44s",
@@ -23873,7 +24160,7 @@
 			"focus": "Aviation",
 			"name": "Fighter"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/f/f9/47100.png",
 		"fits": {
 			"destroyer": null,
@@ -23887,13 +24174,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Opposite-Colored, T4/T5 Ironblood Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -23914,12 +24201,6 @@
 						"min": "35",
 						"max": "66",
 						"formatted": "35 → 66"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "32",
-						"max": "58",
-						"formatted": "32  → 58"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -23978,12 +24259,6 @@
 						"max": "96",
 						"formatted": "38 → 96"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "37",
-						"max": "83",
-						"formatted": "37  → 83"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.17s",
@@ -24040,12 +24315,6 @@
 						"min": "42",
 						"max": "105",
 						"formatted": "42 → 105"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "44",
-						"max": "92",
-						"formatted": "44  → 92"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24114,13 +24383,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-3, T2/T3 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -24141,12 +24410,6 @@
 						"min": "27",
 						"max": "39",
 						"formatted": "27 → 39"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "8",
-						"max": "11",
-						"formatted": "8  → 11"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24199,12 +24462,6 @@
 						"max": "43",
 						"formatted": "30 → 43"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "9",
-						"max": "12",
-						"formatted": "9  → 12"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.82s",
@@ -24255,12 +24512,6 @@
 						"min": "33",
 						"max": "63",
 						"formatted": "33 → 63"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "10",
-						"max": "18",
-						"formatted": "10  → 18"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24323,13 +24574,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-3, 3-4, 9-4, 12-1, 13-2, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -24350,12 +24601,6 @@
 						"min": "30",
 						"max": "43",
 						"formatted": "30 → 43"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "21",
-						"max": "30",
-						"formatted": "21  → 30"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24422,12 +24667,6 @@
 						"max": "63",
 						"formatted": "33 → 63"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "23",
-						"max": "45",
-						"formatted": "23  → 45"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.82s",
@@ -24492,12 +24731,6 @@
 						"min": "37",
 						"max": "91",
 						"formatted": "37 → 91"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "25",
-						"max": "66",
-						"formatted": "25  → 66"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24574,13 +24807,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "9-3, 12-1, 13-2, T4/T5 Sakura Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -24601,12 +24834,6 @@
 						"min": "33",
 						"max": "63",
 						"formatted": "33 → 63"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "24",
-						"max": "44",
-						"formatted": "24  → 44"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24673,12 +24900,6 @@
 						"max": "91",
 						"formatted": "37 → 91"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "26",
-						"max": "62",
-						"formatted": "26  → 62"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.23s",
@@ -24743,12 +24964,6 @@
 						"min": "40",
 						"max": "100",
 						"formatted": "40 → 100"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "28",
-						"max": "69",
-						"formatted": "28  → 69"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24825,13 +25040,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Available through map drop blueprints during \"Visitors Dyed in Red\" event and its rerun.\nBlueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -24852,12 +25067,6 @@
 						"min": "33",
 						"max": "63",
 						"formatted": "33 → 63"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "29",
-						"max": "53",
-						"formatted": "29  → 53"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -24918,12 +25127,6 @@
 						"max": "91",
 						"formatted": "37 → 91"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "32",
-						"max": "77",
-						"formatted": "32  → 77"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.62s",
@@ -24982,12 +25185,6 @@
 						"min": "40",
 						"max": "100",
 						"formatted": "40 → 100"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "35",
-						"max": "85",
-						"formatted": "35  → 85"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25058,13 +25255,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "T4/T5 Royal Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -25085,12 +25282,6 @@
 						"min": "35",
 						"max": "66",
 						"formatted": "35 → 66"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "27",
-						"max": "51",
-						"formatted": "27  → 51"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25151,12 +25342,6 @@
 						"max": "96",
 						"formatted": "38 → 96"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "30",
-						"max": "74",
-						"formatted": "30  → 74"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.71s",
@@ -25215,12 +25400,6 @@
 						"min": "42",
 						"max": "105",
 						"formatted": "42 → 105"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "33",
-						"max": "80",
-						"formatted": "33  → 80"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25291,13 +25470,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-1, T3/T4 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -25318,12 +25497,6 @@
 						"min": "31",
 						"max": "46",
 						"formatted": "31 → 46"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "26",
-						"max": "37",
-						"formatted": "26  → 37"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25390,12 +25563,6 @@
 						"max": "66",
 						"formatted": "35 → 66"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "28",
-						"max": "55",
-						"formatted": "28  → 55"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.78s",
@@ -25460,12 +25627,6 @@
 						"min": "38",
 						"max": "96",
 						"formatted": "38 → 96"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "31",
-						"max": "78",
-						"formatted": "31  → 78"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25542,13 +25703,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-4, 11-2, 13-3, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -25569,12 +25730,6 @@
 						"min": "33",
 						"max": "48",
 						"formatted": "33 → 48"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "22",
-						"max": "33",
-						"formatted": "22  → 33"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25635,12 +25790,6 @@
 						"max": "70",
 						"formatted": "37 → 70"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "25",
-						"max": "47",
-						"formatted": "25  → 47"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.80s",
@@ -25699,12 +25848,6 @@
 						"min": "40",
 						"max": "101",
 						"formatted": "40 → 101"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "27",
-						"max": "69",
-						"formatted": "27  → 69"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25775,13 +25918,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Fallen Wings points gacha reward, Core Data Exchange",
-			"notes": "After launch, increase whole fleet's AA by 5%, lasts for 8 seconds.",
-			"animation": null
+			"notes": "After launch, increase whole fleet's AA by 5%, lasts for 8 seconds."
 		},
 		"tiers": {
 			"T0": {
@@ -25802,12 +25945,6 @@
 						"min": "44",
 						"max": "110",
 						"formatted": "44 → 110"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "31",
-						"max": "78",
-						"formatted": "31  → 78"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25843,8 +25980,105 @@
 						{
 							"type": "count_unit",
 							"count": "2",
-							"unit": "500lb VF-17 Bomb T0",
-							"formatted": "2 x 500lb VF-17 Bomb T0"
+							"unit": "500lb Bomb T0",
+							"formatted": "2 x 500lb Bomb T0"
+						}
+					]
+				}
+			}
+		}
+	},
+	"De Havilland Sea Hornet": {
+		"wikiUrl": "https://azurlane.koumakan.jp/De_Havilland_Sea_Hornet",
+		"category": "Fighter Planes",
+		"names": {
+			"en": "Sea Hornet",
+			"cn": "海大黄蜂",
+			"jp": "シーホーネット",
+			"kr": null
+		},
+		"type": {
+			"focus": "Aviation",
+			"name": "Fighter"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/1/1f/27320.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Aurora Noctis",
+			"notes": "No notes"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_max",
+						"min": "49",
+						"max": "124",
+						"formatted": "49 → 124"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "13.18s",
+						"max": "10.61s",
+						"per": "wave",
+						"formatted": "13.18s → 10.61s per wave"
+					},
+					"speed": {
+						"type": "value",
+						"value": "60",
+						"formatted": "60"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"value": "10",
+						"formatted": "10"
+					},
+					"crashDamage": {
+						"type": "value",
+						"value": "190",
+						"formatted": "190"
+					},
+					"aAGuns": [
+						{
+							"type": "count_unit",
+							"count": "4",
+							"unit": "20mm Cannon T0",
+							"formatted": "4 x 20mm Cannon T0"
+						}
+					],
+					"ordnance": [
+						{
+							"type": "count_unit",
+							"count": "2",
+							"unit": "1000lb Bomb T0",
+							"formatted": "2 x 1000lb Bomb T0"
 						}
 					]
 				}
@@ -25867,7 +26101,7 @@
 		"nationality": "Sakura Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/a/a2/39000.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -25878,13 +26112,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "12-3, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "3-4, 12-3, T3/T4 Sakura Tech Box",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -25905,12 +26139,6 @@
 						"min": "31",
 						"max": "45",
 						"formatted": "31 → 45"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "78",
-						"max": "112",
-						"formatted": "78  → 112"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -25977,12 +26205,6 @@
 						"max": "66",
 						"formatted": "35 → 66"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "86",
-						"max": "161",
-						"formatted": "86  → 161"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "13.10s",
@@ -26048,12 +26270,6 @@
 						"max": "96",
 						"formatted": "38 → 96"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "94",
-						"max": "235",
-						"formatted": "94  → 235"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.90s",
@@ -26118,7 +26334,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/b/be/29000.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -26129,13 +26345,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-3, T2/3 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -26156,12 +26372,6 @@
 						"min": "29",
 						"max": "42",
 						"formatted": "29 → 42"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "120",
-						"max": "174",
-						"formatted": "120  → 174"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -26222,12 +26432,6 @@
 						"max": "48",
 						"formatted": "33 → 48"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "132",
-						"max": "191",
-						"formatted": "132  → 191"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "13.17s",
@@ -26287,12 +26491,6 @@
 						"max": "70",
 						"formatted": "37 → 70"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "144",
-						"max": "270",
-						"formatted": "144  → 270"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.97s",
@@ -26351,7 +26549,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/5/56/19100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -26362,13 +26560,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-2, 11-4, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -26389,12 +26587,6 @@
 						"min": "35",
 						"max": "50",
 						"formatted": "35 → 50"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "83",
-						"max": "118",
-						"formatted": "83  → 118"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -26461,12 +26653,6 @@
 						"max": "73",
 						"formatted": "38 → 73"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "92",
-						"max": "171",
-						"formatted": "92  → 171"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "14.03s",
@@ -26532,12 +26718,6 @@
 						"max": "106",
 						"formatted": "42 → 106"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "100",
-						"max": "249",
-						"formatted": "100  → 249"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "13.77s",
@@ -26602,7 +26782,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/4/45/19200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -26613,13 +26793,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-3, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -26640,12 +26820,6 @@
 						"min": "38",
 						"max": "73",
 						"formatted": "38 → 73"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "153",
-						"max": "288",
-						"formatted": "153  → 288"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -26706,12 +26880,6 @@
 						"max": "106",
 						"formatted": "42 → 106"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "167",
-						"max": "417",
-						"formatted": "167  → 417"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "14.55s",
@@ -26771,12 +26939,6 @@
 						"max": "115",
 						"formatted": "46 → 115"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "182",
-						"max": "456",
-						"formatted": "182  → 456"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "14.23s",
@@ -26835,7 +26997,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/7/74/19000.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -26846,13 +27008,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-1, T2/T3 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -26873,12 +27035,6 @@
 						"min": "31",
 						"max": "45",
 						"formatted": "31 → 45"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "89",
-						"max": "128",
-						"formatted": "89  → 128"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -26945,12 +27101,6 @@
 						"max": "50",
 						"formatted": "35 → 50"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "98",
-						"max": "140",
-						"formatted": "98  → 140"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "14.35s",
@@ -27016,12 +27166,6 @@
 						"max": "73",
 						"formatted": "38 → 73"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "107",
-						"max": "202",
-						"formatted": "107  → 202"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "13.77s",
@@ -27086,7 +27230,7 @@
 		"nationality": "Eagle Union",
 		"image": "https://azurlane.koumakan.jp/w/images/1/18/19060.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -27097,13 +27241,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "When launching an airstrike, increase damage against enemy aircraft carriers by 5.0%.",
-			"animation": null
+			"notes": "When launching an airstrike, increase damage against enemy aircraft carriers by 5.0%."
 		},
 		"tiers": {
 			"T0": {
@@ -27124,12 +27268,6 @@
 						"min": "46",
 						"max": "115",
 						"formatted": "46 → 115"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "113",
-						"max": "283",
-						"formatted": "113  → 283"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -27187,7 +27325,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/4/47/29300.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -27198,13 +27336,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "24% chance to inflict armour break, does not stack. Unlike battleship AP shelling, can inflict armour break on targets of any armour class.",
-			"animation": null
+			"notes": "24% chance to inflict armour break, does not stack. Unlike battleship AP shelling, can inflict armour break on targets of any armour class."
 		},
 		"tiers": {
 			"T0": {
@@ -27225,12 +27363,6 @@
 						"min": "38",
 						"max": "95",
 						"formatted": "38 → 95"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "171",
-						"max": "429",
-						"formatted": "171  → 429"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -27290,7 +27422,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/1/19/29200.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -27301,13 +27433,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Winter's Crown Exchange Gacha, Core Data Exchange",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -27328,12 +27460,6 @@
 						"min": "44",
 						"max": "110",
 						"formatted": "44 → 110"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "161",
-						"max": "402",
-						"formatted": "161  → 402"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -27393,7 +27519,7 @@
 		"nationality": "Royal Navy",
 		"image": "https://azurlane.koumakan.jp/w/images/1/15/29100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -27404,13 +27530,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-1, T3/T4 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -27431,12 +27557,6 @@
 						"min": "33",
 						"max": "48",
 						"formatted": "33 → 48"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "57",
-						"max": "81",
-						"formatted": "57  → 81"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -27497,12 +27617,6 @@
 						"max": "70",
 						"formatted": "37 → 70"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "63",
-						"max": "117",
-						"formatted": "63  → 117"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.44s",
@@ -27562,12 +27676,6 @@
 						"max": "101",
 						"formatted": "40 → 101"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "69",
-						"max": "173",
-						"formatted": "69  → 173"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "11.17s",
@@ -27623,10 +27731,10 @@
 			"focus": "Aviation",
 			"name": "Dive Bomber"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/5/53/49000.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -27637,13 +27745,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Opposite-Colored Rerun, T3/T4 Ironblood Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -27664,12 +27772,6 @@
 						"min": "33",
 						"max": "48",
 						"formatted": "33 → 48"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "70",
-						"max": "100",
-						"formatted": "70  → 100"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -27736,12 +27838,6 @@
 						"max": "70",
 						"formatted": "37 → 70"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "77",
-						"max": "143",
-						"formatted": "77  → 143"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "13.83s",
@@ -27807,12 +27903,6 @@
 						"max": "101",
 						"formatted": "40 → 101"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "84",
-						"max": "210",
-						"formatted": "84  → 210"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "13.57s",
@@ -27877,7 +27967,7 @@
 		"nationality": "Sakura Empire",
 		"image": "https://azurlane.koumakan.jp/w/images/2/21/39100.png",
 		"fits": {
-			"destroyer": null,
+			"destroyer": "Shirakami Fubuki only",
 			"lightCruiser": null,
 			"heavyCruiser": null,
 			"monitor": null,
@@ -27888,13 +27978,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "12-3, T4/T5 Sakura Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -27915,12 +28005,6 @@
 						"min": "35",
 						"max": "66",
 						"formatted": "35 → 66"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "83",
-						"max": "156",
-						"formatted": "83  → 156"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -27987,12 +28071,6 @@
 						"max": "96",
 						"formatted": "38 → 96"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "92",
-						"max": "229",
-						"formatted": "92  → 229"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "12.84s",
@@ -28057,12 +28135,6 @@
 						"min": "42",
 						"max": "104",
 						"formatted": "42 → 104"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "100",
-						"max": "249",
-						"formatted": "100  → 249"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -28139,13 +28211,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Visitors Dyed in Red. Blueprints can be acquired through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -28411,13 +28483,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Winter's Crown Exchange Gacha, Core Data Exchange",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -28521,13 +28593,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-4, T2/3 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -28775,13 +28847,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Unknown",
-			"notes": "Cannot be equipped directly; upgraded form of the VT-8 TBD Devastator that is accessed after the first airstrike.",
-			"animation": null
+			"notes": "Cannot be equipped directly; upgraded form of the VT-8 TBD Devastator that is accessed after the first airstrike."
 		},
 		"tiers": {
 			"T0": {
@@ -28885,13 +28957,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Available from \"Empyreal Tragicomedy\" event shop for 1000 .",
-			"notes": "Activates Formidable's Supporting Wings skill.",
-			"animation": null
+			"notes": "Activates Formidable's Supporting Wings skill."
 		},
 		"tiers": {
 			"T1": {
@@ -29139,13 +29211,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "T4/T5 Royal Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -29393,13 +29465,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-1, T3/T4 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -29647,13 +29719,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Reduces the speed of enemies 60% for 8 seconds when the torpedoes hit the target.",
-			"animation": null
+			"notes": "Reduces the speed of enemies 60% for 8 seconds when the torpedoes hit the target."
 		},
 		"tiers": {
 			"T0": {
@@ -29757,13 +29829,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-1, 9-1, 13-2, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -29989,7 +30061,7 @@
 		"category": "Torpedo Bomber Planes",
 		"names": {
 			"en": "Pierre Levasseur PL.7 Torpedo Bomber",
-			"cn": null,
+			"cn": "PL.7舰载鱼雷机",
 			"jp": null,
 			"kr": null
 		},
@@ -30011,13 +30083,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Skybound Oratorio dropStock equipment on Béarn",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -30032,6 +30104,12 @@
 						"type": "value",
 						"value": "12",
 						"formatted": "12"
+					},
+					"planeHealth": {
+						"type": "min_max",
+						"min": "35",
+						"max": "66",
+						"formatted": "35 → 66"
 					},
 					"damage": {
 						"type": "min_max_multiplier",
@@ -30053,17 +30131,27 @@
 						"unit": "torpedoes",
 						"formatted": "3 torpedoes"
 					},
+					"speed": {
+						"type": "value",
+						"value": "38",
+						"formatted": "38"
+					},
 					"dodgeLimit": {
 						"type": "value",
 						"value": "3.5",
 						"formatted": "3.5"
 					},
+					"crashDamage": {
+						"type": "value",
+						"value": "286",
+						"formatted": "286"
+					},
 					"aAGuns": [
 						{
 							"type": "count_unit",
 							"count": "2",
-							"unit": "7.7mm MG GL.2 T0",
-							"formatted": "2 x 7.7mm MG GL.2 T0"
+							"unit": "7.7mm MG T2",
+							"formatted": "2 x 7.7mm MG T2"
 						}
 					],
 					"ordnance": [
@@ -30105,13 +30193,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-4, T2/T3 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -30359,13 +30447,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-4, 12-4, 13-4, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -30613,13 +30701,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Microlayer Medley event shop",
-			"notes": "Increases DMG against enemy BBs and BCs by 3.0% for the ship equipping this aircraft. When this aircraft hits an enemy BB, BC, or BBV: 60.0% chance to inflict Flood debuff to them for 9s. The Flood deals 15% of the initial hit's base damage (affected by AVI) plus 10 damage per 3s tick for 9s.",
-			"animation": null
+			"notes": "Battleship Strikeforce: Increases DMG against enemy BBs and BCs by 3.0% for the ship equipping this aircraft. When this aircraft hits an enemy BB, BC, or BBV: 60.0% chance to inflict Flood debuff to them for 9s. The Flood deals 15% of the initial hit's base damage (affected by AVI) plus 10 damage per 3s tick for 9s."
 		},
 		"tiers": {
 			"T0": {
@@ -30723,13 +30811,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "T3/T4 Sakura Tech Box, Visitors Dyed in Red Rerun A-3 & C-3",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -30750,12 +30838,6 @@
 						"min": "27",
 						"max": "39",
 						"formatted": "27 → 39"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "120",
-						"max": "174",
-						"formatted": "120  → 174"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -30822,12 +30904,6 @@
 						"max": "56",
 						"formatted": "30 → 56"
 					},
-					"damage": {
-						"type": "min_max",
-						"min": "132",
-						"max": "249",
-						"formatted": "132  → 249"
-					},
 					"rateOfFire": {
 						"type": "min_max_per",
 						"min": "17.62s",
@@ -30892,12 +30968,6 @@
 						"min": "33",
 						"max": "81",
 						"formatted": "33 → 81"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "144",
-						"max": "360",
-						"formatted": "144  → 360"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -30974,13 +31044,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Damage increases by 60% when used by a Submarine Carrier.",
-			"animation": null
+			"notes": "Damage increases by 60% when used by a Submarine Carrier."
 		},
 		"tiers": {
 			"T0": {
@@ -31001,12 +31071,6 @@
 						"min": "38",
 						"max": "86",
 						"formatted": "38 → 86"
-					},
-					"damage": {
-						"type": "min_max",
-						"min": "171",
-						"max": "429",
-						"formatted": "171  → 429"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -31077,13 +31141,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-3, 11-1, Lead Color Remembrance SP2, Encircling Graf Spee SP1, Iris of the Light and the Dark B1,D1, T3/T4 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -31247,13 +31311,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-1, Eagle and Royal T2/3 Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -31417,13 +31481,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-2, T2/3 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -31587,13 +31651,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-2, T2/T3 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -31743,7 +31807,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/b/b6/46100.png",
 		"fits": {
 			"destroyer": "primary",
@@ -31757,13 +31821,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-2, T2/T3 Ironblood Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -31927,13 +31991,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Kongou-class battlecruisers.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -32009,13 +32073,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-4, 8-3, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -32179,13 +32243,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-1, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -32335,7 +32399,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/6/66/46000.png",
 		"fits": {
 			"destroyer": "primary",
@@ -32349,13 +32413,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-1, T2/T3 Ironblood Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -32519,13 +32583,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "3-3, 9-2, 13-1, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -32689,13 +32753,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-2, 8-2, T3/T4 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -32859,13 +32923,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-4, 11-3, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -33029,13 +33093,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 3).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -33097,7 +33161,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/d/dc/85180.png",
 		"fits": {
 			"destroyer": "primary",
@@ -33111,13 +33175,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Northern Overture map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -33261,13 +33325,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Drop from  Empyreal Tragicomedy",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -33431,13 +33495,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-3, 9-1, 10-4, 12-2, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -33587,7 +33651,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/4/46/85240.png",
 		"fits": {
 			"destroyer": "primary",
@@ -33601,13 +33665,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Northern Overture map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T2": {
@@ -33703,7 +33767,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/0/0c/85360.png",
 		"fits": {
 			"destroyer": "primary",
@@ -33717,13 +33781,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Northern Overture map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -33853,7 +33917,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/1/19/85060.png",
 		"fits": {
 			"destroyer": "primary",
@@ -33867,13 +33931,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Stock equipment on Chapayev.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -33939,13 +34003,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 1).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -34021,13 +34085,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "Only Light Carriers with AA slot",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T3": {
@@ -34089,7 +34153,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/e/e6/46300.png",
 		"fits": {
 			"destroyer": "primary",
@@ -34103,13 +34167,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "Only Light Carriers with AA slot",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "9-1, 10-1, T4/T5 Ironblood Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -34273,13 +34337,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-2, 11-4, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -34443,13 +34507,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-4, 12-4, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -34613,13 +34677,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Fight On, Royal Maids! individual point reward",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -34700,13 +34764,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-2, 9-2, T3/T4 Eagle Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -34870,13 +34934,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-1, 12-1, 12-2, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -35040,13 +35104,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Empyreal Tragicomedy map drop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -35196,7 +35260,7 @@
 			"focus": "Anti-air",
 			"name": "AA Gun"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/4/4e/46200.png",
 		"fits": {
 			"destroyer": "primary",
@@ -35210,13 +35274,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "7-2, 8-3, T3/T4 Ironblood Tech Box",
 			"notes": "No notes",
-			"animation": null
+			"blueprints": "45 Blueprints can be exchanged for Twin 37mm ACAD Mle 1936 blueprints through research."
 		},
 		"tiers": {
 			"T1": {
@@ -35380,13 +35445,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 2).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -35462,13 +35527,14 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-3, 9-4, 10-2, 10-3, 13-3, T3/T4 Eagle Tech Box",
 			"notes": "No notes",
-			"animation": null
+			"blueprints": "45 Blueprints can be exchanged for Twin 40mm Bofors High-Angle Type 98 blueprints through research."
 		},
 		"tiers": {
 			"T1": {
@@ -35632,13 +35698,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Drop from Air Raid Drills with Essex, Research.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Drop from Air Raid Drills with EssexResearch (series 2/3)",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -35719,13 +35785,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 2).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -35801,13 +35867,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "No notes",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 1).",
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -35888,13 +35954,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "2-2, T2/3 Royal Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -36058,13 +36124,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "6-1, 12-3, T3/T4 Sakura Tech Box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -36228,13 +36294,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "Increases HP of Carrier-based aircraft by 140. Increases flight speed of Carrier-based aircraft by 5.",
-			"animation": null
+			"notes": "Increases HP of Carrier-based aircraft by 140. Increases flight speed of Carrier-based aircraft by 5."
 		},
 		"tiers": {
 			"T0": {
@@ -36250,6 +36316,66 @@
 						"min": "28",
 						"max": "70",
 						"formatted": "28 → 70"
+					}
+				}
+			}
+		}
+	},
+	"533mm Magnetic Torpedo": {
+		"wikiUrl": "https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "533mm Acoustic Torpedo",
+			"cn": "533mm磁性鱼雷（水面舰艇用）",
+			"jp": "533mm磁気魚雷（水上艦用）",
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Iron Blood",
+		"image": "https://azurlane.koumakan.jp/w/images/6/67/2700.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": "primary",
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Aurora Noctis",
+			"notes": "Acoustic Preload: Change first torpedo salvo to acoustic homing torpedoes and increase the damage by 5%."
+		},
+		"tiers": {
+			"T3": {
+				"tier": "T3",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"torpedo": {
+						"type": "min_max",
+						"min": "28",
+						"max": "70",
+						"formatted": "28 → 70"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "6",
+						"max": "15",
+						"formatted": "6 → 15"
 					}
 				}
 			}
@@ -36282,13 +36408,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Map Clear Reward in Lead Color Remembrance",
-			"notes": "Improves likelihood of evading Ambushes by 8%, reduces likelihood of encountering Ambush/Airstrikes by 8%",
-			"animation": null
+			"notes": "Improves likelihood of evading Ambushes by 8%, reduces likelihood of encountering Ambush/Airstrikes by 8%"
 		},
 		"tiers": {
 			"T0": {
@@ -36336,13 +36462,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "2-3, 2-4, Any T3/4 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -36422,13 +36548,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Available from point exchange during \"Looking Glass of Fact and Fiction\" event.",
-			"notes": "When sortieing with a ship equipping this gear: changes the battle background music.",
-			"animation": null
+			"notes": "When sortieing with a ship equipping this gear: changes the battle background music."
 		},
 		"tiers": {
 			"T0": {
@@ -36482,13 +36608,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-1, 7-4, 10-2, Any T3/4 Tech box",
-			"notes": "Reduces damage taken from torpedoes by 30%.",
-			"animation": null
+			"notes": "Reduces damage taken from torpedoes by 30%."
 		},
 		"tiers": {
 			"T1": {
@@ -36568,13 +36694,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": null
+			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "6-3, 10-1, 11-3, Any T3/4 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -36645,6 +36771,120 @@
 			}
 		}
 	},
+	"Awakening Pearl": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Awakening_Pearl",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Awakening Pearl",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Venus Vacation",
+		"image": "https://azurlane.koumakan.jp/w/images/2/2f/89240.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Vacation Lane (Volleyball Scrimmage day 7)",
+			"notes": "Venus Awakening Gem: When equipped by a Venus Vacation collab character: increases that ship's DMG dealt by 3.0%."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"evasion": {
+						"type": "min_max",
+						"min": "6",
+						"max": "15",
+						"formatted": "6 → 15"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "16",
+						"max": "25",
+						"formatted": "16 → 25"
+					}
+				}
+			}
+		}
+	},
+	"Celestial Body": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Celestial_Body",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Celestial Body",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/8/8a/89220.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Universe in Unison Special Reward",
+			"notes": "Ships equipped with this are classified as \"µ\" ships"
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"health": {
+						"type": "min_max",
+						"min": "250",
+						"max": "550",
+						"formatted": "250 → 550"
+					}
+				}
+			}
+		}
+	},
 	"Compressed Oxygen Cylinder": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Compressed_Oxygen_Cylinder",
 		"category": "Auxiliary Equipment",
@@ -36672,13 +36912,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Opposite-Colored Rerun Exchange Shop (1000 )",
-			"notes": "Limit one of any oxygen increasing aux per ship; cannot equip alongside Improved Snorkel.",
-			"animation": null
+			"notes": "Limit one of any oxygen increasing aux per ship; cannot equip alongside Improved Snorkel."
 		},
 		"tiers": {
 			"T0": {
@@ -36701,7 +36941,7 @@
 	},
 	"Consolidated PBY-5A Catalina": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Consolidated_PBY-5A_Catalina",
-		"category": "Auxiliary Equipment",
+		"category": "Anti-Submarine Equipment",
 		"names": {
 			"en": "Consolidated PBY-5A Catalina",
 			"cn": "PBY-5A卡特琳娜水上机",
@@ -36726,13 +36966,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Microlayer Medley event shop",
-			"notes": "Provides aerial reconnaissance, decreasing Ambush chance by 10.0% and increasing Ambush evasion chance by 10.0%. Effect does not stack.",
-			"animation": null
+			"notes": "Provides aerial reconnaissance, decreasing Ambush chance by 10.0% and increasing Ambush evasion chance by 10.0%. Effect does not stack."
 		},
 		"tiers": {
 			"T0": {
@@ -36761,7 +37001,7 @@
 	},
 	"Corn Lantern": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Corn_Lantern",
-		"category": "Auxiliary Equipment",
+		"category": "Anti-Submarine Equipment",
 		"names": {
 			"en": "Corn Lantern",
 			"cn": null,
@@ -36786,13 +37026,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Available from point exchange during \"Looking Glass of Fact and Fiction\" event.",
-			"notes": "When equipped by a Hololive ship: decreases their damage taken by 4.0%",
-			"animation": null
+			"notes": "When equipped by a Hololive ship: decreases their damage taken by 4.0%"
 		},
 		"tiers": {
 			"T0": {
@@ -36814,6 +37054,66 @@
 						"min": "9",
 						"max": "24",
 						"formatted": "9 → 24"
+					}
+				}
+			}
+		}
+	},
+	"Cosmic Kicks": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Cosmic_Kicks",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Cosmic Kicks",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/a/a8/89200.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Universe in Unison Special Reward",
+			"notes": "Cosmic Kicks: Ships equipped with this are classified as \"µ\" ships."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"evasion": {
+						"type": "min_max",
+						"min": "13",
+						"max": "28",
+						"formatted": "13 → 28"
+					},
+					"spd": {
+						"type": "min_max",
+						"min": "1",
+						"max": "5",
+						"formatted": "1 → 5"
 					}
 				}
 			}
@@ -36846,13 +37146,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "5-3, Any T3/T4 Tech box",
-			"notes": "Increases HP of Carrier-based aircraft by 120.",
-			"animation": null
+			"notes": "Increases HP of Carrier-based aircraft by 120."
 		},
 		"tiers": {
 			"T1": {
@@ -36923,6 +37223,66 @@
 			}
 		}
 	},
+	"Eagle Union Elite Damage Control": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Eagle_Union_Elite_Damage_Control",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Eagle Union Elite Damage Control",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Eagle Union",
+		"image": "https://azurlane.koumakan.jp/w/images/1/15/840.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Collection Reward (Yorktown Class 3rd rank)",
+			"notes": "The Eagle Union's esteemed damage control teams helped prevent many a casualty during the war.Elite Damage Control Manjuu (Eagle Union): When the ship with this gear equipped is hit by an attack that would otherwise sink it: the ship survives, becomes invulnerable for 8s, and then sinks. Effect only applies to Eagle Union ships."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"health": {
+						"type": "min_max",
+						"min": "200",
+						"max": "500",
+						"formatted": "200 → 500"
+					},
+					"antiair": {
+						"type": "min_max",
+						"min": "8",
+						"max": "20",
+						"formatted": "8 → 20"
+					}
+				}
+			}
+		}
+	},
 	"Fire Control Radar": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Fire_Control_Radar",
 		"category": "Auxiliary Equipment",
@@ -36950,13 +37310,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": "primary",
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "4-3, 10-3, Any T3/4 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -37031,7 +37391,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Fire_Extinguisher",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "Fire Extinguisher",
+			"en": "Fire Suppressor",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -37054,13 +37414,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "2-3, Any T2/3 Tech box",
-			"notes": "Chance of catching fire reduced by 30%, reduces duration of fire effect by 6s, reduces damage taken from fire by 20%",
-			"animation": null
+			"notes": "Chance of catching fire reduced by 30%, reduces duration of fire effect by 6s, reduces damage taken from fire by 20%"
 		},
 		"tiers": {
 			"T1": {
@@ -37113,6 +37473,66 @@
 			}
 		}
 	},
+	"Frontier Medal": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Frontier_Medal",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Frontier Medal",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/2/22/820.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Collection Reward (First Carriers 3rd rank)",
+			"notes": "A medal given to aviation tactics pioneers. As the age of big ships with big guns draws to a close, the era of naval aerial control is ushered in.Frontier Medal: [Naval Exercise Gear; only 1 gear of this type will work if multiple are equipped] When equipped by your Flagship: increases the DMG dealt by both sides' CVs and CVLs by 10.0%, and decreases the DMG dealt by both sides' BBs and BCs by 10.0%."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"health": {
+						"type": "min_max",
+						"min": "20",
+						"max": "60",
+						"formatted": "20 → 60"
+					},
+					"aviation": {
+						"type": "min_max",
+						"min": "40",
+						"max": "100",
+						"formatted": "40 → 100"
+					}
+				}
+			}
+		}
+	},
 	"Fuel Filter": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Fuel_Filter",
 		"category": "Auxiliary Equipment",
@@ -37140,13 +37560,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "3-1, 9-2, 10-4, Encircling Graf Spee map drop, Any T3/T4 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -37243,13 +37663,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Available as Point Accumulation reward during \"Looking Glass of Fact and Fiction\" event.",
-			"notes": "Any ship equipping this gear will be treated as part of the Hololive faction.",
-			"animation": null
+			"notes": "Any ship equipping this gear will be treated as part of the Hololive faction."
 		},
 		"tiers": {
 			"T0": {
@@ -37297,13 +37717,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "6-2, 10-2, Any T3/4 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -37400,13 +37820,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": null
+			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Akashi's questline reward",
-			"notes": "When equipped by Akashi, increases healing effects by 20%",
-			"animation": null
+			"notes": "When equipped by Akashi, increases healing effects by 20%"
 		},
 		"tiers": {
 			"T0": {
@@ -37422,6 +37842,66 @@
 						"min": "120",
 						"max": "300",
 						"formatted": "120 → 300"
+					}
+				}
+			}
+		}
+	},
+	"Heart Key": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Heart_Key",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Heart Key",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/5/52/89260.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Vacation Lane (8000 Venus Points)",
+			"notes": "Heart Key: When sortieing with a character equipped with this gear: changes the battle music."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antiair": {
+						"type": "min_max",
+						"min": "14",
+						"max": "35",
+						"formatted": "14 → 35"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "15",
+						"max": "30",
+						"formatted": "15 → 30"
 					}
 				}
 			}
@@ -37454,13 +37934,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "Reduces likelihood of encountering Ambush/Airstrikes by 12%.Does not improve likelihood of evading Ambushes.Does not stack with SG Radar.",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 1/2/3).",
+			"notes": "Reduces likelihood of encountering Ambush/Airstrikes by 12%.Does not improve likelihood of evading Ambushes.Does not stack with SG Radar."
 		},
 		"tiers": {
 			"T0": {
@@ -37508,13 +37988,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Research (Series 3), Fallen Wings points gacha reward",
-			"notes": "Reduces cooldown of first shelling by 15%.",
-			"animation": null
+			"notes": "Reduces cooldown of first shelling by 15%."
 		},
 		"tiers": {
 			"T0": {
@@ -37568,13 +38048,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "Model 72/DM homing beacon. It is mounted on an aircraft carrier's mast to aid in adjusting the relative position between it and its aircraft during landing.Decreases the cooldown of airstrikes by 4%.",
-			"animation": null
+			"notes": "Model 72/DM homing beacon. It is mounted on an aircraft carrier's mast to aid in adjusting the relative position between it and its aircraft during landing.Decreases the cooldown of airstrikes by 4%."
 		},
 		"tiers": {
 			"T0": {
@@ -37622,13 +38102,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "2-1, Any T2/3 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -37703,7 +38183,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Improved_Boiler",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "Improved Boiler",
+			"en": "Advanced Boiler",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -37726,13 +38206,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "5-1, 9-1, Any T3/T4 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -37806,7 +38286,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "Improved Hydraulic Rudder",
+			"en": "High Performance Hydraulic Steering Gear",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -37829,13 +38309,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
-			"obtainedFrom": "Acquired through research only.",
-			"notes": "Every 20 sec 30% chance to activate perfect dodge for 2 second",
-			"animation": null
+			"obtainedFrom": "Acquired through research only (series 1/2/3).",
+			"notes": "Every 20 sec 30% chance to activate perfect dodge for 2 second"
 		},
 		"tiers": {
 			"T0": {
@@ -37875,7 +38355,7 @@
 			"focus": "Armor",
 			"name": "Auxiliary"
 		},
-		"nationality": "Universal",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/4/4f/3120.png",
 		"fits": {
 			"destroyer": null,
@@ -37889,13 +38369,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Limit one of any oxygen increasing aux per ship; cannot equip alongside Compressed Oxygen Cylinder.",
-			"animation": null
+			"notes": "Limit one of any oxygen increasing aux per ship; cannot equip alongside Compressed Oxygen Cylinder."
 		},
 		"tiers": {
 			"T0": {
@@ -37929,7 +38409,7 @@
 			"focus": "Armor",
 			"name": "Auxiliary"
 		},
-		"nationality": "Universal",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/b/bc/3140.png",
 		"fits": {
 			"destroyer": null,
@@ -37943,13 +38423,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Increase submarine's hunting range by 1 → 2",
-			"animation": null
+			"notes": "Increase submarine's hunting range by 1 → 2"
 		},
 		"tiers": {
 			"T0": {
@@ -37997,13 +38477,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "\"Decryption\" event in Northern Overture",
-			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies.",
-			"animation": null
+			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies."
 		},
 		"tiers": {
 			"T0": {
@@ -38057,13 +38537,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Virtual Connection Synchronicity Event Shop",
-			"notes": "A plugin chip that Kizuna AI uses to...? --No talking shit!For the duration of the Kizuna AI Collaboration event, changes the auto battle movement pattern to a diamond shape.",
-			"animation": null
+			"notes": "A plugin chip that Kizuna AI uses to...? --No talking shit!For the duration of the Kizuna AI Collaboration event, changes the auto battle movement pattern to a diamond shape."
 		},
 		"tiers": {
 			"T0": {
@@ -38117,13 +38597,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Collection reward",
-			"notes": "Increases Movement Speed of all ships by 20%",
-			"animation": null
+			"notes": "Increases Movement Speed of all ships by 20%"
 		},
 		"tiers": {
 			"T0": {
@@ -38177,13 +38657,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "2-2, Any T2/3 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -38254,6 +38734,65 @@
 			}
 		}
 	},
+	"Nelson's Pennant of Victory": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Nelson%27s_Pennant_of_Victory",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Nelson's Pennant of Victory",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/7/76/880.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Collection Reward (Nelson Class 3rd rank)",
+			"notes": "\"The Royal Navy expects that every soldier will do their duty.\"Pennant of Victory: After the battle starts: for 6s, the ship with this gear equipped absorbs 24.0% of the DMG taken by the ship in the frontmost position of your Vanguard."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"value": "20",
+						"formatted": "20"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "8",
+						"max": "20",
+						"formatted": "8 → 20"
+					}
+				}
+			}
+		}
+	},
 	"NY City Coast Recon Report": {
 		"wikiUrl": "https://azurlane.koumakan.jp/NY_City_Coast_Recon_Report",
 		"category": "Auxiliary Equipment",
@@ -38281,13 +38820,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Approaching Storm event reward.",
-			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies.",
-			"animation": null
+			"notes": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies."
 		},
 		"tiers": {
 			"T0": {
@@ -38327,7 +38866,7 @@
 			"focus": "Armor",
 			"name": "Auxiliary"
 		},
-		"nationality": "North Union",
+		"nationality": "Northern Parliament",
 		"image": "https://azurlane.koumakan.jp/w/images/8/85/1960.png",
 		"fits": {
 			"destroyer": "primary",
@@ -38341,13 +38880,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Shop",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -38401,13 +38940,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Collection reward",
-			"notes": "When ship carrying this item sinks, restores 10% HP to all other ships",
-			"animation": null
+			"notes": "When ship carrying this item sinks, restores 10% HP to all other ships"
 		},
 		"tiers": {
 			"T0": {
@@ -38423,6 +38962,66 @@
 						"min": "200",
 						"max": "500",
 						"formatted": "200 → 500"
+					}
+				}
+			}
+		}
+	},
+	"Pressure-Resistant Hull Design": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Pressure-Resistant Hull Design",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Iron Blood",
+		"image": "https://azurlane.koumakan.jp/w/images/c/cf/800.png",
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Core Data",
+			"notes": "Increases a submarine's Speed by 20% and moves it forward another 8 units after it enters battle."
+		},
+		"tiers": {
+			"T2": {
+				"tier": "T2",
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"health": {
+						"type": "min_max",
+						"min": "40",
+						"max": "100",
+						"formatted": "40 → 100"
+					},
+					"torpedo": {
+						"type": "min_max",
+						"min": "15",
+						"max": "35",
+						"formatted": "15 → 35"
 					}
 				}
 			}
@@ -38455,13 +39054,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Virtual Connection Synchronicity Event Shop",
-			"notes": "Kizuna AI's headband. It's a flippy-floppy wing-dang-doodle of a honkin' good time that goes on your head.Adds an additional KizunaAI nationality to the equipped ship. Original nationality still applies.",
-			"animation": null
+			"notes": "Kizuna AI's headband. It's a flippy-floppy wing-dang-doodle of a honkin' good time that goes on your head.Adds an additional KizunaAI nationality to the equipped ship. Original nationality still applies."
 		},
 		"tiers": {
 			"T0": {
@@ -38512,16 +39111,16 @@
 			"battleship": "primary",
 			"battlecruiser": "primary",
 			"aviationBattleship": "primary",
-			"aircraftCarrier": "primary",
-			"lightCarrier": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "1-4, Any T2/T3 Tech box",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -38619,13 +39218,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Virtual Connection Synchronicity Event Shop",
-			"notes": "A helpful tool for planning. Rumor has it, when the moon is full, the seas are clear, and the time is right, it will speak to you...?Adds random Kizuna AI weapon skins to your equipment during sorties. Only applies to KizunaAI ships.",
-			"animation": null
+			"notes": "A helpful tool for planning. Rumor has it, when the moon is full, the seas are clear, and the time is right, it will speak to you...?Adds random Kizuna AI weapon skins to your equipment during sorties. Only applies to KizunaAI ships."
 		},
 		"tiers": {
 			"T0": {
@@ -38656,7 +39255,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Repair_Toolkit",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "Repair Toolkit",
+			"en": "Repair Tools",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -38679,13 +39278,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": null
+			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "3-4, 10-3, Any T3/4 Tech box",
-			"notes": "Restores 1% max HP every 15s",
-			"animation": null
+			"notes": "Restores 1% max HP every 15s"
 		},
 		"tiers": {
 			"T1": {
@@ -38738,6 +39337,126 @@
 			}
 		}
 	},
+	"Resplendent Astrum": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Resplendent_Astrum",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Resplendent Astrum",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/2/22/89180.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Universe in Unison Special Reward",
+			"notes": "\"May our songs spread the light of love and peace.\"Resplendent Astrum: When sortieing with a ship equipped with this gear: changes the battle music to Blue Spirit. The song will be chosen randomly if several types of music-changing gear is used at once."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antiair": {
+						"type": "min_max",
+						"min": "14",
+						"max": "35",
+						"formatted": "14 → 35"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "15",
+						"max": "30",
+						"formatted": "15 → 30"
+					}
+				}
+			}
+		}
+	},
+	"Sacred Lumière": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Sacred_Lumi%C3%A8re",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Sacred Lumière",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/6/67/89160.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Universe in Unison Milestones Reward",
+			"notes": "\"Purify your sinful hearts in the Iris's holy sounds.\"Sacred Lumière: When sortieing with a ship equipped with this gear: changes the battle music to A Song of Prayer. The song will be chosen randomly if several types of music-changing gear is used at once."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antiair": {
+						"type": "min_max",
+						"min": "14",
+						"max": "35",
+						"formatted": "14 → 35"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "15",
+						"max": "30",
+						"formatted": "15 → 30"
+					}
+				}
+			}
+		}
+	},
 	"Seal of the Four Gods": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Seal_of_the_Four_Gods",
 		"category": "Auxiliary Equipment",
@@ -38751,7 +39470,7 @@
 			"focus": "Armor",
 			"name": "Auxiliary"
 		},
-		"nationality": "Eastern Radiance",
+		"nationality": "Dragon Empery",
 		"image": "https://azurlane.koumakan.jp/w/images/c/c9/3300.png",
 		"fits": {
 			"destroyer": "primary",
@@ -38765,13 +39484,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "When equipped on Anshan class: Increase main gun damage by 16% and improve their barrage.\nEach Anshan class receives a different colored barrage (this does not affect damage type) when equipped:\n\nAn Shan - Green\nFu Shun - Red\nChang Chun - Yellow\nTai Yuan - Blue",
-			"animation": null
+			"notes": "When equipped on Anshan class: Increase main gun damage by 16% and improve their barrage.\nEach Anshan class receives a different colored barrage (this does not affect damage type) when equipped:\n\nAn Shan - Green\nFu Shun - Red\nChang Chun - Yellow\nTai Yuan - Blue"
 		},
 		"tiers": {
 			"T0": {
@@ -38819,13 +39538,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "6-1, 10-2, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research.",
-			"notes": "Improves likelihood of evading Ambushes by 12%, reduces likelihood of encountering Ambush/Airstrikes by 12%",
-			"animation": null
+			"notes": "Improves likelihood of evading Ambushes by 12%, reduces likelihood of encountering Ambush/Airstrikes by 12%"
 		},
 		"tiers": {
 			"T1": {
@@ -38900,7 +39619,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Ship_Maintenance_Crane",
 		"category": "Auxiliary Equipment",
 		"names": {
-			"en": "Ship Maintenance Crane",
+			"en": "Repair Toolkit",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -38923,13 +39642,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": "primary",
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "9-2, Any T4/T5 Tech Box. Blueprints can also be obtained through Research.",
-			"notes": "Every 5s, restores 15 HP to the most damaged ship.",
-			"animation": null
+			"notes": "Every 5s, restores 15 HP to the most damaged ship."
 		},
 		"tiers": {
 			"T1": {
@@ -39009,13 +39728,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Any T4/T5 Tech box. Blueprints can also be obtained through Research.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -39113,13 +39832,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Increases main gun critical chance by 8%.",
-			"animation": null
+			"notes": "Increases main gun critical chance by 8%."
 		},
 		"tiers": {
 			"T0": {
@@ -39167,13 +39886,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Available from the \"Resistance Rally\" minigame during \"Looking Glass of Fact and Fiction\" event.",
-			"notes": "When equipped by a Hololive ship: increases their damage dealt by 3.0%.",
-			"animation": null
+			"notes": "When equipped by a Hololive ship: increases their damage dealt by 3.0%."
 		},
 		"tiers": {
 			"T0": {
@@ -39227,13 +39946,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Increases main gun critical damage by 25%.",
-			"animation": null
+			"notes": "Increases main gun critical damage by 25%."
 		},
 		"tiers": {
 			"T0": {
@@ -39287,13 +40006,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "T3/T4 Sakura Tech Box",
-			"notes": "Increases main gun critical damage by 15%.",
-			"animation": null
+			"notes": "Increases main gun critical damage by 15%."
 		},
 		"tiers": {
 			"T0": {
@@ -39340,20 +40059,20 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "primary",
 			"battleship": null,
 			"battlecruiser": null,
 			"aviationBattleship": null,
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange, Event Exchange",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -39451,13 +40170,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": "primary",
 			"repairShip": "primary",
+			"munitionShip": "primary",
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "A high-angle anti-air device equipped with a rangefinder. Used to support anti-air guns for more effective anti-air defense.",
-			"animation": null
+			"notes": "A high-angle anti-air device equipped with a rangefinder. Used to support anti-air guns for more effective anti-air defense."
 		},
 		"tiers": {
 			"T0": {
@@ -39511,13 +40230,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data",
-			"notes": "Decrease the main gun spread of the equipped ship by 2",
-			"animation": null
+			"notes": "Decrease the main gun spread of the equipped ship by 2"
 		},
 		"tiers": {
 			"T0": {
@@ -39551,7 +40270,7 @@
 			"focus": "Armor",
 			"name": "Auxiliary"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/8/8c/720.png",
 		"fits": {
 			"destroyer": null,
@@ -39565,13 +40284,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": "primary",
 			"submarineCarrier": "primary"
 		},
 		"misc": {
 			"obtainedFrom": "One Small Promise completion reward",
-			"notes": "When equipped by U-556, increases the time she can stay in combat after surfacing by 4s. Increases her hunting range by 1.When equipped by Bismarck, decreases the effect of the Out of Ammo debuff from 50% to 35% on the main fleet.",
-			"animation": null
+			"notes": "When equipped by U-556, increases the time she can stay in combat after surfacing by 4s. Increases her hunting range by 1.When equipped by Bismarck, decreases the effect of the Out of Ammo debuff from 50% to 35% on the main fleet."
 		},
 		"tiers": {
 			"T0": {
@@ -39625,13 +40344,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Crosswave individual point reward",
-			"notes": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 4% and decreases its DMG taken from HE and Normal ammo by 2%",
-			"animation": null
+			"notes": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 4% and decreases its DMG taken from HE and Normal ammo by 2%"
 		},
 		"tiers": {
 			"T0": {
@@ -39679,13 +40398,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Crosswave individual point reward",
-			"notes": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 6% and decreases its DMG taken from HE and Normal ammo by 3% When equipped by a ship with an Armor Type other than Heavy: changes its Armor Type to Heavy",
-			"animation": null
+			"notes": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 6% and decreases its DMG taken from HE and Normal ammo by 3% When equipped by a ship with an Armor Type other than Heavy: changes its Armor Type to Heavy"
 		},
 		"tiers": {
 			"T0": {
@@ -39701,6 +40420,126 @@
 						"min": "350",
 						"max": "650",
 						"formatted": "350 → 650"
+					}
+				}
+			}
+		}
+	},
+	"Washington Naval Treaty": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Washington_Naval_Treaty",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "Washington Naval Treaty",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/5/53/860.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Collection Reward (Northampton Class 3rd rank)",
+			"notes": "\"Our nations have resolved, with a view to accomplishing these purposes, to conclude a treaty to limit their respective naval armament.\"Naval Treaty: [Naval Exercise Gear; only 1 gear of this type will work if multiple are equipped] When equipped by your Flagship: decreases the DMG dealt by both sides' ships by 15.0%."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"evasion": {
+						"type": "min_max",
+						"min": "8",
+						"max": "20",
+						"formatted": "8 → 20"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "12",
+						"max": "30",
+						"formatted": "12 → 30"
+					}
+				}
+			}
+		}
+	},
+	"White-Hot Verheerender": {
+		"wikiUrl": "https://azurlane.koumakan.jp/White-Hot_Verheerender",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"en": "White-Hot Verheerender",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"nationality": "Universal",
+		"image": "https://azurlane.koumakan.jp/w/images/d/d8/89140.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"misc": {
+			"obtainedFrom": "Universe in Unison Event Shop",
+			"notes": "\"For your ears, Commander, and yours alone.\"White-Hot Verheerender: When sortieing with a ship equipped with this gear: changes the battle music to Seafarer's Loyalty. The song will be chosen randomly if several types of music-changing gear is used at once."
+		},
+		"tiers": {
+			"T0": {
+				"tier": "T0",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antiair": {
+						"type": "min_max",
+						"min": "14",
+						"max": "35",
+						"formatted": "14 → 35"
+					},
+					"accuracy": {
+						"type": "min_max",
+						"min": "15",
+						"max": "30",
+						"formatted": "15 → 30"
 					}
 				}
 			}
@@ -39733,13 +40572,13 @@
 			"aircraftCarrier": "primary",
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Reward from The Return of the War God limited tasks.",
-			"notes": "Increases Critical Rate by 5%. When equipped on Mikasa: increases fleet FP and Accuracy by 5%.",
-			"animation": null
+			"notes": "Increases Critical Rate by 5%. When equipped on Mikasa: increases fleet FP and Accuracy by 5%."
 		},
 		"tiers": {
 			"T0": {
@@ -39798,13 +40637,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Blueprint drop on X-5 maps (Anti-Submarine Warfare) from boss node. Submarine Tech Box",
-			"notes": "Launches a single depth charge toward an enemy submarine.",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -39816,10 +40655,11 @@
 				},
 				"stats": {
 					"damage": {
-						"type": "min_max",
-						"min": "31",
-						"max": "40",
-						"formatted": "31  → 40"
+						"type": "min_max_multiplier",
+						"min": "16",
+						"max": "20",
+						"multiplier": "3",
+						"formatted": "16 × 3 → 20 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -39827,6 +40667,13 @@
 						"max": "4.36s",
 						"per": "volley",
 						"formatted": "4.52s → 4.36s per volley"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
 					}
 				}
 			},
@@ -39844,10 +40691,11 @@
 						"formatted": "5"
 					},
 					"damage": {
-						"type": "min_max",
-						"min": "38",
-						"max": "48",
-						"formatted": "38  → 48"
+						"type": "min_max_multiplier",
+						"min": "19",
+						"max": "24",
+						"multiplier": "3",
+						"formatted": "19 × 3 → 24 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -39855,6 +40703,13 @@
 						"max": "4.19s",
 						"per": "volley",
 						"formatted": "4.39s → 4.19s per volley"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
 					}
 				}
 			},
@@ -39872,10 +40727,11 @@
 						"formatted": "12"
 					},
 					"damage": {
-						"type": "min_max",
-						"min": "45",
-						"max": "73",
-						"formatted": "45  → 73"
+						"type": "min_max_multiplier",
+						"min": "22",
+						"max": "37",
+						"multiplier": "3",
+						"formatted": "22 × 3 → 37 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -39883,6 +40739,13 @@
 						"max": "3.78s",
 						"per": "volley",
 						"formatted": "4.26s → 3.78s per volley"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
 					}
 				}
 			}
@@ -39915,13 +40778,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Spots submerged enemies within specified range. DDs / CLs will launch a depth charge when in range, launching a stock charge if one is not equipped.",
-			"animation": null
+			"notes": "Spots submerged enemies within specified range. DDs / CLs will launch a depth charge when in range, launching a stock charge if one is not equipped."
 		},
 		"tiers": {
 			"T1": {
@@ -40052,13 +40915,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Opposite-Colored Rerun Event Shop (1000 Pt)",
-			"notes": "Mounts Standard Depth Charge.",
-			"animation": null
+			"notes": "Mounts Standard Depth Charge."
 		},
 		"tiers": {
 			"T1": {
@@ -40076,9 +40939,9 @@
 					},
 					"damage": {
 						"type": "min_max",
-						"min": "28",
-						"max": "35",
-						"formatted": "28  → 35"
+						"min": "37",
+						"max": "47",
+						"formatted": "37  → 47"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -40110,9 +40973,9 @@
 					},
 					"damage": {
 						"type": "min_max",
-						"min": "34",
-						"max": "52",
-						"formatted": "34  → 52"
+						"min": "45",
+						"max": "69",
+						"formatted": "45  → 69"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -40144,9 +41007,9 @@
 					},
 					"damage": {
 						"type": "min_max",
-						"min": "42",
-						"max": "84",
-						"formatted": "42  → 84"
+						"min": "56",
+						"max": "112",
+						"formatted": "56  → 112"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -40178,7 +41041,7 @@
 			"focus": "Aviation",
 			"name": "ASW Helicopter"
 		},
-		"nationality": "Ironblood",
+		"nationality": "Iron Blood",
 		"image": "https://azurlane.koumakan.jp/w/images/c/c7/740.png",
 		"fits": {
 			"destroyer": null,
@@ -40192,13 +41055,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Scherzo of Iron and Blood event milestone.",
-			"notes": "No notes",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T0": {
@@ -40246,13 +41109,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": "primary",
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "Core Data Exchange",
-			"notes": "Mounts Wide-Area Depth Charge.",
-			"animation": null
+			"notes": "Mounts Wide-Area Depth Charge."
 		},
 		"tiers": {
 			"T1": {
@@ -40270,9 +41133,9 @@
 					},
 					"damage": {
 						"type": "min_max",
-						"min": "25",
-						"max": "31",
-						"formatted": "25  → 31"
+						"min": "33",
+						"max": "41",
+						"formatted": "33  → 41"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -40304,9 +41167,9 @@
 					},
 					"damage": {
 						"type": "min_max",
-						"min": "30",
-						"max": "48",
-						"formatted": "30  → 48"
+						"min": "40",
+						"max": "64",
+						"formatted": "40  → 64"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -40338,9 +41201,9 @@
 					},
 					"damage": {
 						"type": "min_max",
-						"min": "36",
-						"max": "72",
-						"formatted": "36  → 72"
+						"min": "48",
+						"max": "96",
+						"formatted": "48  → 96"
 					},
 					"rateOfFire": {
 						"type": "min_max",
@@ -40355,6 +41218,85 @@
 							"formatted": "Wide-Area Depth Charge"
 						}
 					]
+				}
+			}
+		}
+	},
+	"Hedgehog": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Hedgehog",
+		"category": "Anti-Submarine Equipment",
+		"names": {
+			"en": "Hedgehog",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		},
+		"type": {
+			"focus": "Anti-submarine warfare",
+			"name": "Depth Charge"
+		},
+		"nationality": "Royal Navy",
+		"image": "https://azurlane.koumakan.jp/w/images/4/42/25800.png",
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"misc": {
+			"obtainedFrom": "Clear the Supply Line Disruption Daily.",
+			"notes": "The average damage is shown; actual damage ranges from 2/3 to 4/3 this value.Only creates one explosion that does actual damage. The individual projectiles are merely cosmetic."
+		},
+		"tiers": {
+			"T3": {
+				"tier": "T3",
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antisubmarineWarfare": {
+						"type": "value",
+						"value": "45",
+						"formatted": "45"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "127.5",
+						"max": "279",
+						"multiplier": "1",
+						"formatted": "127.5 × 1 → 279 × 1"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "4.32s",
+						"max": "3.33s",
+						"per": "volley",
+						"formatted": "4.32s → 3.33s per volley"
+					},
+					"range": {
+						"type": "value",
+						"value": "50",
+						"formatted": "50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "1",
+						"unit": "shells",
+						"formatted": "1 × 1 shells"
+					}
 				}
 			}
 		}
@@ -40386,13 +41328,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Launches a single depth charge toward an enemy submarine.",
-			"animation": null
+			"notes": "No notes"
 		},
 		"tiers": {
 			"T1": {
@@ -40409,10 +41351,11 @@
 						"formatted": "5"
 					},
 					"damage": {
-						"type": "min_max",
-						"min": "41",
-						"max": "52",
-						"formatted": "41  → 52"
+						"type": "min_max_multiplier",
+						"min": "20",
+						"max": "26",
+						"multiplier": "3",
+						"formatted": "20 × 3 → 26 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -40420,6 +41363,18 @@
 						"max": "4.12s",
 						"per": "volley",
 						"formatted": "4.32s → 4.12s per volley"
+					},
+					"range": {
+						"type": "value",
+						"value": "30",
+						"formatted": "30"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
 					}
 				}
 			},
@@ -40437,10 +41392,11 @@
 						"formatted": "12"
 					},
 					"damage": {
-						"type": "min_max",
-						"min": "48",
-						"max": "78",
-						"formatted": "48  → 78"
+						"type": "min_max_multiplier",
+						"min": "24",
+						"max": "39",
+						"multiplier": "3",
+						"formatted": "24 × 3 → 39 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -40448,6 +41404,18 @@
 						"max": "3.68s",
 						"per": "volley",
 						"formatted": "4.16s → 3.68s per volley"
+					},
+					"range": {
+						"type": "value",
+						"value": "30",
+						"formatted": "30"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
 					}
 				}
 			},
@@ -40465,10 +41433,11 @@
 						"formatted": "25"
 					},
 					"damage": {
-						"type": "min_max",
-						"min": "55",
-						"max": "120",
-						"formatted": "55  → 120"
+						"type": "min_max_multiplier",
+						"min": "27",
+						"max": "61",
+						"multiplier": "3",
+						"formatted": "27 × 3 → 61 × 3"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -40476,6 +41445,18 @@
 						"max": "2.99s",
 						"per": "volley",
 						"formatted": "3.99s → 2.99s per volley"
+					},
+					"range": {
+						"type": "value",
+						"value": "30",
+						"formatted": "30"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
 					}
 				}
 			}
@@ -40485,7 +41466,7 @@
 		"wikiUrl": "https://azurlane.koumakan.jp/Improved_Sonar",
 		"category": "Anti-Submarine Equipment",
 		"names": {
-			"en": "Improved Sonar",
+			"en": "Advanced Sonar",
 			"cn": null,
 			"jp": null,
 			"kr": null
@@ -40508,13 +41489,13 @@
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
+			"munitionShip": null,
 			"submarine": null,
 			"submarineCarrier": null
 		},
 		"misc": {
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node.",
-			"notes": "Spots submerged enemies within specified range. DDs / CLs will launch a depth charge when in range, launching a stock charge if one is not equipped.",
-			"animation": null
+			"notes": "Increases Scan Range by 8.  Decreases the TRP of detected enemy submarines by 5.0%. Effect does not stack."
 		},
 		"tiers": {
 			"T1": {
@@ -40539,14 +41520,8 @@
 					},
 					"range": {
 						"type": "value",
-						"value": "48",
-						"formatted": "48"
-					},
-					"pingFrequency": {
-						"type": "value_unit",
-						"value": "4",
-						"unit": "s per sweep",
-						"formatted": "4s per sweep"
+						"value": "5",
+						"formatted": "5"
 					}
 				}
 			},
@@ -40572,14 +41547,8 @@
 					},
 					"range": {
 						"type": "value",
-						"value": "48",
-						"formatted": "48"
-					},
-					"pingFrequency": {
-						"type": "value_unit",
-						"value": "3.8",
-						"unit": "s per sweep",
-						"formatted": "3.8s per sweep"
+						"value": "5",
+						"formatted": "5"
 					}
 				}
 			},
@@ -40605,14 +41574,8 @@
 					},
 					"range": {
 						"type": "value",
-						"value": "48",
-						"formatted": "48"
-					},
-					"pingFrequency": {
-						"type": "value_unit",
-						"value": "3.5",
-						"unit": "s per sweep",
-						"formatted": "3.5s per sweep"
+						"value": "8",
+						"formatted": "8"
 					}
 				}
 			}
