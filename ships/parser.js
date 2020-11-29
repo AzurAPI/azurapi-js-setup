@@ -13,27 +13,36 @@ const NATIONALITY = {
     3: "Sakura Empire", 4: "Iron Blood", 5: "Dragon Empery",
     6: "Sardegna Empire", 7: "Northern Parliament", 8: "Iris Libre",
     9: "Vichya Dominion", 98: "Universal", 101: "Neptunia",
-    104: "Kizuna AI", 105: "Hololive"
+    104: "Kizuna AI", 105: "Hololive", 106: "Venus Vacation"
 };
 
 const UNRELEASED = ['Tone', 'Chikuma', 'Pola', 'Vittorio Veneto', 'Kirov', 'Sovetsky Soyuz'];
 
-function findShip(id, name) {
+function findShip(id, name, nationality) {
     name = name
         .replace(/ ?\(Battleship\)/, '(BB)')
         .replace('\u00b5', '\u03bc')
         .replace('Pamiat Merkuria', 'Pamiat\' Merkuria')
         .replace('Ookami', 'Ōkami')
+        .replace('Kasumi (DOA)', 'Kasumi')
         .trim();
     if (id_map[id]) return reference[id_map[id]];
     for (let ship of Object.values(reference)) {
         if (!ship.name) continue;
-        if (ship.name.en === name || ship.name.cn === name || ship.name.code === name) {
+        if ((ship.name.en === name || ship.name.cn === name || ship.name.code === name) && NATIONALITY[ship.nationality] === nationality) {
             id_map[id] = ship.id;
             fs.writeFileSync(path.resolve(__dirname, './id-map.json'), JSON.stringify(id_map));
             return ship;
         }
     }
+    for (let ship of Object.values(reference)) {
+        if (!ship.name) continue;
+        if ((ship.name.en === name || ship.name.cn === name || ship.name.code === name)) {
+            id_map[id] = ship.id;
+            fs.writeFileSync(path.resolve(__dirname, './id-map.json'), JSON.stringify(id_map));
+            return ship;
+        }
+    } // repeat but ignores nationality
     if (UNRELEASED.includes(name)) {
         return {
             name: {en: name, code: name},
@@ -47,7 +56,7 @@ function findShip(id, name) {
 
 function parseShip(id, name, body) {
     const doc = new JSDOM(body).window.document;
-    let referenceShip = findShip(id, name);
+    let referenceShip = findShip(id, name, doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent);
     let ship = {
         wikiUrl: `${BASE}/${name.replace(/ +/g, "_")}`,
         id: id,

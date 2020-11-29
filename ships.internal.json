@@ -7878,7 +7878,7 @@
 				"level": 50,
 				"levelBreakLevel": 2,
 				"levelBreakStars": "★★★★☆",
-				"recurrence": 1,
+				"recurrence": 2,
 				"require": [
 					"E"
 				]
@@ -9914,7 +9914,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
@@ -88875,15 +88875,15 @@
 			}
 		},
 		"enhanceValue": {
-			"firepower": null,
-			"torpedo": null,
-			"aviation": null,
-			"reload": null
+			"firepower": 7,
+			"torpedo": 17,
+			"aviation": 0,
+			"reload": 14
 		},
 		"scrapValue": {
-			"coin": null,
-			"oil": null,
-			"medal": null
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
 		},
 		"skills": [
 			{
@@ -89360,9 +89360,9 @@
 			"reload": 50
 		},
 		"scrapValue": {
-			"coin": null,
-			"oil": null,
-			"medal": null
+			"coin": 6,
+			"oil": 3,
+			"medal": 10
 		},
 		"skills": [
 			{
@@ -89850,9 +89850,9 @@
 			"reload": 48
 		},
 		"scrapValue": {
-			"coin": null,
-			"oil": null,
-			"medal": null
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
 		},
 		"skills": [
 			{
@@ -90092,9 +90092,9 @@
 			"reload": 56
 		},
 		"scrapValue": {
-			"coin": null,
-			"oil": null,
-			"medal": null
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
 		},
 		"skills": [
 			{
@@ -90320,9 +90320,9 @@
 			"reload": 30
 		},
 		"scrapValue": {
-			"coin": null,
-			"oil": null,
-			"medal": null
+			"coin": 9,
+			"oil": 3,
+			"medal": 4
 		},
 		"skills": [
 			{
@@ -93173,6 +93173,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Point milestone reward during \"Dreamwaker's Butterfly\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -94096,12 +94097,12 @@
 				}
 			},
 			{
-				"name": "Canoe Training",
+				"name": "Seaside Training",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/PrincetonSummer.png/590px-PrincetonSummer.png",
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/3/3c/PrincetonSummerChibi.png",
 				"info": {
-					"enClient": "Canoe Training",
+					"enClient": "Seaside Training",
 					"cnClient": "浅海的特别训练",
 					"jpClient": "カヌートレーニング",
 					"obtainedFrom": "Skin Shop",
@@ -95846,6 +95847,1412 @@
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Unreleased.png/50px-Unreleased.png",
 		"skins": [],
 		"rarity": "Unreleased",
+		"gallery": []
+	},
+	"10061": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Marie_Rose",
+		"id": "10061",
+		"names": {
+			"en": "Marie Rose",
+			"code": "Marie Rose",
+			"cn": "玛莉萝丝",
+			"jp": "マリー・ローズ"
+		},
+		"hexagon": [
+			2,
+			4,
+			0,
+			4,
+			1,
+			1
+		],
+		"class": null,
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/36/Marie_RoseIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "329",
+				"armor": "Light",
+				"reload": "82",
+				"luck": "78",
+				"firepower": "17",
+				"torpedo": "98",
+				"evasion": "71",
+				"speed": "42",
+				"antiair": "33",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "71",
+				"antisubmarineWarfare": "52"
+			},
+			"level100": {
+				"health": "1702",
+				"armor": "Light",
+				"reload": "194",
+				"luck": "78",
+				"firepower": "79",
+				"torpedo": "461",
+				"evasion": "186",
+				"speed": "42",
+				"antiair": "155",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "186",
+				"antisubmarineWarfare": "190"
+			},
+			"level120": {
+				"health": "2042",
+				"armor": "Light",
+				"reload": "223",
+				"luck": "78",
+				"firepower": "91",
+				"torpedo": "508",
+				"evasion": "192",
+				"speed": "42",
+				"antiair": "178",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "195",
+				"antisubmarineWarfare": "210"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 120,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 120,
+				"maxEfficiency": 140
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 114
+			}
+		},
+		"enhanceValue": {
+			"firepower": 6,
+			"torpedo": 32,
+			"aviation": 0,
+			"reload": 15
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/3f/Skill_106010.png",
+				"names": {
+					"en": "Rose's Thorns",
+					"cn": "玫瑰边刺",
+					"jp": "サイドローズ"
+				},
+				"description": "After the battle starts: for 60s, increases this ship's FP and TRP by 5.0% (15.0%). When this ship takes DMG: 4.0% (10.0%) chance to fire a Lv.1 (Lv.10) special barrage that always crits (DMG is based on the skill's level; 10s cooldown between activations.)",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/8/8a/Skill_106020.png",
+				"names": {
+					"en": "Vibrant Minuet",
+					"cn": "活泼的小步舞曲",
+					"jp": "ヴィブランテ・メヌエット"
+				},
+				"description": "Increases the DMG of this ship's first 3 torpedo launches of each battle by 30.0% (50.0%). When this ship fires its Torpedoes: for 8s, increases your Vanguard's Speed by 3 and EVA by 5.0% (15.0%) for the ship in the frontmost position of your Vanguard.",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "02:40:06",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Vacation Lane",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Mai Aizawa",
+				"url": "https://en.wikipedia.org/wiki/Mai_Aizawa"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/Marie_Rose.png/501px-Marie_Rose.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/d/dc/Marie_RoseChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Devilish Servant Against the Splashing Waves",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/84/Marie_RoseSummer.png/481px-Marie_RoseSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9b/Marie_RoseSummerChibi.png",
+				"info": {
+					"enClient": "Devilish Servant Against the Splashing Waves",
+					"cnClient": "浪花与小恶魔从者",
+					"jpClient": "波しぶきと小悪魔サーバント",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10062": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Honoka",
+		"id": "10062",
+		"names": {
+			"en": "Honoka",
+			"code": "Honoka",
+			"cn": "穗香",
+			"jp": "ほのか"
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			1,
+			1,
+			4
+		],
+		"class": null,
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f3/HonokaIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "1274",
+				"armor": "Heavy",
+				"reload": "53",
+				"luck": "91",
+				"firepower": "77",
+				"torpedo": "0",
+				"evasion": "6",
+				"speed": "26",
+				"antiair": "40",
+				"aviation": "0",
+				"oilConsumption": "5",
+				"accuracy": "19",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6586",
+				"armor": "Heavy",
+				"reload": "126",
+				"luck": "91",
+				"firepower": "362",
+				"torpedo": "0",
+				"evasion": "16",
+				"speed": "26",
+				"antiair": "188",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "50",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7903",
+				"armor": "Heavy",
+				"reload": "145",
+				"luck": "91",
+				"firepower": "404",
+				"torpedo": "0",
+				"evasion": "18",
+				"speed": "26",
+				"antiair": "216",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "55",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "BB Guns",
+				"minEfficiency": 105,
+				"maxEfficiency": 135
+			},
+			"2": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 200,
+				"maxEfficiency": 200
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			}
+		},
+		"enhanceValue": {
+			"firepower": 63,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 11,
+			"oil": 4,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/4/42/Skill_106030.png",
+				"names": {
+					"en": "Rock-Paper-Cannon Salvo",
+					"cn": "必杀☆猜拳",
+					"jp": "必殺☆じゃんけん"
+				},
+				"description": "Increases this ship's FP by 5.0% (15.0%) and its armor modifier against Light Armor enemies by 4.5% (12.0%). 5s after this ship fires its Main Guns: fires a randomly chosen Lv.1 (Lv.10) barrage using special ammo.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/ec/Skill_106040.png",
+				"names": {
+					"en": "Super Mega Explosion",
+					"cn": "必杀☆大爆发",
+					"jp": "必殺☆大爆発"
+				},
+				"description": "When this ship fires its Main Guns: heals 2 random ships in your fleet for 5.0% of their max HP and, with a 45.0% (75.0%) chance, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.)",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "02:35:25",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Vacation Lane",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Ai Nonaka",
+				"url": "https://en.wikipedia.org/wiki/Ai_Nonaka"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8a/Honoka.png/576px-Honoka.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/4c/HonokaChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Summer Angel on the Shore",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/95/HonokaSummer.png/546px-HonokaSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/93/HonokaSummerChibi.png",
+				"info": {
+					"enClient": "Summer Angel on the Shore",
+					"cnClient": "礁石边的盛夏天使",
+					"jpClient": "岸辺のサマーエンジェル",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10063": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Kasumi_(DOA)",
+		"id": "10063",
+		"names": {
+			"en": "Kasumi",
+			"code": "Kasumi",
+			"cn": "霞",
+			"jp": "かすみ"
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			2,
+			2,
+			4
+		],
+		"class": null,
+		"nationality": "Venus Vacation",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/0/08/Kasumi_%28DOA%29Icon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "781",
+				"armor": "Medium",
+				"reload": "64",
+				"luck": "85",
+				"firepower": "49",
+				"torpedo": "40",
+				"evasion": "18",
+				"speed": "28",
+				"antiair": "42",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "46",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "4039",
+				"armor": "Medium",
+				"reload": "152",
+				"luck": "85",
+				"firepower": "230",
+				"torpedo": "188",
+				"evasion": "47",
+				"speed": "28",
+				"antiair": "196",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "119",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "4846",
+				"armor": "Medium",
+				"reload": "175",
+				"luck": "85",
+				"firepower": "264",
+				"torpedo": "217",
+				"evasion": "94",
+				"speed": "28",
+				"antiair": "225",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "134",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CA Guns",
+				"minEfficiency": 130,
+				"maxEfficiency": 135
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 140,
+				"maxEfficiency": 165
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 105,
+				"maxEfficiency": 105
+			}
+		},
+		"enhanceValue": {
+			"firepower": 27,
+			"torpedo": 13,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/6/68/Skill_106050.png",
+				"names": {
+					"en": "Sakura Petal Dance",
+					"cn": "樱花天舞袭",
+					"jp": "桜花天舞襲"
+				},
+				"description": "Every 15s after the start of the battle, and every time this ship lands 6 hits with its Torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.)",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/6/6c/Skill_106060.png",
+				"names": {
+					"en": "Misty Mirror Flower",
+					"cn": "霞镜花",
+					"jp": "霞鏡花"
+				},
+				"description": "When this ship sinks an enemy: increases this ship's FP and RLD by 1.0% (5.0%) (can be stacked up to 3 times.) Additionally, after this ship sinks 3 enemies: increases this ship's Accuracy by 5.0% (15.0%) for the rest of the battle.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Torpedo efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "02:33:43",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Vacation Lane",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Houko Kuwashima",
+				"url": "https://en.wikipedia.org/wiki/Houko_Kuwashima"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/Kasumi_%28DOA%29.png/433px-Kasumi_%28DOA%29.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/Kasumi_%28DOA%29Chibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Springside Mist",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/37/Kasumi_%28DOA%29Summer.png/687px-Kasumi_%28DOA%29Summer.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/8/89/Kasumi_%28DOA%29SummerWithoutBG.png/687px-Kasumi_%28DOA%29SummerWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/2/25/Skin_BG_142.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/f9/Kasumi_%28DOA%29SummerChibi.png",
+				"info": {
+					"enClient": "Springside Mist",
+					"cnClient": "水边的霞光",
+					"jpClient": "水辺の霞光",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10064": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Misaki",
+		"id": "10064",
+		"names": {
+			"en": "Misaki",
+			"code": "Misaki",
+			"cn": "海咲",
+			"jp": "みさき"
+		},
+		"hexagon": [
+			3,
+			0,
+			0,
+			3,
+			3,
+			3
+		],
+		"class": null,
+		"nationality": "Venus Vacation",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/1b/MisakiIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "677",
+				"armor": "Light",
+				"reload": "72",
+				"luck": "89",
+				"firepower": "31",
+				"torpedo": "0",
+				"evasion": "30",
+				"speed": "33",
+				"antiair": "62",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "56",
+				"antisubmarineWarfare": "37"
+			},
+			"level100": {
+				"health": "3498",
+				"armor": "Light",
+				"reload": "169",
+				"luck": "89",
+				"firepower": "146",
+				"torpedo": "0",
+				"evasion": "77",
+				"speed": "33",
+				"antiair": "289",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "146",
+				"antisubmarineWarfare": "137"
+			},
+			"level120": {
+				"health": "3883",
+				"armor": "Light",
+				"reload": "195",
+				"luck": "89",
+				"firepower": "168",
+				"torpedo": "0",
+				"evasion": "92",
+				"speed": "33",
+				"antiair": "327",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "163",
+				"antisubmarineWarfare": "154"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "DD Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 70
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": {
+			"firepower": 13,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/6/6b/Skill_106070.png",
+				"names": {
+					"en": "Humble Part-Timer",
+					"cn": "害羞的助理少女",
+					"jp": "恥ずかしがり屋のサポーター"
+				},
+				"description": "After the battle starts: for 60s, increases this ship's FP and its armor modifier against Light Armor enemies by 5.0% (15.0%). If there are other Venus Vacation characters in the same fleet: increases this ship's AA by 5.0% (15.0%) and decreases its DMG taken from guns by 4.5% (12.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/1/15/Skill_106080.png",
+				"names": {
+					"en": "Venus Friends",
+					"cn": "维纳斯之友",
+					"jp": "ヴィーナスフレンズ"
+				},
+				"description": "Every 20s after the start of the battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.) Enemies hit by this barrage take 5.0% (15.0%) more DMG from Venus Vacation characters for 8s.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "02:41:47",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Vacation Lane",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction, Event Store and as Map Drop during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Minami Tsuda",
+				"url": "https://en.wikipedia.org/wiki/Minami_Tsuda"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/ae/Misaki.png/561px-Misaki.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/cc/MisakiChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Golden Photoshoot",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/54/MisakiSummer.png/512px-MisakiSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/0a/MisakiSummerChibi.png",
+				"info": {
+					"enClient": "Golden Photoshoot",
+					"cnClient": "金色的特别摄影",
+					"jpClient": "特別なゴールデンセッション",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10065": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Nagisa",
+		"id": "10065",
+		"names": {
+			"en": "Nagisa",
+			"code": "Nagisa",
+			"cn": "凪咲",
+			"jp": "なぎさ"
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			1,
+			1,
+			4
+		],
+		"class": null,
+		"nationality": "Venus Vacation",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7f/NagisaIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "1245",
+				"armor": "Heavy",
+				"reload": "55",
+				"luck": "87",
+				"firepower": "73",
+				"torpedo": "0",
+				"evasion": "8",
+				"speed": "30",
+				"antiair": "32",
+				"aviation": "0",
+				"oilConsumption": "5",
+				"accuracy": "20",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6435",
+				"armor": "Heavy",
+				"reload": "130",
+				"luck": "87",
+				"firepower": "343",
+				"torpedo": "0",
+				"evasion": "21",
+				"speed": "30",
+				"antiair": "151",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "52",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7510",
+				"armor": "Heavy",
+				"reload": "149",
+				"luck": "87",
+				"firepower": "384",
+				"torpedo": "0",
+				"evasion": "40",
+				"speed": "30",
+				"antiair": "174",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "65",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "BB Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 200,
+				"maxEfficiency": 200
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			}
+		},
+		"enhanceValue": {
+			"firepower": 60,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 11,
+			"oil": 4,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/f/ff/Skill_106090.png",
+				"names": {
+					"en": "Not-So-Gentle Sister",
+					"cn": "温柔？的姐姐",
+					"jp": "優しい？お姉ちゃん"
+				},
+				"description": "Every 18s after the start of the battle: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.) Enemies hit by this barrage take 4.5% (12.0%) more DMG from Misaki and Nagisa for 8s.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/2/2c/Skill_106100.png",
+				"names": {
+					"en": "Venus' Unpredictability",
+					"cn": "神秘的维纳斯",
+					"jp": "ミステリーヴィーナス"
+				},
+				"description": "Decreases the DMG this ship takes by 5.0% (15.0%). When this ship fires its Main Guns: decreases the Speed of a random enemy by 15.0% (30.0%) for 8s.",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "02:38:25",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Vacation Lane",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Maaya Uchida",
+				"url": "https://en.wikipedia.org/wiki/Maaya_Uchida"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/Nagisa.png/523px-Nagisa.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/2b/NagisaChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Blue Skies, Good Vibes",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/9e/NagisaSummer.png/485px-NagisaSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/71/NagisaSummerChibi.png",
+				"info": {
+					"enClient": "Blue Skies, Good Vibes",
+					"cnClient": "蓝天好心情",
+					"jpClient": "青空と弾む気持ち",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10066": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Nyotengu",
+		"id": "10066",
+		"names": {
+			"en": "Nyotengu",
+			"code": "Nyotengu",
+			"cn": "女天狗",
+			"jp": "女天狗"
+		},
+		"hexagon": [
+			0,
+			0,
+			5,
+			2,
+			3,
+			3
+		],
+		"class": null,
+		"nationality": "Venus Vacation",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/93/NyotenguIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "1108",
+				"armor": "Medium",
+				"reload": "43",
+				"luck": "88",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "13",
+				"speed": "32",
+				"antiair": "58",
+				"aviation": "71",
+				"oilConsumption": "4",
+				"accuracy": "30",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "5729",
+				"armor": "Medium",
+				"reload": "101",
+				"luck": "88",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "34",
+				"speed": "32",
+				"antiair": "272",
+				"aviation": "334",
+				"oilConsumption": "12",
+				"accuracy": "78",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "6646",
+				"armor": "Medium",
+				"reload": "116",
+				"luck": "88",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "54",
+				"speed": "32",
+				"antiair": "309",
+				"aviation": "374",
+				"oilConsumption": "12",
+				"accuracy": "87",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Fighters",
+				"minEfficiency": 114,
+				"maxEfficiency": 120
+			},
+			"2": {
+				"type": "Dive Bombers",
+				"minEfficiency": 110,
+				"maxEfficiency": 125
+			},
+			"3": {
+				"type": "Torpedo Bombers",
+				"minEfficiency": 125,
+				"maxEfficiency": 135
+			}
+		},
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 58,
+			"reload": 8
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/ef/Skill_106130.png",
+				"names": {
+					"en": "Dance of the Heavens",
+					"cn": "飞天之舞",
+					"jp": "飛天の舞い"
+				},
+				"description": "5s after this ship finishes loading its Airstrike: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level.)",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/d/df/Skill_106140.png",
+				"names": {
+					"en": "Hanakagura",
+					"cn": "花神乐",
+					"jp": "花神楽"
+				},
+				"description": "Increases this ship's DMG against BBs by 4.0% (10.0%). When this ship launches an Airstrike: 40.0% (70.0%) chance to decrease DMG taken for 8s by a random ship in your Vanguard.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Hangar Capacity +1",
+				"Number of Dive Bombers +1",
+				"Torpedo Bomber Efficiency +5%"
+			],
+			[
+				"Hangar Capacity +1",
+				"Number of Torpedo Bombers +1",
+				"Dive Bomber Efficiency +10%"
+			],
+			[
+				"Number of All Planes +1",
+				"All Plane Efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available as Milestone Reward during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Akemi Satou",
+				"url": "https://en.wikipedia.org/wiki/Akemi_Sat%C5%8D_(singer)"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/dd/Nyotengu.png/607px-Nyotengu.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c8/NyotenguChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Scarlet-Tinged Hot Spring Vacation",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1b/NyotenguSummer.png/622px-NyotenguSummer.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/b/b9/NyotenguSummerWithoutBG.png/622px-NyotenguSummerWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/2/25/Skin_BG_142.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/f4/NyotenguSummerChibi.png",
+				"info": {
+					"enClient": "Scarlet-Tinged Hot Spring Vacation",
+					"cnClient": "红枫与温泉假日",
+					"jpClient": "紅く染まる温泉バカンス",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10067": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Monica",
+		"id": "10067",
+		"names": {
+			"en": "Monica",
+			"code": "Monica",
+			"cn": "莫妮卡",
+			"jp": "モニカ"
+		},
+		"hexagon": [
+			3,
+			3,
+			0,
+			3,
+			2,
+			2
+		],
+		"class": null,
+		"nationality": "Venus Vacation",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2d/MonicaIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "652",
+				"armor": "Light",
+				"reload": "67",
+				"luck": "88",
+				"firepower": "27",
+				"torpedo": "54",
+				"evasion": "29",
+				"speed": "32",
+				"antiair": "68",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "55",
+				"antisubmarineWarfare": "21"
+			},
+			"level100": {
+				"health": "3370",
+				"armor": "Light",
+				"reload": "159",
+				"luck": "88",
+				"firepower": "129",
+				"torpedo": "256",
+				"evasion": "76",
+				"speed": "32",
+				"antiair": "317",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "143",
+				"antisubmarineWarfare": "76"
+			},
+			"level120": {
+				"health": "3775",
+				"armor": "Light",
+				"reload": "182",
+				"luck": "88",
+				"firepower": "148",
+				"torpedo": "292",
+				"evasion": "100",
+				"speed": "32",
+				"antiair": "357",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "160",
+				"antisubmarineWarfare": "87"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 114,
+				"maxEfficiency": 135
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 150,
+				"maxEfficiency": 160
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			}
+		},
+		"enhanceValue": {
+			"firepower": 11,
+			"torpedo": 18,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/7/74/Skill_106110.png",
+				"names": {
+					"en": "Joker Card",
+					"cn": "鬼牌游戏",
+					"jp": "ジョーカー・ゲーム"
+				},
+				"description": "Every 15s after the start of the battle: fires a Lv.1 (Lv.10) barrage using special ammo and poker ammo (DMG is based on the skill's level.) Enemies hit by the special ammo take 10.0% increased DMG for 6s.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/a/a6/Skill_106120.png",
+				"names": {
+					"en": "Royal Flush",
+					"cn": "皇家同花顺",
+					"jp": "ロイヤル・フラッシュ"
+				},
+				"description": "Increases the Shell Velocity of this ship's equipped Main Gun by 10.0%. When 5 enemy aircraft are shot down within the fleet's AA range: increases this ship's TRP and AA by 4.5% (12.0%).",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "02:31:40",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Vacation Lane",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Vacation Lane\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Eri Yukimura",
+				"url": "https://www.imdb.com/name/nm9806307/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/Monica.png/585px-Monica.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/55/MonicaChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "The Ace of Hearts",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0a/MonicaSummer.png/461px-MonicaSummer.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/7d/MonicaSummerChibi.png",
+				"info": {
+					"enClient": "The Ace of Hearts",
+					"cnClient": "特别的红心Ace",
+					"jpClient": "格別なエースオブハーツ",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			}
+		],
 		"gallery": []
 	},
 	"001": {
@@ -101171,7 +102578,7 @@
 				"level": 40,
 				"levelBreakLevel": 2,
 				"levelBreakStars": "★★★★☆",
-				"recurrence": 1,
+				"recurrence": 2,
 				"require": [
 					"B"
 				]
@@ -116572,7 +117979,7 @@
 		"construction": {
 			"constructionTime": "00:19:00",
 			"availableIn": {
-				"light": "JP/CN only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -117072,7 +118479,7 @@
 		"construction": {
 			"constructionTime": "00:19:00",
 			"availableIn": {
-				"light": "JP/CN only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -125425,7 +126832,7 @@
 					"cn": "代行机构「E.E.」",
 					"jp": "代行機構エグリーズサリブル"
 				},
-				"description": "When this ship uses a Main Gun that fires HE ammo: increases its FP by 1% (5.0%), AA by 5% (15.0%), and increases its HE DMG modifier against enemies with Heavy armor by 5% (15.0%); when using one that fires AP: increase this ship's FP by 1% (5.0%), RLD by 5% (15.0%), and increase its Main Gun Crit Rate by 5% (20.0%). While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does nothing if this ship is the Flagship); when this ship's HP falls below 75.0% increase this ship's EVA and Accuracy by 5% (15.0%).",
+				"description": "When this ship uses a Main Gun that fires HE ammo: increases its FP by 1% (5.0%), AA by 5% (15.0%), and increases its armor modifier against Heavy Armor enemies by 5% (15%); when using one that fires AP: increase this ship's FP by 1% (5.0%), RLD by 5% (15.0%), and increase its Main Gun Crit Rate by 5% (20.0%). While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does nothing if this ship is the Flagship); when this ship's HP falls below 75.0% increase this ship's EVA and Accuracy by 5% (15.0%).",
 				"color": "gold"
 			},
 			{
