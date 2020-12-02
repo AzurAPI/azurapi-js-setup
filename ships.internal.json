@@ -90881,7 +90881,8 @@
 			"code": "HMS Howe",
 			"cn": "豪",
 			"jp": "ハウ",
-			"tw": "豪"
+			"tw": "豪",
+			"kr": "Howe"
 		},
 		"hexagon": [
 			5,
@@ -95736,7 +95737,10 @@
 		"id": "9001",
 		"names": {
 			"en": "Tone",
-			"code": "Tone"
+			"code": "Tone",
+			"jp": "Tone",
+			"cn": "Tone",
+			"kr": "Tone"
 		},
 		"class": "Tone",
 		"nationality": "Sakura Empire",
@@ -95763,7 +95767,10 @@
 		"id": "9002",
 		"names": {
 			"en": "Chikuma",
-			"code": "Chikuma"
+			"code": "Chikuma",
+			"jp": "Chikuma",
+			"cn": "Chikuma",
+			"kr": "Chikuma"
 		},
 		"class": "Tone",
 		"nationality": "Sakura Empire",
@@ -95790,7 +95797,10 @@
 		"id": "9006",
 		"names": {
 			"en": "Pola",
-			"code": "Pola"
+			"code": "Pola",
+			"jp": "Pola",
+			"cn": "Pola",
+			"kr": "Pola"
 		},
 		"class": "Zara",
 		"nationality": "Sardegna Empire",
@@ -95806,7 +95816,10 @@
 		"id": "9007",
 		"names": {
 			"en": "Vittorio Veneto",
-			"code": "Vittorio Veneto"
+			"code": "Vittorio Veneto",
+			"jp": "Vittorio Veneto",
+			"cn": "Vittorio Veneto",
+			"kr": "Vittorio Veneto"
 		},
 		"class": "Littorio",
 		"nationality": "Sardegna Empire",
@@ -95822,7 +95835,10 @@
 		"id": "9008",
 		"names": {
 			"en": "Kirov",
-			"code": "Kirov"
+			"code": "Kirov",
+			"jp": "Kirov",
+			"cn": "Kirov",
+			"kr": "Kirov"
 		},
 		"class": "Kirov",
 		"nationality": "Northern Parliament",
@@ -95838,7 +95854,10 @@
 		"id": "9009",
 		"names": {
 			"en": "Sovetsky Soyuz",
-			"code": "Sovetsky Soyuz"
+			"code": "Sovetsky Soyuz",
+			"jp": "Sovetsky Soyuz",
+			"cn": "Sovetsky Soyuz",
+			"kr": "Sovetsky Soyuz"
 		},
 		"class": "Sovetsky Soyuz",
 		"nationality": "Northern Parliament",
@@ -95856,7 +95875,8 @@
 			"en": "Marie Rose",
 			"code": "Marie Rose",
 			"cn": "玛莉萝丝",
-			"jp": "マリー・ローズ"
+			"jp": "マリー・ローズ",
+			"kr": "Marie Rose"
 		},
 		"hexagon": [
 			2,
@@ -95867,6 +95887,7 @@
 			1
 		],
 		"class": null,
+		"nationality": "Venus Vacation",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/36/Marie_RoseIcon.png",
 		"rarity": "Super Rare",
@@ -96055,7 +96076,8 @@
 			"en": "Honoka",
 			"code": "Honoka",
 			"cn": "穗香",
-			"jp": "ほのか"
+			"jp": "ほのか",
+			"kr": "Honoka"
 		},
 		"hexagon": [
 			4,
@@ -96066,6 +96088,7 @@
 			4
 		],
 		"class": null,
+		"nationality": "Venus Vacation",
 		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/f3/HonokaIcon.png",
 		"rarity": "Super Rare",
@@ -96255,7 +96278,8 @@
 			"en": "Kasumi",
 			"code": "Kasumi",
 			"cn": "霞",
-			"jp": "かすみ"
+			"jp": "かすみ",
+			"kr": "Kasumi"
 		},
 		"hexagon": [
 			4,
@@ -96457,7 +96481,8 @@
 			"en": "Misaki",
 			"code": "Misaki",
 			"cn": "海咲",
-			"jp": "みさき"
+			"jp": "みさき",
+			"kr": "Misaki"
 		},
 		"hexagon": [
 			3,
@@ -96656,7 +96681,8 @@
 			"en": "Nagisa",
 			"code": "Nagisa",
 			"cn": "凪咲",
-			"jp": "なぎさ"
+			"jp": "なぎさ",
+			"kr": "Nagisa"
 		},
 		"hexagon": [
 			4,
@@ -96857,7 +96883,8 @@
 			"en": "Nyotengu",
 			"code": "Nyotengu",
 			"cn": "女天狗",
-			"jp": "女天狗"
+			"jp": "女天狗",
+			"kr": "Nyotengu"
 		},
 		"hexagon": [
 			0,
@@ -97062,7 +97089,8 @@
 			"en": "Monica",
 			"code": "Monica",
 			"cn": "莫妮卡",
-			"jp": "モニカ"
+			"jp": "モニカ",
+			"kr": "Monica"
 		},
 		"hexagon": [
 			3,
@@ -128558,7 +128586,10 @@
 		"id": "Collab021",
 		"names": {
 			"cn": "22",
-			"code": "BILI 22"
+			"code": "BILI 22",
+			"en": "22",
+			"jp": "22",
+			"kr": "22"
 		},
 		"hexagon": [
 			1,
@@ -128569,6 +128600,7 @@
 			1
 		],
 		"class": "Bilibili",
+		"nationality": "Bilibili",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/2/2b/22Icon.png",
 		"rarity": "Elite",
@@ -128752,7 +128784,10 @@
 		"id": "Collab022",
 		"names": {
 			"cn": "33",
-			"code": "BILI 33"
+			"code": "BILI 33",
+			"en": "33",
+			"jp": "33",
+			"kr": "33"
 		},
 		"hexagon": [
 			1,
@@ -128763,6 +128798,7 @@
 			1
 		],
 		"class": "Bilibili",
+		"nationality": "Bilibili",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7f/33Icon.png",
 		"rarity": "Elite",
@@ -128951,7 +128987,8 @@
 			"cn": "久远",
 			"code": "Kuon",
 			"jp": "クオン",
-			"kr": "쿠온"
+			"kr": "쿠온",
+			"en": "久远"
 		},
 		"hexagon": [
 			4,
@@ -128962,6 +128999,7 @@
 			3
 		],
 		"class": "Utawarerumono",
+		"nationality": "Utawarerumono",
 		"hullType": "Heavy Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/9a/KuonIcon.png",
 		"rarity": "Super Rare",
@@ -129157,7 +129195,8 @@
 			"cn": "猫音",
 			"code": "Nekone",
 			"jp": "ネコネ",
-			"kr": "네코네"
+			"kr": "네코네",
+			"en": "猫音"
 		},
 		"hexagon": [
 			2,
@@ -129168,6 +129207,7 @@
 			2
 		],
 		"class": "Utawarerumono",
+		"nationality": "Utawarerumono",
 		"hullType": "Destroyer",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/c/c5/NekoneIcon.png",
 		"rarity": "Super Rare",
@@ -129363,7 +129403,8 @@
 			"cn": "露露缇耶",
 			"code": "Rurutie",
 			"jp": "ルルティエ",
-			"kr": "루루티에"
+			"kr": "루루티에",
+			"en": "露露缇耶"
 		},
 		"hexagon": [
 			2,
@@ -129374,6 +129415,7 @@
 			4
 		],
 		"class": "Utawarerumono",
+		"nationality": "Utawarerumono",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/0/0f/RurutieIcon.png",
 		"rarity": "Super Rare",
@@ -129569,7 +129611,8 @@
 			"cn": "乌璐露",
 			"code": "Uruuru",
 			"jp": "ウルゥル",
-			"kr": "우루루"
+			"kr": "우루루",
+			"en": "乌璐露"
 		},
 		"hexagon": [
 			0,
@@ -129580,6 +129623,7 @@
 			2
 		],
 		"class": "Utawarerumono",
+		"nationality": "Utawarerumono",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/95/UruuruIcon.png",
 		"rarity": "Elite",
@@ -129776,7 +129820,8 @@
 			"cn": "萨拉娜",
 			"code": "Saraana",
 			"jp": "サラァナ",
-			"kr": "사라나"
+			"kr": "사라나",
+			"en": "萨拉娜"
 		},
 		"hexagon": [
 			0,
@@ -129787,6 +129832,7 @@
 			2
 		],
 		"class": "Utawarerumono",
+		"nationality": "Utawarerumono",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/e/e0/SaraanaIcon.png",
 		"rarity": "Elite",
@@ -129983,7 +130029,8 @@
 			"cn": "芙米露露",
 			"code": "Fumiruiru",
 			"jp": "フミルィル",
-			"kr": "후미뤼르"
+			"kr": "후미뤼르",
+			"en": "芙米露露"
 		},
 		"hexagon": [
 			0,
@@ -129994,6 +130041,7 @@
 			3
 		],
 		"class": "Utawarerumono",
+		"nationality": "Utawarerumono",
 		"hullType": "Aircraft Carrier",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/1e/FumiruiruIcon.png",
 		"rarity": "Elite",

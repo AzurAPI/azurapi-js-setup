@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require("path");
 const JSDOM = require('jsdom').JSDOM;
 const SHIP_LIST = require('../ship-list.json');
-const {deepToString, BASE, camelize, galleryThumbnailUrlToActualUrl} = require('../utils');
+const {deepToString, BASE, camelize, galleryThumbnailUrlToActualUrl, clone} = require('../utils');
 
 const reference = require('../azurapi-data/dist/ships.json');
 const types = require('../azurapi-data/dist/types.json');
@@ -12,8 +12,8 @@ const NATIONALITY = {
     0: "Universal", 1: "Eagle Union", 2: "Royal Navy",
     3: "Sakura Empire", 4: "Iron Blood", 5: "Dragon Empery",
     6: "Sardegna Empire", 7: "Northern Parliament", 8: "Iris Libre",
-    9: "Vichya Dominion", 98: "Universal", 101: "Neptunia",
-    104: "Kizuna AI", 105: "Hololive", 106: "Venus Vacation"
+    9: "Vichya Dominion", 98: "Universal", 101: "Neptunia", 102: "Bilibili",
+    103: "Utawarerumono", 104: "Kizuna AI", 105: "Hololive", 106: "Venus Vacation"
 };
 
 const UNRELEASED = ['Tone', 'Chikuma', 'Pola', 'Vittorio Veneto', 'Kirov', 'Sovetsky Soyuz'];
@@ -54,13 +54,24 @@ function findShip(id, name, nationality) {
     console.log("Mission FAILED | Ship = " + name);
 }
 
+function fillNames(names) {
+    let fillValue = names.en || names.cn || names.jp || names.code;
+    names = clone(names);
+    if (!names.en) names.en = fillValue;
+    if (!names.jp) names.jp = fillValue;
+    if (!names.cn) names.cn = fillValue;
+    if (!names.kr) names.kr = fillValue;
+    if (!names.code) names.code = fillValue;
+    return names;
+}
+
 function parseShip(id, name, body) {
     const doc = new JSDOM(body).window.document;
     let referenceShip = findShip(id, name, doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent);
     let ship = {
         wikiUrl: `${BASE}/${name.replace(/ +/g, "_")}`,
         id: id,
-        names: referenceShip.name,
+        names: fillNames(referenceShip.name),
         hexagon: referenceShip.property_hexagon,
         class: doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a") ? doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a").textContent : null,
         nationality: referenceShip.unreleased ? referenceShip.nationality : NATIONALITY[referenceShip.nationality],
