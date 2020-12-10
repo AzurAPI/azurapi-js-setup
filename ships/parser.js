@@ -43,6 +43,7 @@ function findShip(id, name, nationality) {
             return ship;
         }
     } // repeat but ignores nationality
+    console.log(name);
     if (UNRELEASED.includes(name)) {
         return {
             name: {en: name, code: name},

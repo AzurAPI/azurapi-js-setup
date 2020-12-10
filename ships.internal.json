@@ -853,6 +853,14 @@
 			{
 				"description": "Ayanami, Javelin, Z23, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/2/29/Bg_2020.02.13_1.png"
+			},
+			{
+				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c8/Bg_2020.09.30_1.png"
+			},
+			{
+				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1e/Bg_2020.09.30_4.png"
 			}
 		]
 	},
@@ -1381,6 +1389,10 @@
 			{
 				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
 				"url": "https://azurlane.koumakan.jp/w/images/8/81/Bg_destroyers.png"
+			},
+			{
+				"description": "Terror, Bailey, Vampire",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1b/Bg_2020.10.29_4.png"
 			}
 		]
 	},
@@ -3088,7 +3100,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Belfast, Sirius, Dido",
+				"url": "https://azurlane.koumakan.jp/w/images/a/ac/Bg_2020.09.17_10.png"
+			},
+			{
+				"description": "Sirius, Dido, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/0/08/Bg_2020.09.24_1.png"
+			}
+		]
 	},
 	"110": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Southampton",
@@ -4344,7 +4365,6 @@
 					"cnClient": "凛冽的钢之从者",
 					"jpClient": "凛冽なりし鋼の従者",
 					"obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 2 bonus",
-					"cost": "1180",
 					"live2dModel": "No"
 				}
 			},
@@ -4434,6 +4454,22 @@
 			{
 				"description": "Belfast, Azuma",
 				"url": "https://azurlane.koumakan.jp/w/images/7/76/Bg_2019.12.26_3.png"
+			},
+			{
+				"description": "Baltimore, Sirius, Massachusetts, Taihou, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.09.17_2.png"
+			},
+			{
+				"description": "Belfast, Sirius, Dido",
+				"url": "https://azurlane.koumakan.jp/w/images/a/ac/Bg_2020.09.17_10.png"
+			},
+			{
+				"description": "Sirius, Dido, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/0/08/Bg_2020.09.24_1.png"
+			},
+			{
+				"description": "Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/1/14/Bg_2020.09.24_8.png"
 			}
 		]
 	},
@@ -11572,6 +11608,14 @@
 			{
 				"description": "Illustrious, Unicorn, Nagato",
 				"url": "https://azurlane.koumakan.jp/w/images/7/7d/Bg_2020.02.13_2.png"
+			},
+			{
+				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c8/Bg_2020.09.30_1.png"
+			},
+			{
+				"description": "Unicorn",
+				"url": "https://azurlane.koumakan.jp/w/images/7/79/Bg_2020.10.29_2.png"
 			}
 		]
 	},
@@ -12075,6 +12119,14 @@
 			{
 				"description": "Ark Royal watching Mutsuki, Kisaragi, Mikazuki and Uzuki",
 				"url": "https://azurlane.koumakan.jp/w/images/f/f6/Bg_mutsuki_1.png"
+			},
+			{
+				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1e/Bg_2020.09.30_4.png"
+			},
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
 			}
 		]
 	},
@@ -12419,6 +12471,10 @@
 			{
 				"description": "Illustrious, Unicorn, Nagato",
 				"url": "https://azurlane.koumakan.jp/w/images/7/7d/Bg_2020.02.13_2.png"
+			},
+			{
+				"description": "Formidable, Illustrious, Victorious",
+				"url": "https://azurlane.koumakan.jp/w/images/d/df/Bg_2020.09.17_8.png"
 			}
 		]
 	},
@@ -12658,6 +12714,10 @@
 			{
 				"description": "Victorious with Formidable and Illustrious",
 				"url": "https://azurlane.koumakan.jp/w/images/7/79/Bg_formidable_1.png"
+			},
+			{
+				"description": "Formidable, Illustrious, Victorious",
+				"url": "https://azurlane.koumakan.jp/w/images/d/df/Bg_2020.09.17_8.png"
 			}
 		]
 	},
@@ -12915,6 +12975,18 @@
 			{
 				"description": "Unicorn, Formidable, Illustrious",
 				"url": "https://azurlane.koumakan.jp/w/images/3/3b/Bg_2019.12.26_8.png"
+			},
+			{
+				"description": "Sirius, Formidable",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8c/Bg_2020.09.17_6.png"
+			},
+			{
+				"description": "Formidable, Illustrious, Victorious",
+				"url": "https://azurlane.koumakan.jp/w/images/d/df/Bg_2020.09.17_8.png"
+			},
+			{
+				"description": "Laffey, Formidable and Le Malin",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.09.30_5.png"
 			}
 		]
 	},
@@ -13629,6 +13701,10 @@
 			{
 				"description": "Many Royal Navy ships in 1 big party",
 				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			},
+			{
+				"description": "Terror, Bailey, Vampire",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1b/Bg_2020.10.29_4.png"
 			}
 		]
 	},
@@ -14736,6 +14812,10 @@
 			{
 				"description": "Ayanami, Javelin, Z23, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/2/29/Bg_2020.02.13_1.png"
+			},
+			{
+				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1e/Bg_2020.09.30_4.png"
 			}
 		]
 	},
@@ -15214,6 +15294,10 @@
 			{
 				"description": "Kasumi, Suruga, Ryuuhou, Noshiro, Hibiki",
 				"url": "https://azurlane.koumakan.jp/w/images/2/24/Bg_2019.12.26_7.png"
+			},
+			{
+				"description": "Isuzu, Hibiki",
+				"url": "https://azurlane.koumakan.jp/w/images/1/11/Bg_2020.10.22_2.png"
 			}
 		]
 	},
@@ -17076,6 +17160,10 @@
 			{
 				"description": "Illustrious, Hiei, Swiftsure, Taihou, Azuma, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/b/b1/Bg_2020.01.22_5.png"
+			},
+			{
+				"description": "Deutschland, Admiral Graf Spee, Kitakaze, Azuma, Yukikaze",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.11.18_1.png"
 			}
 		]
 	},
@@ -18059,6 +18147,10 @@
 			{
 				"description": "Akashi, Shiranui",
 				"url": "https://azurlane.koumakan.jp/w/images/7/78/Bg_2019.12.26_2.png"
+			},
+			{
+				"description": "Shiranui, Akashi",
+				"url": "https://azurlane.koumakan.jp/w/images/8/83/Bg_2020.09.17_5.png"
 			}
 		]
 	},
@@ -22104,7 +22196,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Isuzu, Hibiki",
+				"url": "https://azurlane.koumakan.jp/w/images/1/11/Bg_2020.10.22_2.png"
+			}
+		]
 	},
 	"186": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kinu",
@@ -22599,6 +22696,10 @@
 			{
 				"description": "Kinu",
 				"url": "https://azurlane.koumakan.jp/w/images/7/7c/Bg_2019.12.26_6.png"
+			},
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
 			}
 		]
 	},
@@ -30689,7 +30790,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Chitose, Kashino (Facing backwards), Kumano (Facing backwards), Kii, Shinano, Suzutsuki",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8d/Bg_2020.09.17_1.png"
+			},
+			{
+				"description": "Suzutsuki, Kii, Shinano",
+				"url": "https://azurlane.koumakan.jp/w/images/7/70/Bg_2020.09.17_9.png"
+			}
+		]
 	},
 	"215": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tosa",
@@ -30927,6 +31037,10 @@
 			{
 				"description": "Amagi, Tosa, Kaga (Battleship)",
 				"url": "https://azurlane.koumakan.jp/w/images/4/47/Bg_2020.04.23_2.png"
+			},
+			{
+				"description": "Amagi, Tosa",
+				"url": "https://azurlane.koumakan.jp/w/images/5/5e/Bg_2020.09.17_4.png"
 			}
 		]
 	},
@@ -33952,6 +34066,10 @@
 			{
 				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
 				"url": "https://azurlane.koumakan.jp/w/images/7/77/Bg_2019.12.19_2.png"
+			},
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
 			}
 		]
 	},
@@ -34759,6 +34877,14 @@
 			{
 				"description": "Illustrious, Hiei, Swiftsure, Taihou, Azuma, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/b/b1/Bg_2020.01.22_5.png"
+			},
+			{
+				"description": "Baltimore, Sirius, Massachusetts, Taihou, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.09.17_2.png"
+			},
+			{
+				"description": "Taihou, Le Malin, Roon",
+				"url": "https://azurlane.koumakan.jp/w/images/2/2f/Bg_2020.10.22_1.png"
 			}
 		]
 	},
@@ -34995,7 +35121,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Chitose, Kashino (Facing backwards), Kumano (Facing backwards), Kii, Shinano, Suzutsuki",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8d/Bg_2020.09.17_1.png"
+			},
+			{
+				"description": "Suzutsuki, Kii, Shinano",
+				"url": "https://azurlane.koumakan.jp/w/images/7/70/Bg_2020.09.17_9.png"
+			}
+		]
 	},
 	"232": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Akashi",
@@ -35308,6 +35443,10 @@
 			{
 				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/1/18/Bg_2020.03.31_1.png"
+			},
+			{
+				"description": "Shiranui, Akashi",
+				"url": "https://azurlane.koumakan.jp/w/images/8/83/Bg_2020.09.17_5.png"
 			}
 		]
 	},
@@ -35816,7 +35955,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
+			}
+		]
 	},
 	"236": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Z23",
@@ -36599,8 +36743,8 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6b/Z23KinokuniyaChibi.png",
 				"info": {
 					"enClient": "The Eyecatch in the Rye?",
-					"cnClient": "skin unavailable",
-					"jpClient": "skin unavailable",
+					"cnClient": "书架边的“风景”？",
+					"jpClient": "活字も目の保養？",
 					"obtainedFrom": "Z23’s Picture Report - Complete all the drawings",
 					"live2dModel": "No"
 				}
@@ -38792,6 +38936,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
 			}
 		]
 	},
@@ -39076,6 +39224,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
 			}
 		]
 	},
@@ -39363,6 +39515,14 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
+			},
+			{
+				"description": "Deutschland, Admiral Graf Spee, Kitakaze, Azuma, Yukikaze",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.11.18_1.png"
 			}
 		]
 	},
@@ -39666,6 +39826,14 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
+			},
+			{
+				"description": "Deutschland, Admiral Graf Spee, Kitakaze, Azuma, Yukikaze",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.11.18_1.png"
 			}
 		]
 	},
@@ -40386,6 +40554,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
 			}
 		]
 	},
@@ -40649,6 +40821,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
 			}
 		]
 	},
@@ -40898,6 +41074,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
 			}
 		]
 	},
@@ -42623,6 +42803,14 @@
 			{
 				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
+			},
+			{
+				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c8/Bg_2020.09.30_1.png"
+			},
+			{
+				"description": "Ping Hai and Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/6/62/Bg_2020.09.30_2.png"
 			}
 		]
 	},
@@ -43212,6 +43400,14 @@
 			{
 				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
+			},
+			{
+				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c8/Bg_2020.09.30_1.png"
+			},
+			{
+				"description": "Ping Hai and Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/6/62/Bg_2020.09.30_2.png"
 			}
 		]
 	},
@@ -43923,7 +44119,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Terror, Bailey, Vampire",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1b/Bg_2020.10.29_4.png"
+			}
+		]
 	},
 	"264": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Z19",
@@ -44866,6 +45067,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.17_7.png"
 			}
 		]
 	},
@@ -54702,6 +54907,10 @@
 			{
 				"description": "Kasumi, Suruga, Ryuuhou, Noshiro, Hibiki",
 				"url": "https://azurlane.koumakan.jp/w/images/2/24/Bg_2019.12.26_7.png"
+			},
+			{
+				"description": "Noshiro",
+				"url": "https://azurlane.koumakan.jp/w/images/1/16/Bg_2020.09.24_4.png"
 			}
 		]
 	},
@@ -56938,9 +57147,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot Be Constructed",
+			"constructionTime": "",
 			"availableIn": {
-				"light": false,
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -57194,7 +57403,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Sheffield, Sirius, Little Bel",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c2/Bg_2020.09.24_5.png"
+			}
+		]
 	},
 	"336": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Abercrombie",
@@ -63631,6 +63845,10 @@
 			{
 				"description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
 				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.05.21_1.png"
+			},
+			{
+				"description": "Dunkerque, La Galissonnière, Algérie, Le Malin, Gascogne",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4f/Bg_2020.09.30_6.png"
 			}
 		]
 	},
@@ -64117,7 +64335,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Baltimore, Sirius, Massachusetts, Taihou, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.09.17_2.png"
+			},
+			{
+				"description": "South Dakota, Massachusetts",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.24_2.png"
+			}
+		]
 	},
 	"355": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Bush",
@@ -64849,6 +65076,10 @@
 			{
 				"description": "Intrepid, Bunker Hill, Essex, Shangri-La",
 				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_2020.08.13_2.png"
+			},
+			{
+				"description": "Shangri-La, Georgia, Essex",
+				"url": "https://azurlane.koumakan.jp/w/images/4/47/Bg_2020.09.17_3.png"
 			}
 		]
 	},
@@ -67158,9 +67389,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot Be Constructed",
+			"constructionTime": "",
 			"availableIn": {
-				"light": false,
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -67724,6 +67955,10 @@
 			{
 				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
+			},
+			{
+				"description": "Amagi, Tosa",
+				"url": "https://azurlane.koumakan.jp/w/images/5/5e/Bg_2020.09.17_4.png"
 			}
 		]
 	},
@@ -68677,6 +68912,30 @@
 			{
 				"description": "Sirius",
 				"url": "https://azurlane.koumakan.jp/w/images/6/6b/Bg_2020.08.13_3.png"
+			},
+			{
+				"description": "Baltimore, Sirius, Massachusetts, Taihou, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.09.17_2.png"
+			},
+			{
+				"description": "Sirius, Formidable",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8c/Bg_2020.09.17_6.png"
+			},
+			{
+				"description": "Belfast, Sirius, Dido",
+				"url": "https://azurlane.koumakan.jp/w/images/a/ac/Bg_2020.09.17_10.png"
+			},
+			{
+				"description": "Sirius, Dido, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/0/08/Bg_2020.09.24_1.png"
+			},
+			{
+				"description": "Sheffield, Sirius, Little Bel",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c2/Bg_2020.09.24_5.png"
+			},
+			{
+				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1e/Bg_2020.09.30_4.png"
 			}
 		]
 	},
@@ -70864,6 +71123,10 @@
 			{
 				"description": "Intrepid, Bunker Hill, Essex, Shangri-La",
 				"url": "https://azurlane.koumakan.jp/w/images/3/39/Bg_2020.08.13_2.png"
+			},
+			{
+				"description": "Shangri-La, Georgia, Essex",
+				"url": "https://azurlane.koumakan.jp/w/images/4/47/Bg_2020.09.17_3.png"
 			}
 		]
 	},
@@ -75068,6 +75331,22 @@
 			{
 				"description": "Le Malin, Le Triomphant",
 				"url": "https://azurlane.koumakan.jp/w/images/5/54/Bg_Triomphant_2.png"
+			},
+			{
+				"description": "Laffey, Formidable and Le Malin",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.09.30_5.png"
+			},
+			{
+				"description": "Dunkerque, La Galissonnière, Algérie, Le Malin, Gascogne",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4f/Bg_2020.09.30_6.png"
+			},
+			{
+				"description": "Le Malin",
+				"url": "https://azurlane.koumakan.jp/w/images/7/7d/Bg_2020.10.15_1.png"
+			},
+			{
+				"description": "Taihou, Le Malin, Roon",
+				"url": "https://azurlane.koumakan.jp/w/images/2/2f/Bg_2020.10.22_1.png"
 			}
 		]
 	},
@@ -79307,6 +79586,14 @@
 			{
 				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/1/18/Bg_2020.03.31_1.png"
+			},
+			{
+				"description": "Bremerton, Bache, Baltimore",
+				"url": "https://azurlane.koumakan.jp/w/images/3/32/Bg_2020.09.24_7.png"
+			},
+			{
+				"description": "Bache, San Diego",
+				"url": "https://azurlane.koumakan.jp/w/images/e/e3/Bg_2020.10.29_1.png"
 			}
 		]
 	},
@@ -80022,6 +80309,10 @@
 			{
 				"description": "Vittorio Veneto, Zara, Littorio, Giulio Cesare and Pola",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5b/Bg_Tragicomedy.png"
+			},
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
 			}
 		]
 	},
@@ -84306,7 +84597,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
+			}
+		]
 	},
 	"429": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Uranami",
@@ -86745,6 +87041,10 @@
 			{
 				"description": "Intrepid, Bremerton, Cooper, Bluegill",
 				"url": "https://azurlane.koumakan.jp/w/images/0/01/Bg_2020.03.26_2.png"
+			},
+			{
+				"description": "Bremerton, Bache, Baltimore",
+				"url": "https://azurlane.koumakan.jp/w/images/3/32/Bg_2020.09.24_7.png"
 			}
 		]
 	},
@@ -87855,18 +88155,9 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": {
-				"name": "Mignon",
-				"url": "https://azurlane.koumakan.jp/Artists#Mignon"
-			},
-			"pixiv": {
-				"name": "Mignon",
-				"url": "https://www.pixiv.net/en/users/24234"
-			},
-			"twitter": {
-				"name": "Mignon",
-				"url": "https://twitter.com/mignon"
-			},
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
 			"web": null,
 			"voice": {
 				"name": "Ikumi Hasegawa",
@@ -89749,6 +90040,10 @@
 			{
 				"description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
 				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.05.21_1.png"
+			},
+			{
+				"description": "Dunkerque, La Galissonnière, Algérie, Le Malin, Gascogne",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4f/Bg_2020.09.30_6.png"
 			}
 		]
 	},
@@ -89991,6 +90286,10 @@
 			{
 				"description": "La Galissonnière, Jeanne d'Arc, Richelieu, Dunkerque, Algérie",
 				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.05.21_1.png"
+			},
+			{
+				"description": "Dunkerque, La Galissonnière, Algérie, Le Malin, Gascogne",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4f/Bg_2020.09.30_6.png"
 			}
 		]
 	},
@@ -92984,7 +93283,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Chitose, Kashino (Facing backwards), Kumano (Facing backwards), Kii, Shinano, Suzutsuki",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8d/Bg_2020.09.17_1.png"
+			},
+			{
+				"description": "Suzutsuki, Kii, Shinano",
+				"url": "https://azurlane.koumakan.jp/w/images/7/70/Bg_2020.09.17_9.png"
+			}
+		]
 	},
 	"469": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kumano",
@@ -93222,7 +93530,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Chitose, Kashino (Facing backwards), Kumano (Facing backwards), Kii, Shinano, Suzutsuki",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8d/Bg_2020.09.17_1.png"
+			}
+		]
 	},
 	"470": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Chitose",
@@ -93444,7 +93757,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Chitose, Kashino (Facing backwards), Kumano (Facing backwards), Kii, Shinano, Suzutsuki",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8d/Bg_2020.09.17_1.png"
+			}
+		]
 	},
 	"471": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Chiyoda",
@@ -93896,7 +94214,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Chitose, Kashino (Facing backwards), Kumano (Facing backwards), Kii, Shinano, Suzutsuki",
+				"url": "https://azurlane.koumakan.jp/w/images/8/8d/Bg_2020.09.17_1.png"
+			}
+		]
 	},
 	"473": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Princeton",
@@ -94234,7 +94557,7 @@
 					"cn": "破灭的Opening",
 					"jp": "赤く刻むロイヤリティ"
 				},
-				"description": "At the start of the battle: increases this ship's AVI by 1.5% (6.0%) for each additional Muse ship in the same fleet (can be stacked up to 4 times.) Once per battle, when this ship's HP falls below 35.0% from being attacked: fires a Lv.1 (Lv.10) barrage that heals this ship for 8.0% of the DMG dealt (which is based on the skill's level). After this barrage is fired: decreases the load time of this ship's next Airstrike by 10.0% (20.0%).",
+				"description": "At the start of the battle: increases this ship's AVI by 1.5% (6.0%) for each additional Muse ship in the same fleet (can be stacked up to 4 times). Once per battle, when this ship's HP falls below 35.0% from being attacked: fires a Lv.1 (Lv.10) barrage that heals this ship for 8.0% of the DMG dealt (which is based on the skill's level). After this barrage is fired: decreases the load time of this ship's next Airstrike by 10.0% (20.0%).",
 				"color": "pink"
 			}
 		],
@@ -94300,7 +94623,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"475": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tashkent_µ",
@@ -94509,7 +94841,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"476": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Dido_µ",
@@ -94718,7 +95059,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"477": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Albacore_µ",
@@ -94849,7 +95199,7 @@
 					"cn": "专属弹幕-大青花鱼(μ兵装)II",
 					"jp": "特殊弾幕-アルバコア（μ兵装）II"
 				},
-				"description": "Activates All Out Assault Ⅱ:Albacore μ when surfacing",
+				"description": "Activates All Out Assault Ⅱ: Albacore μ when surfacing.",
 				"color": "pink"
 			}
 		],
@@ -94925,7 +95275,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"478": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Baltimore_µ",
@@ -95101,18 +95460,9 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": {
-				"name": "Byulzzi",
-				"url": "https://azurlane.koumakan.jp/Artists#Byulzzi"
-			},
-			"pixiv": {
-				"name": "ビョルチ⋆",
-				"url": "https://www.pixiv.net/en/users/5882726"
-			},
-			"twitter": {
-				"name": "Byul_zzi",
-				"url": "https://twitter.com/byul_zzi"
-			},
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
 			"web": null,
 			"voice": {
 				"name": "Minami Takahashi",
@@ -95133,7 +95483,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"479": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Roon_µ",
@@ -95331,7 +95690,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"480": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Illustrious_µ",
@@ -95531,7 +95899,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"481": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Le_Malin_µ",
@@ -95730,7 +96107,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Dido µ, Illustrious µ, Baltimore µ, Roon µ, Tashkent µ, Le Malin µ, Albacore µ, Taihou µ",
+				"url": "https://azurlane.koumakan.jp/w/images/d/da/Bg_2020.10.29_3.png"
+			},
+			{
+				"description": "Roon µ, Illustrious µ, Dido µ, Baltimore µ, Taihou µ, Albacore µ, Le Malin µ, Tashkent µ",
+				"url": "https://azurlane.koumakan.jp/w/images/6/67/Bg_2020.10.29_5.png"
+			}
+		]
 	},
 	"9001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tone",
@@ -95876,7 +96262,7 @@
 			"code": "Marie Rose",
 			"cn": "玛莉萝丝",
 			"jp": "マリー・ローズ",
-			"kr": "Marie Rose"
+			"kr": "마리 로즈"
 		},
 		"hexagon": [
 			2,
@@ -95978,7 +96364,7 @@
 					"cn": "玫瑰边刺",
 					"jp": "サイドローズ"
 				},
-				"description": "After the battle starts: for 60s, increases this ship's FP and TRP by 5.0% (15.0%). When this ship takes DMG: 4.0% (10.0%) chance to fire a Lv.1 (Lv.10) special barrage that always crits (DMG is based on the skill's level; 10s cooldown between activations.)",
+				"description": "After the battle starts: for 60s, increases this ship's FP and TRP by 5.0% (15.0%). When this ship takes DMG: 4.0% (10.0%) chance to fire a Lv.1 (Lv.10) special barrage that always deals critical damage (DMG is based on the skill's level; 10s cooldown between activations).",
 				"color": "pink"
 			},
 			{
@@ -96077,7 +96463,7 @@
 			"code": "Honoka",
 			"cn": "穗香",
 			"jp": "ほのか",
-			"kr": "Honoka"
+			"kr": "호노카"
 		},
 		"hexagon": [
 			4,
@@ -96189,7 +96575,7 @@
 					"cn": "必杀☆大爆发",
 					"jp": "必殺☆大爆発"
 				},
-				"description": "When this ship fires its Main Guns: heals 2 random ships in your fleet for 5.0% of their max HP and, with a 45.0% (75.0%) chance, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.)",
+				"description": "When this ship fires its Main Guns: heals 2 random ships in your fleet for 5.0% of their max HP and, with a 45.0% (75.0%) chance, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). The barrage has a 70% chance to inflict a special burn DoT, which reduces Firepower, Torpedo, and Aviation stats by 5% for burning enemies. The burn lasts for 30 seconds.",
 				"color": "deepskyblue"
 			}
 		],
@@ -96269,7 +96655,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Monica as Formidable, Nagisa as Baltimore, Kasumi as Atago, Nyotengu as Taihou, Misaki as Sirius and Honoka as U-81",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d4/Bg_2020.11.26_1.png"
+			}
+		]
 	},
 	"10063": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kasumi_(DOA)",
@@ -96279,7 +96670,7 @@
 			"code": "Kasumi",
 			"cn": "霞",
 			"jp": "かすみ",
-			"kr": "Kasumi"
+			"kr": "카스미"
 		},
 		"hexagon": [
 			4,
@@ -96381,7 +96772,7 @@
 					"cn": "樱花天舞袭",
 					"jp": "桜花天舞襲"
 				},
-				"description": "Every 15s after the start of the battle, and every time this ship lands 6 hits with its Torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.)",
+				"description": "Every 15s after the start of the battle, and every time this ship lands 6 hits with its Torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
 				"color": "pink"
 			},
 			{
@@ -96391,7 +96782,7 @@
 					"cn": "霞镜花",
 					"jp": "霞鏡花"
 				},
-				"description": "When this ship sinks an enemy: increases this ship's FP and RLD by 1.0% (5.0%) (can be stacked up to 3 times.) Additionally, after this ship sinks 3 enemies: increases this ship's Accuracy by 5.0% (15.0%) for the rest of the battle.",
+				"description": "When this ship sinks an enemy: increases this ship's FP and RLD by 1.0% (5.0%) (can be stacked up to 3 times). Additionally, after this ship sinks 3 enemies: increases this ship's Accuracy by 5.0% (15.0%) for the rest of the battle.",
 				"color": "gold"
 			}
 		],
@@ -96472,7 +96863,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Monica as Formidable, Nagisa as Baltimore, Kasumi as Atago, Nyotengu as Taihou, Misaki as Sirius and Honoka as U-81",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d4/Bg_2020.11.26_1.png"
+			}
+		]
 	},
 	"10064": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Misaki",
@@ -96482,7 +96878,7 @@
 			"code": "Misaki",
 			"cn": "海咲",
 			"jp": "みさき",
-			"kr": "Misaki"
+			"kr": "미사키"
 		},
 		"hexagon": [
 			3,
@@ -96594,7 +96990,7 @@
 					"cn": "维纳斯之友",
 					"jp": "ヴィーナスフレンズ"
 				},
-				"description": "Every 20s after the start of the battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.) Enemies hit by this barrage take 5.0% (15.0%) more DMG from Venus Vacation characters for 8s.",
+				"description": "Every 20s after the start of the battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 5.0% (15.0%) more DMG from Venus Vacation characters for 8s.",
 				"color": "pink"
 			}
 		],
@@ -96672,7 +97068,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Monica as Formidable, Nagisa as Baltimore, Kasumi as Atago, Nyotengu as Taihou, Misaki as Sirius and Honoka as U-81",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d4/Bg_2020.11.26_1.png"
+			}
+		]
 	},
 	"10065": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Nagisa",
@@ -96682,7 +97083,7 @@
 			"code": "Nagisa",
 			"cn": "凪咲",
 			"jp": "なぎさ",
-			"kr": "Nagisa"
+			"kr": "나기사"
 		},
 		"hexagon": [
 			4,
@@ -96784,7 +97185,7 @@
 					"cn": "温柔？的姐姐",
 					"jp": "優しい？お姉ちゃん"
 				},
-				"description": "Every 18s after the start of the battle: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level.) Enemies hit by this barrage take 4.5% (12.0%) more DMG from Misaki and Nagisa for 8s.",
+				"description": "Every 18s after the start of the battle: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 4.5% (12.0%) more DMG from Misaki and Nagisa for 8s.",
 				"color": "pink"
 			},
 			{
@@ -96874,7 +97275,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Monica as Formidable, Nagisa as Baltimore, Kasumi as Atago, Nyotengu as Taihou, Misaki as Sirius and Honoka as U-81",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d4/Bg_2020.11.26_1.png"
+			}
+		]
 	},
 	"10066": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Nyotengu",
@@ -96884,7 +97290,7 @@
 			"code": "Nyotengu",
 			"cn": "女天狗",
 			"jp": "女天狗",
-			"kr": "Nyotengu"
+			"kr": "뇨텐구"
 		},
 		"hexagon": [
 			0,
@@ -96986,7 +97392,7 @@
 					"cn": "飞天之舞",
 					"jp": "飛天の舞い"
 				},
-				"description": "5s after this ship finishes loading its Airstrike: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level.)",
+				"description": "5s after this ship finishes loading its Airstrike: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
 				"color": "pink"
 			},
 			{
@@ -97080,7 +97486,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Monica as Formidable, Nagisa as Baltimore, Kasumi as Atago, Nyotengu as Taihou, Misaki as Sirius and Honoka as U-81",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d4/Bg_2020.11.26_1.png"
+			}
+		]
 	},
 	"10067": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Monica",
@@ -97090,7 +97501,7 @@
 			"code": "Monica",
 			"cn": "莫妮卡",
 			"jp": "モニカ",
-			"kr": "Monica"
+			"kr": "모니카"
 		},
 		"hexagon": [
 			3,
@@ -97192,7 +97603,7 @@
 					"cn": "鬼牌游戏",
 					"jp": "ジョーカー・ゲーム"
 				},
-				"description": "Every 15s after the start of the battle: fires a Lv.1 (Lv.10) barrage using special ammo and poker ammo (DMG is based on the skill's level.) Enemies hit by the special ammo take 10.0% increased DMG for 6s.",
+				"description": "Every 15s after the start of the battle: fires a Lv.1 (Lv.10) barrage using special ammo and poker ammo (DMG is based on the skill's level). Enemies hit by the special ammo take 10.0% increased DMG for 6s.",
 				"color": "pink"
 			},
 			{
@@ -97281,7 +97692,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Monica as Formidable, Nagisa as Baltimore, Kasumi as Atago, Nyotengu as Taihou, Misaki as Sirius and Honoka as U-81",
+				"url": "https://azurlane.koumakan.jp/w/images/d/d4/Bg_2020.11.26_1.png"
+			}
+		]
 	},
 	"001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Universal_Bulin",
@@ -102291,6 +102707,18 @@
 			{
 				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.08.13_8.png"
+			},
+			{
+				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
+				"url": "https://azurlane.koumakan.jp/w/images/c/c8/Bg_2020.09.30_1.png"
+			},
+			{
+				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1e/Bg_2020.09.30_4.png"
+			},
+			{
+				"description": "Laffey, Formidable and Le Malin",
+				"url": "https://azurlane.koumakan.jp/w/images/2/22/Bg_2020.09.30_5.png"
 			}
 		]
 	},
@@ -106039,6 +106467,10 @@
 			{
 				"description": "San Diego, Lexington, Washington, Amagi, Avrora",
 				"url": "https://azurlane.koumakan.jp/w/images/f/fa/Bg_2020.08.13_1.png"
+			},
+			{
+				"description": "Bache, San Diego",
+				"url": "https://azurlane.koumakan.jp/w/images/e/e3/Bg_2020.10.29_1.png"
 			}
 		]
 	},
@@ -106368,6 +106800,10 @@
 			{
 				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
 				"url": "https://azurlane.koumakan.jp/w/images/1/18/Bg_2020.03.31_1.png"
+			},
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.koumakan.jp/w/images/6/6f/Bg_2020.09.30_7.png"
 			}
 		]
 	},
@@ -109802,6 +110238,14 @@
 			{
 				"description": "Baltimore, Alabama",
 				"url": "https://azurlane.koumakan.jp/w/images/2/2d/Bg_ashen_2.png"
+			},
+			{
+				"description": "Baltimore, Sirius, Massachusetts, Taihou, Belfast",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.09.17_2.png"
+			},
+			{
+				"description": "Bremerton, Bache, Baltimore",
+				"url": "https://azurlane.koumakan.jp/w/images/3/32/Bg_2020.09.24_7.png"
 			}
 		]
 	},
@@ -113001,6 +113445,10 @@
 			{
 				"description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
 				"url": "https://azurlane.koumakan.jp/w/images/3/35/Bg_EN_1st_anni.png"
+			},
+			{
+				"description": "South Dakota, Massachusetts",
+				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2020.09.24_2.png"
 			}
 		]
 	},
@@ -120596,6 +121044,10 @@
 			{
 				"description": "Many Royal Navy ships in 1 big party",
 				"url": "https://azurlane.koumakan.jp/w/images/1/17/Bg_hms_1.png"
+			},
+			{
+				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
+				"url": "https://azurlane.koumakan.jp/w/images/1/1e/Bg_2020.09.30_4.png"
 			}
 		]
 	},
@@ -122225,7 +122677,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Hardy",
+				"url": "https://azurlane.koumakan.jp/w/images/2/21/Bg_2020.11.12_1.png"
+			}
+		]
 	},
 	"Plan001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/HMS_Neptune",
@@ -123681,6 +124138,10 @@
 			{
 				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
 				"url": "https://azurlane.koumakan.jp/w/images/5/5f/Bg_2019.12.26_10.png"
+			},
+			{
+				"description": "Taihou, Le Malin, Roon",
+				"url": "https://azurlane.koumakan.jp/w/images/2/2f/Bg_2020.10.22_1.png"
 			}
 		]
 	},
@@ -124579,6 +125040,10 @@
 			{
 				"description": "Laffey, Belfast, Unicorn, Georgia",
 				"url": "https://azurlane.koumakan.jp/w/images/f/f4/Bg_2019.11.14_6.png"
+			},
+			{
+				"description": "Shangri-La, Georgia, Essex",
+				"url": "https://azurlane.koumakan.jp/w/images/4/47/Bg_2020.09.17_3.png"
 			}
 		]
 	},
@@ -124853,7 +125318,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Deutschland, Admiral Graf Spee, Kitakaze, Azuma, Yukikaze",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.11.18_1.png"
+			}
+		]
 	},
 	"Plan010": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Azuma",
@@ -125133,6 +125603,10 @@
 			{
 				"description": "Illustrious, Hiei, Swiftsure, Taihou, Azuma, Yukikaze",
 				"url": "https://azurlane.koumakan.jp/w/images/b/b1/Bg_2020.01.22_5.png"
+			},
+			{
+				"description": "Deutschland, Admiral Graf Spee, Kitakaze, Azuma, Yukikaze",
+				"url": "https://azurlane.koumakan.jp/w/images/3/3a/Bg_2020.11.18_1.png"
 			}
 		]
 	},
@@ -125700,6 +126174,10 @@
 			{
 				"description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque and Gascogne during Halloween",
 				"url": "https://azurlane.koumakan.jp/w/images/4/41/Bg_2019.10.31_2.png"
+			},
+			{
+				"description": "Dunkerque, La Galissonnière, Algérie, Le Malin, Gascogne",
+				"url": "https://azurlane.koumakan.jp/w/images/4/4f/Bg_2020.09.30_6.png"
 			}
 		]
 	},
