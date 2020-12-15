@@ -75460,7 +75460,7 @@
 					"cn": "不服输的小魔女",
 					"jp": "冷静なマホウツカイ"
 				},
-				"description": "When own Health falls under 80%: increases own Firepower and Torpedo stat by up to 20 (40), based on remaining Health. When own Health falls under 30%: increases own Anti-Air by 6% (12%) for the rest of the battle.",
+				"description": "Increases own Firepower and Torpedo stat by 1 for each percent Health below 80% up to 20 (40). Additionally, when own Health falls under 30%: increases own Anti-Air by 6% (12%) for the rest of the battle.",
 				"color": "pink"
 			},
 			{
@@ -117918,7 +117918,7 @@
 					"\"Anti-air\" +10",
 					"\"Anti-submarine warfare\" +40",
 					"Torpedo Mount -1",
-					"AA Mount +1"
+					"Anti-Air Gun +1"
 				],
 				"materials": [
 					"1x \"DestroyerT3BP\"",
@@ -126323,7 +126323,7 @@
 					"antiair": "+19",
 					"evasion": "+5"
 				},
-				"Anti-Air Gun Mount +1"
+				"Anti-Air Gun +1"
 			],
 			"10": [
 				"Gains Siren Killer I",
