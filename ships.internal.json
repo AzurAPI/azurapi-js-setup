@@ -27458,7 +27458,7 @@
 			"constructionTime": "04:10:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
 				"exchange": false
@@ -33695,7 +33695,7 @@
 					"cn": "最后的反击",
 					"jp": "飛龍ハ健在ナリ"
 				},
-				"description": "Once per battle, upon taking lethal damage: become invincible and evade all attacks for 5 (15) seconds; simultaneously, launch an additional airstrike.",
+				"description": "Once per battle, if this ship would sink, instead launch an airstrike and become invincible (i.e. immune to all damage) for 5.0 (15.0) seconds.",
 				"color": "deepskyblue"
 			},
 			{
@@ -33705,7 +33705,7 @@
 					"cn": "二航战",
 					"jp": "二航戦"
 				},
-				"description": "When paired with Souryuu in the same fleet, increase own Air Power by 15% (35%).",
+				"description": "When sortied with Souryuu in the same fleet, increase own AVI stat by 15.0% (35.0%).",
 				"color": "gold"
 			},
 			{
@@ -33715,7 +33715,7 @@
 					"cn": "花之牌",
 					"jp": "式機花札"
 				},
-				"description": "10 seconds after the start of a battle and every 20 seconds after that: launch special torpedo bomber attack (number of planes launched are random). Each torpedo bomber carry 2 torpedoes that each do 91 (172) damage.\n7% chance of launching 5 planes. (Five Brights)\n12% chance of launching 3 planes. (Lesser Blue)\n51% chance of launching 2 planes. (Flower Sake)\n30% chance of launching 1 planes. (Scraps)",
+				"description": "10 seconds after the start of the battle, and every 20 seconds after that, launch a special torpedo bomber barrage. Each torpedo bomber carries 2 linear torpedoes that each deal 91 (172) base damage (damage scales with this ship's AVI stat). The number of planes launched is determined randomly, as follows:\n7% chance of launching 5 planes. (Five Brights)\n12% chance of launching 3 planes. (Lesser Blue)\n51% chance of launching 2 planes. (Flower Sake)\n30% chance of launching 1 planes. (Scraps)",
 				"color": "pink"
 			}
 		],
@@ -34184,7 +34184,7 @@
 					"cn": "五航战",
 					"jp": "五航戦"
 				},
-				"description": "If sortied with Zuikaku, increases own Air Power by 12% (30%) and damage taken by self by 5%.",
+				"description": "If sortied with Zuikaku, increase own AVI stat by 12.0% (30.0%) and increase own damage received by 5.0%.",
 				"color": "gold"
 			},
 			{
@@ -34194,7 +34194,7 @@
 					"cn": "鹤之加护",
 					"jp": "守護の鶴"
 				},
-				"description": "When launching an airstrike: all ships in the fleet deal 4% (10%) more damage and take 4% (10%) less damage for 12 seconds.",
+				"description": "When this ship launches an airstrike, for 12 seconds, each ship in your fleet deals 4.0% (10.0%) more damage and receives 4.0% (10.0%) less damage. The damage dealt buff does not apply to the airstrike that triggered this skill.",
 				"color": "deepskyblue"
 			}
 		],
@@ -34455,7 +34455,7 @@
 					"cn": "五航战",
 					"jp": "五航戦"
 				},
-				"description": "If sortied with Shoukaku, increase own Air Power by 8% (20%) and reduce damage taken by self by 8% (20%).",
+				"description": "If sortied with Shoukaku, increase own AVI stat by 8.0% (20.0%) and decrease own damage received by 8.0% (20.0%).",
 				"color": "gold"
 			},
 			{
@@ -34465,7 +34465,7 @@
 					"cn": "鹤之奋进",
 					"jp": "奮進の鶴"
 				},
-				"description": "When launching an airstrike: permanently increases the damage of next airstrike by 8% (20%). Can be stacked 3 times.",
+				"description": "When this ship launches an airstrike, increase the damage dealt by all subsequent airstrikes by 8.0% (20.0%). This buff may stack up to three times.",
 				"color": "pink"
 			}
 		],
@@ -34710,7 +34710,7 @@
 					"cn": "命运之骰",
 					"jp": "航空連携"
 				},
-				"description": "Every time own airstrike finishes loading, 20% (40%) chance to launch an attack with Ryuusei, Suisei, and/or Saiun squadrons (Squadrons are independent variables of each other). Saiun squadron does not carry any ammunition and increases main fleet's damage by 10% for 8 seconds upon activation.",
+				"description": "When this ship finishes loading an airstrike, 20.0% (40.0%) chance each to launch a special barrage of Ryuusei, Suisei, and/or Saiun planes (each of the three barrages use independent rolls to determine if they proc). Ryuusei and Suisei special barrages' damage scales with skill level and this ship's AVI stat. The Saiun barrage does not do damage; instead it increases your main fleet's DMG dealt by 10.0% for 8 seconds.",
 				"color": "pink"
 			},
 			{
@@ -34720,7 +34720,7 @@
 					"cn": "重樱装母",
 					"jp": "重防御装甲"
 				},
-				"description": "Reduces HE damage and Aviation damage taken by self by 5% (20%).",
+				"description": "Decrease incoming damage on self from planes and High Explosive shells by 5.0% (20.0%).",
 				"color": "deepskyblue"
 			}
 		],
@@ -35024,14 +35024,14 @@
 		],
 		"limitBreaks": [
 			[
-				"Number of Dive Bombers +1",
+				"Slot 2 Planes +1",
 				"Dive Bomber Efficiency +5%",
 				"Can Equip Dive Bombers",
 				"Torpedo Bombers in the Fighters slot"
 			],
 			[
 				"Hangar Capacity +1",
-				"Number of Torpedo Bombers +2",
+				"Slot 3 Planes +2",
 				"Torpedo Bomber Efficiency +10%"
 			],
 			[
@@ -54287,7 +54287,7 @@
 			"constructionTime": "03:30:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: The Return of the War God",
 				"exchange": false
@@ -54358,12 +54358,12 @@
 				}
 			},
 			{
-				"name": "Flower-viewing Weather",
+				"name": "Blossom-Viewing Season",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/MikasaNew_Year.png/481px-MikasaNew_Year.png",
 				"background": "https://azurlane.koumakan.jp/w/images/a/a8/Skin_BG_113.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e9/MikasaNew_YearChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Blossom-Viewing Season",
 					"cnClient": "赏樱日和",
 					"jpClient": "花見日和",
 					"obtainedFrom": "Skin Shop",
@@ -131256,7 +131256,7 @@
 				"Dive Bomber Efficiency +10%"
 			],
 			[
-				"All Aircraft +1",
+				"All Planes +1",
 				"Aircraft Efficiency +5%"
 			]
 		],
