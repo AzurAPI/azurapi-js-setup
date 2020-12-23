@@ -14,7 +14,7 @@ const SKIN_FILE_NAME = '${type}.png';
 
 const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
 
-const {parseShip} = require('./parser');
+const {parseShip, init} = require('./parser');
 const {fetchGallery} = require('./gallery');
 const {fetch, fetchImage, timeout, clone, getHash} = require('../utils');
 
@@ -28,6 +28,7 @@ async function refreshShips() {
     fs.writeFileSync(path.resolve(__dirname, '../ship-list.json'), JSON.stringify(SHIP_LIST));
     let keys = Object.keys(SHIP_LIST);
     const bar = progress.create(keys.length, 0);
+    await init();
     for (let key of keys) {
         bar.increment();
         if (key.length === 4 && key.startsWith("3")) continue;
@@ -43,7 +44,7 @@ async function refreshShips() {
 async function fetchShip(id, name) {
     if (SHIPS_INTERNAL[id]) return SHIPS_INTERNAL[id];
     let data = await fetch(`https://azurlane.koumakan.jp/${encodeURIComponent(name)}`, path.resolve(__dirname, `../web/ships/${name}.html`));
-    let ship = parseShip(id, name, data);
+    let ship = await parseShip(id, name, data);
     let gallery = await fetchGallery(name);
     ship.skins = gallery.skins;
     ship.gallery = gallery.gallery;

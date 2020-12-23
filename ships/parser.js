@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require("path");
 const JSDOM = require('jsdom').JSDOM;
+const Kuroshiro = require('kuroshiro');
+const KuromojiAnalyzer = require("kuroshiro-analyzer-kuromoji");
 const SHIP_LIST = require('../ship-list.json');
 const {deepToString, BASE, camelize, galleryThumbnailUrlToActualUrl, clone} = require('../utils');
 
@@ -15,7 +17,7 @@ const NATIONALITY = {
     9: "Vichya Dominion", 98: "Universal", 101: "Neptunia", 102: "Bilibili",
     103: "Utawarerumono", 104: "Kizuna AI", 105: "Hololive", 106: "Venus Vacation"
 };
-
+const kuroshiro = new Kuroshiro();
 const UNRELEASED = ['Tone', 'Chikuma', 'Pola', 'Vittorio Veneto', 'Kirov', 'Sovetsky Soyuz'];
 
 function findShip(id, name, nationality) {
@@ -55,29 +57,35 @@ function findShip(id, name, nationality) {
     console.log("Mission FAILED | Ship = " + name);
 }
 
-function fillNames(names) {
-    let fillValue = names.en || names.cn || names.jp || names.code;
+const toTitleCase = str => str.replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
+
+async function fillNames(names) {
+    let fillValue = names.en || names.jp || names.cn || names.code;
     names = clone(names);
-    if (!names.en) names.en = fillValue;
     if (!names.jp) names.jp = fillValue;
     if (!names.cn) names.cn = fillValue;
     if (!names.kr) names.kr = fillValue;
     if (!names.code) names.code = fillValue;
+    if (!names.en) {
+        names.en = toTitleCase(await kuroshiro.convert(names.jp, {to: 'romaji'}));
+        console.log(names.jp, ">", names.en);
+    }
     return names;
 }
 
-function parseShip(id, name, body) {
+async function parseShip(id, name, body) {
     const doc = new JSDOM(body).window.document;
     let referenceShip = findShip(id, name, doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent);
     let ship = {
         wikiUrl: `${BASE}/${name.replace(/ +/g, "_")}`,
         id: id,
-        names: fillNames(referenceShip.name),
+        names: await fillNames(referenceShip.name),
         hexagon: referenceShip.property_hexagon,
         class: doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a") ? doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a").textContent : null,
         nationality: referenceShip.unreleased ? referenceShip.nationality : NATIONALITY[referenceShip.nationality],
         hullType: referenceShip.unreleased ? referenceShip.type : types[referenceShip.type].en
     }
+    if (!ship.class) ship.class = ship.names.en;
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) {
         let images = doc.getElementsByTagName("img");
         ship.unreleased = true;
@@ -379,4 +387,4 @@ function parseShipMapDrop(construction_tbody) {
     return obtainedFrom;
 }
 
-module.exports = {parseShip};
+module.exports = {parseShip, init: () => kuroshiro.init(new KuromojiAnalyzer())};
