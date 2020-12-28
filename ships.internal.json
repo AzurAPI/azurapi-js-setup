@@ -323,9 +323,9 @@
 			},
 			"2": {
 				"type": "Torpedoes",
-				"minEfficiency": 135,
-				"maxEfficiency": 140,
-				"kaiEfficiency": 145
+				"minEfficiency": 145,
+				"maxEfficiency": 150,
+				"kaiEfficiency": 155
 			},
 			"3": {
 				"type": "Anti-Air Guns",
@@ -363,7 +363,7 @@
 					"cn": "强袭模式·EX",
 					"jp": "強襲形態・EX"
 				},
-				"description": "Every 20 seconds, 40% (70%) chance to increase own Torpedo stat by 30% for 5 seconds and release a powerful barrage, while launching a tight fan-spread of fast torpedoes.",
+				"description": "Every 20 seconds, 40% (70%) chance to increase own Torpedo stat by 30% for 8 seconds and release a powerful barrage, while launching a tight fan-spread of fast torpedoes.",
 				"color": "pink"
 			},
 			{
@@ -2049,7 +2049,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "Increase own damage against heavy cruisers by 15% (25%).",
+				"description": "Increases Eva and Torp by 5.0% (15.0%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5 seconds after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -2527,7 +2527,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "Increase own damage against heavy cruisers by 15% (25%).",
+				"description": "Increases Eva and Torp by 5.0% (15.0%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5 seconds after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -7679,15 +7679,15 @@
 		"slots": {
 			"1": {
 				"type": "CA Guns",
-				"minEfficiency": 125,
-				"maxEfficiency": 140,
-				"kaiEfficiency": 145
+				"minEfficiency": 130,
+				"maxEfficiency": 145,
+				"kaiEfficiency": 150
 			},
 			"2": {
 				"type": "Torpedoes",
-				"minEfficiency": 150,
-				"maxEfficiency": 165,
-				"kaiEfficiency": 165
+				"minEfficiency": 155,
+				"maxEfficiency": 170,
+				"kaiEfficiency": 170
 			},
 			"3": {
 				"type": "Anti-Air Guns",
@@ -7735,7 +7735,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "Increase damage dealt to heavy cruisers by 15% (25%).",
+				"description": "Increases Eva and Torp by 5.0% (15.0%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5 seconds after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -10370,7 +10370,7 @@
 					"cn": "皇家同盟",
 					"jp": "王家同盟"
 				},
-				"description": "During battle, increases own Firepower, Reload, Evasion, and Anti-Air by 1% (5%) per Eagle Union ship in the fleet.",
+				"description": "Increase this ship's FP, RLD, EVA, and AA by 2.0% (10.0%) for each Eagle Union ship in your fleet, up to a maximum of three stacks. If your fleet contains three or more Eagle Union ships:\nDecrease the loading time of this ship's first main gun volley by 85.0%.\nIncrease the FP and AA of each Eagle Union ship in your vanguard by 4.5% (12.0%).\nIncrease the AVI and AA of each Eagle Union ship in your main fleet by 4.5% (12.0%).",
 				"color": "pink"
 			}
 		],
@@ -12589,7 +12589,7 @@
 					"cn": "胜利之歌",
 					"jp": "勝利の歌"
 				},
-				"description": "Increases own damage dealt to Battleships by 10% (20%) and decreases damage taken from plunging shots (shots that travel in an arc) by 10% (20%).",
+				"description": "Increases own damage dealt to Battleships by 10% (20%) and decreases damage taken from plunging shots (shots that travel in an arc) by 10% (20%). Increases damage dealt to Battleships by friendly CVs/CVLs by 5% (10%).",
 				"color": "pink"
 			},
 			{
@@ -16354,7 +16354,7 @@
 			},
 			{
 				"name": "Woofy Floofy Christmas Night",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2b/YuudachiChristmas.png/564px-YuudachiChristmas.png",
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/8/84/YuudachiChristmasChibi.png",
 				"info": {
@@ -26111,7 +26111,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-高雄型"
 				},
-				"description": "Every 9 (6) shots from the main gun, triggers Full Barrage - Takao Class I (II).",
+				"description": "Every 6 (4) shots from the main gun, triggers Full Barrage - Takao Class I (II).  The first time this ship fires its All Out Assault, increases this ship's Evasion Rate by 10%, activating only once.",
 				"color": "pink"
 			}
 		],
@@ -26427,7 +26427,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-高雄型"
 				},
-				"description": "Every 9 (6) shots from the main battery, triggers Full Barrage - Takao Class I (II).",
+				"description": "Every 6 (4) shots from the main gun, triggers Full Barrage - Takao Class I (II).  The first time this ship fires its All Out Assault, increases this ship's Evasion Rate by 10%, activating only once.",
 				"color": "pink"
 			}
 		],
@@ -26735,7 +26735,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-高雄型"
 				},
-				"description": "Every 9 (6) shots from the main gun, triggers Full Barrage - Takao Class I (II).",
+				"description": "Every 6 (4) shots from the main gun, triggers Full Barrage - Takao Class I (II).  The first time this ship fires its All Out Assault, increases this ship's Evasion Rate by 10%, activating only once.",
 				"color": "pink"
 			}
 		],
@@ -26967,7 +26967,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-高雄型"
 				},
-				"description": "Every 9 (6) shots from the main gun, triggers Full Barrage - Takao Class I (II).",
+				"description": "Every 6 (4) shots from the main gun, triggers Full Barrage - Takao Class I (II).  The first time this ship fires its All Out Assault, increases this ship's Evasion Rate by 10%, activating only once.",
 				"color": "pink"
 			}
 		],
@@ -34208,7 +34208,7 @@
 					"cn": "鹤之加护",
 					"jp": "守護の鶴"
 				},
-				"description": "When this ship launches an airstrike, for 12 seconds, each ship in your fleet deals 4.0% (10.0%) more damage and receives 4.0% (10.0%) less damage. The damage dealt buff does not apply to the airstrike that triggered this skill.",
+				"description": "When this ship launches an airstrike, for 12 seconds, each ship in your fleet deals 4.0% (10.0%) more damage and receives 4.0% (10.0%) less damage.",
 				"color": "deepskyblue"
 			}
 		],
@@ -34479,7 +34479,7 @@
 					"cn": "鹤之奋进",
 					"jp": "奮進の鶴"
 				},
-				"description": "When this ship launches an airstrike, increase the damage dealt by all subsequent airstrikes by 8.0% (20.0%). This buff may stack up to three times.",
+				"description": "If there is 3 or more IJN ships in the fleet, increases own damage by 8.0% (20.0%). When this ship launches an airstrike, increase the damage dealt by all subsequent airstrikes by 8.0% (20.0%). This buff may stack up to three times.",
 				"color": "pink"
 			}
 		],
@@ -34724,7 +34724,7 @@
 					"cn": "命运之骰",
 					"jp": "航空連携"
 				},
-				"description": "When this ship finishes loading an airstrike, 20.0% (40.0%) chance each to launch a special barrage of Ryuusei, Suisei, and/or Saiun planes (each of the three barrages use independent rolls to determine if they proc). Ryuusei and Suisei special barrages' damage scales with skill level and this ship's AVI stat. The Saiun barrage does not do damage; instead it increases your main fleet's DMG dealt by 10.0% for 8 seconds.",
+				"description": "When this ship finishes loading an airstrike, 100% chance each to launch a special barrage of Ryuusei, Suisei, or Saiun planes. Remaining two barrages have 10.0% (25%) chance of launch afterwards.  (each of the 2 remaining barrages use independent rolls to determine if they proc). Ryuusei and Suisei special barrages' damage scales with skill level and this ship's AVI stat. The Saiun barrage does not do damage; instead it increases your main fleet's DMG dealt by 10.0% for 8 seconds.",
 				"color": "pink"
 			},
 			{
@@ -40874,14 +40874,14 @@
 			"baseStats": {
 				"health": "1317",
 				"armor": "Medium",
-				"reload": "42",
+				"reload": "47",
 				"luck": "45",
 				"firepower": "0",
 				"torpedo": "0",
 				"evasion": "14",
 				"speed": "33",
 				"antiair": "60",
-				"aviation": "76",
+				"aviation": "81",
 				"oilConsumption": "4",
 				"accuracy": "30",
 				"antisubmarineWarfare": "0"
@@ -40889,14 +40889,14 @@
 			"level100": {
 				"health": "6808",
 				"armor": "Medium",
-				"reload": "100",
+				"reload": "111",
 				"luck": "45",
 				"firepower": "0",
 				"torpedo": "0",
 				"evasion": "36",
 				"speed": "33",
 				"antiair": "281",
-				"aviation": "358",
+				"aviation": "381",
 				"oilConsumption": "13",
 				"accuracy": "78",
 				"antisubmarineWarfare": "0"
@@ -40904,14 +40904,14 @@
 			"level120": {
 				"health": "7488",
 				"armor": "Medium",
-				"reload": "115",
+				"reload": "127",
 				"luck": "45",
 				"firepower": "0",
 				"torpedo": "0",
 				"evasion": "50",
 				"speed": "33",
 				"antiair": "319",
-				"aviation": "400",
+				"aviation": "423",
 				"oilConsumption": "13",
 				"accuracy": "87",
 				"antisubmarineWarfare": "0"
@@ -40929,7 +40929,7 @@
 				"maxEfficiency": 130
 			},
 			"3": {
-				"type": "Dive Bombers",
+				"type": "Dive Bombers / Torpedo Bombers (MLB)",
 				"minEfficiency": 115,
 				"maxEfficiency": 130
 			}
@@ -40953,7 +40953,7 @@
 					"cn": "铁血之翼",
 					"jp": "鉄血の翼"
 				},
-				"description": "Reduces damage received by all Iron Blood ships in the fleet by 5% (15%).",
+				"description": "Reduces damage received by all Iron Blood ships in the fleet by 5% (15%); For every Iron Blood ship in the same fleet as this ship: increases this ship's AVI by 1%? (5%), up to a maximum of three stacks.",
 				"color": "deepskyblue"
 			},
 			{
@@ -40963,25 +40963,28 @@
 					"cn": "铁血之鹰",
 					"jp": "鉄血の鷹"
 				},
-				"description": "German aircraft in use (BF-109T, Me-155A, Ju-87C, etc.) will receive an additional 15% (30%) Efficiency.",
+				"description": "When this ship is equipped with at least one Iron Blood aircraft: increases the efficiency of this ship's aircraft slots by 15% (30%).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
 				"Number of Fighters +1",
-				"Dive Bomber Efficiency +3%"
+				"Slot 2 and Slot 3 Efficiency +3%"
 			],
 			[
 				"Hangar Capacity +1",
-				"Number of Dive Bombers +1",
-				"Dive Bomber Efficiency +5%Game displays Fighter Efficiency +5%<",
+				"Slot 2 Planes +1",
+				"Slot 3 Planes +1",
+				"Slot 2 and Slot 3 Efficiency +5%Game displays Fighter Efficiency +5%<",
 				"div><",
 				"div>"
 			],
 			[
-				"Number of Dive Bombers +1",
-				"Dive Bomber Efficiency +7%"
+				"Slot 2 Planes +1",
+				"Slot 3 Planes +1",
+				"Slot 2 and Slot 3 Efficiency +7%",
+				"Can equip Torpedo Bombers in the third gear slot"
 			]
 		],
 		"fleetTech": {
@@ -41016,7 +41019,7 @@
 				"light": false,
 				"heavy": false,
 				"aviation": true,
-				"limited": "Only during event: Divergent Chessboard (EN)",
+				"limited": false,
 				"exchange": false
 			}
 		},
@@ -64245,7 +64248,7 @@
 					"cn": "Big Mamie",
 					"jp": "Big Mamie"
 				},
-				"description": "During battle, increases own Firepower, Anti-Air and Evasion by 1% (5%) per Eagle Union Heavy Cruiser/Battleship other than self. Only up to 3 ships can be counted toward this bonus (a maximum buff of 15%).",
+				"description": "During battle, increases own Firepower, Anti-Air and Evasion by 3.5% (8%) per Eagle Union Heavy Cruiser/Battleship including this ship. Only up to 3 ships can be counted toward this bonus (a maximum buff of 24%).",
 				"color": "pink"
 			},
 			{
@@ -64255,7 +64258,7 @@
 					"cn": "2700磅的正义",
 					"jp": "2700ポンドの正義"
 				},
-				"description": "Main gun property is changed to SHS with 60/135/115 modifiers with 20% chance to inflict armor break. Increases damage of the shells based upon their distance traveled from 35 to 105 (121), dealing bonus damage up to 15% (30%).",
+				"description": "Increases damage of the shells based upon their distance traveled from 35 to 105 (121), dealing bonus damage up to 5% (15%). When equipped with a USS secondary gun, changes main gun ammo to SHS (with 60/135/115 modifiers with 20% chance to inflict armor break) and increases damage based on distance up to 15% (30%).",
 				"color": "pink"
 			}
 		],
@@ -87413,13 +87416,13 @@
 		"slots": {
 			"1": {
 				"type": "CL/DD Guns",
-				"minEfficiency": 120,
-				"maxEfficiency": 125
+				"minEfficiency": 125,
+				"maxEfficiency": 130
 			},
 			"2": {
 				"type": "Torpedoes",
-				"minEfficiency": 130,
-				"maxEfficiency": 135
+				"minEfficiency": 135,
+				"maxEfficiency": 140
 			},
 			"3": {
 				"type": "Anti-Air Guns",
@@ -87446,7 +87449,7 @@
 					"cn": "锐目的支援者",
 					"jp": "ヴィジランテサポーター"
 				},
-				"description": "At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Main Gun Crit Rate by 5.0% (15.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 1.5% (6.0%). For the 1st and 2nd battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.",
+				"description": "At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Main Gun Crit Rate by 5.0% (35.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 2.5% (10.0%). For the first four battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.",
 				"color": "pink"
 			},
 			{
@@ -87456,7 +87459,7 @@
 					"cn": "I AM RENO！",
 					"jp": "リノリアクター"
 				},
-				"description": "At the start of the battle: increases this ship's AA by 5.0% (15.0%) and FP by 4.5% (12.0%). Every third time a ship in your Main Fleet takes DMG: increases this ship's AA and FP by 1.5% (6.0%) (can be stacked up to 2 times) until the end of the battle.",
+				"description": "At the start of the battle: increases this ship's AA by 5.0% (15.0%) and FP by 5.0% (15.0%). Every second time a ship in your Main Fleet takes DMG: increases this ship's AA and FP by 1.5% (6.0%) (can be stacked up to 2 times) until the end of the battle.",
 				"color": "gold"
 			},
 			{
@@ -94141,7 +94144,9 @@
 				"maxEfficiency": 80
 			},
 			"3": {
-				"type": "Auxiliaries / Cargoes"
+				"type": "Auxiliaries / Cargo",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
 			}
 		},
 		"enhanceValue": {
@@ -96164,9 +96169,18 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
+			"artist": {
+				"name": "Byulzzi",
+				"url": "https://azurlane.koumakan.jp/Artists#Byulzzi"
+			},
+			"pixiv": {
+				"name": "ビョルチ⋆",
+				"url": "https://www.pixiv.net/en/users/5882726"
+			},
+			"twitter": {
+				"name": "Byul_zzi",
+				"url": "https://twitter.com/byul_zzi"
+			},
 			"web": null,
 			"voice": {
 				"name": "Haruka Shiraishi",
@@ -113415,7 +113429,7 @@
 					"cn": "最强之盾",
 					"jp": "最強の盾"
 				},
-				"description": "Every 30 seconds, absorbs 50% of damage taken by the Main Fleet for 8 seconds. At the end of the effect, heals for 20% (50%) of the damage taken.",
+				"description": "15 seconds after the battle starts and every 25 seconds afterwards, absorbs 50% of damage taken by the Main Fleet for 8 seconds. At the end of the effect, heals for 20% (50%) of the damage taken and increase own Firepower by 4.0% (10.0%) (stacks up to 3 times)",
 				"color": "deepskyblue"
 			},
 			{
@@ -115824,7 +115838,7 @@
 			},
 			{
 				"name": "Silent Night Songstress",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/ad/SaratogaChristmas.png/557px-SaratogaChristmas.png",
 				"background": "https://azurlane.koumakan.jp/w/images/b/b9/Skin_BG_125.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/5/50/SaratogaChristmasChibi.png",
 				"info": {
@@ -127057,7 +127071,7 @@
 				"url": "https://weibo.com/liduke"
 			},
 			"voice": {
-				"name": "Kaida Yuhko",
+				"name": "Yuuko Kaida",
 				"url": "https://en.wikipedia.org/wiki/Y%C5%ABko_Kaida"
 			}
 		},
