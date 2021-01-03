@@ -4365,6 +4365,7 @@
 					"cnClient": "凛冽的钢之从者",
 					"jpClient": "凛冽なりし鋼の従者",
 					"obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 2 bonus",
+					"cost": "1180",
 					"live2dModel": "No"
 				}
 			},
@@ -4406,6 +4407,20 @@
 					"jpClient": "skin unavailable",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Folded Fascination",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f1/BelfastNew_Year.png/515px-BelfastNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/4/4a/Skin_BG_136.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/d/d1/BelfastNew_YearChibi.png",
+				"info": {
+					"enClient": "Folded Fascination",
+					"cnClient": "倾城之华扇",
+					"jpClient": "傾城の華扇",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
 					"live2dModel": "No"
 				}
 			}
@@ -21699,15 +21714,15 @@
 				}
 			},
 			{
-				"name": "Relaxing Spring Day",
+				"name": "Spring Breeze Leisure",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/71/NagaraSpring.png/558px-NagaraSpring.png",
 				"background": "https://azurlane.koumakan.jp/w/images/d/d2/Skin_BG_128.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/b/b0/NagaraSpringChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Spring Breeze Leisure",
 					"cnClient": "悠闲春日",
 					"jpClient": "春風ゆらり",
-					"obtainedFrom": "",
+					"obtainedFrom": "(CN/JP) February 2020/(EN) January 2021 - Monthly Login Reward",
 					"live2dModel": "No"
 				}
 			}
@@ -27820,6 +27835,20 @@
 					"enClient": "Scarlet Innocence",
 					"cnClient": "绯红Innocence",
 					"jpClient": "真緋のイノセンス",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "The Elegant Lotus",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/80/HarunaNew_Year.png/573px-HarunaNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/a9/HarunaNew_YearChibi.png",
+				"info": {
+					"enClient": "The Elegant Lotus",
+					"cnClient": "雅致莲华",
+					"jpClient": "蓮華のエレガンス",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2dModel": "No"
@@ -34479,7 +34508,7 @@
 					"cn": "鹤之奋进",
 					"jp": "奮進の鶴"
 				},
-				"description": "If there is 3 or more IJN ships in the fleet, increases own damage by 8.0% (20.0%). When this ship launches an airstrike, increase the damage dealt by all subsequent airstrikes by 8.0% (20.0%). This buff may stack up to three times.",
+				"description": "If there are three or more Sakura Empire ships in your fleet, increase own damage dealt by 8.0% (20.0%). When this ship launches an airstrike, increase the damage dealt by all subsequent airstrikes by 8.0% (20.0%). This buff may stack up to three times.",
 				"color": "pink"
 			}
 		],
@@ -40432,7 +40461,7 @@
 					"cn": "Wahrheit",
 					"jp": "Wahrheit"
 				},
-				"description": "The first salvo round of each main gun volley is guaranteed to critically hit. When equipped with CL guns in the secondary slot, increase detection range and shooting range to 65 (90), but decrease damage done by secondary guns by 35%.",
+				"description": "The first salvo round of each main gun volley is guaranteed to critically hit. When equipped with a CL gun in the secondary slot, increase its detection range and shooting range to 65 (90), but decrease its damage dealt by 35.0%.",
 				"color": "pink"
 			},
 			{
@@ -40442,7 +40471,7 @@
 					"cn": "不屈的力量",
 					"jp": "不屈の力"
 				},
-				"description": "When sortied as flagship:\nIncrease damage dealt by Iron Blood carriers by 10% (20%).\nWhen firing main gun, 40% (70%) chance to fire a special barrage.Barrage preview (gif)",
+				"description": "When sortied as flagship:\nIncrease damage dealt by Iron Blood carriers by 10.0% (20.0%).\nWhen firing main gun, 40.0% (70.0%) chance to fire a special barrage.Barrage preview (gif)",
 				"color": "pink"
 			},
 			{
@@ -40452,7 +40481,7 @@
 					"cn": "铁血的意志",
 					"jp": "鉄血艦隊の指導者"
 				},
-				"description": "Increase critical chance of main guns, torpedoes and aircraft by 4% (20%), reload by 4.5% (12%) for Ironblood ships. Increase damage dealt by Tirpitz by 20% (40%).",
+				"description": "Increase the critical rate of main guns, torpedoes, and aircraft by 4.0% (20.0%), and reload by 4.5% (12.0%), for Iron Blood ships. Increase damage dealt by Tirpitz by 20.0% (40.0%).",
 				"color": "gold"
 			}
 		],
@@ -40817,6 +40846,22 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Seasonal Pine and the Frost Flower",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/fe/TirpitzNew_Year.png/529px-TirpitzNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/e/e8/TirpitzNew_YearWithoutBG.png/765px-TirpitzNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/e/ed/TirpitzNew_YearChibi.png",
+				"info": {
+					"enClient": "Seasonal Pine and the Frost Flower",
+					"cnClient": "松之节句、白之冰华",
+					"jpClient": "松の節句と白き氷華",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -40953,7 +40998,7 @@
 					"cn": "铁血之翼",
 					"jp": "鉄血の翼"
 				},
-				"description": "Reduces damage received by all Iron Blood ships in the fleet by 5% (15%); For every Iron Blood ship in the same fleet as this ship: increases this ship's AVI by 1%? (5%), up to a maximum of three stacks.",
+				"description": "Reduces damage received by all Iron Blood ships in the fleet by 5.0% (15.0%). For each Iron Blood ship in the same fleet as this ship, increases this ship's AVI by 1.0% (5.0%), up to a maximum of three stacks.",
 				"color": "deepskyblue"
 			},
 			{
@@ -40963,7 +41008,7 @@
 					"cn": "铁血之鹰",
 					"jp": "鉄血の鷹"
 				},
-				"description": "When this ship is equipped with at least one Iron Blood aircraft: increases the efficiency of this ship's aircraft slots by 15% (30%).",
+				"description": "When this ship is equipped with at least one Iron Blood aircraft, increase the efficiency of this ship's aircraft slots by 15.0% (30.0%).",
 				"color": "pink"
 			}
 		],
@@ -49068,6 +49113,21 @@
 					"obtainedFrom": "Default",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "A Dance for the Coming Spring",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/e/e9/HarutsukiNew_Year.png/637px-HarutsukiNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/6/69/HarutsukiNew_YearWithoutBG.png/787px-HarutsukiNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/45/HarutsukiNew_YearChibi.png",
+				"info": {
+					"enClient": "A Dance for the Coming Spring",
+					"cnClient": "迎春的神乐舞",
+					"jpClient": "麗しき迎春の舞",
+					"obtainedFrom": "",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": []
@@ -56558,6 +56618,22 @@
 					"jpClient": "花舞う季節の転校生",
 					"obtainedFrom": "Skin Shop",
 					"cost": "880",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Snow-Dusted Lynx Tips",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d9/AsashioNew_Year.png/608px-AsashioNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/f/f1/AsashioNew_YearWithoutBG.png/849px-AsashioNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3e/AsashioNew_YearChibi.png",
+				"info": {
+					"enClient": "Snow-Dusted Lynx Tips",
+					"cnClient": "雪朝与铃",
+					"jpClient": "リンクスティップの雪化粧",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
 					"live2dModel": "No"
 				}
 			}
@@ -64119,7 +64195,21 @@
 				"info": {
 					"enClient": "Private Après Midi",
 					"cnClient": "秘密的Après midi",
-					"jpClient": "秘密のAprès midi",
+					"jpClient": "秘密のAprès midi",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1180",
+					"live2dModel": "Yes"
+				}
+			},
+			{
+				"name": "First Snow Upon the Cutlass's Edge",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/Jean_BartNew_Year.png/585px-Jean_BartNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/2/21/Jean_BartNew_YearChibi.png",
+				"info": {
+					"enClient": "First Snow Upon the Cutlass's Edge",
+					"cnClient": "舶刀Première neige",
+					"jpClient": "舶刀Première neige",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1180",
 					"live2dModel": "Yes"
@@ -64248,7 +64338,7 @@
 					"cn": "Big Mamie",
 					"jp": "Big Mamie"
 				},
-				"description": "During battle, increases own Firepower, Anti-Air and Evasion by 3.5% (8%) per Eagle Union Heavy Cruiser/Battleship including this ship. Only up to 3 ships can be counted toward this bonus (a maximum buff of 24%).",
+				"description": "Increase own FP, AA, and EVA stats by 3.5% (8.0%) for each Eagle Union Battleship or Heavy Cruiser in your fleet (including this ship), up to a maximum of three stacks.",
 				"color": "pink"
 			},
 			{
@@ -64258,7 +64348,7 @@
 					"cn": "2700磅的正义",
 					"jp": "2700ポンドの正義"
 				},
-				"description": "Increases damage of the shells based upon their distance traveled from 35 to 105 (121), dealing bonus damage up to 5% (15%). When equipped with a USS secondary gun, changes main gun ammo to SHS (with 60/135/115 modifiers with 20% chance to inflict armor break) and increases damage based on distance up to 15% (30%).",
+				"description": "Increase this ship's main gun damage based on the distance its shells travel, from 35 to 105 (121), dealing bonus damage up to 5.0% (15.0%). When equipped with an Eagle Union secondary gun, change main gun ammo to SHS (with 60/135/115 modifiers and 20% chance to inflict armor break) and instead increase the bonus damage up to 15.0% (30.0%).",
 				"color": "pink"
 			}
 		],
@@ -81967,6 +82057,22 @@
 					"cost": "800",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "New Year, Small Shark",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/dd/U-110New_Year.png/567px-U-110New_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/3/36/U-110New_YearWithoutBG.png/799px-U-110New_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/bb/U-110New_YearChibi.png",
+				"info": {
+					"enClient": "New Year, Small Shark",
+					"cnClient": "小鲨鱼的初梦",
+					"jpClient": "サメちゃんの初夢",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -84582,12 +84688,12 @@
 				"light": "Only during event:Fight On, Royal Maids!",
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during event:Inverted Orthant",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Light Construction during \"Fight On, Royal Maids!\" event.",
+			"obtainedFrom": "Available in Light Construction during \"Fight On, Royal Maids!\" event and Limited Construction during \"Inverted Orthant\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -84636,6 +84742,22 @@
 					"enClient": "Empress in the Silk Seat",
 					"cnClient": "洛城女帝",
 					"jpClient": "羅府エンプレス",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Night Sky's Brilliant Blue Blossoms",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/BiloxiNew_Year.png/571px-BiloxiNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/3/31/BiloxiNew_YearWithoutBG.png/511px-BiloxiNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/f7/BiloxiNew_YearChibi.png",
+				"info": {
+					"enClient": "Night Sky's Brilliant Blue Blossoms",
+					"cnClient": "绚烂缤纷花火夜",
+					"jpClient": "宵彩る煌く蒼",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2dModel": "No"
@@ -89612,6 +89734,20 @@
 					"cost": "1180",
 					"live2dModel": "Yes"
 				}
+			},
+			{
+				"name": "Evergreen Prophecy",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/be/RichelieuNew_Year.png/531px-RichelieuNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9b/RichelieuNew_YearChibi.png",
+				"info": {
+					"enClient": "Evergreen Prophecy",
+					"cnClient": "常緑Rêve prophétique",
+					"jpClient": "常緑Rêve prophétique",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1180",
+					"live2dModel": "Yes"
+				}
 			}
 		],
 		"gallery": [
@@ -93353,6 +93489,20 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Suzutsuki, Hanetsuki Adept!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/08/SuzutsukiNew_Year.png/610px-SuzutsukiNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/97/SuzutsukiNew_YearChibi.png",
+				"info": {
+					"enClient": "Suzutsuki, Hanetsuki Adept!",
+					"cnClient": "新年羽板球大战！",
+					"jpClient": "涼月、羽根つきにてお相手いたす！",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -94676,9 +94826,18 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
+			"artist": {
+				"name": "Byulzzi",
+				"url": "https://azurlane.koumakan.jp/Artists#Byulzzi"
+			},
+			"pixiv": {
+				"name": "ビョルチ⋆",
+				"url": "https://www.pixiv.net/member.php?id=5882726"
+			},
+			"twitter": {
+				"name": "Byul_zzi",
+				"url": "https://twitter.com/byul_zzi"
+			},
 			"web": null,
 			"voice": {
 				"name": "Aoi Yuuki",
@@ -95752,9 +95911,18 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
+			"artist": {
+				"name": "Byulzzi",
+				"url": "https://azurlane.koumakan.jp/Artists#Byulzzi"
+			},
+			"pixiv": {
+				"name": "ビョルチ⋆",
+				"url": "https://www.pixiv.net/member.php?id=5882726"
+			},
+			"twitter": {
+				"name": "Byul_zzi",
+				"url": "https://twitter.com/byul_zzi"
+			},
 			"web": null,
 			"voice": {
 				"name": "Satomi Satou",
@@ -96210,6 +96378,1657 @@
 			}
 		]
 	},
+	"482": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Peter_Strasser",
+		"id": "482",
+		"names": {
+			"en": "Peter Strasser",
+			"code": "KMS Peter Strasser",
+			"cn": "彼得·史特拉塞",
+			"jp": "ペーター・シュトラッサー",
+			"kr": "Peter Strasser"
+		},
+		"hexagon": [
+			0,
+			0,
+			5,
+			2,
+			3,
+			4
+		],
+		"class": "Graf Zeppelin",
+		"nationality": "Iron Blood",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/1/18/Peter_StrasserIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "1317",
+				"armor": "Medium",
+				"reload": "51",
+				"luck": "45",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "14",
+				"speed": "33",
+				"antiair": "58",
+				"aviation": "81",
+				"oilConsumption": "4",
+				"accuracy": "35",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6808",
+				"armor": "Medium",
+				"reload": "120",
+				"luck": "45",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "36",
+				"speed": "33",
+				"antiair": "272",
+				"aviation": "381",
+				"oilConsumption": "13",
+				"accuracy": "90",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7488",
+				"armor": "Medium",
+				"reload": "139",
+				"luck": "45",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "50",
+				"speed": "33",
+				"antiair": "309",
+				"aviation": "423",
+				"oilConsumption": "13",
+				"accuracy": "101",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Fighters",
+				"minEfficiency": 110,
+				"maxEfficiency": 120
+			},
+			"2": {
+				"type": "Dive Bombers",
+				"minEfficiency": 125,
+				"maxEfficiency": 130
+			},
+			"3": {
+				"type": "Torpedo Bombers",
+				"minEfficiency": 125,
+				"maxEfficiency": 140
+			}
+		},
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 67,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/3a/Skill_13880.png",
+				"names": {
+					"en": "Iron Blood Falcon",
+					"cn": "迅击铁翼",
+					"jp": "鉄血の隼"
+				},
+				"description": "When this ship launches an Airstrike: 50.0% (100%) chance to launch an additional Torpedo Bomber airstrike (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/5/5d/Skill_13890.png",
+				"names": {
+					"en": "Paralyzing Advance",
+					"cn": "侵攻之时",
+					"jp": "Zeitsteuerung"
+				},
+				"description": "Decreases the Speed of all enemies by 8.0%. Once every second: 1.0% (10.0%) chance to set the Speed of all enemies to 0 for 3s (7s cooldown between activations).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/e/ed/Skill_13900.png",
+				"names": {
+					"en": "Iron Wings, Blood Pinions",
+					"cn": "血翼之盟",
+					"jp": "鉄血の翅"
+				},
+				"description": "For each Iron Blood ship in the same fleet: increases this ship's AVI by 1.0% (5.0%) (can be stacked up to 3 times); if there are 4 or more Iron Blood ships in the same fleet: reduces the time needed for your Iron Blood CVs and CVLs to reload their first 3 Airstrikes by 1.0% (10.0%).",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"All Dive Bombers +1",
+				"Dive Bomber efficiency +5%"
+			],
+			[
+				"Hangar capacity +1",
+				"All Torpedo Bombers +1",
+				"Fighter efficiency +10%"
+			],
+			[
+				"All aircraft +1",
+				"Torpedo Bomber efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"stat": "Aviation",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 28,
+				"maxLimitBreak": 56,
+				"maxLevel": 42,
+				"total": 126
+			}
+		},
+		"construction": {
+			"constructionTime": "04:35:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Inverted Orthant",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction shop during \"Inverted Orthant\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "股间少女",
+				"url": "https://azurlane.koumakan.jp/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3"
+			},
+			"pixiv": {
+				"name": "Gujianshaov",
+				"url": "https://www.pixiv.net/member.php?id=12834728"
+			},
+			"twitter": {
+				"name": "Gujianshaonv",
+				"url": "https://twitter.com/gujianshaonv"
+			},
+			"web": {
+				"name": "Gujianshaov",
+				"url": "https://www.weibo.com/u/5205759948"
+			},
+			"voice": {
+				"name": "Yumi Hara",
+				"url": "https://en.wikipedia.org/wiki/Yumi_Hara"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a0/Peter_Strasser.png/618px-Peter_Strasser.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/7/73/Peter_StrasserChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Chronos's Kalendae",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/ca/Peter_StrasserNew_Year.png/451px-Peter_StrasserNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/6d/Peter_StrasserNew_YearChibi.png",
+				"info": {
+					"enClient": "Chronos's Kalendae",
+					"cnClient": "节庆的Chronos",
+					"jpClient": "シュヴァルツ・クロノシア",
+					"obtainedFrom": "Skin Shop",
+					"cost": "1200",
+					"live2dModel": "Yes"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"483": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Prinz_Heinrich",
+		"id": "483",
+		"names": {
+			"en": "Prinz Heinrich",
+			"code": "KMS Prinz Heinrich",
+			"cn": "海因里希亲王",
+			"jp": "プリンツ・ハインリヒ",
+			"kr": "Prinz Heinrich"
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			2,
+			3,
+			5
+		],
+		"class": "P",
+		"nationality": "Iron Blood",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/65/Prinz_HeinrichIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "1022",
+				"armor": "Medium",
+				"reload": "67",
+				"luck": "50",
+				"firepower": "58",
+				"torpedo": "45",
+				"evasion": "11",
+				"speed": "26",
+				"antiair": "41",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "45",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "5285",
+				"armor": "Medium",
+				"reload": "159",
+				"luck": "50",
+				"firepower": "273",
+				"torpedo": "213",
+				"evasion": "29",
+				"speed": "26",
+				"antiair": "190",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "118",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "5946",
+				"armor": "Medium",
+				"reload": "182",
+				"luck": "50",
+				"firepower": "310",
+				"torpedo": "245",
+				"evasion": "66",
+				"speed": "26",
+				"antiair": "219",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "132",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CA/CB Guns",
+				"minEfficiency": 130,
+				"maxEfficiency": 160
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 130,
+				"maxEfficiency": 130
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			}
+		},
+		"enhanceValue": {
+			"firepower": 32,
+			"torpedo": 15,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/2/2d/Skill_13910.png",
+				"names": {
+					"en": "Sic 'em, Eisen!",
+					"cn": "Eisen Bite",
+					"jp": "アイゼンバイト！"
+				},
+				"description": "If there is at least 1 other Iron Blood ship in the same fleet: increases this ship's RLD and EVA by 5.0% (15.0%). When this ship fires its Main Guns, 20.0% (50.0%) chance to increase this ship's Main Gun DMG by 25.0% for 5sIn game description is 3s (7s cooldown between activations).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/d/d6/Skill_13920.png",
+				"names": {
+					"en": "Heinrich's Hunch Punch",
+					"cn": "直感之拳",
+					"jp": "直感のハインリヒパンチ！"
+				},
+				"description": "Every 20s after the battle starts: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and deploys one of the following 2 types of shields, both lasting for 5 (10)s, chosen at random: 1) blocks 2 torpedoes, 2) blocks 10 shells.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All-Out Assault",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-P級Ⅱ"
+				},
+				"description": "Activates All Out Assault I (II) (P-class) once every 9 (6) times the main guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault",
+				"Main gun efficiency +5%",
+				"Equips special secondary gun"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 22,
+				"maxLimitBreak": 44,
+				"maxLevel": 32,
+				"total": 98
+			}
+		},
+		"construction": {
+			"constructionTime": "02:05:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Inverted Orthant",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction shop during \"Inverted Orthant\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Dishwasher1910",
+				"url": "https://azurlane.koumakan.jp/Artists#Dishwasher1910"
+			},
+			"pixiv": {
+				"name": "Dishwasher1910",
+				"url": "https://www.pixiv.net/en/users/13408193"
+			},
+			"twitter": {
+				"name": "Bach Do",
+				"url": "https://twitter.com/dishwasher1910"
+			},
+			"web": {
+				"name": "Bach Do",
+				"url": "https://www.artstation.com/dishwasher1910"
+			},
+			"voice": {
+				"name": "Hiyori Nitta",
+				"url": "https://en.wikipedia.org/wiki/Hiyori_Nitta"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/6c/Prinz_Heinrich.png/624px-Prinz_Heinrich.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b1/Prinz_HeinrichChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Fireworks and Tapestries",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/3c/Prinz_HeinrichNew_Year.png/826px-Prinz_HeinrichNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/7b/Prinz_HeinrichNew_YearWithoutBG.png/972px-Prinz_HeinrichNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/31/Prinz_HeinrichNew_YearChibi.png",
+				"info": {
+					"enClient": "Fireworks and Tapestries",
+					"cnClient": "花火烂漫的春绘卷",
+					"jpClient": "花火と春絵巻",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"484": {
+		"wikiUrl": "https://azurlane.koumakan.jp/U-37",
+		"id": "484",
+		"names": {
+			"en": "U-37",
+			"code": "KMS U-37",
+			"cn": "U-37",
+			"jp": "U-37",
+			"kr": "U-37"
+		},
+		"hexagon": [
+			1,
+			5,
+			0,
+			1,
+			0,
+			1
+		],
+		"class": "Type IXA",
+		"nationality": "Iron Blood",
+		"hullType": "Submarine",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7c/U-37Icon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "250",
+				"armor": "Light",
+				"reload": "41",
+				"luck": "72",
+				"firepower": "8",
+				"torpedo": "104",
+				"evasion": "7",
+				"speed": "14",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "61",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "1293",
+				"armor": "Light",
+				"reload": "96",
+				"luck": "72",
+				"firepower": "39",
+				"torpedo": "491",
+				"evasion": "18",
+				"speed": "14",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "159",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "1552",
+				"armor": "Light",
+				"reload": "110",
+				"luck": "72",
+				"firepower": "45",
+				"torpedo": "540",
+				"evasion": "37",
+				"speed": "14",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "178",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Submarine Torpedoes",
+				"minEfficiency": 110,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Submarine Torpedoes",
+				"minEfficiency": 110,
+				"maxEfficiency": 125
+			},
+			"3": {
+				"type": "DD Guns",
+				"minEfficiency": 85,
+				"maxEfficiency": 85
+			}
+		},
+		"enhanceValue": {
+			"firepower": 1,
+			"torpedo": 41,
+			"aviation": 0,
+			"reload": 8
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/1/18/Skill_13930.png",
+				"names": {
+					"en": "Westward Trident",
+					"cn": "西进之戟",
+					"jp": "西進のトライデント"
+				},
+				"description": "Increases this boat's OXY by 2 (20) and DMG against Light Armor enemies by 5.0% (15.0%). When this boat resurfaces: fires a special torpedo barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b1/Skill_13940.png",
+				"names": {
+					"en": "Wolf Pack Formation - U-37",
+					"cn": "狼群战术-U37",
+					"jp": "ウルフパック・U-37"
+				},
+				"description": "Increases this boat's Speed by 3 and RLD by 8.0% (18.0%). For each Iron Blood SS in the same fleet: increases this boat's TRP, EVA, and Accuracy by 1.5% (6.0%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/8/88/Skill_29670.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "专属弹幕-U37II",
+					"jp": "特殊弾幕-U37Ⅱ"
+				},
+				"description": "Activates All Out Assault Ⅱ: U-37 immediately after entering the battle.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage Ⅰ",
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Improve Hunting range"
+			],
+			[
+				"Improve EX Barrage",
+				"Torpedo efficiency +10%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"stat": "Accuracy",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"stat": "Torpedo",
+					"bonus": "+2"
+				}
+			},
+			"techPoints": {
+				"collection": 12,
+				"maxLimitBreak": 24,
+				"maxLevel": 18,
+				"total": 54
+			}
+		},
+		"construction": {
+			"constructionTime": "00:11:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Inverted Orthant",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction and in the event shop during \"Inverted Orthant\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "黑猫",
+				"url": "https://azurlane.koumakan.jp/Artists#.E9.BB.91.E7.8C.AB"
+			},
+			"pixiv": {
+				"name": "近所黒モモ",
+				"url": "https://www.pixiv.net/member.php?id=2331978"
+			},
+			"twitter": null,
+			"web": {
+				"name": "黑猫桃园-专注潜水20年",
+				"url": "https://weibo.com/u/2959771544"
+			},
+			"voice": {
+				"name": "Ayaka Nanase",
+				"url": "https://en.wikipedia.org/wiki/Ayaka_Nanase"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/f8/U-37.png/716px-U-37.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/ab/U-37Chibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "New Year's Nightingale",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/U-37New_Year.png/472px-U-37New_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/57/U-37New_YearChibi.png",
+				"info": {
+					"enClient": "New Year's Nightingale",
+					"cnClient": "轻弹浅唱正月时",
+					"jpClient": "うたかた唄う華いろは",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"485": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Weser",
+		"id": "485",
+		"names": {
+			"en": "Weser",
+			"code": "KMS Weser",
+			"cn": "威悉",
+			"jp": "ヴェーザー",
+			"kr": "Weser"
+		},
+		"hexagon": [
+			0,
+			0,
+			4,
+			2,
+			3,
+			3
+		],
+		"class": "Weser",
+		"nationality": "Iron Blood",
+		"hullType": "Light Carrier",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/c/c2/WeserIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "787",
+				"armor": "Medium",
+				"reload": "66",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "21",
+				"speed": "32",
+				"antiair": "49",
+				"aviation": "60",
+				"oilConsumption": "3",
+				"accuracy": "29",
+				"antisubmarineWarfare": "17"
+			},
+			"level100": {
+				"health": "4068",
+				"armor": "Medium",
+				"reload": "156",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "55",
+				"speed": "32",
+				"antiair": "230",
+				"aviation": "285",
+				"oilConsumption": "11",
+				"accuracy": "76",
+				"antisubmarineWarfare": "63"
+			},
+			"level120": {
+				"health": "4759",
+				"armor": "Medium",
+				"reload": "179",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "75",
+				"speed": "32",
+				"antiair": "264",
+				"aviation": "323",
+				"oilConsumption": "11",
+				"accuracy": "87",
+				"antisubmarineWarfare": "72"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Fighters",
+				"minEfficiency": 114,
+				"maxEfficiency": 130
+			},
+			"2": {
+				"type": "Dive Bombers",
+				"minEfficiency": 135,
+				"maxEfficiency": 145
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 80,
+				"maxEfficiency": 80
+			}
+		},
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 40,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 7,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/9/96/Skill_13950.png",
+				"names": {
+					"en": "The Lonesome Lookout",
+					"cn": "孤城的瞭望者",
+					"jp": "高嶺の軽空母"
+				},
+				"description": "When this ship launches an Airstrike: 40.0% (70.0%) chance to launch an additional special airstrike (DMG is based on the skill's level). At the start of the battle, if there are 3 or more Iron Blood ships in the same fleet: increases this ship's Crit DMG by 5.0% (20.0%); if there are no other Iron Blood ships: instead increases this ship's RLD by 1.0% (10.0%) and AA by 5.0% (15.0%) and further increases the proc chance of this ship's special airstrike by 30.0%.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/3e/Skill_13960.png",
+				"names": {
+					"en": "Galvanizing Shield",
+					"cn": "铁血之盾",
+					"jp": "励起の盾"
+				},
+				"description": "Every 20s after the battle starts: deploys a shield that lasts for 6 (8)s and can block 6 shells on a randomly chosen ship in your Vanguard; if the shield is deployed on an Iron Blood ship: also increases that ship's FP by 5.0% (15.0%) for 8s and heals Weser for 1.0% (5.0%) HP.",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"All Dive Bombers +1",
+				"Fighter efficiency +5%"
+			],
+			[
+				"Hangar capacity +1",
+				"All fighters +1",
+				"Fighter efficiency +10%"
+			],
+			[
+				"All aircraft +1",
+				"Dive Bomber efficiency +10%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light aircraft carrier"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light aircraft carrier"
+					],
+					"stat": "Reload",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 16,
+				"maxLimitBreak": 32,
+				"maxLevel": 24,
+				"total": 72
+			}
+		},
+		"construction": {
+			"constructionTime": "02:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Inverted Orthant",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction shop during \"Inverted Orthant\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "羽織イオ",
+				"url": "https://azurlane.koumakan.jp/Artists#.E7.BE.BD.E7.B9.94.E3.82.A4.E3.82.AA"
+			},
+			"pixiv": {
+				"name": "羽織イオ",
+				"url": "https://www.pixiv.net/member.php?id=3211072"
+			},
+			"twitter": {
+				"name": "羽織イオ",
+				"url": "https://twitter.com/haori_crescendo"
+			},
+			"web": null,
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/90/Weser.png/700px-Weser.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b9/WeserChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Obsidian Elegance",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/48/WeserNew_Year.png/671px-WeserNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/WeserNew_YearWithoutBG.png/930px-WeserNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/4/4a/Skin_BG_136.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/fd/WeserNew_YearChibi.png",
+				"info": {
+					"enClient": "Obsidian Elegance",
+					"cnClient": "暗金绣色",
+					"jpClient": "彩り煌めく黒金の綉",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"486": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Nürnberg",
+		"id": "486",
+		"names": {
+			"en": "Nürnberg",
+			"code": "KMS Nürnberg",
+			"cn": "纽伦堡",
+			"jp": "ニュルンベルク",
+			"kr": "Nürnberg"
+		},
+		"hexagon": [
+			3,
+			4,
+			0,
+			3,
+			4,
+			2
+		],
+		"class": "Leipzig",
+		"nationality": "Iron Blood",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/f/fa/N%C3%BCrnbergIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "655",
+				"armor": "Light",
+				"reload": "70",
+				"luck": "80",
+				"firepower": "33",
+				"torpedo": "57",
+				"evasion": "28",
+				"speed": "32",
+				"antiair": "77",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "53",
+				"antisubmarineWarfare": "24"
+			},
+			"level100": {
+				"health": "3388",
+				"armor": "Light",
+				"reload": "167",
+				"luck": "80",
+				"firepower": "153",
+				"torpedo": "267",
+				"evasion": "72",
+				"speed": "32",
+				"antiair": "361",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "138",
+				"antisubmarineWarfare": "88"
+			},
+			"level120": {
+				"health": "3811",
+				"armor": "Light",
+				"reload": "192",
+				"luck": "80",
+				"firepower": "176",
+				"torpedo": "304",
+				"evasion": "98",
+				"speed": "32",
+				"antiair": "403",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "158",
+				"antisubmarineWarfare": "101"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL Guns",
+				"minEfficiency": 114,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 160,
+				"maxEfficiency": 170
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 130,
+				"maxEfficiency": 140
+			}
+		},
+		"enhanceValue": {
+			"firepower": 13,
+			"torpedo": 19,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/c/c5/Skill_13970.png",
+				"names": {
+					"en": "Follow My Lead... Please!",
+					"cn": "训练有素",
+					"jp": "頑張って戦い…なさい！"
+				},
+				"description": "Every 15s after the battle starts: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Increases the EXP earned by SSs and SSVs that participated in the battle by 1.0% (10.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/c/c0/Skill_13980.png",
+				"names": {
+					"en": "No Strange Ideas, Please!",
+					"cn": "空之戍卫",
+					"jp": "ヘンなことしないでくださぃ！"
+				},
+				"description": "Increases this ship's TRP by 1.0% (10.0%) and the AA of your Iron Blood ships by 5.0% (15.0%). Whenever 3 enemy aircraft are shot down within your fleet's Anti-Air Gun range: increases this ship's AA by 1.0% (5.0%) until the end of the battle (can be stacked up to 3 times).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/4/4e/Skill_20100.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-ライプツィヒⅡ"
+				},
+				"description": "Activates All Out Assault Ⅱ: Leipzig Class once every 8 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"All weapons' efficiency +2%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"All weapons' efficiency +3%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"stat": "Anti-air",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 14,
+				"maxLimitBreak": 28,
+				"maxLevel": 20,
+				"total": 62
+			}
+		},
+		"construction": {
+			"constructionTime": "01:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Inverted Orthant",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction shop during \"Inverted Orthant\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "全班最菜嘤嘤嘤",
+				"url": "https://azurlane.koumakan.jp/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4"
+			},
+			"pixiv": null,
+			"twitter": {
+				"name": "zelda10010",
+				"url": "https://twitter.com/zelda10010"
+			},
+			"web": {
+				"name": "全班最菜嘤嘤嘤",
+				"url": "https://weibo.com/u/7477949468"
+			},
+			"voice": {
+				"name": "Hikaru Toono",
+				"url": "https://www.imdb.com/name/nm11804657/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/36/N%C3%BCrnberg.png/486px-N%C3%BCrnberg.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b8/N%C3%BCrnbergChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Spring Wanderer",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d4/N%C3%BCrnbergNew_Year.png/483px-N%C3%BCrnbergNew_Year.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/9/91/N%C3%BCrnbergNew_YearWithoutBG.png/623px-N%C3%BCrnbergNew_YearWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/5f/N%C3%BCrnbergNew_YearChibi.png",
+				"info": {
+					"enClient": "Spring Wanderer",
+					"cnClient": "正月的漫游",
+					"jpClient": "スプリング・ワンダラー",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"487": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Z24",
+		"id": "487",
+		"names": {
+			"en": "Z24",
+			"code": "KMS Z24",
+			"cn": "Z24",
+			"jp": "Z24",
+			"kr": "Z24"
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			3,
+			1,
+			1
+		],
+		"class": "Type 1936A",
+		"nationality": "Iron Blood",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/54/Z24Icon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "345",
+				"armor": "Light",
+				"reload": "73",
+				"luck": "56",
+				"firepower": "22",
+				"torpedo": "61",
+				"evasion": "58",
+				"speed": "43",
+				"antiair": "28",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "64",
+				"antisubmarineWarfare": "49"
+			},
+			"level100": {
+				"health": "1786",
+				"armor": "Light",
+				"reload": "173",
+				"luck": "56",
+				"firepower": "104",
+				"torpedo": "289",
+				"evasion": "152",
+				"speed": "43",
+				"antiair": "131",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "167",
+				"antisubmarineWarfare": "181"
+			},
+			"level120": {
+				"health": "2125",
+				"armor": "Light",
+				"reload": "199",
+				"luck": "56",
+				"firepower": "120",
+				"torpedo": "327",
+				"evasion": "157",
+				"speed": "43",
+				"antiair": "150",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "175",
+				"antisubmarineWarfare": "201"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 140,
+				"maxEfficiency": 160
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 114,
+				"maxEfficiency": 120
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			}
+		},
+		"enhanceValue": {
+			"firepower": 7,
+			"torpedo": 20,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/8/82/Skill_13990.png",
+				"names": {
+					"en": "Boon of Crimson Darkness",
+					"cn": "魔王之庇护",
+					"jp": "グレートデーモンの庇護"
+				},
+				"description": "Increases this ship's DMG against DDs and CLs by 5.0% (15.0%). Once per battle, when the HP of one of your Z-class DDs (excluding this ship) falls below 30.0%: decreases that ship's DMG taken by 30.0% and increases this ship's FP, TRP, and RLD by 5.0% (15.0%) until the end of the battle.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/02/Skill_14000.png",
+				"names": {
+					"en": "Fiendish Rampage",
+					"cn": "魔王之愤怒",
+					"jp": "デビルロードの憤怒"
+				},
+				"description": "At the start of the battle and every 20s after that: fires a special barrage (DMG is based on the skill's level). Whenever this ship sinks an enemy: increases this ship's FP and TRP by Lv.1 (Lv.10) until the end of the battle (can be stacked up to 5 times).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-1936A型II"
+				},
+				"description": "Activates All Out Assault Ⅱ: 1936a Type once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 14,
+				"maxLimitBreak": 28,
+				"maxLevel": 20,
+				"total": 62
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available as Point Accumulation Reward during \"Inverted Orthant\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Vilor",
+				"url": "https://azurlane.koumakan.jp/Artists#Vilor"
+			},
+			"pixiv": {
+				"name": "Vilor",
+				"url": "https://www.pixiv.net/member.php?id=2436160"
+			},
+			"twitter": {
+				"name": "Vilor",
+				"url": "https://twitter.com/Vilor_0414"
+			},
+			"web": {
+				"name": "Vilor",
+				"url": "https://weibo.com/u/2450411934"
+			},
+			"voice": {
+				"name": "Yukina Shuto",
+				"url": "https://www.imdb.com/name/nm10655146/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/48/Z24.png/551px-Z24.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c0/Z24Chibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Festival-going Fiend",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/cb/Z24New_Year.png/548px-Z24New_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/cb/Z24New_YearChibi.png",
+				"info": {
+					"enClient": "Festival-going Fiend",
+					"cnClient": "「魔王」的祝祭",
+					"jpClient": "デモニックde正月",
+					"obtainedFrom": "Skin Shop",
+					"cost": "800",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"488": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Z28",
+		"id": "488",
+		"names": {
+			"en": "Z28",
+			"code": "KMS Z28",
+			"cn": "Z28",
+			"jp": "Z28",
+			"kr": "Z28"
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			3,
+			1,
+			1
+		],
+		"class": "Type 1936A",
+		"nationality": "Iron Blood",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/b/b2/Z28Icon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "345",
+				"armor": "Light",
+				"reload": "76",
+				"luck": "45",
+				"firepower": "14",
+				"torpedo": "81",
+				"evasion": "58",
+				"speed": "43",
+				"antiair": "27",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "61",
+				"antisubmarineWarfare": "48"
+			},
+			"level100": {
+				"health": "1784",
+				"armor": "Light",
+				"reload": "180",
+				"luck": "45",
+				"firepower": "66",
+				"torpedo": "381",
+				"evasion": "150",
+				"speed": "43",
+				"antiair": "124",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "159",
+				"antisubmarineWarfare": "177"
+			},
+			"level120": {
+				"health": "2123",
+				"armor": "Light",
+				"reload": "207",
+				"luck": "45",
+				"firepower": "76",
+				"torpedo": "423",
+				"evasion": "156",
+				"speed": "43",
+				"antiair": "143",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "167",
+				"antisubmarineWarfare": "197"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CL/DD Guns",
+				"minEfficiency": 140,
+				"maxEfficiency": 160
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 114,
+				"maxEfficiency": 120
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 70,
+				"maxEfficiency": 75
+			}
+		},
+		"enhanceValue": {
+			"firepower": 5,
+			"torpedo": 27,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/9/98/Skill_14010.png",
+				"names": {
+					"en": "I Love My Sisters!",
+					"cn": "Z系领航",
+					"jp": "愛でるZの嚮導艦です"
+				},
+				"description": "Increases FP and Accuracy by 1.0% (10.0%) and AA by 5.0% (15.0%) for your Z-class DDs; if there is another Z-class DD in the same fleet as this ship: increases this ship's FP and TRP by 1.0% (10.0%) and ASW by 5.0% (15.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/bf/Skill_14020.png",
+				"names": {
+					"en": "I'll Protect the Vanguard!",
+					"cn": "护航精英",
+					"jp": "愛でる護衛の煙幕です"
+				},
+				"description": "At the start of the battle: deploys a smokescreen and fires a special barrage; the smokescreen has a 15.0% (30.0%) chance to proc again every 15s after. When your Flagship takes DMG: 40.0% (70%) chance to fire the same special barrage (DMG is based on the skill's level; 20s cooldown between barrage activations). Smokescreen lasts 5s and increases Evasion Rate by 20.0% (40.0%) for all your ships in it. Does not stack with other smokescreen skills.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-1936A型II"
+				},
+				"description": "Activates All Out Assault Ⅱ: 1936a Type once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Firepower",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 14,
+				"maxLimitBreak": 28,
+				"maxLevel": 20,
+				"total": 62
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Reward from \"New Year Food Festival\" minigame.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "カンザリン",
+				"url": "https://azurlane.koumakan.jp/Artists#.E3.82.AB.E3.83.B3.E3.82.B6.E3.83.AA.E3.83.B3"
+			},
+			"pixiv": {
+				"name": "カンザリン",
+				"url": "https://www.pixiv.net/member.php?id=31133701"
+			},
+			"twitter": {
+				"name": "カンザリン🎃fanbox開始",
+				"url": "https://twitter.com/kanzarinsan"
+			},
+			"web": {
+				"name": "カンザリン",
+				"url": "https://kanzarin.fanbox.cc/"
+			},
+			"voice": {
+				"name": "Chisa Kimura",
+				"url": "https://www.imdb.com/name/nm9806287/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/Z28.png/570px-Z28.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/69/Z28Chibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "New Year Smorgasbord!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/85/Z28New_Year.png/512px-Z28New_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/69/Z28New_YearChibi.png",
+				"info": {
+					"enClient": "New Year Smorgasbord!",
+					"cnClient": "新年大杂烩！",
+					"jpClient": "ごちゃまぜニューイヤー",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
 	"9001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tone",
 		"id": "9001",
@@ -96434,7 +98253,7 @@
 			"3": {
 				"type": "Anti-Air Guns",
 				"minEfficiency": 110,
-				"maxEfficiency": 114
+				"maxEfficiency": 115
 			}
 		},
 		"enhanceValue": {
@@ -125150,6 +126969,20 @@
 					"cost": "880",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Exalted Vibrance",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b3/GeorgiaNew_Year.png/618px-GeorgiaNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/5/5b/Skin_BG_101.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3a/GeorgiaNew_YearChibi.png",
+				"info": {
+					"enClient": "Exalted Vibrance",
+					"cnClient": "雅色彩华",
+					"jpClient": "薫り貴き高邁の綵",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -127338,6 +129171,20 @@
 					"obtainedFrom": "Default",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Black Strokes upon Blank Snow",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/OdinNew_Year.png/584px-OdinNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/10/Skin_BG_126.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/e/e0/OdinNew_YearChibi.png",
+				"info": {
+					"enClient": "Black Strokes upon Blank Snow",
+					"cnClient": "挥毫苍雪",
+					"jpClient": "蒼雪揮毫",
+					"obtainedFrom": "Skin Shop",
+					"cost": "880",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -127583,6 +129430,20 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/d/d6/ChampagneChibi.png",
 				"info": {
 					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Lapis Lazuli's First Dream",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/69/ChampagneNew_Year.png/483px-ChampagneNew_Year.png",
+				"background": "https://azurlane.koumakan.jp/w/images/2/23/Skin_BG_143.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/e/e6/ChampagneNew_YearChibi.png",
+				"info": {
+					"enClient": "Lapis Lazuli's First Dream",
+					"cnClient": "初梦蓝彩",
+					"jpClient": "藍彩の初夢",
+					"obtainedFrom": "Skin Shop",
+					"cost": "900",
 					"live2dModel": "No"
 				}
 			}

@@ -13,7 +13,8 @@ async function refreshEQImages() {
     for (let key of Object.keys(EQUIPMENTS)) {
         let eq = EQUIPMENTS[key];
         let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-        await fetchImage(eq.image, path.resolve(__dirname, "../images/equipments/" + cleanName + ".png"));
+        if (eq.image) await fetchImage(eq.image, path.resolve(__dirname, "../images/equipments/" + cleanName + ".png"));
+        else console.log("Missing image " + key);
         if (eq.misc && eq.misc.animation) await fetchImage(eq.misc.animation, path.resolve(__dirname, "../images/equipments.animation/" + cleanName + ".gif"));
     }
     console.log("\nDone");
@@ -69,7 +70,8 @@ function parseEquipment(href, category, body) {
         process.stdout.write("tier = " + t.tier + " .");
         eq.type = t.type;
         eq.nationality = t.nationality;
-        eq.image = "https://azurlane.koumakan.jp" + t.image;
+        if (t.image) eq.image = "https://azurlane.koumakan.jp" + t.image;
+        else console.log(eq.names.en);
         eq.fits = t.fits;
         eq.misc = t.misc;
         delete t.type;
@@ -208,14 +210,20 @@ function parseEquipmentFit(eqfits) {
 }
 
 function parseEquipmentMisc(eqmisc) {
-    let datas = eqmisc.getElementsByTagName("td");
-    let hasImage = !(!(datas[datas.length - 1].firstElementChild && datas[datas.length - 1].firstElementChild.firstElementChild));
-    return {
-        obtainedFrom: datas[0].textContent,
-        notes: datas[1].textContent,
-        blueprints: !((datas.length <= 2 || hasImage) && datas.length <= 3) ? datas[2].textContent : undefined,
-        animation: hasImage ? ("https://azurlane.koumakan.jp" + datas[datas.length - 1].firstElementChild.firstElementChild.getAttribute("src")) : undefined
-    };
+    let rows = eqmisc.getElementsByTagName("tr");
+    let misc = {};
+    for (let i = 1; i < rows.length; i++) {
+        let row = rows[i];
+        let key = camelize(row.getElementsByTagName("TH")[0].textContent);
+        let col = row.getElementsByTagName("TD")[0];
+        if (key === "obtainedFrom" || key === "notes") misc[key] = col.textContent;
+        else if (key === "patternAnimation") misc.animation = "https://azurlane.koumakan.jp" + col.firstElementChild.firstElementChild.getAttribute("src");
+        else if (key === "usedInGearLabFor") misc.usedFor = Array.from(col.children).map(elem => (elem.querySelector('a') || elem).title.replace(/\s+\(page does not exist\)/, ''));
+        else if (key === "createdInGearLabFrom") misc.madeFrom = Array.from(col.children).map(elem => (elem.querySelector('a') || elem).title.replace(/\s+\(page does not exist\)/, ''));
+        else if (key === "blueprintsUsedInE-Research") misc.blueprints = col.textContent.trim();
+        else console.log("\n\nKey not handled", key, '\n\n');
+    }
+    return misc;
 }
 
 function publishEQ() {

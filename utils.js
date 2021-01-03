@@ -15,15 +15,20 @@ async function verifyFile(url, localPath) {
     let correctSize;
     if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
     else {
-        let header = await head(url);
-        if (!header.res) console.log(header);
-        PATH_SIZE[url] = correctSize = parseInt(header.res.headers['content-length']);
-        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
+        try {
+            let header = await head(url);
+            if (!header.res) console.log(header);
+            PATH_SIZE[url] = correctSize = parseInt(header.res.headers['content-length']);
+            fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
+        } catch (e) {
+            console.log("Error " + url);
+        }
     }
     if (fs.statSync(localPath)["size"] === correctSize) return true;
     else {
-        console.log("File Corrupted: " + localPath);
+        console.log("File Corrupted: " + localPath, url);
         delete PATH_SIZE[url];
+        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
         return false;
     }
 }
