@@ -49125,7 +49125,7 @@
 					"enClient": "A Dance for the Coming Spring",
 					"cnClient": "迎春的神乐舞",
 					"jpClient": "麗しき迎春の舞",
-					"obtainedFrom": "",
+					"obtainedFrom": "Manjuu Snowdown",
 					"live2dModel": "No"
 				}
 			}
@@ -88606,7 +88606,7 @@
 					"enClient": "Charmer in the Snowy Reflection",
 					"cnClient": "魅惑的缤纷雪夜",
 					"jpClient": "雪のチャーミングタイム",
-					"obtainedFrom": "",
+					"obtainedFrom": "Enchanting Snowy Night",
 					"live2dModel": "No"
 				}
 			}
@@ -97260,7 +97260,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "02:20:00",
+			"constructionTime": "02:22:00",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -97675,7 +97675,7 @@
 					"cn": "魔王之愤怒",
 					"jp": "デビルロードの憤怒"
 				},
-				"description": "At the start of the battle and every 20s after that: fires a special barrage (DMG is based on the skill's level). Whenever this ship sinks an enemy: increases this ship's FP and TRP by Lv.1 (Lv.10) until the end of the battle (can be stacked up to 5 times).",
+				"description": "At the start of the battle and every 20s after that: fires a special barrage (DMG is based on the skill's level). Whenever this ship sinks an enemy: increases this ship's FP and TRP by 1.0% (4.0%) until the end of the battle (can be stacked up to 5 times).",
 				"color": "pink"
 			},
 			{
@@ -98329,10 +98329,22 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
-			"web": null,
+			"artist": {
+				"name": "云桑",
+				"url": "https://azurlane.koumakan.jp/Artists#.E4.BA.91.E6.A1.91"
+			},
+			"pixiv": {
+				"name": "雲桑",
+				"url": "https://www.pixiv.net/member.php?id=5358936"
+			},
+			"twitter": {
+				"name": "Yunsang",
+				"url": "https://twitter.com/_Yunsang"
+			},
+			"web": {
+				"name": "-云桑",
+				"url": "https://weibo.com/yunsang"
+			},
 			"voice": {
 				"name": "Mai Aizawa",
 				"url": "https://en.wikipedia.org/wiki/Mai_Aizawa"
@@ -98531,10 +98543,22 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
-			"web": null,
+			"artist": {
+				"name": "云桑",
+				"url": "https://azurlane.koumakan.jp/Artists#.E4.BA.91.E6.A1.91"
+			},
+			"pixiv": {
+				"name": "雲桑",
+				"url": "https://www.pixiv.net/member.php?id=5358936"
+			},
+			"twitter": {
+				"name": "Yunsang",
+				"url": "https://twitter.com/_Yunsang"
+			},
+			"web": {
+				"name": "-云桑",
+				"url": "https://weibo.com/yunsang"
+			},
 			"voice": {
 				"name": "Ai Nonaka",
 				"url": "https://en.wikipedia.org/wiki/Ai_Nonaka"

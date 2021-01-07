@@ -6,7 +6,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "reset": "node refresh_ships.js",
-        "refill": "node refill_ships.js"
+        "refill": "node refill_ships.js",
+        "reset_ships_images": "node -e 'require(\"./ships/index.js\").refreshShipImages()'"
     },
     "author": "",
     "repository": {
