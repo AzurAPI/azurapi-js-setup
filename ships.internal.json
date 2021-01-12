@@ -4397,14 +4397,14 @@
 				}
 			},
 			{
-				"name": "完美的代理店长",
+				"name": "Piping-Hot Perfection",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/BelfastPizza.png/534px-BelfastPizza.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/BelfastPizzaChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Piping-Hot Perfection",
 					"cnClient": "完美的代理店长",
-					"jpClient": "skin unavailable",
+					"jpClient": "完璧すぎる代理店長",
 					"obtainedFrom": "Skin Shop",
 					"cost": "800",
 					"live2dModel": "No"
@@ -13985,15 +13985,15 @@
 				}
 			},
 			{
-				"name": "实习服务生Fubuki",
+				"name": "Stormy Waitress-in-Training!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2c/FubukiPizza.png/427px-FubukiPizza.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6a/FubukiPizzaChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
+					"enClient": "Stormy Waitress-in-Training!",
 					"cnClient": "实习服务生Fubuki",
-					"jpClient": "skin unavailable",
-					"obtainedFrom": "",
+					"jpClient": "ドタバタウェイトレス！",
+					"obtainedFrom": "Manjuu Pizzeria - Clear stages and collect PT",
 					"live2dModel": "No"
 				}
 			}
@@ -64348,7 +64348,7 @@
 					"cn": "2700磅的正义",
 					"jp": "2700ポンドの正義"
 				},
-				"description": "Increase this ship's main gun damage based on the distance its shells travel, from 35 to 105 (121), dealing bonus damage up to 5.0% (15.0%). When equipped with an Eagle Union secondary gun, change main gun ammo to SHS (with 60/135/115 modifiers and 20% chance to inflict armor break) and instead increase the bonus damage up to 15.0% (30.0%).",
+				"description": "Increase this ship's main gun damage based on the distance its shells travel, from 35 to 105 (121), dealing bonus damage up to 5.0% (15.0%). When equipped with an Eagle Union secondary gun, change main gun ammo to SHS (with 65/135/115 modifiers and 20% chance to inflict armor break) and instead increase the bonus damage up to 15.0% (30.0%).",
 				"color": "pink"
 			}
 		],
@@ -96902,7 +96902,74 @@
 				"aviation": "0",
 				"oilConsumption": "2",
 				"accuracy": "61",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "218",
+				"ammunition": "2",
+				"huntingRange": [
+					[
+						"",
+						"*",
+						"3",
+						"*",
+						"4",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"3",
+						"*",
+						"3",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"*",
+						"*",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"S",
+						"*",
+						"*",
+						""
+					],
+					[
+						"",
+						"4",
+						"2",
+						"*",
+						"2",
+						"5",
+						""
+					],
+					[
+						"",
+						"",
+						"2",
+						"*",
+						"2",
+						"5",
+						""
+					],
+					[
+						"",
+						"",
+						"",
+						"*",
+						"",
+						"",
+						""
+					]
+				]
 			},
 			"level100": {
 				"health": "1293",
@@ -96917,7 +96984,74 @@
 				"aviation": "0",
 				"oilConsumption": "7",
 				"accuracy": "159",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "218",
+				"ammunition": "2",
+				"huntingRange": [
+					[
+						"",
+						"*",
+						"3",
+						"*",
+						"4",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"3",
+						"*",
+						"3",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"*",
+						"*",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"S",
+						"*",
+						"*",
+						""
+					],
+					[
+						"",
+						"4",
+						"2",
+						"*",
+						"2",
+						"5",
+						""
+					],
+					[
+						"",
+						"",
+						"2",
+						"*",
+						"2",
+						"5",
+						""
+					],
+					[
+						"",
+						"",
+						"",
+						"*",
+						"",
+						"",
+						""
+					]
+				]
 			},
 			"level120": {
 				"health": "1552",
@@ -96932,7 +97066,74 @@
 				"aviation": "0",
 				"oilConsumption": "7",
 				"accuracy": "178",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "218",
+				"ammunition": "2",
+				"huntingRange": [
+					[
+						"",
+						"*",
+						"3",
+						"*",
+						"4",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"3",
+						"*",
+						"3",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"*",
+						"*",
+						"*",
+						""
+					],
+					[
+						"",
+						"*",
+						"*",
+						"S",
+						"*",
+						"*",
+						""
+					],
+					[
+						"",
+						"4",
+						"2",
+						"*",
+						"2",
+						"5",
+						""
+					],
+					[
+						"",
+						"",
+						"2",
+						"*",
+						"2",
+						"5",
+						""
+					],
+					[
+						"",
+						"",
+						"",
+						"*",
+						"",
+						"",
+						""
+					]
+				]
 			}
 		},
 		"slots": {
@@ -115272,7 +115473,7 @@
 					"cn": "最强之盾",
 					"jp": "最強の盾"
 				},
-				"description": "15 seconds after the battle starts and every 25 seconds afterwards, absorbs 50% of damage taken by the Main Fleet for 8 seconds. At the end of the effect, heals for 20% (50%) of the damage taken and increase own Firepower by 4.0% (10.0%) (stacks up to 3 times)",
+				"description": "15 seconds after the battle starts and every 25 seconds afterwards, absorbs 50% of damage taken by the Main Fleet for 10 seconds. At the end of the effect, heals for 20% (50%) of the damage taken and increase own Firepower by 4.0% (10.0%) (stacks up to 3 times)",
 				"color": "deepskyblue"
 			},
 			{
