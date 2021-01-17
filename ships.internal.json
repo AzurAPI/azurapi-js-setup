@@ -4399,6 +4399,8 @@
 			{
 				"name": "Piping-Hot Perfection",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/BelfastPizza.png/534px-BelfastPizza.png",
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/BelfastPizzaChibi.png",
 				"info": {
@@ -13965,7 +13967,7 @@
 				"info": {
 					"enClient": "Music Pixy",
 					"cnClient": "Music Pixy",
-					"jpClient": "Music Pixy",
+					"jpClient": "Music Pixy",
 					"obtainedFrom": "Skin Shop",
 					"cost": "1080",
 					"live2dModel": "Yes"
@@ -13987,6 +13989,8 @@
 			{
 				"name": "Stormy Waitress-in-Training!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2c/FubukiPizza.png/427px-FubukiPizza.png",
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/6/6a/FubukiPizzaChibi.png",
 				"info": {
@@ -119257,6 +119261,20 @@
 					"jpClient": "Bubbly Anniversary！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Delicious Love!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/44/HornetPizza.png/459px-HornetPizza.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/e/e3/HornetPizzaChibi.png",
+				"info": {
+					"enClient": "skin unavailable",
+					"cnClient": "skin unavailable",
+					"jpClient": "-",
+					"obtainedFrom": "Skin Shop",
+					"cost": "700",
 					"live2dModel": "No"
 				}
 			}
