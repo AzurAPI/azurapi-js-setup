@@ -2527,7 +2527,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "Increases Eva and Torp by 5.0% (15.0%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5 seconds after hitting them 4 times.",
+				"description": "IncreasesIn game description includes flavor text that imply further restrictions Eva and Torp by 5.0% (15.0%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5 seconds after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -67528,7 +67528,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "",
+			"constructionTime": "00:28:00",
 			"availableIn": {
 				"light": true,
 				"heavy": false,
@@ -97492,7 +97492,10 @@
 				"url": "https://twitter.com/haori_crescendo"
 			},
 			"web": null,
-			"voice": null
+			"voice": {
+				"name": "Rimi Nishimoto",
+				"url": "https://en.wikipedia.org/wiki/Rimi_Nishimoto"
+			}
 		},
 		"skins": [
 			{
@@ -128217,7 +128220,7 @@
 					"cn": "精密操作协议",
 					"jp": "精密射撃プロトコル"
 				},
-				"description": "Main Gun can be fired twice per reload, and each salvo can be fired independently. All manually aimed salvos deal 25% (40%) more damage. Every 20 seconds after battle starts: 50% (100%) chance to fire a special barrage (damage is based on skill level).Barrage preview (gif), Enhanced barrage preview (gif)",
+				"description": "Main Gun can be fired twice per reload, and each salvo can be fired independently. This ship's damage bonus with manually aimed salvos becomes 25% (40%). Every 20 seconds after battle starts: 50% (100%) chance to fire a special barrage (damage is based on skill level).Barrage preview (gif), Enhanced barrage preview (gif)",
 				"color": "pink"
 			},
 			{
