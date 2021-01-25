@@ -42,24 +42,31 @@ azurlane.publishEQ();
 #### `ships.json`
 
 ```typescript
+type Url = string;
+type Stat = 'health' | 'armor' | 'reload' | 'luck' | 'firepower' | 'torpedo' | 'evasion' | 'speed' | 'antiwar'
+    | 'aviation' | 'oilConsumption' | 'accuracy' | 'antisubmarineWarfare' | 'oxygen' | 'ammunition' | 'huntingRange';
+type ShipID = string;
+type Rarity = 'Normal' | 'Rare' | 'Epic' | 'Super Rare' | 'Ultra Rare' | 'Priority' | 'Decisive';
+type LimitBreaks = string[];
 class Ship {
-    wikiUrl: string;    // An valid, full url to its wiki page
-    id: string;         // ID of ship, provided by the wiki (not in game id)
+    wikiUrl: Url;    // An valid, full url to its wiki page
+    id: ShipID;         // ID of ship, provided by the wiki (not in game id)
     names: {            // Ship's name
         code: string;
         en: string;
-        cn?: string;
-        jp?: string;
-        kr?: string;
+        cn: string;
+        jp: string;
+        kr: string;
     };
+    thumbnail: Url;
+    hexagon: [number, number, number, number, number, number];
     class: string;      // Ship's class
     nationality: string;// Ship's nationality
     hullType: string;   // Ship type (Destroyer etc)
-    thumbnail: string;  // A thumbnail ideal for small places
-    rarity: string;     // Super Rare, hopefully
+    rarity: Rarity;     // Super Rare, hopefully
     stars: {
-        stars: string;      // i.e. ★★☆☆☆
-        value: number;      // i.e. 2
+        stars: string;
+        value: number;
     };
     stats: {
         baseStats: Stats;
@@ -68,33 +75,21 @@ class Ship {
         level100Retrofit?: Stats;
         level120Retrofit?: Stats;
     };
-    slots: {
-        1: Slot;
-        2: Slot;
-        3: Slot;
-    };
-    enhanceValue: Map<string, string>;// mapped by [key = "stat type", value = "enhance value"]
+    slots: [Slot, Slot, Slot];
+    enhanceValue: Map<Stat, number>;// <stat type>: <enhance value>
     scrapValue: {
         coin: number;
         oil: number;
         medal: number;
     };
-    skills: Array<Skill>;
-    skins: Array<Skin>;
-    gallery: Array<GalleryItem>;
-    limitBreaks: Array<Array<string>>;      // first layer = breaks, second layer = bonus
+    skills: Skill[];
+    skins: Skin[];
+    gallery: GalleryItem[];
+    limitBreaks: LimitBreaks[];      // first layer = breaks, second layer = bonus
     fleetTech: {                            // fleet tech stuff
         statsBonus: {
-            collection: {                   // on collection
-                applicable: Array<string>;  // applicable ship types (i.e. Destroyer)
-                stat: string;               // name of stat to enhance
-                bonus: string;              // human-readable version of how much to enhance
-            };
-            maxLevel: {                     // on reaching max-level
-                applicable: Array<string>;
-                stat: string;
-                bonus: string;
-            };
+            collection?: Bonus;
+            maxLevel?: Bonus;
         };
         techPoints: {
             collection: number;
@@ -105,7 +100,7 @@ class Ship {
     };
     retrofit: boolean;                              // if the ship is retrofittable
     retrofitId: string;                             // the id after retrofit
-    retrofitProjects: Map<string, RetrofitProject>; // mapped by project id
+    retrofitProjects: Map<ProjectID, RetrofitProject>;
     construction: {
         constructionTime: string;
         availableIn: {
@@ -118,7 +113,7 @@ class Ship {
     };
     obtainedFrom: {
         obtainedFrom: string;       // source, etc "Available in Medal Exchange for \"Medal\" 80."
-        fromMaps: Array<string>;    // map ids, etc "1-1" "10-2"
+        fromMaps: string[];    // map ids, etc "1-1" "10-2"
     };
     misc: {
         artist?: Artist;
@@ -129,82 +124,69 @@ class Ship {
     };
 }
 
-// Recommended to be treated as an object, ship stats vary from ship to ship
-// Most string fields here may be numbers
-class Stats {
-    health: string;
-    armor: string;
-    reload: string;
-    luck: string;
-    firepower: string;
-    torpedo: string;
-    evasion: string;
-    speed: string;
-    antiair: string;
-    aviation: string;
-    oilConsumption: string;
-    accuracy: string;
-    antisubmarineWarfare: string;
-    // For submarines
-    oxygen?: string;
-    ammunition?: string;
-    huntingRange?: Array<Array<string>>; // hunting range represented by 2d array
-}
+type Bonus = {                  // on collection
+    applicable: string[];  // applicable ship types (i.e. Destroyer)
+    stat: Stat;                 // name of stat to enhance
+    bonus: string;              // human-readable version of how much to enhance
+};
 
-class Slot {
+type Stats = Map<Stat, string | ('' | '*' | '0' | '1' | '2' | '3' | '4' | '5' | '6')[][]>;
+
+type Slot = {
     type: string;
-    minEfficiency: number;  // in percentage
-    maxEfficiency: number;  // in percentage
+    minEfficiency: number;
+    maxEfficiency: number;
 }
 
-class Skill {
-    icon: string;       // url
+type Skill = {
+    icon: Url;
     names: {
-        en?: string;
-        cn?: string;
-        jp?: string;
-        kr?: string;
+        en: string;
+        cn: string;
+        jp: string;
     };
     description: string;
-    color: string;      // descriptive color name (not hex code)
+    color: string;
 }
 
-class Skin {
+interface Skin {
     name: string;
-    image: string;
-    imageCN?: string;
-    background: string;
-    chibi: string;
+    chibi: Url;
+    image: Url;
+    cn?: Url; // censored
+    bg?: Url; // with background
+    background: Url; // scenery background
     info: {
         enClient?: string;
         cnClient?: string;
         jpClient?: string;
-        cost: string;
+        cost?: string;
         obtainedFrom: string;
-        live2dModel: string; // just gonna leave it as string to make sure no one complains, dont judge
+        live2dModel: boolean;
     };
 }
 
-class GalleryItem {
+type GalleryItem = {
     description: string;    // self-explanatory
-    url: string;            // the image url
+    url: Url;            // the image url
 }
 
-class Artist {
+type Artist = {
     name: string;
-    url: string;
+    url: Url;
 }
 
-class RetrofitProject{
-    name: string;
-    attributes: Array<string>;
-    materials: Array<string>;
+type ProjectID = string;
+type RetrofitProject = {
+    name: ProjectID;
+    attributes: string[];
+    materials: string[];
     coins: number;
     level: number;
     levelBreakLevel: number;
-    levelBreakStars: string; // ★★☆☆☆
+    levelBreakStars: string;
     recurrence: number;
-    require: Array<string>; // project ids, etc "A", "B"
+    require: ProjectID[];
 }
 ```
 
