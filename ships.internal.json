@@ -25928,7 +25928,7 @@
 			"constructionTime": "01:55:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP Only",
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -31018,7 +31018,7 @@
 			"constructionTime": "04:30:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP Only",
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -44117,11 +44117,11 @@
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
-				"light": true,
+				"light": "EN Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
@@ -52743,7 +52743,7 @@
 		"construction": {
 			"constructionTime": "01:20:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -66793,7 +66793,7 @@
 			"constructionTime": "00:27:00",
 			"availableIn": {
 				"light": true,
-				"heavy": "Only from 9 April-15 April 2020",
+				"heavy": false,
 				"aviation": false,
 				"limited": false,
 				"exchange": false
@@ -67018,7 +67018,7 @@
 			"constructionTime": "00:27:00",
 			"availableIn": {
 				"light": true,
-				"heavy": "Only from 9 April-15 April 2020",
+				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Fallen Wings Rerun",
 				"exchange": false
@@ -67996,7 +67996,7 @@
 			"constructionTime": "04:25:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP Only",
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -68272,7 +68272,7 @@
 			"constructionTime": "04:30:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP Only",
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -68494,7 +68494,7 @@
 		"construction": {
 			"constructionTime": "00:20:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -68722,7 +68722,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Core data"
 			}
 		},
 		"obtainedFrom": {
@@ -88783,7 +88783,7 @@
 		"construction": {
 			"constructionTime": "00:29:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -89020,7 +89020,7 @@
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -91392,8 +91392,8 @@
 			"code": "HMS Howe",
 			"cn": "豪",
 			"jp": "ハウ",
-			"tw": "豪",
-			"kr": "Howe"
+			"kr": "하우",
+			"tw": "豪"
 		},
 		"hexagon": [
 			5,
@@ -91505,7 +91505,7 @@
 					"cn": "骑士不朽之约",
 					"jp": "朽ちぬ騎士の結束"
 				},
-				"description": "When entering combat:\nIncrease own FP and RLD stats by 4.5% (12%) until the end of battle.\nIf sortied with King George V, Duke of York, Prince of Wales, Monarch, or any two other Royal Navy ships (not counting herself), increase own FP and AA stats by an additional 4.5% (12.0%) until the end of battle.",
+				"description": "When entering combat:\nIncrease own FP and RLD stats by 4.5% (12%) until the end of battle.\nIf sortied with another King George V-class ship, Monarch, or any two other Royal Navy ships (not counting herself), increase own FP and AA stats by an additional 4.5% (12.0%) until the end of battle.",
 				"color": "gold"
 			}
 		],
@@ -96390,7 +96390,7 @@
 			"code": "KMS Peter Strasser",
 			"cn": "彼得·史特拉塞",
 			"jp": "ペーター・シュトラッサー",
-			"kr": "Peter Strasser"
+			"kr": "페터 슈트라서"
 		},
 		"hexagon": [
 			0,
@@ -96629,7 +96629,7 @@
 			"code": "KMS Prinz Heinrich",
 			"cn": "海因里希亲王",
 			"jp": "プリンツ・ハインリヒ",
-			"kr": "Prinz Heinrich"
+			"kr": "프린츠 하인리히"
 		},
 		"hexagon": [
 			4,
@@ -97309,7 +97309,7 @@
 			"code": "KMS Weser",
 			"cn": "威悉",
 			"jp": "ヴェーザー",
-			"kr": "Weser"
+			"kr": "베저"
 		},
 		"hexagon": [
 			0,
@@ -97535,7 +97535,7 @@
 			"code": "KMS Nürnberg",
 			"cn": "纽伦堡",
 			"jp": "ニュルンベルク",
-			"kr": "Nürnberg"
+			"kr": "뉘른베르크"
 		},
 		"hexagon": [
 			3,
@@ -98237,6 +98237,452 @@
 		],
 		"gallery": []
 	},
+	"489": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Pola",
+		"id": "489",
+		"names": {
+			"en": "Pola",
+			"code": "RN Pola",
+			"cn": "波拉",
+			"jp": "ポーラ",
+			"kr": "Pola"
+		},
+		"hexagon": [
+			3,
+			0,
+			0,
+			2,
+			3,
+			4
+		],
+		"class": "Zara",
+		"nationality": "Sardegna Empire",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/de/PolaIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "853",
+				"armor": "Medium",
+				"reload": "67",
+				"luck": "75",
+				"firepower": "47",
+				"torpedo": "0",
+				"evasion": "9",
+				"speed": "26",
+				"antiair": "45",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "75",
+				"firepower": "",
+				"torpedo": "0",
+				"evasion": "",
+				"speed": "26",
+				"antiair": "",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "4941",
+				"armor": "Medium",
+				"reload": "182",
+				"luck": "75",
+				"firepower": "252",
+				"torpedo": "0",
+				"evasion": "57",
+				"speed": "26",
+				"antiair": "243",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "118",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "CA Guns",
+				"minEfficiency": 105,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "DD Guns",
+				"minEfficiency": 55,
+				"maxEfficiency": 60
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 95,
+				"maxEfficiency": 100
+			}
+		},
+		"enhanceValue": {
+			"firepower": 26,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/8/8b/Skill_14050.png",
+				"names": {
+					"en": "Viola Spear",
+					"cn": "怒放之紫",
+					"jp": null
+				},
+				"description": "When this ship fires its main guns, 20.0% (50.0%) chance to fire a special barrage (damage dealt scales with skill level, 10 second cooldown between activations). If there are two or more Sardegna Empire ships in your fleet (including this ship), increase the proc chance by 20.0%.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/d/dd/Skill_14060.png",
+				"names": {
+					"en": "Audacious Challenger",
+					"cn": "无惧挑战",
+					"jp": null
+				},
+				"description": "Increase this ship's EVA by 5.0% (15.0%) during the first 45 seconds of the battle. As long as this ship is afloat, increase FP by 1.0% (10.0%) and AA by 5.0% (15.0%) for all Sardegnia Empire vanguard ships, and decrease damage taken by all Zara-class ships (including this ship) by 6.0%.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射"
+				},
+				"description": "Every 12 (8) times this ship fires its main guns, trigger All Out Assault - Zara-class I (II)",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gains Full Barrage I",
+				"Main Gun Efficiency +5%"
+			],
+			[
+				"Main Gun Mount +1",
+				"Main Gun Efficiency +10%"
+			],
+			[
+				"Upgrades Full Barrage I→II",
+				"All Weapon Efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"stat": "Accuracy",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 28,
+				"maxLimitBreak": 56,
+				"maxLevel": 42,
+				"total": 126
+			}
+		},
+		"construction": {
+			"constructionTime": "01:55:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Empyreal Tragicomedy Rerun",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Empyreal Tragicomedy Rerun event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "云桑",
+				"url": "https://azurlane.koumakan.jp/Artists#.E4.BA.91.E6.A1.91"
+			},
+			"pixiv": {
+				"name": "雲桑",
+				"url": "https://www.pixiv.net/member.php?id=5358936"
+			},
+			"twitter": {
+				"name": "Yunsang",
+				"url": "https://twitter.com/_Yunsang"
+			},
+			"web": {
+				"name": "-云桑",
+				"url": "https://weibo.com/yunsang"
+			},
+			"voice": {
+				"name": "Atsumi Tanezaki",
+				"url": "https://en.wikipedia.org/wiki/Atsumi_Tanezaki"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/Pola.png/600px-Pola.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/01/PolaChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"490": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Vincenzo_Gioberti",
+		"id": "490",
+		"names": {
+			"en": "Vincenzo Gioberti",
+			"code": "RN Vincenzo Gioberti",
+			"cn": "文琴佐·焦贝蒂",
+			"jp": "ヴィンチェンツォ・ジョベルティ",
+			"kr": "Vincenzo Gioberti"
+		},
+		"hexagon": [
+			4,
+			1,
+			0,
+			4,
+			2,
+			1
+		],
+		"class": "Alfredo Oriani",
+		"nationality": "Sardegna Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/b/bf/Vincenzo_GiobertiIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "300",
+				"armor": "Light",
+				"reload": "77",
+				"luck": "44",
+				"firepower": "21",
+				"torpedo": "54",
+				"evasion": "78",
+				"speed": "45",
+				"antiair": "29",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "",
+				"antisubmarineWarfare": "53"
+			},
+			"level100": {
+				"health": "",
+				"armor": "Light",
+				"reload": "",
+				"luck": "44",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "45",
+				"antiair": "",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level120": {
+				"health": "1846",
+				"armor": "Light",
+				"reload": "209",
+				"luck": "44",
+				"firepower": "113",
+				"torpedo": "289",
+				"evasion": "212",
+				"speed": "45",
+				"antiair": "154",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "200",
+				"antisubmarineWarfare": "215"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 105,
+				"maxEfficiency": 125
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 125,
+				"maxEfficiency": 130
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 105
+			}
+		},
+		"enhanceValue": {
+			"firepower": 7,
+			"torpedo": 18,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/00/Skill_14030.png",
+				"names": {
+					"en": "Ontological Rudder",
+					"cn": "回转的Ontology",
+					"jp": "オントロジー的転舵"
+				},
+				"description": "When this ship takes DMG: increases this ship's FP and EVA by 1.0% (3.0%) (can be stacked up to 5 times). After reaching 5 stacks, this ship gains  5 Speed and fire a special barrage (30s cooldown when activated and DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/2/2a/Skill_14040.png",
+				"names": {
+					"en": "Protologia of Illumination",
+					"cn": "闪耀的Protorogia",
+					"jp": "明け星のプロトロジア"
+				},
+				"description": "Every 15s: 20.0% (50.0%) chance to increase the Accuracy of your Vanguard by 10.0% (20.0%) for 10s.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射"
+				},
+				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Alfredo Oriani-class I (II)",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Gained Special Barrage I",
+				"Main Gun Efficiency +5%"
+			],
+			[
+				"Max Torpedo Capacity +1",
+				"Pre-Loaded Torpedo +1",
+				"Main Gun Efficiency +10%"
+			],
+			[
+				"Upgrades Special Barrage I→II",
+				"All Weapon Efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Health",
+					"bonus": "+1"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"stat": "Anti-submarine warfare",
+					"bonus": "+1"
+				}
+			},
+			"techPoints": {
+				"collection": 12,
+				"maxLimitBreak": 24,
+				"maxLevel": 18,
+				"total": 54
+			}
+		},
+		"construction": {
+			"constructionTime": "00:32:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Empyreal Tragicomedy Rerun",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Empyreal Tragicomedy Rerun event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "团子",
+				"url": "https://azurlane.koumakan.jp/Artists#.E5.9B.A2.E5.AD.90"
+			},
+			"pixiv": {
+				"name": "DanGo",
+				"url": "https://www.pixiv.net/member.php?id=7703737"
+			},
+			"twitter": {
+				"name": "DanGo",
+				"url": "https://twitter.com/Tsundere_dango"
+			},
+			"web": {
+				"name": "傲娇团子DanGo",
+				"url": "http://weibo.com/soramiao"
+			},
+			"voice": null
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/43/Vincenzo_Gioberti.png/521px-Vincenzo_Gioberti.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9c/Vincenzo_GiobertiChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
 	"9001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Tone",
 		"id": "9001",
@@ -98294,25 +98740,6 @@
 				}
 			}
 		],
-		"rarity": "Unreleased",
-		"gallery": []
-	},
-	"9006": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Pola",
-		"id": "9006",
-		"names": {
-			"en": "Pola",
-			"code": "Pola",
-			"jp": "Pola",
-			"cn": "Pola",
-			"kr": "Pola"
-		},
-		"class": "Zara",
-		"nationality": "Sardegna Empire",
-		"hullType": "Heavy Cruiser",
-		"unreleased": true,
-		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/de/PolaIcon.png",
-		"skins": [],
 		"rarity": "Unreleased",
 		"gallery": []
 	},
@@ -99800,10 +100227,22 @@
 			"fromMaps": []
 		},
 		"misc": {
-			"artist": null,
-			"pixiv": null,
-			"twitter": null,
-			"web": null,
+			"artist": {
+				"name": "股间少女",
+				"url": "https://azurlane.koumakan.jp/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3"
+			},
+			"pixiv": {
+				"name": "Gujianshaov",
+				"url": "https://www.pixiv.net/member.php?id=12834728"
+			},
+			"twitter": {
+				"name": "Gujianshaonv",
+				"url": "https://twitter.com/gujianshaonv"
+			},
+			"web": {
+				"name": "Gujianshaov",
+				"url": "https://www.weibo.com/u/5205759948"
+			},
 			"voice": {
 				"name": "Eri Yukimura",
 				"url": "https://www.imdb.com/name/nm9806307/"
@@ -102741,7 +103180,7 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
@@ -104120,11 +104559,11 @@
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
-				"light": true,
+				"light": "EN Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
@@ -107512,7 +107951,7 @@
 		"construction": {
 			"constructionTime": "01:15:00",
 			"availableIn": {
-				"light": true,
+				"light": "EN Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -108807,7 +109246,7 @@
 		"construction": {
 			"constructionTime": "01:25:00",
 			"availableIn": {
-				"light": true,
+				"light": "EN Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -119268,14 +119707,14 @@
 				}
 			},
 			{
-				"name": "Delicious Love!",
+				"name": "Freshly-Baked Bonding!",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/4/44/HornetPizza.png/459px-HornetPizza.png",
 				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/e/e3/HornetPizzaChibi.png",
 				"info": {
-					"enClient": "skin unavailable",
-					"cnClient": "skin unavailable",
-					"jpClient": "-",
+					"enClient": "Freshly-Baked Bonding!",
+					"cnClient": "美味生活！",
+					"jpClient": "デリシャス・ラブ！",
 					"obtainedFrom": "Skin Shop",
 					"cost": "700",
 					"live2dModel": "No"
