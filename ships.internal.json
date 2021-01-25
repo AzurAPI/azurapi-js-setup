@@ -144,14 +144,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -398,14 +398,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -1010,14 +1010,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -1247,14 +1247,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -1585,14 +1585,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -2084,14 +2084,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -2562,14 +2562,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -3020,14 +3020,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				}
 			},
@@ -3266,14 +3266,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -3504,14 +3504,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -3784,14 +3784,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -4011,14 +4011,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -4263,14 +4263,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -4636,14 +4636,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -4852,14 +4852,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -5078,14 +5078,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -5383,7 +5383,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -5392,7 +5392,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -5830,7 +5830,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -5839,7 +5839,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -6055,7 +6055,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -6064,7 +6064,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -6323,7 +6323,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -6332,7 +6332,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -6758,7 +6758,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -6767,7 +6767,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -6983,7 +6983,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -6992,7 +6992,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -7244,7 +7244,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -7253,7 +7253,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -7789,7 +7789,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -7798,7 +7798,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -8237,14 +8237,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -8442,14 +8442,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -8651,14 +8651,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -8911,7 +8911,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -8920,7 +8920,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -9231,7 +9231,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -9240,7 +9240,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},
@@ -9711,7 +9711,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -9720,7 +9720,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -9940,7 +9940,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -9949,7 +9949,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -10192,7 +10192,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -10201,7 +10201,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -10413,7 +10413,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -10422,7 +10422,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -10689,7 +10689,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -10698,7 +10698,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+2"
 				}
 			},
@@ -10965,14 +10965,14 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -11436,7 +11436,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -11444,7 +11444,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -11783,7 +11783,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -11791,7 +11791,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -12018,7 +12018,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -12026,7 +12026,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},
@@ -12284,7 +12284,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -12292,7 +12292,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -12642,7 +12642,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -12650,7 +12650,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -12897,7 +12897,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -12905,7 +12905,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -13154,7 +13154,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -13162,7 +13162,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -13374,7 +13374,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -13383,7 +13383,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -13625,7 +13625,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -13634,7 +13634,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -13871,14 +13871,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -14198,14 +14198,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -14984,14 +14984,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -15235,14 +15235,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -15466,14 +15466,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -15738,14 +15738,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -16014,14 +16014,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -16248,14 +16248,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -16586,14 +16586,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -17070,14 +17070,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -17399,14 +17399,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -17877,14 +17877,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -18333,14 +18333,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -18590,14 +18590,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -19023,14 +19023,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -19293,14 +19293,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -19765,14 +19765,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -20245,14 +20245,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -20720,14 +20720,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -20941,14 +20941,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -21205,14 +21205,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -21653,14 +21653,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -21922,14 +21922,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -22424,14 +22424,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -22925,14 +22925,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -23402,14 +23402,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -23861,14 +23861,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -24130,7 +24130,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -24139,7 +24139,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -24600,7 +24600,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -24609,7 +24609,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -25027,7 +25027,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -25036,7 +25036,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -25244,7 +25244,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -25253,7 +25253,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -25461,7 +25461,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -25470,7 +25470,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -25682,7 +25682,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -25691,7 +25691,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -25904,7 +25904,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -25913,7 +25913,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -26157,7 +26157,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -26166,7 +26166,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -26473,7 +26473,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -26482,7 +26482,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -26781,7 +26781,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -26790,7 +26790,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -27013,7 +27013,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -27022,7 +27022,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -27224,14 +27224,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -27469,14 +27469,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -27739,14 +27739,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -28003,14 +28003,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -28303,7 +28303,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -28312,7 +28312,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -28799,7 +28799,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -28808,7 +28808,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -29368,7 +29368,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -29377,7 +29377,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -29837,7 +29837,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -29846,7 +29846,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -30263,7 +30263,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -30272,7 +30272,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -30535,7 +30535,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -30544,7 +30544,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -30767,7 +30767,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -30776,7 +30776,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -30994,7 +30994,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -31003,7 +31003,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -31227,7 +31227,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -31235,7 +31235,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -31431,7 +31431,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -31439,7 +31439,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -31645,7 +31645,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -31653,7 +31653,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -31904,7 +31904,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -31912,7 +31912,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -32343,7 +32343,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -32351,7 +32351,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -32589,7 +32589,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -32597,7 +32597,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -32897,7 +32897,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -32905,7 +32905,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -33252,7 +33252,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -33260,7 +33260,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+2"
 				}
 			},
@@ -33788,7 +33788,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -33796,7 +33796,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},
@@ -34267,7 +34267,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -34275,7 +34275,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -34538,7 +34538,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -34546,7 +34546,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -34793,7 +34793,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -34801,7 +34801,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -35093,7 +35093,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -35101,7 +35101,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -35333,14 +35333,14 @@
 					"applicable": [
 						"Repair ship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Repair ship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -35686,14 +35686,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -36198,14 +36198,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -36984,14 +36984,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -37209,14 +37209,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -37485,14 +37485,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -37966,14 +37966,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -38447,14 +38447,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -38887,7 +38887,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -38896,7 +38896,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -39138,7 +39138,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -39147,7 +39147,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -39426,7 +39426,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -39435,7 +39435,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -39721,7 +39721,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -39730,7 +39730,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -40031,14 +40031,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -40266,14 +40266,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -40511,7 +40511,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -40520,7 +40520,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -40756,7 +40756,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -40765,7 +40765,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -41043,7 +41043,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -41051,7 +41051,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -41293,14 +41293,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -41521,14 +41521,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -41735,14 +41735,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -41968,14 +41968,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -42205,14 +42205,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -42490,14 +42490,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -43079,14 +43079,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -43622,14 +43622,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -43900,14 +43900,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -44338,14 +44338,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -44557,14 +44557,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -44771,14 +44771,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -45000,14 +45000,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -45329,14 +45329,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -45787,14 +45787,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -46246,14 +46246,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -46754,14 +46754,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -47198,14 +47198,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -47430,14 +47430,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -47648,14 +47648,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -47875,14 +47875,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -48103,14 +48103,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -48350,14 +48350,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -48600,14 +48600,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -48838,14 +48838,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -49053,14 +49053,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -49282,14 +49282,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -49510,14 +49510,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -49738,14 +49738,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -50020,14 +50020,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -50503,14 +50503,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -50730,14 +50730,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -51025,14 +51025,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -51305,14 +51305,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -51529,14 +51529,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -51798,14 +51798,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -52264,14 +52264,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -52722,14 +52722,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -52952,14 +52952,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -53179,14 +53179,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -53447,14 +53447,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -53928,14 +53928,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -54358,7 +54358,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -54367,7 +54367,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -54634,14 +54634,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -54900,14 +54900,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -55165,14 +55165,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -55390,14 +55390,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -55601,14 +55601,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -55831,14 +55831,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -56081,14 +56081,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -56326,14 +56326,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -56549,14 +56549,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -56790,14 +56790,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -57029,14 +57029,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -57239,14 +57239,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -57658,7 +57658,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -57667,7 +57667,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -57886,7 +57886,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -57895,7 +57895,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -58340,7 +58340,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -58348,7 +58348,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -58790,7 +58790,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -58798,7 +58798,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -59240,7 +59240,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -59248,7 +59248,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -59663,7 +59663,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -59671,7 +59671,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -60116,7 +60116,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -60124,7 +60124,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -60541,7 +60541,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -60549,7 +60549,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -60997,7 +60997,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -61005,7 +61005,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -61212,14 +61212,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -61440,14 +61440,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -61664,14 +61664,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -61930,14 +61930,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -62441,14 +62441,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -63125,7 +63125,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -63133,7 +63133,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -63413,14 +63413,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -63846,14 +63846,14 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Battlecruiser"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -64110,7 +64110,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -64119,7 +64119,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -64378,7 +64378,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -64387,7 +64387,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},
@@ -64617,14 +64617,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -64846,7 +64846,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -64854,7 +64854,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -65096,7 +65096,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -65104,7 +65104,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -65565,7 +65565,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -65573,7 +65573,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -65805,14 +65805,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -66034,14 +66034,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -66327,14 +66327,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -66771,14 +66771,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -66996,14 +66996,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -67232,7 +67232,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -67241,7 +67241,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -67509,14 +67509,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -67723,14 +67723,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -67972,7 +67972,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -67981,7 +67981,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -68248,7 +68248,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -68257,7 +68257,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -68473,14 +68473,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -68697,14 +68697,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -68935,14 +68935,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -69265,14 +69265,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -69755,14 +69755,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -70203,14 +70203,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -70430,14 +70430,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -70660,14 +70660,14 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -70902,7 +70902,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -70910,7 +70910,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -71157,7 +71157,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -71165,7 +71165,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -71424,14 +71424,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -71653,7 +71653,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -71661,7 +71661,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -72088,14 +72088,14 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Submarine carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -72315,7 +72315,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -72324,7 +72324,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -73357,7 +73357,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -73365,7 +73365,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -73810,7 +73810,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -73818,7 +73818,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -74035,14 +74035,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -74246,14 +74246,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -75095,14 +75095,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -75372,14 +75372,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -75644,14 +75644,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -76085,7 +76085,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -76093,7 +76093,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -76530,7 +76530,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -76538,7 +76538,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -76966,7 +76966,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -76974,7 +76974,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -77406,7 +77406,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -77414,7 +77414,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -77846,7 +77846,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -77854,7 +77854,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -78062,7 +78062,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -78071,7 +78071,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -78498,7 +78498,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -78506,7 +78506,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -78734,7 +78734,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -78742,7 +78742,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -78963,14 +78963,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -79176,14 +79176,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -79397,14 +79397,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -79628,14 +79628,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -79891,14 +79891,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -80136,14 +80136,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -80346,7 +80346,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -80355,7 +80355,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -80591,7 +80591,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -80600,7 +80600,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -80804,7 +80804,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -80813,7 +80813,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -81049,7 +81049,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -81058,7 +81058,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -81285,7 +81285,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -81294,7 +81294,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -81514,14 +81514,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -81952,7 +81952,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -81960,7 +81960,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -82231,14 +82231,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -83481,14 +83481,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -83717,14 +83717,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -83951,7 +83951,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -83960,7 +83960,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -84194,7 +84194,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -84202,7 +84202,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},
@@ -84432,14 +84432,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -84668,14 +84668,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -84930,14 +84930,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -85164,14 +85164,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -85403,14 +85403,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -85645,14 +85645,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				}
 			},
@@ -85890,14 +85890,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -86128,14 +86128,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -86376,7 +86376,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -86385,7 +86385,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -86620,7 +86620,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -86629,7 +86629,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -86874,7 +86874,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -86882,7 +86882,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -87126,7 +87126,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -87135,7 +87135,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -87364,14 +87364,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -87620,14 +87620,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				}
 			},
@@ -88072,7 +88072,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -88080,7 +88080,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -88306,7 +88306,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -88314,7 +88314,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -88522,14 +88522,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -88762,14 +88762,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -88999,14 +88999,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -89417,14 +89417,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -89658,7 +89658,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -89667,7 +89667,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -89920,14 +89920,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -90164,7 +90164,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -90173,7 +90173,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -90414,14 +90414,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -90650,14 +90650,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -90879,7 +90879,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -90887,7 +90887,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -91302,14 +91302,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -91531,7 +91531,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -91540,7 +91540,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -91775,14 +91775,14 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -92017,14 +92017,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				}
 			},
@@ -92264,7 +92264,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -92273,7 +92273,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -92503,14 +92503,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -92754,14 +92754,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -93180,7 +93180,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -93188,7 +93188,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},
@@ -93415,14 +93415,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -93677,7 +93677,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -93686,7 +93686,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -93908,7 +93908,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -93916,7 +93916,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -94135,7 +94135,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -94143,7 +94143,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -94365,14 +94365,14 @@
 					"applicable": [
 						"Munition ship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Munition ship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -94594,7 +94594,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -94602,7 +94602,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -96538,7 +96538,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -96546,7 +96546,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -96779,7 +96779,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -96788,7 +96788,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -97221,7 +97221,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -97229,7 +97229,7 @@
 						"Submarine",
 						"Submarine carrier"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+2"
 				}
 			},
@@ -97446,14 +97446,14 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -97682,14 +97682,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -97918,14 +97918,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -98155,14 +98155,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -98393,7 +98393,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -98402,7 +98402,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -98618,14 +98618,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -100973,14 +100973,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -101256,14 +101256,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -101742,14 +101742,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -102200,14 +102200,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -102440,14 +102440,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -102687,14 +102687,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -102931,14 +102931,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -103155,14 +103155,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -103386,14 +103386,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -103605,14 +103605,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -103827,14 +103827,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -104064,14 +104064,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -104301,14 +104301,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -104538,14 +104538,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -104808,14 +104808,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -105493,14 +105493,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -105972,14 +105972,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -106466,14 +106466,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -106758,14 +106758,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -106988,14 +106988,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -107217,14 +107217,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -107442,14 +107442,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -107715,14 +107715,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -108196,14 +108196,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -108436,14 +108436,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -108704,14 +108704,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -109225,14 +109225,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -109558,14 +109558,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -109796,7 +109796,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -109805,7 +109805,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -110035,7 +110035,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -110044,7 +110044,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -110259,7 +110259,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -110268,7 +110268,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -110482,7 +110482,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -110491,7 +110491,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -110706,7 +110706,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -110715,7 +110715,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -110970,7 +110970,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -110979,7 +110979,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -111433,7 +111433,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -111442,7 +111442,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -111710,7 +111710,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -111719,7 +111719,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -111956,7 +111956,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -111965,7 +111965,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -112202,7 +112202,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -112211,7 +112211,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -112462,7 +112462,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -112471,7 +112471,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -112719,7 +112719,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -112728,7 +112728,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -113025,7 +113025,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -113034,7 +113034,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -113522,7 +113522,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -113531,7 +113531,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -113976,7 +113976,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -113985,7 +113985,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -114186,7 +114186,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -114195,7 +114195,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				}
 			},
@@ -114395,7 +114395,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -114404,7 +114404,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -114608,7 +114608,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -114617,7 +114617,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -114821,7 +114821,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -114830,7 +114830,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -115045,7 +115045,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -115054,7 +115054,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -115259,7 +115259,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -115268,7 +115268,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -115483,7 +115483,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -115492,7 +115492,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				}
 			},
@@ -115713,7 +115713,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -115722,7 +115722,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				}
 			},
@@ -115955,7 +115955,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -115964,7 +115964,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+2"
 				}
 			},
@@ -116228,7 +116228,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -116236,7 +116236,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -116717,14 +116717,14 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -117215,7 +117215,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -117223,7 +117223,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -117683,7 +117683,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -117691,7 +117691,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -117974,7 +117974,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -117982,7 +117982,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -118531,7 +118531,7 @@
 					"applicable": [
 						"Light aircraft carrier"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -118539,7 +118539,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+1"
 				}
 			},
@@ -119002,7 +119002,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -119010,7 +119010,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -119258,7 +119258,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -119266,7 +119266,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Aviation",
+					"stat": "aviation",
 					"bonus": "+2"
 				}
 			},
@@ -119623,7 +119623,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -119631,7 +119631,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -119877,7 +119877,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -119885,7 +119885,7 @@
 						"Aircraft carrier",
 						"Light aircraft carrier"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+1"
 				}
 			},
@@ -120087,14 +120087,14 @@
 					"applicable": [
 						"Repair ship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Repair ship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -120363,14 +120363,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -120863,14 +120863,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -121363,14 +121363,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -121796,14 +121796,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -122034,14 +122034,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -122315,14 +122315,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -122802,14 +122802,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -123298,14 +123298,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -123864,14 +123864,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				}
 			},
@@ -124344,14 +124344,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Anti-submarine warfare",
+					"stat": "anti-SubmarineWarfare",
 					"bonus": "+1"
 				}
 			},
@@ -124778,14 +124778,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -125004,14 +125004,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -125238,14 +125238,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -125502,14 +125502,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -125771,7 +125771,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -125780,7 +125780,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -126078,7 +126078,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -126087,7 +126087,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Torpedo",
+					"stat": "torpedo",
 					"bonus": "+1"
 				}
 			},
@@ -126384,7 +126384,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -126393,7 +126393,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -126670,7 +126670,7 @@
 						"Heavy cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -126678,7 +126678,7 @@
 						"Heavy cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -126968,7 +126968,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -126977,7 +126977,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Evasion",
+					"stat": "evasion",
 					"bonus": "+1"
 				}
 			},
@@ -127250,14 +127250,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -127561,7 +127561,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -127570,7 +127570,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -127878,14 +127878,14 @@
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Destroyer"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -128148,7 +128148,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -128157,7 +128157,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -128434,7 +128434,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -128443,7 +128443,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+2"
 				}
 			},
@@ -128721,7 +128721,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -128730,7 +128730,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Reload",
+					"stat": "reload",
 					"bonus": "+2"
 				}
 			},
@@ -129003,7 +129003,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -129012,7 +129012,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Anti-air",
+					"stat": "anti-Air",
 					"bonus": "+1"
 				}
 			},
@@ -129279,7 +129279,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -129288,7 +129288,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				}
 			},
@@ -129540,14 +129540,14 @@
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
 					"applicable": [
 						"Light cruiser"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				}
 			},
@@ -129791,7 +129791,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Health",
+					"stat": "health",
 					"bonus": "+2"
 				},
 				"maxLevel": {
@@ -129800,7 +129800,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -130052,7 +130052,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Firepower",
+					"stat": "firepower",
 					"bonus": "+1"
 				},
 				"maxLevel": {
@@ -130061,7 +130061,7 @@
 						"Battlecruiser",
 						"Aviation battleship"
 					],
-					"stat": "Accuracy",
+					"stat": "accuracy",
 					"bonus": "+2"
 				}
 			},

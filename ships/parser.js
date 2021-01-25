@@ -260,7 +260,7 @@ function parseStatsBonus(cell) {
     statsBonus.applicable = [];
     for (; cell.children[i] && cell.children[i].tagName === "A"; i++) statsBonus.applicable.push(cell.children[i].title.replace(/\(\w+\)/, '').trim());
     if (!cell.children[i]) return null;
-    statsBonus.stat = cell.children[i].title;
+    statsBonus.stat = camelize(cell.children[i].title);
     statsBonus.bonus = cell.lastChild.textContent.trim();
     return statsBonus;
 }
