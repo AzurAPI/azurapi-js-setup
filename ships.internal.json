@@ -20210,7 +20210,7 @@
 					"cn": "空袭引导",
 					"jp": "空襲先導"
 				},
-				"description": "While alive in fleet, increases airstrike damage dealt by all CVs/CVLs by 5% (15%). Does not stacks with same skill.",
+				"description": "While alive in fleet, increases airstrike damage dealt by all CVs/CVLs by 5% (15%). Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -30968,7 +30968,7 @@
 					"cn": "敌无不击",
 					"jp": "凌げば討つ！"
 				},
-				"description": "1) When: a) this ship is afloat, b) the fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd, 4th, or 5th battle: launches a special barrage 20s after the other fleet's battle begins.2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special Lv.1 (Lv.10) barrage. Has a cooldown of 15s between activations.",
+				"description": "[Regular]1) When: a) this ship is afloat, b) the fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd, 4th, or 5th battle: launches a special barrage 20s after the other fleet's battle begins.2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special Lv.1 (Lv.10) barrage. Has a cooldown of 15s between activations.[Operation Siren]1) When: a) this ship is afloat, b) a fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd or 4th battle: your Tosa fires a covering barrage 20s after said fleet's battle begins.2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special Lv.1 (Lv.10) barrage. Barrage DMG is based on the skill's level and has a cooldown of 15s between activations. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			}
 		],
@@ -35045,7 +35045,7 @@
 					"cn": "星夜之云",
 					"jp": null
 				},
-				"description": "Three seconds after the start of the battle, launch a Saiun barrage. When this ship launches an airstrike, launch an additional Shiden Kai 2, Ryuusei, and Saiun barrage (damage scales with skill level). Saiun barrages do not do damage; instead, they decrease the FP, TRP, AVI, and AA of one random enemy (humanoids prioritized) by 3.0% and increase the damage they receive by 3.0%, until the end of the battle. This debuff may stack up to three times.",
+				"description": "Three seconds after the start of the battle, launch a Saiun barrage. When this ship launches an airstrike, launch an additional Shiden Kai 2, Ryuusei, andIngame states or, and is incorrect Saiun barrage (damage scales with skill level). Saiun barrages do not do damage; instead, they decrease the FP, TRP, AVI, and AA of one random enemy (humanoids prioritized) by 3.0% and increase the damage they receive by 3.0%, until the end of the battle. This debuff may stack up to three times.",
 				"color": "pink"
 			},
 			{
@@ -35055,7 +35055,7 @@
 					"cn": "幽蝶之梦",
 					"jp": null
 				},
-				"description": "Increase own AVI stat by 5.0% (15.0%) during her first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).",
+				"description": "[Regular]Increase own AVI stat by 5.0% (15.0%) during her first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).[Operation Siren]Every 15s: fires a Lv.1 (Lv.10) special barrage. During the 1st and 2nd battles this ship fights in during a sortie: increases this ship's AVI by 5.0% (15.0%). When a fleet this ship is NOT in starts its 3rd and 4th battles of a sortie: fires a Lv.1 (Lv.10) barrage (DMG is based on the skill's level) 15s after the battle starts. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			},
 			{
@@ -54981,7 +54981,7 @@
 			},
 			{
 				"name": "Xanadu's Eventide",
-				"image": null,
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2d/NoshiroParty.png/753px-NoshiroParty.png",
 				"background": "https://azurlane.koumakan.jp/w/images/9/9a/Skin_BG_135.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/4/48/NoshiroPartyChibi.png",
 				"info": {
@@ -60506,7 +60506,7 @@
 					"cn": "独狼",
 					"jp": "孤影の狼"
 				},
-				"description": "When entering the map, if U-47 is the sole unit of the submarine fleet: increases damage dealt to Battleships (Battlecruisers and Aviation Battleships are not counted) by 5% (20%), increases Search Level by 1 and increases Ammo by 2.",
+				"description": "[Regular]When entering the map, if U-47 is the sole unit of the submarine fleet: increases damage dealt to Battleships (Battlecruisers and Aviation Battleships are not counted) by 5% (20%), increases Search Level by 1 and increases Ammo by 2.[Operation Siren]When your Submarine Fleet consists of this boat only: increases this boat's DMG to BBs (does not affect BCs or BBVs) by 5% (20%). When deploying your Submarine Fleet during Operation Siren: -4.5% (12.0%) AP cost and +2 AMO.",
 				"color": "gold"
 			},
 			{
@@ -77801,7 +77801,7 @@
 					"cn": "远洋支援",
 					"jp": "外洋支援"
 				},
-				"description": "Increases own Oxygen stat by 2 (20). If included in the submarine fleet: this fleet can provide battle support outside of hunting range once per Sortie.",
+				"description": "[Regular]Increases own Oxygen stat by 2 (20). If included in the submarine fleet: this fleet can provide battle support outside of hunting range once per Sortie.[Operation Siren]Increases this boat's OXY by 2 (20). When deploying your Submarine Fleet during Operation Siren: -1.5 (6.0%) AP cost.",
 				"color": "gold"
 			},
 			{
@@ -78036,7 +78036,7 @@
 					"cn": "驶向和平的战士",
 					"jp": "ウォーミングアップ"
 				},
-				"description": "During a sortie, increases own Firepower by 1% (2.5%) for every enemy node sunk by the fleet Alabama is in. Also, increases own firepower by 1% (2.5%) for every enemy ship sunk during any given battle. This skill can only boost firepower by up to 7% (17.5%). After defeating 5 enemy nodes, reduces damage taken by the Main Fleet by 3.5% (8%).",
+				"description": "[Regular]During a sortie, increases own Firepower by 1% (2.5%) for every enemy node sunk by the fleet Alabama is in. Also, increases own firepower by 1% (2.5%) for every enemy ship sunk during any given battle. This skill can only boost firepower by up to 7% (17.5%). After defeating 5 enemy nodes, reduces damage taken by the Main Fleet by 3.5% (8%).[Operation Siren]Every time the fleet this ship is in defeats an enemy fleet during a sortie: increases this ship's FP by 1% (2.5%); also, for every enemy this ship sinks during a battle: increases this ship's FP by 1% (2.5%) until the battle ends (this skill's FP buffs stack up to a total of 7 times). After 5 enemy fleets have been defeated: reduces DMG taken by your Main Fleet by 3.5% (8%). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "pink"
 			}
 		],
@@ -80320,7 +80320,7 @@
 					"cn": "撒丁的矜持",
 					"jp": "サディアの矜持"
 				},
-				"description": "After battle starts, deploys 2 shields that can each block up to 1 (2) enemy torpedoes around this ship and the Lead Ship of the Escort Fleet. Additionally, increases own Firepower by 4% (20%) for her first 3 battles of each sortie.",
+				"description": "After battle starts, deploys 2 shields that can each block up to 1 (2) enemy torpedoes around this ship and the Lead Ship of the Escort Fleet. Additionally, increases own Firepower by 4% (20%) for her first 3 battles of each sortie. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			}
 		],
@@ -86594,7 +86594,7 @@
 					"cn": "北联的狂放",
 					"jp": "北方連合の気迫"
 				},
-				"description": "For each Northern Parliament and/or Dragon Empery ship in the same fleet as this ship: increases this ship's FP and Accuracy by 1.0% (5.0%) (can be stacked up to 4 times.) This skill only works for the first 2 battles of each sortie this ship takes part in.",
+				"description": "For each Northern Parliament and/or Dragon Empery ship in the same fleet as this ship: increases this ship's FP and Accuracy by 1.0% (5.0%) (can be stacked up to 4 times.) This skill only works for the first 2 battles of each sortie this ship takes part in. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "pink"
 			}
 		],
@@ -86838,7 +86838,7 @@
 					"cn": "双重战斗模式",
 					"jp": "ツイン・ドライ"
 				},
-				"description": "On the 1st, 3rd, and 5th battles of each sortie that this ship takes part in: increases this ship's AVI by 5.0% (15.0%). On the 2nd, 4th, and 6th battles: decreases this ship's DMG taken by 4.5% (12.0%).",
+				"description": "On the 1st, 3rd, and 5th battles of each sortie that this ship takes part in: increases this ship's AVI by 5.0% (15.0%). On the 2nd, 4th, and 6th battles: decreases this ship's DMG taken by 4.5% (12.0%). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			},
 			{
@@ -87575,7 +87575,7 @@
 					"cn": "锐目的支援者",
 					"jp": "ヴィジランテサポーター"
 				},
-				"description": "At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Main Gun Crit Rate by 5.0% (35.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 2.5% (10.0%). For the first four battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.",
+				"description": "[Regular]At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Main Gun Crit Rate by 20.0% (35.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 4.0% (10.0%). For the first four battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.[Operation Siren]At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Crit Rate by 5.0% (15.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 1.5% (6.0%). For the 1st and 2nd battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]As transcribed ingame, probably incorrect though, and provides the same stats as regular play.",
 				"color": "pink"
 			},
 			{
@@ -88280,7 +88280,7 @@
 					"cn": "空域辅助",
 					"jp": "航空戦力支援"
 				},
-				"description": "The following buffs are active as long as this ship is afloat:\nAt the start of the battle, increases AVI by 4.5% (12.0%) and RLD by 5.0% (10.0%) for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by 10.0% (25.0%).\nAt the start of the battle, increases RLD and AVI by 3.5% (8.0%) for all CVs and CVLs in the fleet this ship is NOT in. Effect does not stack with the same skill.",
+				"description": "The following buffs are active as long as this ship is afloat:\nAt the start of the battle, increases AVI by 4.5% (12.0%) and RLD by 5.0% (10.0%) for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by 10.0% (25.0%).\nAt the start of the battle, increases RLD and AVI by 3.5% (8.0%) (Regular play) / 2.0% (4.0%) (Operation Siren) for all CVs and CVLs in the fleet this ship is NOT in. Effect does not stack with the same skill.",
 				"color": "gold"
 			}
 		],
@@ -91751,7 +91751,7 @@
 					"cn": "广域舰船维护",
 					"jp": "ハデス・リペアラー"
 				},
-				"description": "Increase hangar size to 3. All ships in this fleet recover 1.0% of their max HP every 40 (20) seconds. When the fleet this ship is NOT in engages in battle, 20 seconds after that battle starts, heal all vanguard ships in that fleet by 1.0% (3.0%) of their max HP.",
+				"description": "[Regular]Increase hangar size to 3. All ships in this fleet recover 1.0% of their max HP every 40 (20) seconds. When the fleet this ship is NOT in engages in battle, 20 seconds after that battle starts, heal all vanguard ships in that fleet by 1.0% (3.0%) of their max HP.[Operation Siren]Increases this ship's max Airstrike capacity to 3 (this effect is unaffected by your ship's damage status) and restores 1.0% HP to all ships in the same fleet as this ship once every 40 (20) seconds. 20s after a fleet this ship is NOT in starts a battle: heals said fleet's Vanguard for 0.5% (1.5%) HP.",
 				"color": "gold"
 			}
 		],
@@ -92709,7 +92709,7 @@
 					"cn": "AntiTorpedoField",
 					"jp": "魚雷反射シールド、です！"
 				},
-				"description": "10 seconds after battle starts, spawn a shield that can block up to 3 torpedo attacks; shield lasts for 20 seconds. When this shield is destroyed or disappears due to timed out: launch a Lvl.1 (Lvl.10) torpedo barrage, and spawn the shield again after 30 seconds.",
+				"description": "10 seconds after battle starts, spawn a shield that can block up to 3 torpedo attacks; shield lasts for 20 seconds. When this shield is destroyed andis stated or ingame, incorrectly disappears due to timed out: launch a Lvl.1 (Lvl.10) torpedo barrage. Spawns the shield again 30s after time-out timer.",
 				"color": "deepskyblue"
 			},
 			{
@@ -93630,7 +93630,7 @@
 					"cn": "事不过三！",
 					"jp": null
 				},
-				"description": "After taking damage three times, reduce own damage taken by 3.5% (8.0%) for the rest of the battle. On the 2nd, 4th, and 6th battle of each sortie, 60 seconds after the battle starts, heal this ship for 4.0% (10.0%) of its max HP. If there is at least one other Sakura Empire ship in the same fleet as this ship: improve this ship's All Out Assault.",
+				"description": "After taking damage three times, reduce own damage taken by 3.5% (8.0%) for the rest of the battle. On the 2nd, 4th, and 6th battle of each sortie, 60 seconds after the battle starts, heal this ship for 4.0% (10.0%) of its max HP. If there is at least one other Sakura Empire ship in the same fleet as this ship: improve this ship's All Out Assault. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "deepskyblue"
 			},
 			{
@@ -94322,7 +94322,7 @@
 					"cn": "损伤警备",
 					"jp": null
 				},
-				"description": "For her first 3 battles of each sortie, reduce Gun damage taken by self by 10%. At start of battle, if fleet contains 2 or more Sakura Empire ships, increase own Speed by 10.",
+				"description": "For her first 3 battles of each sortie, reduce Gun damage taken by self by 10%. At start of battle, if fleet contains 2 or more Sakura Empire ships, increase own Speed by 10 [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "deepskyblue"
 			},
 			{
@@ -94827,6 +94827,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited construction during the \"Universe in Unison\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -94991,7 +94992,7 @@
 					"cn": "γpa！",
 					"jp": "紫紺の粘り強さ"
 				},
-				"description": "For the 1st, 2nd, and 3rd battles fought by the fleet this ship is in: increases this ship's FP by 4.5% (12.0%); from the 4th battle onwards: instead increases this ship's AA by 4.5% (12.0%).",
+				"description": "For the 1st, 2nd, and 3rd battles fought by the fleet this ship is in: increases this ship's FP by 4.5% (12.0%); from the 4th battle onwards: instead increases this ship's AA by 4.5% (12.0%). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			},
 			{
@@ -95043,6 +95044,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited construction during the \"Universe in Unison\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -95261,6 +95263,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited construction during the \"Universe in Unison\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -95477,6 +95480,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited construction during the \"Universe in Unison\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -95694,6 +95698,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited construction during the \"Universe in Unison\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -98681,6 +98686,155 @@
 				}
 			}
 		],
+		"gallery": []
+	},
+	"491": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Stremitelny",
+		"id": "491",
+		"names": {
+			"en": "Stremitelny",
+			"code": "SN Stremitelny",
+			"cn": "神速",
+			"jp": "ストレミテルヌイ",
+			"kr": "Stremitelny"
+		},
+		"hexagon": [
+			4,
+			1,
+			0,
+			3,
+			2,
+			1
+		],
+		"class": "Gnevny",
+		"nationality": "Northern Parliament",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/85/StremitelnyIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "",
+				"armor": "Light",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level100": {
+				"health": "",
+				"armor": "Light",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level120": {
+				"health": "",
+				"armor": "Light",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "DD Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			},
+			"2": {
+				"type": "Torpedoes",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			},
+			"3": {
+				"type": "Anti-Air Guns",
+				"minEfficiency": 100,
+				"maxEfficiency": 100
+			}
+		},
+		"enhanceValue": "",
+		"scrapValue": "",
+		"skills": [
+			{
+				"icon": null,
+				"names": {
+					"en": "",
+					"cn": null,
+					"jp": null
+				},
+				"description": "",
+				"color": "background-image: -moz-linear-gradient(to right, rgba(245,245,245,0), rgba(245,245,245,0.95)); background-image: -o-linear-gradient(to right, rgba(245,245,245,0), rgba(245,245,245,0.95)); background-image: -webkit-linear-gradient(to right, rgba(245,245,245,0), rgba(245,245,245,0.95)); background-image: linear-gradient(to right, rgba(245,245,245,0), rgba(245,245,245,0.95));; background-color:; border:1px solid lightgray; border-top:0; border-bottom:0; font-weight:500; line-height:142%; padding:0.45em 0.8em"
+			}
+		],
+		"limitBreaks": [
+			[],
+			[
+				"Torpedo Base +1",
+				"Torpedo Preload +1"
+			],
+			[]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "February 2021 login reward.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": null
+		},
+		"skins": [],
 		"gallery": []
 	},
 	"9001": {
@@ -128659,7 +128813,7 @@
 					"cn": "精密操作协议",
 					"jp": "精密射撃プロトコル"
 				},
-				"description": "Main Gun can be fired twice per reload, and each salvo can be fired independently. This ship's damage bonus with manually aimed salvos becomes 25% (40%). Every 20 seconds after battle starts: 50% (100%) chance to fire a special barrage (damage is based on skill level).Barrage preview (gif), Enhanced barrage preview (gif)",
+				"description": "[Regular]Main Gun can be fired twice per reload, and each salvo can be fired independently. This ship's damage bonus with manually aimed salvos becomes 25% (40%). Every 20 seconds after battle starts: 50% (100%) chance to fire a special barrage (damage is based on skill level).Barrage preview (gif), Enhanced barrage preview (gif)[Operation Siren]Each Main Gun reload gives this ship 2 Salvoes that can be fired independently (this effect is unaffected by your ship's damage status.) This ship's DMG bonus with manually aimed Salvoes becomes $2. Every 20s: $1 chance to fire a special barrage (barrage DMG is based on the skill's level.) [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "pink"
 			},
 			{
@@ -129713,7 +129867,7 @@
 					"cn": "求知之贤眼",
 					"jp": "ミーミルの賢眼"
 				},
-				"description": "Changes this ship's position and decreases its DMG taken by 5% (20.0%). Every 15s: commences a sonar scan, revealing the location of all enemy SSs for 5s (10s), reducing their accuracy by 15% (25%), and decreasing your Vanguard's DMG taken from torpedoes by 5% (15.0%) for 5s (10s).",
+				"description": "Changes this ship's position (forward 15 units) and decreases its DMG taken by 5% (20.0%). Every 15s: commences a sonar scan, revealing the location of all enemy SSs for 5s (10s), reducing their accuracy by 15% (25%), and decreasing your Vanguard's DMG taken from torpedoes by 5% (15.0%) for 5s (10s).",
 				"color": "gold"
 			},
 			{
@@ -134298,7 +134452,7 @@
 					"cn": "2.25马赫之华",
 					"jp": "マッハ2.42の華"
 				},
-				"description": "Dive Bomber slot is equipped with \"Mach 2.42 Bermbew Sprawt\" skin. Airstrike spawning time is increased by 100%. Every 20 seconds, calls in air support plane (damage scales with Torpedo stat and skill level).",
+				"description": "Dive Bomber slot is equipped with \"Mach 2.42 Bermbew Sprawt\" skin. Airstrike spawning time is increased by 100% (this effect is unaffected by your ship's damage status in Operation Siren). Every 20 seconds, calls in air support plane (damage scales with Torpedo stat and skill level).",
 				"color": "pink"
 			},
 			{
@@ -134308,7 +134462,7 @@
 					"cn": "二重存在之狐",
 					"jp": "表裏の狐"
 				},
-				"description": "During battle, increases own Firepower stat by 5% (15%). After defeating 3 enemy nodes in a sortie, increases own Torpedo stat by 4.5% (12%).",
+				"description": "During battle, increases own Firepower stat by 5% (15%). After defeating 3 enemy nodes in a sortie, increases own Torpedo stat by 4.5% (12%). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			}
 		],
