@@ -14,7 +14,8 @@ const NATIONALITY = {
     0: "Universal", 1: "Eagle Union", 2: "Royal Navy",
     3: "Sakura Empire", 4: "Iron Blood", 5: "Dragon Empery",
     6: "Sardegna Empire", 7: "Northern Parliament", 8: "Iris Libre",
-    9: "Vichya Dominion", 98: "Universal", 101: "Neptunia", 102: "Bilibili",
+    9: "Vichya Dominion", 97: "META",
+    98: "Universal", 101: "Neptunia", 102: "Bilibili",
     103: "Utawarerumono", 104: "Kizuna AI", 105: "Hololive", 106: "Venus Vacation"
 };
 const kuroshiro = new Kuroshiro();

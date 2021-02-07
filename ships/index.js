@@ -69,6 +69,13 @@ async function fetchShipList() {
         };
         bar.increment();
     });
+    LIST['30001'] = {
+        id: '30001',
+        name: "Hiryuu META",
+        rarity: "Super Rare",
+        type: "Aircraft Carrier",
+        nationality: "META"
+    };
     return LIST;
 }
 
@@ -102,16 +109,16 @@ async function refreshShipImages() {
         }
         if (ship.unreleased) continue;
         await Promise.all(ship.gallery.filter(item => !(!item.url)).map(item => fetchImage(item.url, path.resolve(__dirname, `../images/gallery/${item.url.substring(item.url.lastIndexOf('/') + 1)}`))));
-        let getSkillIcon = async (skill) => {
+        let getSkillIcon = async (skill, skills, names) => {
             if (!skill) return;
-            let skillName = skill.names.en.toLowerCase();
-            if (skillName.includes('(retrofit)')) skillName = skillName.replace('(retrofit)', '') + ".kai";
-            skillName = skillName.trim().replace(/\s+/g, '_');
-            let spath = path.resolve(__dirname, "../images/skills/" + key + "/" + skillName + ".png");
+            let skillName = transformSkillName(skill.names.en);
+            let spath;
+            if (names.filter(n => n === skillName).length > 1) spath = path.resolve(__dirname, "../images/skills/" + key + "/" + skill.color + "." + skillName + ".png");
+            else spath = path.resolve(__dirname, "../images/skills/" + key + "/" + skillName + ".png");
             if (skill.icon !== null) await fetchImage(skill.icon, spath);
         };
         if (!fs.existsSync(path.resolve(__dirname, "../images/skills/" + key))) fs.mkdirSync(path.resolve(__dirname, "../images/skills/" + key));
-        for (let skill of ship.skills) await getSkillIcon(skill);
+        for (let skill of ship.skills) await getSkillIcon(skill, ship.skills, ship.skills.map(s => transformSkillName(s.names.en)));
         shipCounter++;
     }
     console.log("\nDone");
@@ -148,7 +155,7 @@ function publishShips() {
             newGallery.push(item);
         }
         ship.gallery = newGallery;
-        ship.skills = ship.skills.map(publishSkill);
+        ship.skills = ship.skills.map(skill => publishSkill(ship.id, skill, ship.skills, ship.skills.map(skill => transformSkillName(skill.names.en))));
         bar.increment({filename: ship.names.code})
         SHIPS.push(ship);
     }
@@ -164,9 +171,17 @@ function publishShips() {
     console.log("Done");
 }
 
-function publishSkill(skill) {
-    skill.icon = IMAGE_REPO_URL + "images/skills/" + skill.names.en.replace(/\s+/g, '_').toLowerCase() + ".png";
+function publishSkill(id, skill, skills, names) {
+    let name = transformSkillName(skill.names.en);
+    if (names.filter(n => n === name).length > 1) skill.icon = IMAGE_REPO_URL + "images/skills/" + id + "/" + skill.color + "." + name + ".png";
+    else skill.icon = IMAGE_REPO_URL + "/images/skills/" + id + "/" + name + ".png";
     return skill;
+}
+
+function transformSkillName(name) {
+    name = name.toLowerCase();
+    if (name.includes('(retrofit)')) name = name.replace('(retrofit)', '') + ".kai";
+    return name.trim().replace(/[\s-]+/g, '_');
 }
 
 module.exports = {

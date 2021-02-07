@@ -12,6 +12,7 @@ const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-set
 let CHAPTERS = require("./chapters.json");
 let MEMORIES = require("./memories.json");
 let IMAGE_PROGRESS = require("./image-progress.json");
+const {camelize} = require("./utils");
 
 function timeout(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -42,7 +43,6 @@ async function refreshMemory(online) {
     if (!fs.existsSync('./web/memories/index.html') || online) fs.writeFileSync('./web/memories/index.html', data = await fetch("https://azurlane.koumakan.jp/Memories"));
     else data = fs.readFileSync('./web/memories/index.html', 'utf8');
     for (let galleryPack of new JSDOM(data).window.document.querySelectorAll(".gallery.mw-gallery-packed")) {
-        let category = camelize(galleryPack.previousElementSibling.textContent.trim());
         for (let galleryBox of galleryPack.children) {
             let icon = "https://azurlane.koumakan.jp" + galleryThumbnailUrlToActualUrl(galleryBox.querySelector('.thumb img').src);
             let name = galleryBox.querySelector(".gallerytext a").textContent;

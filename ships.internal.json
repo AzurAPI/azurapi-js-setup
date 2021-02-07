@@ -101707,6 +101707,205 @@
 			}
 		]
 	},
+	"30001": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Hiryuu_META",
+		"id": "30001",
+		"names": {
+			"en": "Hiryuu META",
+			"code": "Hiryuu META",
+			"cn": "龙·META",
+			"jp": "飛龍(META)",
+			"kr": "히류·META"
+		},
+		"hexagon": [
+			0,
+			0,
+			5,
+			3,
+			4,
+			3
+		],
+		"class": "Hiryuu META",
+		"nationality": "META",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/6/6d/Hiryuu_METAIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "946",
+				"armor": "Medium",
+				"reload": "49",
+				"luck": "36",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "11",
+				"speed": "34",
+				"antiair": "59",
+				"aviation": "80",
+				"oilConsumption": "8",
+				"accuracy": "23",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "4892",
+				"armor": "Medium",
+				"reload": "115",
+				"luck": "36",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "38",
+				"speed": "34",
+				"antiair": "274",
+				"aviation": "376",
+				"oilConsumption": "14",
+				"accuracy": "78",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "5644",
+				"armor": "Medium",
+				"reload": "136",
+				"luck": "36",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "58",
+				"speed": "34",
+				"antiair": "308",
+				"aviation": "419",
+				"oilConsumption": "14",
+				"accuracy": "88",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": {
+			"1": {
+				"type": "Fighters",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			},
+			"2": {
+				"type": "Dive Bombers",
+				"minEfficiency": 110,
+				"maxEfficiency": 110
+			},
+			"3": {
+				"type": "Torpedo Bombers",
+				"minEfficiency": 120,
+				"maxEfficiency": 150
+			}
+		},
+		"enhanceValue": "Cannot be used to enhance",
+		"scrapValue": "Cannot be scrapped",
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/7/7e/Skill_800040.png",
+				"names": {
+					"en": "Scorched Blade",
+					"cn": "烬火之刃",
+					"jp": "炬火の刃"
+				},
+				"description": "10s after the battle begins and every 20s after that: executes a Lv.1 (Lv.10) slashing attack which inflicts a DMG debuff to enemies hit, increasing the DMG they take from Hiryuu (META) by 5.0% (15.0%) for 15s. (Slash attack DMG is based on the skill's level.)",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/d/da/Skill_800050.png",
+				"names": {
+					"en": "Cards of Light and Dark",
+					"cn": "光暗花札",
+					"jp": "赤青五光雨"
+				},
+				"description": "Increases this ship's AVI by 10.0% (20.0%). Every 20s: launches a randomly chosen airstrike (DMG is based on the skill's level and the airstrike pattern.)",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/b3/Skill_800060.png",
+				"names": {
+					"en": "The Cherry Petal Memento",
+					"cn": "战忆之樱",
+					"jp": "今ヨリ戦ノ指揮ヲ執ル"
+				},
+				"description": "When this ship equips a Sakura Empire aircraft: launches a special Lv.1 (Lv.10) airstrike every 15s (DMG is based on the skill's level); if not equipping one, instead receives the following buff: the first 2 (4) times this ship is hit, the hits inflict 15.0% (35.0%) less DMG. After being hit 2 (4) times: this ship takes 4.5% (12.0%) less DMG and gains 4.5% (12.0%) EVA until the end of the battle.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/4/48/Skill_800070.png",
+				"names": {
+					"en": "Scorched Blade",
+					"cn": "破敌之炬",
+					"jp": "炬火の力・飛龍"
+				},
+				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: this ship deals 8% more DMG.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Number of Torpedo Bombers +1",
+				"Torpedo Bomber Efficiency +5%"
+			],
+			[
+				"Hangar Capacity +1",
+				"Number of Fighters +1",
+				"Torpedo Bomber Efficiency +10%"
+			],
+			[
+				"Number of All Planes +1",
+				"Torpedo Bomber Efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": null,
+			"pixiv": null,
+			"twitter": null,
+			"web": null,
+			"voice": {
+				"name": "Shizuka Ishigami",
+				"url": "https://en.wikipedia.org/wiki/Shizuka_Ishigami"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/Hiryuu_META.png/652px-Hiryuu_META.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c0/Hiryuu_METAChibi.png",
+				"info": {
+					"obtainedFrom": "Default",
+					"live2dModel": "No"
+				}
+			}
+		],
+		"gallery": []
+	},
 	"001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Universal_Bulin",
 		"id": "001",
