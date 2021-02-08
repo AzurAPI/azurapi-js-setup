@@ -4,22 +4,22 @@ Setup for [azurapi-js](https://www.npmjs.com/package/@azurapi/azurapi)
 
 ## Function
 
--   Updates `ships.json`, `ship-list.json`, `equipments.json` with fresh data
+- Updates `ships.json`, `ship-list.json`, `equipments.json` with fresh data
 
 ## Usage
 
 ### To update your own copy
 
--   Fetch `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/version-info.json`. `application/json`
--   Check respective version numbers from `ships`/`equipments`.
-    -   Example: `ships['version-number']`
--   If it is greater than the version number on your local copy. You need to update from either
-    -   `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json`
-    -   `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/equipments.json`
--   Overwrite your local copy, and reload it into your program
-    ### Cloning
--   Clone this repository
--   Update your local copy with
+- Fetch `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/version-info.json`. `application/json`
+- Check respective version numbers from `ships`/`equipments`.
+    - Example: `ships['version-number']`
+- If it is greater than the version number on your local copy. You need to update from either
+    - `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json`
+    - `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/equipments.json`
+- Overwrite your local copy, and reload it into your program
+  ### Cloning
+- Clone this repository
+- Update your local copy with
 
 ```javascript
 const azurlane = require("./index.js");
@@ -32,8 +32,8 @@ azurlane.publishShips();
 azurlane.publishEQ();
 ```
 
--   Bewared that this update program will use up a lot of bandwidth and processing power
--   To rely on local cache, remove all the `true` parameters
+- Bewared that this update program will use up a lot of bandwidth and processing power
+- To rely on local cache, remove all the `true` parameters
 
 ### JSON Types
 
@@ -48,6 +48,7 @@ type Stat = 'health' | 'armor' | 'reload' | 'luck' | 'firepower' | 'torpedo' | '
 type ShipID = string;
 type Rarity = 'Normal' | 'Rare' | 'Epic' | 'Super Rare' | 'Ultra Rare' | 'Priority' | 'Decisive';
 type LimitBreaks = string[];
+
 class Ship {
     wikiUrl: Url;    // An valid, full url to its wiki page
     id: ShipID;         // ID of ship, provided by the wiki (not in game id)
@@ -100,6 +101,7 @@ class Ship {
     };
     retrofit: boolean;                              // if the ship is retrofittable
     retrofitId: string;                             // the id after retrofit
+    retrofitHullType: string;                       // if the ship changes type
     retrofitProjects: Map<ProjectID, RetrofitProject>;
     construction: {
         constructionTime: string;
