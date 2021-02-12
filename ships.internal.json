@@ -5414,7 +5414,7 @@
 						"Large cruiser",
 						"Monitor"
 					],
-					"stat": "torpedo",
+					"stat": "accuracy",
 					"bonus": "+1"
 				}
 			},
@@ -88858,7 +88858,7 @@
 			{
 				"name": "Charmer in the Snowy Reflection",
 				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b2/MarbleheadChristmas.png/515px-MarbleheadChristmas.png",
-				"background": "https://azurlane.koumakan.jp/w/images/a/ad/Skin_BG_1102.jpg",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.koumakan.jp/w/images/2/24/MarbleheadChristmasChibi.png",
 				"info": {
 					"enClient": "Charmer in the Snowy Reflection",
@@ -99524,7 +99524,7 @@
 					"cn": "丹青不渝",
 					"jp": "丹青、色褪せず"
 				},
-				"description": "At the start of the battle: increases this ship's EVA by 6.0% (20.0%) and decreases its DMG taken by 6.0% (20.0%) until the end of the battle. When sortied with 1 or more other Dragon Empery ships: heals this ship for 5.0% HP at the start of the battle, increases its Speed by 5, and increases your fleet's AA by 6.0% (20.0%) for 50s.",
+				"description": "At the start of the battle: increases this ship's EVA by 6.0% (20.0%) and decreases its DMG taken by 6.0% (20.0%) until the end of the battle. When sortied with 1 or more other Dragon Empery ships: heals this ship for 8.0% HP at the start of the battle, increases its Speed by 5, and increases your fleet's AA by 6.0% (20.0%) for 50s.",
 				"color": "deepskyblue"
 			},
 			{
@@ -99757,7 +99757,7 @@
 					"cn": "舞衫歌扇",
 					"jp": "舞扇、歌に乗せて"
 				},
-				"description": "At the start of the battle: increases this ship's EVA by 6.0% (20.0%) and decreases its DMG taken by 6.0% (20.0%) until the end of the battle. When sortied with 1 or more other Dragon Empery ships: heals this ship for 5.0% HP at the start of the battle, increases its Speed by 5, and increases your fleet's AA by 6.0% (20.0%) for 50s.",
+				"description": "At the start of the battle: increases this ship's EVA by 6.0% (20.0%) and decreases its DMG taken by 6.0% (20.0%) until the end of the battle. When sortied with 1 or more other Dragon Empery ships: heals this ship for 5.0% HP at the start of the battle, increases its Speed by 8in-game text says 5, and increases your fleet's ASWin-game text says AA by 6.0% (20.0%) for 50s.",
 				"color": "deepskyblue"
 			},
 			{
