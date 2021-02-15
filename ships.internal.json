@@ -2852,6 +2852,20 @@
 					"cost": "780",
 					"live2dModel": "No"
 				}
+			},
+			{
+				"name": "Valentine's Reward?",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7b/AjaxSchool.png/657px-AjaxSchool.png",
+				"background": "https://azurlane.koumakan.jp/w/images/f/f9/Skin_BG_108.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b3/AjaxSchoolChibi.png",
+				"info": {
+					"enClient": "Valentine's Reward?",
+					"cnClient": "节日的“特别奖励”",
+					"jpClient": "バレンタインのご褒美？",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
 			}
 		],
 		"gallery": [
@@ -14822,7 +14836,7 @@
 					"enClient": "Lunar Demon",
 					"cnClient": "新岁之鬼神",
 					"jpClient": "波濤新歳",
-					"obtainedFrom": "Lunar New Year 2019 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2dModel": "No"
 				}
@@ -50473,6 +50487,20 @@
 					"enClient": "Summer Cleaning \"Volunteer\"",
 					"cnClient": "夏日清扫运动",
 					"jpClient": "夏の清掃ボランティア",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "After-School Promise",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b8/NicholasSchool.png/681px-NicholasSchool.png",
+				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/1/16/NicholasSchoolChibi.png",
+				"info": {
+					"enClient": "After-School Promise",
+					"cnClient": "放学后的“惊喜”？",
+					"jpClient": "放課後の約束",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2dModel": "No"
@@ -94941,6 +94969,22 @@
 					"enClient": "Seaside Training",
 					"cnClient": "浅海的特别训练",
 					"jpClient": "カヌートレーニング",
+					"obtainedFrom": "Skin Shop",
+					"cost": "780",
+					"live2dModel": "No"
+				}
+			},
+			{
+				"name": "Lolipop Paradise",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/51/PrincetonSchool.png/551px-PrincetonSchool.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/5/5d/PrincetonSchoolWithoutBG.png/799px-PrincetonSchoolWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/f/f9/Skin_BG_108.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/d/df/PrincetonSchoolChibi.png",
+				"info": {
+					"enClient": "Lolipop Paradise",
+					"cnClient": "心跳的糖果乐园",
+					"jpClient": "ロリポップ・饅頭ランド",
 					"obtainedFrom": "Skin Shop",
 					"cost": "780",
 					"live2dModel": "No"
