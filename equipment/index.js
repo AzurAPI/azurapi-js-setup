@@ -38,7 +38,7 @@ async function refreshEquipments(online) {
             let href = `https://azurlane.koumakan.jp${equipment_row.firstElementChild.firstElementChild.getAttribute("href")}`;
             let name = equipment_row.firstElementChild.firstElementChild.getAttribute("title");
             process.stdout.write("Fetching \"" + name + "\" calling => ");
-            EQUIPMENTS[name] = parseEquipment(href, category, await fetch(href, path.resolve(__dirname, '../web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html')));
+            EQUIPMENTS[name] = parseEquipment(name, href, category, await fetch(href, path.resolve(__dirname, '../web/equipments/' + category + '/' + name.replace(/\//g, "_") + '.html')));
             fs.writeFileSync(path.resolve(__dirname, '../equipments.internal.json'), JSON.stringify(EQUIPMENTS, null, '\t'));
             console.log(" Done");
         }
@@ -46,7 +46,7 @@ async function refreshEquipments(online) {
     }
 }
 
-function parseEquipment(href, category, body) {
+function parseEquipment(id, href, category, body) {
     const doc = new JSDOM(body).window.document;
     let tabs = doc.getElementsByClassName("eq-box");
     process.stdout.write("tab count = " + tabs.length + " .");
@@ -55,6 +55,7 @@ function parseEquipment(href, category, body) {
         category: category
     };
     let eq = {
+        id: id,
         wikiUrl: href,
         category: category,
         names: {
