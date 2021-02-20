@@ -9257,7 +9257,7 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/5/5e/Skill_11880.png",
 				"names": {
-					"en": "(Retrofit) The Royal Legend",
+					"en": "(Retrofit) The Royal Navy Legend",
 					"cn": "皇家传奇",
 					"jp": "レジェンドオブロイヤル"
 				},
@@ -9517,7 +9517,7 @@
 			"L": {
 				"name": "Tactical Learning",
 				"attributes": [
-					"Unlock Skill \"The Royal Legend\""
+					"Unlock Skill \"The Royal Navy Legend\""
 				],
 				"materials": [
 					"5x \"BattleshipT3BP\"",
@@ -50372,7 +50372,7 @@
 			"L": {
 				"name": "Tactical Learning",
 				"attributes": [
-					"\"Firepower\" +15"
+					"\"Firepower\" +15\nLearns skill \"Battle of Kula Gulf\""
 				],
 				"materials": [
 					"2x \"DestroyerT3BP\"",
@@ -94628,7 +94628,7 @@
 					"cn": "损伤警备",
 					"jp": null
 				},
-				"description": "For her first 3 battles of each sortie, reduce Gun damage taken by self by 10%. At start of battle, if fleet contains 2 or more Sakura Empire ships, increase own Speed by 10 [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+				"description": "For her first 3 battles of each sortie, reduce Gun damage taken by self by 1% (10%). At start of battle, if fleet contains 2 or more Sakura Empire ships, increase own Speed by 10 [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "deepskyblue"
 			},
 			{
@@ -94638,7 +94638,7 @@
 					"cn": "小心火焰！",
 					"jp": null
 				},
-				"description": "When equipped with Transport Gear, reduce self burn damage taken by 15%, and burn time by 6s.",
+				"description": "When equipped with Transport Gear, reduce self burn damage taken by 5% (15%), and burn time by 3s (6s).",
 				"color": "deepskyblue"
 			},
 			{
@@ -97234,7 +97234,7 @@
 			0,
 			1
 		],
-		"class": "Type IXA",
+		"class": "IXA",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/7/7c/U-37Icon.png",
@@ -99037,7 +99037,10 @@
 				"name": "傲娇团子DanGo",
 				"url": "http://weibo.com/soramiao"
 			},
-			"voice": null
+			"voice": {
+				"name": "Misaki Yoshioka",
+				"url": "http://mand-i.jp/talent/yoshioka-misaki/"
+			}
 		},
 		"skins": [
 			{
@@ -99246,7 +99249,71 @@
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
-				"huntingRange": []
+				"huntingRange": [
+					[
+						"",
+						"",
+						"4",
+						"5",
+						"4",
+						"",
+						""
+					],
+					[
+						"",
+						"*",
+						"",
+						"2",
+						"",
+						"*",
+						""
+					],
+					[
+						"*",
+						"",
+						"*",
+						"3",
+						"*",
+						"",
+						"*"
+					],
+					[
+						"*",
+						"*",
+						"*",
+						"S",
+						"*",
+						"*",
+						"*"
+					],
+					[
+						"*",
+						"",
+						"*",
+						"*",
+						"*",
+						"",
+						"*"
+					],
+					[
+						"",
+						"2",
+						"",
+						"2",
+						"",
+						"2",
+						""
+					],
+					[
+						"",
+						"",
+						"3",
+						"5",
+						"3",
+						"",
+						""
+					]
+				]
 			},
 			"level100": {
 				"health": "1051",
@@ -99264,7 +99331,71 @@
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
-				"huntingRange": []
+				"huntingRange": [
+					[
+						"",
+						"",
+						"4",
+						"5",
+						"4",
+						"",
+						""
+					],
+					[
+						"",
+						"*",
+						"",
+						"2",
+						"",
+						"*",
+						""
+					],
+					[
+						"*",
+						"",
+						"*",
+						"3",
+						"*",
+						"",
+						"*"
+					],
+					[
+						"*",
+						"*",
+						"*",
+						"S",
+						"*",
+						"*",
+						"*"
+					],
+					[
+						"*",
+						"",
+						"*",
+						"*",
+						"*",
+						"",
+						"*"
+					],
+					[
+						"",
+						"2",
+						"",
+						"2",
+						"",
+						"2",
+						""
+					],
+					[
+						"",
+						"",
+						"3",
+						"5",
+						"3",
+						"",
+						""
+					]
+				]
 			},
 			"level120": {
 				"health": "1261",
@@ -99282,7 +99413,71 @@
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
-				"huntingRange": []
+				"huntingRange": [
+					[
+						"",
+						"",
+						"4",
+						"5",
+						"4",
+						"",
+						""
+					],
+					[
+						"",
+						"*",
+						"",
+						"2",
+						"",
+						"*",
+						""
+					],
+					[
+						"*",
+						"",
+						"*",
+						"3",
+						"*",
+						"",
+						"*"
+					],
+					[
+						"*",
+						"*",
+						"*",
+						"S",
+						"*",
+						"*",
+						"*"
+					],
+					[
+						"*",
+						"",
+						"*",
+						"*",
+						"*",
+						"",
+						"*"
+					],
+					[
+						"",
+						"2",
+						"",
+						"2",
+						"",
+						"2",
+						""
+					],
+					[
+						"",
+						"",
+						"3",
+						"5",
+						"3",
+						"",
+						""
+					]
+				]
 			}
 		},
 		"slots": {
@@ -101797,7 +101992,7 @@
 			"level100": {
 				"health": "4892",
 				"armor": "Medium",
-				"reload": "115",
+				"reload": "118",
 				"luck": "36",
 				"firepower": "0",
 				"torpedo": "0",
@@ -101806,22 +102001,22 @@
 				"antiair": "274",
 				"aviation": "376",
 				"oilConsumption": "14",
-				"accuracy": "78",
+				"accuracy": "80",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
-				"health": "5644",
+				"health": "5699",
 				"armor": "Medium",
-				"reload": "136",
+				"reload": "142",
 				"luck": "36",
 				"firepower": "0",
 				"torpedo": "0",
-				"evasion": "58",
+				"evasion": "59",
 				"speed": "34",
-				"antiair": "308",
-				"aviation": "419",
+				"antiair": "312",
+				"aviation": "424",
 				"oilConsumption": "14",
-				"accuracy": "88",
+				"accuracy": "89",
 				"antisubmarineWarfare": "0"
 			}
 		},
@@ -130380,7 +130575,7 @@
 					"cn": "精密操作协议",
 					"jp": "精密射撃プロトコル"
 				},
-				"description": "[Regular]Main Gun can be fired twice per reload, and each salvo can be fired independently. This ship's damage bonus with manually aimed salvos becomes 25% (40%). Every 20 seconds after battle starts: 50% (100%) chance to fire a special barrage (damage is based on skill level).Barrage preview (gif), Enhanced barrage preview (gif)[Operation Siren]Each Main Gun reload gives this ship 2 Salvoes that can be fired independently (this effect is unaffected by your ship's damage status.) This ship's DMG bonus with manually aimed Salvoes becomes $2. Every 20s: $1 chance to fire a special barrage (barrage DMG is based on the skill's level.) [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+				"description": "[Regular]Main Gun can be fired twice per reload, and each salvo can be fired independently. This ship's damage bonus with manually aimed salvos becomes 25% (40%). Every 20 seconds after battle starts: 50% (100%) chance to fire a special barrage (damage is based on skill level).Barrage preview (gif), Enhanced barrage preview (gif)[Operation Siren]Each Main Gun reload gives this ship 2 Salvoes that can be fired independently (this effect is unaffected by your ship's damage status). This ship's DMG bonus with manually aimed Salvoes becomes 25% (40%). Every 20s: 50% (100%) chance to fire a special barrage (barrage DMG is based on the skill's level). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "pink"
 			},
 			{

@@ -12,7 +12,7 @@ async function refreshEQImages() {
     console.log("Equipments...");
     for (let key of Object.keys(EQUIPMENTS)) {
         let eq = EQUIPMENTS[key];
-        let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
+        let cleanName = key.replace(/[\s\/]+/g, "_");
         if (eq.image) await fetchImage(eq.image, path.resolve(__dirname, "../images/equipments/" + cleanName + ".png"));
         else console.log("Missing image " + key);
         if (eq.misc && eq.misc.animation) await fetchImage(eq.misc.animation, path.resolve(__dirname, "../images/equipments.animation/" + cleanName + ".gif"));
@@ -173,6 +173,14 @@ function parseEquipmentStatsSlot(valueNode) {
                 count: rawData[0].trim(),
                 unit: rawData[1].trim()
             };
+        } else if (value !== (rawData = value.replace(/([^→]+)→([^→\n]+)→([^→\n]+)/g, "$1|$2|$3"))) { // X → X'
+            rawData = rawData.split(/\|/);
+            data = {
+                type: "min_mid_max",
+                min: rawData[0].trim(),
+                mid: rawData[1].trim(),
+                max: rawData[2].trim()
+            };
         } else if (value !== (rawData = value.replace(/([^→]+)→([^→\n]+)/g, "$1|$2"))) { // X → X'
             rawData = rawData.split(/\|/);
             data = {
@@ -214,8 +222,10 @@ function parseEquipmentMisc(eqmisc) {
     let misc = {};
     for (let i = 1; i < rows.length; i++) {
         let row = rows[i];
-        let key = camelize(row.getElementsByTagName("TH")[0].textContent);
-        let col = row.getElementsByTagName("TD")[0];
+        if (row.classList.contains('mw-empty-elt')) continue;
+        // console.log(i, row.innerHTML, Array.from(rows));
+        let key = camelize(row.querySelector("th").textContent);
+        let col = row.querySelector("td");
         if (key === "obtainedFrom" || key === "notes") misc[key] = col.textContent;
         else if (key === "patternAnimation") misc.animation = "https://azurlane.koumakan.jp" + col.firstElementChild.firstElementChild.getAttribute("src");
         else if (key === "usedInGearLabFor") misc.usedFor = Array.from(col.children).map(elem => (elem.querySelector('a') || elem).title.replace(/\s+\(page does not exist\)/, ''));
@@ -227,13 +237,14 @@ function parseEquipmentMisc(eqmisc) {
 }
 
 function publishEQ() {
-    EQUIPMENTS_PUBLIC = {};
+    EQUIPMENTS_PUBLIC = [];
     for (let key of Object.keys(EQUIPMENTS)) {
         if (!EQUIPMENTS[key].names) continue;
-        EQUIPMENTS_PUBLIC[key] = clone(EQUIPMENTS[key]);
+        let eq = clone(EQUIPMENTS[key]);
         let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, '');
-        EQUIPMENTS_PUBLIC[key].image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
-        EQUIPMENTS_PUBLIC[key].misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
+        eq.image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
+        eq.misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
+        EQUIPMENTS_PUBLIC.push(eq);
         process.stdout.write('.');
     }
     let equipments_value = JSON.stringify(EQUIPMENTS_PUBLIC);
