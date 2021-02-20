@@ -1,8 +1,5 @@
 // This file is for fetching data from wiki
-const crypto = require('crypto');
-const fs = require('fs');
-const request = require('request');
-const JSDOM = require('jsdom').JSDOM;
+import 'reflect-metadata';
 
 const chapter = require('./chapter.js');
 const memory = require('./memory.js');
