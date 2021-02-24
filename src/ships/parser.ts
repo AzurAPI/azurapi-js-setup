@@ -17,11 +17,10 @@ import fs from "fs";
 import path from "path";
 import {JSDOM} from "jsdom";
 import {BASE, camelize, clone, deepToString, galleryThumbnailUrlToActualUrl, textOr} from "../utils";
+import {SHIP_LIST} from "./index";
 
 const Kuroshiro = require("kuroshiro");
 const KuromojiAnalyzer = require("kuroshiro-analyzer-kuromoji");
-const SHIP_LIST = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'dist', 'ship-list.json')).toString())
-
 const reference: { [s: string]: any } = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'azurapi-data', 'dist', 'ships.json')).toString());
 const types: { [s: string]: any } = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'azurapi-data', 'dist', 'types.json')).toString());
 let ID_PATH = path.join(__dirname, '..', '..', 'dist', 'id-map.json');
