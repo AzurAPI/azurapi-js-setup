@@ -14,25 +14,7 @@ const {camelize} = require("./utils");
 function timeout(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
-async function refreshChapter(online) {
-    let namesHTML;
-    process.stdout.write("Refreshing Chapter Names");
-    if (!fs.existsSync('./web/chapters/names.html') || online) fs.writeFileSync('./web/chapters/names.html', namesHTML = await fetch("https://azurlane.koumakan.jp/Campaign"));
-    else namesHTML = fs.readFileSync('./web/chapters/names.html', 'utf8');
-    let names = parseChaptersNames(namesHTML);
-    process.stdout.write("  Done\n");
-    console.log(JSON.stringify(names));
-    for (let i = 1; i <= 13; i++) {
-        let data;
-        process.stdout.write("Refreshing Chapter " + i + " Details");
-        if (!fs.existsSync('./web/chapters/' + i + '.html') || online) fs.writeFileSync('./web/chapters/' + i + '.html', data = await fetch("https://azurlane.koumakan.jp/Chapter_" + i));
-        else data = fs.readFileSync('./web/chapters/' + i + '.html', 'utf8');
-        CHAPTERS[i] = chapter.parseChapter(new JSDOM(data).window.document, i, names);
-        fs.writeFileSync('./chapters.json', JSON.stringify(CHAPTERS, null, '\t'));
-        console.log("\nDone");
-    }
-    fs.writeFileSync('./chapters.min.json', JSON.stringify(CHAPTERS));
-}
+
 
 async function refreshMemory(online) {
     let data;
@@ -68,24 +50,7 @@ async function publishMemoriesAndImages() {
     }
 }
 
-function parseChaptersNames(body) {
-    let names = {};
-    const doc = new JSDOM(body).window.document;
-    let rows = doc.querySelector(".wikitable tbody").children;
-    for (let i = 0; i < 13; i++) {
-        names[i + 1] = {
-            en: rows[i * 5 + 1].children[1].textContent.trim(),
-            cn: rows[i * 5 + 1].children[2].textContent.trim(),
-            jp: rows[i * 5 + 1].children[3].textContent.trim()
-        };
-        for (let j = 1; j <= 4; j++) names[rows[i * 5 + j + 1].children[0].textContent.trim()] = {
-            en: rows[i * 5 + j + 1].children[1].textContent.trim(),
-            cn: rows[i * 5 + j + 1].children[2].textContent.trim(),
-            jp: rows[i * 5 + j + 1].children[3].textContent.trim()
-        };
-    }
-    return names;
-}
+
 
 // Promise Wrapper for request, I dont trust their own promise support
 

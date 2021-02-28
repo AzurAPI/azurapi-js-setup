@@ -1,7 +1,15 @@
-import * as ships from './ships';
-import {FORMATTED_SHIPS_PATH, INTERNAL_SHIPS_PATH, SHIP_LIST_PATH, SHIPS_PATH} from './ships';
+import {
+    FORMATTED_SHIPS_PATH,
+    INTERNAL_SHIPS_PATH,
+    publishShips,
+    refreshShipImages,
+    refreshShips,
+    SHIP_LIST_PATH,
+    SHIPS_PATH
+} from './ships';
 import fs from 'fs'
 import path from "path";
+import {refreshChapter} from "./chapters";
 
 (async function () {
     let args = process.argv.slice(2);
@@ -18,16 +26,27 @@ import path from "path";
                 deleteIfExist(FORMATTED_SHIPS_PATH);
                 console.log("Ship Data Reset");
             } else if (args[1] === 'img') {
-                await ships.refreshShipImages();
+                await refreshShipImages();
                 console.log("Ship Images Refreshed");
             } else if (args[1] === 'publish') {
-                await ships.publishShips();
+                await publishShips();
                 fs.copyFileSync(path.join(__dirname, '..', 'dist', 'ships.json'), path.join(__dirname, '..', 'ships.json'));
                 fs.copyFileSync(path.join(__dirname, '..', 'dist', 'version.json'), path.join(__dirname, '..', 'version-info.json'));
                 console.log("Ships Published");
             } else {
-                await ships.refreshShips();
+                await refreshShips();
                 console.log("Ships Refreshed");
+            }
+            break;
+        case 'chapter':
+        case 'chapters':
+            if (args[1] === 'reset') {
+                clearFiles(path.join(__dirname, '..', 'web', 'chapters'));
+                deleteIfExist(FORMATTED_SHIPS_PATH);
+                console.log("Chapters Data Reset");
+            } else {
+                await refreshChapter();
+                console.log("Chapters Refreshed");
             }
     }
 })();
