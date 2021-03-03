@@ -3,7 +3,7 @@ import {Ship, Skill} from "./ship";
 import fs from "fs";
 import path from "path";
 import {JSDOM} from "jsdom";
-import cliProgress from "cli-progress";
+import cliProgress, {SingleBar} from "cli-progress";
 import {clone, fetch, fetchImage, getHash, timeout} from "../utils";
 import {fetchGallery} from "./gallery";
 
@@ -50,6 +50,7 @@ export async function refreshShips() {
             console.log("Error", key, e);
         }
     }
+    bar.stop();
 }
 
 async function fetchShip(id: string, name: string): Promise<Ship> {
@@ -79,6 +80,7 @@ async function fetchShipList() {
         };
         bar.increment();
     });
+    bar.stop();
     LIST['30001'] = {
         id: '30001',
         name: "Hiryuu META",
@@ -94,31 +96,35 @@ export async function refreshShipImages() {
     let keys = Object.keys(SHIPS_INTERNAL);
     const bar = progress.create(keys.length, 0);
     const secondbar = progress.create(0, 0);
+    const thirdbar = progress.create(0, 0);
     for (let key of keys) {
         let ship = SHIPS_INTERNAL[key];
         let root_folder = path.join(ROOT, `images/skins/${ship.id}`) + "/";
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
-        await fetchImage(ship.thumbnail, root_folder + "thumbnail.png");
+        await fetchImage(ship.thumbnail, root_folder + "thumbnail.png", thirdbar);
         bar.increment();
         secondbar.setTotal(ship.skins.length);
         secondbar.update(0);
         for (let skin of ship.skins) {
             let skin_folder = skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_") + "/";
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
-            if (skin.image) await fetchImage(skin.image, root_folder + skin_folder + 'image.png');
-            if (skin.cn) await fetchImage(skin.cn, root_folder + skin_folder + 'image.cn.png');
-            if (skin.nobg) await fetchImage(skin.nobg, root_folder + skin_folder + 'image.nobg.png');
-            if (skin.chibi) await fetchImage(skin.chibi, root_folder + skin_folder + 'chibi.png');
+            if (skin.image) await fetchImage(skin.image, root_folder + skin_folder + 'image.png', thirdbar);
+            if (skin.cn) await fetchImage(skin.cn, root_folder + skin_folder + 'image.cn.png', thirdbar);
+            if (skin.nobg) await fetchImage(skin.nobg, root_folder + skin_folder + 'image.nobg.png', thirdbar);
+            if (skin.chibi) await fetchImage(skin.chibi, root_folder + skin_folder + 'chibi.png', thirdbar);
             else if (skin.name !== "Original Art" && !ship.unreleased) console.log(`${ship.names.en} is missing a chibi for ${skin.name}`);
-            if (skin.background) await fetchImage(skin.background, path.join(ROOT, `images/backgrounds/${skin.background.substring(skin.background.lastIndexOf('/') + 1)}`));
+            if (skin.background) await fetchImage(skin.background, path.join(ROOT, `images/backgrounds/${skin.background.substring(skin.background.lastIndexOf('/') + 1)}`), thirdbar);
             secondbar.increment();
         }
         if (ship.unreleased) continue;
-        await Promise.all(ship.gallery.filter(item => !(!item.url)).map(item => fetchImage(item.url, path.join(ROOT, `images/gallery/${item.url.substring(item.url.lastIndexOf('/') + 1)}`))));
+        await Promise.all(ship.gallery.filter(item => !(!item.url)).map(item => fetchImage(item.url, path.join(ROOT, `images/gallery/${item.url.substring(item.url.lastIndexOf('/') + 1)}`), thirdbar)));
         if (!fs.existsSync(path.resolve(ROOT, "images/skills", key))) fs.mkdirSync(path.join(ROOT, "images/skills", key));
-        for (let skill of ship.skills) await getSkillIcon(key, skill, ship.skills, ship.skills.map(s => transformSkillName(s.names.en)));
+        for (let skill of ship.skills) await getSkillIcon(key, skill, ship.skills, ship.skills.map(s => transformSkillName(s.names.en)), thirdbar);
         shipCounter++;
     }
+    bar.stop();
+    secondbar.stop();
+    thirdbar.stop();
     console.log("\nDone");
 }
 
@@ -156,6 +162,7 @@ export function publishShips() {
         bar.increment({filename: ship.names.code})
         SHIPS.push(ship);
     }
+    bar.stop();
     SHIPS.sort((a, b) => a.names.en < b.names.en ? -1 : a.names.en > b.names.en ? 1 : 0);
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync(SHIPS_PATH, ships_value);
@@ -174,13 +181,13 @@ function publishSkill(id: string, skill: Skill, skills: Skill[], names: string[]
     return skill;
 }
 
-async function getSkillIcon(key: string, skill: Skill, skills: Skill[], names: string[]) {
+async function getSkillIcon(key: string, skill: Skill, skills: Skill[], names: string[], bar?: SingleBar) {
     if (!skill) return;
     let skillName = transformSkillName(skill.names.en);
     let spath;
     if (names.filter(n => n === skillName).length > 1) spath = path.resolve(ROOT, "images/skills/" + key + "/" + skill.color + "." + skillName + ".png");
     else spath = path.resolve(ROOT, "images/skills/" + key + "/" + skillName + ".png");
-    if (skill.icon !== null) await fetchImage(skill.icon, spath);
+    if (skill.icon !== null) await fetchImage(skill.icon, spath, bar);
 }
 
 function transformSkillName(name: String) {

@@ -2,6 +2,7 @@ import fs from 'fs';
 import crypto from "crypto";
 import node_fetch from "node-fetch";
 import path from "path";
+import {SingleBar} from "cli-progress";
 
 const HEADERS = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
@@ -16,7 +17,7 @@ let PATH_SIZE = JSON.parse(fs.readFileSync(PATH_SIZE_FILE).toString());
 
 export function verifyFile(url: string, localPath: string): boolean {
     if (!(fs.existsSync(localPath) && PATH_SIZE[url])) return false;
-    return fs.statSync(localPath)["size"] === PATH_SIZE[url];
+    return Number(fs.statSync(localPath)["size"]) === Number(PATH_SIZE[url]);
 }
 
 export function fetch(url: string, localPath: string): Promise<string> {
@@ -31,21 +32,28 @@ export function fetch(url: string, localPath: string): Promise<string> {
     });
 }
 
-export function fetchImage(url: string, localPath: string): Promise<void> {
+export function fetchImage(url: string, localPath: string, bar?: SingleBar): Promise<void> {
     if (!url) return Promise.resolve();
     if (url.includes("thumb")) url = galleryThumbnailUrlToActualUrl(url);
     return new Promise((resolve, reject) => {
         if (fs.existsSync(localPath)) if (verifyFile(url, localPath)) return resolve(); else {
+            console.log("Corrupted", url, localPath);
+            console.log(fs.statSync(localPath)["size"], PATH_SIZE[url]);
+            delete PATH_SIZE[url];
             fs.unlinkSync(localPath);
-            fetchImage(url, localPath).then(resolve);
         }
+        bar.update(0);
         node_fetch(url, {
             headers: HEADERS,
         }).then(res => {
             PATH_SIZE[url] = res.headers.get("content-length");
+            bar.setTotal(PATH_SIZE[url]);
             fs.writeFileSync(PATH_SIZE_FILE, JSON.stringify(PATH_SIZE));
-            return res.body.pipe(fs.createWriteStream(localPath)).on('close', () => resolve()).on('error', reject);
-        });
+            res.body.on('data', data => bar.increment(data.length));
+            res.body.pipe(fs.createWriteStream(localPath))
+                .on('finish', () => resolve())
+                .on('error', () => reject());
+        })
     });
 }
 

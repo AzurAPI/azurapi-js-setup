@@ -5,9 +5,10 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "reset": "node refresh_ships.js",
-        "refill": "node refill_ships.js",
-        "reset_ships_images": "node -e 'require(\\\"src/ships/index.js\\\").refreshShipImages()'"
+        "reset": "node build/index.js ships reset",
+        "ships": "node build/index.js ships",
+        "images": "node build/index.js ships img",
+        "publish": "node build/index.js ships publish"
     },
     "author": "",
     "repository": {
