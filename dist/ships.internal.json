@@ -7255,7 +7255,7 @@
 					"cn": "Terror Field",
 					"jp": "†ダークネスフィールド†"
 				},
-				"description": "Decreases damage taken from burning and suicide boat by 20% (40%) and from HE shells by 5% (15%). Increases secondary gun's critical hit chance by 40% (70%) and ignores armor type (damage based on Skill Level).",
+				"description": "Decreases damage taken from burning and suicide boat by 20% (40%) and from HE shells by 5% (15%). Increases secondary gun's critical hit chance by 40% (70%) and ignores armor type (100%L/100%M/100%H).",
 				"color": "gold"
 			},
 			{
@@ -12330,7 +12330,7 @@
 					"cn": "装甲空母",
 					"jp": "装甲空母"
 				},
-				"description": "Every time Illustrious launches an airstrike, applies a shield around ships in the Vanguard Fleet for 8s equal to 5% (10%) of Illustrious's HP",
+				"description": "When this ship launches an airstrike, apply an HP barrier on each ship in your vanguard. The barrier can absorb up to 5.0% (10.0%) of this ship's maximum HP and lasts for up to 8 seconds.",
 				"color": "gold"
 			}
 		],
@@ -30507,6 +30507,20 @@
 					"jpClient": "御狐の輝振袖",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Guardian Fox's Vacation",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/2/2d/NagatoCasual.png/557px-NagatoCasual.png",
+				"background": "https://azurlane.koumakan.jp/w/images/2/25/Skin_BG_142.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/04/NagatoCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Guardian Fox's Vacation",
+					"cnClient": "神子的闲暇一刻",
+					"jpClient": "御狐の休暇日",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
@@ -43003,6 +43017,19 @@
 					"jpClient": "ゴージャス・ヴァイオレット",
 					"cost": 800
 				}
+			},
+			{
+				"name": "Da Bao's Friend!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/3d/Ning_HaiCasual.png/430px-Ning_HaiCasual.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/3/3e/Ning_HaiCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "",
+					"enClient": "Da Bao's Friend!",
+					"cnClient": "大宝的伙伴！",
+					"jpClient": "ダーバオの友達"
+				}
 			}
 		],
 		"gallery": [
@@ -43595,6 +43622,19 @@
 					"cnClient": "甜蜜嫣红",
 					"jpClient": "デリシャス・クリムゾン",
 					"cost": 1100
+				}
+			},
+			{
+				"name": "Baobao's Buddy!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a3/Ping_HaiCasual.png/501px-Ping_HaiCasual.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/1/12/Ping_HaiCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "",
+					"enClient": "Baobao's Buddy!",
+					"cnClient": "二宝的伙伴！",
+					"jpClient": "アーバオの友達"
 				}
 			}
 		],
@@ -54675,6 +54715,22 @@
 					"jpClient": "花見日和",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Reverence for Rest and Relaxation",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/01/MikasaCasual.png/516px-MikasaCasual.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/6/6e/MikasaCasualWithoutBG.png/811px-MikasaCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b1/MikasaCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Reverence for Rest and Relaxation",
+					"cnClient": "养精蓄锐的假日",
+					"jpClient": "余暇、休養、大切に",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
@@ -64420,6 +64476,20 @@
 					"jpClient": "サマー・ルーちゃん！",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Dreamy Dolce",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/75/Le_T%C3%A9m%C3%A9raireCasual.png/490px-Le_T%C3%A9m%C3%A9raireCasual.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/a/ae/Le_T%C3%A9m%C3%A9raireCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Dreamy Dolce",
+					"cnClient": "Dream.Dolce",
+					"jpClient": "ドリーム・ドルチェ",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": [
@@ -69553,9 +69623,25 @@
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
 					"enClient": "The Independent Line",
-					"cnClient": "skin unavailable",
-					"jpClient": "skin unavailable",
+					"cnClient": "「独立」品牌",
+					"jpClient": "ブランディング・I",
 					"cost": 800
+				}
+			},
+			{
+				"name": "Liberty and Leisure",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/60/IndependenceCasual.png/612px-IndependenceCasual.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/7/7d/IndependenceCasualWithoutBG.png/729px-IndependenceCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c6/IndependenceCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Liberty and Leisure",
+					"cnClient": "Relaxation.I",
+					"jpClient": "リラクゼーション・I",
+					"cost": 780
 				}
 			}
 		],
@@ -79923,7 +80009,7 @@
 					"cn": "热情火炎Fever",
 					"jp": "速射榴弾フィーバーμ"
 				},
-				"description": "At the start of the battle and 40.0% (70.0%) chance every 20s after that: for 12s changes this ship's Main Gun ammo to µ Red. These are HE shells with a 100%/110%/90% (110%/120%/100%) modifier.",
+				"description": "At the start of the battle and 40.0% (70.0%) chance every 20s after that: for 12s changes this ship's Main Gun ammo type to µ Red. These are HE shells with a 100%/110%/90% (110%/120%/100%) modifier.",
 				"color": "pink"
 			},
 			{
@@ -82204,6 +82290,10 @@
 			{
 				"description": "Pamiat Merkuria, Grozny, Gangut, Sovetskaya Rossiya, Chapayev, Tashkent, Minsk",
 				"url": "https://azurlane.koumakan.jp/w/images/5/53/Bg_2020.02.27_3.png"
+			},
+			{
+				"description": "Minsk",
+				"url": "https://azurlane.koumakan.jp/w/images/d/dc/Bg_2021.02.25_2.png"
 			}
 		]
 	},
@@ -82476,6 +82566,10 @@
 			{
 				"description": "Tashkent, Sovetskaya Rossiya, Chapayev",
 				"url": "https://azurlane.koumakan.jp/w/images/9/95/Bg_2020.08.13_4.png"
+			},
+			{
+				"description": "Chapayev, Sovetskaya Rossiya, Tashkent",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f5/Bg_2021.02.25_3.png"
 			}
 		]
 	},
@@ -83226,7 +83320,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Gremyashchy, Kirov, Sovetskaya Belorussiya",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.02.25_4.png"
+			}
+		]
 	},
 	"436": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Chapayev",
@@ -83496,6 +83595,10 @@
 			{
 				"description": "Tashkent, Sovetskaya Rossiya, Chapayev",
 				"url": "https://azurlane.koumakan.jp/w/images/9/95/Bg_2020.08.13_4.png"
+			},
+			{
+				"description": "Chapayev, Sovetskaya Rossiya, Tashkent",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f5/Bg_2021.02.25_3.png"
 			}
 		]
 	},
@@ -83981,7 +84084,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Gremyashchy, Kirov, Sovetskaya Belorussiya",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.02.25_4.png"
+			}
+		]
 	},
 	"441": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Sovetskaya_Rossiya",
@@ -84224,6 +84332,10 @@
 			{
 				"description": "Tashkent, Sovetskaya Rossiya, Chapayev",
 				"url": "https://azurlane.koumakan.jp/w/images/9/95/Bg_2020.08.13_4.png"
+			},
+			{
+				"description": "Chapayev, Sovetskaya Rossiya, Tashkent",
+				"url": "https://azurlane.koumakan.jp/w/images/f/f5/Bg_2021.02.25_3.png"
 			}
 		]
 	},
@@ -87228,7 +87340,7 @@
 					"cn": "圣女的祷告",
 					"jp": "神聖なる祈り"
 				},
-				"description": "10 seconds after the battle starts and every 20 seconds after that, give each vanguard ship a shield. Each shield can block up to 1.5% (6.0%) of Jeanne's maximum HP, and lasts up to 8 seconds.\nIf a ship's shield breaks before its duration expires, that ship will evade all attacks for the next 2s.\nIf a ship's shield expires without breaking, heal that ship for 70 hp.",
+				"description": "10 seconds after the battle starts and every 20 seconds after that, give each vanguard ship an HP barrier. Each barrier can block up to 1.5% (6.0%) of Jeanne's maximum HP, and lasts up to 8 seconds.\nIf a ship's barrier breaks before its duration expires, that ship will become invincible for 2 seconds.\nIf a ship's barrier expires without breaking, heal that ship for 70 hitpoints.",
 				"color": "deepskyblue"
 			},
 			{
@@ -97401,7 +97513,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Gremyashchy, Kirov, Sovetskaya Belorussiya",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.02.25_4.png"
+			},
+			{
+				"description": "Murmansk, Sovetsky Soyuz, Gremyashchy",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fd/Bg_2021.02.25_5.png"
+			}
+		]
 	},
 	"498": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Murmansk",
@@ -97637,7 +97758,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Murmansk, Sovetsky Soyuz, Gremyashchy",
+				"url": "https://azurlane.koumakan.jp/w/images/f/fd/Bg_2021.02.25_5.png"
+			}
+		]
 	},
 	"499": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Gromky",
@@ -127296,7 +127422,7 @@
 					"cn": "苝流·一致斩",
 					"jp": "北風流・イッチ文字斬り"
 				},
-				"description": "Main Gun damage is not affected by enemy's armor type; Main Gun always inflict 100% (115%) damage to all enemies. If equipped with an IJN (Sakura Empire) DD Gun: increases Main Gun efficiency by 5% (15%).",
+				"description": "Main Gun's ammo type is changed to Normal with 100/100/100 (115/115/115) modifiers. If equipped with an IJN (Sakura Empire) DD Gun: increases Main Gun efficiency by 5% (15%).",
 				"color": "gold"
 			},
 			{
