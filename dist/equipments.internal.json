@@ -6091,6 +6091,24 @@
 						"per": "volley",
 						"formatted": "2.27s → 1.67s   per volley"
 					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 60,
+						"shell": 50,
+						"formatted": "Firing: 60\nShell: 50"
+					},
 					"volley": {
 						"type": "multiplier_count_unit",
 						"multiplier": "2",
@@ -8370,16 +8388,16 @@
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
-						"multiplier": "1",
-						"count": "3",
+						"multiplier": "3",
+						"count": "1",
 						"unit": "shells",
-						"formatted": "1 × 3 shells"
+						"formatted": "3 × 1 shells"
 					},
 					"volleyTime": {
 						"type": "value_unit",
-						"value": "0.10",
+						"value": "0.30",
 						"unit": "s",
-						"formatted": "0.10s"
+						"formatted": "0.30s"
 					},
 					"coefficient": {
 						"type": "value_unit",
@@ -8450,16 +8468,16 @@
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
-						"multiplier": "1",
-						"count": "3",
+						"multiplier": "3",
+						"count": "1",
 						"unit": "shells",
-						"formatted": "1 × 3 shells"
+						"formatted": "3 × 1 shells"
 					},
 					"volleyTime": {
 						"type": "value_unit",
-						"value": "0.10",
+						"value": "0.30",
 						"unit": "s",
-						"formatted": "0.10s"
+						"formatted": "0.30s"
 					},
 					"coefficient": {
 						"type": "min_max",
@@ -8562,6 +8580,12 @@
 						"max": "2.68s",
 						"per": "volley",
 						"formatted": "3.23s → 2.68s   per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -13711,8 +13735,8 @@
 			"notes": "Fires 1 volley with 3 projectiles in an arc towards the target.",
 			"usedFor": [
 				"",
-				"Triple 203mm (8\"/55 Mk 15) T0",
-				"Triple 203mm (8\"/55 Mk 15) T0"
+				"Triple 203mm (8\"/55 Mk 15 SHS)",
+				"Triple 203mm (8\"/55 Mk 15 SHS)"
 			],
 			"animation": "https://azurlane.koumakan.jp/w/images/2/28/Bullet_pattern_equip_13040.gif",
 			"obtainedFrom": "4-3, 7-3, 8-3, 8-4, 13-1, T3/T4 Eagle Tech Box, Gear Lab"
@@ -15228,9 +15252,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "26",
+						"value": "25",
 						"unit": "°",
-						"formatted": "26°"
+						"formatted": "25°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -18696,11 +18720,11 @@
 			"destroyer": null,
 			"lightCruiser": null,
 			"heavyCruiser": null,
-			"monitor": "primary",
-			"largeCruiser": null,
-			"battleship": "primary",
-			"battlecruiser": "primary",
-			"aviationBattleship": "primary",
+			"monitor": null,
+			"largeCruiser": "primary",
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
 			"aircraftCarrier": null,
 			"lightCarrier": null,
 			"repairShip": null,
@@ -18708,14 +18732,14 @@
 			"submarine": null,
 			"submarineCarrier": null
 		},
-		"image": "https://azurlane.koumakan.jp/w/images/a/a7/44300.png",
+		"image": "https://azurlane.koumakan.jp/w/images/d/dd/44400.png",
 		"misc": {
 			"blueprints": "",
 			"madeFrom": [],
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (series 3)."
+			"obtainedFrom": "Acquired through research only (series 4)."
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
@@ -18742,32 +18766,29 @@
 						"multiplier": "3",
 						"formatted": "57 × 3 → 105 × 3"
 					},
-					"oPSDamageBoost": {
-						"type": "min_max",
-						"min": "0",
-						"max": "3%",
-						"formatted": "0 → 3%"
-					},
 					"rateOfFire": {
-						"type": "min_max_per",
-						"min": "24.18s",
-						"max": "18.20s",
-						"per": "volley",
-						"formatted": "24.18s → 18.20s   per volley"
+						"type": "min_max",
+						"min": "11.30s",
+						"max": "8.97s",
+						"formatted": "11.30s → 8.97s"
 					},
 					"spread": {
-						"type": "value",
-						"formatted": "19"
+						"type": "value_unit",
+						"value": "26",
+						"unit": "°",
+						"formatted": "26°"
 					},
 					"angle": {
 						"type": "value_unit",
-						"value": "50",
+						"value": "40",
 						"unit": "°",
-						"formatted": "50°"
+						"formatted": "40°"
 					},
 					"range": {
-						"type": "value",
-						"formatted": "200"
+						"type": "range",
+						"firing": 70,
+						"shell": 70,
+						"formatted": "Firing: 70\nShell: 70"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -18784,15 +18805,15 @@
 					},
 					"coefficient": {
 						"type": "min_max",
-						"min": "100%",
-						"max": "118%",
-						"formatted": "100% → 118%"
+						"min": "110%",
+						"max": "130%",
+						"formatted": "110% → 130%"
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE (140",
-						"unit": "/ 110",
-						"formatted": "HE (140 / 110 / 90)"
+						"value": "AP* (75",
+						"unit": "/ 115",
+						"formatted": "AP* (75 / 115 / 75)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -18803,7 +18824,7 @@
 		],
 		"type": {
 			"focus": "Firepower",
-			"name": "BB Gun"
+			"name": "CB Gun"
 		},
 		"id": "Triple 305mm (SK C/39 Prototype)",
 		"wikiUrl": "https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)",
@@ -23422,7 +23443,7 @@
 			"notes": "Has a splash radius of 16, compared to 15 for most BB shells.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (series 2)."
+			"obtainedFrom": "Acquired through research (series 2) or the Prototype Shop (limited to 50 blueprints total)."
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
@@ -41960,7 +41981,7 @@
 				"Yokosuka D4Y Suisei#Type 3",
 				"Yokosuka D4Y Suisei"
 			],
-			"notes": "Currently available only for BBV. Unsure if this is a bug. Will update if this changes as all other seaplanes are usable on I-13.",
+			"notes": "Currently available only for BBV.",
 			"usedFor": [],
 			"animation": "",
 			"obtainedFrom": "Gear Lab only."
@@ -48278,7 +48299,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (series 1)."
+			"obtainedFrom": "Acquired through research only (Series 1/4)"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -50409,6 +50430,827 @@
 		"names": {
 			"en": "Triple 406mm MK7 Main Gun",
 			"cn": "三联装406mm主炮MK7",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Twin 114mm (QF Mk IV)": {
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "secondary",
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/5/5d/21600.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "https://azurlane.koumakan.jp/w/images/3/37/Bullet_pattern_equip_21400.gif",
+			"obtainedFrom": "Acquired through research only (series 3)."
+		},
+		"nationality": "Royal Navy",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "20"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "13",
+						"multiplier": "4",
+						"formatted": "4 × 4 → 13 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.25s",
+						"max": "1.01s",
+						"per": "volley",
+						"formatted": "1.25s → 1.01s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "125%",
+						"max": "148%",
+						"formatted": "125% → 148%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (100",
+						"unit": "/ 50",
+						"formatted": "Normal (100 / 50 / 20)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"id": "Twin 114mm (QF Mk IV)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV)",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Twin 114mm Mk IV Dual-Purpose Gun Mount",
+			"cn": "双联装114mm高平两用炮Mark IV",
+			"jp": "114mm連装両用砲MarkIV",
+			"kr": "2연장 114mm 양용포 Mark IV"
+		}
+	},
+	"Triple 203mm (8\"/55 Mk 15 SHS)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": "primary",
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/5/5a/13160.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [
+				"",
+				"Triple 203mm (8\"/55 Mk 15)#Type 3",
+				"Triple 203mm (8\"/55 Mk 15)"
+			],
+			"notes": "",
+			"usedFor": [],
+			"animation": "https://azurlane.koumakan.jp/w/images/7/79/Bullet_pattern_equip_13160.gif",
+			"obtainedFrom": "Gear Lab"
+		},
+		"nationality": "Eagle Union",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "27",
+						"max": "51",
+						"multiplier": "6",
+						"formatted": "27 × 6 → 51 × 6"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.94s",
+						"max": "7.62s",
+						"per": "volley",
+						"formatted": "9.94s → 7.62s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "22",
+						"unit": "° random aim",
+						"formatted": "22° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "40",
+						"unit": "°",
+						"formatted": "40°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 50,
+						"formatted": "Firing: 70\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "105%",
+						"max": "124%",
+						"formatted": "105% → 124%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "AP+ (75",
+						"unit": "/ 110",
+						"formatted": "AP+ (75 / 110 / 85)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"id": "Triple 203mm (8\"/55 Mk 15 SHS)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_Mk_15_SHS)",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"en": "Triple 203mm Mk 15 Main Gun Mount",
+			"cn": "三联装203mm主炮Mk15",
+			"jp": "203mm三連装砲Mk15",
+			"kr": "3연장 203mm 주포 Mk15"
+		}
+	},
+	"Triple 406mm (Model 1940 Prototype)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": "primary",
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/1/15/55900.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Acquired through research only (series 4)."
+		},
+		"nationality": "Sardegna Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "53",
+						"max": "153",
+						"multiplier": "3",
+						"formatted": "53 × 3 → 153 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "29.94s",
+						"max": "23.94s",
+						"per": "volley",
+						"formatted": "29.94s → 23.94s   per volley"
+					},
+					"spread": {
+						"type": "value",
+						"formatted": "20"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "value",
+						"formatted": "200"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "105%",
+						"max": "124%",
+						"formatted": "105% → 124%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "SAP (100",
+						"unit": "/ 150",
+						"formatted": "SAP (100 / 150 / 50)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"id": "Triple 406mm (Model 1940 Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Triple_406mm_(Model_1940_Prototype)",
+		"category": "Battleship Guns",
+		"names": {
+			"en": "Prototype Triple 406mm Model 1940 Main Gun",
+			"cn": "试作型三联装406mm主炮Model1940",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Messerschmitt Bf 109G (Carrier-based Prototype)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/e/ee/47160.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "The BF-109G will not intercept enemy planes.Despite the in-game text, this aircraft fires four rockets, not two.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Acquired through research only (series 4)."
+		},
+		"nationality": "Iron Blood",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_mid_max",
+						"min": "42",
+						"mid": "105",
+						"max": "124",
+						"formatted": "42 → 105 → 124"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "14s",
+						"max": "10.58s",
+						"per": "wave",
+						"formatted": "14s → 10.58s   per wave"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "50"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "10"
+					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "65"
+					},
+					"aAGuns": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "1",
+								"unit": "20mm MG151 Cannon T3",
+								"formatted": "1 x 20mm MG151 Cannon T3"
+							},
+							{
+								"type": "count_unit",
+								"count": "2",
+								"unit": "7.92mm MG17 MG T3",
+								"formatted": "2 x 7.92mm MG17 MG T3"
+							}
+						]
+					},
+					"ordnance": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "4",
+								"unit": "AP Rocket Bomb T0",
+								"formatted": "4 x AP Rocket Bomb T0"
+							}
+						]
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Aviation",
+			"name": "Fighter"
+		},
+		"id": "Messerschmitt Bf 109G (Carrier-based Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Messerschmitt_Bf_109G_(Carrier-based_Prototype)",
+		"category": "Fighter Planes",
+		"names": {
+			"en": "Prototype BF-109G",
+			"cn": null,
+			"jp": "試作型BF-109G（特別計画艦仕様）",
+			"kr": null
+		}
+	},
+	"Nakajima J5N Tenrai (Dive Bomber Prototype)": {
+		"fits": {
+			"destroyer": "Shirakami Fubuki only",
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/7/7b/39340.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "24% chance to inflict armour break, does not stack. Unlike battleship AP shelling, can inflict armour break on targets of any armour class.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Acquired through research only (series 4)."
+		},
+		"nationality": "Sakura Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Ultra Rare",
+				"stars": {
+					"stars": "★★★★★★",
+					"value": 6
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "65"
+					},
+					"planeHealth": {
+						"type": "min_mid_max",
+						"min": "45",
+						"mid": "120",
+						"max": "133",
+						"formatted": "45 → 120 → 133"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "14.39s",
+						"max": "12.00s",
+						"per": "wave",
+						"formatted": "14.39s → 12.00s   per wave"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "52"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "1.1"
+					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "208"
+					},
+					"aAGuns": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "2",
+								"unit": "20mm Type-99 Cannon T3",
+								"formatted": "2 x 20mm Type-99 Cannon T3"
+							},
+							{
+								"type": "count_unit",
+								"count": "2",
+								"unit": "30mm Cannon T3",
+								"formatted": "2 x 30mm Cannon T3"
+							}
+						]
+					},
+					"ordnance": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "3",
+								"unit": "800kg AP Bomb T0",
+								"formatted": "3 x 800kg AP Bomb T0"
+							}
+						]
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Aviation",
+			"name": "Dive Bomber"
+		},
+		"id": "Nakajima J5N Tenrai (Dive Bomber Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Nakajima_J5N_Tenrai_(Dive_Bomber_Prototype)",
+		"category": "Dive Bomber Planes",
+		"names": {
+			"en": "Prototype Tenrai",
+			"cn": "试作舰载型天雷",
+			"jp": "試作型天雷（特別計画艦仕様）",
+			"kr": null
+		}
+	},
+	"Nakajima C6N Saiun (Model 21 Prototype)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/f/f1/38300.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Acquired through research only (series 4)."
+		},
+		"nationality": "Sakura Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_mid_max",
+						"min": "36",
+						"mid": "90",
+						"max": "106",
+						"formatted": "36 → 90 → 106"
+					},
+					"damage": {
+						"type": "min_max_min_max_multiplier",
+						"min": "62",
+						"max": "362",
+						"minMultiplier": "2",
+						"maxMultiplier": "2 → 427 × 2",
+						"formatted": "62 × 2 → 362 × 2 → 427 × 2"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "12.60s",
+						"max": "10.60s",
+						"per": "wave",
+						"formatted": "12.60s → 10.60s   per wave"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "2",
+						"unit": "torpedoes",
+						"formatted": "2 torpedoes"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "66"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "5"
+					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "208"
+					},
+					"aAGuns": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "1",
+								"unit": "7.92mm MG T0",
+								"formatted": "1 x 7.92mm MG T0"
+							}
+						]
+					},
+					"ordnance": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "2",
+								"unit": "Sakura Empire Heavy Aerial Torpedo T0",
+								"formatted": "2 x Sakura Empire Heavy Aerial Torpedo T0"
+							}
+						]
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Aviation",
+			"name": "Torpedo Bomber"
+		},
+		"id": "Nakajima C6N Saiun (Model 21 Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Nakajima_C6N_Saiun_(Model_21_Prototype)",
+		"category": "Torpedo Bomber Planes",
+		"names": {
+			"en": "Prototype Saiun Kai",
+			"cn": "试作型彩云（舰攻型）",
+			"jp": "試作型彩雲（艦攻型・特別計画艦仕様）",
+			"kr": null
+		}
+	},
+	"Twin 90mm AA (Model 1939 Prototype)": {
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.koumakan.jp/w/images/6/65/55160.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "Currently there is a bug where this AA gun displays damage incorrectly at +7 and higher, showing 113 damage at +10, correcting itself to 120 damage at +11.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Acquired through research only (series 4)."
+		},
+		"nationality": "Sardegna Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"antiair": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"damage": {
+						"type": "min_max",
+						"min": "50",
+						"max": "120",
+						"formatted": "50  → 120"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.24s",
+						"max": "1.03s",
+						"per": "volley",
+						"formatted": "1.24s → 1.03s   per volley"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "value",
+						"formatted": "31"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "100%",
+						"max": "118%",
+						"formatted": "100% → 118%"
+					},
+					"ammoType": {
+						"type": "value",
+						"formatted": "Normal ( /  / )"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Anti-air",
+			"name": "AA Gun"
+		},
+		"id": "Twin 90mm AA (Model 1939 Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype)",
+		"category": "Anti-Air Guns",
+		"names": {
+			"en": "Prototype Twin 90mm Model 1939 High Angle Gun",
+			"cn": "试作型双联90mm高角炮Model1939",
 			"jp": null,
 			"kr": null
 		}
