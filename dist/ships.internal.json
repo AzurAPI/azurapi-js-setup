@@ -94580,7 +94580,7 @@
 					"cn": "神穹之盾",
 					"jp": "神穹の盾"
 				},
-				"description": "At the start of the battle, and every 30s after that: deploys a shield that lasts 20s and can block up to 5 enemy torpedoes. While this shield is up: increases this ship's FP by 5% (15%) and its DMG against DDs and BBs by 4.5% (1.02%). 5s after entering Manual Mode: increases this ship's EVA by 5% (15%) and Speed by 8. Switching to Auto Mode removes this buff.",
+				"description": "At the start of the battle, and every 30s after that: deploys a shield that lasts 20s and can block up to 5 enemy torpedoes. While this shield is up: increases this ship's FP by 5% (15%) and its DMG against DDs and BBs by 4.5% (12%). 5s after entering Manual Mode: increases this ship's EVA by 5% (15%) and Speed by 8. Switching to Auto Mode removes this buff.",
 				"color": "deepskyblue"
 			},
 			{
@@ -125989,43 +125989,22 @@
 			"constructionTime": "01:50:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "Not available in CN",
-				"aviation": "Not available in CN",
+				"heavy": true,
+				"aviation": true,
 				"limited": false,
 				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Not available in CN server.",
+			"obtainedFrom": "Obtained from the Rookie Mission \"clear 2-1\"",
 			"fromMaps": [
-				{
-					"name": "4-1",
-					"note": "Not available in CN"
-				},
-				{
-					"name": "4-3",
-					"note": "Not available in CN"
-				},
-				{
-					"name": "10-3",
-					"note": "Not available in CN"
-				},
-				{
-					"name": "3-4",
-					"note": "Not available in CN"
-				},
-				{
-					"name": "5-4",
-					"note": "Not available in CN"
-				},
-				{
-					"name": "11-4",
-					"note": "Not available in CN"
-				},
-				{
-					"name": "12-4",
-					"note": "Not available in CN"
-				}
+				"4-1",
+				"4-3",
+				"10-3",
+				"3-4",
+				"5-4",
+				"11-4",
+				"12-4"
 			]
 		},
 		"misc": {
@@ -147571,20 +147550,20 @@
 	"Plan021": {
 		"wikiUrl": "https://azurlane.koumakan.jp/August_von_Parseval",
 		"id": "Plan021",
-		"_gid": 69901,
+		"_gid": 49906,
 		"_sid": [
-			699011,
-			699012,
-			699013,
-			699014
+			499061,
+			499062,
+			499063,
+			499064
 		],
-		"_code": 20022,
+		"_code": 20021,
 		"names": {
-			"en": "Marco Polo",
-			"code": "RN Marco Polo",
-			"cn": "马可波罗",
-			"jp": "マルコ・ポーロ",
-			"kr": "Marco Polo"
+			"en": "August von Parseval",
+			"code": "KMS August von Parseval",
+			"cn": "奥古斯特·冯·帕塞瓦尔",
+			"jp": "アウグスト・フォン・パーセヴァル",
+			"kr": "August von Parseval"
 		},
 		"exists": {
 			"en": true,
@@ -147593,16 +147572,16 @@
 			"kr": false
 		},
 		"hexagon": [
+			0,
+			0,
 			5,
-			0,
-			0,
-			1,
 			2,
-			5
+			3,
+			4
 		],
 		"class": "August von Parseval",
-		"nationality": "Sardegna Empire",
-		"hullType": "Battleship",
+		"nationality": "Iron Blood",
+		"hullType": "Aircraft Carrier",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/5/57/August_von_ParsevalIcon.png",
 		"rarity": "Priority",
 		"stars": {
@@ -147857,20 +147836,20 @@
 	"Plan022": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Marco_Polo",
 		"id": "Plan022",
-		"_gid": 49906,
+		"_gid": 69901,
 		"_sid": [
-			499061,
-			499062,
-			499063,
-			499064
+			699011,
+			699012,
+			699013,
+			699014
 		],
-		"_code": 20021,
+		"_code": 20022,
 		"names": {
-			"en": "August von Parseval",
-			"code": "KMS August von Parseval",
-			"cn": "奥古斯特·冯·帕塞瓦尔",
-			"jp": "アウグスト・フォン・パーセヴァル",
-			"kr": "August von Parseval"
+			"en": "Marco Polo",
+			"code": "RN Marco Polo",
+			"cn": "马可波罗",
+			"jp": "マルコ・ポーロ",
+			"kr": "Marco Polo"
 		},
 		"exists": {
 			"en": true,
@@ -147879,16 +147858,16 @@
 			"kr": false
 		},
 		"hexagon": [
-			0,
-			0,
 			5,
+			0,
+			0,
+			1,
 			2,
-			3,
-			4
+			5
 		],
 		"class": "Marco Polo",
-		"nationality": "Iron Blood",
-		"hullType": "Aircraft Carrier",
+		"nationality": "Sardegna Empire",
+		"hullType": "Battleship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/3/30/Marco_PoloIcon.png",
 		"rarity": "Priority",
 		"stars": {

@@ -14,9 +14,12 @@ import path from "path";
 
 (async function () {
     let args = process.argv.slice(2);
+    mkdirIfNotExist(path.join(__dirname, '..', 'web'));
     switch (args[0]) {
         case 'ship':
         case 'ships':
+            mkdirIfNotExist(path.join(__dirname, '..', 'web', 'ships'));
+            mkdirIfNotExist(path.join(__dirname, '..', 'web', 'ships.gallery'));
             if (args.includes('reset')) {
                 deleteIfExist(SHIP_LIST_PATH);
                 deleteIfExist(SHIPS_PATH);
@@ -46,6 +49,7 @@ import path from "path";
             break;
         case 'eq':
         case 'equipments':
+            mkdirIfNotExist(path.join(__dirname, '..', 'web', 'equipments'));
             if (args.includes('reset')) {
                 clearFiles(path.join(__dirname, '..', 'web', 'equipments'));
                 deleteIfExist(EQUIPMENTS_PATH);
@@ -69,6 +73,7 @@ import path from "path";
             break;
         case 'chapter':
         case 'chapters':
+            mkdirIfNotExist(path.join(__dirname, '..', 'web', 'chapters'));
             if (args.includes('reset')) {
                 clearFiles(path.join(__dirname, '..', 'web', 'chapters'));
                 deleteIfExist(CHAPTERS_PATH);
@@ -81,6 +86,11 @@ import path from "path";
             }
     }
 })();
+
+
+function mkdirIfNotExist(path: string) {
+    if (!fs.existsSync(path)) fs.mkdirSync(path);
+}
 
 function deleteIfExist(path: string) {
     if (fs.existsSync(path)) fs.unlinkSync(path);
