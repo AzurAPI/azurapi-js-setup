@@ -1258,6 +1258,32 @@
         ]
     },
     {
+        "id": "Full_Barrage_-_Anchorage_II",
+        "type": "ship",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Full_Barrage_-_Anchorage_II/icon.png",
+        "name": "Full Barrage - Anchorage II",
+        "ships": [
+            "Anchorage"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 540,
+                "dmgM": 792,
+                "dmgH": 540,
+                "note": "Pierce 1."
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 128,
+                "dmgM": 160,
+                "dmgH": 208,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Full_Barrage_-_Albacore_II",
         "type": "ship",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Full_Barrage_-_Albacore_II/icon.png",
@@ -4395,6 +4421,25 @@
         ]
     },
     {
+        "id": "Ausgewogen.2B",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Ausgewogen.2B/icon.png",
+        "name": "Ausgewogen+",
+        "ships": [
+            "Mainz"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 960,
+                "dmgM": 960,
+                "dmgH": 960,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Blaze_Break",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Blaze_Break/icon.png",
@@ -5036,6 +5081,32 @@
         ]
     },
     {
+        "id": "PositiveBurst.21",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/PositiveBurst.21/icon.png",
+        "name": "PositiveBurst!",
+        "ships": [
+            "Haruka Amami"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 1069.2,
+                "dmgM": 752.4,
+                "dmgH": 554.4,
+                "note": "8% chance to burn."
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 216,
+                "dmgM": 270,
+                "dmgH": 351,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Bellowing_Gusts_of_Fire",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Bellowing_Gusts_of_Fire/icon.png",
@@ -5363,6 +5434,44 @@
         ]
     },
     {
+        "id": "Riddle_Me_This",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Riddle_Me_This/icon.png",
+        "name": "Riddle Me This",
+        "ships": [
+            "Anchorage"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 864,
+                "dmgM": 608,
+                "dmgH": 448,
+                "note": "8% chance to burn."
+            }
+        ]
+    },
+    {
+        "id": "Directionally_Challenged",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Directionally_Challenged/icon.png",
+        "name": "Directionally Challenged",
+        "ships": [
+            "Azusa Miura"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 425.25,
+                "dmgM": 299.25,
+                "dmgH": 220.5,
+                "note": "Pierce 5. Ignore shields"
+            }
+        ]
+    },
+    {
         "id": "Special_Gunnery_Training",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Special_Gunnery_Training/icon.png",
@@ -5433,6 +5542,32 @@
                 "dmgM": 353.4,
                 "dmgH": 260.4,
                 "note": "Arching shots. 100% burn chance. No enemies with 30 units."
+            }
+        ]
+    },
+    {
+        "id": "J.C3.B6ttun.27s_Jaws",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/J.C3.B6ttun.27s_Jaws/icon.png",
+        "name": "Jöttun's Jaws",
+        "ships": [
+            "Ägir"
+        ],
+        "hull": "CB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 252,
+                "dmgM": 369.6,
+                "dmgH": 252,
+                "note": "Arching shots."
+            },
+            {
+                "type": "AP",
+                "dmgL": 360,
+                "dmgM": 528,
+                "dmgH": 360,
+                "note": null
             }
         ]
     },
@@ -5571,6 +5706,32 @@
         ]
     },
     {
+        "id": "Herteitr.27s_Rolling_Thunder.2B",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Herteitr.27s_Rolling_Thunder.2B/icon.png",
+        "name": "Herteitr's Rolling Thunder+",
+        "ships": [
+            "Odin"
+        ],
+        "hull": "BC",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 4800,
+                "dmgM": 3840,
+                "dmgH": 2880,
+                "note": "Pierce 1. Ignores Shields"
+            },
+            {
+                "type": "AP",
+                "dmgL": 720,
+                "dmgM": 720,
+                "dmgH": 720,
+                "note": "Pierce 10. Ignores Shields"
+            }
+        ]
+    },
+    {
         "id": "Sniper",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Sniper/icon.png",
@@ -5652,6 +5813,26 @@
         ]
     },
     {
+        "id": "Augmenting_Mechanism:_Setzer_Principle.2B_.28timed.29",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Augmenting_Mechanism:_Setzer_Principle.2B_.28timed.29/icon.png",
+        "name": "Augmenting Mechanism: Setzer Principle+ (timed)",
+        "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Augmenting_Mechanism:_Setzer_Principle.2B_.28timed.29/image.gif",
+        "ships": [
+            "Champagne"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 184.14,
+                "dmgM": 797.94,
+                "dmgH": 675.18,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Augmenting_Mechanism:_Setzer_Principle_.28on_fire.29",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Augmenting_Mechanism:_Setzer_Principle_.28on_fire.29/icon.png",
@@ -5667,6 +5848,26 @@
                 "dmgL": 518.4,
                 "dmgM": 403.2,
                 "dmgH": 230.4,
+                "note": "Pierce 1."
+            }
+        ]
+    },
+    {
+        "id": "Augmenting_Mechanism:_Setzer_Principle.2B_.28on_fire.29",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Augmenting_Mechanism:_Setzer_Principle.2B_.28on_fire.29/icon.png",
+        "name": "Augmenting Mechanism: Setzer Principle+ (on fire)",
+        "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Augmenting_Mechanism:_Setzer_Principle.2B_.28on_fire.29/image.gif",
+        "ships": [
+            "Champagne"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 576,
+                "dmgM": 448,
+                "dmgH": 256,
                 "note": "Pierce 1."
             }
         ]
@@ -6916,6 +7117,77 @@
         ]
     },
     {
+        "id": "Legendary_Voyage",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Legendary_Voyage/icon.png",
+        "name": "Legendary Voyage",
+        "ships": [
+            "Marco Polo"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "SAP",
+                "dmgL": 2040,
+                "dmgM": 3060,
+                "dmgH": 1020,
+                "note": null
+            },
+            {
+                "type": "HE",
+                "dmgL": 1440,
+                "dmgM": 720,
+                "dmgH": 720,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Untold_Tales",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Untold_Tales/icon.png",
+        "name": "Untold Tales",
+        "ships": [
+            "Marco Polo"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "SAP",
+                "dmgL": 1800,
+                "dmgM": 900,
+                "dmgH": 900,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Iori_Strike.21",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Iori_Strike.21/icon.png",
+        "name": "Iori Strike!",
+        "ships": [
+            "Iori Minase"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 801.9,
+                "dmgM": 594,
+                "dmgH": 534.6,
+                "note": "50% chance to burn"
+            },
+            {
+                "type": "AP",
+                "dmgL": 471.9,
+                "dmgM": 907.5,
+                "dmgH": 871.2,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Artillery_Volley",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Artillery_Volley/icon.png",
@@ -8158,6 +8430,115 @@
         ]
     },
     {
+        "id": "Sky_Raiding_Retribution",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Sky_Raiding_Retribution/icon.png",
+        "name": "Sky Raiding Retribution",
+        "ships": [
+            "Hakuryuu"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 1166.4,
+                "dmgM": 1555.2,
+                "dmgH": 1814.4,
+                "note": "Lightning. Scaled with 80% of Aviation stat. 100% chance to apply a special burn that increases damage taken by 8% for 7s."
+            },
+            {
+                "type": "Torpedo (CV)",
+                "dmgL": 764.8,
+                "dmgM": 1051.6,
+                "dmgH": 1242.8,
+                "note": "Aimed torpedoes."
+            }
+        ]
+    },
+    {
+        "id": "Flame-Anointed_Conquest_.28Fighter.29",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Flame-Anointed_Conquest_.28Fighter.29/icon.png",
+        "name": "Flame-Anointed Conquest (Fighter)",
+        "ships": [
+            "Hakuryuu"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 510,
+                "dmgM": 510,
+                "dmgH": 510,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Flame-Anointed_Conquest_.28No_fighter.29",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Flame-Anointed_Conquest_.28No_fighter.29/icon.png",
+        "name": "Flame-Anointed Conquest (No fighter)",
+        "ships": [
+            "Hakuryuu"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 680,
+                "dmgM": 680,
+                "dmgH": 680,
+                "note": "Pierce 3. Ignores Shield"
+            }
+        ]
+    },
+    {
+        "id": "ex-Principle_of_Shattering",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/ex-Principle_of_Shattering/icon.png",
+        "name": "ex-Principle of Shattering",
+        "ships": [
+            "August von Parseval"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 1136,
+                "dmgM": 1590.4,
+                "dmgH": 568,
+                "note": "100% chance to apply a special armor break."
+            }
+        ]
+    },
+    {
+        "id": "Cerulean_Song",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Cerulean_Song/icon.png",
+        "name": "Cerulean Song",
+        "ships": [
+            "Chihaya Kisaragi"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 9600,
+                "dmgM": 9600,
+                "dmgH": 9600,
+                "note": null
+            },
+            {
+                "type": "Torpedo (CV)",
+                "dmgL": 1152,
+                "dmgM": 1140,
+                "dmgH": 1872,
+                "note": "Aimed torpedoes"
+            }
+        ]
+    },
+    {
         "id": "Destiny_Draw.21_.28Blackburn_Fire_Blast.29",
         "type": "skill",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Destiny_Draw.21_.28Blackburn_Fire_Blast.29/icon.png",
@@ -9103,6 +9484,89 @@
                 "dmgL": 768,
                 "dmgM": 960,
                 "dmgH": 1248,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Double_Trouble_-_Ami",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Double_Trouble_-_Ami/icon.png",
+        "name": "Double Trouble - Ami",
+        "ships": [
+            "Ami Futami"
+        ],
+        "hull": "SS",
+        "rounds": [
+            {
+                "type": "Torpedo",
+                "dmgL": 432,
+                "dmgM": 540,
+                "dmgH": 702,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Double_Trouble_-_Mami",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Double_Trouble_-_Mami/icon.png",
+        "name": "Double Trouble - Mami",
+        "ships": [
+            "Mami Futami"
+        ],
+        "hull": "SS",
+        "rounds": [
+            {
+                "type": "Torpedo",
+                "dmgL": 432,
+                "dmgM": 540,
+                "dmgH": 702,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Fleet_Course_Management",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Fleet_Course_Management/icon.png",
+        "name": "Fleet Course Management",
+        "ships": [
+            "Ritsuko Akizuki"
+        ],
+        "hull": "AE",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 300,
+                "dmgM": 225,
+                "dmgH": 120,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Fleet_Course_Management_.28Enhanced.29",
+        "type": "skill",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/Fleet_Course_Management_.28Enhanced.29/icon.png",
+        "name": "Fleet Course Management (Enhanced)",
+        "ships": [
+            "Ritsuko Akizuki"
+        ],
+        "hull": "AE",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 450,
+                "dmgM": 337.5,
+                "dmgH": 180,
+                "note": null
+            },
+            {
+                "type": "AP",
+                "dmgL": 360,
+                "dmgM": 288,
+                "dmgH": 216,
                 "note": null
             }
         ]

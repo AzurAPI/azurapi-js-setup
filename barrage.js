@@ -13,6 +13,8 @@ const PATH_SIZE = require("./path-sizes.json");
 const IDS = [];
 exports.refreshBarrage = async function () {
     console.log("Refreshing Barrage");
+    if (!fs.existsSync("./web/barrages")) fs.mkdirSync("./web/barrages");
+    if (!fs.existsSync("./web/files")) fs.mkdirSync("./web/files");
     let tables = new JSDOM(await fetch("https://azurlane.koumakan.jp/Barrage", "./web/barrages/index.html")).window.document.getElementsByClassName("wikitable");
     let barrages = (await parseTable(tables[0], "ship")).concat(await parseTable(tables[1], "class")).concat(await parseTable(tables[2], "skill"));
     fs.writeFileSync("barrage.internal.json", JSON.stringify(barrages, null, 4));
@@ -29,6 +31,7 @@ if (require.main === module) {
 
 async function publish(barrages) {
     let paths = [];
+    if (!fs.existsSync("images/barrages")) fs.mkdirSync("./images/barrages");
     for (let barrage of barrages) {
         if (!fs.existsSync("images/barrages/" + barrage.id)) fs.mkdirSync("./images/barrages/" + barrage.id);
         let localPath = "images/barrages/" + barrage.id + "/";
