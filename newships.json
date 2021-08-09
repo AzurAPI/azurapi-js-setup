@@ -1,0 +1,624 @@
+{
+	"001": {
+		"id": "001",
+		"names": {
+			"en": "Universal Bulin",
+			"cn": "泛用型布里",
+			"jp": "汎用型ブリ",
+			"kr": "범용형 부린"
+		},
+		"rarity": "Elite",
+		"nationality": "Universal",
+		"type": "Destroyer",
+		"class": "Bulin",
+		"luck": "100",
+		"armor": "Light",
+		"speed": "35",
+		"stats": {},
+		"misc": {
+			"artist": "梦咲枫",
+			"web": {
+				"url": "http://weibo.com/u/3558369570",
+				"name": " 梦咲枫"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1023957",
+				"name": " かえで"
+			},
+			"va": ":wikipedia:Asami_Shimoda"
+		}
+	},
+	"002": {
+		"id": "002",
+		"names": {
+			"en": "Prototype Bulin MKII",
+			"cn": "试作型布里MKII",
+			"jp": "試作型ブリMKII",
+			"kr": "시제형 부린 MKⅡ"
+		},
+		"rarity": "Super Rare",
+		"nationality": "Universal",
+		"type": "Destroyer",
+		"class": "Bulin",
+		"luck": "100",
+		"armor": "Light",
+		"speed": "35",
+		"stats": {},
+		"misc": {
+			"artist": "梦咲枫",
+			"web": {
+				"url": "http://weibo.com/u/3558369570",
+				"name": " 梦咲枫"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1023957",
+				"name": " かえで"
+			},
+			"va": ":wikipedia:Asami_Shimoda"
+		}
+	},
+	"004": {
+		"id": "004",
+		"names": {
+			"en": "Dewey",
+			"cn": "杜威",
+			"jp": "デューイ",
+			"kr": "듀이"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Farragut",
+		"luck": "72",
+		"armor": "Light",
+		"speed": "44",
+		"stats": {},
+		"misc": {
+			"artist": "或一",
+			"web": {
+				"url": "http://bcy.net/u/1495574",
+				"name": " 或一"
+			},
+			"pixiv": {
+				"url": "http://www.pixiv.net/member.php?id=1904395",
+				"name": " 或一"
+			},
+			"va": ":wikipedia:Miyuri_Shimabukuro"
+		}
+	},
+	"005": {
+		"id": "005",
+		"names": {
+			"en": "Cassin",
+			"cn": "卡辛",
+			"jp": "カッシン",
+			"kr": "캐신"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Mahan",
+		"luck": "66",
+		"armor": "Light",
+		"speed": "44",
+		"stats": {},
+		"misc": {
+			"artist": "大月紅葉",
+			"web": {
+				"url": "http://weibo.com/ootsukimomiji",
+				"name": " 大月紅葉"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=591937",
+				"name": " 大月紅葉"
+			},
+			"va": "object"
+		}
+	},
+	"006": {
+		"id": "006",
+		"names": {
+			"en": "Downes",
+			"cn": "唐斯",
+			"jp": "ダウンズ",
+			"kr": "다운즈"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Mahan",
+		"luck": "63",
+		"armor": "Light",
+		"speed": "44",
+		"stats": {},
+		"misc": {
+			"artist": "大月紅葉",
+			"web": {
+				"url": "http://weibo.com/ootsukimomiji",
+				"name": " 大月紅葉"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=591937",
+				"name": " 大月紅葉"
+			},
+			"va": ":wikipedia:Ayano_Niina"
+		}
+	},
+	"007": {
+		"id": "007",
+		"names": {
+			"en": "Gridley",
+			"cn": "格里德利",
+			"jp": "グリッドレイ",
+			"kr": "그리들리"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Gridley",
+		"luck": "72",
+		"armor": "Light",
+		"speed": "46",
+		"stats": {},
+		"misc": {
+			"artist": "麻酱",
+			"web": {
+				"url": "http://weibo.com/u/3032064021",
+				"name": " 神北小毬_"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1480584",
+				"name": " 神北小毬"
+			},
+			"va": "object"
+		}
+	},
+	"008": {
+		"id": "008",
+		"names": {
+			"en": "Craven",
+			"cn": "克雷文",
+			"jp": "クレイヴン",
+			"kr": "크레이븐"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Gridley",
+		"luck": "72",
+		"armor": "Light",
+		"speed": "46",
+		"stats": {},
+		"misc": {
+			"artist": "麻酱",
+			"web": {
+				"url": "http://weibo.com/u/3032064021",
+				"name": " 神北小毬_"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1480584",
+				"name": " 神北小毬"
+			},
+			"va": ":wikipedia:Ayano_Niina"
+		}
+	},
+	"009": {
+		"id": "009",
+		"names": {
+			"en": "McCall",
+			"cn": "麦考尔",
+			"jp": "マッコール",
+			"kr": "맥콜"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Gridley",
+		"luck": "69",
+		"armor": "Light",
+		"speed": "43",
+		"stats": {},
+		"misc": {
+			"artist": "麻酱",
+			"web": {
+				"url": "http://weibo.com/u/3032064021",
+				"name": " 神北小毬_"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1480584",
+				"name": " 神北小毬"
+			},
+			"va": "object"
+		}
+	},
+	"010": {
+		"id": "010",
+		"names": {
+			"en": "Maury",
+			"cn": "莫里",
+			"jp": "モーリー",
+			"kr": "모리"
+		},
+		"rarity": "Elite",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Gridley",
+		"luck": "69",
+		"armor": "Light",
+		"speed": "43",
+		"stats": {},
+		"misc": {
+			"artist": "麻酱",
+			"web": {
+				"url": "http://weibo.com/u/3032064021",
+				"name": " 神北小毬_"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1480584",
+				"name": " 神北小毬"
+			},
+			"va": ":wikipedia:Konomi_Kohara"
+		}
+	},
+	"011": {
+		"id": "011",
+		"names": {
+			"en": "Fletcher",
+			"cn": "弗莱彻",
+			"jp": "フレッチャー",
+			"kr": "플레처"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Fletcher",
+		"luck": "73",
+		"armor": "Light",
+		"speed": "43",
+		"stats": {},
+		"misc": {
+			"artist": "Lino(番茄)",
+			"web": {
+				"url": "http://weibo.com/p/1005051859846292",
+				"name": " 番茄教父__Lino"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=238071",
+				"name": " Lino@レム症末期"
+			},
+			"va": ":wikipedia:Manaka_Iwami"
+		}
+	},
+	"013": {
+		"id": "013",
+		"names": {
+			"en": "Charles Ausburne",
+			"cn": "查尔斯·奥斯本",
+			"jp": "チャールズ・オースバーン",
+			"kr": "찰스 오스본"
+		},
+		"rarity": "Elite",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Fletcher",
+		"luck": "82",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "Lino(番茄)",
+			"web": {
+				"url": "http://weibo.com/p/1005051859846292",
+				"name": " 番茄教父__Lino"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=238071",
+				"name": " Lino@レム症末期"
+			},
+			"va": "object"
+		}
+	},
+	"014": {
+		"id": "014",
+		"names": {
+			"en": "Thatcher",
+			"cn": "撒切尔",
+			"jp": "サッチャー",
+			"kr": "대처"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Fletcher",
+		"luck": "65",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "Lino(番茄)",
+			"web": {
+				"url": "http://weibo.com/p/1005051859846292",
+				"name": " 番茄教父__Lino"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=238071",
+				"name": " Lino@レム症末期"
+			},
+			"va": "object"
+		}
+	},
+	"015": {
+		"id": "015",
+		"names": {
+			"en": "Aulick",
+			"cn": "奥利克",
+			"jp": "オーリック",
+			"kr": "얼릭"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Fletcher",
+		"luck": "62",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "Lino(番茄)",
+			"web": {
+				"url": "http://weibo.com/p/1005051859846292",
+				"name": " 番茄教父__Lino"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=238071",
+				"name": " Lino@レム症末期"
+			},
+			"va": "object"
+		}
+	},
+	"016": {
+		"id": "016",
+		"names": {
+			"en": "Foote",
+			"cn": "富特",
+			"jp": "フート",
+			"kr": "푸트"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Fletcher",
+		"luck": "67",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "Lino(番茄)",
+			"web": {
+				"url": "http://weibo.com/p/1005051859846292",
+				"name": " 番茄教父__Lino"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=238071",
+				"name": " Lino@レム症末期"
+			},
+			"va": "object"
+		}
+	},
+	"017": {
+		"id": "017",
+		"names": {
+			"en": "Spence",
+			"cn": "斯彭斯",
+			"jp": "スペンス",
+			"kr": "스펜스"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Fletcher",
+		"luck": "20",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "Lino(番茄)",
+			"web": {
+				"url": "http://weibo.com/p/1005051859846292",
+				"name": " 番茄教父__Lino"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=238071",
+				"name": " Lino@レム症末期"
+			},
+			"va": "object"
+		}
+	},
+	"018": {
+		"id": "018",
+		"names": {
+			"en": "Benson",
+			"cn": "本森",
+			"jp": "ベンソン",
+			"kr": "벤슨"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Benson",
+		"luck": "72",
+		"armor": "Light",
+		"speed": "45",
+		"stats": {},
+		"misc": {
+			"artist": "八才提督",
+			"web": {
+				"url": "http://weibo.com/vihao",
+				"name": " 八才提督"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1393609",
+				"name": " ハオ"
+			},
+			"va": ":wikipedia:Manami_Numakura"
+		}
+	},
+	"019": {
+		"id": "019",
+		"names": {
+			"en": "Laffey",
+			"cn": "拉菲",
+			"jp": "ラフィー",
+			"kr": "라피"
+		},
+		"rarity": "Elite",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Benson",
+		"luck": "18",
+		"armor": "Light",
+		"speed": "45",
+		"stats": {},
+		"misc": {
+			"artist": "梦咲枫",
+			"web": {
+				"url": "http://weibo.com/u/3558369570",
+				"name": " 梦咲枫"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1023957",
+				"name": " かえで"
+			},
+			"va": ":wikipedia:Maria_Naganawa"
+		}
+	},
+	"026": {
+		"id": "026",
+		"names": {
+			"en": "Sims",
+			"cn": "西姆斯",
+			"jp": "シムス",
+			"kr": "심즈"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Sims",
+		"luck": "45",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "梦咲枫",
+			"web": {
+				"url": "http://weibo.com/u/3558369570",
+				"name": " 梦咲枫"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1023957",
+				"name": " かえで"
+			},
+			"va": ":wikipedia:Mikako_Komatsu"
+		}
+	},
+	"027": {
+		"id": "027",
+		"names": {
+			"en": "Hammann",
+			"cn": "哈曼",
+			"jp": "ハムマン",
+			"kr": "허먼"
+		},
+		"rarity": "Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Sims",
+		"luck": "47",
+		"armor": "Light",
+		"speed": "42",
+		"stats": {},
+		"misc": {
+			"artist": "梦咲枫",
+			"web": {
+				"url": "http://weibo.com/u/3558369570",
+				"name": " 梦咲枫"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=1023957",
+				"name": " かえで"
+			},
+			"va": "object"
+		}
+	},
+	"028": {
+		"id": "028",
+		"names": {
+			"en": "Eldridge",
+			"cn": "埃尔德里奇",
+			"jp": "エルドリッジ",
+			"kr": "엘드릿지"
+		},
+		"rarity": "Super Rare",
+		"nationality": "Eagle Union",
+		"type": "Destroyer",
+		"class": "Cannon",
+		"luck": "75",
+		"armor": "Light",
+		"speed": "25",
+		"stats": {},
+		"misc": {
+			"artist": "黑猫",
+			"web": {
+				"url": "http://weibo.com/u/2959771544",
+				"name": " 黑猫桃园-专注潜水20年"
+			},
+			"pixiv": {
+				"url": "https://www.pixiv.net/member.php?id=2331978",
+				"name": " 近所黒モモ"
+			},
+			"va": ":wikipedia:Nozomi_Sasaki_(voice_actress)"
+		}
+	},
+	"029": {
+		"id": "029",
+		"names": {
+			"en": "Omaha",
+			"cn": "奥马哈",
+			"jp": "オマハ",
+			"kr": "오마하"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Light Cruiser",
+		"class": "Omaha",
+		"luck": "67",
+		"armor": "Light",
+		"speed": "35",
+		"stats": {},
+		"misc": {
+			"artist": "马甲",
+			"va": ":wikipedia:Juri_Kimura"
+		}
+	},
+	"030": {
+		"id": "030",
+		"names": {
+			"en": "Raleigh",
+			"cn": "罗利",
+			"jp": "ローリー",
+			"kr": "롤리"
+		},
+		"rarity": "Normal",
+		"nationality": "Eagle Union",
+		"type": "Light Cruiser",
+		"class": "Omaha",
+		"luck": "82",
+		"armor": "Light",
+		"speed": "35",
+		"stats": {},
+		"misc": {
+			"artist": "马甲",
+			"va": ":wikipedia:Juri_Kimura"
+		}
+	}
+}

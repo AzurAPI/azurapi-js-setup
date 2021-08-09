@@ -1,0 +1,3 @@
+[submodule "azurapi-data"]
+	path = azurapi-data
+	url = https://github.com/azurAPI/azurapi-data

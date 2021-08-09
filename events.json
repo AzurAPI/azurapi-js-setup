@@ -1,0 +1,2347 @@
+[
+	{
+		"name": "Effort, Hope, and Planning",
+		"new_ships_construction": [
+			{
+				"name": "Prince of Wales",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "04:50:00",
+				"construction_chance": "2.25%"
+			},
+			{
+				"name": "Atago",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"construction_time": "02:05:00",
+				"construction_chance": "1.75%"
+			},
+			{
+				"name": "Vampire",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:18:00",
+				"construction_chance": "3.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Bilibili 8th Anniversary",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Opposite-Colored]]",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Tanabata",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Lead Color Remembrance",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Visitors Dyed in Red",
+		"new_ships_construction": [
+			{
+				"name": "Zuikaku",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:30:00",
+				"construction_chance": "0.7%"
+			},
+			{
+				"name": "Shoukaku",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:30:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Nowaki",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:27:00",
+				"construction_chance": "4%"
+			},
+			{
+				"name": "Ise",
+				"rarity": "Rare",
+				"type": "BB",
+				"construction_time": "04:25:00",
+				"construction_chance": "6.75%"
+			},
+			{
+				"name": "Hyuuga",
+				"rarity": "Rare",
+				"type": "BB",
+				"construction_time": "04:25:00",
+				"construction_chance": "6.75%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Glorious Final Battle",
+		"new_ships_construction": [
+			{
+				"name": "Glorious",
+				"rarity": "Elite",
+				"type": "CV",
+				"construction_time": "3:50:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Halloween#Night_of_the_.22Witches.22",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Stardust",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Popularity Contest",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Niconico Collaboration",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Tea Time",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Niconico_Collaboration#Year_36_Class_Z_Teacher_Z23",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Return of the War God",
+		"new_ships_construction": [
+			{
+				"name": "Mikasa",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "3:30:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Hiei",
+				"rarity": "Elite",
+				"type": "BC",
+				"construction_time": "4:10:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Hamakaze",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Kuroshio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Oyashio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Christmas 2017",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Fallen Wings",
+		"new_ships_construction": [
+			{
+				"name": "Washington",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "04:50:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "Maryland",
+				"rarity": "Elite",
+				"type": "BB",
+				"construction_time": "04:25:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Happy New Year",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Summer's_Big_Operation",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Encircling Graf Spee",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Visitors from Another Dimension",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Chinese New Year 2018",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Winter's Crown",
+		"new_ships_construction": [
+			{
+				"name": "Victorious",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:30:00",
+				"construction_chance": "2.25%"
+			},
+			{
+				"name": "Sheffield",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Matchless",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:29:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Jamaica",
+				"rarity": "Rare",
+				"type": "CL",
+				"construction_time": "01:22:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Southern Cross of Spring Breeze",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Memory Lane",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Visitors Dyed in Red Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Mikuma",
+				"rarity": "Elite",
+				"type": "CL",
+				"from": "Point Accumulation Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "School Term",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Encircling Graf Spee",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Operation Manjuu",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Class Z-23 Sensei",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Glorious Final Battle",
+		"new_ships_construction": [
+			{
+				"name": "Glorious",
+				"rarity": "Elite",
+				"type": "CV",
+				"construction_time": "3:50:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "New Dawn",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Ink-Stained Steel Sakura",
+		"new_ships_construction": [
+			{
+				"name": "Nagato",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "04:20:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Yoizuki",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:29:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Harutsuki",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:29:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Fumizuki",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:21:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Asashio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Mutsu",
+				"rarity": "Elite",
+				"type": "BB",
+				"from": "Point Accumulation"
+			},
+			{
+				"name": "Haruna",
+				"rarity": "Elite",
+				"type": "BC",
+				"from": "Event Shop"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Armored Trooper Votoms",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Battery_Support_Plan",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Opposite-Colored Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Tirpitz",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"from": "Event Shop"
+			},
+			{
+				"name": "Deutschland",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "Map Drop"
+			},
+			{
+				"name": "U-557",
+				"rarity": "Elite",
+				"type": "SS",
+				"from": "Point Accumulation Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Summer Hot Pot Competition",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Prelude under the Moon",
+		"new_ships_construction": [
+			{
+				"name": "Astoria",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "3 star SP3"
+			},
+			{
+				"name": "Quincy",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "Login Reward"
+			},
+			{
+				"name": "Vincennes",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "Event Task"
+			}
+		],
+		"new_ships_skins": [
+			{
+				"name": "Astoria",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "School",
+				"skin_name": "Pure \"Gurl?\"",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "103"
+			},
+			{
+				"name": "Quincy",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "Summer",
+				"skin_name": "Sizzling Summer, Brisk Breeze",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "106"
+			},
+			{
+				"name": "Vincennes",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "Sleepy",
+				"skin_name": "Sweet Dreams",
+				"currency": "Gem",
+				"price": "700",
+				"L2D": false
+			},
+			{
+				"name": "Vincennes",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "School",
+				"skin_name": "Leisurely ABC's",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "103"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "Iris of Light and Dark",
+		"new_ships_construction": [
+			{
+				"name": "Jean Bart",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "05:50:00"
+			},
+			{
+				"name": "Massachusetts",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "05:00:00"
+			},
+			{
+				"name": "Dunkerque",
+				"rarity": "Elite",
+				"type": "BC",
+				"construction_time": "04:05:00"
+			},
+			{
+				"name": "Surcouf",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:35:00"
+			},
+			{
+				"name": "Forbin",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:23:00"
+			},
+			{
+				"name": "Jean Bart",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "05:50:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Massachusetts",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "05:00:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Dunkerque",
+				"rarity": "Elite",
+				"type": "BC",
+				"construction_time": "04:05:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Surcouf",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:35:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Forbin",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:23:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Memory Lane",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Angel or Devil in White?",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Midsummer Sagittarius",
+		"new_ships_construction": [
+			{
+				"name": "Centaur",
+				"rarity": "Super Rare",
+				"type": "CVL",
+				"construction_time": "03:00:00",
+				"construction_chance": "2%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Return of the War God",
+		"new_ships_construction": [
+			{
+				"name": "Mikasa",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "3:30:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Hiei",
+				"rarity": "Elite",
+				"type": "BC",
+				"construction_time": "4:10:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Hamakaze",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Kuroshio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Oyashio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Veteran Mini Museum",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Atré Collab",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Lawson Collab",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Operation Manjuu",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "1 Year Anniversary",
+		"new_ships_construction": [
+			{
+				"name": "Albacore",
+				"rarity": "Super Rare",
+				"type": "SS",
+				"construction_time": "00:24:00",
+				"construction_chance": "0.5%"
+			},
+			{
+				"name": "Essex",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "Taihou",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:45:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "Le Temeraire",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:26:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "1_Year_Anniversary#Special_Party_by_the_Harbor",
+		"new_ships_construction": [
+			{
+				"name": "Albacore",
+				"rarity": "Super Rare",
+				"type": "SS",
+				"construction_time": "00:24:00",
+				"construction_chance": "0.5%"
+			},
+			{
+				"name": "Essex",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "Taihou",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:45:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "Le Temeraire",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:26:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Moon Rabbit",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Royal Maids Battle Royale",
+		"new_ships_construction": [
+			{
+				"name": "Newcastle",
+				"rarity": "Rare",
+				"type": "CL",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Sparkling Battle Star",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Fallen Wings Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Hobby",
+				"rarity": "Rare",
+				"type": "DD",
+				"from": "Event Gacha Phase 2"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Halloween#Night_of_the_.22Witches.22",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Utawarerumono Collab",
+		"new_ships_construction": [
+			{
+				"name": "Kuon",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"construction_time": "02:05:00",
+				"construction_chance": "0.5%"
+			},
+			{
+				"name": "Nekone",
+				"rarity": "Super Rare",
+				"type": "DD",
+				"construction_time": "00:23:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Rurutie",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"construction_time": "01:48:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Uruuru",
+				"rarity": "Elite",
+				"type": "CVL",
+				"construction_time": "02:25:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Encircling Graf Spee",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Solomon Ranger",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Christmas 2018",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Crimson Echoes",
+		"new_ships_construction": [
+			{
+				"name": "Makinami",
+				"rarity": "Elite",
+				"type": "DD",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Happy New Year 2019",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Prelude under the Moon",
+		"new_ships_construction": [
+			{
+				"name": "Astoria",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "3 star SP3"
+			},
+			{
+				"name": "Quincy",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "Login Reward"
+			},
+			{
+				"name": "Vincennes",
+				"rarity": "Elite",
+				"type": "CA",
+				"from": "Event Task"
+			}
+		],
+		"new_ships_skins": [
+			{
+				"name": "Astoria",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "School",
+				"skin_name": "Pure \"Gurl?\"",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "103"
+			},
+			{
+				"name": "Quincy",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "Summer",
+				"skin_name": "Sizzling Summer, Brisk Breeze",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "106"
+			},
+			{
+				"name": "Vincennes",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "Sleepy",
+				"skin_name": "Sweet Dreams",
+				"currency": "Gem",
+				"price": "700",
+				"L2D": false
+			},
+			{
+				"name": "Vincennes",
+				"rarity": "Elite",
+				"type": "CA",
+				"series": "School",
+				"skin_name": "Leisurely ABC's",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "103"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "Winter's Crown Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Musketeer",
+				"rarity": "Elite",
+				"type": "DD",
+				"from": "Clear Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Special Warrior Training",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Lunar New Year 2019",
+		"new_ships_construction": [
+			{
+				"name": "Chang Chun",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:32:00",
+				"construction_chance": "1.5%"
+			},
+			{
+				"name": "Chaser",
+				"rarity": "Elite",
+				"type": "CVL",
+				"construction_time": "02:20:00",
+				"construction_chance": "1.5%"
+			},
+			{
+				"name": "Mullany",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "1.5%"
+			},
+			{
+				"name": "Tai Yuan",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:32:00",
+				"construction_chance": "1.5%"
+			},
+			{
+				"name": "Curacoa",
+				"rarity": "Rare",
+				"type": "CL",
+				"construction_time": "01:07:00",
+				"construction_chance": "3.5%"
+			},
+			{
+				"name": "Curlew",
+				"rarity": "Rare",
+				"type": "CL",
+				"construction_time": "01:07:00",
+				"construction_chance": "3.5%"
+			},
+			{
+				"name": "Kimberly",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "3.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Sparkling Battle Star",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Air Raid Drills with Essex",
+		"new_ships_construction": [
+			{
+				"name": "Shangri-La",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00"
+			},
+			{
+				"name": "Essex",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00"
+			},
+			{
+				"name": "Shangri-La",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Essex",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "Independence",
+				"rarity": "Elite",
+				"type": "CVL",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Starry Sky over the Arctic Fjord",
+		"new_ships_construction": [
+			{
+				"name": "Hunter",
+				"rarity": "Rare",
+				"type": "DD",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Hibiscus-scented Idol",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Ink-Stained Steel Sakura Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Nagato",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "04:20:00",
+				"construction_chance": "2.0%"
+			},
+			{
+				"name": "I-13",
+				"rarity": "Super Rare",
+				"type": "SSV",
+				"construction_time": "00:34:00",
+				"construction_chance": "2.0%"
+			},
+			{
+				"name": "Suzuya",
+				"rarity": "Elite",
+				"type": "CA",
+				"construction_time": "01:48:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Yoizuki",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:29:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Harutsuki",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:29:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Fumizuki",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:21:00",
+				"construction_chance": "5.0%"
+			},
+			{
+				"name": "Asashio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "5.0%"
+			},
+			{
+				"name": "Mutsu",
+				"rarity": "Elite",
+				"type": "BB",
+				"from": "Point Accumulation"
+			},
+			{
+				"name": "Haruna",
+				"rarity": "Elite",
+				"type": "BC",
+				"from": "Event Shop"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "School Term",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Return of the War God",
+		"new_ships_construction": [
+			{
+				"name": "Mikasa",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "3:30:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Hiei",
+				"rarity": "Elite",
+				"type": "BC",
+				"construction_time": "4:10:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Hamakaze",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Kuroshio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Oyashio",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "0:27:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Veteran Mini Museum",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Escape from the Port",
+		"new_ships_construction": [
+			{
+				"name": "Zeppy",
+				"rarity": "Elite",
+				"type": "CV",
+				"construction_time": "04:30:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Hiei-chan",
+				"rarity": "Elite",
+				"type": "BC",
+				"construction_time": "04:05:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Akagi-chan",
+				"rarity": "Elite",
+				"type": "CV",
+				"construction_time": "04:35:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Virtual Connection Synchronicity",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Class Z-23 Sensei",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Akashi's Fanbook",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "One Small Promise",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Scherzo_of_Iron_and_Blood#Science_Rules.21",
+		"new_ships_construction": [
+			{
+				"name": "Bismarck",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "06:00:00"
+			},
+			{
+				"name": "U-556",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:13:00"
+			},
+			{
+				"name": "Z36",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:35:00"
+			},
+			{
+				"name": "U-73",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:11:00"
+			},
+			{
+				"name": "Bismarck",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "06:00:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "King George V",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "04:50:00",
+				"construction_chance": "0.5%"
+			},
+			{
+				"name": "U-556",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:13:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Z36",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:35:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "U-73",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:11:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Echo",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Scherzo of Iron and Blood",
+		"new_ships_construction": [
+			{
+				"name": "Bismarck",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "06:00:00"
+			},
+			{
+				"name": "U-556",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:13:00"
+			},
+			{
+				"name": "Z36",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:35:00"
+			},
+			{
+				"name": "U-73",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:11:00"
+			},
+			{
+				"name": "Bismarck",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "06:00:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "King George V",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "04:50:00",
+				"construction_chance": "0.5%"
+			},
+			{
+				"name": "U-556",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:13:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Z36",
+				"rarity": "Elite",
+				"type": "DD",
+				"construction_time": "00:35:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "U-73",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:11:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Echo",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "A Prayer for Peace",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "There Comes the Future Star",
+		"new_ships_construction": [
+			{
+				"name": "Clevelad",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "1:20:00"
+			},
+			{
+				"name": "Lena",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "1:10:00"
+			},
+			{
+				"name": "Clevelad",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "1:20:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Lena",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "1:10:00",
+				"construction_chance": "2.5%"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Iris of Light and Dark Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Émile Bertin",
+				"rarity": "Elite",
+				"type": "CL",
+				"from": "Point Accumulation Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Monthly Manga Javelin",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Wallflower in the Corner",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Approaching Storm",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Ashen Simulacrum",
+		"new_ships_construction": [
+			{
+				"name": "Baltimore",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"construction_time": "02:00:00"
+			},
+			{
+				"name": "Alabama",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "05:00:00"
+			},
+			{
+				"name": "Birmingham",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00"
+			},
+			{
+				"name": "Baltimore",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"construction_time": "02:00:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Alabama",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"construction_time": "05:00:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Birmingham",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Aylwin",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:20:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Bataan",
+				"rarity": "Elite",
+				"type": "CVL",
+				"from": "Point Accumulation Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Angel or Devil in White?",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Summer Festival",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Popularity Poll 2019",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Empyreal Presage",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Empyreal Tragicomedy",
+		"new_ships_construction": [
+			{
+				"name": "Carabiniere",
+				"rarity": "Elite",
+				"type": "DD",
+				"from": "Point Accumulation Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Headquarters Mobilization Request",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Would you like a Mooncake?",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Atré Collab",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Woozy Party",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Crosswave",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Fanclub Sleepover",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Jaws and Enigma",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Halloween#Night_of_the_.22Witches.22",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Crescendo of Polaris",
+		"new_ships_construction": [
+			{
+				"name": "Sheffield µ",
+				"rarity": "Elite",
+				"type": "CL",
+				"from": "Mini-Game Reward"
+			}
+		],
+		"new_ships_skins": [
+			{
+				"name": "Ayanami",
+				"rarity": "Elite",
+				"type": "DD",
+				"series": "Idol",
+				"skin_name": "Low-Key Idol @Confused",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false,
+				"bgID": "120"
+			},
+			{
+				"name": "Laffey",
+				"rarity": "Elite",
+				"type": "DD",
+				"series": "Idol",
+				"skin_name": "Bunny Idol @Unmotivated",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false,
+				"bgID": "120"
+			},
+			{
+				"name": "Z23",
+				"rarity": "Elite",
+				"type": "DD",
+				"series": "Idol",
+				"skin_name": "Serious Idol @Acting Manager?!",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false,
+				"bgID": "120"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "Looking Glass of Fact and Fiction",
+		"new_ships_construction": [
+			{
+				"name": "Ookami Mio",
+				"rarity": "Elite",
+				"type": "CV",
+				"from": "Friendship Points Reward"
+			},
+			{
+				"name": "Murasaki Shion",
+				"rarity": "Elite",
+				"type": "CVL",
+				"from": "Milestone Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Christmas 2019",
+		"new_ships_construction": [],
+		"new_ships_skins": [
+			{
+				"name": "HMS Neptune",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"series": "Christmas",
+				"skin_name": "Princess of Reindeers",
+				"currency": "Ruby",
+				"price": "900",
+				"L2D": false,
+				"bgID": "125"
+			},
+			{
+				"name": "Seattle",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"series": "Christmas",
+				"skin_name": "Christmas Party!",
+				"currency": "Ruby",
+				"price": "800",
+				"L2D": false,
+				"bgID": "125"
+			},
+			{
+				"name": "Agano",
+				"rarity": "Elite",
+				"type": "CL",
+				"series": "Christmas",
+				"skin_name": "Christmas Eve Tease",
+				"currency": "Ruby",
+				"price": "800",
+				"L2D": false,
+				"bgID": "125"
+			},
+			{
+				"name": "Concord",
+				"rarity": "Rare",
+				"type": "CL",
+				"series": "Christmas",
+				"skin_name": "Sweet☆Christmas",
+				"currency": "Ruby",
+				"price": "800",
+				"L2D": false,
+				"bgID": "125"
+			},
+			{
+				"name": "Dewey",
+				"rarity": "Rare",
+				"type": "DD",
+				"series": "Christmas",
+				"skin_name": "Thanks For Winter",
+				"currency": "Ruby",
+				"price": "800",
+				"L2D": false,
+				"bgID": "125"
+			},
+			{
+				"name": "Isuzu",
+				"rarity": "Rare",
+				"type": "CL",
+				"series": "Christmas",
+				"skin_name": "Cozy Christmas Eve",
+				"currency": "Ruby",
+				"price": "800",
+				"L2D": false,
+				"bgID": "125"
+			},
+			{
+				"name": "Kiyonami",
+				"rarity": "Rare",
+				"type": "DD",
+				"series": "Christmas",
+				"skin_name": "Festive Riding Hood",
+				"currency": "Ruby",
+				"price": "800",
+				"L2D": false,
+				"bgID": "125"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "Swirling Cherry Blossoms",
+		"new_ships_construction": [
+			{
+				"name": "Hibiki",
+				"rarity": "Elite",
+				"type": "DD",
+				"from": "Milestone Reward"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Spring Festival",
+		"new_ships_construction": [],
+		"new_ships_skins": [
+			{
+				"name": "Swiftsure",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"series": "Spring",
+				"skin_name": "Pearlescent Beauty",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "128"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "Fight On, Royal Maids!",
+		"new_ships_construction": [
+			{
+				"name": "Dido",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"construction_time": "00:55:00"
+			},
+			{
+				"name": "Biloxi",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00"
+			},
+			{
+				"name": "Gloucester",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00"
+			},
+			{
+				"name": "Halsey Powell",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00"
+			},
+			{
+				"name": "Dido",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"construction_time": "00:55:00",
+				"construction_chance": "2%"
+			},
+			{
+				"name": "Biloxi",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Gloucester",
+				"rarity": "Elite",
+				"type": "CL",
+				"construction_time": "01:25:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Halsey Powell",
+				"rarity": "Rare",
+				"type": "DD",
+				"construction_time": "00:28:00",
+				"construction_chance": "5%"
+			},
+			{
+				"name": "Newcastle",
+				"rarity": "Rare",
+				"type": "CL",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Lantern Festival",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Z23’s Picture Report",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Sparkling Battle Star",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Northern Overture",
+		"new_ships_construction": [
+			{
+				"name": "Gangut",
+				"rarity": "Elite",
+				"type": "BB",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Solomon Ranger",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Hibiscus-scented_Idol",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Class Z-23 Sensei",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Microlayer Medley",
+		"new_ships_construction": [
+			{
+				"name": "Bluegill",
+				"rarity": "Elite",
+				"type": "SS",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [
+			{
+				"name": "Bremerton",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"series": "Sport",
+				"skin_name": "Scorching-Hot Training",
+				"currency": "Gem",
+				"price": "880",
+				"L2D": false,
+				"bgID": "112"
+			},
+			{
+				"name": "Minneapolis",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"series": "Sport",
+				"skin_name": "eXtreme Games",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Reno",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"series": "Sport",
+				"skin_name": "Biggest Little Cheerleader",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Bluegill",
+				"rarity": "Elite",
+				"type": "SS",
+				"series": "Sport",
+				"skin_name": "Up-And-Coming Infielder",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Bache",
+				"rarity": "Rare",
+				"type": "DD",
+				"series": "Sport",
+				"skin_name": "Showy Sports Star",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Casablanca",
+				"rarity": "Rare",
+				"type": "CVL",
+				"series": "Sport",
+				"skin_name": "Cheer Squad on Break",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Marblehead",
+				"rarity": "Rare",
+				"type": "CL",
+				"series": "Sport",
+				"skin_name": "Boxing Girl!",
+				"currency": "Gem",
+				"price": "700",
+				"L2D": false
+			},
+			{
+				"name": "Cygnet",
+				"rarity": "Normal",
+				"type": "DD",
+				"series": "Sport",
+				"skin_name": "Royal Fanfare",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "112"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Golden Doubulin",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Highway Star",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Crimson Echoes Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Makinami",
+				"rarity": "Elite",
+				"type": "DD",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Little Royal Knight",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "The Way Home in the Night",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Skybound Prelude‎",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Skybound Oratorio",
+		"new_ships_construction": [
+			{
+				"name": "La Galissonnière",
+				"rarity": "Elite",
+				"type": "CL",
+				"from": "Point Accumulation"
+			}
+		],
+		"new_ships_skins": [
+			{
+				"name": "Algérie",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"series": "Summer",
+				"skin_name": "White Sand Paradise",
+				"currency": "Gem",
+				"price": "880",
+				"L2D": false,
+				"bgID": "106"
+			},
+			{
+				"name": "Jeanne d'Arc",
+				"rarity": "Super Rare",
+				"type": "CL",
+				"series": "Summer",
+				"skin_name": "Saintess of the Sea",
+				"currency": "Gem",
+				"price": "880",
+				"L2D": false,
+				"bgID": "134"
+			},
+			{
+				"name": "Béarn",
+				"rarity": "Elite",
+				"type": "CV",
+				"series": "Summer",
+				"skin_name": "Summer Lifeguard",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "106"
+			},
+			{
+				"name": "La Galissonnière",
+				"rarity": "Elite",
+				"type": "CL",
+				"series": "Summer",
+				"skin_name": "Pristine Piscene",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "133"
+			},
+			{
+				"name": "Vauquelin",
+				"rarity": "Elite",
+				"type": "DD",
+				"series": "Summer",
+				"skin_name": "Innocent Summer Knight",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "106"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "Manjuu Plaza",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Dreams of Love and Peace",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Colorful Ceremony",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Counterattack through the Fjord",
+		"new_ships_construction": [
+			{
+				"name": "Z2",
+				"rarity": "Elite",
+				"type": "DD",
+				"from": "Map Drop (SP3)"
+			}
+		],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Special Warrior Training",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Air Raid Drills with Essex Rerun",
+		"new_ships_construction": [
+			{
+				"name": "Essex",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00",
+				"construction_chance": "1.8%"
+			},
+			{
+				"name": "I-168",
+				"rarity": "Super Rare",
+				"type": "SS",
+				"construction_time": "00:30:00",
+				"construction_chance": "1.5%"
+			},
+			{
+				"name": "Shangri-La",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"construction_time": "04:25:00",
+				"construction_chance": "2.0%"
+			},
+			{
+				"name": "U-101",
+				"rarity": "Super Rare",
+				"type": "SS",
+				"construction_time": "00:12:00",
+				"construction_chance": "1.5%"
+			},
+			{
+				"name": "I-25",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:30:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "I-56",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:30:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "U-522",
+				"rarity": "Elite",
+				"type": "SS",
+				"construction_time": "00:11:00",
+				"construction_chance": "2.5%"
+			},
+			{
+				"name": "Independence",
+				"rarity": "Elite",
+				"type": "CVL",
+				"from": "Milestone Reward"
+			}
+		],
+		"new_ships_skins": [
+			{
+				"name": "Atago",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"series": "RaceQueen",
+				"skin_name": "Stunning Speedster",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Duke of York",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"series": "RaceQueen",
+				"skin_name": "Prestige of the Glorious Formula",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "I-19",
+				"rarity": "Super Rare",
+				"type": "SS",
+				"series": "Sleepy",
+				"skin_name": "Pillowy Paradise",
+				"currency": "Gem",
+				"price": "880",
+				"L2D": false,
+				"bgID": "103"
+			},
+			{
+				"name": "Prince of Wales",
+				"rarity": "Super Rare",
+				"type": "BB",
+				"series": "RaceQueen",
+				"skin_name": "The Laureate's Victory Lap",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Shangri-La",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"series": "Misc",
+				"skin_name": "Explorer of the Lost World",
+				"currency": "Gem",
+				"price": "800",
+				"L2D": false
+			},
+			{
+				"name": "Shoukaku",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"series": "RaceQueen",
+				"skin_name": "Sororal Wings",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Taihou",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"series": "RaceQueen",
+				"skin_name": "Enraptured Companion",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Takao",
+				"rarity": "Super Rare",
+				"type": "CA",
+				"series": "RaceQueen",
+				"skin_name": "Throttle Charmer",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Zuikaku",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"series": "RaceQueen",
+				"skin_name": "The Wind's True Name",
+				"currency": "Gem",
+				"price": "900",
+				"L2D": false,
+				"bgID": "132"
+			},
+			{
+				"name": "Shangri-La",
+				"rarity": "Super Rare",
+				"type": "CV",
+				"series": "Casual",
+				"skin_name": "Utopia's Collector",
+				"currency": "Gem",
+				"price": "880",
+				"L2D": false,
+				"bgID": "110"
+			},
+			{
+				"name": "Independence",
+				"rarity": "Elite",
+				"type": "CVL",
+				"series": "School",
+				"skin_name": "Transfer Student From Afar",
+				"currency": "Gem",
+				"price": "780",
+				"L2D": false,
+				"bgID": "103"
+			}
+		],
+		"new_ships_others": []
+	},
+	{
+		"name": "White Sea Under a Polar Night\n<!-- Unsure if part of White Sea",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	},
+	{
+		"name": "Neptune",
+		"new_ships_construction": [],
+		"new_ships_skins": [],
+		"new_ships_others": []
+	}
+]
