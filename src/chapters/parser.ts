@@ -15,7 +15,9 @@ const parsers: {
     "Star Conditions": parseStarCon,
     "Air Supremacy (info)": parseAirSuprem,
     "Fleet Restrictions": parseFleetRestriction,
+    "HARD Fleet Restrictions": parseFleetRestriction,
     "Stat Restrictions": parseStatsRestriction,
+    "HARD Stat Restrictions": parseStatsRestriction,
     "Map Drops": parseMapDrops,
     "Additional Notes": extractText,
     "Blueprint Drops": parseEQBPDrops,
@@ -27,6 +29,8 @@ const betterNames = {
         if (this[text]) return this[text];
         else return text;
     },
+    "hARDFleetRestrictions": "fleetRestrictions",
+    "hARDStatRestrictions": "statRestrictions",
     "3-StarRewards": "threeStarRewards"
 };
 
@@ -36,6 +40,7 @@ export function parseChapter(doc: Document, index: number, names: any) {
     let hasHardMode = boxes.length > 5;
     chapter.id = String(index);
     chapter.names = names[index] || {};
+    chapter.image = doc.querySelector(".mw-parser-output table a.image img")?.getAttribute("src");
     for (let i = 1; i <= 4; i++) {
         // @ts-ignore
         chapter[String(i)] = {

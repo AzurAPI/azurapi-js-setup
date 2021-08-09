@@ -1,5 +1,6 @@
 export class Chapter {
     id: string;
+    image: string;
     '1': Map;
     '2': Map;
     '3': Map;
