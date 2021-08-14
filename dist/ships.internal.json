@@ -12840,6 +12840,36 @@
 				"oilConsumption": "12",
 				"accuracy": "102",
 				"antisubmarineWarfare": "0"
+			},
+			"level100Retrofit": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "87",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "31",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level120Retrofit": {
+				"health": "6317",
+				"armor": "Medium",
+				"reload": "132",
+				"luck": "87",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "53",
+				"speed": "31",
+				"antiair": "357",
+				"aviation": "435",
+				"oilConsumption": "12",
+				"accuracy": "107",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -12847,19 +12877,22 @@
 				"maxEfficiency": 140,
 				"minEfficiency": 125,
 				"type": "Torpedo Bombers",
-				"max": 3
+				"max": 3,
+				"kaiEfficiency": 143
 			},
 			{
 				"maxEfficiency": 140,
 				"minEfficiency": 125,
 				"type": "Torpedo Bombers",
-				"max": 3
+				"max": 3,
+				"kaiEfficiency": 143
 			},
 			{
 				"maxEfficiency": 80,
 				"minEfficiency": 80,
 				"type": "Dive Bombers",
-				"max": 2
+				"max": 2,
+				"kaiEfficiency": 95
 			}
 		],
 		"enhanceValue": {
@@ -12893,6 +12926,16 @@
 				},
 				"description": "When this ship launches an Airstrike: 15% (25%) chance for the Airstrike to deal double DMG. Effect lasts for 10s.",
 				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/2/21/Skill_14710.png",
+				"names": {
+					"en": "Destruction Bolt",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Every 20s: launches a Lv.1 (Lv.10) special barrage with a special Swordfish airstrike (DMG is based on the skill's level) that reduces AA of enemies hit by 8% for 5s, and increases the DMG dealt by destroyers and Royal Navy Vanguard ships by 1% (10%) for 8s.",
+				"color": "gold"
 			}
 		],
 		"limitBreaks": [
@@ -12986,6 +13029,16 @@
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Retrofit",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/9/97/Ark_RoyalKai.png/799px-Ark_RoyalKai.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/58/Ark_RoyalKaiChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Retrofit"
 				}
 			},
 			{
@@ -16213,7 +16266,7 @@
 				"chibi": "https://azurlane.koumakan.jp/w/images/9/92/AyanamiBluray2Chibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Azur Lane Slow Ahead animation Blu-ray Vol 1 purchase bonus",
+					"obtainedFrom": "Azur Lane Slow Ahead Blu-Ray Limited Edition Vol. 1 bonus",
 					"enClient": "Off-Duty Battle Station Gear",
 					"cnClient": "微速战斗姿势",
 					"jpClient": "微速戦闘姿勢"
@@ -38240,6 +38293,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.08.12_1.png"
+			},
+			{
 				"description": "U-522, Akashi, Vampire, Ning Hai, Ping Hai, Prinz Eugen, Yuudachi",
 				"url": "https://azurlane.koumakan.jp/w/images/0/01/BG_2021.06.10_1.png"
 			},
@@ -39613,6 +39670,19 @@
 					"enClient": "The Eyecatch in the Rye?",
 					"cnClient": "书架边的“风景”？",
 					"jpClient": "活字も目の保養？"
+				}
+			},
+			{
+				"name": "Keeper of the Comf-Fort",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/c/ca/Z23Bluray2.png/667px-Z23Bluray2.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/6/63/Z23Bluray2Chibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Azur Lane Slow Ahead Blu-Ray Limited Edition Vol. 1 and Vol. 2 set bonus",
+					"enClient": "Keeper of the Comf-Fort",
+					"cnClient": "秘密的起居室",
+					"jpClient": "秘密のお世話ルーム"
 				}
 			}
 		],
@@ -46099,6 +46169,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.08.12_1.png"
+			},
 			{
 				"description": "U-522, Akashi, Vampire, Ning Hai, Ping Hai, Prinz Eugen, Yuudachi",
 				"url": "https://azurlane.koumakan.jp/w/images/0/01/BG_2021.06.10_1.png"
@@ -61351,9 +61425,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "Cannot Be Constructed",
+			"constructionTime": "00:28:00",
 			"availableIn": {
-				"light": false,
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -61361,7 +61435,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Monthly login reward",
+			"obtainedFrom": "August 2019 monthly login reward. Added to light construction on August 12, 2021.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -68474,6 +68548,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.08.12_1.png"
+			},
 			{
 				"description": "Detectives Essex and Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/a/aa/Bg_2021.04.01_1.png"
@@ -90787,6 +90865,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.08.12_1.png"
+			},
+			{
 				"description": "Gremyashchy, Kirov, Sovetskaya Belorussiya",
 				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.02.25_4.png"
 			}
@@ -101748,6 +101830,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.08.12_1.png"
+			},
 			{
 				"description": "Bremerton, Z23, Laffey, Javelin, Ayanami, Prinz Heinrich, Kumano, Pamiat Merkuria",
 				"url": "https://azurlane.koumakan.jp/w/images/5/55/Bg_2021.03.12_1.png"
@@ -113287,7 +113373,10 @@
 				"aviation": "0",
 				"oilConsumption": "2",
 				"accuracy": "69",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "248",
+				"ammunition": "2",
+				"huntingRange": "   5   \n  333  \n*2***2*\n***S***\n 2***2 \n  454  \n       "
 			},
 			"level100": {
 				"health": "1299",
@@ -113302,7 +113391,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "180",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "248",
+				"ammunition": "2",
+				"huntingRange": "   5   \n  333  \n*2***2*\n***S***\n 2***2 \n  454  \n       "
 			},
 			"level120": {
 				"health": "1507",
@@ -113317,7 +113409,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "199",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "248",
+				"ammunition": "2",
+				"huntingRange": "   5   \n  333  \n*2***2*\n***S***\n 2***2 \n  454  \n       "
 			}
 		},
 		"slots": [
@@ -113504,7 +113599,10 @@
 				"aviation": "0",
 				"oilConsumption": "2",
 				"accuracy": "69",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "248",
+				"ammunition": "2",
+				"huntingRange": "       \n  454  \n 2***2 \n***S***\n*2***2*\n  333  \n   5   "
 			},
 			"level100": {
 				"health": "1299",
@@ -113519,7 +113617,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "180",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "248",
+				"ammunition": "2",
+				"huntingRange": "       \n  454  \n 2***2 \n***S***\n*2***2*\n  333  \n   5   "
 			},
 			"level120": {
 				"health": "1507",
@@ -113534,7 +113635,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "199",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "248",
+				"ammunition": "2",
+				"huntingRange": "       \n  454  \n 2***2 \n***S***\n*2***2*\n  333  \n   5   "
 			}
 		},
 		"slots": [
@@ -119651,6 +119755,19 @@
 					"cnClient": "兔兔偶像·提不起劲",
 					"jpClient": "ウサウサアイドル・てきとー",
 					"cost": 800
+				}
+			},
+			{
+				"name": "Sleep to Clean Another Day",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/f/ff/LaffeyBluray2.png/833px-LaffeyBluray2.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/4/4c/LaffeyBluray2Chibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Azur Lane Slow Ahead Blu-Ray Limited Edition Vol. 2 bonus",
+					"enClient": "Sleep to Clean Another Day",
+					"cnClient": "大扫除的始末",
+					"jpClient": "お掃除の始まりと後"
 				}
 			}
 		],
@@ -135004,6 +135121,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
+				"url": "https://azurlane.koumakan.jp/w/images/c/ce/Bg_2021.08.12_1.png"
+			},
 			{
 				"description": "Detectives Essex and Enterprise",
 				"url": "https://azurlane.koumakan.jp/w/images/a/aa/Bg_2021.04.01_1.png"
