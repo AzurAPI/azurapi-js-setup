@@ -109,6 +109,7 @@ export async function parseShip(id: string, name: string, body: string): Promise
     ship.hexagon = referenceShip.property_hexagon;
     ship.class = textOr(doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a"), null);
     ship.nationality = referenceShip.unreleased ? referenceShip.nationality : NATIONALITY[referenceShip.nationality];
+    referenceShip.type = doc.querySelector(".nomobile>div>div:last-child>.wikitable tr:nth-child(3) td:last-child a:last-child")?.textContent === "Munition Ship" ? 19 : referenceShip.type;
     ship.hullType = referenceShip.unreleased ? referenceShip.type : types[referenceShip.type].en;
     if (!ship.class) ship.class = ship.names.en;
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) {

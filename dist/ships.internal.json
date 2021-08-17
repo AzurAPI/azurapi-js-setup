@@ -12930,9 +12930,9 @@
 			{
 				"icon": "https://azurlane.koumakan.jp/w/images/2/21/Skill_14710.png",
 				"names": {
-					"en": "Destruction Bolt",
-					"cn": null,
-					"jp": null
+					"en": "Destruction Bolt (Retrofit)",
+					"cn": "破灭枪弹",
+					"jp": "デストラクション銃撃"
 				},
 				"description": "Every 20s: launches a Lv.1 (Lv.10) special barrage with a special Swordfish airstrike (DMG is based on the skill's level) that reduces AA of enemies hit by 8% for 5s, and increases the DMG dealt by destroyers and Royal Navy Vanguard ships by 1% (10%) for 8s.",
 				"color": "gold"
@@ -62603,7 +62603,7 @@
 					"cn": "缓速鱼雷",
 					"jp": "低速魚雷"
 				},
-				"description": "Decreases Torpedo speed by 1 and increases Torpedo damage by 4.5% (12%).",
+				"description": "Decreases Torpedo speed by 10 knots and increases Torpedo damage by 4.5% (12%).",
 				"color": "pink"
 			},
 			{
@@ -79842,7 +79842,7 @@
 					"cn": "缓速鱼雷",
 					"jp": "低速魚雷"
 				},
-				"description": "Decreases Torpedo speed by 1 and increases Torpedo damage by 4.5% (12%).",
+				"description": "Decreases Torpedo speed by 10 knots and increases Torpedo damage by 4.5% (12%).",
 				"color": "pink"
 			},
 			{
@@ -80113,7 +80113,7 @@
 					"cn": "缓速鱼雷",
 					"jp": "低速魚雷"
 				},
-				"description": "Decreases Torpedo speed by 1 and increases Torpedo damage by 4.5% (12%).",
+				"description": "Decreases Torpedo speed by 10 knots and increases Torpedo damage by 4.5% (12%).",
 				"color": "pink"
 			},
 			{
@@ -98964,7 +98964,7 @@
 		],
 		"class": "Kashino",
 		"nationality": "Sakura Empire",
-		"hullType": "Destroyer",
+		"hullType": "Munition Ship",
 		"thumbnail": "https://azurlane.koumakan.jp/w/images/9/9c/KashinoIcon.png",
 		"rarity": "Elite",
 		"stars": {
@@ -100504,7 +100504,7 @@
 					"cn": "超限充能",
 					"jp": "対甲弾ハイパーチャージμ"
 				},
-				"description": "At the start of the battle, and with a 40% (70%) chance every 20s after that: changes this ship's main gun ammo type to special HEIn game displays AP with 90/100/110 (100/110/120) modifiers and speed 180 for 10s.",
+				"description": "At the start of the battle, and with a 40% (70%) chance every 20s after that: changes this ship's main gun ammo type to special HEIn game displays AP with 90/100/110 (100/110/120) modifiers and speed 180 knots for 10s.",
 				"color": "pink"
 			},
 			{
@@ -106380,7 +106380,7 @@
 					"cn": "缓慢而热烈",
 					"jp": "厳かに、荒々しく"
 				},
-				"description": "Reduces the speed of torpedoes fired by this ship by 1, increases Torpedo Crit Rate by 20% (40%), Torpedo Crit DMG by 20% (40%), and decreases the loading time of the first Torpedo salvo by 50%.",
+				"description": "Reduces the speed of torpedoes fired by this ship by 10 knots, increases Torpedo Crit Rate by 20% (40%), Torpedo Crit DMG by 20% (40%), and decreases the loading time of the first Torpedo salvo by 50%.",
 				"color": "gold"
 			},
 			{
