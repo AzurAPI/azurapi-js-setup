@@ -42253,7 +42253,7 @@
 				"nobg": null,
 				"cn": null,
 				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_106.png",
-				"chibi": "https://azurlane.koumakan.jp/w/images/thumb/5/59/Prinz_EugenSummerChibi.png/142px-Prinz_EugenSummerChibi.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/5/59/Prinz_EugenSummerChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
@@ -57306,6 +57306,19 @@
 					"jpClient": "新年大合戦",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Sengoku☆Smasher!",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/8/83/IsokazeIdol.png/602px-IsokazeIdol.png",
+				"background": "https://azurlane.koumakan.jp/w/images/6/64/Skin_BG_103.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/00/IsokazeIdolChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Sengoku War-Band! - Complete daily missions for 7 days",
+					"enClient": "Sengoku☆Smasher!",
+					"cnClient": "战国组合！",
+					"jpClient": "センゴク☆ユニット！"
+				}
 			}
 		],
 		"gallery": []
@@ -62189,6 +62202,20 @@
 					"cnClient": "惊叫南瓜！",
 					"jpClient": "ドッキリカボチャ！",
 					"cost": 780
+				}
+			},
+			{
+				"name": "Mischief on the Rocks",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/0/04/AbercrombieBunny.png/458px-AbercrombieBunny.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/d/dc/AbercrombieBunnyChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Mischief on the Rocks",
+					"cnClient": "坏坏兔的恶作剧！",
+					"jpClient": "ミスチーフ・レッド",
+					"cost": 1080
 				}
 			}
 		],
@@ -87320,8 +87347,8 @@
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
 					"enClient": "Straightfaced Model Student",
-					"cnClient": "?",
-					"jpClient": "?",
+					"cnClient": "偶遇的优等生",
+					"jpClient": "優等生なんだからっ",
 					"cost": 880
 				}
 			}
@@ -92231,6 +92258,22 @@
 					"cnClient": "夏日番外篇",
 					"jpClient": "サマー・スピンオフ",
 					"cost": 880
+				}
+			},
+			{
+				"name": "Reno Bunnino",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/3/3e/RenoBunny.png/418px-RenoBunny.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/4/4e/RenoBunnyWithoutBG.png/393px-RenoBunnyWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/99/RenoBunnyChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Reno Bunnino",
+					"cnClient": "bunny·reno！",
+					"jpClient": "バニーリノ！",
+					"cost": 1180
 				}
 			}
 		],
@@ -110548,6 +110591,522 @@
 					"cnClient": "放学后的悠扬",
 					"jpClient": "風雲は悠々と流れる",
 					"cost": 880
+				}
+			}
+		],
+		"gallery": []
+	},
+	"518": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Ingraham",
+		"id": "518",
+		"_gid": 10148,
+		"_sid": [
+			101481,
+			101482,
+			101483,
+			101484
+		],
+		"_code": 518,
+		"names": {
+			"en": "Ingraham",
+			"code": "USS Ingraham",
+			"cn": "英格拉罕",
+			"jp": "イングラハム",
+			"kr": "Ingraham"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			3,
+			0,
+			3,
+			4,
+			2
+		],
+		"class": "Allen M. Sumner",
+		"nationality": "Eagle Union",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/d/df/IngrahamIcon.png",
+		"rarity": "Super Rare",
+		"stars": {
+			"stars": "★★★★★★",
+			"value": 6
+		},
+		"stats": {
+			"baseStats": {
+				"health": "387",
+				"armor": "Light",
+				"reload": "84",
+				"luck": "75",
+				"firepower": "25",
+				"torpedo": "72",
+				"evasion": "59",
+				"speed": "40",
+				"antiair": "43",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "76",
+				"antisubmarineWarfare": "55"
+			},
+			"level100": {
+				"health": "2000",
+				"armor": "Light",
+				"reload": "199",
+				"luck": "75",
+				"firepower": "119",
+				"torpedo": "338",
+				"evasion": "154",
+				"speed": "40",
+				"antiair": "200",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "198",
+				"antisubmarineWarfare": "200"
+			},
+			"level120": {
+				"health": "2400",
+				"armor": "Light",
+				"reload": "229",
+				"luck": "75",
+				"firepower": "137",
+				"torpedo": "378",
+				"evasion": "179",
+				"speed": "40",
+				"antiair": "230",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "208",
+				"antisubmarineWarfare": "221"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 125,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 125,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 180,
+				"minEfficiency": 170,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 8,
+			"torpedo": 24,
+			"aviation": 0,
+			"reload": 16
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/b/be/Skill_14720.png",
+				"names": {
+					"en": "Support Robot Mk IV",
+					"cn": "Assist Robot",
+					"jp": "アシスト・ガン・メカ"
+				},
+				"description": "3s after the battle starts and every 20s: summons a support robot for 10s. When summoned, the robot: 1) fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and spawns 2 shields (last 5s) that can each block up to 10 enemy shells; 2) targets your Vanguard ship with the lowest % of HP left and heals her for 0.5% max HP 3 times over 10s; 3) increases your fleet's AA by 5.0% (15.0%) while it is deployed.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/f/fb/Skill_14730.png",
+				"names": {
+					"en": "Combat Mechanic",
+					"cn": "战场技师",
+					"jp": "バトルメカニック"
+				},
+				"description": "Increases this ship's AA by 20.0% (50.0%) of her total TRP stat (base stats plus gear) and decreases the Burn DMG she takes by 5.0% (15.0%). This ship heals herself for 1.0% of her max HP every 15s in combat.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/6/6e/Skill_29750.png",
+				"names": {
+					"en": "All-Out Assault: II",
+					"cn": "专属弹幕-英格拉罕II",
+					"jp": "特殊弾幕-イングラハムⅡ"
+				},
+				"description": "Activates All Out Assault II: Ingraham once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage Ⅰ",
+				"All weapons' efficiency +2%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"All weapons' efficiency +3%"
+			],
+			[
+				"Improve EX Barrage",
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+1",
+					"stat": "antiair"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+2",
+					"stat": "health"
+				}
+			},
+			"techPoints": {
+				"collection": 12,
+				"maxLimitBreak": 24,
+				"maxLevel": 18,
+				"total": 54
+			}
+		},
+		"construction": {
+			"constructionTime": "00:29:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Nagu",
+				"url": "https://azurlane.koumakan.jp/Artists#Nagu"
+			},
+			"pixiv": {
+				"name": "Nagu",
+				"url": "https://www.pixiv.net/en/users/316388"
+			},
+			"twitter": {
+				"name": "Nagu",
+				"url": "https://twitter.com/wooperfuri"
+			},
+			"web": {
+				"name": "Nagupurin",
+				"url": "https://weibo.com/wooperfuri"
+			},
+			"voice": {
+				"name": "Hiyori Kono",
+				"url": "https://en.wikipedia.org/wiki/Hiyori_Kono"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/5/58/Ingraham.png/601px-Ingraham.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/b/b0/IngrahamChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Fixin' for a Mixin'",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/b/b8/IngrahamBunny.png/700px-IngrahamBunny.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/c/c5/IngrahamBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Fixin' for a Mixin'",
+					"cnClient": "饮品研究员？",
+					"jpClient": "ドリンクもお手の物！",
+					"cost": 880
+				}
+			}
+		],
+		"gallery": []
+	},
+	"519": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Nautilus",
+		"id": "519",
+		"_gid": 10807,
+		"_sid": [
+			108071,
+			108072,
+			108073,
+			108074
+		],
+		"_code": 519,
+		"names": {
+			"en": "Nautilus",
+			"code": "USS Nautilus",
+			"cn": "鹦鹉螺",
+			"jp": "ノーチラス",
+			"kr": "Nautilus"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			1,
+			5,
+			0,
+			1,
+			0,
+			1
+		],
+		"class": "Narwhal",
+		"nationality": "Eagle Union",
+		"hullType": "Submarine",
+		"thumbnail": "https://azurlane.koumakan.jp/w/images/8/8d/NautilusIcon.png",
+		"rarity": "Elite",
+		"stars": {
+			"stars": "★★★★★",
+			"value": 5
+		},
+		"stats": {
+			"baseStats": {
+				"health": "396",
+				"armor": "Light",
+				"reload": "34",
+				"luck": "69",
+				"firepower": "21",
+				"torpedo": "96",
+				"evasion": "7",
+				"speed": "13",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "66",
+				"antisubmarineWarfare": "0",
+				"oxygen": "263",
+				"ammunition": "2",
+				"huntingRange": "       \n  545  \n 4***4 \n 3*S*3 \n 3***3 \n  2*2  \n 22*   "
+			},
+			"level100": {
+				"health": "2048",
+				"armor": "Light",
+				"reload": "80",
+				"luck": "69",
+				"firepower": "98",
+				"torpedo": "453",
+				"evasion": "18",
+				"speed": "13",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "6",
+				"accuracy": "172",
+				"antisubmarineWarfare": "0",
+				"oxygen": "263",
+				"ammunition": "2",
+				"huntingRange": "       \n  545  \n 4***4 \n 3*S*3 \n 3***3 \n  2*2  \n 22*   "
+			},
+			"level120": {
+				"health": "2458",
+				"armor": "Light",
+				"reload": "92",
+				"luck": "69",
+				"firepower": "113",
+				"torpedo": "499",
+				"evasion": "36",
+				"speed": "13",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "6",
+				"accuracy": "193",
+				"antisubmarineWarfare": "0",
+				"oxygen": "263",
+				"ammunition": "2",
+				"huntingRange": "       \n  545  \n 4***4 \n 3*S*3 \n 3***3 \n  2*2  \n 22*   "
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 110,
+				"type": "Submarine Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 105,
+				"type": "Submarine Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 90,
+				"minEfficiency": 90,
+				"type": "CL/DD Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 2,
+			"torpedo": 38,
+			"aviation": 0,
+			"reload": 6
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/7/70/Skill_14740.png",
+				"names": {
+					"en": "The Intrepid Nautilus",
+					"cn": "莽撞的鹦鹉螺",
+					"jp": "25000マイルのノーチラス"
+				},
+				"description": "At the start of the battle: this boat moves forward a set distance, then fires a Lv.1 (Lv.10) torpedo barrage (DMG is based on the skill's level) and briefly resurfaces. Afterwards, she submerges and moves back into attack position, then fires a stronger Lv.1 (Lv.10) torpedo barrage. This boat takes 20.0% (60.0%) less DMG while resurfaced as part of this skill's effect.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/3/3d/Skill_14750.png",
+				"names": {
+					"en": "Lure",
+					"cn": "以身诱敌",
+					"jp": "捨て身のVボート"
+				},
+				"description": "When this boat is hit by an enemy: increases that enemy's DMG taken by 3.5% (8.0%) for 3s. If the enemy is a DD: also decreases that enemy's Speed by 5.0% (20.0%) for 5s.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.koumakan.jp/w/images/9/9d/Skill_20300.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射Ⅱ"
+				},
+				"description": "Activates All Out Assault II: Narwhal-class immediately after leaving the battle.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Improve Hunting range"
+			],
+			[
+				"Improve All Out Assault",
+				"Torpedo efficiency +10%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				}
+			},
+			"techPoints": {
+				"collection": 5,
+				"maxLimitBreak": 10,
+				"maxLevel": 8,
+				"total": 23
+			}
+		},
+		"construction": {
+			"constructionTime": "00:23:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "水乌龟XD",
+				"url": "https://azurlane.koumakan.jp/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD"
+			},
+			"pixiv": {
+				"name": "Suisai❤",
+				"url": "https://www.pixiv.net/member.php?id=1596981"
+			},
+			"twitter": {
+				"name": "水乌龟",
+				"url": "https://twitter.com/suisaiii"
+			},
+			"web": {
+				"name": "水乌龟XD",
+				"url": "https://www.weibo.com/suisao"
+			},
+			"voice": {
+				"name": "Akiho Suzumoto",
+				"url": "https://www.vims.co.jp/talent_profile_detail.php?id=113"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/79/Nautilus.png/542px-Nautilus.png",
+				"background": "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/9/9f/NautilusChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Afternoon Stretches",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/NautilusBunny.png/880px-NautilusBunny.png",
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/fd/NautilusBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Afternoon Stretches",
+					"cnClient": "黑兔休息中",
+					"jpClient": "ちょっびり、背伸び～",
+					"cost": 780
 				}
 			}
 		],
@@ -130784,6 +131343,22 @@
 					"live2dModel": false,
 					"obtainedFrom": "Default"
 				}
+			},
+			{
+				"name": "The Heart's Desire",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/a/a0/North_CarolinaBunny.png/712px-North_CarolinaBunny.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/9/94/North_CarolinaBunnyWithoutBG.png/516px-North_CarolinaBunnyWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/0/0b/North_CarolinaBunnyChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "The Heart's Desire",
+					"cnClient": "秘密的换装练习？",
+					"jpClient": "内なる力と正義",
+					"cost": 1180
+				}
 			}
 		],
 		"gallery": [
@@ -137500,6 +138075,22 @@
 					"enClient": "Ardent Valentine",
 					"cnClient": "热心的情人节",
 					"jpClient": "バレンタインの熱心",
+					"cost": 780
+				}
+			},
+			{
+				"name": "Master Ardent?",
+				"image": "https://azurlane.koumakan.jp/w/images/thumb/6/63/ArdentBunny.png/614px-ArdentBunny.png",
+				"nobg": "https://azurlane.koumakan.jp/w/images/thumb/8/86/ArdentBunnyWithoutBG.png/649px-ArdentBunnyWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.koumakan.jp/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.koumakan.jp/w/images/f/f6/ArdentBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Master Ardent?",
+					"cnClient": "Master·热心？",
+					"jpClient": "マスター・アーデント？",
 					"cost": 780
 				}
 			}
