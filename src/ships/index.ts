@@ -166,7 +166,8 @@ export function publishShips() {
     VERSION_INFO.ships["last-data-refresh-date"] = Date.now();
     VERSION_INFO["version-number"] = (VERSION_INFO["version-number"] ?? 0) + 1;
     fs.writeFileSync(VERSION_PATH, JSON.stringify(VERSION_INFO));
-    console.log("Done");
+    console.log("Done Publishing");
+    process.exit();
 }
 
 function publishSkill(id: string, skill: Skill, skills: Skill[], names: string[]) {

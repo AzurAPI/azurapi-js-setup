@@ -32,13 +32,24 @@ export function fetch(url: string, localPath: string): Promise<string> {
     });
 }
 
+let task_pool: Promise<any>[] = [];
+
+async function run(promise: Promise<void>): Promise<void> {
+    while (task_pool.length >= 10) {
+        await Promise.race(task_pool).catch(() => {
+        });
+    }
+    task_pool.push(promise);
+    promise.finally(() => {
+        task_pool = task_pool.filter(e => e !== promise);
+    });
+}
+
 export function fetchImage(url: string, localPath: string, bar?: SingleBar): Promise<void> {
     if (!url) return Promise.resolve();
     if (url.includes("thumb")) url = galleryThumbnailUrlToActualUrl(url);
-    return new Promise((resolve, reject) => {
+    return run(new Promise((resolve, reject) => {
         if (fs.existsSync(localPath)) if (verifyFile(url, localPath)) return resolve(); else {
-            console.log("Corrupted", url, localPath);
-            console.log(fs.statSync(localPath)["size"], PATH_SIZE[url]);
             delete PATH_SIZE[url];
             fs.unlinkSync(localPath);
         }
@@ -54,7 +65,8 @@ export function fetchImage(url: string, localPath: string, bar?: SingleBar): Pro
                 .on('finish', () => resolve())
                 .on('error', () => reject());
         })
-    });
+        setTimeout(() => reject(), 20000);
+    }));
 }
 
 export function deepToString(parent: Element) {

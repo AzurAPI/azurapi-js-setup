@@ -115,18 +115,18 @@ export async function parseShip(id: string, name: string, body: string): Promise
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) {
         let images = doc.getElementsByTagName("img");
         ship.unreleased = true;
-        ship.thumbnail = BASE + images[1].getAttribute("src");
+        ship.thumbnail = images[1].getAttribute("src");
         ship.skins = [{
             name: name,
-            image: BASE + images[0].src,
+            image: images[0].src,
             background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-            chibi: doc.querySelector("td > div > div:nth-child(2) img") ? BASE + doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
+            chibi: doc.querySelector("td > div > div:nth-child(2) img") ? doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
             info: {obtainedFrom: "Default", live2dModel: false}
         }];
         ship.rarity = "Unreleased";
         return ship;
     }
-    ship.thumbnail = BASE + doc.querySelector(".nomobile>div>div>a>img").getAttribute("src");
+    ship.thumbnail = doc.querySelector(".nomobile>div>div>a>img").getAttribute("src")
     ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentElement.title as Rarity;
     let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim().replace(/[^★☆]/g, '');
     ship.stars = {
@@ -243,7 +243,7 @@ function parseDevelopmentLevelBuff(row: Element): string {
 function parseSkill(title: Element, body: Element) {
     if (!title || !body) return null;
     return {
-        icon: title.getElementsByTagName("img")[0] ? "https://azurlane.koumakan.jp" + galleryThumbnailUrlToActualUrl(title.getElementsByTagName("img")[0].src) : null,
+        icon: title.getElementsByTagName("img")[0] ? galleryThumbnailUrlToActualUrl(title.getElementsByTagName("img")[0].src) : null,
         names: {
             en: title.firstElementChild.firstElementChild.lastElementChild.childNodes[0].textContent,
             cn: title.querySelector("[lang='zh']") ? title.querySelector("[lang='zh']").textContent : null,
@@ -330,34 +330,51 @@ function parseShipEQSlot(slot: Element): Slot {
 }
 
 function parseStats(doc: Document): ShipStats {
+    let table = doc.querySelector(".mw-parser-output>.nomobile>div>div>div>.wikitable tbody");
     let allStats: ShipStats = {baseStats: {}, level100: {}, level120: {}};
-    ["Base Stats", "Level 100", "Level 120", "Level 100 Retrofit", "Level 120 Retrofit"].map(level => {
-        return doc.querySelector("[title='" + level + "'] tbody");
-    }).forEach(tab => {
-        if (!tab) return;
-        let stats: Stats = {};
-        let title = tab.parentElement.parentElement.title;
-        if (!title) return;
-        let names = tab.querySelectorAll("th"),
-            bodies = tab.querySelectorAll("td");
-        for (let j = 0; j < names.length; j++) {
-            let type = (<HTMLElement>names[j].firstElementChild).title;
-            if (type === "Hunting range") {
-                stats.huntingRange = Array.from(doc.querySelectorAll(".tabbertab:nth-child(2) > .wikitable table tr")).map(row => {
+    let titles: string[] = Array.from(table.firstElementChild.children)
+        .map(e => camelize((e.firstElementChild?.getAttribute("title") || e.firstElementChild?.firstElementChild.textContent.toLowerCase() || e.textContent).replace(/[^\w ]/g, '')))
+        .map(t => t === "aMO" ? "ammunition" : t);
+    let values = Array.from(table.children)
+        .map(t => Array.from(t.children).map(e => e.textContent));
+    for (let i = 1; i < table.children.length - 1; i++) {
+        let row = table.children[i];
+        let name = camelize(row.firstElementChild.textContent.trim());
+        let stats: Stats = {
+            health: "",
+            armor: "",
+            reload: "",
+            luck: "",
+            firepower: "",
+            torpedo: "",
+            evasion: "",
+            speed: "",
+            antiair: "",
+            aviation: "",
+            oilConsumption: "",
+            accuracy: "",
+            antisubmarineWarfare: ""
+        };
+        for (let j = 1; j < titles.length; j++) {
+            if (!titles[j] || titles[j].trim().length === 0) continue;
+            if (!isStat(titles[j])) {
+                console.log("Irregular stat" + doc.location.href);
+                throw 'parseStat ' + titles[j];
+            }
+
+            if (titles[j] === "huntingRange") {
+                stats.huntingRange = Array.from(table.firstElementChild.children[j].querySelectorAll("table tbody tr")).map(row => {
                     return Array.from(row.querySelectorAll("td")).map(cell => cell.style.backgroundColor ? cell.style.backgroundColor === "PaleGreen" ? "S" : cell.textContent.trim() || "*" : " ").join("");
                 }).join('\n');
             } else {
-                let key = camelize(type.replace(/[^\w ]/g, ''));
-                if (!isStat(key)) {
-                    console.log("Irregular stat" + doc.location.href);
-                    throw 'parseStat ' + key;
-                }
-                stats[<Stat>key] = bodies[j].textContent.trim();
+                stats[<Stat>titles[j]] = values[i][j].trim();
+                if (row.children[j]?.getAttribute("rowspan"))
+                    values.filter((e, I) => I !== i).forEach(a => a.splice(j, 0, values[i][j]));
             }
         }
         // @ts-ignore
-        allStats[camelize(title.replace(/[^\w ]/g, ''))] = stats;
-    });
+        allStats[name.replace("base", "baseStats")] = stats;
+    }
     return allStats;
 }
 
