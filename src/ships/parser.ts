@@ -336,7 +336,7 @@ function parseStats(doc: Document): ShipStats {
         .map(e => camelize((e.firstElementChild?.getAttribute("title") || e.firstElementChild?.firstElementChild.textContent.toLowerCase() || e.textContent).replace(/[^\w ]/g, '')))
         .map(t => t === "aMO" ? "ammunition" : t);
     let values = Array.from(table.children)
-        .map(t => Array.from(t.children).map(e => e.textContent));
+        .map(t => Array.from(t.children).map(e => e.textContent.trim()));
     for (let i = 1; i < table.children.length - 1; i++) {
         let row = table.children[i];
         let name = camelize(row.firstElementChild.textContent.trim());
@@ -362,15 +362,15 @@ function parseStats(doc: Document): ShipStats {
                 throw 'parseStat ' + titles[j];
             }
 
-            if (titles[j] === "huntingRange") {
-                stats.huntingRange = Array.from(table.firstElementChild.children[j].querySelectorAll("table tbody tr")).map(row => {
+            if (titles[j] === "huntingRange" && row.children[j]) {
+                stats.huntingRange = Array.from(row.children[j].querySelectorAll("table tbody tr")).map(row => {
                     return Array.from(row.querySelectorAll("td")).map(cell => cell.style.backgroundColor ? cell.style.backgroundColor === "PaleGreen" ? "S" : cell.textContent.trim() || "*" : " ").join("");
                 }).join('\n');
             } else {
-                stats[<Stat>titles[j]] = values[i][j].trim();
-                if (row.children[j]?.getAttribute("rowspan"))
-                    values.filter((e, I) => I !== i).forEach(a => a.splice(j, 0, values[i][j]));
+                stats[<Stat>titles[j]] = values[i][j];
             }
+            if (row.children[j]?.getAttribute("rowspan"))
+                values.filter((e, I) => I !== i).forEach(a => a.splice(j, 0, stats[<Stat>titles[j]]));
         }
         // @ts-ignore
         allStats[name.replace("base", "baseStats")] = stats;

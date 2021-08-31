@@ -7175,7 +7175,7 @@
 					"cn": "正面装甲",
 					"jp": "正面装甲"
 				},
-				"description": "Upon taking damage: 15% chance to spawn a frontal shield for 5 (15) seconds that blocks up to 12 shots.",
+				"description": "Upon taking damage: 15% chance to spawn a frontal shield for 5s (15s) that blocks up to 12 shots.",
 				"color": "deepskyblue"
 			},
 			{
@@ -13904,7 +13904,7 @@
 					"cn": "机关禁止",
 					"jp": "じっとしてなさい！"
 				},
-				"description": "When launching an Airstrike: 50% (80%) chance to reduce the Speed of all enemies to 0 for 0.5 (1.5) seconds. After that, enemy ships will regain their Speed during the next 2.5s. This skill always activates on the first airstrike of each battle.",
+				"description": "When launching an Airstrike: 50% (80%) chance to reduce the Speed of all enemies to 0 for 0.5s (1.5s). After that, enemy ships will regain their Speed during the next 2.5s. This skill always activates on the first airstrike of each battle.",
 				"color": "gold"
 			},
 			{
@@ -18994,7 +18994,7 @@
 					"cn": "火力干扰",
 					"jp": "かく乱射撃"
 				},
-				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5s (10s). Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -19962,7 +19962,7 @@
 					"cn": "幸运舰？",
 					"jp": "幸運艦？"
 				},
-				"description": "Every 20s, gain one of three random effect for 5 (10) seconds:30% - Evasion: Increases Evasion by 30%30% - Critical: Increases critical chance by 20% and critical damage by 50%40% - Sunder: Increases damage taken by 20%.",
+				"description": "Every 20s, gain one of three random effect for 5s (10s):30% - Evasion: Increases Evasion by 30%30% - Critical: Increases critical chance by 20% and critical damage by 50%40% - Sunder: Increases damage taken by 20%.",
 				"color": "deepskyblue"
 			},
 			{
@@ -36467,7 +36467,7 @@
 					"cn": "最后的反击",
 					"jp": "飛龍ハ健在ナリ"
 				},
-				"description": "Once per battle, if this ship would sink, instead launch an airstrike and become invincible (i.e. immune to all damage) for 5 (15) seconds.",
+				"description": "Once per battle, if this ship would sink, instead launch an airstrike and become invincible (i.e. immune to all damage) for 5s (15s).",
 				"color": "deepskyblue"
 			},
 			{
@@ -41407,7 +41407,7 @@
 					"cn": "安全第一!",
 					"jp": "安全第一！"
 				},
-				"description": "While alive in fleet, increases Speed of all ships in Escort Fleet by 3, and reduces damage taken from ramming by 15% (25%). Once per battle, when taking damage while own Health is below 30%: evades all incoming attack for 2 (5) seconds, and increases own damage dealt by 5% (15%) for the rest of the battle.",
+				"description": "While alive in fleet, increases Speed of all ships in Escort Fleet by 3, and reduces damage taken from ramming by 15% (25%). Once per battle, when taking damage while own Health is below 30%: evades all incoming attack for 2s (5s), and increases own damage dealt by 5% (15%) for the rest of the battle.",
 				"color": "deepskyblue"
 			},
 			{
@@ -41852,7 +41852,7 @@
 					"cn": "守卫之盾",
 					"jp": "守護の盾"
 				},
-				"description": "Every 30s, spawns 2 rotating shields; each shield can block 10 bullets. Shields last for 5 (15) seconds.",
+				"description": "Every 30s, spawns 2 rotating shields; each shield can block 10 bullets. Shields last for 5s (15s).",
 				"color": "deepskyblue"
 			},
 			{
@@ -43362,7 +43362,7 @@
 					"cn": "鱼雷发射",
 					"jp": "魚雷発射"
 				},
-				"description": "Every 35 (20)s: fires 3 torpedoes towards the enemy (DMG is based on skill's level).Barrage preview (gif)",
+				"description": "Every 35s (every 20s): fires 3 torpedoes towards the enemy (DMG is based on skill's level).Barrage preview (gif)",
 				"color": "pink"
 			}
 		],
@@ -47316,7 +47316,7 @@
 					"cn": "火力干扰",
 					"jp": "かく乱射撃"
 				},
-				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5s (10s). Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -59348,7 +59348,7 @@
 					"cn": "火力干扰",
 					"jp": "かく乱射撃"
 				},
-				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5s (10s). Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -74263,7 +74263,7 @@
 					"cn": "816中队",
 					"jp": "北極航路の守り手"
 				},
-				"description": "When this ship launches an airstrike, reveal the location of all enemy submarines for 5 (10) seconds and decrease their speed by 40%. Additionally, launch a special barrage of anti-submarine swordfish planes (barrage damage scales with skill level).",
+				"description": "When this ship launches an airstrike, reveal the location of all enemy submarines for 5s (10s) and decrease their speed by 40%. Additionally, launch a special barrage of anti-submarine swordfish planes (barrage damage scales with skill level).",
 				"color": "pink"
 			}
 		],
@@ -76604,7 +76604,7 @@
 					"cn": "赤红的加护",
 					"jp": "紅きカミの加護"
 				},
-				"description": "During own air strike, lowest percent HP vanguard ship will evade all damage for 2 (5) seconds.",
+				"description": "During own air strike, lowest percent HP vanguard ship will evade all damage for 2s (5s).",
 				"color": "gold"
 			}
 		],
@@ -89408,7 +89408,7 @@
 					"cn": "Mercury Memorial",
 					"jp": "メルクーリイへ思い出を込めて"
 				},
-				"description": "Increase this ship's damage dealt to enemy CAs and BBs by 5% (20%). When this ship takes damage, 15% chance to for it to evade all enemy attacks for 5 (10) seconds. (This skill has a 20s cooldown when activated and starts on cooldown.)",
+				"description": "Increase this ship's damage dealt to enemy CAs and BBs by 5% (20%). When this ship takes damage, 15% chance to for it to evade all enemy attacks for 5s (10s). (This skill has a 20s cooldown when activated and starts on cooldown.)",
 				"color": "pink"
 			},
 			{
@@ -96468,7 +96468,7 @@
 					"cn": "广域舰船维护",
 					"jp": "ハデス・リペアラー"
 				},
-				"description": "Increases this ship's max Airstrike capacity to 3 and restores 1% HP to all ships in the same fleet as this ship once every 40 (20)s. 20s after the fleet this ship is NOT in starts a battle: heals that fleet's Vanguard for 1.5% (3%) HP.(In Operation Siren, the cross-fleet healing effect is halved. Toll of War effect does not negate the max Airstrike capacity increase.)",
+				"description": "Increases this ship's max Airstrike capacity to 3 and restores 1% HP to all ships in the same fleet as this ship once every 40s (every 20s). 20s after the fleet this ship is NOT in starts a battle: heals that fleet's Vanguard for 1.5% (3%) HP.(In Operation Siren, the cross-fleet healing effect is halved. Toll of War effect does not negate the max Airstrike capacity increase.)",
 				"color": "gold"
 			}
 		],
@@ -100243,7 +100243,8 @@
 				"accuracy": "66",
 				"antisubmarineWarfare": "0",
 				"oxygen": "243",
-				"ammunition": ""
+				"ammunition": "2",
+				"huntingRange": "   4   \n  323  \n ****2 \n4**S*5 \n 2***4 \n  323  \n   5   "
 			},
 			"level100": {
 				"health": "1536",
@@ -100260,7 +100261,8 @@
 				"accuracy": "172",
 				"antisubmarineWarfare": "0",
 				"oxygen": "243",
-				"ammunition": ""
+				"ammunition": "2",
+				"huntingRange": "   4   \n  323  \n ****2 \n4**S*5 \n 2***4 \n  323  \n   5   "
 			},
 			"level120": {
 				"health": "1843",
@@ -100277,7 +100279,8 @@
 				"accuracy": "193",
 				"antisubmarineWarfare": "0",
 				"oxygen": "243",
-				"ammunition": ""
+				"ammunition": "2",
+				"huntingRange": "   4   \n  323  \n ****2 \n4**S*5 \n 2***4 \n  323  \n   5   "
 			}
 		},
 		"slots": [
@@ -102512,7 +102515,7 @@
 		"slots": [
 			{
 				"maxEfficiency": 125,
-				"minEfficiency": 114,
+				"minEfficiency": 115,
 				"type": "CL Guns",
 				"max": 1
 			},
@@ -106868,7 +106871,7 @@
 				"accuracy": "61",
 				"antisubmarineWarfare": "0",
 				"oxygen": "208",
-				"ammunition": "",
+				"ammunition": "2",
 				"huntingRange": "542 245\n32*3*23\n ***** \n  *S*  \n ***** \n   *   \n       "
 			},
 			"level100": {
@@ -106886,7 +106889,7 @@
 				"accuracy": "159",
 				"antisubmarineWarfare": "0",
 				"oxygen": "208",
-				"ammunition": "",
+				"ammunition": "2",
 				"huntingRange": "542 245\n32*3*23\n ***** \n  *S*  \n ***** \n   *   \n       "
 			},
 			"level120": {
@@ -106904,7 +106907,7 @@
 				"accuracy": "178",
 				"antisubmarineWarfare": "0",
 				"oxygen": "208",
-				"ammunition": "",
+				"ammunition": "2",
 				"huntingRange": "542 245\n32*3*23\n ***** \n  *S*  \n ***** \n   *   \n       "
 			}
 		},
@@ -110466,7 +110469,7 @@
 					"cn": "鱼雷！蓄势待发",
 					"jp": "悠々と魚雷攻撃"
 				},
-				"description": "Increases this ship's TRP by 1% (5%) and RLD by 5% (15%). Whenever this ship's All-Out Assault skill activates: decreases the loading time of this ship's next Torpedo wave by 1 (3)s.",
+				"description": "Increases this ship's TRP by 1% (5%) and RLD by 5% (15%). Whenever this ship's All-Out Assault skill activates: decreases the loading time of this ship's next Torpedo wave by 1s (3s).",
 				"color": "pink"
 			},
 			{
@@ -113825,7 +113828,7 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
 				"light": false,
 				"heavy": false,
@@ -113835,6 +113838,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available as a point-accumulation reward during the Azur Anthem event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -121598,7 +121602,7 @@
 					"cn": "彩虹计划",
 					"jp": "レインボー・プラン"
 				},
-				"description": "When taking damage: Vanguard Fleet has 15% chance to evade all incoming attacks for 5 (10) seconds (Has a 20s cooldown. Skill starts on cooldown.)",
+				"description": "When taking damage: Vanguard Fleet has 15% chance to evade all incoming attacks for 5s (10s) (Has a 20s cooldown. Skill starts on cooldown.)",
 				"color": "deepskyblue"
 			},
 			{
@@ -126881,7 +126885,7 @@
 					"cn": "潘多拉的魔盒",
 					"jp": "パンドラボックス"
 				},
-				"description": "Every 30s, spawns 2 rotating shields for 5 (15) seconds that block up to 8 shots. When broken, explodes and deals a small amount of damage to nearby enemies.",
+				"description": "Every 30s, spawns 2 rotating shields for 5s (15s) that block up to 8 shots. When broken, explodes and deals a small amount of damage to nearby enemies.",
 				"color": "deepskyblue"
 			},
 			{
@@ -137748,7 +137752,7 @@
 					"cn": "火力干扰",
 					"jp": "かく乱射撃"
 				},
-				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+				"description": "Every 20s: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5s (10s). Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
 				"color": "gold"
 			},
 			{
@@ -143372,7 +143376,7 @@
 					"cn": "全方位装甲",
 					"jp": "全方位装甲"
 				},
-				"description": "Every 30s: spawns 4 rotating shields that absorb 8 shots each; lasts 5 (15) seconds.",
+				"description": "Every 30s: spawns 4 rotating shields that absorb 8 shots each; lasts 5s (15s).",
 				"color": "deepskyblue"
 			},
 			{
@@ -143382,7 +143386,7 @@
 					"cn": "全方位装甲+",
 					"jp": "全方位装甲+"
 				},
-				"description": "At the start of battle and every 30s after that: spawns 4 rotating shields that absorb 8 shots each; lasts 5 (15) seconds. (replaces Well-Rounded Armor)",
+				"description": "At the start of battle and every 30s after that: spawns 4 rotating shields that absorb 8 shots each; lasts 5s (15s). (replaces Well-Rounded Armor)",
 				"color": "deepskyblue"
 			},
 			{
@@ -152252,7 +152256,7 @@
 					"cn": "蜜月",
 					"jp": "蜜月"
 				},
-				"description": "20 (10) seconds after battle begins, and every 30s (every 20s) after that: activate a special barrage (damage based on skill level).",
+				"description": "20s (10s) after battle begins, and every 30s (every 20s) after that: activate a special barrage (damage based on skill level).",
 				"color": "pink"
 			}
 		],
