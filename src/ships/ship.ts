@@ -57,10 +57,7 @@ export class Ship {
     nationality: string;// Ship's nationality
     hullType: string;   // Ship type (Destroyer etc)
     rarity: Rarity;     // Super Rare, hopefully
-    stars: {
-        stars: string;
-        value: number;
-    };
+    stars: number;
     stats: ShipStats;
     slots: [Slot, Slot, Slot];
     enhanceValue: { firepower: number, torpedo: number, aviation: number, reload: number };
@@ -96,10 +93,7 @@ export class Ship {
     };
     misc: {
         artist?: Artist;
-        web?: Artist;
-        pixiv?: Artist;
-        twitter?: Artist;
-        voice?: Artist;
+        voice?: VA;
     };
 }
 
@@ -158,9 +152,14 @@ export type GalleryItem = {
     url: Url;            // the image url
 }
 
-export type Artist = {
+export type VA = {
     name: string;
     url: Url;
+}
+
+export type Artist = {
+    name: string;
+    urls: { [service: string]: Url };
 }
 
 export type ProjectID = string;

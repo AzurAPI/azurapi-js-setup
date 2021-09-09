@@ -13,15 +13,19 @@ import {
     Stat,
     Stats
 } from "./ship";
-
 import fs from "fs";
 import path from "path";
 import {JSDOM} from "jsdom";
-import {BASE, camelize, clone, deepToString, galleryThumbnailUrlToActualUrl, textOr} from "../utils";
+import {BASE, camelize, clone, deepToString, galleryThumbnailUrlToActualUrl} from "../utils";
 import {SHIP_LIST} from "./index";
 
-const Kuroshiro = require("kuroshiro");
-const KuromojiAnalyzer = require("kuroshiro-analyzer-kuromoji");
+import fromEntries from "fromentries";
+
+// @ts-ignore
+import Kuroshiro from "kuroshiro";
+// @ts-ignore
+import KuromojiAnalyzer from "kuroshiro-analyzer-kuromoji";
+
 const reference: { [s: string]: any } = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'azurapi-data', 'dist', 'ships.json')).toString());
 const types: { [s: string]: any } = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'azurapi-data', 'dist', 'types.json')).toString());
 let ID_PATH = path.join(__dirname, '..', '..', 'dist', 'id-map.json');
@@ -95,7 +99,8 @@ async function fillNames(names: ShipNames): Promise<[ShipNames, ShipExists]> {
 
 export async function parseShip(id: string, name: string, body: string): Promise<Ship> {
     const doc = new JSDOM(body).window.document;
-    let nationality = doc.querySelector("div:nth-child(4) > .wikitable tr:nth-child(2) a:nth-child(2)").textContent;
+    let tableInfo = parseTable(doc.querySelector(".nomobile table tbody"));
+    let nationality = tableInfo.Faction;
     let referenceShip = findShip(id, name, nationality);
     let ship = new Ship();
     ship.wikiUrl = `${BASE}/${name.replace(/ +/g, "_")}`;
@@ -107,9 +112,9 @@ export async function parseShip(id: string, name: string, body: string): Promise
     ship.names = fillers[0];
     ship.exists = fillers[1];
     ship.hexagon = referenceShip.property_hexagon;
-    ship.class = textOr(doc.querySelector("div:nth-child(3) > .wikitable tr:nth-child(3) > td:nth-child(2) > a"), null);
+    ship.class = tableInfo.Class;
     ship.nationality = referenceShip.unreleased ? referenceShip.nationality : NATIONALITY[referenceShip.nationality];
-    referenceShip.type = doc.querySelector(".nomobile>div>div:last-child>.wikitable tr:nth-child(3) td:last-child a:last-child")?.textContent === "Munition Ship" ? 19 : referenceShip.type;
+    referenceShip.type = tableInfo.Classification === "Munition Ship" ? 19 : referenceShip.type;
     ship.hullType = referenceShip.unreleased ? referenceShip.type : types[referenceShip.type].en;
     if (!ship.class) ship.class = ship.names.en;
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) {
@@ -126,16 +131,12 @@ export async function parseShip(id: string, name: string, body: string): Promise
         ship.rarity = "Unreleased";
         return ship;
     }
-    ship.thumbnail = doc.querySelector(".nomobile>div>div>a>img").getAttribute("src")
-    ship.rarity = doc.querySelector("div:nth-child(3) > .wikitable td img").parentElement.title as Rarity;
-    let stars = doc.querySelector("div:nth-child(1) > div:nth-child(3) > .wikitable:nth-child(1) tr:nth-child(2) > td").textContent.trim().replace(/[^★☆]/g, '');
-    ship.stars = {
-        stars: stars,
-        value: stars.split("★").length - 1
-    };
+    ship.thumbnail = galleryThumbnailUrlToActualUrl(doc.querySelector(".nomobile img").getAttribute("src"));
+    ship.rarity = tableInfo.Rarity.rarity;
+    ship.stars = tableInfo.Rarity.stars.length;
     ship.stats = parseStats(doc);
     ship.slots = [null, null, null];
-    for (let i = 0; i < 3; i++) ship.slots[i] = parseShipEQSlot(doc.querySelector(`div:nth-child(2) > .wikitable:nth-child(3) tr:nth-child(${i + 3})`));
+    for (let i = 0; i < 3; i++) ship.slots[i] = parseShipEQSlot(doc.querySelector(`div:nth-child(1) > .wikitable:nth-child(3) tr:nth-child(${i + 3})`));
     let enhanceValues = doc.querySelector(".wikitable:nth-child(5) td:nth-child(1)").childNodes;
     if (enhanceValues.length < 7) ship.enhanceValue = null;
     else ship.enhanceValue = {
@@ -164,30 +165,36 @@ export async function parseShip(id: string, name: string, body: string): Promise
     let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"), ship);
     ship.construction = obtainedFrom.construction;
     ship.obtainedFrom = obtainedFrom.obtainedFrom;
-    const misc_selectors = [2, 3, 4, 5, 6].map(i => doc.querySelector(`div:nth-child(2) > .wikitable:nth-child(1) tr:nth-child(${i}) > td:nth-child(2) a:not([title='Play'])`));
     ship.misc = {
-        artist: misc_selectors[0] ? {
-            name: misc_selectors[0].textContent.trim(),
-            url: BASE + misc_selectors[0].getAttribute("href")
-        } : null,
-        pixiv: misc_selectors[1] ? {
-            name: misc_selectors[1].textContent.trim(),
-            url: misc_selectors[1].getAttribute("href")
-        } : null,
-        twitter: misc_selectors[2] ? {
-            name: misc_selectors[2].textContent.trim(),
-            url: misc_selectors[2].getAttribute("href")
-        } : null,
-        web: misc_selectors[3] ? {
-            name: misc_selectors[3].textContent.trim(),
-            url: misc_selectors[3].getAttribute("href")
-        } : null,
-        voice: misc_selectors[4] ? {
-            name: misc_selectors[4].textContent.trim(),
-            url: misc_selectors[4].getAttribute("href")
-        } : null
+        artist: tableInfo["Illustrator"],
+        voice: tableInfo["Voice Actor"]
     };
     return ship;
+}
+
+function parseTable(table: Element) {
+    let final: any = {};
+    for (let child of table.children) {
+        for (let i = 0; i < child.children.length; i += 2) {
+            let title = child.children[i].textContent.replace(/\s/g, ' ').trim();
+            if (title === "Voice Actor") final[title] = {
+                name: child.children[i + 1].lastElementChild?.textContent.trim() || child.children[i + 1].textContent.trim(),
+                url: child.children[i + 1].lastElementChild?.getAttribute("href")
+            }
+            else if (title === "Illustrator") final[title] = {
+                name: child.children[i + 1].firstElementChild.textContent.trim(),
+                urls: fromEntries(Array.from(child.children[i + 1].children).map(e =>
+                    [e.getAttribute("title"), e.getAttribute("href")]
+                ).map(entry => [entry[0] === "Artists" ? "Wiki" : entry[0], entry[1]]).map(entry => [entry[0] || "Link", (entry[0] === "Wiki" ? "https://azurlane.koumakan.jp" : "") + entry[1]]))
+            }
+            else if (title === "Rarity") final[title] = {
+                rarity: child.children[i + 1].textContent.replace(/[^\w ]/g, '').trim(),
+                stars: child.children[i + 1].textContent.replace(/[^★]/g, '').trim(),
+            }
+            else final[title] = child.children[i + 1].textContent.trim();
+        }
+    }
+    return final;
 }
 
 function parseShipLimits(skill_table: Element) {
