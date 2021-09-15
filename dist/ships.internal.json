@@ -23668,7 +23668,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-長良型"
 				},
-				"description": "Activates All Out Assault Ⅱ: Nagara Class once every 8 times the Main Guns are fired.",
+				"description": "Activates All Out Assault Ⅱ: Nagara Class once every 12 (8) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -106519,7 +106519,7 @@
 					"cn": "全弹发射II",
 					"jp": "全弾発射-ブルックリン級Ⅱ"
 				},
-				"description": "Activates All Out Assault Ⅱ: Brooklyn Class once every 10 times the Main Guns are fired.",
+				"description": "Activates All Out Assault Ⅱ: Brooklyn Class once every 15 (10) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -140736,7 +140736,7 @@
 				"health": "6674",
 				"armor": "Medium",
 				"reload": "148",
-				"luck": "0",
+				"luck": "25",
 				"firepower": "270",
 				"torpedo": "0",
 				"evasion": "34",
@@ -140751,7 +140751,7 @@
 				"health": "7541",
 				"armor": "Medium",
 				"reload": "170",
-				"luck": "0",
+				"luck": "25",
 				"firepower": "307",
 				"torpedo": "0",
 				"evasion": "50",
@@ -140807,6 +140807,16 @@
 				"color": "deepskyblue"
 			},
 			{
+				"icon": "https://azurlane.netojuu.com/w/images/a/af/Skill_19200.png",
+				"names": {
+					"en": "(Fate Simulation) Mizuho's Intuition+",
+					"cn": "战场嗅觉+",
+					"jp": "ミズホの直感+"
+				},
+				"description": "Every 20s: 50% (100%) chance to increase own Evasion by 15% (25%) and Accuracy by 20% (50%), and decreases this ship's torpedo DMG taken by 5%(15%) for 12s.",
+				"color": "deepskyblue"
+			},
+			{
 				"icon": "https://azurlane.netojuu.com/w/images/8/8e/Skill_19210.png",
 				"names": {
 					"en": "Special Gunnery Training",
@@ -140814,6 +140824,16 @@
 					"jp": "特殊砲術操典"
 				},
 				"description": "Every 8 times this ship fires its main guns, fire a special barrage (barrage damage scales with skill level). If equipped with the Prototype 310mm gun, increase this ship's main gun efficiency by 4.5% (12%), improve the special barrage based upon proximity to the nearest enemy, and fire it every 4 times main gun is fired instead.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/8/8e/Skill_19210.png",
+				"names": {
+					"en": "(Fate Simulation) Special Gunnery Training+",
+					"cn": "特殊炮击训练+",
+					"jp": "特殊砲術操典+"
+				},
+				"description": "Every 8 times this ship fires its main guns, fire a special barrage (barrage damage scales with skill level). The barrage inflicts a special burn to all enemies it hits. If equipped with a high caliber Main Gun (280mm or more), increase this ship's main gun efficiency by 4.5% (12%), improve the special barrage based upon proximity to the nearest enemy, and fire it every 4 times main gun is fired instead.",
 				"color": "pink"
 			},
 			{
