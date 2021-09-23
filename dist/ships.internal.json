@@ -15,7 +15,8 @@
 			"code": "HMS Hunter",
 			"cn": "猎人",
 			"jp": "ハンター",
-			"kr": "헌터"
+			"kr": "헌터",
+			"tw": "獵人"
 		},
 		"exists": {
 			"en": true,
@@ -2972,7 +2973,8 @@
 			"code": "HMS Dido",
 			"cn": "黛朵",
 			"jp": "ダイドー",
-			"kr": "다이도"
+			"kr": "다이도",
+			"tw": "黛朵"
 		},
 		"exists": {
 			"en": true,
@@ -3241,7 +3243,8 @@
 			"code": "HMS Southampton",
 			"cn": "南安普顿",
 			"jp": "サウサンプトン",
-			"kr": "사우스햄튼"
+			"kr": "사우스햄튼",
+			"tw": "南安普敦"
 		},
 		"exists": {
 			"en": true,
@@ -3777,7 +3780,8 @@
 			"code": "HMS Gloucester",
 			"cn": "格罗斯特",
 			"jp": "グロスター",
-			"kr": "글로스터"
+			"kr": "글로스터",
+			"tw": "格洛斯特"
 		},
 		"exists": {
 			"en": true,
@@ -12189,7 +12193,7 @@
 			"cn": "鹰",
 			"jp": "イーグル",
 			"kr": "이글",
-			"tw": "鹰"
+			"tw": "鷹"
 		},
 		"exists": {
 			"en": true,
@@ -14769,13 +14773,13 @@
 			"code": "IJN Shirayuki",
 			"cn": "白雪",
 			"jp": "白雪",
-			"kr": "Shirayuki"
+			"kr": "시라유키"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -16131,7 +16135,8 @@
 			"code": "IJN Hibiki",
 			"cn": "响",
 			"jp": "響",
-			"kr": "히비키"
+			"kr": "히비키",
+			"tw": "響"
 		},
 		"exists": {
 			"en": true,
@@ -23482,6 +23487,20 @@
 					"jpClient": "ポカポカクリスマス",
 					"cost": 800
 				}
+			},
+			{
+				"name": "Accidental Overheat?",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/78/IsuzuBunny.png/835px-IsuzuBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/24/IsuzuBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Accidental Overheat?",
+					"cnClient": "过热事故？",
+					"jpClient": "オーバーヒート？",
+					"cost": 700
+				}
 			}
 		],
 		"gallery": [
@@ -23490,6 +23509,247 @@
 				"url": "https://azurlane.netojuu.com/w/images/1/11/Bg_2020.10.22_2.png"
 			}
 		]
+	},
+	"185": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Yura",
+		"id": "185",
+		"_gid": 30207,
+		"_sid": [
+			302071,
+			302072,
+			302073,
+			302074
+		],
+		"_code": 185,
+		"names": {
+			"en": "Yura",
+			"code": "IJN Yura",
+			"cn": "由良",
+			"jp": "由良",
+			"kr": "Yura"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			2,
+			3,
+			0,
+			3,
+			3,
+			2
+		],
+		"class": "Nagara",
+		"nationality": "Sakura Empire",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/e/e9/YuraShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "496",
+				"armor": "Light",
+				"reload": "67",
+				"luck": "40",
+				"firepower": "27",
+				"torpedo": "54",
+				"evasion": "31",
+				"speed": "36",
+				"antiair": "57",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "50",
+				"antisubmarineWarfare": "34"
+			},
+			"level100": {
+				"health": "2565",
+				"armor": "Light",
+				"reload": "158",
+				"luck": "40",
+				"firepower": "127",
+				"torpedo": "256",
+				"evasion": "80",
+				"speed": "36",
+				"antiair": "266",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "129",
+				"antisubmarineWarfare": "125"
+			},
+			"level120": {
+				"health": "2898",
+				"armor": "Light",
+				"reload": "182",
+				"luck": "40",
+				"firepower": "146",
+				"torpedo": "292",
+				"evasion": "105",
+				"speed": "36",
+				"antiair": "303",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "145",
+				"antisubmarineWarfare": "141"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 120,
+				"type": "CL Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 165,
+				"minEfficiency": 140,
+				"type": "Torpedoes",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 120,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 11,
+			"torpedo": 18,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 6,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/92/Skill_14760.png",
+				"names": {
+					"en": "Sunglint Phantasm",
+					"cn": "邪魔退散",
+					"jp": "水響雷邪祓"
+				},
+				"description": "Increases this ship's FP, AA, and ASW by 5.0% (15.0%). At the start of the battle, if there is a Sakura Empire DD afloat in your Vanguard: every 18s, targets your Vanguard ship with the lowest % of HP left and heals her for 1.0% (3.0%) HP (can activate up to 4 times per battle); if no Sakura Empire DD is present, instead increases this ship's TRP by 5.0% (15.0%) and, with a 70.0% chance every 18s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/42/Skill_14770.png",
+				"names": {
+					"en": "Blessed Self",
+					"cn": "「那个我」的祝福",
+					"jp": "水響雷御祈"
+				},
+				"description": "Increases your Sakura Empire DDs' TRP and RLD by 4.0% (10.0%) and AA by 6.0% (20.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-長良型"
+				},
+				"description": "Activates All Out Assault I (II): Nagara Class once every 12 (8) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage I",
+				"Anti-Air  efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve EX Barrage",
+				"Torpedo efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"bonus": "+1",
+					"stat": "torpedo"
+				}
+			},
+			"techPoints": {
+				"collection": 6,
+				"maxLimitBreak": 12,
+				"maxLevel": 9,
+				"total": 27
+			}
+		},
+		"construction": {
+			"constructionTime": "01:05:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Upon the Shimmering Blue",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Upon the Shimmering Blue Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Ruriko Noguchi",
+				"url": "https://www.artsvision.co.jp/talent/717/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/ef/Yura.png/878px-Yura.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/ce/YuraChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "We are Succubi?",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3d/YuraBunny.png/584px-YuraBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/13/YuraBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "We are Succubi?",
+					"cnClient": "二重诱惑？",
+					"jpClient": "ふたりはさきゅばす？",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": []
 	},
 	"186": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kinu",
@@ -23507,7 +23767,8 @@
 			"code": "IJN Kinu",
 			"cn": "鬼怒",
 			"jp": "鬼怒",
-			"kr": "키누"
+			"kr": "키누",
+			"tw": "鬼怒"
 		},
 		"exists": {
 			"en": true,
@@ -26650,6 +26911,249 @@
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"195": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Chikuma",
+		"id": "195",
+		"_gid": 30306,
+		"_sid": [
+			303061,
+			303062,
+			303063,
+			303064,
+			900316,
+			900926
+		],
+		"_code": 195,
+		"names": {
+			"en": "Chikuma",
+			"code": "IJN Chikuma",
+			"cn": "筑摩",
+			"jp": "筑摩",
+			"kr": "Chikuma"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			2,
+			2,
+			4
+		],
+		"class": "Tone",
+		"nationality": "Sakura Empire",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/f/f6/ChikumaShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "755",
+				"armor": "Medium",
+				"reload": "66",
+				"luck": "42",
+				"firepower": "49",
+				"torpedo": "46",
+				"evasion": "13",
+				"speed": "28",
+				"antiair": "35",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "40",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "3904",
+				"armor": "Medium",
+				"reload": "157",
+				"luck": "42",
+				"firepower": "229",
+				"torpedo": "216",
+				"evasion": "33",
+				"speed": "28",
+				"antiair": "164",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "104",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "4392",
+				"armor": "Medium",
+				"reload": "181",
+				"luck": "42",
+				"firepower": "263",
+				"torpedo": "248",
+				"evasion": "75",
+				"speed": "28",
+				"antiair": "189",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "117",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 125,
+				"type": "CA Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 175,
+				"minEfficiency": 150,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 27,
+			"torpedo": 15,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/6/6d/Skill_14780.png",
+				"names": {
+					"en": "All-Seeing Eye",
+					"cn": "侦测之「眼」",
+					"jp": "焼き付かせる目"
+				},
+				"description": "At the start of the battle and every 20s: decreases this ship's Speed by 5.0% for 3s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage have their Speed decreased by 15.0% (30.0%) for 5s, and both the following effects activate: 1) if there is a Sakura Empire CV afloat in your Main Fleet when this barrage fires: 50.0% chance to inflict a 1.5% (6.0%) aircraft DMG taken debuff for 8s to enemies hit by the barrage; 2) 70.0% (100.0%) chance to inflict 1 of the following randomly chosen debuffs for 10s: a) decreases EVA by 10.0%; b) decreases Accuracy by 10.0%; c) decreases the enemy's DMG dealt by 10.0%.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/2/2c/Skill_14790.png",
+				"names": {
+					"en": "All-Obscuring Eye",
+					"cn": "回避之「眼」",
+					"jp": "忍び寄る目"
+				},
+				"description": "When this ship's Speed decreases as a result of her skills activating: increases her Evasion Rate by 1.0% (10.0%) for the duration of the decrease. Decreases this ship's DMG taken by 5.0% (20.0%). When this ship takes DMG: 70.0% chance to decrease her Speed by 10.0% and increase her RLD, FP, and EVA by 5.0% (20.0%) for 7s (10s cooldown between activations).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-利根型"
+				},
+				"description": "Activates All Out Assault I (II): Tone Class once every 9 (6) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve EX Barrage",
+				"Torpedo efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 14,
+				"maxLimitBreak": 28,
+				"maxLevel": 21,
+				"total": 63
+			}
+		},
+		"construction": {
+			"constructionTime": "02:05:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Upon the Shimmering Blue",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction and as a Map Drop during Upon the Shimmering Blue Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Yuu Serizawa",
+				"url": "https://www.81produce.co.jp/actor_search/index.php/item?id=229"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/d6/Chikuma.png/554px-Chikuma.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/8a/ChikumaChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Original Art",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/e2/ChikumaOriginal.png/413px-ChikumaOriginal.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d4/ChikumaOriginalChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": ""
 				}
 			}
 		],
@@ -32217,7 +32721,8 @@
 			"code": "IJN Kii",
 			"cn": "纪伊",
 			"jp": "紀伊",
-			"kr": "키이"
+			"kr": "키이",
+			"tw": "紀伊"
 		},
 		"exists": {
 			"en": true,
@@ -32586,7 +33091,7 @@
 					"cn": "敌无不击",
 					"jp": "凌げば討つ！"
 				},
-				"description": "As long as this ship is afloat:\nWhen this ship takes DMG, or when an enemy comes within close range of this ship, fire a special barrage (DMG is based on the skill's level). This barrage has a cooldown of 15s between activations.\nWhen ANOTHER fleet in the same sortie engages in its 3rd, 4th, or 5th battle, if that fleet has a BB as its flagship (BCs, BBVs, and BMs do not count): fires a special barrage 20s into the start of that battle (DMG is based on the skill's level and the FP stat of that fleet's flagship). In Operation Siren, this barrage is limited to the 3rd and 4th battle.\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+				"description": "As long as this ship is afloat:\nWhen this ship takes DMG, or when an enemy comes within close range of this ship, fire a special barrage (DMG is based on the skill's level). This barrage has a cooldown of 15s between activations.\nWhen ANOTHER fleet in the same sortie engages in its 3rd, 4th, or 5th battle, if that fleet has a BB as its flagship (BCs, BBVs, and BMs do not count): fires a special barrage 20s into the start of that battle (damage is based on the skill's level). In Operation Siren, this barrage is limited to the 3rd and 4th battle.\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			}
 		],
@@ -35328,6 +35833,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Loading screen showing California, Souryuu, Hiryuu and Tennessee",
+				"url": "https://azurlane.netojuu.com/w/images/f/f3/Bg_2021.09.09_1.png"
+			},
+			{
 				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
 				"url": "https://azurlane.netojuu.com/w/images/7/77/Bg_2019.12.19_2.png"
 			},
@@ -35860,6 +36369,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Loading screen showing California, Souryuu, Hiryuu and Tennessee",
+				"url": "https://azurlane.netojuu.com/w/images/f/f3/Bg_2021.09.09_1.png"
+			},
 			{
 				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
 				"url": "https://azurlane.netojuu.com/w/images/6/6f/Bg_2020.09.30_7.png"
@@ -36440,7 +36953,8 @@
 			"code": "IJN Taihō",
 			"cn": "大凤",
 			"jp": "大鳳",
-			"kr": "다이호"
+			"kr": "다이호",
+			"tw": "大鳳"
 		},
 		"exists": {
 			"en": true,
@@ -36735,7 +37249,8 @@
 			"code": "IJN Shinano",
 			"cn": "信浓",
 			"jp": "信濃",
-			"kr": "시나노"
+			"kr": "시나노",
+			"tw": "信濃"
 		},
 		"exists": {
 			"en": true,
@@ -36853,7 +37368,7 @@
 					"cn": "幽蝶之梦",
 					"jp": null
 				},
-				"description": "Increase own AVI stat by 5% (15%) during her first two battles of each sortie. Every 15s after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15s into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship). In Operation Siren, this barrage is limited to the third and fourth battle instead (not the fifth). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+				"description": "Increase own AVI stat by 5% (15%) during her first two battles of each sortie. Every 15s after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15s into the start of that battle (damage scales with skill level). In Operation Siren, this barrage is limited to the third and fourth battle instead (not the fifth). [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			},
 			{
@@ -40913,7 +41428,9 @@
 			403031,
 			403032,
 			403033,
-			403034
+			403034,
+			900317,
+			900927
 		],
 		"_code": 244,
 		"names": {
@@ -46054,7 +46571,7 @@
 					"cn": "烟雾弹",
 					"jp": "煙幕散布"
 				},
-				"description": "After battle begins and 15% (30%) chance to activate every 15s after that: deploy a smokescreen for 5s. Escort ships within the smokescreen have 20% (40%) additional evasion. Does not stack with same skill effect.",
+				"description": "After battle begins and 15% (30%) chance to activate every 15s after that: deploy a smokescreen for 5s. Escort ships within the smokescreen have 20% (40%) additional evasion rate. Does not stack with same skill effect.",
 				"color": "deepskyblue"
 			},
 			{
@@ -47381,6 +47898,263 @@
 				"url": "https://azurlane.netojuu.com/w/images/6/61/Bg_arcade.png"
 			}
 		]
+	},
+	"268": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Shimakaze",
+		"id": "268",
+		"_gid": 30129,
+		"_sid": [
+			301291,
+			301292,
+			301293,
+			301294,
+			900315,
+			900925
+		],
+		"_code": 268,
+		"names": {
+			"en": "Shimakaze",
+			"code": "IJN Shimakaze",
+			"cn": "岛风",
+			"jp": "島風",
+			"kr": "Shimakaze"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			2,
+			5,
+			0,
+			4,
+			2,
+			2
+		],
+		"class": "Shimakaze",
+		"nationality": "Sakura Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/b/b3/ShimakazeShipyardIcon.png",
+		"rarity": "Ultra Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "381",
+				"armor": "Light",
+				"reload": "82",
+				"luck": "41",
+				"firepower": "14",
+				"torpedo": "116",
+				"evasion": "86",
+				"speed": "48",
+				"antiair": "30",
+				"aviation": "0",
+				"oilConsumption": "7",
+				"accuracy": "74",
+				"antisubmarineWarfare": "52"
+			},
+			"level100": {
+				"health": "1969",
+				"armor": "Light",
+				"reload": "195",
+				"luck": "41",
+				"firepower": "66",
+				"torpedo": "547",
+				"evasion": "224",
+				"speed": "48",
+				"antiair": "140",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "193",
+				"antisubmarineWarfare": "190"
+			},
+			"level120": {
+				"health": "2362",
+				"armor": "Light",
+				"reload": "224",
+				"luck": "41",
+				"firepower": "76",
+				"torpedo": "602",
+				"evasion": "232",
+				"speed": "48",
+				"antiair": "161",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "202",
+				"antisubmarineWarfare": "210"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 85,
+				"minEfficiency": 80,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 170,
+				"minEfficiency": 150,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 90,
+				"minEfficiency": 85,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 5,
+			"torpedo": 38,
+			"aviation": 0,
+			"reload": 16
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 30
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/cd/Skill_14850.png",
+				"names": {
+					"en": "Upon the Wind's Edge",
+					"cn": "风斩雷逸",
+					"jp": "疾風迅雷"
+				},
+				"description": "When this ship fires her Torpedoes: fires a Lv.1 (Lv.10) special barrage and executes a slashing attack. Enemies hit by this slashing attack take 3.5% (8.0%) increased DMG from this ship for 3s, and inflicts a unique Flooding ailment (lasts 6s) to enemies hit by her torpedoes (Flooding deals 179 DMG per tick; 1 tick occurs every 3s; barrage DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c9/Skill_14860.png",
+				"names": {
+					"en": "Before the Lightning's Flash",
+					"cn": "雷光石火",
+					"jp": "雷光石火"
+				},
+				"description": "At the start of the battle, and when this ship's Torpedoes finish reloading: for 10s, decreases this ship's DMG taken by 5.0% (15.0%), increases her DMG dealt with Torpedoes by 4.5% (12.0%), and increases your Vanguard's Speed by 3 (these effects cannot be stacked; overlapping activations will simply refresh the effect timers if possible).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/5/50/Skill_14870.png",
+				"names": {
+					"en": "Within the Thunder's Roar",
+					"cn": "迅光雷袭",
+					"jp": "雷鳴轟々"
+				},
+				"description": "Increase this ship's Accuracy by 5.0% (15.0%) and decrease her damage taken from torpedoes by 10.0%. While this ship is afloat, when a fleet this ship is NOT in engages in battle:\nIncrease TRP for all DDs in that fleet by 1.0% (10.0%) for the full battle.\n30s into that battle, fire a supporting torpedo barrage (damage is based on the skill level).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/43/Skill_29140.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "专属弹幕-芒",
+					"jp": "特殊弾幕-島風"
+				},
+				"description": "Activates All Out Assault I (II): Shimakaze once every 15 (10) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage Ⅰ",
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve EX Barrage",
+				"Torpedo preload +1",
+				"All weapons' efficiency +5%",
+				"Decreased torpedo spread angle"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+2",
+					"stat": "torpedo"
+				}
+			},
+			"techPoints": {
+				"collection": 18,
+				"maxLimitBreak": 36,
+				"maxLevel": 27,
+				"total": 81
+			}
+		},
+		"construction": {
+			"constructionTime": "00:30:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Upon the Shimmering Blue",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Upon the Shimmering Blue Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "黒星紅白",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/Artists#.E9.BB.92.E6.98.9F.E7.B4.85.E7.99.BD",
+					"Pixiv": "https://www.pixiv.net/member.php?id=178217",
+					"Twitter": "https://twitter.com/kuroboshi"
+				}
+			},
+			"voice": {
+				"name": "Saori Hayami",
+				"url": "https://en.wikipedia.org/wiki/Saori_Hayami"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/a/ae/Shimakaze.png/585px-Shimakaze.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/23/ShimakazeChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "World's Speediest Bunny Waitress",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a4/ShimakazeBunny.png/554px-ShimakazeBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/e/ec/ShimakazeBunnyChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "World's Speediest Bunny Waitress",
+					"cnClient": "最速兔兔的邀请函(?)",
+					"jpClient": "最速バニーの招待？状",
+					"cost": 1180
+				}
+			}
+		],
+		"gallery": []
 	},
 	"269": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kamikaze",
@@ -50041,7 +50815,8 @@
 			"code": "IJN Nagatsuki",
 			"cn": "长月",
 			"jp": "長月",
-			"kr": "나가츠키"
+			"kr": "나가츠키",
+			"tw": "長月"
 		},
 		"exists": {
 			"en": true,
@@ -50503,6 +51278,492 @@
 			}
 		]
 	},
+	"286": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Umikaze",
+		"id": "286",
+		"_gid": 30147,
+		"_sid": [
+			301471,
+			301472,
+			301473,
+			301474
+		],
+		"_code": 286,
+		"names": {
+			"en": "Umikaze",
+			"code": "IJN Umikaze",
+			"cn": "海风",
+			"jp": "海風",
+			"kr": "Umikaze"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			1,
+			4,
+			0,
+			4,
+			1,
+			1
+		],
+		"class": "Shiratsuyu",
+		"nationality": "Sakura Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/5/58/UmikazeShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "271",
+				"armor": "Light",
+				"reload": "73",
+				"luck": "50",
+				"firepower": "12",
+				"torpedo": "95",
+				"evasion": "71",
+				"speed": "40",
+				"antiair": "26",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "70",
+				"antisubmarineWarfare": "45"
+			},
+			"level100": {
+				"health": "1401",
+				"armor": "Light",
+				"reload": "173",
+				"luck": "50",
+				"firepower": "55",
+				"torpedo": "449",
+				"evasion": "184",
+				"speed": "40",
+				"antiair": "121",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "182",
+				"antisubmarineWarfare": "165"
+			},
+			"level120": {
+				"health": "1681",
+				"armor": "Light",
+				"reload": "199",
+				"luck": "50",
+				"firepower": "63",
+				"torpedo": "494",
+				"evasion": "190",
+				"speed": "40",
+				"antiair": "139",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "191",
+				"antisubmarineWarfare": "184"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 75,
+				"minEfficiency": 70,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 130,
+				"type": "Torpedoes",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 75,
+				"minEfficiency": 70,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 4,
+			"torpedo": 31,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/fc/Skill_14800.png",
+				"names": {
+					"en": "Reverent and Graceful",
+					"cn": "水雷演练",
+					"jp": "恐れ多くもしめやか"
+				},
+				"description": "While this ship is afloat: increases your DDs' and CLs' Accuracy and Torpedo Crit Rate by 4.0% (10.0%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/2/2d/Skill_14810.png",
+				"names": {
+					"en": "Delicate but Devoted",
+					"cn": "轻灵之风",
+					"jp": "畏まるも軽やか"
+				},
+				"description": "When this ship launches her Torpedoes: increases this ship's EVA by 5.0% (15.0%) and decreases this ship's torpedo DMG taken by 5.0% (15.0%) for 10s.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-白露型"
+				},
+				"description": "Activates All Out Assault I (II): Shiratsuyu Class once every 15 (10) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage I",
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve EX Barrage",
+				"All weapons' efficiency +5%",
+				"Decreased torpedo spread angle"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+1",
+					"stat": "torpedo"
+				}
+			},
+			"techPoints": {
+				"collection": 6,
+				"maxLimitBreak": 12,
+				"maxLevel": 9,
+				"total": 27
+			}
+		},
+		"construction": {
+			"constructionTime": "00:25:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Upon the Shimmering Blue",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Upon the Shimmering Blue Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Alic",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/Artists#Alic",
+					"Pixiv": "https://www.pixiv.net/member.php?id=4605939",
+					"Link": "https://weibo.com/u/5933724645"
+				}
+			},
+			"voice": {
+				"name": "Haruna Kawai",
+				"url": "https://vims.co.jp/talent_profile_detail.php?id=38"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/11/Umikaze.png/777px-Umikaze.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d5/UmikazeChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Soft and Fluffy Therapy",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b2/UmikazeBunny.png/614px-UmikazeBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/9f/UmikazeBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Soft and Fluffy Therapy",
+					"cnClient": "软绵绵治愈系",
+					"jpClient": "もこもこふんわり",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": []
+	},
+	"287": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Yamakaze",
+		"id": "287",
+		"_gid": 30148,
+		"_sid": [
+			301481,
+			301482,
+			301483,
+			301484
+		],
+		"_code": 287,
+		"names": {
+			"en": "Yamakaze",
+			"code": "IJN Yamakaze",
+			"cn": "山风",
+			"jp": "山風",
+			"kr": "Yamakaze"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			1,
+			4,
+			0,
+			4,
+			1,
+			1
+		],
+		"class": "Shiratsuyu",
+		"nationality": "Sakura Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/f/f0/YamakazeShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "271",
+				"armor": "Light",
+				"reload": "73",
+				"luck": "35",
+				"firepower": "12",
+				"torpedo": "94",
+				"evasion": "71",
+				"speed": "40",
+				"antiair": "26",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "70",
+				"antisubmarineWarfare": "46"
+			},
+			"level100": {
+				"health": "1401",
+				"armor": "Light",
+				"reload": "173",
+				"luck": "35",
+				"firepower": "57",
+				"torpedo": "444",
+				"evasion": "184",
+				"speed": "40",
+				"antiair": "121",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "182",
+				"antisubmarineWarfare": "168"
+			},
+			"level120": {
+				"health": "1681",
+				"armor": "Light",
+				"reload": "199",
+				"luck": "35",
+				"firepower": "65",
+				"torpedo": "488",
+				"evasion": "190",
+				"speed": "40",
+				"antiair": "139",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "191",
+				"antisubmarineWarfare": "187"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 75,
+				"minEfficiency": 70,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 130,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 75,
+				"minEfficiency": 70,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 4,
+			"torpedo": 31,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 4,
+			"oil": 3,
+			"medal": 4
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/8/8a/Skill_14820.png",
+				"names": {
+					"en": "Motivating Roooaaar",
+					"cn": "干劲满满",
+					"jp": "やる気の掛け声"
+				},
+				"description": "Increases this ship's FP and ASW by 5.0% (15.0%). Increases this ship's DMG dealt to Submarines by 5.0% (20.0%), but increases her DMG taken from Submarines by 5.0%. If there are 3 ships in your Vanguard when the battle starts: increases this ship's TRP by 4.0% (10.0%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/d7/Skill_1010.png",
+				"names": {
+					"en": "Torpedo Command: Destroyers",
+					"cn": "雷击指挥·驱逐舰",
+					"jp": "雷撃指揮・駆逐艦"
+				},
+				"description": "Increases the TRP of all DDs in your fleet by 5.0% (15.0%). Does not stack with the same skill.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-白露型"
+				},
+				"description": "Activates All Out Assault I (II): Shiratsuyu Class once every 15 (10) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock EX Barrage I",
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve EX Barrage",
+				"All weapons' efficiency +5%",
+				"Decreased torpedo spread angle"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer"
+					],
+					"bonus": "+1",
+					"stat": "torpedo"
+				}
+			},
+			"techPoints": {
+				"collection": 6,
+				"maxLimitBreak": 12,
+				"maxLevel": 9,
+				"total": 27
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available as a point-accumulation reward during the Upon the Shimmering Blue Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Haruna Kawai",
+				"url": "https://vims.co.jp/talent_profile_detail.php?id=38"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c5/Yamakaze.png/553px-Yamakaze.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/fa/YamakazeChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Now for a Magic Trick!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/14/YamakazeBunny.png/654px-YamakazeBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/1a/YamakazeBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Now for a Magic Trick!",
+					"cnClient": "魔术时间到！",
+					"jpClient": "奇術タイムスタンバイ！",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": []
+	},
 	"288": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Kawakaze",
 		"id": "288",
@@ -50777,7 +52038,8 @@
 			"code": "IJN Kiyonami",
 			"cn": "清波",
 			"jp": "清波",
-			"kr": "키요나미"
+			"kr": "키요나미",
+			"tw": "清波"
 		},
 		"exists": {
 			"en": true,
@@ -57329,7 +58591,8 @@
 			"code": "IJN Noshiro",
 			"cn": "能代",
 			"jp": "能代",
-			"kr": "노시로"
+			"kr": "노시로",
+			"tw": "能代"
 		},
 		"exists": {
 			"en": true,
@@ -59816,7 +61079,8 @@
 			"code": "IJN Arashio",
 			"cn": "荒潮",
 			"jp": "荒潮",
-			"kr": "아라시오"
+			"kr": "아라시오",
+			"tw": "荒潮"
 		},
 		"exists": {
 			"en": true,
@@ -66966,7 +68230,8 @@
 			"code": "FFNF Le Téméraire",
 			"cn": "鲁莽",
 			"jp": "ル・テメレール",
-			"kr": "르 테메레르"
+			"kr": "르 테메레르",
+			"tw": "魯莽"
 		},
 		"exists": {
 			"en": true,
@@ -67228,7 +68493,8 @@
 			"code": "USS Memphis",
 			"cn": "孟菲斯",
 			"jp": "メンフィス",
-			"kr": "멤피스"
+			"kr": "멤피스",
+			"tw": "曼非斯"
 		},
 		"exists": {
 			"en": true,
@@ -67491,7 +68757,8 @@
 			"code": "HMS Newcastle",
 			"cn": "纽卡斯尔",
 			"jp": "ニューカッスル",
-			"kr": "뉴캐슬"
+			"kr": "뉴캐슬",
+			"tw": "紐卡斯爾"
 		},
 		"exists": {
 			"en": true,
@@ -68782,7 +70049,8 @@
 			"code": "USS Hazelwood",
 			"cn": "黑泽伍德",
 			"jp": "ヘイゼルウッド",
-			"kr": "헤이즐우드"
+			"kr": "헤이즐우드",
+			"tw": "黑澤伍德"
 		},
 		"exists": {
 			"en": true,
@@ -73116,7 +74384,8 @@
 			"code": "KMS Georg Thiele",
 			"cn": "Z2",
 			"jp": "Z2",
-			"kr": "Z2"
+			"kr": "Z2",
+			"tw": "Z2"
 		},
 		"exists": {
 			"en": true,
@@ -73623,7 +74892,8 @@
 			"code": "IJN I13",
 			"cn": "伊13",
 			"jp": "伊13",
-			"kr": "이13"
+			"kr": "이13",
+			"tw": "伊13"
 		},
 		"exists": {
 			"en": true,
@@ -73867,7 +75137,8 @@
 			"code": "IJN Suzuya",
 			"cn": "铃谷",
 			"jp": "鈴谷",
-			"kr": "스즈야"
+			"kr": "스즈야",
+			"tw": "鈴谷"
 		},
 		"exists": {
 			"en": true,
@@ -76147,7 +77418,8 @@
 			"code": "USS San Diego",
 			"cn": "小圣地亚哥",
 			"jp": "リトル・サンディエゴ",
-			"kr": "꼬마 샌디에이고"
+			"kr": "꼬마 샌디에이고",
+			"tw": "小聖地牙哥"
 		},
 		"exists": {
 			"en": true,
@@ -76365,7 +77637,8 @@
 			"code": "HMS Swiftsure",
 			"cn": "确捷",
 			"jp": "スウィフトシュア",
-			"kr": "스위프트슈어"
+			"kr": "스위프트슈어",
+			"tw": "確捷"
 		},
 		"exists": {
 			"en": true,
@@ -76889,6 +78162,20 @@
 					"jpClient": "隠れ家の マルコディ",
 					"cost": 1180
 				}
+			},
+			{
+				"name": "Listless Lapin",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/8/8f/Le_MalinBunny.png/679px-Le_MalinBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/88/Le_MalinBunnyChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Listless Lapin",
+					"cnClient": "懒懒的白兔",
+					"jpClient": "昼寝好きのラピヌ",
+					"cost": 1180
+				}
 			}
 		],
 		"gallery": [
@@ -76935,7 +78222,8 @@
 			"code": "FFNF L'Opiniâtre",
 			"cn": "倔强",
 			"jp": "ルピニャート",
-			"kr": "로피니아트르"
+			"kr": "로피니아트르",
+			"tw": "倔強"
 		},
 		"exists": {
 			"en": true,
@@ -79949,7 +81237,8 @@
 			"code": "USS Bache",
 			"cn": "贝奇",
 			"jp": "バッチ",
-			"kr": "배시"
+			"kr": "배시",
+			"tw": "貝奇"
 		},
 		"exists": {
 			"en": true,
@@ -80217,7 +81506,8 @@
 			"code": "HMS Black Prince",
 			"cn": "黑太子",
 			"jp": "ブラック・プリンス",
-			"kr": "블랙 프린스"
+			"kr": "블랙 프린스",
+			"tw": "黑太子"
 		},
 		"exists": {
 			"en": true,
@@ -80468,6 +81758,20 @@
 					"jpClient": "ポップ・ザ・コルク",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Addled Attendant?",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/4c/Black_PrinceBunny.png/632px-Black_PrinceBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/3e/Black_PrinceBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Addled Attendant?",
+					"cnClient": "迷糊的侍者？",
+					"jpClient": "ぼんやり世話焼き？",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": [
@@ -80493,7 +81797,8 @@
 			"code": "USS Stanly",
 			"cn": "斯坦利",
 			"jp": "スタンリー",
-			"kr": "스탠리"
+			"kr": "스탠리",
+			"tw": "斯坦利"
 		},
 		"exists": {
 			"en": true,
@@ -80711,7 +82016,8 @@
 			"code": "RN Littorio",
 			"cn": "利托里奥",
 			"jp": "リットリオ",
-			"kr": "리토리오"
+			"kr": "리토리오",
+			"tw": "利托里奧"
 		},
 		"exists": {
 			"en": true,
@@ -80977,7 +82283,8 @@
 			"code": "RN Conte di Cavour",
 			"cn": "加富尔伯爵",
 			"jp": "コンテ・ディ・カブール",
-			"kr": "콘테 디 카보우르"
+			"kr": "콘테 디 카보우르",
+			"tw": "加富爾伯爵"
 		},
 		"exists": {
 			"en": true,
@@ -81206,7 +82513,8 @@
 			"code": "RN Giulio Cesare",
 			"cn": "朱利奥·凯撒",
 			"jp": "ジュリオ・チェザーレ",
-			"kr": "줄리오 체사레"
+			"kr": "줄리오 체사레",
+			"tw": "朱利奧·凱撒"
 		},
 		"exists": {
 			"en": true,
@@ -81464,7 +82772,8 @@
 			"code": "RN Zara",
 			"cn": "扎拉",
 			"jp": "ザラ",
-			"kr": "차라"
+			"kr": "차라",
+			"tw": "扎拉"
 		},
 		"exists": {
 			"en": true,
@@ -81716,7 +83025,8 @@
 			"code": "RN Trento",
 			"cn": "特伦托",
 			"jp": "トレント",
-			"kr": "트렌토"
+			"kr": "트렌토",
+			"tw": "特倫托"
 		},
 		"exists": {
 			"en": true,
@@ -81953,7 +83263,8 @@
 			"code": "RN Carabiniere",
 			"cn": "龙骑兵",
 			"jp": "カラビニエーレ",
-			"kr": "카라비니에레"
+			"kr": "카라비니에레",
+			"tw": "龍騎兵"
 		},
 		"exists": {
 			"en": true,
@@ -82197,7 +83508,8 @@
 			"code": "KMS U-110",
 			"cn": "U-110",
 			"jp": "U-110",
-			"kr": "U-110"
+			"kr": "U-110",
+			"tw": "U-110"
 		},
 		"exists": {
 			"en": true,
@@ -82502,7 +83814,8 @@
 			"code": "USS Smalley",
 			"cn": "斯莫利",
 			"jp": "スモーリー",
-			"kr": "스몰리"
+			"kr": "스몰리",
+			"tw": "斯莫利"
 		},
 		"exists": {
 			"en": true,
@@ -82734,7 +84047,8 @@
 			"code": "MNF Gascogne",
 			"cn": "加斯科涅(μ兵装)",
 			"jp": "ガスコーニュ（μ兵装）",
-			"kr": "가스코뉴(μ장비)"
+			"kr": "가스코뉴(μ장비)",
+			"tw": "加斯科涅(μ兵裝)"
 		},
 		"exists": {
 			"en": true,
@@ -82946,7 +84260,8 @@
 			"code": "IJN Akagi",
 			"cn": "赤城(μ兵装)",
 			"jp": "赤城（μ兵装）",
-			"kr": "아카기(μ장비)"
+			"kr": "아카기(μ장비)",
+			"tw": "赤城(μ兵裝)"
 		},
 		"exists": {
 			"en": true,
@@ -83160,7 +84475,8 @@
 			"code": "USS Cleveland",
 			"cn": "克利夫兰(μ兵装)",
 			"jp": "クリーブランド（μ兵装）",
-			"kr": "클리블랜드(μ장비)"
+			"kr": "클리블랜드(μ장비)",
+			"tw": "克里夫蘭(μ兵裝)"
 		},
 		"exists": {
 			"en": true,
@@ -83383,7 +84699,8 @@
 			"code": "HMS Sheffield",
 			"cn": "谢菲尔德(μ兵装)",
 			"jp": "シェフィールド（μ兵装）",
-			"kr": "셰필드(μ장비)"
+			"kr": "셰필드(μ장비)",
+			"tw": "謝菲爾德(μ兵裝)"
 		},
 		"exists": {
 			"en": true,
@@ -83607,7 +84924,8 @@
 			"code": "KMS Admiral Hipper",
 			"cn": "希佩尔海军上将(μ兵装)",
 			"jp": "アドミラル·ヒッパー（μ兵装）",
-			"kr": "아드미랄 히퍼(μ장비)"
+			"kr": "아드미랄 히퍼(μ장비)",
+			"tw": "希佩爾將軍(μ兵裝)"
 		},
 		"exists": {
 			"en": true,
@@ -84075,7 +85393,8 @@
 			"code": "IJN Kasumi",
 			"cn": "霞.改",
 			"jp": "霞改",
-			"kr": "카스미"
+			"kr": "카스미·改",
+			"tw": "霞"
 		},
 		"exists": {
 			"en": true,
@@ -84603,7 +85922,9 @@
 			305141,
 			305142,
 			305143,
-			305144
+			305144,
+			900318,
+			900928
 		],
 		"_code": 425,
 		"names": {
@@ -84611,7 +85932,8 @@
 			"code": "IJN Suruga",
 			"cn": "骏河",
 			"jp": "駿河",
-			"kr": "스루가"
+			"kr": "스루가",
+			"tw": "駿河"
 		},
 		"exists": {
 			"en": true,
@@ -84875,7 +86197,8 @@
 			"code": "IJN Ryūhō",
 			"cn": "龙凤",
 			"jp": "龍鳳",
-			"kr": "류호"
+			"kr": "류호",
+			"tw": "龍鳳"
 		},
 		"exists": {
 			"en": true,
@@ -85123,7 +86446,8 @@
 			"code": "USS Halsey Powell",
 			"cn": "哈尔西·鲍威尔",
 			"jp": "ハルゼー・パウエル",
-			"kr": "할시 파웰"
+			"kr": "할시 파웰",
+			"tw": "海爾賽‧鮑威爾"
 		},
 		"exists": {
 			"en": true,
@@ -85357,7 +86681,8 @@
 			"code": "USS Biloxi",
 			"cn": "比洛克西",
 			"jp": "ビロクシ",
-			"kr": "빌럭시"
+			"kr": "빌럭시",
+			"tw": "比洛克西"
 		},
 		"exists": {
 			"en": true,
@@ -85635,7 +86960,8 @@
 			"code": "IJN Uranami",
 			"cn": "浦波",
 			"jp": "浦波",
-			"kr": "우라나미"
+			"kr": "우라나미",
+			"tw": "浦波"
 		},
 		"exists": {
 			"en": true,
@@ -85878,7 +87204,8 @@
 			"code": "SN Grozny",
 			"cn": "威严",
 			"jp": "グロズヌイ",
-			"kr": "그로즈니"
+			"kr": "그로즈니",
+			"tw": "威嚴"
 		},
 		"exists": {
 			"en": true,
@@ -86146,7 +87473,8 @@
 			"code": "SN Minsk",
 			"cn": "明斯克",
 			"jp": "ミンスク",
-			"kr": "민스크"
+			"kr": "민스크",
+			"tw": "明斯克"
 		},
 		"exists": {
 			"en": true,
@@ -86403,7 +87731,8 @@
 			"code": "SN Tashkent",
 			"cn": "塔什干",
 			"jp": "タシュケント",
-			"kr": "타슈켄트"
+			"kr": "타슈켄트",
+			"tw": "塔什干"
 		},
 		"exists": {
 			"en": true,
@@ -86695,7 +88024,8 @@
 			"code": "SN Pamiat' Merkuria",
 			"cn": "水星纪念",
 			"jp": "パーミャチ・メルクーリヤ",
-			"kr": "파먀티 메르쿠리야"
+			"kr": "파먀티 메르쿠리야",
+			"tw": "水星紀念"
 		},
 		"exists": {
 			"en": true,
@@ -87229,13 +88559,13 @@
 			"code": "SN Kirov",
 			"cn": "基洛夫",
 			"jp": "キーロフ",
-			"kr": "Kirov"
+			"kr": "키로프"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -87498,7 +88828,8 @@
 			"code": "SN Chapayev",
 			"cn": "恰巴耶夫",
 			"jp": "チャパエフ",
-			"kr": "차파예프"
+			"kr": "차파예프",
+			"tw": "恰巴耶夫"
 		},
 		"exists": {
 			"en": true,
@@ -88064,13 +89395,13 @@
 			"code": "SN Sovetskaya Belorussiya",
 			"cn": "苏维埃贝拉罗斯",
 			"jp": "ソビエツカヤ・ベラルーシア",
-			"kr": "Sovetskaya Belorussiya"
+			"kr": "소비에츠카야 벨로루시아"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			5,
@@ -88311,7 +89642,7 @@
 			"cn": "苏维埃罗西亚",
 			"jp": "ソビエツカヤ・ロシア",
 			"kr": "소비에츠카야 러시아",
-			"tw": "苏维埃罗西亚"
+			"tw": "蘇維埃俄羅斯"
 		},
 		"exists": {
 			"en": true,
@@ -88575,7 +89906,7 @@
 			"cn": "无畏",
 			"jp": "イントレピッド",
 			"kr": "인트레피드",
-			"tw": "无畏"
+			"tw": "無畏"
 		},
 		"exists": {
 			"en": true,
@@ -88834,7 +90165,8 @@
 			"code": "USS Bremerton",
 			"cn": "布莱默顿",
 			"jp": "ブレマートン",
-			"kr": "브레머튼"
+			"kr": "브레머튼",
+			"tw": "布雷默頓"
 		},
 		"exists": {
 			"en": true,
@@ -89114,7 +90446,8 @@
 			"code": "USS Cooper",
 			"cn": "库珀",
 			"jp": "クーパー",
-			"kr": "쿠퍼"
+			"kr": "쿠퍼",
+			"tw": "庫珀"
 		},
 		"exists": {
 			"en": true,
@@ -89367,7 +90700,8 @@
 			"code": "USS Reno",
 			"cn": "里诺",
 			"jp": "リノ",
-			"kr": "리노"
+			"kr": "리노",
+			"tw": "雷諾"
 		},
 		"exists": {
 			"en": true,
@@ -89646,7 +90980,8 @@
 			"code": "USS Bluegill",
 			"cn": "蓝鳃鱼",
 			"jp": "ブルーギル",
-			"kr": "블루길"
+			"kr": "블루길",
+			"tw": "藍鰓魚"
 		},
 		"exists": {
 			"en": true,
@@ -89905,7 +91240,8 @@
 			"code": "USS Casablanca",
 			"cn": "卡萨布兰卡",
 			"jp": "カサブランカ",
-			"kr": "카사블랑카"
+			"kr": "카사블랑카",
+			"tw": "卡薩布蘭卡"
 		},
 		"exists": {
 			"en": true,
@@ -90138,7 +91474,8 @@
 			"code": "USS Marblehead",
 			"cn": "马布尔黑德",
 			"jp": "マーブルヘッド",
-			"kr": "마블헤드"
+			"kr": "마블헤드",
+			"tw": "馬布爾黑德"
 		},
 		"exists": {
 			"en": true,
@@ -90364,6 +91701,20 @@
 					"enClient": "Charmer in the Snowy Reflection",
 					"cnClient": "魅惑的缤纷雪夜",
 					"jpClient": "雪のチャーミングタイム"
+				}
+			},
+			{
+				"name": "Moongazing on the 29½th",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c6/MarbleheadFestival.png/614px-MarbleheadFestival.png",
+				"background": "https://azurlane.netojuu.com/w/images/6/63/Skin_BG_144.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/36/MarbleheadFestivalChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Moongazing on the 29½th",
+					"cnClient": "29.5日的赏月时间",
+					"jpClient": "29.5日の月見タイム",
+					"cost": 800
 				}
 			}
 		],
@@ -91084,7 +92435,8 @@
 			"code": "MNF Tartu",
 			"cn": "塔尔图",
 			"jp": "タルテュ",
-			"kr": "타르투"
+			"kr": "타르투",
+			"tw": "塔爾圖"
 		},
 		"exists": {
 			"en": true,
@@ -91323,7 +92675,7 @@
 			"cn": "黎塞留",
 			"jp": "リシュリュー",
 			"kr": "리슐리외",
-			"tw": "黎塞留"
+			"tw": "黎胥留"
 		},
 		"exists": {
 			"en": true,
@@ -91594,7 +92946,8 @@
 			"code": "FFNF Jeanne d'Arc",
 			"cn": "圣女贞德",
 			"jp": "ジャンヌ・ダルク",
-			"kr": "잔 다르크"
+			"kr": "잔 다르크",
+			"tw": "聖女貞德"
 		},
 		"exists": {
 			"en": true,
@@ -91853,7 +93206,8 @@
 			"code": "MNF Algérie",
 			"cn": "阿尔及利亚",
 			"jp": "アルジェリー",
-			"kr": "알제리"
+			"kr": "알제리",
+			"tw": "阿爾及利亞"
 		},
 		"exists": {
 			"en": true,
@@ -92112,7 +93466,8 @@
 			"code": "MNF La Galissonnière",
 			"cn": "拉·加利索尼埃",
 			"jp": "ラ・ガリソニエール",
-			"kr": "라 갈리소니에르"
+			"kr": "라 갈리소니에르",
+			"tw": "拉·加利索尼埃"
 		},
 		"exists": {
 			"en": true,
@@ -92381,7 +93736,8 @@
 			"code": "MNF Vauquelin",
 			"cn": "沃克兰",
 			"jp": "ヴォークラン",
-			"kr": "보클랭"
+			"kr": "보클랭",
+			"tw": "沃克蘭"
 		},
 		"exists": {
 			"en": true,
@@ -92618,7 +93974,7 @@
 			"cn": "贝亚恩",
 			"jp": "ベアルン",
 			"kr": "베아른",
-			"tw": "贝亚恩"
+			"tw": "貝亞恩"
 		},
 		"exists": {
 			"en": true,
@@ -92854,7 +94210,8 @@
 			"code": "HMS Illustrious",
 			"cn": "小光辉",
 			"jp": "リトル・イラストリアス",
-			"kr": "꼬마 일러스트리어스"
+			"kr": "꼬마 일러스트리어스",
+			"tw": "小光輝"
 		},
 		"exists": {
 			"en": true,
@@ -93798,7 +95155,8 @@
 			"code": "HMS Hermione",
 			"cn": "赫敏",
 			"jp": "ハーマイオニー",
-			"kr": "허마이오니"
+			"kr": "허마이오니",
+			"tw": "赫敏"
 		},
 		"exists": {
 			"en": true,
@@ -94345,7 +95703,8 @@
 			"code": "HMS Icarus",
 			"cn": "伊卡洛斯",
 			"jp": "イカルス",
-			"kr": "이카로스"
+			"kr": "이카로스",
+			"tw": "伊卡洛斯"
 		},
 		"exists": {
 			"en": true,
@@ -95097,7 +96456,8 @@
 			"code": "IJN Suzutsuki",
 			"cn": "凉月",
 			"jp": "涼月",
-			"kr": "스즈츠키"
+			"kr": "스즈츠키",
+			"tw": "涼月"
 		},
 		"exists": {
 			"en": true,
@@ -95374,7 +96734,8 @@
 			"code": "IJN Kumano",
 			"cn": "熊野",
 			"jp": "熊野",
-			"kr": "쿠마노"
+			"kr": "쿠마노",
+			"tw": "熊野"
 		},
 		"exists": {
 			"en": true,
@@ -95638,7 +96999,8 @@
 			"code": "IJN Chitose",
 			"cn": "千岁",
 			"jp": "千歳",
-			"kr": "치토세"
+			"kr": "치토세",
+			"tw": "千歲"
 		},
 		"exists": {
 			"en": true,
@@ -95877,7 +97239,8 @@
 			"code": "IJN Chiyoda",
 			"cn": "千代田",
 			"jp": "千代田",
-			"kr": "치요다"
+			"kr": "치요다",
+			"tw": "千代田"
 		},
 		"exists": {
 			"en": true,
@@ -96111,7 +97474,8 @@
 			"code": "IJN Kashino",
 			"cn": "樫野",
 			"jp": "樫野",
-			"kr": "카시노"
+			"kr": "카시노",
+			"tw": "樫野"
 		},
 		"exists": {
 			"en": true,
@@ -100191,13 +101555,13 @@
 			"code": "RN Pola",
 			"cn": "波拉",
 			"jp": "ポーラ",
-			"kr": "Pola"
+			"kr": "폴라"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -100443,13 +101807,13 @@
 			"code": "RN Vincenzo Gioberti",
 			"cn": "文琴佐·焦贝蒂",
 			"jp": "ヴィンチェンツォ・ジョベルティ",
-			"kr": "Vincenzo Gioberti"
+			"kr": "빈첸초 조베르티"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -100673,13 +102037,13 @@
 			"code": "SN Stremitelny",
 			"cn": "神速",
 			"jp": "ストレミテルヌイ",
-			"kr": "Stremitelny"
+			"kr": "스트례미텔니"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -100924,7 +102288,7 @@
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -101173,13 +102537,13 @@
 			"code": "ROC Ying Swei",
 			"cn": "应瑞",
 			"jp": "応瑞",
-			"kr": "Ying Swei"
+			"kr": "잉 루이"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -101424,13 +102788,13 @@
 			"code": "ROC Chao Ho",
 			"cn": "肇和",
 			"jp": "肇和",
-			"kr": "Chao Ho"
+			"kr": "차오 호"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -101672,13 +103036,13 @@
 			"code": "HMS Penelope",
 			"cn": "佩内洛珀",
 			"jp": "ペネロピ",
-			"kr": "Penelope"
+			"kr": "페넬로피"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			2,
@@ -101917,13 +103281,13 @@
 			"code": "SN Tallinn",
 			"cn": "塔林",
 			"jp": "タリン",
-			"kr": "Tallinn"
+			"kr": "탈린"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -102170,13 +103534,13 @@
 			"code": "SN Gremyashchy",
 			"cn": "雷鸣",
 			"jp": "グレミャーシュチ",
-			"kr": "Gremyashchy"
+			"kr": "그리먀시"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -102424,13 +103788,13 @@
 			"code": "SN Murmansk",
 			"cn": "摩尔曼斯克",
 			"jp": "ムルマンスク",
-			"kr": "Murmansk"
+			"kr": "무르만스크"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			2,
@@ -102674,13 +104038,13 @@
 			"code": "SN Gromky",
 			"cn": "洪亮",
 			"jp": "グロームキィ",
-			"kr": "Gromky"
+			"kr": "그롬키"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -102918,13 +104282,13 @@
 			"code": "RN Vittorio Veneto",
 			"cn": "维托里奥·维内托",
 			"jp": "ヴィットリオ・ヴェネト",
-			"kr": "Vittorio Veneto"
+			"kr": "비토리오 베네토"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			5,
@@ -103178,13 +104542,13 @@
 			"code": "RN Duca degli Abruzzi",
 			"cn": "阿布鲁齐公爵",
 			"jp": "ドゥーカ・デッリ・アブルッツィ",
-			"kr": "Duca degli Abruzzi"
+			"kr": "두카 델리 아브루치"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -103435,13 +104799,13 @@
 			"code": "RN Aquila",
 			"cn": "天鹰",
 			"jp": "アクィラ",
-			"kr": "Aquila"
+			"kr": "아퀼라"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -103690,13 +105054,13 @@
 			"code": "RN Torricelli",
 			"cn": "托里拆利",
 			"jp": "トリチェリ",
-			"kr": "Torricelli"
+			"kr": "토리첼리"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -103937,13 +105301,13 @@
 			"code": "RN Maestrale",
 			"cn": "西北风",
 			"jp": "マエストラーレ",
-			"kr": "Maestrale"
+			"kr": "마에스트라레"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -104189,13 +105553,13 @@
 			"code": "RN Libeccio",
 			"cn": "西南风",
 			"jp": "リベッチオ",
-			"kr": "Libeccio"
+			"kr": "리베치오"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -104441,13 +105805,13 @@
 			"code": "RN Nicoloso da Recco",
 			"cn": "尼科洛索·达雷科",
 			"jp": "二コロソ・ダ・レッコ",
-			"kr": "Nicoloso da Recco"
+			"kr": "니콜로소 다 레코"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -104689,13 +106053,13 @@
 			"code": "IJN Oite",
 			"cn": "追风",
 			"jp": "追風",
-			"kr": "Oite"
+			"kr": "오이테"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -104925,13 +106289,13 @@
 			"code": "USS Allen M. Sumner",
 			"cn": "艾伦·萨姆纳",
 			"jp": "アレン・M・サムナー",
-			"kr": "Allen M. Sumner"
+			"kr": "알렌 M. 섬너"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -105169,13 +106533,13 @@
 			"code": "USS Stephen Potter",
 			"cn": "史蒂芬·波特",
 			"jp": "ステフェン・ポッター",
-			"kr": "Stephen Potter"
+			"kr": "스테판 포터"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			2,
@@ -105413,13 +106777,13 @@
 			"code": "IJN Amagi",
 			"cn": "小天城",
 			"jp": "天城ちゃん",
-			"kr": "Amagi-chan"
+			"kr": "꼬마 아마기"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -105620,13 +106984,13 @@
 			"code": "USS Ticonderoga",
 			"cn": "提康德罗加",
 			"jp": "タイコンデロガ",
-			"kr": "Ticonderoga"
+			"kr": "타이콘데로가"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -105872,13 +107236,13 @@
 			"code": "USS San Francisco",
 			"cn": "旧金山",
 			"jp": "サンフランシスコ",
-			"kr": "San Francisco"
+			"kr": "샌프란시스코"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -106130,13 +107494,13 @@
 			"code": "USS Archerfish",
 			"cn": "射水鱼",
 			"jp": "アーチャーフィッシュ",
-			"kr": "Archerfish"
+			"kr": "아처피시"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -106391,13 +107755,13 @@
 			"code": "USS Boise",
 			"cn": "博伊西",
 			"jp": "ボイシ",
-			"kr": "Boise"
+			"kr": "보이시"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -106640,13 +108004,13 @@
 			"code": "USS Morrison",
 			"cn": "莫里森",
 			"jp": "モリソン",
-			"kr": "Morrison"
+			"kr": "모리슨"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			2,
@@ -106894,13 +108258,14 @@
 			"code": "USS Enterprise",
 			"cn": "小企业",
 			"jp": "リトル・エンタープライズ",
-			"kr": "Little Enterprise"
+			"kr": "꼬마 엔터프라이즈",
+			"tw": "小企業"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -107092,13 +108457,13 @@
 			"code": "IJN Kazagumo",
 			"cn": "风云",
 			"jp": "風雲",
-			"kr": "Kazagumo"
+			"kr": "카자구모"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -107336,13 +108701,13 @@
 			"code": "USS Ingraham",
 			"cn": "英格拉罕",
 			"jp": "イングラハム",
-			"kr": "Ingraham"
+			"kr": "잉그레이엄"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -107562,7 +108927,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading screen showing Ingraham and Nautilus",
+				"url": "https://azurlane.netojuu.com/w/images/9/9c/Bg_2021.08.19_1.png"
+			}
+		]
 	},
 	"519": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Nautilus",
@@ -107580,13 +108950,13 @@
 			"code": "USS Nautilus",
 			"cn": "鹦鹉螺",
 			"jp": "ノーチラス",
-			"kr": "Nautilus"
+			"kr": "노틸러스"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -107816,6 +109186,248 @@
 				}
 			}
 		],
+		"gallery": [
+			{
+				"description": "Loading screen showing Ingraham and Nautilus",
+				"url": "https://azurlane.netojuu.com/w/images/9/9c/Bg_2021.08.19_1.png"
+			}
+		]
+	},
+	"520": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Katsuragi",
+		"id": "520",
+		"_gid": 30712,
+		"_sid": [
+			307121,
+			307122,
+			307123,
+			307124,
+			900319,
+			900929
+		],
+		"_code": 520,
+		"names": {
+			"en": "Katsuragi",
+			"code": "IJN Katsuragi",
+			"cn": "葛城",
+			"jp": "葛城",
+			"kr": "Katsuragi"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			0,
+			0,
+			5,
+			2,
+			3,
+			3
+		],
+		"class": "Unryuu",
+		"nationality": "Sakura Empire",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/5/59/KatsuragiShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1014",
+				"armor": "Medium",
+				"reload": "44",
+				"luck": "75",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "13",
+				"speed": "32",
+				"antiair": "58",
+				"aviation": "80",
+				"oilConsumption": "4",
+				"accuracy": "32",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "5240",
+				"armor": "Medium",
+				"reload": "104",
+				"luck": "75",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "33",
+				"speed": "32",
+				"antiair": "272",
+				"aviation": "377",
+				"oilConsumption": "13",
+				"accuracy": "84",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "6079",
+				"armor": "Medium",
+				"reload": "120",
+				"luck": "75",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "54",
+				"speed": "32",
+				"antiair": "309",
+				"aviation": "419",
+				"oilConsumption": "13",
+				"accuracy": "94",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 110,
+				"type": "Fighters",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 115,
+				"minEfficiency": 100,
+				"type": "Dive Bombers",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 120,
+				"type": "Torpedo Bombers",
+				"max": 3
+			}
+		],
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 66,
+			"reload": 8
+		},
+		"scrapValue": {
+			"coin": 9,
+			"oil": 3,
+			"medal": 10
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/7/7c/Skill_14830.png",
+				"names": {
+					"en": "Late-Blooming Airstrike",
+					"cn": "陌上花开",
+					"jp": "遅れ咲きのエアストライク"
+				},
+				"description": "Increases this ship's Accuracy by 5.0% (15.0%). When this ship launches an Airstrike: launches an additional Lv.1 (Lv.10) airstrike (DMG is based on the skill's level) and, for 8s, decreases all enemies' Accuracy and RLD by 5.0% (15.0%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/b1/Skill_14840.png",
+				"names": {
+					"en": "Veil of Azaleas",
+					"cn": "拟态装甲",
+					"jp": "念願会心のカモフラージュ"
+				},
+				"description": "Increases this ship's max Detection Gauge value by 15 and decreases her DMG taken from aircraft by 4.0% (10.0%). At the start of the battle, if there are 3 Sakura Empire ships in your Vanguard: decreases all your Sakura Empire ships' DMG taken from aircraft by 4.0% (10.0%).",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Number of Torpedo Bombers +1",
+				"All Plane efficiency +3%"
+			],
+			[
+				"Hangar Capacity +1",
+				"Number of Fighters +1",
+				"All Plane efficiency +5%"
+			],
+			[
+				"Number of All Planes +1",
+				"All Plane efficiency +7%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+2",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "accuracy"
+				}
+			},
+			"techPoints": {
+				"collection": 14,
+				"maxLimitBreak": 28,
+				"maxLevel": 21,
+				"total": 63
+			}
+		},
+		"construction": {
+			"constructionTime": "04:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Upon the Shimmering Blue",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during Upon the Shimmering Blue Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "山×2",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/Artists#.E5.B1.B1.C3.972",
+					"Pixiv": "http://www.pixiv.net/member.php?id=101608",
+					"Twitter": "https://twitter.com/yamakakeru2"
+				}
+			},
+			"voice": {
+				"name": "Megumi Toda",
+				"url": "http://kenyu-office.com/todamegumi/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b9/Katsuragi.png/794px-Katsuragi.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/c1/KatsuragiChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Night-Illuminating Festival",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/cb/KatsuragiBunny.png/780px-KatsuragiBunny.png",
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b6/KatsuragiBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Night-Illuminating Festival",
+					"cnClient": "黎明辉祭",
+					"jpClient": "夜明輝祭",
+					"cost": 880
+				}
+			}
+		],
 		"gallery": []
 	},
 	"10061": {
@@ -107834,7 +109446,8 @@
 			"code": "Marie Rose",
 			"cn": "玛莉萝丝",
 			"jp": "マリー・ローズ",
-			"kr": "마리 로즈"
+			"kr": "마리 로즈",
+			"tw": "瑪莉蘿絲"
 		},
 		"exists": {
 			"en": true,
@@ -108054,7 +109667,8 @@
 			"code": "Honoka",
 			"cn": "穗香",
 			"jp": "ほのか",
-			"kr": "호노카"
+			"kr": "호노카",
+			"tw": "穗香"
 		},
 		"exists": {
 			"en": true,
@@ -108280,7 +109894,8 @@
 			"code": "Kasumi",
 			"cn": "霞",
 			"jp": "かすみ",
-			"kr": "카스미"
+			"kr": "카스미",
+			"tw": "霞"
 		},
 		"exists": {
 			"en": true,
@@ -108507,7 +110122,8 @@
 			"code": "Misaki",
 			"cn": "海咲",
 			"jp": "みさき",
-			"kr": "미사키"
+			"kr": "미사키",
+			"tw": "海咲"
 		},
 		"exists": {
 			"en": true,
@@ -108731,7 +110347,8 @@
 			"code": "Nagisa",
 			"cn": "凪咲",
 			"jp": "なぎさ",
-			"kr": "나기사"
+			"kr": "나기사",
+			"tw": "凪咲"
 		},
 		"exists": {
 			"en": true,
@@ -108957,7 +110574,8 @@
 			"code": "Nyotengu",
 			"cn": "女天狗",
 			"jp": "女天狗",
-			"kr": "뇨텐구"
+			"kr": "뇨텐구",
+			"tw": "女天狗"
 		},
 		"exists": {
 			"en": true,
@@ -109187,7 +110805,8 @@
 			"code": "Monica",
 			"cn": "莫妮卡",
 			"jp": "モニカ",
-			"kr": "모니카"
+			"kr": "모니카",
+			"tw": "莫妮卡"
 		},
 		"exists": {
 			"en": true,
@@ -109412,13 +111031,14 @@
 			"code": "Amami Haruka",
 			"cn": "天海春香",
 			"jp": "天海春香",
-			"kr": "Haruka Amami"
+			"kr": "아마미 하루카",
+			"tw": "天海春香"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -109636,16 +111256,17 @@
 		"_code": 10072,
 		"names": {
 			"en": "Chihaya Kisaragi",
-			"code": "Kisaragi Chihaya",
+			"code": "Chihaya Kisaragi",
 			"cn": "如月千早",
 			"jp": "如月千早",
-			"kr": "Chihaya Kisaragi"
+			"kr": "키사라기 치하야",
+			"tw": "如月千早"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -109865,16 +111486,17 @@
 		"_code": 10073,
 		"names": {
 			"en": "Iori Minase",
-			"code": "Minase Iori",
+			"code": "Iori Minase",
 			"cn": "水濑伊织",
 			"jp": "水瀬伊織",
-			"kr": "Iori Minase"
+			"kr": "미나세 이오리",
+			"tw": "水瀨伊織"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -110083,16 +111705,17 @@
 		"_code": 10074,
 		"names": {
 			"en": "Azusa Miura",
-			"code": "Miura Azusa",
+			"code": "Azusa Miura",
 			"cn": "三浦 梓",
 			"jp": "三浦あずさ",
-			"kr": "Azusa Miura"
+			"kr": "미우라 아즈사",
+			"tw": "三浦梓"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -110307,16 +111930,17 @@
 		"_code": 10075,
 		"names": {
 			"en": "Ritsuko Akizuki",
-			"code": "Akizuki Ritsuko",
+			"code": "Ritsuko Akizuki",
 			"cn": "秋月律子",
 			"jp": "秋月律子",
-			"kr": "Ritsuko Akizuki"
+			"kr": "아키즈키 리츠코",
+			"tw": "秋月律子"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -110523,16 +112147,17 @@
 		"_code": 10076,
 		"names": {
 			"en": "Ami Futami",
-			"code": "Futami Ami",
+			"code": "Ami Futami",
 			"cn": "双海亚美",
 			"jp": "双海亜美",
-			"kr": "Ami Futami"
+			"kr": "후타미 아미",
+			"tw": "雙海亞美"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -110748,16 +112373,17 @@
 		"_code": 10077,
 		"names": {
 			"en": "Mami Futami",
-			"code": "Futami Mami",
+			"code": "Mami Futami",
 			"cn": "双海真美",
 			"jp": "双海真美",
-			"kr": "Mami Futami"
+			"kr": "후타미 마미",
+			"tw": "雙海真美"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			1,
@@ -110974,7 +112600,7 @@
 		"names": {
 			"en": "Hiryuu META",
 			"code": "Hiryuu META",
-			"cn": "龙·META",
+			"cn": "飞龙·META",
 			"jp": "飛龍(META)",
 			"kr": "히류·META"
 		},
@@ -111194,13 +112820,13 @@
 			"code": "Ark Royal META",
 			"cn": "皇家方舟·META",
 			"jp": "アーク・ロイヤル(META)",
-			"kr": "Ark Royal META"
+			"kr": "아크 로열·META"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -111416,16 +113042,16 @@
 		"_code": 30003,
 		"names": {
 			"en": "Helena META",
-			"code": "Helena.META",
+			"code": "Helena META",
 			"cn": "海伦娜·META",
 			"jp": "ヘレナ(META)",
-			"kr": "Helena META"
+			"kr": "헬레나·META"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -111611,6 +113237,224 @@
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a1/Helena_META.png/892px-Helena_META.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/9/93/Helena_METAChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"30004": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Souryuu_META",
+		"id": "30004",
+		"_gid": 970703,
+		"_sid": [
+			9707031,
+			9707032,
+			9707033,
+			9707034
+		],
+		"_code": 30004,
+		"names": {
+			"en": "Souryuu META",
+			"code": "Souryuu META",
+			"cn": "苍龙·META",
+			"jp": "蒼龍(META)",
+			"kr": "Souryuu META"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			0,
+			0,
+			5,
+			3,
+			4,
+			3
+		],
+		"class": "Souryuu META",
+		"nationality": "META",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/4/41/Souryuu_METAShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "908",
+				"armor": "Medium",
+				"reload": "49",
+				"luck": "36",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "10",
+				"speed": "34",
+				"antiair": "58",
+				"aviation": "80",
+				"oilConsumption": "8",
+				"accuracy": "26",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "36",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "",
+				"speed": "34",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "14",
+				"accuracy": "",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "5279",
+				"armor": "Medium",
+				"reload": "134",
+				"luck": "36",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "49",
+				"speed": "34",
+				"antiair": "309",
+				"aviation": "419",
+				"oilConsumption": "14",
+				"accuracy": "102",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 110,
+				"type": "Fighters",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 120,
+				"type": "Dive Bombers",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 120,
+				"type": "Torpedo Bombers",
+				"max": 2
+			}
+		],
+		"enhanceValue": null,
+		"scrapValue": null,
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/d4/Skill_800130.png",
+				"names": {
+					"en": "Akatan of Blossoming Flame",
+					"cn": "焰舞花札",
+					"jp": "赤短朱焔"
+				},
+				"description": "10s after the battle starts, and every 20s after that: fires a special barrage that inflicts a unique Burn ailment to enemies (Burn lasts 6s and deals 521 DMG per tick, 1 tick occurs every 3s; barrage DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/d9/Skill_800140.png",
+				"names": {
+					"en": "Aotan of Shadow-Sealing",
+					"cn": "剑锋暗曳",
+					"jp": "青短影縫"
+				},
+				"description": "When this ship launches an Airstrike: launches an additional airstrike and executes a slashing attack which inflicts a unique Flooding ailment (Flooding DMG is based on this ship's AVI stat and the skill's level; special airstrike and slashing attack DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/2/28/Skill_800150.png",
+				"names": {
+					"en": "Cards of Beast and Butterfly",
+					"cn": "惊雷乱舞",
+					"jp": "月花猪鹿蝶"
+				},
+				"description": "When sortied with Hiryuu or Hiryuu META, or when this ship has Sakura Empire aircraft equipped: increases this ship's AVI by 10.0% (20.0%). When a ship in your Vanguard fires her Torpedoes: 20.0% (50.0%) chance to increase this ship's DMG dealt by 20.0% for 5s.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/4b/Skill_800160.png",
+				"names": {
+					"en": "Flickering Light - Souryuu",
+					"cn": "摇曳之火·蛟",
+					"jp": "揺灯の力-蒼龍"
+				},
+				"description": "[Operation Siren]\nIncreases this ship's Accuracy by 3.0% (5.0%). When fighting humanoid Siren fleets or Boss fleets: further increases this ship's Accuracy and AVI by 3.0% (5.0%).",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Number of Dive Bombers +1",
+				"Dive Bomber Efficiency +5%"
+			],
+			[
+				"Hangar Capacity +1",
+				"Number of Fighters +1",
+				"Dive Bomber Efficiency +10%"
+			],
+			[
+				"Number of All Planes +1",
+				"Dive Bomber Efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "小叶",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/Artists#.E5.B0.8F.E5.8F.B6",
+					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
+					"Twitter": "https://twitter.com/leaf_plus",
+					"Link": "http://weibo.com/u/1810348711"
+				}
+			},
+			"voice": {
+				"name": "Karin Mitarai",
+				"url": "http://www.rme.jp/talent/women/karin-mitarai.html"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c2/Souryuu_META.png/763px-Souryuu_META.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a8/Souryuu_METAChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
@@ -112019,7 +113863,8 @@
 			"code": "UNIV Specialized Bulin Custom MKIII",
 			"cn": "特装型布里MKIII",
 			"jp": "特装型ブリMKⅢ",
-			"kr": "특장형 부린 MKIII"
+			"kr": "특장형 부린 MKIII",
+			"tw": "特裝型布里MKIII"
 		},
 		"exists": {
 			"en": true,
@@ -118147,6 +119992,20 @@
 					"cnClient": "喵喵偶像团？",
 					"jpClient": "ニャンニャンアイドル？",
 					"cost": 1100
+				}
+			},
+			{
+				"name": "Moon Festival Spacewalk",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/43/EldridgeFestival.png/428px-EldridgeFestival.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/7f/EldridgeFestivalChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Moon Festival Spacewalk",
+					"cnClient": "太空中秋节",
+					"jpClient": "アストロ・ルナーデー",
+					"cost": 800
 				}
 			}
 		],
@@ -126321,7 +128180,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading screen showing California, Souryuu, Hiryuu and Tennessee",
+				"url": "https://azurlane.netojuu.com/w/images/f/f3/Bg_2021.09.09_1.png"
+			}
+		]
 	},
 	"059": {
 		"wikiUrl": "https://azurlane.koumakan.jp/California",
@@ -126541,7 +128405,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Loading screen showing California, Souryuu, Hiryuu and Tennessee",
+				"url": "https://azurlane.netojuu.com/w/images/f/f3/Bg_2021.09.09_1.png"
+			}
+		]
 	},
 	"060": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Colorado",
@@ -128001,13 +129870,13 @@
 			"code": "USS New Jersey",
 			"cn": "新泽西",
 			"jp": "ニュージャージー",
-			"kr": "New Jersey"
+			"kr": "뉴저지"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			5,
@@ -128119,7 +129988,7 @@
 					"cn": "领向自由的炮火",
 					"jp": "その火力は自由のために"
 				},
-				"description": "Decrease the spread range of this ship's main guns by 0.5 (5). Whenever ANOTHER fleet in the same sortie engages in battle, if this ship is afloat, fire a special barrage 20s into the start of that battle (damage scales with skill level and the FP stat of that fleet's flagship). At the start of that battle, if that fleet's flagship is an Eagle Union ship, increase the AVI stat of all Eagle Union CVs and CVLs in that fleet by 5% (15%).",
+				"description": "Decrease the spread range of this ship's main guns by 0.5 (5). Whenever ANOTHER fleet in the same sortie engages in battle, if this ship is afloat, fire a special barrage 20s into the start of that battle (damage scales with skill level). At the start of that battle, if that fleet's flagship is an Eagle Union ship, increase the AVI stat of all Eagle Union CVs and CVLs in that fleet by 5% (15%).",
 				"color": "gold"
 			},
 			{
@@ -137612,7 +139481,8 @@
 			"code": "HMS Hardy",
 			"cn": "勇敢",
 			"jp": "ハーディ",
-			"kr": "하디"
+			"kr": "하디",
+			"tw": "勇敢"
 		},
 		"exists": {
 			"en": true,
@@ -141658,7 +143528,8 @@
 			"code": "HMS Cheshire",
 			"cn": "柴郡",
 			"jp": "チェシャー",
-			"kr": "체셔"
+			"kr": "체셔",
+			"tw": "柴郡"
 		},
 		"exists": {
 			"en": true,
@@ -141991,7 +143862,8 @@
 			"code": "HMS Drake",
 			"cn": "德雷克",
 			"jp": "ドレイク",
-			"kr": "드레이크"
+			"kr": "드레이크",
+			"tw": "德雷克"
 		},
 		"exists": {
 			"en": true,
@@ -142283,7 +144155,8 @@
 			"code": "KMS Mainz",
 			"cn": "美因茨",
 			"jp": "マインツ",
-			"kr": "마인츠"
+			"kr": "마인츠",
+			"tw": "美因茲"
 		},
 		"exists": {
 			"en": true,
@@ -142558,7 +144431,9 @@
 			499041,
 			499042,
 			499043,
-			499044
+			499044,
+			900320,
+			900930
 		],
 		"_code": 20016,
 		"names": {
@@ -142566,7 +144441,8 @@
 			"code": "KMS Odin",
 			"cn": "奥丁",
 			"jp": "オーディン",
-			"kr": "오딘"
+			"kr": "오딘",
+			"tw": "奧丁"
 		},
 		"exists": {
 			"en": true,
@@ -142859,7 +144735,8 @@
 			"code": "FFNF Champagne",
 			"cn": "香槟",
 			"jp": "シャンパーニュ",
-			"kr": "샹파뉴"
+			"kr": "샹파뉴",
+			"tw": "香檳"
 		},
 		"exists": {
 			"en": true,
@@ -143146,13 +145023,13 @@
 			"code": "USS Anchorage",
 			"cn": "安克雷奇",
 			"jp": "アンカレッジ",
-			"kr": "Anchorage"
+			"kr": "앵커리지"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -143421,13 +145298,13 @@
 			"code": "IJN Hakuryū",
 			"cn": "白龙",
 			"jp": "白龍",
-			"kr": "Hakuryuu"
+			"kr": "하쿠류"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -143704,13 +145581,13 @@
 			"code": "KMS Ägir",
 			"cn": "埃吉尔",
 			"jp": "エーギル",
-			"kr": "Ägir"
+			"kr": "에기르"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -143980,13 +145857,13 @@
 			"code": "KMS August von Parseval",
 			"cn": "奥古斯特·冯·帕塞瓦尔",
 			"jp": "アウグスト・フォン・パーセヴァル",
-			"kr": "August von Parseval"
+			"kr": "아우구스트 폰 파르제팔"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -144260,13 +146137,13 @@
 			"code": "RN Marco Polo",
 			"cn": "马可波罗",
 			"jp": "マルコ・ポーロ",
-			"kr": "Marco Polo"
+			"kr": "마르코 폴로"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			5,
@@ -144379,7 +146256,7 @@
 					"cn": "开拓与探险之途",
 					"jp": "半分は頑張ってさしあげますわっ！"
 				},
-				"description": "During a sortie, whenever the fleet this ship is in sinks an enemy fleet:increases this ship's AA and EVA by 5.0%(can be stacked up to 3 times). While this ship is afloat, the following effects are applied to the fleet this ship is NOT in:\nFor the 1st and 2nd battle: launches a supporting barrage 20s after battle starts (DMG is based on the skill's level).\nFor the 3rd and 4th battle: decreases DMG taken by 3.5% (8%) for all Sardegna Empire ships in that fleet.\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+				"description": "During a sortie, whenever the fleet this ship is in sinks an enemy fleet: increase this ship's AA and EVA by 5.0% (can be stacked up to 3 times). While this ship is afloat, the following effects are applied to the fleet this ship is NOT in:\nFor the 1st and 2nd battle: launches a supporting barrage 20s after battle starts (damage is based on skill level).\nFor the 3rd and 4th battle: decreases damage taken by 3.5% (8%) for all Sardegna Empire ships in that fleet.\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "gold"
 			},
 			{
@@ -148785,7 +150662,7 @@
 			"code": "Shirakami Fubuki",
 			"cn": "白上吹雪",
 			"jp": "白上フブキ",
-			"kr": "白上吹雪"
+			"kr": "시라카미 후부키"
 		},
 		"exists": {
 			"en": true,
@@ -149012,7 +150889,7 @@
 			"code": "Tokino Sora",
 			"cn": "时乃空",
 			"jp": "ときのそら",
-			"kr": "时乃空"
+			"kr": "토키노 소라"
 		},
 		"exists": {
 			"en": true,
@@ -149239,7 +151116,7 @@
 			"code": "Minato Aqua",
 			"cn": "湊阿库娅",
 			"jp": "湊あくあ",
-			"kr": "湊阿库娅"
+			"kr": "미나토 아쿠아"
 		},
 		"exists": {
 			"en": true,
@@ -149483,7 +151360,7 @@
 			"code": "Natsuiro Matsuri",
 			"cn": "夏色祭",
 			"jp": "夏色まつり",
-			"kr": "夏色祭"
+			"kr": "나츠이로 마츠리"
 		},
 		"exists": {
 			"en": true,
@@ -149708,7 +151585,7 @@
 			"code": "Nakiri Ayame",
 			"cn": "百鬼绫目",
 			"jp": "百鬼あやめ",
-			"kr": "百鬼绫目"
+			"kr": "나키리 아야메"
 		},
 		"exists": {
 			"en": true,
@@ -149932,7 +151809,7 @@
 			"code": "Murasaki Shion",
 			"cn": "紫咲诗音",
 			"jp": "紫咲シオン",
-			"kr": "紫咲诗音"
+			"kr": "무라사키 시온"
 		},
 		"exists": {
 			"en": true,
@@ -150159,7 +152036,7 @@
 			"code": "Ōkami Mio",
 			"cn": "大神澪",
 			"jp": "大神ミオ",
-			"kr": "大神澪"
+			"kr": "오오카미 미오"
 		},
 		"exists": {
 			"en": true,
