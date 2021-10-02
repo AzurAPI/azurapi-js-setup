@@ -93,7 +93,7 @@ function parseEquipment(id: string, href: string, category: string, body: string
         process.stdout.write("tier = " + t[0].tier + " .");
         eq.type = t[1].type;
         eq.nationality = t[1].nationality;
-        if (t[1].image) eq.image = "https://azurlane.koumakan.jp" + t[1].image;
+        if (t[1].image) eq.image = t[1].image;
         else console.log(eq.names.en);
         eq.fits = t[1].fits;
         eq.misc = t[1].misc;
@@ -257,7 +257,7 @@ function parseEquipmentMisc(eqmisc: Element): any {
         let key = camelize(row.querySelector("th").textContent);
         let col = row.querySelector("td");
         if (key === "obtainedFrom" || key === "notes") misc[key] = col.textContent;
-        else if (key === "patternAnimation") misc.animation = "https://azurlane.koumakan.jp" + col.firstElementChild.firstElementChild.getAttribute("src");
+        else if (key === "patternAnimation") misc.animation = col.firstElementChild.firstElementChild.getAttribute("src");
         else if (key === "usedInGearLabFor") misc.usedFor = Array.from(col.children).map(elem => (<HTMLElement>(elem.querySelector('a') || elem)).title.replace(/\s+\(page does not exist\)/, ''));
         else if (key === "createdInGearLabFrom") misc.madeFrom = Array.from(col.children).map(elem => (<HTMLElement>(elem.querySelector('a') || elem)).title.replace(/\s+\(page does not exist\)/, ''));
         else if (key === "blueprintsUsedInE-Research") misc.blueprints = col.textContent.trim();
