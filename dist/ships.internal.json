@@ -13436,6 +13436,219 @@
 				"total": 68
 			}
 		},
+		"retrofit": true,
+		"retrofitId": "3144",
+		"retrofitProjects": {
+			"A": {
+				"id": "Hull Improvement Ⅰ",
+				"attributes": [
+					"\"Health\" +60"
+				],
+				"materials": [
+					"2x \"CarrierT1BP\""
+				],
+				"coins": 400,
+				"level": 1,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": []
+			},
+			"B": {
+				"id": "Reload Enhancement Ⅰ",
+				"attributes": [
+					"\"Reload\" +5"
+				],
+				"materials": [
+					"3x \"CarrierT1BP\""
+				],
+				"coins": 600,
+				"level": 5,
+				"levelBreakLevel": 0,
+				"levelBreakStars": "★★☆☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"C": {
+				"id": "Bombing Elite Ⅰ",
+				"attributes": [
+					"Dive Bomber Efficiency +5.0%"
+				],
+				"materials": [
+					"3x \"CarrierT1BP\""
+				],
+				"coins": 800,
+				"level": 20,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"A"
+				]
+			},
+			"D": {
+				"id": "Anti-Air Enhancement Ⅰ",
+				"attributes": [
+					"\"Anti-air\" +15"
+				],
+				"materials": [
+					"5x \"CarrierT1BP\""
+				],
+				"coins": 1000,
+				"level": 25,
+				"levelBreakLevel": 1,
+				"levelBreakStars": "★★★☆☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"E": {
+				"id": "Torpedo Dive Ⅰ",
+				"attributes": [
+					"Torpedo Bomber Efficiency +3.0%"
+				],
+				"materials": [
+					"3x \"CarrierT2BP\""
+				],
+				"coins": 1200,
+				"level": 35,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"C"
+				]
+			},
+			"F": {
+				"id": "Aviation Enhancement Ⅰ",
+				"attributes": [
+					"\"Aviation\" +10"
+				],
+				"materials": [
+					"2x \"CarrierT2BP\""
+				],
+				"coins": 1500,
+				"level": 40,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"E"
+				]
+			},
+			"G": {
+				"id": "Hull Improvement Ⅱ",
+				"attributes": [
+					"\"Health\" +60 / \"Health\" +90"
+				],
+				"materials": [
+					"2 / 3x \"CarrierT2BP\""
+				],
+				"coins": 1800,
+				"level": 50,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 2,
+				"require": [
+					"E"
+				]
+			},
+			"H": {
+				"id": "Hit Enhancement Ⅰ",
+				"attributes": [
+					"\"Accuracy\" +5"
+				],
+				"materials": [
+					"2x \"CarrierT2BP\""
+				],
+				"coins": 2000,
+				"level": 55,
+				"levelBreakLevel": 2,
+				"levelBreakStars": "★★★★☆",
+				"recurrence": 1,
+				"require": [
+					"G",
+					"B"
+				]
+			},
+			"I": {
+				"id": "Bombing Elite Ⅱ",
+				"attributes": [
+					"Dive Bomber Efficiency +5.0% / +5.0%"
+				],
+				"materials": [
+					"1 / 1x \"CarrierT3BP\""
+				],
+				"coins": 2500,
+				"level": 70,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 2,
+				"require": [
+					"G"
+				]
+			},
+			"J": {
+				"id": "Aviation Enhancement Ⅱ",
+				"attributes": [
+					"\"Aviation\" +10 / \"Aviation\" +15"
+				],
+				"materials": [
+					"1 / 2x \"CarrierT3BP\"",
+					"15 / 35x \"PlaneT3Plate\""
+				],
+				"coins": 3000,
+				"level": 75,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 2,
+				"require": [
+					"I"
+				]
+			},
+			"K": {
+				"id": "Modernization",
+				"attributes": [
+					"\"Anti-air\" +35",
+					"\"Reload\" +10"
+				],
+				"materials": [
+					"3x \"CarrierT3BP\"",
+					"1x \"Ark Royal\" or \"Universal Bulin\""
+				],
+				"coins": 4000,
+				"level": 85,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"I",
+					"J"
+				]
+			},
+			"L": {
+				"id": "Tactical Learning",
+				"attributes": [
+					"Unlock Skill \"Destruction Bolt \""
+				],
+				"materials": [
+					"2x \"CarrierT3BP\"",
+					"50x \"AuxT3Plate\""
+				],
+				"coins": 3000,
+				"level": 90,
+				"levelBreakLevel": 3,
+				"levelBreakStars": "★★★★★",
+				"recurrence": 1,
+				"require": [
+					"K"
+				]
+			}
+		},
+		"retrofitHullType": "Aircraft Carrier",
 		"construction": {
 			"constructionTime": "04:00:00",
 			"availableIn": {
@@ -54417,7 +54630,7 @@
 		"class": "Mutsuki",
 		"nationality": "Sakura Empire",
 		"hullType": "Destroyer",
-		"thumbnail": "https://azurlane.netojuu.com/w/images/e/e5/Jp_1.png",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/f/f1/MikazukiShipyardIcon.png",
 		"rarity": "Normal",
 		"stars": 4,
 		"stats": {
@@ -73929,7 +74142,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -74767,7 +74981,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -88628,9 +88843,11 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "スイカ01",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/Artists#.E3.82.B9.E3.82.A4.E3.82.AB01",
+					"Pixiv": "https://www.pixiv.net/en/users/4678580",
+					"Twitter": "https://twitter.com/xiba_01"
 				}
 			},
 			"voice": {
@@ -102407,9 +102624,11 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "スイカ01",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/Artists#.E3.82.B9.E3.82.A4.E3.82.AB01",
+					"Pixiv": "https://www.pixiv.net/en/users/4678580",
+					"Twitter": "https://twitter.com/xiba_01"
 				}
 			},
 			"voice": {
@@ -104088,7 +104307,8 @@
 			"code": "USS Princeton",
 			"cn": "普林斯顿",
 			"jp": "プリンストン",
-			"kr": "프린스턴"
+			"kr": "프린스턴",
+			"tw": "普林斯頓"
 		},
 		"exists": {
 			"en": true,
@@ -115981,7 +116201,8 @@
 			],
 			[
 				"Improve EX Barrage",
-				"All weapons' efficiency +5%"
+				"All weapons' efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -149287,7 +149508,7 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "7214",
+				"health": "7213",
 				"armor": "Heavy",
 				"reload": "159",
 				"luck": "15",
@@ -149317,7 +149538,7 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "3156",
+				"health": "8155",
 				"armor": "Heavy",
 				"reload": "170",
 				"luck": "15",
@@ -149976,7 +150197,7 @@
 				"torpedo": "0",
 				"evasion": "32",
 				"speed": "28",
-				"antiair": "214",
+				"antiair": "216",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "58",
@@ -149991,7 +150212,7 @@
 				"torpedo": "0",
 				"evasion": "37",
 				"speed": "28",
-				"antiair": "234",
+				"antiair": "237",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "66",
@@ -150006,7 +150227,7 @@
 				"torpedo": "0",
 				"evasion": "38",
 				"speed": "28",
-				"antiair": "239",
+				"antiair": "242",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "68",
@@ -150626,7 +150847,7 @@
 				"torpedo": "206",
 				"evasion": "71",
 				"speed": "26",
-				"antiair": "224",
+				"antiair": "226",
 				"aviation": "0",
 				"oilConsumption": "13",
 				"accuracy": "122",
@@ -150641,7 +150862,7 @@
 				"torpedo": "226",
 				"evasion": "80",
 				"speed": "26",
-				"antiair": "246",
+				"antiair": "248",
 				"aviation": "0",
 				"oilConsumption": "13",
 				"accuracy": "137",
@@ -150656,7 +150877,7 @@
 				"torpedo": "231",
 				"evasion": "83",
 				"speed": "26",
-				"antiair": "251",
+				"antiair": "253",
 				"aviation": "0",
 				"oilConsumption": "13",
 				"accuracy": "141",
@@ -150956,17 +151177,17 @@
 			"level100": {
 				"health": "4779",
 				"armor": "Light",
-				"reload": "136",
+				"reload": "147",
 				"luck": "15",
-				"firepower": "155",
+				"firepower": "163",
 				"torpedo": "0",
-				"evasion": "73",
+				"evasion": "85",
 				"speed": "33",
-				"antiair": "325",
+				"antiair": "334",
 				"aviation": "0",
 				"oilConsumption": "12",
 				"accuracy": "140",
-				"antisubmarineWarfare": "137"
+				"antisubmarineWarfare": "146"
 			},
 			"level120": {
 				"health": "5257",
@@ -150981,22 +151202,22 @@
 				"aviation": "0",
 				"oilConsumption": "12",
 				"accuracy": "157",
-				"antisubmarineWarfare": "154"
+				"antisubmarineWarfare": "155"
 			},
 			"level125": {
-				"health": "",
+				"health": "5376",
 				"armor": "Light",
-				"reload": "",
+				"reload": "158",
 				"luck": "15",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "182",
+				"torpedo": "0",
+				"evasion": "100",
 				"speed": "33",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "373",
+				"aviation": "0",
 				"oilConsumption": "12",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "161",
+				"antisubmarineWarfare": "157"
 			}
 		},
 		"slots": [
@@ -151311,16 +151532,16 @@
 			"level100": {
 				"health": "7543",
 				"armor": "Heavy",
-				"reload": "142",
+				"reload": "155",
 				"luck": "15",
-				"firepower": "394",
+				"firepower": "400",
 				"torpedo": "0",
-				"evasion": "24",
+				"evasion": "27",
 				"speed": "33",
-				"antiair": "368",
+				"antiair": "375",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "60",
+				"accuracy": "65",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -151339,19 +151560,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "8486",
 				"armor": "Heavy",
-				"reload": "",
+				"reload": "166",
 				"luck": "15",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "445",
+				"torpedo": "0",
+				"evasion": "31",
 				"speed": "33",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "418",
+				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "75",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -151646,22 +151867,22 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "75",
-				"antisubmarineWarfare": "122"
+				"antisubmarineWarfare": "49"
 			},
 			"level100": {
-				"health": "2348",
+				"health": "2397",
 				"armor": "Light",
-				"reload": "194",
+				"reload": "211",
 				"luck": "15",
-				"firepower": "75",
-				"torpedo": "352",
-				"evasion": "187",
+				"firepower": "79",
+				"torpedo": "360",
+				"evasion": "212",
 				"speed": "44",
-				"antiair": "171",
+				"antiair": "180",
 				"aviation": "0",
 				"oilConsumption": "11",
 				"accuracy": "195",
-				"antisubmarineWarfare": "180"
+				"antisubmarineWarfare": "187"
 			},
 			"level120": {
 				"health": "2641",
@@ -151670,28 +151891,28 @@
 				"luck": "15",
 				"firepower": "86",
 				"torpedo": "393",
-				"evasion": "197",
+				"evasion": "239",
 				"speed": "44",
 				"antiair": "197",
 				"aviation": "0",
 				"oilConsumption": "11",
-				"accuracy": "208",
+				"accuracy": "219",
 				"antisubmarineWarfare": "199"
 			},
 			"level125": {
-				"health": "",
+				"health": "2702",
 				"armor": "Light",
-				"reload": "",
+				"reload": "226",
 				"luck": "15",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "88",
+				"torpedo": "401",
+				"evasion": "246",
 				"speed": "44",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "201",
+				"aviation": "0",
 				"oilConsumption": "11",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "225",
+				"antisubmarineWarfare": "202"
 			}
 		},
 		"slots": [
@@ -151960,15 +152181,15 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "6674",
+				"health": "6840",
 				"armor": "Medium",
-				"reload": "148",
+				"reload": "160",
 				"luck": "25",
-				"firepower": "270",
+				"firepower": "281",
 				"torpedo": "0",
-				"evasion": "34",
+				"evasion": "44",
 				"speed": "27",
-				"antiair": "196",
+				"antiair": "206",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "112",
@@ -151986,23 +152207,23 @@
 				"antiair": "226",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "123",
+				"accuracy": "125",
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "7717",
 				"armor": "Medium",
-				"reload": "",
+				"reload": "172",
 				"luck": "25",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "314",
+				"torpedo": "0",
+				"evasion": "51",
 				"speed": "27",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "231",
+				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "129",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -152308,18 +152529,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "8449",
+				"health": "8941",
 				"armor": "Heavy",
-				"reload": "137",
+				"reload": "149",
 				"luck": "0",
-				"firepower": "407",
+				"firepower": "412",
 				"torpedo": "0",
-				"evasion": "21",
+				"evasion": "24",
 				"speed": "30",
-				"antiair": "210",
+				"antiair": "220",
 				"aviation": "0",
 				"oilConsumption": "19",
-				"accuracy": "57",
+				"accuracy": "58",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -152338,19 +152559,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "10122",
 				"armor": "Heavy",
-				"reload": "",
+				"reload": "159",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "458",
+				"torpedo": "0",
+				"evasion": "28",
 				"speed": "30",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "246",
+				"aviation": "0",
 				"oilConsumption": "19",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "67",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -152645,15 +152866,15 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "6897",
+				"health": "7127",
 				"armor": "Heavy",
-				"reload": "146",
+				"reload": "159",
 				"luck": "15",
-				"firepower": "388",
+				"firepower": "394",
 				"torpedo": "0",
-				"evasion": "25",
+				"evasion": "32",
 				"speed": "32",
-				"antiair": "210",
+				"antiair": "221",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "63",
@@ -152686,7 +152907,7 @@
 				"antiair": "247",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "-",
+				"accuracy": "73",
 				"antisubmarineWarfare": "0"
 			}
 		},
@@ -152974,18 +153195,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "4590",
+				"health": "4667",
 				"armor": "Medium",
-				"reload": "136",
+				"reload": "147",
 				"luck": "15",
-				"firepower": "247",
-				"torpedo": "181",
-				"evasion": "32",
+				"firepower": "258",
+				"torpedo": "190",
+				"evasion": "67",
 				"speed": "27",
-				"antiair": "368",
+				"antiair": "375",
 				"aviation": "0",
 				"oilConsumption": "13",
-				"accuracy": "111",
+				"accuracy": "115",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -153015,7 +153236,7 @@
 				"antiair": "418",
 				"aviation": "0",
 				"oilConsumption": "13",
-				"accuracy": "",
+				"accuracy": "133",
 				"antisubmarineWarfare": "0"
 			}
 		},
@@ -153343,18 +153564,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "5016",
+				"health": "5141",
 				"armor": "Medium",
-				"reload": "120",
+				"reload": "131",
 				"luck": "0",
-				"firepower": "254",
-				"torpedo": "213",
-				"evasion": "31",
+				"firepower": "264",
+				"torpedo": "224",
+				"evasion": "66",
 				"speed": "26",
-				"antiair": "254",
+				"antiair": "264",
 				"aviation": "0",
 				"oilConsumption": "15",
-				"accuracy": "125",
+				"accuracy": "129",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -153373,19 +153594,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "5800",
 				"armor": "Medium",
-				"reload": "",
+				"reload": "141",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "295",
+				"torpedo": "250",
+				"evasion": "77",
 				"speed": "26",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "295",
+				"aviation": "0",
 				"oilConsumption": "15",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "149",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -153648,22 +153869,22 @@
 				"aviation": "0",
 				"oilConsumption": "7",
 				"accuracy": "44",
-				"antisubmarineWarfare": "36"
+				"antisubmarineWarfare": "29"
 			},
 			"level100": {
 				"health": "4784",
 				"armor": "Medium",
-				"reload": "159",
+				"reload": "173",
 				"luck": "15",
-				"firepower": "146",
-				"torpedo": "168",
-				"evasion": "39",
+				"firepower": "153",
+				"torpedo": "176",
+				"evasion": "65",
 				"speed": "25",
-				"antiair": "314",
+				"antiair": "324",
 				"aviation": "0",
 				"oilConsumption": "12",
 				"accuracy": "114",
-				"antisubmarineWarfare": "106"
+				"antisubmarineWarfare": "113"
 			},
 			"level120": {
 				"health": "5262",
@@ -153674,26 +153895,26 @@
 				"torpedo": "193",
 				"evasion": "75",
 				"speed": "25",
-				"antiair": "354",
+				"antiair": "353",
 				"aviation": "0",
 				"oilConsumption": "12",
 				"accuracy": "128",
 				"antisubmarineWarfare": "120"
 			},
 			"level125": {
-				"health": "",
+				"health": "5382",
 				"armor": "Medium",
-				"reload": "",
+				"reload": "185",
 				"luck": "15",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "171",
+				"torpedo": "197",
+				"evasion": "78",
 				"speed": "25",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "361",
+				"aviation": "0",
 				"oilConsumption": "12",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "131",
+				"antisubmarineWarfare": "122"
 			}
 		},
 		"slots": [
@@ -153951,18 +154172,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "6133",
+				"health": "6449",
 				"armor": "Heavy",
-				"reload": "149",
+				"reload": "162",
 				"luck": "15",
-				"firepower": "321",
-				"torpedo": "210",
-				"evasion": "21",
+				"firepower": "331",
+				"torpedo": "220",
+				"evasion": "32",
 				"speed": "30",
-				"antiair": "299",
+				"antiair": "309",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "52",
+				"accuracy": "55",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -153974,26 +154195,26 @@
 				"torpedo": "241",
 				"evasion": "36",
 				"speed": "30",
-				"antiair": "337",
+				"antiair": "338",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "62",
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "7296",
 				"armor": "Heavy",
-				"reload": "",
+				"reload": "173",
 				"luck": "15",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "369",
+				"torpedo": "246",
+				"evasion": "38",
 				"speed": "30",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "345",
+				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "63",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -154260,18 +154481,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "6049",
+				"health": "6251",
 				"armor": "Medium",
-				"reload": "157",
+				"reload": "171",
 				"luck": "15",
-				"firepower": "412",
+				"firepower": "417",
 				"torpedo": "0",
-				"evasion": "25",
+				"evasion": "32",
 				"speed": "32",
-				"antiair": "210",
+				"antiair": "221",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "68",
+				"accuracy": "69",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -154290,19 +154511,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "7058",
 				"armor": "Medium",
-				"reload": "",
+				"reload": "183",
 				"luck": "15",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "464",
+				"torpedo": "0",
+				"evasion": "37",
 				"speed": "32",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "247",
+				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "79",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -154564,13 +154785,13 @@
 			"level100": {
 				"health": "5688",
 				"armor": "Medium",
-				"reload": "142",
+				"reload": "155",
 				"luck": "0",
-				"firepower": "219",
-				"torpedo": "187",
-				"evasion": "41",
+				"firepower": "230",
+				"torpedo": "196",
+				"evasion": "71",
 				"speed": "26",
-				"antiair": "197",
+				"antiair": "207",
 				"aviation": "0",
 				"oilConsumption": "13",
 				"accuracy": "132",
@@ -154588,23 +154809,23 @@
 				"antiair": "227",
 				"aviation": "0",
 				"oilConsumption": "13",
-				"accuracy": "146",
+				"accuracy": "148",
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "6399",
 				"armor": "Medium",
-				"reload": "",
+				"reload": "166",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "257",
+				"torpedo": "219",
+				"evasion": "82",
 				"speed": "26",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "232",
+				"aviation": "0",
 				"oilConsumption": "13",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "152",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -154864,18 +155085,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "7328",
+				"health": "7572",
 				"armor": "Heavy",
-				"reload": "109",
+				"reload": "119",
 				"luck": "0",
 				"firepower": "0",
 				"torpedo": "0",
-				"evasion": "36",
+				"evasion": "50",
 				"speed": "34",
-				"antiair": "285",
-				"aviation": "410",
+				"antiair": "295",
+				"aviation": "415",
 				"oilConsumption": "17",
-				"accuracy": "84",
+				"accuracy": "86",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -154894,19 +155115,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "8549",
 				"armor": "Heavy",
-				"reload": "",
+				"reload": "128",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "59",
 				"speed": "34",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "330",
+				"aviation": "462",
 				"oilConsumption": "17",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "99",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -155168,13 +155389,13 @@
 			"level100": {
 				"health": "7161",
 				"armor": "Heavy",
-				"reload": "146",
+				"reload": "159",
 				"luck": "0",
-				"firepower": "247",
-				"torpedo": "175",
-				"evasion": "36",
+				"firepower": "258",
+				"torpedo": "184",
+				"evasion": "46",
 				"speed": "26",
-				"antiair": "219",
+				"antiair": "230",
 				"aviation": "0",
 				"oilConsumption": "16",
 				"accuracy": "116",
@@ -155192,23 +155413,23 @@
 				"antiair": "252",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "128",
+				"accuracy": "130",
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "8056",
 				"armor": "Heavy",
-				"reload": "",
+				"reload": "170",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "288",
+				"torpedo": "206",
+				"evasion": "53",
 				"speed": "26",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "257",
+				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "134",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -155471,16 +155692,16 @@
 			"level100": {
 				"health": "6580",
 				"armor": "Medium",
-				"reload": "104",
+				"reload": "113",
 				"luck": "0",
 				"firepower": "0",
 				"torpedo": "0",
-				"evasion": "33",
+				"evasion": "42",
 				"speed": "31",
-				"antiair": "289",
-				"aviation": "388",
+				"antiair": "299",
+				"aviation": "394",
 				"oilConsumption": "14",
-				"accuracy": "97",
+				"accuracy": "96",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -155499,19 +155720,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "7402",
 				"armor": "Medium",
-				"reload": "",
+				"reload": "121",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "49",
 				"speed": "31",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "334",
+				"aviation": "439",
 				"oilConsumption": "14",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "111",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
@@ -155772,18 +155993,18 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level100": {
-				"health": "7291",
+				"health": "7625",
 				"armor": "Heavy",
-				"reload": "136",
+				"reload": "147",
 				"luck": "0",
-				"firepower": "390",
+				"firepower": "396",
 				"torpedo": "0",
-				"evasion": "23",
+				"evasion": "35",
 				"speed": "32",
-				"antiair": "225",
+				"antiair": "236",
 				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "52",
+				"accuracy": "56",
 				"antisubmarineWarfare": "0"
 			},
 			"level120": {
@@ -155802,19 +156023,19 @@
 				"antisubmarineWarfare": "0"
 			},
 			"level125": {
-				"health": "",
+				"health": "8621",
 				"armor": "Heavy",
-				"reload": "",
+				"reload": "158",
 				"luck": "0",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "441",
+				"torpedo": "0",
+				"evasion": "41",
 				"speed": "32",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "264",
+				"aviation": "0",
 				"oilConsumption": "16",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"accuracy": "66",
+				"antisubmarineWarfare": "0"
 			}
 		},
 		"slots": [
