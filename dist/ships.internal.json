@@ -90618,11 +90618,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Merit"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as a mini-game reward during \"Crescendo of Polaris\" event.",
+			"obtainedFrom": "Available in Merit Shop for 8000 Merit",
 			"fromMaps": []
 		},
 		"misc": {
@@ -120946,13 +120946,13 @@
 			"code": "Souryuu META",
 			"cn": "苍龙·META",
 			"jp": "蒼龍(META)",
-			"kr": "Souryuu META"
+			"kr": "소류·META"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
