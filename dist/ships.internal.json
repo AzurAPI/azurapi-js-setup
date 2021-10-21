@@ -4800,8 +4800,7 @@
 					"obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 2 bonus",
 					"enClient": "Serene Steel",
 					"cnClient": "凛冽的钢之从者",
-					"jpClient": "凛冽なりし鋼の従者",
-					"cost": 1180
+					"jpClient": "凛冽なりし鋼の従者"
 				}
 			},
 			{
@@ -30008,7 +30007,7 @@
 			"constructionTime": "01:55:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -35393,9 +35392,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "股间少女",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
+					"Twitter": "https://twitter.com/gujianshaonv",
+					"Link": "https://www.weibo.com/u/5205759948"
 				}
 			},
 			"voice": {
@@ -35647,7 +35649,7 @@
 			"constructionTime": "04:30:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -50114,9 +50116,9 @@
 		},
 		"retrofitHullType": "Destroyer",
 		"construction": {
-			"constructionTime": "00:27:00",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -60368,7 +60370,7 @@
 		"construction": {
 			"constructionTime": "01:20:00",
 			"availableIn": {
-				"light": "CN/JP Only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -67179,72 +67181,72 @@
 		"stars": 6,
 		"stats": {
 			"baseStats": {
-				"health": "203",
+				"health": "211",
 				"armor": "Light",
-				"reload": "31",
-				"luck": "50",
-				"firepower": "8",
-				"torpedo": "97",
+				"reload": "40",
+				"luck": "23",
+				"firepower": "9",
+				"torpedo": "107",
 				"evasion": "7",
 				"speed": "14",
 				"antiair": "0",
 				"aviation": "0",
 				"oilConsumption": "2",
-				"accuracy": "59",
+				"accuracy": "60",
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
 				"huntingRange": "       \n 2***2 \n ***** \n **S** \n 2***2 \n 3***3 \n 54345 "
 			},
 			"level100": {
-				"health": "1139",
+				"health": "1181",
 				"armor": "Light",
-				"reload": "79",
-				"luck": "50",
-				"firepower": "41",
-				"torpedo": "478",
+				"reload": "103",
+				"luck": "23",
+				"firepower": "47",
+				"torpedo": "528",
 				"evasion": "32",
 				"speed": "14",
 				"antiair": "0",
 				"aviation": "0",
-				"oilConsumption": "6",
-				"accuracy": "153",
+				"oilConsumption": "7",
+				"accuracy": "156",
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
 				"huntingRange": "       \n 2***2 \n ***** \n **S** \n 2***2 \n 3***3 \n 54345 "
 			},
 			"level120": {
-				"health": "1261",
+				"health": "1309",
 				"armor": "Light",
-				"reload": "84",
-				"luck": "50",
-				"firepower": "43",
-				"torpedo": "503",
+				"reload": "109",
+				"luck": "23",
+				"firepower": "50",
+				"torpedo": "555",
 				"evasion": "37",
 				"speed": "14",
 				"antiair": "0",
 				"aviation": "0",
-				"oilConsumption": "6",
-				"accuracy": "172",
+				"oilConsumption": "7",
+				"accuracy": "174",
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
 				"huntingRange": "       \n 2***2 \n ***** \n **S** \n 2***2 \n 3***3 \n 54345 "
 			},
 			"level125": {
-				"health": "1292",
+				"health": "1341",
 				"armor": "Light",
-				"reload": "85",
-				"luck": "50",
-				"firepower": "44",
-				"torpedo": "509",
+				"reload": "110",
+				"luck": "23",
+				"firepower": "51",
+				"torpedo": "562",
 				"evasion": "38",
 				"speed": "14",
 				"antiair": "0",
 				"aviation": "0",
-				"oilConsumption": "6",
-				"accuracy": "177",
+				"oilConsumption": "7",
+				"accuracy": "179",
 				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
@@ -71931,7 +71933,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -75524,7 +75527,7 @@
 			"constructionTime": "04:25:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
@@ -75843,14 +75846,14 @@
 			"constructionTime": "04:30:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction, in Event Shop and as a drop during \"Crimson Echoes\" event.",
+			"obtainedFrom": "Crimson Echoes B3, D3",
 			"fromMaps": []
 		},
 		"misc": {
@@ -76087,7 +76090,7 @@
 		"construction": {
 			"constructionTime": "00:20:00",
 			"availableIn": {
-				"light": "CN/JP Only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -76095,7 +76098,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction and as a drop during \"Crimson Echoes\" Event.",
+			"obtainedFrom": "Crimson Echoes A3, B2, C3, D2",
 			"fromMaps": []
 		},
 		"misc": {
@@ -86642,7 +86645,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -86898,7 +86902,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -89906,7 +89911,7 @@
 			"constructionTime": "05:50:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP Only",
 				"aviation": false,
 				"limited": "Only during event: Crescendo of Polaris",
 				"exchange": false
@@ -90137,7 +90142,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": false,
+				"aviation": "CN/JP Only",
 				"limited": "Only during event: Crescendo of Polaris",
 				"exchange": false
 			}
@@ -90374,7 +90379,7 @@
 		"construction": {
 			"constructionTime": "01:25:00",
 			"availableIn": {
-				"light": false,
+				"light": "CN/JP Only",
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crescendo of Polaris",
@@ -90855,7 +90860,7 @@
 			"constructionTime": "02:00:00",
 			"availableIn": {
 				"light": false,
-				"heavy": false,
+				"heavy": "CN/JP Only",
 				"aviation": false,
 				"limited": "Only during event: Crescendo of Polaris",
 				"exchange": false
@@ -92457,7 +92462,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -96686,7 +96692,8 @@
 			],
 			[
 				"Improve All Out Assault",
-				"All weapons' efficiency +5%"
+				"All weapons' efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -98087,7 +98094,7 @@
 		"construction": {
 			"constructionTime": "00:29:00",
 			"availableIn": {
-				"light": "CN/JP Only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -98346,7 +98353,7 @@
 		"construction": {
 			"constructionTime": "00:27:00",
 			"availableIn": {
-				"light": "CN/JP Only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crimson Echoes",
@@ -122175,7 +122182,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -124559,7 +124567,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -124812,7 +124821,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -125549,7 +125559,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -126064,7 +126075,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -126092,9 +126104,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "00:27:00",
+			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -127652,7 +127664,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -128176,7 +128189,8 @@
 			],
 			[
 				"Upgrades Full Barrage I→II",
-				"All Weapon Efficiency +5%"
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -129816,9 +129830,9 @@
 		},
 		"retrofitHullType": "Light Cruiser",
 		"construction": {
-			"constructionTime": "01:15:00",
+			"constructionTime": "Drop Only",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -131237,9 +131251,9 @@
 			}
 		},
 		"construction": {
-			"constructionTime": "01:25:00",
+			"constructionTime": "Drop Only",
 			"availableIn": {
-				"light": "EN Only",
+				"light": false,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
