@@ -29173,7 +29173,7 @@
 					"cn": "侦测之「眼」",
 					"jp": "焼き付かせる目"
 				},
-				"description": "At the start of the battle and every 20s: decrease this ship's Speed by 5.0% for 3s and fire a special barrage (barrage damage scales with skill level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage receive all of the following effects:\nDecrease the enemy's speed by 15.0% (30.0%) for 5s.\nIf there was a Sakura Empire CV afloat in your fleet when this barrage fired: 50.0% chance to increase the enemy's aviation damage taken by 1.5% (6.0%) for 8s. (CVLs do not count.)\n70.0% (100.0%) chance to inflict one of the following randomly chosen debuffs for 10s:\nDecrease the enemy's EVA by 10.0%.\nDecrease the enemy's Accuracy by 10.0%.\nDecrease the enemy's damage dealt by 10.0%.",
+				"description": "At the start of the battle and every 20s: decrease this ship's Speed by 5.0% for 3s and fire a special barrage (barrage damage scales with skill level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage receive all of the following effects:\nDecrease the enemy's speed by 15.0% (30.0%) for 5s.\nIf there was a Sakura Empire CV afloat in your fleet when this barrage fired: 50.0% chance to increase the enemy's aviation damage takenIt does not work at the moment, probably bugincrease the enemy's aviation damage taken[a] by 1.5% (6.0%) for 8s. (CVLs do not count.)\n70.0% (100.0%) chance to inflict one of the following randomly chosen debuffs for 10s:\nDecrease the enemy's EVA by 10.0%.\nDecrease the enemy's Accuracy by 10.0%.\nDecrease the enemy's damage dealt by 10.0%.",
 				"color": "pink"
 			},
 			{
@@ -116854,6 +116854,221 @@
 				"url": "https://azurlane.netojuu.com/w/images/d/d2/Bg_2021.09.16_13.png"
 			}
 		]
+	},
+	"521": {
+		"wikiUrl": "https://azurlane.koumakan.jp/New_Orleans",
+		"id": "521",
+		"_gid": 10312,
+		"_sid": [
+			103121,
+			103122,
+			103123,
+			103124
+		],
+		"_code": 521,
+		"names": {
+			"en": "New Orleans",
+			"code": "USS New Orlean",
+			"cn": "新奥尔良",
+			"jp": "ニューオリンズ",
+			"kr": "New Orleans"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			0,
+			0,
+			2,
+			3,
+			4
+		],
+		"class": "New Orleans",
+		"nationality": "Eagle Union",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/8/8f/New_OrleansShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "848",
+				"armor": "Medium",
+				"reload": "67",
+				"luck": "76",
+				"firepower": "45",
+				"torpedo": "0",
+				"evasion": "10",
+				"speed": "26",
+				"antiair": "50",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "45",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "4458",
+				"armor": "Medium",
+				"reload": "173",
+				"luck": "76",
+				"firepower": "230",
+				"torpedo": "0",
+				"evasion": "50",
+				"speed": "26",
+				"antiair": "243",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "121",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "4911",
+				"armor": "Medium",
+				"reload": "182",
+				"luck": "76",
+				"firepower": "243",
+				"torpedo": "0",
+				"evasion": "59",
+				"speed": "26",
+				"antiair": "266",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "136",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "5025",
+				"armor": "Medium",
+				"reload": "185",
+				"luck": "76",
+				"firepower": "246",
+				"torpedo": "0",
+				"evasion": "61",
+				"speed": "26",
+				"antiair": "271",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "139",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 105,
+				"type": "CA Guns",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 70,
+				"minEfficiency": 65,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 120,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": null,
+		"scrapValue": {
+			"coin": 18,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/f9/Skill_14910.png",
+				"names": {
+					"en": "Crescent City Bonds",
+					"cn": null,
+					"jp": null
+				},
+				"description": "At the start of the battle, if this ship is in the frontmost position of your Vanguard and there are 3 ships afloat in your Vanguard: decreases this ship's DMG taken by 1% (10%) and increases DMG dealt by 1% (10%) for the ship in the center position of your Vanguard.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/6/6e/Skill_14920.png",
+				"names": {
+					"en": "Nola Finale",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: fires a Lv. 1 (Lv. 10) special barrage (DMG is based on the skill's level) and deploys a barrier that can block 3.5% (8%) DMG and lasts up to 8s. If this barrier is destroyed: heals this ship for 1.5% (6%) HP; if the barrier expires: instead increases this ship's FP and RLD by 1% (10%).",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 12,
+				"maxLimitBreak": 25,
+				"maxLevel": 18,
+				"total": 55
+			}
+		},
+		"construction": {
+			"constructionTime": "Drop Only",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Play",
+				"url": "https://azurlane.netojuu.com/w/images/7/7e/New_Orleans_TitleScreenJP.ogg"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/f1/New_Orleans.png/726px-New_Orleans.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/e/e4/New_OrleansWithoutBG.png/669px-New_OrleansWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/fd/New_OrleansChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
 	},
 	"10061": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Marie_Rose",

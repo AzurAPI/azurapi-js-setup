@@ -36,7 +36,7 @@ export async function fetchGallery(name: string): Promise<{ skins: Skin[], galle
         });
     });
 
-    if (doc.getElementById("Artwork"))
+    if (doc.getElementById("Artwork") && doc.getElementById("Artwork").parentElement.nextElementSibling)
         Array.from(doc.getElementById("Artwork").parentElement.nextElementSibling.children).filter(e => e.tagName === "DIV").forEach(box => gallery.push({
             description: box.lastElementChild.textContent.trim(),
             url: galleryThumbnailUrlToActualUrl(box.querySelector("img").src)
