@@ -105,6 +105,7 @@ export async function parseShip(id: string, name: string, body: string): Promise
     let ship = new Ship();
     ship.wikiUrl = `${BASE}/${name.replace(/ +/g, "_")}`;
     ship.id = id;
+
     let fillers = await fillNames(referenceShip.name);
     ship._gid = referenceShip.id;
     if (referenceShip.data) ship._sid = Object.values(referenceShip.data).map((d: { id: number; }) => d.id);

@@ -886,10 +886,11 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/thumb/6/64/JavelinIdolChibi.png/131px-JavelinIdolChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Crescendo of Polaris Milestone Reward",
+					"obtainedFrom": "Core Data Shop Milestone Reward",
 					"enClient": "Energetic Idol @120% Motivation!",
 					"cnClient": "王道偶像·元气120！",
-					"jpClient": "元気アイドル・やる気120％！"
+					"jpClient": "元気アイドル・やる気120％！",
+					"cost": 1200
 				}
 			}
 		],
@@ -1156,11 +1157,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Winter's Crown B1, B2, B3, D1, D2, D3\nDivergent Chessboard A4, C4\nGlorious Battle SP3\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3\nIris of Light and Dark B1, B2, B3",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"2-1",
 				"12-1",
@@ -1419,7 +1420,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Strive, Wish and Strategize SP2, SP3",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -1986,10 +1987,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"3-1",
@@ -2530,10 +2532,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"9-1",
 				"8-2",
@@ -3036,10 +3039,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"9-1",
 				"8-2",
@@ -4455,7 +4459,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Added to Exchange for all servers on May 14th, 2020.",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -5136,11 +5140,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP2\n Winter's Crown B1, B2, B3, D1, D2, D3\n Divergent Chessboard A3, C3\nGlorious Battle SP2\nInk-Stained Steel Sakura A4, B1, B2, C4, D1, D2\n Iris of Light and Dark  D1, D2, D3, SP,",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"3-1",
 				"13-1",
@@ -5380,11 +5384,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP2\nWinter's Crown B1, B2, B3, D1, D2, D3\nDivergent Chessboard A3, C3\nGlorious Battle SP2\nIris of Light and Dark  D1, D2, D3, SP\nInk-Stained Steel Sakura A4, B1, B2, C4, D1, D2",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"3-1",
 				"13-1",
@@ -6211,6 +6215,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30 and in Guild Shop for \"Fleet Currency\" 800",
 			"fromMaps": [
 				"2-1",
 				"4-2",
@@ -6461,10 +6466,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"6-1",
 				"4-2",
@@ -6712,6 +6718,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"7-1",
 				"8-1",
@@ -7209,10 +7216,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"7-1",
 				"8-1",
@@ -7482,6 +7490,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"6-1",
 				"4-2",
@@ -8255,6 +8264,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"8-1",
 				"6-2",
@@ -8847,11 +8857,11 @@
 				"heavy": "Not available in CN",
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Not available in CN server.",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30. Not available in CN server.",
 			"fromMaps": [
 				{
 					"name": "8-1",
@@ -9127,6 +9137,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"7-3",
 				"1-4",
@@ -9352,11 +9363,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Given as quest reward for clearing 1-1.",
+			"obtainedFrom": "Given as quest reward for clearing 1-1. Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"10-2",
 				"5-3",
@@ -9905,10 +9916,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"7-1",
 				"5-2",
@@ -10831,10 +10843,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"2-3",
 				"10-3",
@@ -11087,7 +11100,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Not available in CN server.",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30. Not available in CN server.",
 			"fromMaps": [
 				{
 					"name": "10-3",
@@ -12444,10 +12457,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"4-1",
@@ -12738,6 +12752,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30 and in Guild Shop for \"Fleet Currency\" 800",
 			"fromMaps": [
 				"10-1",
 				"12-1",
@@ -13655,11 +13670,11 @@
 				"heavy": false,
 				"aviation": "Not available in CN",
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Not available in CN server.",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30. Not available in CN server.",
 			"fromMaps": [
 				{
 					"name": "6-3",
@@ -15224,10 +15239,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"9-2",
 				"4-3",
@@ -15497,10 +15513,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"9-2",
 				"4-3",
@@ -18641,7 +18658,7 @@
 					"cn": "焰舞之爪",
 					"jp": "猛々しきツメ！"
 				},
-				"description": "Increases this ship's Evasion Rate by 5% and decreases her cannon DMG taken by 5% (15%). Every 20s after the battle starts: fires a Lv.1 (Lv.10) special barrage (DMG is based on this skill's level; inflicts a unique Burn ailment on hit).",
+				"description": "Increase this ship's Evasion Rate by 5%, and decrease her damage taken from shelling by 5% (15%). Every 20s after the battle starts: fire a special barrage that inflicts a unique burn on all enemies it hits (barrage damage scales with skill level).",
 				"color": "pink"
 			},
 			{
@@ -34055,7 +34072,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available during \"Visitors Dyed in Red\". Added to Exchange for all servers on May 14th, 2020.",
+			"obtainedFrom": "Available during \"Visitors Dyed in Red\". Added to Exchange for all servers on May 14th, 2020 for \"Medal\" 5.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -34568,7 +34585,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available during \"Visitors Dyed in Red\". Added to Exchange for all servers on May 14th, 2020.\nNot available in CN server.",
+			"obtainedFrom": "Available during \"Visitors Dyed in Red\". Added to Exchange for all servers on May 14th, 2020 for \"Medal\" 5.\nNot available in CN server.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -41110,7 +41127,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP1\nStrive, Wish and Strategize SP2\nDivergent Chessboard B2, B3, B4, D2, D3, D4\nGlorious Battle All Maps\nIris of Light and Dark A2, C2\nInk-Stained Steel Sakura A2, C2",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"5-1",
 				"8-2",
@@ -42525,10 +42542,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"4-1",
 				"5-1",
@@ -43029,10 +43047,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"4-1",
 				"5-1",
@@ -43545,10 +43564,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"4-1",
 				"5-1",
@@ -44341,7 +44361,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Divergent Chessboard A4, C4, D1",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -51110,7 +51130,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Divergent Chessboard B4, D4 (Boss nodes only)",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 80.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -55507,7 +55527,7 @@
 					"cn": "塔萨法隆格逆袭",
 					"jp": "ルンガ沖強襲"
 				},
-				"description": "During sortie, increases damage dealt to cruisers by all allied IJN (Sakura Empire) Destroyers by 5% (15%).",
+				"description": "During sortie, increase all damage dealt to enemy cruisers by all allied Sakura Empire destroyers (including this ship) by 5% (15%).",
 				"color": "gold"
 			},
 			{
@@ -62887,6 +62907,22 @@
 					"cnClient": "冬雪沁香",
 					"jpClient": "冬雪の薫香",
 					"cost": 900
+				}
+			},
+			{
+				"name": "Cozy Enclave",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/14/NoshiroCasual.png/486px-NoshiroCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/5/52/NoshiroCasualWithoutBG.png/677px-NoshiroCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/bd/NoshiroCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Cozy Enclave",
+					"cnClient": "宁静的六叠间",
+					"jpClient": "安寧の六畳",
+					"cost": 880
 				}
 			}
 		],
@@ -87827,6 +87863,22 @@
 					"jpClient": "カラブリア・アウレア",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Lounging Emerald",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/4f/LittorioCasual.png/538px-LittorioCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/4/4d/LittorioCasualWithoutBG.png/441px-LittorioCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/2b/LittorioCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Lounging Emerald",
+					"cnClient": "居家私人时间",
+					"jpClient": "カーザ・リクター",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
@@ -99888,7 +99940,7 @@
 					"cn": null,
 					"jp": null
 				},
-				"description": "Gain 3.5% (8%) more FP/TP; after 15 (5) main gun attacks, attacking the closest enemy with a special barrage.",
+				"description": "Gain 3.5% (8%) more FP/TRP; after 15 (5) main gun attacks, attacking the closest enemy with a special barrage.",
 				"color": "pink"
 			},
 			{
@@ -99974,6 +100026,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/5/51/La_Galissonni%C3%A8re.png/631px-La_Galissonni%C3%A8re.png",
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/a/a8/La_Galissonni%C3%A8reChibi.png",
 				"info": {
@@ -100009,6 +100063,22 @@
 					"cnClient": "春晓醉梦",
 					"jpClient": "ほろよい春曙の夢",
 					"cost": 1100
+				}
+			},
+			{
+				"name": "Black Cat of All Hallows' Eve",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/bf/La_Galissonni%C3%A8reHalloween.png/957px-La_Galissonni%C3%A8reHalloween.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/7a/La_Galissonni%C3%A8reHalloweenWithoutBG.png/828px-La_Galissonni%C3%A8reHalloweenWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2e/Skin_BG_119.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/7c/La_Galissonni%C3%A8reHalloweenChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Black Cat of All Hallows' Eve",
+					"cnClient": "黑猫与南瓜之夜",
+					"jpClient": "黒猫とかぼちゃの夜",
+					"cost": 1080
 				}
 			}
 		],
@@ -103500,6 +103570,22 @@
 					"enClient": "Fancy Waves",
 					"cnClient": "Fancy Wave",
 					"jpClient": "ファンシーウェーブ",
+					"cost": 780
+				}
+			},
+			{
+				"name": "PJ Poker Party",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/22/KumanoCasual.png/626px-KumanoCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/3/3e/KumanoCasualWithoutBG.png/385px-KumanoCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2e/Skin_BG_119.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/3f/KumanoCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "PJ Poker Party",
+					"cnClient": "激斗☆抽鬼牌派对",
+					"jpClient": "激オニ☆勝負パーティ",
 					"cost": 780
 				}
 			}
@@ -114307,7 +114393,7 @@
 			},
 			{
 				"maxEfficiency": 130,
-				"minEfficiency": 114,
+				"minEfficiency": 115,
 				"type": "Dive Bombers",
 				"max": 3
 			},
@@ -115276,6 +115362,22 @@
 					"jpClient": "恥じらいのエメラルド",
 					"cost": 1080
 				}
+			},
+			{
+				"name": "Castle Tales",
+				"image": null,
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/4/43/BoiseHalloweenWithoutBG.png/407px-BoiseHalloweenWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2e/Skin_BG_119.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/4/4d/BoiseHalloweenChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Castle Tales",
+					"cnClient": "古堡奇谈",
+					"jpClient": "キャッスルテイルズ",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": [
@@ -115499,6 +115601,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available as a Point Accumulation reward during \"Mirror Involution\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -116975,7 +117078,12 @@
 				"max": 1
 			}
 		],
-		"enhanceValue": null,
+		"enhanceValue": {
+			"firepower": 24,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 13
+		},
 		"scrapValue": {
 			"coin": 18,
 			"oil": 10,
@@ -116986,8 +117094,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/f/f9/Skill_14910.png",
 				"names": {
 					"en": "Crescent City Bonds",
-					"cn": null,
-					"jp": null
+					"cn": "新月城之绊",
+					"jp": "ムーン・クレセント"
 				},
 				"description": "At the start of the battle, if this ship is in the frontmost position of your Vanguard and there are 3 ships afloat in your Vanguard: decreases this ship's DMG taken by 1% (10%) and increases DMG dealt by 1% (10%) for the ship in the center position of your Vanguard.",
 				"color": "gold"
@@ -116996,11 +117104,21 @@
 				"icon": "https://azurlane.netojuu.com/w/images/6/6e/Skill_14920.png",
 				"names": {
 					"en": "Nola Finale",
-					"cn": null,
-					"jp": null
+					"cn": "Nola Finale",
+					"jp": "ノーラ・フィナーレ"
 				},
 				"description": "Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: fires a Lv. 1 (Lv. 10) special barrage (DMG is based on the skill's level) and deploys a barrier that can block 3.5% (8%) DMG and lasts up to 8s. If this barrier is destroyed: heals this ship for 1.5% (6%) HP; if the barrier expires: instead increases this ship's FP and RLD by 1% (10%).",
 				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-ニューオーリンズ級"
+				},
+				"description": "Activates All Out Assault I (II): New Orleans Class once every 12 (8) times the Main Guns are fired.",
+				"color": "pink"
 			}
 		],
 		"limitBreaks": [
@@ -117019,8 +117137,24 @@
 		],
 		"fleetTech": {
 			"statsBonus": {
-				"collection": null,
-				"maxLevel": null
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
 			},
 			"techPoints": {
 				"collection": 12,
@@ -117044,14 +117178,16 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "YD",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/Artists#YD",
+					"Pixiv": "https://www.pixiv.net/en/users/853087",
+					"Twitter": "https://twitter.com/ydh2101"
 				}
 			},
 			"voice": {
-				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/7/7e/New_Orleans_TitleScreenJP.ogg"
+				"name": "Natsumi Fujiwara",
+				"url": "https://en.wikipedia.org/wiki/Natsumi_Fujiwara"
 			}
 		},
 		"skins": [
@@ -122945,10 +123081,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"7-1",
@@ -123480,10 +123617,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"7-1",
@@ -123785,7 +123923,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Encircling Graf Spee SP1, SP2\nDivergent Chessboard A3, B1, C3, D1\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3\nIris of Light and Dark A1, A2, A3",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"7-1",
 				"11-1",
@@ -124039,10 +124177,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"1-1",
 				"2-1",
@@ -124304,10 +124443,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"1-1",
 				"2-1",
@@ -124821,6 +124961,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5 and in Guild Shop for \"Fleet Currency\" 300",
 			"fromMaps": [
 				"6-1",
 				"7-1",
@@ -125075,7 +125216,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A1, C1\nEncircling Graf Spee SP1\nWinter's Crown A1, C1\nGlorious Battle  SP1\nInk-Stained Steel Sakura A1, C1\nIris of Light and Dark A1, C1",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"4-1",
 				"9-1",
@@ -125317,7 +125458,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A1, A2, A3, C1, C2, C3\nDivergent Chessboard A3, B1, C3, D1\nIris of Light and Dark B1, B2, B3",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"6-1",
 				"9-1",
@@ -125553,10 +125694,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"6-1",
@@ -125809,10 +125951,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"6-1",
@@ -126065,10 +126208,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"6-1",
@@ -127605,7 +127749,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Strive, Wish and Strategize SP2\nDivergent Chessboard B2, D2\nGlorious Battle SP2",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"4-1",
 				"11-1",
@@ -128110,10 +128254,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"4-1",
 				"11-1",
@@ -128765,10 +128910,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"3-1",
@@ -129019,10 +129165,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"3-1",
@@ -129276,10 +129423,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"4-1",
 				"5-1",
@@ -129527,6 +129675,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5 and in Guild Shop for \"Fleet Currency\" 300",
 			"fromMaps": [
 				"4-1",
 				"5-1",
@@ -130055,6 +130204,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30 and in Guild Shop for \"Fleet Currency\" 800",
 			"fromMaps": [
 				"5-1",
 				"6-1",
@@ -130360,10 +130510,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"8-1",
 				"13-1",
@@ -130622,10 +130773,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"8-1",
 				"13-1",
@@ -131476,6 +131628,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30 and in Guild Shop for \"Fleet Currency\" 800",
 			"fromMaps": [
 				"12-2",
 				"5-3",
@@ -132094,10 +132247,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"3-1",
@@ -132597,10 +132751,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"3-1",
 				"7-2",
@@ -132842,10 +132997,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"3-1",
 				"7-2",
@@ -133088,10 +133244,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"3-1",
 				"10-1",
@@ -133589,7 +133746,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Obtained from the Rookie Mission \"clear 2-1\"",
+			"obtainedFrom": "Obtained from the Rookie Mission \"clear 2-1\". Available in Medal Exchange for \"Medal\" 5 and in Guild Shop for \"Fleet Currency\" 300",
 			"fromMaps": [
 				"4-1",
 				"4-3",
@@ -133877,11 +134034,11 @@
 				"heavy": true,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Can also be obtained as login reward (2nd day)",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30. Can also be obtained as login reward (2nd day)",
 			"fromMaps": [
 				"8-2",
 				"3-3",
@@ -135853,10 +136010,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"4-1",
@@ -136383,10 +136541,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"4-1",
@@ -136668,6 +136827,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5 and in Guild Shop for \"Fleet Currency\" 300",
 			"fromMaps": [
 				"5-1",
 				"8-1",
@@ -136904,6 +137064,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30 and in Guild Shop for \"Fleet Currency\" 800",
 			"fromMaps": [
 				"9-1",
 				"11-1",
@@ -137133,10 +137294,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"2-1",
 				"10-1",
@@ -137373,10 +137535,11 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"2-1",
 				"10-1",
@@ -139676,10 +139839,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"3-1",
 				"5-1",
@@ -140199,10 +140363,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"4-1",
@@ -140734,10 +140899,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"5-1",
@@ -141025,10 +141191,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"10-2",
 				"13-2",
@@ -141570,10 +141737,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"4-1",
 				"10-2",
@@ -142186,10 +142354,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"4-1",
@@ -142481,10 +142650,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"7-2",
 				"13-3",
@@ -143187,10 +143357,11 @@
 				"heavy": false,
 				"aviation": true,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"7-2",
 				"5-3",
@@ -143702,6 +143873,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30 and in Guild Shop for \"Fleet Currency\" 800",
 			"fromMaps": [
 				"6-1",
 				"13-1",
@@ -144213,6 +144385,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5 and in Guild Shop for \"Fleet Currency\" 300",
 			"fromMaps": [
 				"5-1",
 				"10-1",
@@ -145571,10 +145744,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"4-1",
@@ -145827,10 +146001,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"3-1",
 				"4-1",
@@ -146336,10 +146511,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"1-1",
 				"2-1",
@@ -146861,10 +147037,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"1-1",
 				"2-1",
@@ -147394,10 +147571,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"1-1",
 				"2-1",
@@ -148001,10 +148179,11 @@
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Medal"
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 1.",
 			"fromMaps": [
 				"2-1",
 				"4-1",
@@ -148524,7 +148703,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Visitors Dyed in Red A1, A2, A3, C1, C2, C3\nDivergent Chessboard A2, A4, C4\nGlorious Battle SP2\nIris of Light and Dark A1, A2\nInk-Stained Steel Sakura A1, A2, A3, C1, C2, C3",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 5.",
 			"fromMaps": [
 				"6-1",
 				"12-1",
@@ -149058,7 +149237,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Fallen Wings A1, C1\nVisitors Dyed in Red A2, C2\nWinter's Crown A1, C1\n Strive, Wish and Strategize SP3\nGlorious Battle SP2\nIris of Light and Dark A2, C2\nInk-Stained Steel Sakura A1, C1",
+			"obtainedFrom": "Available in Medal Exchange for \"Medal\" 30.",
 			"fromMaps": [
 				"5-2",
 				"11-2",
@@ -150344,6 +150523,20 @@
 					"cnClient": "新桃换旧符",
 					"jpClient": "桃符を執りて",
 					"cost": 900
+				}
+			},
+			{
+				"name": "Tranquil Sunya",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/2d/IbukiCasual.png/587px-IbukiCasual.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/cc/IbukiCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Tranquil Sunya",
+					"cnClient": "恬静无为",
+					"jpClient": "無為の恬静",
+					"cost": 880
 				}
 			}
 		],
