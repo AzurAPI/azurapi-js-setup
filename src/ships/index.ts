@@ -41,7 +41,7 @@ export async function refreshShips() {
         bar.render();
         if (key.length === 4 && key.startsWith("3")) continue;
         try {
-            let ship = await fetchShip(key, SHIP_LIST[key].name);
+            let ship = await fetchShip(key, SHIP_LIST[key]);
             if (!ship) continue;
             SHIPS_INTERNAL[key] = ship;
             const used = process.memoryUsage().heapUsed;
@@ -49,16 +49,17 @@ export async function refreshShips() {
             if (used > 1048576000) await timeout(1000);
         } catch (e) {
             console.log("Error", key, e);
+            fs.unlinkSync(path.join(ROOT, `web/ships/${SHIP_LIST[key].name}.html`));
         }
     }
     bar.stop();
 }
 
-async function fetchShip(id: string, name: string): Promise<Ship> {
+async function fetchShip(id: string, {name, url}: { name: string, url: string }): Promise<Ship> {
     // if (SHIPS_INTERNAL[id]) return SHIPS_INTERNAL[id];
-    let data = await fetch(`https://azurlane.koumakan.jp/${encodeURIComponent(name)}`, path.join(ROOT, `web/ships/${name}.html`));
+    let data = await fetch(`https://azurlane.koumakan.jp${url}`, path.join(ROOT, `web/ships/${name}.html`));
     let ship = await parseShip(id, name, data);
-    let gallery = await fetchGallery(name);
+    let gallery = await fetchGallery(name, url);
     ship.skins = gallery.skins;
     ship.gallery = gallery.gallery;
     return ship;
@@ -70,14 +71,15 @@ async function fetchShipList() {
     let rows = new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships", path.join(ROOT, 'web/ships.index.html'))).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr");
     bar.setTotal(rows.length);
     rows.forEach(table_ship => {
-        let columns = table_ship.childNodes;
+        let columns = table_ship.children;
         let id = columns[0].textContent;
         if ((<HTMLElement>columns[0]).tagName === "TD") LIST[id] = {
             id: id,
             name: columns[1].textContent,
             rarity: columns[2].textContent,
             type: columns[3].textContent,
-            nationality: columns[4].textContent
+            nationality: columns[4].textContent,
+            url: columns[0].children[0].getAttribute("href")
         };
         bar.increment();
     });

@@ -3,10 +3,10 @@ import path from "path";
 import {BASE, camelize, fetch, galleryThumbnailUrlToActualUrl} from "../utils";
 import {GalleryItem, Skin, SkinInfo} from "./ship";
 
-export async function fetchGallery(name: string): Promise<{ skins: Skin[], gallery: GalleryItem[] }> {
+export async function fetchGallery(name: string, url: string): Promise<{ skins: Skin[], gallery: GalleryItem[] }> {
     let skins: Skin[] = [];
     let gallery: GalleryItem[] = [];
-    let doc = new JSDOM(await fetch(BASE + "/" + encodeURIComponent(name) + "/Gallery", path.resolve(__dirname, '..', '..', 'web/ships.gallery/' + name + '.html'))).window.document;
+    let doc = new JSDOM(await fetch(BASE + "/" + url + "/Gallery", path.resolve(__dirname, '..', '..', 'web/ships.gallery/' + name + '.html'))).window.document;
     Array.from(doc.querySelectorAll(".mw-parser-output>.tabber>.tabbertab")).forEach(node => {
         let image;
         let tab = <HTMLElement>node;
