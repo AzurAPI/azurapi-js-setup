@@ -3862,7 +3862,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/w/images/f/f2/Bullet_pattern_equip_31000.gif",
-			"obtainedFrom": "9-4, 12-4, T4/T5 Sakura Tech Box. Blueprints can also be obtained through Research."
+			"obtainedFrom": "9-4, 12-4, 14-3, T4/T5 Sakura Tech Box. Blueprints can also be obtained through Research."
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
@@ -18062,7 +18062,7 @@
 			"notes": "Fires 2 shells twice in quick succession. The second two shells are aimed at where the first two were.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Iris of the Light and the Dark event Pt. shop via blueprintsCrescendo of PolarisSkybound Oratorio event Pt. shop via blueprintsCore Exchange Shop"
+			"obtainedFrom": "Iris of the Light and the Dark D3, event Pt. shop via blueprintsCrescendo of Polaris SP5, SpecialSkybound Oratorio SP, event Pt. shop via blueprintsCore Exchange Shop"
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
@@ -22383,7 +22383,7 @@
 				"Triple 406mm (16\"/45 Mk 6)"
 			],
 			"animation": "",
-			"obtainedFrom": "6-1, 6-3, T3/T4 Eagle Tech Box"
+			"obtainedFrom": "6-1, 6-3, 14-2, T3/T4 Eagle Tech Box"
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
@@ -22912,7 +22912,7 @@
 				"Twin 410mm (3rd Year Type) Kai"
 			],
 			"animation": "",
-			"obtainedFrom": "6-3, 7-3, 12-4, T3/T4 Sakura Tech Box"
+			"obtainedFrom": "6-3, 7-3, 12-4, 14-1, T3/T4 Sakura Tech Box"
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
@@ -23316,7 +23316,7 @@
 				"Twin 410mm (3rd Year Type)#Type 3",
 				"Twin 410mm (3rd Year Type)"
 			],
-			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread.",
+			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread. If Massachusetts tries using this gun in Super Heavy AP mode, it will only do the damage of a single fragment.",
 			"usedFor": [],
 			"animation": "",
 			"obtainedFrom": "Acquired in Visitors Dyed in Red and its rerun event shop for 2500 Research only (series 1/2)"
@@ -23573,7 +23573,7 @@
 				"533mm Quintuple Homing Torpedo Mount"
 			],
 			"animation": "https://azurlane.netojuu.com/w/images/e/e3/Bullet_pattern_equip_45100.gif",
-			"obtainedFrom": "Opposite Colored Drop and Exchange, The Pursuit of Graf Spee Drop, Inverted Orthant drop, T4/T5 Iron Blood Tech Box, Gear Lab."
+			"obtainedFrom": "Opposite Colored D1, The Pursuit of Graf Spee SP3 (Boss only), Inverted Orthant D1 (Boss/Siren only), T4/T5 Iron Blood Tech Box, Gear Lab."
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
@@ -24538,7 +24538,7 @@
 				"533mm Quintuple Homing Torpedo Mount"
 			],
 			"animation": "https://azurlane.netojuu.com/w/images/4/43/Bullet_pattern_equip_5200.gif",
-			"obtainedFrom": "7-4, Non-Ironblood T4/T5 Tech Boxes. Blueprints can also be obtained through Research."
+			"obtainedFrom": "7-4, Glorious Battle SP3, Non-Ironblood T4/T5 Tech Boxes. Blueprints can also be obtained through Research."
 		},
 		"nationality": "Universal",
 		"tiers": [
@@ -26408,7 +26408,7 @@
 				"610mm Triple Torpedo Mount Kai"
 			],
 			"animation": "https://azurlane.netojuu.com/w/images/2/22/Bullet_pattern_equip_35100.gif",
-			"obtainedFrom": "3-3, 4-1, 8-2, T3/T4 Sakura Tech Box"
+			"obtainedFrom": "3-3, 4-1, 8-2, 14-4, T3/T4 Sakura Tech Box"
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
@@ -32556,7 +32556,7 @@
 				"Mitsubishi A6M3 Type 0 Model 32"
 			],
 			"animation": "",
-			"obtainedFrom": "3-3, 3-4, 9-4, 12-1, 13-2, T3/T4 Sakura Tech Box"
+			"obtainedFrom": "3-4, 9-4, 12-1, 13-2, T3/T4 Sakura Tech Box"
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
@@ -38997,7 +38997,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "T4/T5 Royal Tech Box. Blueprints can also be obtained through Research."
+			"obtainedFrom": "Glorious Battle SP2 , T4/T5 Royal Tech Box. Blueprints can also be obtained through Research."
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -42099,7 +42099,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "7-1, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research. Gear Lab"
+			"obtainedFrom": "7-1, 14-2, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research. Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -42766,7 +42766,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "5-4, 11-3, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research."
+			"obtainedFrom": "5-4, 11-3, 14-1, T4/T5 Eagle Tech box. Blueprints can also be obtained through Research."
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
@@ -51358,6 +51358,287 @@
 			"cn": "五联装610mm鱼雷改",
 			"jp": "610mm五連装魚雷改",
 			"kr": "5연장 610mm 어뢰改"
+		}
+	},
+	"Twin 203mm (Mle 1931)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": "primary",
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/1/10/50860.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "https://azurlane.netojuu.com/w/images/b/b3/Bullet_pattern_equip_90860.gif",
+			"obtainedFrom": "Drop and event shop in Skybound Oratorio."
+		},
+		"nationality": "Iris Libre",
+		"tiers": [
+			null,
+			{
+				"tier": 1,
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "12"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "26",
+						"max": "38",
+						"multiplier": "4",
+						"formatted": "26 × 4 → 38 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.66s",
+						"max": "8.06s",
+						"per": "volley",
+						"formatted": "9.66s → 8.06s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HE* (135",
+						"unit": "/ 95",
+						"formatted": "HE* (135 / 95 / 70)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 2,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "25"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "28",
+						"max": "48",
+						"multiplier": "4",
+						"formatted": "28 × 4 → 48 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.26s",
+						"max": "6.60s",
+						"per": "volley",
+						"formatted": "9.26s → 6.60s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HE* (135",
+						"unit": "/ 95",
+						"formatted": "HE* (135 / 95 / 70)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 3,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "30",
+						"max": "52",
+						"multiplier": "4",
+						"formatted": "30 × 4 → 52 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "8.79s",
+						"max": "6.13s",
+						"per": "volley",
+						"formatted": "8.79s → 6.13s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "12",
+						"unit": "° random aim",
+						"formatted": "12° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 55,
+						"formatted": "Firing: 70\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.50",
+						"unit": "s",
+						"formatted": "0.50s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "110%",
+						"max": "130%",
+						"formatted": "110% → 130%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HE* (135",
+						"unit": "/ 95",
+						"formatted": "HE* (135 / 95 / 70)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"id": "Twin 203mm (Mle 1931)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Twin_203mm_(Mle_1931)",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"en": "Twin 203mm Mle 1931 Main Gun Mount",
+			"cn": "双联装203mm主炮Mle1931",
+			"jp": "203mm連装砲Mle1931",
+			"kr": "2연장 203mm 주포 Mle1931"
 		}
 	}
 }
