@@ -44748,6 +44748,20 @@
 					"jpClient": "ヴァイン・コーンブルメ",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Final Lap",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/6c/Prinz_EugenRaceQueen.png/634px-Prinz_EugenRaceQueen.png",
+				"background": "https://azurlane.netojuu.com/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b9/Prinz_EugenRaceQueenChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Final Lap",
+					"cnClient": "Final Lap",
+					"jpClient": "ファイナル・ラップ",
+					"cost": 1200
+				}
 			}
 		],
 		"gallery": [
@@ -117822,6 +117836,268 @@
 		],
 		"gallery": []
 	},
+	"524": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Foch",
+		"id": "524",
+		"_gid": 90301,
+		"_sid": [
+			903011,
+			903012,
+			903013,
+			903014
+		],
+		"_code": 524,
+		"names": {
+			"en": "Foch",
+			"code": "MNF Foch",
+			"cn": "福煦",
+			"jp": "フォッシュ",
+			"kr": "Foch"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			3,
+			0,
+			2,
+			3,
+			3
+		],
+		"class": "Suffren",
+		"nationality": "Vichya Dominion",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/9/92/FochShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "693",
+				"armor": "Medium",
+				"reload": "66",
+				"luck": "45",
+				"firepower": "44",
+				"torpedo": "47",
+				"evasion": "9",
+				"speed": "32",
+				"antiair": "48",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "45",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "3656",
+				"armor": "Medium",
+				"reload": "170",
+				"luck": "45",
+				"firepower": "224",
+				"torpedo": "241",
+				"evasion": "49",
+				"speed": "32",
+				"antiair": "233",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "118",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "4030",
+				"armor": "Medium",
+				"reload": "179",
+				"luck": "45",
+				"firepower": "237",
+				"torpedo": "255",
+				"evasion": "57",
+				"speed": "32",
+				"antiair": "255",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "132",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "4123",
+				"armor": "Medium",
+				"reload": "182",
+				"luck": "45",
+				"firepower": "240",
+				"torpedo": "259",
+				"evasion": "59",
+				"speed": "32",
+				"antiair": "261",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "135",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 115,
+				"minEfficiency": 110,
+				"type": "CA Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 165,
+				"minEfficiency": 140,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 90,
+				"minEfficiency": 90,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 24,
+			"torpedo": 16,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 18,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/d2/Skill_14960.png",
+				"names": {
+					"en": "The Flawless Knife-Thrower",
+					"cn": "胜利意志",
+					"jp": "不退転の懐刀"
+				},
+				"description": "Increases this ship's FP and AA by 5.0% (15.0%). If the fleet this ship is in has the Out of Ammo debuff: reduces the DMG debuff effect on this ship by 5.0% (15.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/1/1e/Skill_14970.png",
+				"names": {
+					"en": "Circumspect Vigilance",
+					"cn": "侦测支援",
+					"jp": "前中後の視野"
+				},
+				"description": "Increases this ship's DMG to CAs and CBs by 10.0% (20.0%). Every 20s: 40.0% (70%) chance to increase this ship's ACC and RLD by 10.0% (20.0%) for 10s.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All Out Assault",
+					"cn": "全弹发射",
+					"jp": "全弾発射-シュフラン級"
+				},
+				"description": "Activates All Out Assault I (II): Suffren-class once every 9 (6) times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"Torpedo efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "torpedo"
+				}
+			},
+			"techPoints": {
+				"collection": 18,
+				"maxLimitBreak": 38,
+				"maxLevel": 28,
+				"total": 84
+			}
+		},
+		"construction": {
+			"constructionTime": "01:45:00",
+			"availableIn": {
+				"light": false,
+				"heavy": "Only during event: The Flame-Touched Dagger",
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available as Point Accumulation Reward and rate-up in Heavy Construction during The Flame-Touched Dagger event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "お久しぶり",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8A.E4.B9.85.E3.81.97.E3.81.B6.E3.82.8A",
+					"Pixiv": "https://www.pixiv.net/en/users/1079073",
+					"Twitter": "https://twitter.com/imlllsn"
+				}
+			},
+			"voice": {
+				"name": "Aino Shimada",
+				"url": "http://rushstyle.net/?talent=%e5%b3%b6%e7%94%b0%e3%80%80%e6%84%9b%e9%87%8e"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3e/Foch.png/777px-Foch.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/f1/FochChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Rainbow Rendezvous",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/8/8f/FochCasual.png/521px-FochCasual.png",
+				"background": "https://azurlane.netojuu.com/w/images/4/49/Skin_BG_105.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0b/FochCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Rainbow Rendezvous",
+					"cnClient": "虹彩的rendez-vous",
+					"jpClient": "虹彩のランデヴー",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": []
+	},
 	"10061": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Marie_Rose",
 		"id": "10061",
@@ -121217,7 +121493,8 @@
 			"code": "Hiryuu META",
 			"cn": "飞龙·META",
 			"jp": "飛龍(META)",
-			"kr": "히류·META"
+			"kr": "히류·META",
+			"tw": "飛龍·META"
 		},
 		"exists": {
 			"en": true,
@@ -143687,6 +143964,20 @@
 					"cnClient": "英雄的礼服",
 					"jpClient": "英雄の儀典礼装",
 					"cost": 900
+				}
+			},
+			{
+				"name": "Wind Catcher",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/35/EnterpriseRaceQueen.png/608px-EnterpriseRaceQueen.png",
+				"background": "https://azurlane.netojuu.com/w/images/c/c4/Skin_BG_132.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/bd/EnterpriseRaceQueenChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Wind Catcher",
+					"cnClient": "Wind Catcher",
+					"jpClient": "ウィンド・キャッチャー",
+					"cost": 1200
 				}
 			}
 		],
