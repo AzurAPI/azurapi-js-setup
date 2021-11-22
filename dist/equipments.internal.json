@@ -4926,7 +4926,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/w/images/0/00/Bullet_pattern_equip_95400.gif",
-			"obtainedFrom": "Empyreal Tragicomedy#B1 map drop"
+			"obtainedFrom": "Empyreal Tragicomedy B1, The Flame-Touched Dagger SP1, SP3"
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
@@ -16291,20 +16291,93 @@
 			"submarine": null,
 			"submarineCarrier": null
 		},
-		"image": "https://azurlane.netojuu.com/w/images/1/10/50860.png",
+		"image": "https://azurlane.netojuu.com/w/images/9/92/51100.png",
 		"misc": {
 			"blueprints": "",
 			"madeFrom": [],
 			"notes": "",
 			"usedFor": [],
-			"animation": "https://azurlane.netojuu.com/w/images/b/b3/Bullet_pattern_equip_90860.gif",
-			"obtainedFrom": "Drop and event shop in Skybound Oratorio."
+			"animation": "",
+			"obtainedFrom": "Unknown"
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
 			null,
 			{
 				"tier": 1,
+				"rarity": "Normal",
+				"stars": {
+					"stars": "★★",
+					"value": 2
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "5"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "24",
+						"max": "30",
+						"multiplier": "4",
+						"formatted": "24 × 4 → 30 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.78s",
+						"max": "9.15s",
+						"per": "volley",
+						"formatted": "9.78s → 9.15s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "12",
+						"unit": "°",
+						"formatted": "12°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "38",
+						"unit": "°",
+						"formatted": "38°"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.5",
+						"unit": "s",
+						"formatted": "0.5s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HE* (135",
+						"unit": "/ 95",
+						"formatted": "HE* (135 / 95 / 70)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 2,
 				"rarity": "Rare",
 				"stars": {
 					"stars": "★★★",
@@ -16328,28 +16401,22 @@
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
-						"min": "9.66s",
-						"max": "8.06s",
+						"min": "9.36s",
+						"max": "8.10s",
 						"per": "volley",
-						"formatted": "9.66s → 8.06s   per volley"
+						"formatted": "9.36s → 8.10s   per volley"
 					},
 					"spread": {
 						"type": "value_unit",
 						"value": "12",
-						"unit": "° random aim",
-						"formatted": "12° random aim"
+						"unit": "°",
+						"formatted": "12°"
 					},
 					"angle": {
 						"type": "value_unit",
 						"value": "38",
 						"unit": "°",
 						"formatted": "38°"
-					},
-					"range": {
-						"type": "range",
-						"firing": 70,
-						"shell": 55,
-						"formatted": "Firing: 70\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -16360,88 +16427,9 @@
 					},
 					"volleyTime": {
 						"type": "value_unit",
-						"value": "0.50",
+						"value": "0.5",
 						"unit": "s",
-						"formatted": "0.50s"
-					},
-					"coefficient": {
-						"type": "value_unit",
-						"value": "110",
-						"unit": "%",
-						"formatted": "110%"
-					},
-					"ammoType": {
-						"type": "value_unit",
-						"value": "HE* (135",
-						"unit": "/ 95",
-						"formatted": "HE* (135 / 95 / 70)"
-					},
-					"characteristic": {
-						"type": "value",
-						"formatted": "Lock-On"
-					}
-				}
-			},
-			{
-				"tier": 2,
-				"rarity": "Elite",
-				"stars": {
-					"stars": "★★★★",
-					"value": 4
-				},
-				"stats": {
-					"firepower": {
-						"type": "value",
-						"formatted": "25"
-					},
-					"antiair": {
-						"type": "value",
-						"formatted": "0"
-					},
-					"damage": {
-						"type": "min_max_multiplier",
-						"min": "28",
-						"max": "48",
-						"multiplier": "4",
-						"formatted": "28 × 4 → 48 × 4"
-					},
-					"rateOfFire": {
-						"type": "min_max_per",
-						"min": "9.26s",
-						"max": "6.60s",
-						"per": "volley",
-						"formatted": "9.26s → 6.60s   per volley"
-					},
-					"spread": {
-						"type": "value_unit",
-						"value": "12",
-						"unit": "° random aim",
-						"formatted": "12° random aim"
-					},
-					"angle": {
-						"type": "value_unit",
-						"value": "38",
-						"unit": "°",
-						"formatted": "38°"
-					},
-					"range": {
-						"type": "range",
-						"firing": 70,
-						"shell": 55,
-						"formatted": "Firing: 70\nShell: 55"
-					},
-					"volley": {
-						"type": "multiplier_count_unit",
-						"multiplier": "2",
-						"count": "2",
-						"unit": "shells",
-						"formatted": "2 × 2 shells"
-					},
-					"volleyTime": {
-						"type": "value_unit",
-						"value": "0.50",
-						"unit": "s",
-						"formatted": "0.50s"
+						"formatted": "0.5s"
 					},
 					"coefficient": {
 						"type": "value_unit",
@@ -16463,15 +16451,15 @@
 			},
 			{
 				"tier": 3,
-				"rarity": "Super Rare",
+				"rarity": "Elite",
 				"stars": {
-					"stars": "★★★★★",
-					"value": 5
+					"stars": "★★★★",
+					"value": 4
 				},
 				"stats": {
 					"firepower": {
 						"type": "value",
-						"formatted": "45"
+						"formatted": "25"
 					},
 					"antiair": {
 						"type": "value",
@@ -16479,35 +16467,35 @@
 					},
 					"damage": {
 						"type": "min_max_multiplier",
-						"min": "30",
-						"max": "52",
+						"min": "28",
+						"max": "48",
 						"multiplier": "4",
-						"formatted": "30 × 4 → 52 × 4"
+						"formatted": "28 × 4 → 48 × 4"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
-						"min": "8.79s",
-						"max": "6.13s",
+						"min": "9.22s",
+						"max": "6.42s",
 						"per": "volley",
-						"formatted": "8.79s → 6.13s   per volley"
+						"formatted": "9.22s → 6.42s   per volley"
 					},
 					"spread": {
 						"type": "value_unit",
 						"value": "12",
-						"unit": "° random aim",
-						"formatted": "12° random aim"
+						"unit": "°",
+						"formatted": "12°"
 					},
 					"angle": {
 						"type": "value_unit",
 						"value": "38",
 						"unit": "°",
 						"formatted": "38°"
-					},
-					"range": {
-						"type": "range",
-						"firing": 70,
-						"shell": 55,
-						"formatted": "Firing: 70\nShell: 55"
 					},
 					"volley": {
 						"type": "multiplier_count_unit",
@@ -16518,15 +16506,15 @@
 					},
 					"volleyTime": {
 						"type": "value_unit",
-						"value": "0.50",
+						"value": "0.5",
 						"unit": "s",
-						"formatted": "0.50s"
+						"formatted": "0.5s"
 					},
 					"coefficient": {
 						"type": "min_max",
 						"min": "110%",
-						"max": "130%",
-						"formatted": "110% → 130%"
+						"max": "114%",
+						"formatted": "110% → 114%"
 					},
 					"ammoType": {
 						"type": "value_unit",
@@ -16552,7 +16540,7 @@
 			"en": "Twin 203mm Mle 1924 Main Gun Mount",
 			"cn": "双联装203mm主炮Mle1924",
 			"jp": "203mm連装砲Mle1924",
-			"kr": "2연장 203mm 주포 Mle1924"
+			"kr": null
 		}
 	},
 	"Twin 203mm (Model 1924)": {
@@ -19373,7 +19361,7 @@
 			"notes": "\"Overheating\" skill: Increase Volley DMG of ship that equipped this gun by 10.0% and after firing 2 Volleys, the next Volley will have its reload increased by 30.0%. This effect will then reset.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Core Exchange ShopAvailable in \"Empyreal Tragicomedy\" event shop for 2000 ."
+			"obtainedFrom": "Core Exchange ShopAvailable in \"Empyreal Tragicomedy\" event shop for 2000 .The Flame-Touched Dagger SP3"
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
@@ -43891,7 +43879,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Unknown"
+			"obtainedFrom": "Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [

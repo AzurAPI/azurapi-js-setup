@@ -14737,6 +14737,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Ägir, Formidable, August von Parseval",
+				"url": "https://azurlane.netojuu.com/w/images/c/c9/Bg_2021.10.28_1.png"
+			},
+			{
 				"description": "Cheshire, Hermione, Dido, Formidable, Sirius",
 				"url": "https://azurlane.netojuu.com/w/images/5/51/Bg_2021.09.23_3.png"
 			},
@@ -29215,7 +29219,7 @@
 					"cn": "侦测之「眼」",
 					"jp": "焼き付かせる目"
 				},
-				"description": "At the start of the battle and every 20s: decrease this ship's Speed by 5.0% for 3s and fire a special barrage (barrage damage scales with skill level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage receive all of the following effects:\nDecrease the enemy's speed by 15.0% (30.0%) for 5s.\nIf there was a Sakura Empire CV afloat in your fleet when this barrage fired: 50.0% chance to increase the enemy's aviation damage takenIt does not work at the moment, probably bugincrease the enemy's aviation damage taken[a] by 1.5% (6.0%) for 8s. (CVLs do not count.)\n70.0% (100.0%) chance to inflict one of the following randomly chosen debuffs for 10s:\nDecrease the enemy's EVA by 10.0%.\nDecrease the enemy's Accuracy by 10.0%.\nDecrease the enemy's damage dealt by 10.0%.",
+				"description": "At the start of the battle and every 20s: decrease this ship's Speed by 5.0% for 3s and fire a special barrage (barrage damage scales with skill level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage receive all of the following effects:\nDecrease the enemy's speed by 15.0% (30.0%) for 5s.\nIf there was a Sakura Empire CV afloat in your fleet when this barrage fired: 50.0% chance to increase the enemy's aviation damage taken by 1.5% (6.0%) for 8s. (CVLs do not count.)\n70.0% (100.0%) chance to inflict one of the following randomly chosen debuffs for 10s:\nDecrease the enemy's EVA by 10.0%.\nDecrease the enemy's Accuracy by 10.0%.\nDecrease the enemy's damage dealt by 10.0%.",
 				"color": "pink"
 			},
 			{
@@ -60241,14 +60245,14 @@
 				}
 			},
 			{
-				"name": "The Tactician’s Vacation",
+				"name": "The Tactician's Vacation",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/f/f0/JintsuuSummer.png/545px-JintsuuSummer.png",
 				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/2/2d/JintsuuSummerChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
-					"enClient": "The Tactician’s Vacation",
+					"enClient": "The Tactician's Vacation",
 					"cnClient": "军师大人@休假中",
 					"jpClient": "軍師さんは休暇中",
 					"cost": 780
@@ -102904,13 +102908,13 @@
 				"huntingRange": " 53 *  \n 42 *  \n 3*****\n 2*S*  \n ****23\n***2345\n*      "
 			},
 			"level100": {
-				"health": "1089",
+				"health": "1179",
 				"armor": "Light",
-				"reload": "95",
+				"reload": "103",
 				"luck": "62",
-				"firepower": "46",
-				"torpedo": "487",
-				"evasion": "18",
+				"firepower": "50",
+				"torpedo": "510",
+				"evasion": "32",
 				"speed": "14",
 				"antiair": "0",
 				"aviation": "0",
@@ -102926,7 +102930,7 @@
 				"armor": "Light",
 				"reload": "109",
 				"luck": "62",
-				"firepower": "52",
+				"firepower": "53",
 				"torpedo": "536",
 				"evasion": "37",
 				"speed": "14",
@@ -102940,19 +102944,19 @@
 				"huntingRange": " 53 *  \n 42 *  \n 3*****\n 2*S*  \n ****23\n***2345\n*      "
 			},
 			"level125": {
-				"health": "",
+				"health": "1338",
 				"armor": "Light",
-				"reload": "",
+				"reload": "110",
 				"luck": "62",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
+				"firepower": "53",
+				"torpedo": "543",
+				"evasion": "38",
 				"speed": "14",
-				"antiair": "",
-				"aviation": "",
+				"antiair": "0",
+				"aviation": "0",
 				"oilConsumption": "7",
-				"accuracy": "",
-				"antisubmarineWarfare": "",
+				"accuracy": "188",
+				"antisubmarineWarfare": "0",
 				"oxygen": "188",
 				"ammunition": "2",
 				"huntingRange": " 53 *  \n 42 *  \n 3*****\n 2*S*  \n ****23\n***2345\n*      "
@@ -117852,13 +117856,13 @@
 			"code": "MNF Foch",
 			"cn": "福煦",
 			"jp": "フォッシュ",
-			"kr": "Foch"
+			"kr": "포슈"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -150614,11 +150618,11 @@
 			{
 				"icon": "https://azurlane.netojuu.com/w/images/7/73/Skill_19010.png",
 				"names": {
-					"en": "MKV-Class AP Shells+",
+					"en": "(Fate Simulation)",
 					"cn": "MKV型穿甲弹+",
 					"jp": "MKV徹甲弾+"
 				},
-				"description": "Increases own AP damage dealt by 20% (40%). (Fate Simulation replaces MKV-Class AP Shells)",
+				"description": "Increases own AP damage dealt by 20% (40%).  (Replaces \"MKV-Class AP Shells\")",
 				"color": "pink"
 			},
 			{
@@ -150941,7 +150945,7 @@
 					"cn": "底力爆发+",
 					"jp": "力戦奮闘+"
 				},
-				"description": "Increases own Reload by 0.6 (1) for every 1% loss in her HP. Additionally, when HP is 20% or less, heals for 3% max HP every 2s for 10s. This effect only occurs once per battle. (replaces Against the Current)",
+				"description": "Increases own Reload by 0.6 (1) for every 1% loss in her HP. Additionally, when HP is 20% or less, heals for 3% max HP every 2s for 10s. This effect only occurs once per battle.  (Replaces \"Against the Current\")",
 				"color": "deepskyblue"
 			},
 			{
@@ -151258,7 +151262,7 @@
 					"cn": "心神合一+",
 					"jp": "心舷合一+"
 				},
-				"description": "Increases this ship's Torpedo Crit Rate by 20% (40%) and Torpedo Crit DMG by 65%. Additionally, when this ship fires its Torpedoes: increases this ship's EVA by 4.5% (12%) for 6s.(Replaces Body and Soul)",
+				"description": "Increases this ship's Torpedo Crit Rate by 20% (40%) and Torpedo Crit DMG by 65%. Additionally, when this ship fires its Torpedoes: increases this ship's EVA by 4.5% (12%) for 6s.(Replaces \"Body and Soul\")",
 				"color": "pink"
 			},
 			{
@@ -151945,7 +151949,7 @@
 					"cn": "全方位装甲+",
 					"jp": "全方位装甲+"
 				},
-				"description": "At the start of battle and every 30s after that: spawns 4 rotating shields that absorb 8 shots each; lasts 5s (15s). (replaces Well-Rounded Armor)",
+				"description": "At the start of battle and every 30s after that: spawns 4 rotating shields that absorb 8 shots each; lasts 5s (15s). (Replaces \"Well-Rounded Armor\")",
 				"color": "deepskyblue"
 			},
 			{
@@ -152612,7 +152616,7 @@
 					"cn": "飞行NG!+",
 					"jp": "フライングはNG！+"
 				},
-				"description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP and AA by 5% (15%) for 8s (does not stack); if your Airspace Control of the map is at Parity or higher: this buff is immediately applied at the start of the battle and lasts until the end. Additionally, when your fleet has shot down 15 or more aircraft in one battle: increases this ship's FP and RLD by 10% (20%) until the end of the battle. (Replaces No-Fly Zone!)",
+				"description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP and AA by 5% (15%) for 8s (does not stack); if your Airspace Control of the map is at Parity or higher: this buff is immediately applied at the start of the battle and lasts until the end. Additionally, when your fleet has shot down 15 or more aircraft in one battle: increases this ship's FP and RLD by 10% (20%) until the end of the battle.  (Replaces \"No-Fly Zone!\")",
 				"color": "deepskyblue"
 			},
 			{
@@ -152967,7 +152971,7 @@
 					"cn": "Iron Sight Caliber+",
 					"jp": "アイアンサイト・キャリバー+"
 				},
-				"description": "Decreases this ship's Main Gun Spread Range by 3 and increases own damage dealt to Heavy Cruisers, Large Cruisers, Battlecruisers, Battleships, and Aviation Battleships by 10% (20%), and also increases own damage dealt to Aircraft Carriers and Light Aircraft Carriers by 1% (10%). (Replaces Ironsight Caliber)",
+				"description": "Decreases this ship's Main Gun Spread Range by 3 and increases own damage dealt to Heavy Cruisers, Large Cruisers, Battlecruisers, Battleships, and Aviation Battleships by 10% (20%), and also increases own damage dealt to Aircraft Carriers and Light Aircraft Carriers by 1% (10%). (Replaces \"Ironsight Caliber\")",
 				"color": "gold"
 			},
 			{
@@ -153317,7 +153321,7 @@
 					"cn": "苝流·六莲雷+",
 					"jp": "北風流・魚雷ロクレン弾+"
 				},
-				"description": "10s after the start of the battle: fires a special torpedo barrage (DMG scales with levels) and decreases this ship's DMG taken by 1.5% (6%) for 50s. After every 8 hits with this ship's Torpedoes (barrage torpedoes do not count): fires this same barrage. (Replaces Kitakaze Style - Lotus Torpedoes)",
+				"description": "10s after the start of the battle: fires a special torpedo barrage (DMG scales with levels) and decreases this ship's DMG taken by 1.5% (6%) for 50s. After every 8 hits with this ship's Torpedoes (barrage torpedoes do not count): fires this same barrage. (Replaces \"Kitakaze Style - Lotus Torpedoes\")",
 				"color": "pink"
 			},
 			{
@@ -153625,11 +153629,11 @@
 			{
 				"icon": "https://azurlane.netojuu.com/w/images/a/af/Skill_19200.png",
 				"names": {
-					"en": "(Fate Simulation) Mizuho's Intuition+",
+					"en": "(Fate Simulation)",
 					"cn": "战场嗅觉+",
 					"jp": "ミズホの直感+"
 				},
-				"description": "Every 20s: 50% (100%) chance to increase own Evasion by 15% (25%) and Accuracy by 20% (50%), and decreases this ship's torpedo DMG taken by 5%(15%) for 12s.",
+				"description": "Every 20s: 50% (100%) chance to increase own Evasion by 15% (25%) and Accuracy by 20% (50%), and decreases this ship's torpedo DMG taken by 5% (15%) for 12s. (Replaces \"Mizuho's Intuition\")",
 				"color": "deepskyblue"
 			},
 			{
@@ -153645,11 +153649,11 @@
 			{
 				"icon": "https://azurlane.netojuu.com/w/images/8/8e/Skill_19210.png",
 				"names": {
-					"en": "(Fate Simulation) Special Gunnery Training+",
+					"en": "(Fate Simulation)",
 					"cn": "特殊炮击训练+",
 					"jp": "特殊砲術操典+"
 				},
-				"description": "Every 8 times this ship fires its main guns, fire a special barrage (barrage damage scales with skill level). The barrage inflicts a special burn to all enemies it hits. If equipped with a high caliber Main Gun (280mm or more), increase this ship's main gun efficiency by 4.5% (12%), improve the special barrage based upon proximity to the nearest enemy, and fire it every 4 times main gun is fired instead.",
+				"description": "Every 8 times this ship fires its main guns, fire a special barrage (barrage damage scales with skill level). The barrage inflicts a special burn to all enemies it hits. If equipped with a high caliber Main Gun (280mm or more), increase this ship's main gun efficiency by 4.5% (12%), improve the special barrage based upon proximity to the nearest enemy, and fire it every 4 times main gun is fired instead. (Replaces \"Special Gunnery Training\")",
 				"color": "pink"
 			},
 			{
@@ -155320,7 +155324,7 @@
 					"cn": "「Ausgewogen」+",
 					"jp": "「アオスゲヴォーゲン」+"
 				},
-				"description": "Apply all of the following buffs, regardless of this ship's position:\nIncrease this ship's Speed by 5 and EVA by 4.5% (12%), and decrease its damage taken by 5% (15%) for the first 60s of the battle.\nIncrease this ship's critical damage by 15% (25%).\nEvery 15s, 40% (70%) chance to fire an enhanced special barrage (damage scales with skill level).",
+				"description": "Apply all of the following buffs, regardless of this ship's position:\nIncrease this ship's Speed by 5 and EVA by 4.5% (12%), and decrease its damage taken by 5% (15%) for the first 60s of the battle.\nIncrease this ship's critical damage by 15% (25%).\nEvery 15s, 40% (70%) chance to fire an enhanced special barrage (damage scales with skill level).\n(Replaces \"Ausgewogen\")",
 				"color": "pink"
 			},
 			{
@@ -156971,6 +156975,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Ägir, Formidable, August von Parseval",
+				"url": "https://azurlane.netojuu.com/w/images/c/c9/Bg_2021.10.28_1.png"
+			},
+			{
 				"description": "Ägir, Marco Polo, August von Parseval, Hakuryuu, Anchorage",
 				"url": "https://azurlane.netojuu.com/w/images/4/4f/Bg_2021.09.23_1.png"
 			},
@@ -157269,6 +157277,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Ägir, Formidable, August von Parseval",
+				"url": "https://azurlane.netojuu.com/w/images/c/c9/Bg_2021.10.28_1.png"
+			},
 			{
 				"description": "Ägir, Marco Polo, August von Parseval, Hakuryuu, Anchorage",
 				"url": "https://azurlane.netojuu.com/w/images/4/4f/Bg_2021.09.23_1.png"
