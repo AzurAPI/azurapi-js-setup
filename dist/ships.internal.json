@@ -79251,6 +79251,22 @@
 					"jpClient": "リラクゼーション・I",
 					"cost": 780
 				}
+			},
+			{
+				"name": "The Tailwind of Opportunity",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/43/IndependenceCasual2.png/590px-IndependenceCasual2.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/f/fb/IndependenceCasual2WithoutBG.png/270px-IndependenceCasual2WithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/f/f9/Skin_BG_108.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0c/IndependenceCasual2Chibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "The Tailwind of Opportunity",
+					"cnClient": "海风的Lucky Time",
+					"jpClient": "追い風のラッキータイム",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": [
@@ -96654,6 +96670,22 @@
 					"cnClient": "功夫少女！",
 					"jpClient": "アクションクルーズ",
 					"cost": 1200
+				}
+			},
+			{
+				"name": "Day-Off Date",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/eb/BremertonCasual.png/502px-BremertonCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b2/BremertonCasualWithoutBG.png/315px-BremertonCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/f/f9/Skin_BG_108.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/67/BremertonCasualChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Day-Off Date",
+					"cnClient": "Happy Dating！",
+					"jpClient": "ハッピーデーティング！",
+					"cost": 1180
 				}
 			}
 		],
@@ -121481,6 +121513,1678 @@
 		],
 		"gallery": []
 	},
+	"10081": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Rikka_Takarada",
+		"id": "10081",
+		"_gid": 1080001,
+		"_sid": [
+			10800011,
+			10800012,
+			10800013,
+			10800014
+		],
+		"_code": 10081,
+		"names": {
+			"en": "Rikka Takarada",
+			"code": "Takarada Rikka",
+			"cn": "宝多六花",
+			"jp": "宝多六花",
+			"kr": "Rikka Takarada"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			4,
+			0,
+			3,
+			3,
+			2
+		],
+		"class": "Rikka Takarada",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/0/0c/Rikka_TakaradaShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "758",
+				"armor": "Light",
+				"reload": "71",
+				"luck": "55",
+				"firepower": "33",
+				"torpedo": "70",
+				"evasion": "30",
+				"speed": "35",
+				"antiair": "74",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "55",
+				"antisubmarineWarfare": "40"
+			},
+			"level100": {
+				"health": "4115",
+				"armor": "Light",
+				"reload": "182",
+				"luck": "55",
+				"firepower": "169",
+				"torpedo": "351",
+				"evasion": "103",
+				"speed": "35",
+				"antiair": "354",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "142",
+				"antisubmarineWarfare": "153"
+			},
+			"level120": {
+				"health": "4547",
+				"armor": "Light",
+				"reload": "192",
+				"luck": "55",
+				"firepower": "179",
+				"torpedo": "369",
+				"evasion": "117",
+				"speed": "35",
+				"antiair": "386",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "159",
+				"antisubmarineWarfare": "163"
+			},
+			"level125": {
+				"health": "4655",
+				"armor": "Light",
+				"reload": "195",
+				"luck": "55",
+				"firepower": "181",
+				"torpedo": "374",
+				"evasion": "121",
+				"speed": "35",
+				"antiair": "395",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "163",
+				"antisubmarineWarfare": "165"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 155,
+				"minEfficiency": 135,
+				"type": "CL Guns / Auxiliaries",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 160,
+				"minEfficiency": 150,
+				"type": "Torpedoes / Auxiliaries",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 110,
+				"type": "Anti-Air Guns / Auxiliaries",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 14,
+			"torpedo": 23,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 14,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/bc/Skill_108010.png",
+				"names": {
+					"en": "Grid Beam",
+					"cn": "古立特光线",
+					"jp": "グリッドビーム"
+				},
+				"description": "When the battle starts: for 90s, increases this ship's FP by 5% (15%). Every 20s: fires a Lv.1 (Lv.10) Grid Beam (DMG is based on the skill's level). If this ship has the Battle Tracto Max or Buster Borr equipped, or if this ship is sortied with Namiko or Hass: enhances this skill.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/2/23/Skill_108020.png",
+				"names": {
+					"en": "Slash & Circus",
+					"cn": "Slash & Circus",
+					"jp": "Slash & Circus"
+				},
+				"description": "When the battle starts: for 90s, increases this ship's AA by 5% (15%) and decreases her cannon DMG taken by 3.5% (8%). 5s after the battle starts, and every 30s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If this ship has the Gridman Calibur or Sky Vitter equipped, or if this ship is sortied with Namiko or Hass: enhances this skill.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/6/63/Skill_108030.png",
+				"names": {
+					"en": "Grid Fixer Beam",
+					"cn": "古立特修正光线",
+					"jp": "グリッドフィクサービーム"
+				},
+				"description": "40s after the battle starts: fires a Lv.1 (Lv.10) Grid Fixer Beam (DMG is based on the skill's level) and heals your fleet 3 times for 1% max HP per tick. Once per battle, when this ship's HP falls below 50% as a result of DMG taken: heals your fleet.",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "00:35:30",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: World-Spanning Arclight",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"World-Spanning Arclight\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Yume Miyamoto",
+				"url": "https://en.wikipedia.org/wiki/Yume_Miyamoto"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/7a/Rikka_Takarada.png/639px-Rikka_Takarada.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/c/cb/Rikka_TakaradaWithoutBG.png/694px-Rikka_TakaradaWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/8e/Rikka_TakaradaChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Blue Sky Station",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c0/Rikka_TakaradaCasual.png/554px-Rikka_TakaradaCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/e/e3/Rikka_TakaradaCasualWithoutBG.png/374px-Rikka_TakaradaCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4d/Skin_BG_112.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/74/Rikka_TakaradaCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Blue Sky Station",
+					"cnClient": "晴空的车站",
+					"jpClient": "ブルースカイ・ステーション",
+					"cost": 900
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10082": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Akane_Shinjo",
+		"id": "10082",
+		"_gid": 1080002,
+		"_sid": [
+			10800021,
+			10800022,
+			10800023,
+			10800024
+		],
+		"_code": 10082,
+		"names": {
+			"en": "Akane Shinjo",
+			"code": "Shinjō Akane",
+			"cn": "新条茜",
+			"jp": "新条アカネ",
+			"kr": "Akane Shinjo"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			1,
+			1,
+			4
+		],
+		"class": "Akane Shinjo",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/4/4d/Akane_ShinjoShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1274",
+				"armor": "Heavy",
+				"reload": "57",
+				"luck": "55",
+				"firepower": "82",
+				"torpedo": "0",
+				"evasion": "6",
+				"speed": "26",
+				"antiair": "67",
+				"aviation": "0",
+				"oilConsumption": "5",
+				"accuracy": "22",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6914",
+				"armor": "Heavy",
+				"reload": "147",
+				"luck": "55",
+				"firepower": "407",
+				"torpedo": "0",
+				"evasion": "30",
+				"speed": "26",
+				"antiair": "323",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "57",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7639",
+				"armor": "Heavy",
+				"reload": "155",
+				"luck": "55",
+				"firepower": "429",
+				"torpedo": "0",
+				"evasion": "34",
+				"speed": "26",
+				"antiair": "353",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "64",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7820",
+				"armor": "Heavy",
+				"reload": "157",
+				"luck": "55",
+				"firepower": "434",
+				"torpedo": "0",
+				"evasion": "36",
+				"speed": "26",
+				"antiair": "360",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "66",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 105,
+				"type": "BB Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 200,
+				"minEfficiency": 200,
+				"type": "CL/DD Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 68,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 11
+		},
+		"scrapValue": {
+			"coin": 26,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/46/Skill_108040.png",
+				"names": {
+					"en": "Energy Pulse",
+					"cn": "能量脉冲",
+					"jp": "エネルギーパルス"
+				},
+				"description": "When this ship fires her Main Guns: 40% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/b8/Skill_108050.png",
+				"names": {
+					"en": "Instance Abreaction",
+					"cn": "Instance Abreaction",
+					"jp": "Instance Abreaction"
+				},
+				"description": "Every 20s: activates \"Instance Abreaction\" and launches a Lv.1 (Lv.10) special airstrike (DMG is based on this ship's FP stat and the skill's level; airstrike deals cannon-type DMG).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/d0/Skill_108060.png",
+				"names": {
+					"en": "Ever-Burning Flame",
+					"cn": "不死之焰",
+					"jp": "イモータルファイヤー"
+				},
+				"description": "Increases this ship's FP by 3.5% (8%). Once per battle, when this ship's HP falls below 30% as a result of DMG taken: increases this ship's FP by 10% and heals this ship 4 times for 2% max HP per tick.",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "01:25:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: World-Spanning Arclight",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"World-Spanning Arclight\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Reina Ueda",
+				"url": "https://en.wikipedia.org/wiki/Reina_Ueda"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/6d/Akane_Shinjo.png/656px-Akane_Shinjo.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d5/Akane_ShinjoChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "A Vacation Just for Two",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/64/Akane_ShinjoCasual.png/723px-Akane_ShinjoCasual.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3b/Skin_BG_109.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/f9/Akane_ShinjoCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "A Vacation Just for Two",
+					"cnClient": "两人独处的休息日",
+					"jpClient": "ふたりぼっちの休日",
+					"cost": 900
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10083": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Hass",
+		"id": "10083",
+		"_gid": 1080003,
+		"_sid": [
+			10800031,
+			10800032,
+			10800033,
+			10800034
+		],
+		"_code": 10083,
+		"names": {
+			"en": "Hass",
+			"code": "Hass",
+			"cn": "莲",
+			"jp": "はっす",
+			"kr": "Hass"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			3,
+			0,
+			3,
+			2,
+			2
+		],
+		"class": "Hass",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/c/cf/HassShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "595",
+				"armor": "Light",
+				"reload": "66",
+				"luck": "55",
+				"firepower": "26",
+				"torpedo": "53",
+				"evasion": "30",
+				"speed": "33",
+				"antiair": "65",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "56",
+				"antisubmarineWarfare": "35"
+			},
+			"level100": {
+				"health": "3230",
+				"armor": "Light",
+				"reload": "169",
+				"luck": "55",
+				"firepower": "133",
+				"torpedo": "271",
+				"evasion": "102",
+				"speed": "33",
+				"antiair": "312",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "144",
+				"antisubmarineWarfare": "133"
+			},
+			"level120": {
+				"health": "3569",
+				"armor": "Light",
+				"reload": "179",
+				"luck": "55",
+				"firepower": "140",
+				"torpedo": "286",
+				"evasion": "116",
+				"speed": "33",
+				"antiair": "341",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "162",
+				"antisubmarineWarfare": "142"
+			},
+			"level125": {
+				"health": "3653",
+				"armor": "Light",
+				"reload": "181",
+				"luck": "55",
+				"firepower": "142",
+				"torpedo": "290",
+				"evasion": "120",
+				"speed": "33",
+				"antiair": "348",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "166",
+				"antisubmarineWarfare": "144"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 115,
+				"type": "CL Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 160,
+				"minEfficiency": 150,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 110,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 11,
+			"torpedo": 18,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 14,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/6/6a/Skill_108090.png",
+				"names": {
+					"en": "Coordinated Volley",
+					"cn": "一齐射击",
+					"jp": "一斉射撃"
+				},
+				"description": "Every 10 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special missile barrage using the Buster Borr, and deploys a smokescreen that lasts 5s (DMG is based on the skill's level). When your ship(s) enters the smokescreen: puts out any normal Burn status ailment for that ship(s).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/e/e5/Skill_108100.png",
+				"names": {
+					"en": "Amp Laser Circus",
+					"cn": "Amp Laser Circus",
+					"jp": "アンプレーザーサーカス"
+				},
+				"description": "5s after the battle starts, and with a 40% (70%) chance every 20s after that: fires a Lv.1 (Lv.10) laser barrage using the Sky Vittor, and increases this ship's AA by 3.5% (8%) (AA buff can be stacked up to 2 times per battle).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "00:38:45",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: World-Spanning Arclight",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"World-Spanning Arclight\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Akari Kitou",
+				"url": "https://en.wikipedia.org/wiki/Akari_Kitou"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/5/58/Hass.png/534px-Hass.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/10/HassWithoutBG.png/747px-HassWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a9/HassChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Seaside Scoop!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/ff/HassCasual.png/575px-HassCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/8/86/HassCasualWithoutBG.png/282px-HassCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/0/07/Skin_BG_148.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/63/HassCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Seaside Scoop!",
+					"cnClient": "港区采访放送中！",
+					"jpClient": "母港リポ配信中！",
+					"cost": 800
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10084": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Namiko",
+		"id": "10084",
+		"_gid": 1080004,
+		"_sid": [
+			10800041,
+			10800042,
+			10800043,
+			10800044
+		],
+		"_code": 10084,
+		"names": {
+			"en": "Namiko",
+			"code": "Namiko",
+			"cn": "奈美子",
+			"jp": "なみこ",
+			"kr": "Namiko"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			3,
+			0,
+			2,
+			3,
+			3
+		],
+		"class": "Namiko",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/b/b3/NamikoShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "670",
+				"armor": "Medium",
+				"reload": "66",
+				"luck": "55",
+				"firepower": "44",
+				"torpedo": "40",
+				"evasion": "8",
+				"speed": "24",
+				"antiair": "39",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "44",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "3635",
+				"armor": "Medium",
+				"reload": "169",
+				"luck": "55",
+				"firepower": "224",
+				"torpedo": "203",
+				"evasion": "34",
+				"speed": "24",
+				"antiair": "190",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "114",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "4016",
+				"armor": "Medium",
+				"reload": "179",
+				"luck": "55",
+				"firepower": "237",
+				"torpedo": "215",
+				"evasion": "39",
+				"speed": "24",
+				"antiair": "208",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "128",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "4111",
+				"armor": "Medium",
+				"reload": "181",
+				"luck": "55",
+				"firepower": "240",
+				"torpedo": "218",
+				"evasion": "40",
+				"speed": "24",
+				"antiair": "213",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "131",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 125,
+				"type": "CA Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 155,
+				"minEfficiency": 130,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 24,
+			"torpedo": 13,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 18,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/e/ed/Skill_108070.png",
+				"names": {
+					"en": "Calibur End",
+					"cn": "圣剑终结",
+					"jp": "キャリバーエンド"
+				},
+				"description": "Every 20s: executes a Lv.1 (Lv.10) Gridman Calibur slashing attack and spawns a shield that lasts 8s and can block up to 10 shots (slashing attack DMG is based on the skill's level).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/fe/Skill_108080.png",
+				"names": {
+					"en": "Tanker Cannon",
+					"cn": "巨坦炮击",
+					"jp": "タンカーキャノン"
+				},
+				"description": "Enhances this ship's Secondary Guns using the Battle Tracto Max. Every 15s: 40% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Torpedo efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "01:01:49",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: World-Spanning Arclight",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"World-Spanning Arclight\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Suzuko Mimori",
+				"url": "https://en.wikipedia.org/wiki/Suzuko_Mimori"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/f9/Namiko.png/896px-Namiko.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/9/9b/NamikoWithoutBG.png/975px-NamikoWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0c/NamikoChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Miss Street-Wise",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/69/NamikoCasual.png/532px-NamikoCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/dc/NamikoCasualWithoutBG.png/665px-NamikoCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/0/07/Skin_BG_148.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/4/4e/NamikoCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Miss Street-Wise",
+					"cnClient": "街头的相遇",
+					"jpClient": "ミーツ・イン・ストリート",
+					"cost": 800
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10085": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Yume_Minami",
+		"id": "10085",
+		"_gid": 1080005,
+		"_sid": [
+			10800051,
+			10800052,
+			10800053,
+			10800054
+		],
+		"_code": 10085,
+		"names": {
+			"en": "Yume Minami",
+			"code": "Minami Yume",
+			"cn": "南梦芽",
+			"jp": "南夢芽",
+			"kr": "Yume Minami"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			0,
+			0,
+			2,
+			2,
+			4
+		],
+		"class": "Yume Minami",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/3/3e/Yume_MinamiShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "873",
+				"armor": "Medium",
+				"reload": "69",
+				"luck": "55",
+				"firepower": "46",
+				"torpedo": "0",
+				"evasion": "20",
+				"speed": "25",
+				"antiair": "46",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "52",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "4740",
+				"armor": "Medium",
+				"reload": "176",
+				"luck": "55",
+				"firepower": "234",
+				"torpedo": "0",
+				"evasion": "65",
+				"speed": "25",
+				"antiair": "225",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "134",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "5237",
+				"armor": "Medium",
+				"reload": "186",
+				"luck": "55",
+				"firepower": "248",
+				"torpedo": "0",
+				"evasion": "74",
+				"speed": "25",
+				"antiair": "246",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "150",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "5361",
+				"armor": "Medium",
+				"reload": "189",
+				"luck": "55",
+				"firepower": "251",
+				"torpedo": "0",
+				"evasion": "76",
+				"speed": "25",
+				"antiair": "252",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "154",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 100,
+				"type": "CA Guns",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 65,
+				"minEfficiency": 50,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 115,
+				"minEfficiency": 110,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 25,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 18,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/48/Skill_108110.png",
+				"names": {
+					"en": "Blazing Inferno Rex Roar",
+					"cn": "必烧大火炎·暴龙怒吼",
+					"jp": "必焼大火炎レックスロアー"
+				},
+				"description": "Every 20 times this ship fires her Secondary Guns: fires a Lv.1 (Lv.10) Blazing Inferno Rex Roar (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9e/Skill_108120.png",
+				"names": {
+					"en": "Something Beam",
+					"cn": "那什么光线！",
+					"jp": "なんとかビーム"
+				},
+				"description": "90s after the battle starts: increases this ship's EVA by 5% (15%). Every 18s: fires a Lv.1 (Lv.10) beam using the Penetrator Gun which inflicts Armor Break to enemies hit (DMG is based on the skill's level).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/7/71/Skill_108130.png",
+				"names": {
+					"en": "Dynazenon Full Burst",
+					"cn": "DYNAZENON FULL BURST！",
+					"jp": "DYNAZENON FULL BURST"
+				},
+				"description": "Every 10 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "01:04:11",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: World-Spanning Arclight",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"World-Spanning Arclight\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Shion Wakayama",
+				"url": "https://en.wikipedia.org/wiki/Shion_Wakayama"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/e3/Yume_Minami.png/578px-Yume_Minami.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/a8/Yume_MinamiWithoutBG.png/594px-Yume_MinamiWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a5/Yume_MinamiChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "A Dream Upon an Open Windowsill",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b6/Yume_MinamiCasual.png/771px-Yume_MinamiCasual.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/77/Yume_MinamiCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "A Dream Upon an Open Windowsill",
+					"cnClient": "窗沿的美梦",
+					"jpClient": "窓辺に開く夢",
+					"cost": 820
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10086": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Chise_Asukagawa",
+		"id": "10086",
+		"_gid": 1080006,
+		"_sid": [
+			10800061,
+			10800062,
+			10800063,
+			10800064
+		],
+		"_code": 10086,
+		"names": {
+			"en": "Chise Asukagawa",
+			"code": "Asukagawa Chise",
+			"cn": "飞鸟川千濑",
+			"jp": "飛鳥川ちせ",
+			"kr": "Chise Asukagawa"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			0,
+			0,
+			5,
+			3,
+			3,
+			4
+		],
+		"class": "Chise Asukagawa",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/7/7a/Chise_AsukagawaShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1169",
+				"armor": "Medium",
+				"reload": "53",
+				"luck": "55",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "11",
+				"speed": "28",
+				"antiair": "58",
+				"aviation": "77",
+				"oilConsumption": "4",
+				"accuracy": "30",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6343",
+				"armor": "Medium",
+				"reload": "136",
+				"luck": "55",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "42",
+				"speed": "28",
+				"antiair": "283",
+				"aviation": "383",
+				"oilConsumption": "13",
+				"accuracy": "78",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7008",
+				"armor": "Medium",
+				"reload": "144",
+				"luck": "55",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "48",
+				"speed": "28",
+				"antiair": "309",
+				"aviation": "403",
+				"oilConsumption": "13",
+				"accuracy": "88",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7175",
+				"armor": "Medium",
+				"reload": "146",
+				"luck": "55",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "50",
+				"speed": "28",
+				"antiair": "316",
+				"aviation": "408",
+				"oilConsumption": "13",
+				"accuracy": "90",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 120,
+				"type": "Fighters",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 125,
+				"type": "Dive Bombers",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 100,
+				"type": "Torpedo Bombers",
+				"max": 3
+			}
+		],
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 63,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 16,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/fe/Skill_108140.png",
+				"names": {
+					"en": "Ride the Wind",
+					"cn": "共战乘风",
+					"jp": "どこまでも高く"
+				},
+				"description": "This ship starts the battle with 1 Airstrike ready. Every battle, when this ship launches her 2nd Airstrike and onwards: launches an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/b9/Skill_108150.png",
+				"names": {
+					"en": "Take to the Skies",
+					"cn": "炎龙展翼",
+					"jp": "翔けよう大空へ"
+				},
+				"description": "Every battle, when this ship launches her 1st and 3rd Airstrikes: launches a Lv.1 (Lv.10) bombing raid using the Goldburn, and spawns a shield around your Vanguard that lasts 10s, reduces your Vanguard's DMG taken by 8%, and can block up to 15 shots (Goldburn DMG is based on the skill's level).",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"All Dive Bombers +1",
+				"Torpedo Bomber efficiency +5%"
+			],
+			[
+				"Hangar capacity +1",
+				"All Torpedo Bombers +1",
+				"Torpedo Bomber efficiency +10%"
+			],
+			[
+				"All aircraft +1",
+				"Torpedo Bomber efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "01:37:42",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: World-Spanning Arclight",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction, as map drop, and in event shop during \"World-Spanning Arclight\" event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Chika Anzai",
+				"url": "https://en.wikipedia.org/wiki/Chika_Anzai"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/ff/Chise_Asukagawa.png/569px-Chise_Asukagawa.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/09/Chise_AsukagawaWithoutBG.png/509px-Chise_AsukagawaWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/7e/Chise_AsukagawaChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Together, Swimming through the Sky",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/9/93/Chise_AsukagawaCasual.png/599px-Chise_AsukagawaCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/75/Chise_AsukagawaCasualWithoutBG.png/599px-Chise_AsukagawaCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/49/Skin_BG_105.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/c3/Chise_AsukagawaCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Together, Swimming through the Sky",
+					"cnClient": "与你同游的天空",
+					"jpClient": "君と泳ぐ空",
+					"cost": 900
+				}
+			}
+		],
+		"gallery": []
+	},
+	"10087": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Mujina",
+		"id": "10087",
+		"_gid": 1080007,
+		"_sid": [
+			10800071,
+			10800072,
+			10800073,
+			10800074
+		],
+		"_code": 10087,
+		"names": {
+			"en": "Mujina",
+			"code": "Mujina",
+			"cn": "貉",
+			"jp": "ムジナ",
+			"kr": "Mujina"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			1,
+			1,
+			4
+		],
+		"class": "Mujina",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/4/49/MujinaShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "1265",
+				"armor": "Heavy",
+				"reload": "50",
+				"luck": "55",
+				"firepower": "75",
+				"torpedo": "0",
+				"evasion": "8",
+				"speed": "30",
+				"antiair": "36",
+				"aviation": "0",
+				"oilConsumption": "5",
+				"accuracy": "21",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6866",
+				"armor": "Heavy",
+				"reload": "129",
+				"luck": "55",
+				"firepower": "374",
+				"torpedo": "0",
+				"evasion": "34",
+				"speed": "30",
+				"antiair": "176",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "54",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7586",
+				"armor": "Heavy",
+				"reload": "136",
+				"luck": "55",
+				"firepower": "394",
+				"torpedo": "0",
+				"evasion": "39",
+				"speed": "30",
+				"antiair": "192",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "60",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7766",
+				"armor": "Heavy",
+				"reload": "138",
+				"luck": "55",
+				"firepower": "399",
+				"torpedo": "0",
+				"evasion": "40",
+				"speed": "30",
+				"antiair": "197",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "62",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 100,
+				"type": "BB Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 200,
+				"minEfficiency": 200,
+				"type": "CL/DD Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 62,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 26,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/2/2b/Skill_108160.png",
+				"names": {
+					"en": "Instance Domination: Wings",
+					"cn": "实例控制·翼",
+					"jp": "インスタンスドミネーション・翼"
+				},
+				"description": "Every 20s: uses Lv.1 (Lv.10) Instance Domination to seize control of Siren aircraft and make them attack enemies (DMG is based on the skill's level; aircraft deal cannon-type DMG).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c6/Skill_108170.png",
+				"names": {
+					"en": "Instance Domination: Flames",
+					"cn": "实例控制·焰",
+					"jp": "インスタンスドミネーション・炎"
+				},
+				"description": "When this ship fires her Main Guns: uses Lv.1 (Lv.10) Instance Domination to seize control of Siren weaponry and make them attack enemies (DMG is based on the skill's level).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot be constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available as a point-accumulation reward during the \"World-Spanning Arclight\" event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Ayaka Suwa",
+				"url": "https://en.wikipedia.org/wiki/Ayaka_Suwa"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/2b/Mujina.png/735px-Mujina.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b1/MujinaWithoutBG.png/747px-MujinaWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/c9/MujinaChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Golden Promenade",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/cf/MujinaCasual.png/570px-MujinaCasual.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/2/2b/MujinaCasualWithoutBG.png/327px-MujinaCasualWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/49/Skin_BG_105.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/83/MujinaCasualChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Golden Promenade",
+					"cnClient": "金色的步行道",
+					"jpClient": "黄金色の遊歩道",
+					"cost": 800
+				}
+			}
+		],
+		"gallery": []
+	},
 	"30001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/Hiryuu_META",
 		"id": "30001",
@@ -122052,7 +123756,7 @@
 				"aviation": "0",
 				"oilConsumption": "12",
 				"accuracy": "187",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "159"
 			}
 		},
 		"slots": [
@@ -122643,6 +124347,238 @@
 				"image": "https://azurlane.netojuu.com/w/images/thumb/2/27/Fusou_META.png/532px-Fusou_META.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/b/ba/Fusou_METAChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"30006": {
+		"wikiUrl": "https://azurlane.koumakan.jp/Hiyou_META",
+		"id": "30006",
+		"_gid": 970601,
+		"_sid": [
+			9706011,
+			9706012,
+			9706013,
+			9706014
+		],
+		"_code": 30006,
+		"names": {
+			"en": "Hiyou META",
+			"code": "Hiyō.META",
+			"cn": "飞鹰·META",
+			"jp": "飛鷹(META)",
+			"kr": "Hiyou META"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			0,
+			0,
+			4,
+			1,
+			3,
+			3
+		],
+		"class": "Hiyou META",
+		"nationality": "META",
+		"hullType": "Light Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/d/df/Hiyou_METAShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level100": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level120": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			},
+			"level125": {
+				"health": "",
+				"armor": "Medium",
+				"reload": "",
+				"luck": "",
+				"firepower": "",
+				"torpedo": "",
+				"evasion": "",
+				"speed": "",
+				"antiair": "",
+				"aviation": "",
+				"oilConsumption": "",
+				"accuracy": "",
+				"antisubmarineWarfare": ""
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 85,
+				"type": "Fighters",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 105,
+				"type": "Dive Bombers",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 95,
+				"type": "Torpedo Bombers",
+				"max": 2
+			}
+		],
+		"enhanceValue": null,
+		"scrapValue": null,
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_800220.png",
+				"names": {
+					"en": "Stormchasing Blade",
+					"cn": null,
+					"jp": null
+				},
+				"description": "When this ship launches an Airstrike: launches an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/fd/Skill_800230.png",
+				"names": {
+					"en": "Falcon's Talons",
+					"cn": null,
+					"jp": null
+				},
+				"description": "At the start of the battle, if Junyou is afloat in your fleet: increases this ship's AVI and ACC by 1% (10%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/92/Skill_800240.png",
+				"names": {
+					"en": "Concealing Downpour",
+					"cn": null,
+					"jp": null
+				},
+				"description": "At the start of the battle, if this ship has Sakura Empire aircraft equipped: increases this ship's max Detection Gauge value by 15; if not equipping any, instead decreases this ship's DMG taken by 5% (15%).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/cd/Skill_800250.png",
+				"names": {
+					"en": "Ashen Might·Hiyou",
+					"cn": null,
+					"jp": null
+				},
+				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2% (6%).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Learn skill Ashen Might",
+				"All Torpedo Bombers +1",
+				"Aircraft efficiency +3%"
+			],
+			[
+				"Hangar capacity +1",
+				"All fighters +1",
+				"Aircraft efficiency +5%"
+			],
+			[
+				"Improve skill Ashen Might",
+				"All aircraft +1",
+				"Torpedo Bomber efficiency +15%All Dive Bombers +2",
+				"Aircraft efficiency +7%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/da/Hiyou_META.png/577px-Hiyou_META.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/c8/Hiyou_METAChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
@@ -138725,6 +140661,21 @@
 					"enClient": "skin unavailable",
 					"cnClient": "科罗拉多",
 					"jpClient": "skin unavailable"
+				}
+			},
+			{
+				"name": "Traveling Melody",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a2/ColoradoTravel.png/448px-ColoradoTravel.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/60/ColoradoTravelWithoutBG.png/237px-ColoradoTravelWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/d/d8/Skin_BG_149.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/2c/ColoradoTravelChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Fair Winds Cruise Pass Reward - Buy the Cruise Pass and collect points",
+					"enClient": "Traveling Melody",
+					"cnClient": "旅途的旋律",
+					"jpClient": "旅の旋律"
 				}
 			}
 		],
