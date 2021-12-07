@@ -51558,6 +51558,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/ae/Shimakaze.png/585px-Shimakaze.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/78/ShimakazeWithoutBG.png/627px-ShimakazeWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/2/23/ShimakazeChibi.png",
 				"info": {
@@ -51568,6 +51570,8 @@
 			{
 				"name": "World's Speediest Bunny Waitress",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a4/ShimakazeBunny.png/554px-ShimakazeBunny.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/da/ShimakazeBunnyWithoutBG.png/587px-ShimakazeBunnyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/e/ec/ShimakazeBunnyChibi.png",
 				"info": {
@@ -58716,7 +58720,7 @@
 				"url": "https://azurlane.netojuu.com/w/images/4/4d/Bg_July4th_3.png"
 			},
 			{
-				"description": "St. Louis in her Splendor of Spring skin with Belfast and Enterprise",
+				"description": "St. Louis in her Blue and White Pottery skin with Belfast and Enterprise",
 				"url": "https://azurlane.netojuu.com/w/images/8/82/Bg_belfast_2.png"
 			}
 		]
@@ -59419,7 +59423,7 @@
 					"cn": "照明弹",
 					"jp": "照明弾"
 				},
-				"description": "10s after battle begins, and 20% (40%) chance to activate every 20s after that: deploys a flare for 10s. Enemy ships within the flare have their Evasion rate decreased by 25%. Flare will prioritize closest enemy target.",
+				"description": "10s after battle begins, and 20% (40%) chance to activate every 20s after that: deploys a flare for 10s. Enemy ships within the flare have their Evasion rate decreased by 25%. Flare will prioritize closest enemy target. In Chapter 14, this skill works like the flares on the maps.",
 				"color": "gold"
 			},
 			{
@@ -117127,7 +117131,7 @@
 		"_code": 521,
 		"names": {
 			"en": "New Orleans",
-			"code": "USS New Orlean",
+			"code": "USS New Orleans",
 			"cn": "新奥尔良",
 			"jp": "ニューオリンズ",
 			"kr": "뉴올리언스"
@@ -118845,7 +118849,8 @@
 					"enClient": "Springside Mist",
 					"cnClient": "水边的霞光",
 					"jpClient": "水辺の霞光",
-					"cost": 900
+					"cost": 900,
+					"music": "Vacation Lane"
 				}
 			}
 		],
@@ -121529,13 +121534,14 @@
 			"code": "Takarada Rikka",
 			"cn": "宝多六花",
 			"jp": "宝多六花",
-			"kr": "Rikka Takarada"
+			"kr": "타카라다 릿카",
+			"tw": "寶多六花"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -121774,13 +121780,14 @@
 			"code": "Shinjō Akane",
 			"cn": "新条茜",
 			"jp": "新条アカネ",
-			"kr": "Akane Shinjo"
+			"kr": "신죠 아카네",
+			"tw": "新條茜"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -122016,13 +122023,14 @@
 			"code": "Hass",
 			"cn": "莲",
 			"jp": "はっす",
-			"kr": "Hass"
+			"kr": "핫스",
+			"tw": "哈絲"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -122251,13 +122259,14 @@
 			"code": "Namiko",
 			"cn": "奈美子",
 			"jp": "なみこ",
-			"kr": "Namiko"
+			"kr": "나미코",
+			"tw": "奈美子"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -122486,13 +122495,14 @@
 			"code": "Minami Yume",
 			"cn": "南梦芽",
 			"jp": "南夢芽",
-			"kr": "Yume Minami"
+			"kr": "미나미 유메",
+			"tw": "南夢芽"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			3,
@@ -122618,7 +122628,7 @@
 					"cn": "那什么光线！",
 					"jp": "なんとかビーム"
 				},
-				"description": "90s after the battle starts: increases this ship's EVA by 5% (15%). Every 18s: fires a Lv.1 (Lv.10) beam using the Penetrator Gun which inflicts Armor Break to enemies hit (DMG is based on the skill's level).",
+				"description": "ForIn game text is incorrect 90s after the battle starts: increases this ship's EVA by 5% (15%). Every 18s: fires a Lv.1 (Lv.10) beam using the Penetrator Gun which inflicts Armor Break to enemies hit (DMG is based on the skill's level).",
 				"color": "gold"
 			},
 			{
@@ -122706,7 +122716,8 @@
 					"enClient": "A Dream Upon an Open Windowsill",
 					"cnClient": "窗沿的美梦",
 					"jpClient": "窓辺に開く夢",
-					"cost": 820
+					"cost": 820,
+					"music": "World-Spanning Arclight - Story"
 				}
 			}
 		],
@@ -122728,13 +122739,14 @@
 			"code": "Asukagawa Chise",
 			"cn": "飞鸟川千濑",
 			"jp": "飛鳥川ちせ",
-			"kr": "Chise Asukagawa"
+			"kr": "아스카가와 치세",
+			"tw": "飛鳥川千瀨"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -122965,13 +122977,14 @@
 			"code": "Mujina",
 			"cn": "貉",
 			"jp": "ムジナ",
-			"kr": "Mujina"
+			"kr": "무지나",
+			"tw": "貉"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -124371,13 +124384,13 @@
 			"code": "Hiyō.META",
 			"cn": "飞鹰·META",
 			"jp": "飛鷹(META)",
-			"kr": "Hiyou META"
+			"kr": "히요·META"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -124532,8 +124545,7 @@
 			],
 			[
 				"Improve skill Ashen Might",
-				"All aircraft +1",
-				"Torpedo Bomber efficiency +15%All Dive Bombers +2",
+				"All Dive Bombers +2",
 				"Aircraft efficiency +7%"
 			]
 		],
