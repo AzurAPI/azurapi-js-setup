@@ -1,6 +1,6 @@
 {
 	"100": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hunter",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hunter",
 		"id": "100",
 		"_gid": 20120,
 		"_sid": [
@@ -237,7 +237,7 @@
 		"gallery": []
 	},
 	"101": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Javelin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Javelin",
 		"id": "101",
 		"_gid": 20121,
 		"_sid": [
@@ -960,7 +960,7 @@
 		]
 	},
 	"102": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Juno",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Juno",
 		"id": "102",
 		"_gid": 20122,
 		"_sid": [
@@ -1220,7 +1220,7 @@
 		"gallery": []
 	},
 	"103": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vampire",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vampire",
 		"id": "103",
 		"_gid": 20123,
 		"_sid": [
@@ -1542,7 +1542,7 @@
 		]
 	},
 	"104": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Leander",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Leander",
 		"id": "104",
 		"_gid": 20201,
 		"_sid": [
@@ -2075,7 +2075,7 @@
 		]
 	},
 	"105": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Achilles",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Achilles",
 		"id": "105",
 		"_gid": 20202,
 		"_sid": [
@@ -2591,7 +2591,7 @@
 		"gallery": []
 	},
 	"106": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ajax",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ajax",
 		"id": "106",
 		"_gid": 20203,
 		"_sid": [
@@ -3135,7 +3135,7 @@
 		]
 	},
 	"107": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Dido",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dido",
 		"id": "107",
 		"_gid": 20204,
 		"_sid": [
@@ -3432,7 +3432,7 @@
 		]
 	},
 	"110": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Southampton",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Southampton",
 		"id": "110",
 		"_gid": 20207,
 		"_sid": [
@@ -3692,7 +3692,7 @@
 		"gallery": []
 	},
 	"111": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sheffield",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sheffield",
 		"id": "111",
 		"_gid": 20208,
 		"_sid": [
@@ -3999,7 +3999,7 @@
 		]
 	},
 	"113": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gloucester",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gloucester",
 		"id": "113",
 		"_gid": 20210,
 		"_sid": [
@@ -4260,14 +4260,15 @@
 		"gallery": []
 	},
 	"114": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Edinburgh",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Edinburgh",
 		"id": "114",
 		"_gid": 20211,
 		"_sid": [
 			202111,
 			202112,
 			202113,
-			202114
+			202114,
+			900341
 		],
 		"_code": 114,
 		"names": {
@@ -4529,14 +4530,15 @@
 		]
 	},
 	"115": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Belfast",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Belfast",
 		"id": "115",
 		"_gid": 20212,
 		"_sid": [
 			202121,
 			202122,
 			202123,
-			202124
+			202124,
+			900340
 		],
 		"_code": 115,
 		"names": {
@@ -4945,7 +4947,7 @@
 		]
 	},
 	"116": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Arethusa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Arethusa",
 		"id": "116",
 		"_gid": 20213,
 		"_sid": [
@@ -5189,7 +5191,7 @@
 		"gallery": []
 	},
 	"117": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Galatea",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Galatea",
 		"id": "117",
 		"_gid": 20214,
 		"_sid": [
@@ -5433,7 +5435,7 @@
 		"gallery": []
 	},
 	"118": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Aurora",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Aurora",
 		"id": "118",
 		"_gid": 20215,
 		"_sid": [
@@ -5738,7 +5740,7 @@
 		]
 	},
 	"119": {
-		"wikiUrl": "https://azurlane.koumakan.jp/London",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/London",
 		"id": "119",
 		"_gid": 20301,
 		"_sid": [
@@ -6267,7 +6269,7 @@
 		"gallery": []
 	},
 	"120": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shropshire",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shropshire",
 		"id": "120",
 		"_gid": 20302,
 		"_sid": [
@@ -6515,7 +6517,7 @@
 		"gallery": []
 	},
 	"121": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kent",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kent",
 		"id": "121",
 		"_gid": 20303,
 		"_sid": [
@@ -6763,7 +6765,7 @@
 		"gallery": []
 	},
 	"122": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Suffolk",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Suffolk",
 		"id": "122",
 		"_gid": 20304,
 		"_sid": [
@@ -7286,7 +7288,7 @@
 		]
 	},
 	"123": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Norfolk",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Norfolk",
 		"id": "123",
 		"_gid": 20305,
 		"_sid": [
@@ -7540,7 +7542,7 @@
 		]
 	},
 	"124": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Dorsetshire",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dorsetshire",
 		"id": "124",
 		"_gid": 20306,
 		"_sid": [
@@ -7780,7 +7782,7 @@
 		"gallery": []
 	},
 	"125": {
-		"wikiUrl": "https://azurlane.koumakan.jp/York",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/York",
 		"id": "125",
 		"_gid": 20307,
 		"_sid": [
@@ -8368,7 +8370,7 @@
 		]
 	},
 	"126": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Exeter",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Exeter",
 		"id": "126",
 		"_gid": 20308,
 		"_sid": [
@@ -8946,7 +8948,7 @@
 		]
 	},
 	"127": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Renown",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Renown",
 		"id": "127",
 		"_gid": 20401,
 		"_sid": [
@@ -9177,7 +9179,7 @@
 		"gallery": []
 	},
 	"128": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Repulse",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Repulse",
 		"id": "128",
 		"_gid": 20402,
 		"_sid": [
@@ -9410,7 +9412,7 @@
 		"gallery": []
 	},
 	"129": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hood",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hood",
 		"id": "129",
 		"_gid": 20403,
 		"_sid": [
@@ -9728,7 +9730,7 @@
 		]
 	},
 	"130": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Queen_Elizabeth",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Queen_Elizabeth",
 		"id": "130",
 		"_gid": 20501,
 		"_sid": [
@@ -10064,7 +10066,7 @@
 		]
 	},
 	"131": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Warspite",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Warspite",
 		"id": "131",
 		"_gid": 20502,
 		"_sid": [
@@ -10074,7 +10076,8 @@
 			205024,
 			205124,
 			900161,
-			900263
+			900263,
+			900345
 		],
 		"_code": 131,
 		"names": {
@@ -10655,7 +10658,7 @@
 		]
 	},
 	"132": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nelson",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nelson",
 		"id": "132",
 		"_gid": 20503,
 		"_sid": [
@@ -10907,7 +10910,7 @@
 		]
 	},
 	"133": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Rodney",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Rodney",
 		"id": "133",
 		"_gid": 20504,
 		"_sid": [
@@ -11195,7 +11198,7 @@
 		]
 	},
 	"134": {
-		"wikiUrl": "https://azurlane.koumakan.jp/King_George_V",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/King_George_V",
 		"id": "134",
 		"_gid": 20505,
 		"_sid": [
@@ -11449,7 +11452,7 @@
 		"gallery": []
 	},
 	"135": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Prince_of_Wales",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Prince_of_Wales",
 		"id": "135",
 		"_gid": 20506,
 		"_sid": [
@@ -11742,7 +11745,7 @@
 		]
 	},
 	"136": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Duke_of_York",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Duke_of_York",
 		"id": "136",
 		"_gid": 20507,
 		"_sid": [
@@ -12015,7 +12018,7 @@
 		]
 	},
 	"140": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hermes",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hermes",
 		"id": "140",
 		"_gid": 20601,
 		"_sid": [
@@ -12552,7 +12555,7 @@
 		"gallery": []
 	},
 	"142": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Unicorn",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Unicorn",
 		"id": "142",
 		"_gid": 20603,
 		"_sid": [
@@ -12943,7 +12946,7 @@
 		]
 	},
 	"143": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Eagle",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Eagle",
 		"id": "143",
 		"_gid": 20701,
 		"_sid": [
@@ -13201,7 +13204,7 @@
 		]
 	},
 	"144": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ark_Royal",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ark_Royal",
 		"id": "144",
 		"_gid": 20702,
 		"_sid": [
@@ -13802,7 +13805,7 @@
 		]
 	},
 	"145": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Illustrious",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Illustrious",
 		"id": "145",
 		"_gid": 20703,
 		"_sid": [
@@ -14175,7 +14178,7 @@
 		]
 	},
 	"146": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Victorious",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Victorious",
 		"id": "146",
 		"_gid": 20704,
 		"_sid": [
@@ -14457,7 +14460,7 @@
 		]
 	},
 	"147": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Formidable",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Formidable",
 		"id": "147",
 		"_gid": 20705,
 		"_sid": [
@@ -14787,7 +14790,7 @@
 		]
 	},
 	"148": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Glorious",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Glorious",
 		"id": "148",
 		"_gid": 20706,
 		"_sid": [
@@ -15055,7 +15058,7 @@
 		"gallery": []
 	},
 	"149": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Erebus",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Erebus",
 		"id": "149",
 		"_gid": 21301,
 		"_sid": [
@@ -15329,7 +15332,7 @@
 		]
 	},
 	"150": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Terror",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Terror",
 		"id": "150",
 		"_gid": 21302,
 		"_sid": [
@@ -15589,7 +15592,7 @@
 		]
 	},
 	"151": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fubuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fubuki",
 		"id": "151",
 		"_gid": 30101,
 		"_sid": [
@@ -15899,7 +15902,7 @@
 		]
 	},
 	"152": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shirayuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shirayuki",
 		"id": "152",
 		"_gid": 30102,
 		"_sid": [
@@ -16164,7 +16167,7 @@
 		]
 	},
 	"155": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ayanami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ayanami",
 		"id": "155",
 		"_gid": 30105,
 		"_sid": [
@@ -17072,7 +17075,7 @@
 		]
 	},
 	"159": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akatsuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akatsuki",
 		"id": "159",
 		"_gid": 30109,
 		"_sid": [
@@ -17337,7 +17340,7 @@
 		"gallery": []
 	},
 	"160": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hibiki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hibiki",
 		"id": "160",
 		"_gid": 30110,
 		"_sid": [
@@ -17613,7 +17616,7 @@
 		]
 	},
 	"161": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ikazuchi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ikazuchi",
 		"id": "161",
 		"_gid": 30111,
 		"_sid": [
@@ -17909,7 +17912,7 @@
 		]
 	},
 	"162": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Inazuma",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Inazuma",
 		"id": "162",
 		"_gid": 30112,
 		"_sid": [
@@ -18209,7 +18212,7 @@
 		]
 	},
 	"163": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shiratsuyu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shiratsuyu",
 		"id": "163",
 		"_gid": 30113,
 		"_sid": [
@@ -18466,7 +18469,7 @@
 		"gallery": []
 	},
 	"164": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yuudachi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yuudachi",
 		"id": "164",
 		"_gid": 30114,
 		"_sid": [
@@ -19085,7 +19088,7 @@
 		]
 	},
 	"165": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shigure",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shigure",
 		"id": "165",
 		"_gid": 30115,
 		"_sid": [
@@ -19640,7 +19643,7 @@
 		]
 	},
 	"166": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yukikaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yukikaze",
 		"id": "166",
 		"_gid": 30116,
 		"_sid": [
@@ -19953,7 +19956,7 @@
 		]
 	},
 	"167": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kagerou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kagerou",
 		"id": "167",
 		"_gid": 30117,
 		"_sid": [
@@ -20481,7 +20484,7 @@
 		"gallery": []
 	},
 	"168": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shiranui",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shiranui",
 		"id": "168",
 		"_gid": 30118,
 		"_sid": [
@@ -21016,7 +21019,7 @@
 		]
 	},
 	"170": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nowaki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nowaki",
 		"id": "170",
 		"_gid": 30120,
 		"_sid": [
@@ -21253,7 +21256,7 @@
 		"gallery": []
 	},
 	"171": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hatsuharu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hatsuharu",
 		"id": "171",
 		"_gid": 30121,
 		"_sid": [
@@ -21787,7 +21790,7 @@
 		]
 	},
 	"173": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Wakaba",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Wakaba",
 		"id": "173",
 		"_gid": 30123,
 		"_sid": [
@@ -22037,7 +22040,7 @@
 		"gallery": []
 	},
 	"174": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hatsushimo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hatsushimo",
 		"id": "174",
 		"_gid": 30124,
 		"_sid": [
@@ -22562,7 +22565,7 @@
 		]
 	},
 	"175": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ariake",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ariake",
 		"id": "175",
 		"_gid": 30125,
 		"_sid": [
@@ -23090,7 +23093,7 @@
 		]
 	},
 	"176": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yuugure",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yuugure",
 		"id": "176",
 		"_gid": 30126,
 		"_sid": [
@@ -23656,7 +23659,7 @@
 		]
 	},
 	"177": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kuroshio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kuroshio",
 		"id": "177",
 		"_gid": 30127,
 		"_sid": [
@@ -23902,7 +23905,7 @@
 		"gallery": []
 	},
 	"178": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Oyashio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Oyashio",
 		"id": "178",
 		"_gid": 30128,
 		"_sid": [
@@ -24148,7 +24151,7 @@
 		"gallery": []
 	},
 	"179": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yuubari",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yuubari",
 		"id": "179",
 		"_gid": 30201,
 		"_sid": [
@@ -24686,7 +24689,7 @@
 		"gallery": []
 	},
 	"182": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nagara",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagara",
 		"id": "182",
 		"_gid": 30204,
 		"_sid": [
@@ -24930,7 +24933,7 @@
 		"gallery": []
 	},
 	"183": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Isuzu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Isuzu",
 		"id": "183",
 		"_gid": 30205,
 		"_sid": [
@@ -25484,7 +25487,7 @@
 		]
 	},
 	"185": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yura",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yura",
 		"id": "185",
 		"_gid": 30207,
 		"_sid": [
@@ -25740,7 +25743,7 @@
 		"gallery": []
 	},
 	"186": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kinu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kinu",
 		"id": "186",
 		"_gid": 30208,
 		"_sid": [
@@ -26298,7 +26301,7 @@
 		]
 	},
 	"187": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Abukuma",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Abukuma",
 		"id": "187",
 		"_gid": 30209,
 		"_sid": [
@@ -26798,7 +26801,7 @@
 		"gallery": []
 	},
 	"188": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mogami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mogami",
 		"id": "188",
 		"_gid": 30210,
 		"_sid": [
@@ -27338,7 +27341,7 @@
 		"gallery": []
 	},
 	"189": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mikuma",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mikuma",
 		"id": "189",
 		"_gid": 30211,
 		"_sid": [
@@ -27594,7 +27597,7 @@
 		"gallery": []
 	},
 	"190": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Furutaka",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Furutaka",
 		"id": "190",
 		"_gid": 30301,
 		"_sid": [
@@ -28102,7 +28105,7 @@
 		]
 	},
 	"191": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kako",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kako",
 		"id": "191",
 		"_gid": 30302,
 		"_sid": [
@@ -28610,7 +28613,7 @@
 		]
 	},
 	"192": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Aoba",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Aoba",
 		"id": "192",
 		"_gid": 30303,
 		"_sid": [
@@ -28845,7 +28848,7 @@
 		"gallery": []
 	},
 	"193": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kinugasa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kinugasa",
 		"id": "193",
 		"_gid": 30304,
 		"_sid": [
@@ -29080,7 +29083,7 @@
 		"gallery": []
 	},
 	"195": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chikuma",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chikuma",
 		"id": "195",
 		"_gid": 30306,
 		"_sid": [
@@ -29366,7 +29369,7 @@
 		]
 	},
 	"196": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Myoukou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Myoukou",
 		"id": "196",
 		"_gid": 30307,
 		"_sid": [
@@ -29609,7 +29612,7 @@
 		"gallery": []
 	},
 	"197": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nachi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nachi",
 		"id": "197",
 		"_gid": 30308,
 		"_sid": [
@@ -29853,7 +29856,7 @@
 		"gallery": []
 	},
 	"198": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ashigara",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ashigara",
 		"id": "198",
 		"_gid": 30309,
 		"_sid": [
@@ -30120,7 +30123,7 @@
 		"gallery": []
 	},
 	"200": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Takao",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Takao",
 		"id": "200",
 		"_gid": 30311,
 		"_sid": [
@@ -30467,7 +30470,7 @@
 		]
 	},
 	"201": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Atago",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Atago",
 		"id": "201",
 		"_gid": 30312,
 		"_sid": [
@@ -30819,7 +30822,7 @@
 		]
 	},
 	"202": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Maya",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maya",
 		"id": "202",
 		"_gid": 30313,
 		"_sid": [
@@ -31063,7 +31066,7 @@
 		"gallery": []
 	},
 	"203": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Choukai",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Choukai",
 		"id": "203",
 		"_gid": 30314,
 		"_sid": [
@@ -31317,7 +31320,7 @@
 		"gallery": []
 	},
 	"204": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kongou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kongou",
 		"id": "204",
 		"_gid": 30401,
 		"_sid": [
@@ -31589,7 +31592,7 @@
 		]
 	},
 	"205": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hiei",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiei",
 		"id": "205",
 		"_gid": 30402,
 		"_sid": [
@@ -31885,7 +31888,7 @@
 		]
 	},
 	"206": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Haruna",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Haruna",
 		"id": "206",
 		"_gid": 30403,
 		"_sid": [
@@ -32179,7 +32182,7 @@
 		]
 	},
 	"207": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kirishima",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kirishima",
 		"id": "207",
 		"_gid": 30404,
 		"_sid": [
@@ -32477,7 +32480,7 @@
 		]
 	},
 	"208": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fusou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fusou",
 		"id": "208",
 		"_gid": 30501,
 		"_sid": [
@@ -33023,7 +33026,7 @@
 		]
 	},
 	"209": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yamashiro",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yamashiro",
 		"id": "209",
 		"_gid": 30502,
 		"_sid": [
@@ -33640,7 +33643,7 @@
 		]
 	},
 	"210": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ise",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
 		"id": "210",
 		"_gid": 30503,
 		"_sid": [
@@ -34144,7 +34147,7 @@
 		"gallery": []
 	},
 	"211": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hyuuga",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hyuuga",
 		"id": "211",
 		"_gid": 30504,
 		"_sid": [
@@ -34657,7 +34660,7 @@
 		"gallery": []
 	},
 	"212": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nagato",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagato",
 		"id": "212",
 		"_gid": 30505,
 		"_sid": [
@@ -34979,7 +34982,7 @@
 		]
 	},
 	"213": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mutsu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mutsu",
 		"id": "213",
 		"_gid": 30506,
 		"_sid": [
@@ -35227,7 +35230,7 @@
 		]
 	},
 	"214": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kii",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kii",
 		"id": "214",
 		"_gid": 30512,
 		"_sid": [
@@ -35497,7 +35500,7 @@
 		]
 	},
 	"215": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tosa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tosa",
 		"id": "215",
 		"_gid": 30508,
 		"_sid": [
@@ -35778,7 +35781,7 @@
 		]
 	},
 	"218": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hiyou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiyou",
 		"id": "218",
 		"_gid": 30601,
 		"_sid": [
@@ -36006,7 +36009,7 @@
 		"gallery": []
 	},
 	"219": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Junyou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Junyou",
 		"id": "219",
 		"_gid": 30602,
 		"_sid": [
@@ -36234,7 +36237,7 @@
 		"gallery": []
 	},
 	"220": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Houshou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Houshou",
 		"id": "220",
 		"_gid": 30603,
 		"_sid": [
@@ -36490,7 +36493,7 @@
 		]
 	},
 	"222": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shouhou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shouhou",
 		"id": "222",
 		"_gid": 30605,
 		"_sid": [
@@ -36999,7 +37002,7 @@
 		"gallery": []
 	},
 	"223": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ryuujou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ryuujou",
 		"id": "223",
 		"_gid": 30606,
 		"_sid": [
@@ -37286,7 +37289,7 @@
 		]
 	},
 	"224": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akagi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi",
 		"id": "224",
 		"_gid": 30701,
 		"_sid": [
@@ -37436,7 +37439,7 @@
 					"cn": "一航战",
 					"jp": "一航戦"
 				},
-				"description": "When paired with Kaga or Kaga (Battleship) in the same fleet, increases own Air Power by 15% (35%).",
+				"description": "When paired with Kaga or Kaga (Battleship) in the same fleet, increases own AVI stat by 15% (35%).",
 				"color": "gold"
 			}
 		],
@@ -37622,7 +37625,7 @@
 		]
 	},
 	"225": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kaga",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kaga",
 		"id": "225",
 		"_gid": 30702,
 		"_sid": [
@@ -37990,7 +37993,7 @@
 		]
 	},
 	"226": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Souryuu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Souryuu",
 		"id": "226",
 		"_gid": 30703,
 		"_sid": [
@@ -38571,7 +38574,7 @@
 		]
 	},
 	"227": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hiryuu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiryuu",
 		"id": "227",
 		"_gid": 30704,
 		"_sid": [
@@ -39134,7 +39137,7 @@
 		]
 	},
 	"228": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shoukaku",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shoukaku",
 		"id": "228",
 		"_gid": 30705,
 		"_sid": [
@@ -39429,7 +39432,7 @@
 		]
 	},
 	"229": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Zuikaku",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Zuikaku",
 		"id": "229",
 		"_gid": 30706,
 		"_sid": [
@@ -39714,7 +39717,7 @@
 		]
 	},
 	"230": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Taihou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Taihou",
 		"id": "230",
 		"_gid": 30707,
 		"_sid": [
@@ -40040,7 +40043,7 @@
 		]
 	},
 	"231": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shinano",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shinano",
 		"id": "231",
 		"_gid": 30708,
 		"_sid": [
@@ -40315,7 +40318,7 @@
 		]
 	},
 	"232": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akashi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akashi",
 		"id": "232",
 		"_gid": 31201,
 		"_sid": [
@@ -40673,7 +40676,7 @@
 		]
 	},
 	"233": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z1",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z1",
 		"id": "233",
 		"_gid": 40101,
 		"_sid": [
@@ -41223,7 +41226,7 @@
 		]
 	},
 	"236": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z23",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z23",
 		"id": "236",
 		"_gid": 40123,
 		"_sid": [
@@ -42118,7 +42121,7 @@
 		]
 	},
 	"237": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z25",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z25",
 		"id": "237",
 		"_gid": 40125,
 		"_sid": [
@@ -42379,7 +42382,7 @@
 		"gallery": []
 	},
 	"238": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Königsberg",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/K%C3%B6nigsberg",
 		"id": "238",
 		"_gid": 40201,
 		"_sid": [
@@ -42631,7 +42634,7 @@
 		"gallery": []
 	},
 	"239": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Karlsruhe",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Karlsruhe",
 		"id": "239",
 		"_gid": 40202,
 		"_sid": [
@@ -43146,7 +43149,7 @@
 		"gallery": []
 	},
 	"240": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Köln",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/K%C3%B6ln",
 		"id": "240",
 		"_gid": 40203,
 		"_sid": [
@@ -43663,7 +43666,7 @@
 		"gallery": []
 	},
 	"241": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Leipzig",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Leipzig",
 		"id": "241",
 		"_gid": 40204,
 		"_sid": [
@@ -44176,7 +44179,7 @@
 		]
 	},
 	"242": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Admiral_Hipper",
 		"id": "242",
 		"_gid": 40301,
 		"_sid": [
@@ -44459,7 +44462,7 @@
 		]
 	},
 	"244": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Prinz_Eugen",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
 		"id": "244",
 		"_gid": 40303,
 		"_sid": [
@@ -44804,7 +44807,7 @@
 		]
 	},
 	"245": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Deutschland",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Deutschland",
 		"id": "245",
 		"_gid": 40304,
 		"_sid": [
@@ -45121,7 +45124,7 @@
 		]
 	},
 	"246": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Admiral_Graf_Spee",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Admiral_Graf_Spee",
 		"id": "246",
 		"_gid": 40305,
 		"_sid": [
@@ -45324,7 +45327,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": false,
-				"exchange": false
+				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
@@ -45458,7 +45461,7 @@
 		]
 	},
 	"248": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Scharnhorst",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Scharnhorst",
 		"id": "248",
 		"_gid": 40401,
 		"_sid": [
@@ -45717,7 +45720,7 @@
 		]
 	},
 	"249": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gneisenau",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gneisenau",
 		"id": "249",
 		"_gid": 40402,
 		"_sid": [
@@ -45977,7 +45980,7 @@
 		]
 	},
 	"250": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bismarck",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bismarck",
 		"id": "250",
 		"_gid": 40501,
 		"_sid": [
@@ -46265,7 +46268,7 @@
 		]
 	},
 	"251": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tirpitz",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
 		"id": "251",
 		"_gid": 40502,
 		"_sid": [
@@ -46575,7 +46578,7 @@
 		]
 	},
 	"252": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Graf_Zeppelin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Graf_Zeppelin",
 		"id": "252",
 		"_gid": 40701,
 		"_sid": [
@@ -46858,7 +46861,7 @@
 		]
 	},
 	"253": {
-		"wikiUrl": "https://azurlane.koumakan.jp/An_Shan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/An_Shan",
 		"id": "253",
 		"_gid": 50101,
 		"_sid": [
@@ -47109,7 +47112,7 @@
 		"gallery": []
 	},
 	"254": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fu_Shun",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fu_Shun",
 		"id": "254",
 		"_gid": 50102,
 		"_sid": [
@@ -47346,7 +47349,7 @@
 		"gallery": []
 	},
 	"255": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chang_Chun",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chang_Chun",
 		"id": "255",
 		"_gid": 50103,
 		"_sid": [
@@ -47602,7 +47605,7 @@
 		]
 	},
 	"256": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tai_Yuan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tai_Yuan",
 		"id": "256",
 		"_gid": 50104,
 		"_sid": [
@@ -47853,7 +47856,7 @@
 		"gallery": []
 	},
 	"257": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yat_Sen",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yat_Sen",
 		"id": "257",
 		"_gid": 50201,
 		"_sid": [
@@ -48125,7 +48128,7 @@
 		]
 	},
 	"258": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ning_Hai",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ning_Hai",
 		"id": "258",
 		"_gid": 50202,
 		"_sid": [
@@ -48790,7 +48793,7 @@
 		]
 	},
 	"259": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ping_Hai",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ping_Hai",
 		"id": "259",
 		"_gid": 50203,
 		"_sid": [
@@ -49467,7 +49470,7 @@
 		]
 	},
 	"262": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Avrora",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Avrora",
 		"id": "262",
 		"_gid": 70201,
 		"_sid": [
@@ -49739,7 +49742,7 @@
 		]
 	},
 	"263": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bailey",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bailey",
 		"id": "263",
 		"_gid": 10127,
 		"_sid": [
@@ -50258,7 +50261,7 @@
 		]
 	},
 	"264": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z19",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z19",
 		"id": "264",
 		"_gid": 40119,
 		"_sid": [
@@ -50500,7 +50503,7 @@
 		]
 	},
 	"265": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z20",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z20",
 		"id": "265",
 		"_gid": 40120,
 		"_sid": [
@@ -50733,7 +50736,7 @@
 		"gallery": []
 	},
 	"266": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z21",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z21",
 		"id": "266",
 		"_gid": 40121,
 		"_sid": [
@@ -50971,7 +50974,7 @@
 		]
 	},
 	"267": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z46",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z46",
 		"id": "267",
 		"_gid": 40146,
 		"_sid": [
@@ -51312,7 +51315,7 @@
 		]
 	},
 	"268": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shimakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shimakaze",
 		"id": "268",
 		"_gid": 30129,
 		"_sid": [
@@ -51624,7 +51627,7 @@
 		]
 	},
 	"269": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kamikaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kamikaze",
 		"id": "269",
 		"_gid": 30130,
 		"_sid": [
@@ -52122,7 +52125,7 @@
 		"gallery": []
 	},
 	"270": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Matsukaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Matsukaze",
 		"id": "270",
 		"_gid": 30131,
 		"_sid": [
@@ -52621,7 +52624,7 @@
 		"gallery": []
 	},
 	"271": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mutsuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mutsuki",
 		"id": "271",
 		"_gid": 30132,
 		"_sid": [
@@ -53163,7 +53166,7 @@
 		]
 	},
 	"272": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kisaragi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kisaragi",
 		"id": "272",
 		"_gid": 30133,
 		"_sid": [
@@ -53684,7 +53687,7 @@
 		]
 	},
 	"274": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Uzuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Uzuki",
 		"id": "274",
 		"_gid": 30135,
 		"_sid": [
@@ -53935,7 +53938,7 @@
 		]
 	},
 	"276": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Minazuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Minazuki",
 		"id": "276",
 		"_gid": 30137,
 		"_sid": [
@@ -54172,7 +54175,7 @@
 		"gallery": []
 	},
 	"277": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fumizuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fumizuki",
 		"id": "277",
 		"_gid": 30138,
 		"_sid": [
@@ -54428,7 +54431,7 @@
 		]
 	},
 	"278": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nagatsuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagatsuki",
 		"id": "278",
 		"_gid": 30139,
 		"_sid": [
@@ -54684,7 +54687,7 @@
 		]
 	},
 	"280": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mikazuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mikazuki",
 		"id": "280",
 		"_gid": 30141,
 		"_sid": [
@@ -54940,7 +54943,7 @@
 		]
 	},
 	"286": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Umikaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Umikaze",
 		"id": "286",
 		"_gid": 30147,
 		"_sid": [
@@ -55199,7 +55202,7 @@
 		"gallery": []
 	},
 	"287": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yamakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yamakaze",
 		"id": "287",
 		"_gid": 30148,
 		"_sid": [
@@ -55456,7 +55459,7 @@
 		"gallery": []
 	},
 	"288": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kawakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kawakaze",
 		"id": "288",
 		"_gid": 30149,
 		"_sid": [
@@ -55730,7 +55733,7 @@
 		"gallery": []
 	},
 	"293": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kiyonami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kiyonami",
 		"id": "293",
 		"_gid": 30154,
 		"_sid": [
@@ -55991,7 +55994,7 @@
 		"gallery": []
 	},
 	"295": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Niizuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Niizuki",
 		"id": "295",
 		"_gid": 30156,
 		"_sid": [
@@ -56242,7 +56245,7 @@
 		"gallery": []
 	},
 	"296": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Harutsuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Harutsuki",
 		"id": "296",
 		"_gid": 30157,
 		"_sid": [
@@ -56494,7 +56497,7 @@
 		"gallery": []
 	},
 	"297": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yoizuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yoizuki",
 		"id": "297",
 		"_gid": 30158,
 		"_sid": [
@@ -56745,7 +56748,7 @@
 		"gallery": []
 	},
 	"299": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Radford",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Radford",
 		"id": "299",
 		"_gid": 10129,
 		"_sid": [
@@ -56996,7 +56999,7 @@
 		"gallery": []
 	},
 	"300": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jenkins",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jenkins",
 		"id": "300",
 		"_gid": 10130,
 		"_sid": [
@@ -57248,7 +57251,7 @@
 		"gallery": []
 	},
 	"301": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nicholas",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nicholas",
 		"id": "301",
 		"_gid": 10131,
 		"_sid": [
@@ -57838,7 +57841,7 @@
 		"gallery": []
 	},
 	"303": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Richmond",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Richmond",
 		"id": "303",
 		"_gid": 10211,
 		"_sid": [
@@ -58084,7 +58087,7 @@
 		"gallery": []
 	},
 	"304": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Honolulu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Honolulu",
 		"id": "304",
 		"_gid": 10212,
 		"_sid": [
@@ -58399,7 +58402,7 @@
 		]
 	},
 	"305": {
-		"wikiUrl": "https://azurlane.koumakan.jp/St._Louis",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/St._Louis",
 		"id": "305",
 		"_gid": 10213,
 		"_sid": [
@@ -58726,7 +58729,7 @@
 		]
 	},
 	"306": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jupiter",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jupiter",
 		"id": "306",
 		"_gid": 20124,
 		"_sid": [
@@ -58975,7 +58978,7 @@
 		"gallery": []
 	},
 	"307": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jersey",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jersey",
 		"id": "307",
 		"_gid": 20125,
 		"_sid": [
@@ -59226,7 +59229,7 @@
 		]
 	},
 	"308": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sendai",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sendai",
 		"id": "308",
 		"_gid": 30212,
 		"_sid": [
@@ -59731,7 +59734,7 @@
 		]
 	},
 	"309": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jintsuu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jintsuu",
 		"id": "309",
 		"_gid": 30213,
 		"_sid": [
@@ -60271,7 +60274,7 @@
 		]
 	},
 	"310": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Naka",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Naka",
 		"id": "310",
 		"_gid": 30214,
 		"_sid": [
@@ -60525,7 +60528,7 @@
 		]
 	},
 	"316": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Urakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Urakaze",
 		"id": "316",
 		"_gid": 30159,
 		"_sid": [
@@ -60792,7 +60795,7 @@
 		"gallery": []
 	},
 	"317": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Isokaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Isokaze",
 		"id": "317",
 		"_gid": 30160,
 		"_sid": [
@@ -61056,7 +61059,7 @@
 		"gallery": []
 	},
 	"318": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hamakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hamakaze",
 		"id": "318",
 		"_gid": 30161,
 		"_sid": [
@@ -61578,7 +61581,7 @@
 		"gallery": []
 	},
 	"319": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tanikaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tanikaze",
 		"id": "319",
 		"_gid": 30162,
 		"_sid": [
@@ -62091,7 +62094,7 @@
 		"gallery": []
 	},
 	"320": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mikasa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mikasa",
 		"id": "320",
 		"_gid": 30511,
 		"_sid": [
@@ -62401,7 +62404,7 @@
 		]
 	},
 	"321": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Agano",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Agano",
 		"id": "321",
 		"_gid": 30220,
 		"_sid": [
@@ -62690,7 +62693,7 @@
 		"gallery": []
 	},
 	"322": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Noshiro",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Noshiro",
 		"id": "322",
 		"_gid": 30221,
 		"_sid": [
@@ -63030,7 +63033,7 @@
 		]
 	},
 	"325": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Matchless",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Matchless",
 		"id": "325",
 		"_gid": 20126,
 		"_sid": [
@@ -63291,7 +63294,7 @@
 		"gallery": []
 	},
 	"326": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Musketeer",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Musketeer",
 		"id": "326",
 		"_gid": 20127,
 		"_sid": [
@@ -63528,7 +63531,7 @@
 		"gallery": []
 	},
 	"327": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fiji",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fiji",
 		"id": "327",
 		"_gid": 20216,
 		"_sid": [
@@ -63782,7 +63785,7 @@
 		]
 	},
 	"328": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jamaica",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jamaica",
 		"id": "328",
 		"_gid": 20217,
 		"_sid": [
@@ -64045,7 +64048,7 @@
 		"gallery": []
 	},
 	"329": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Montpelier",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Montpelier",
 		"id": "329",
 		"_gid": 10214,
 		"_sid": [
@@ -64327,7 +64330,7 @@
 		]
 	},
 	"330": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Denver",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Denver",
 		"id": "330",
 		"_gid": 10215,
 		"_sid": [
@@ -64572,7 +64575,7 @@
 		"gallery": []
 	},
 	"331": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Asashio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Asashio",
 		"id": "331",
 		"_gid": 30163,
 		"_sid": [
@@ -64848,7 +64851,7 @@
 		"gallery": []
 	},
 	"332": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ooshio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ooshio",
 		"id": "332",
 		"_gid": 30164,
 		"_sid": [
@@ -65126,7 +65129,7 @@
 		"gallery": []
 	},
 	"333": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Michishio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Michishio",
 		"id": "333",
 		"_gid": 30165,
 		"_sid": [
@@ -65377,7 +65380,7 @@
 		"gallery": []
 	},
 	"334": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Arashio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Arashio",
 		"id": "334",
 		"_gid": 30166,
 		"_sid": [
@@ -65629,7 +65632,7 @@
 		"gallery": []
 	},
 	"335": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Little_Bel",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Little_Bel",
 		"id": "335",
 		"_gid": 20218,
 		"_sid": [
@@ -65884,7 +65887,7 @@
 		]
 	},
 	"336": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Abercrombie",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Abercrombie",
 		"id": "336",
 		"_gid": 21304,
 		"_sid": [
@@ -66139,7 +66142,7 @@
 		"gallery": []
 	},
 	"337": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sussex",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sussex",
 		"id": "337",
 		"_gid": 20309,
 		"_sid": [
@@ -66406,7 +66409,7 @@
 		"gallery": []
 	},
 	"338": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-19",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-19",
 		"id": "338",
 		"_gid": 30801,
 		"_sid": [
@@ -66718,7 +66721,7 @@
 		]
 	},
 	"339": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-26",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-26",
 		"id": "339",
 		"_gid": 30802,
 		"_sid": [
@@ -67015,7 +67018,7 @@
 		]
 	},
 	"340": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-58",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-58",
 		"id": "340",
 		"_gid": 30803,
 		"_sid": [
@@ -67263,7 +67266,7 @@
 		"gallery": []
 	},
 	"341": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-81",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-81",
 		"id": "341",
 		"_gid": 40801,
 		"_sid": [
@@ -67551,7 +67554,7 @@
 		]
 	},
 	"342": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Dace",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dace",
 		"id": "342",
 		"_gid": 10801,
 		"_sid": [
@@ -67809,14 +67812,15 @@
 		"gallery": []
 	},
 	"343": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-47",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-47",
 		"id": "343",
 		"_gid": 40802,
 		"_sid": [
 			408021,
 			408022,
 			408023,
-			408024
+			408024,
+			900346
 		],
 		"_code": 343,
 		"names": {
@@ -68098,7 +68102,7 @@
 		"gallery": []
 	},
 	"344": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-557",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-557",
 		"id": "344",
 		"_gid": 40803,
 		"_sid": [
@@ -68360,7 +68364,7 @@
 		"gallery": []
 	},
 	"345": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z35",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z35",
 		"id": "345",
 		"_gid": 40135,
 		"_sid": [
@@ -68616,7 +68620,7 @@
 		]
 	},
 	"346": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z18",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z18",
 		"id": "346",
 		"_gid": 40118,
 		"_sid": [
@@ -68853,7 +68857,7 @@
 		"gallery": []
 	},
 	"347": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Le_Triomphant",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Le_Triomphant",
 		"id": "347",
 		"_gid": 80101,
 		"_sid": [
@@ -69109,7 +69113,7 @@
 		]
 	},
 	"348": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Forbin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Forbin",
 		"id": "348",
 		"_gid": 80102,
 		"_sid": [
@@ -69649,7 +69653,7 @@
 		"gallery": []
 	},
 	"349": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Émile_Bertin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/%C3%89mile_Bertin",
 		"id": "349",
 		"_gid": 80201,
 		"_sid": [
@@ -70228,7 +70232,7 @@
 		]
 	},
 	"350": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Surcouf",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Surcouf",
 		"id": "350",
 		"_gid": 80801,
 		"_sid": [
@@ -70517,7 +70521,7 @@
 		"gallery": []
 	},
 	"351": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Le_Mars",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Le_Mars",
 		"id": "351",
 		"_gid": 90101,
 		"_sid": [
@@ -71042,7 +71046,7 @@
 		"gallery": []
 	},
 	"352": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Dunkerque",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dunkerque",
 		"id": "352",
 		"_gid": 90401,
 		"_sid": [
@@ -71326,7 +71330,7 @@
 		]
 	},
 	"353": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jean_Bart",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jean_Bart",
 		"id": "353",
 		"_gid": 90501,
 		"_sid": [
@@ -71628,7 +71632,7 @@
 		]
 	},
 	"354": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Massachusetts",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Massachusetts",
 		"id": "354",
 		"_gid": 10519,
 		"_sid": [
@@ -71895,7 +71899,7 @@
 		]
 	},
 	"355": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bush",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bush",
 		"id": "355",
 		"_gid": 10133,
 		"_sid": [
@@ -72146,7 +72150,7 @@
 		"gallery": []
 	},
 	"356": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Centaur",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Centaur",
 		"id": "356",
 		"_gid": 20604,
 		"_sid": [
@@ -72415,7 +72419,7 @@
 		]
 	},
 	"357": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Essex",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Essex",
 		"id": "357",
 		"_gid": 10709,
 		"_sid": [
@@ -72423,7 +72427,8 @@
 			107092,
 			107093,
 			107094,
-			900269
+			900269,
+			900343
 		],
 		"_code": 357,
 		"names": {
@@ -72735,7 +72740,7 @@
 		]
 	},
 	"358": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Albacore",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Albacore",
 		"id": "358",
 		"_gid": 10802,
 		"_sid": [
@@ -73015,7 +73020,7 @@
 		]
 	},
 	"359": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Le_Téméraire",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Le_T%C3%A9m%C3%A9raire",
 		"id": "359",
 		"_gid": 80103,
 		"_sid": [
@@ -73295,14 +73300,15 @@
 		]
 	},
 	"360": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Memphis",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Memphis",
 		"id": "360",
 		"_gid": 10216,
 		"_sid": [
 			102161,
 			102162,
 			102163,
-			102164
+			102164,
+			900332
 		],
 		"_code": 360,
 		"names": {
@@ -73574,7 +73580,7 @@
 		"gallery": []
 	},
 	"361": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Newcastle",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Newcastle",
 		"id": "361",
 		"_gid": 20219,
 		"_sid": [
@@ -74108,7 +74114,7 @@
 		"gallery": []
 	},
 	"362": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hobby",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hobby",
 		"id": "362",
 		"_gid": 10136,
 		"_sid": [
@@ -74364,7 +74370,7 @@
 		]
 	},
 	"363": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kalk",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kalk",
 		"id": "363",
 		"_gid": 10137,
 		"_sid": [
@@ -74620,7 +74626,7 @@
 		]
 	},
 	"364": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Minneapolis",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Minneapolis",
 		"id": "364",
 		"_gid": 10313,
 		"_sid": [
@@ -74947,7 +74953,7 @@
 		]
 	},
 	"365": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hazelwood",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hazelwood",
 		"id": "365",
 		"_gid": 10134,
 		"_sid": [
@@ -75184,7 +75190,7 @@
 		"gallery": []
 	},
 	"366": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Concord",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Concord",
 		"id": "366",
 		"_gid": 10218,
 		"_sid": [
@@ -75446,7 +75452,7 @@
 		"gallery": []
 	},
 	"367": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Amagi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Amagi",
 		"id": "367",
 		"_gid": 30405,
 		"_sid": [
@@ -75774,7 +75780,7 @@
 		]
 	},
 	"368": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kaga_(Battleship)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kaga_(Battleship)",
 		"id": "368",
 		"_gid": 30507,
 		"_sid": [
@@ -76023,7 +76029,7 @@
 		]
 	},
 	"369": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hatakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hatakaze",
 		"id": "369",
 		"_gid": 30179,
 		"_sid": [
@@ -76260,7 +76266,7 @@
 		"gallery": []
 	},
 	"370": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Makinami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Makinami",
 		"id": "370",
 		"_gid": 30180,
 		"_sid": [
@@ -76521,14 +76527,15 @@
 		"gallery": []
 	},
 	"371": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sirius",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sirius",
 		"id": "371",
 		"_gid": 20220,
 		"_sid": [
 			202201,
 			202202,
 			202203,
-			202204
+			202204,
+			900342
 		],
 		"_code": 371,
 		"names": {
@@ -76874,7 +76881,7 @@
 		]
 	},
 	"372": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Curacoa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Curacoa",
 		"id": "372",
 		"_gid": 20221,
 		"_sid": [
@@ -77401,7 +77408,7 @@
 		]
 	},
 	"373": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Curlew",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Curlew",
 		"id": "373",
 		"_gid": 20222,
 		"_sid": [
@@ -77927,7 +77934,7 @@
 		]
 	},
 	"374": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kimberly",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kimberly",
 		"id": "374",
 		"_gid": 10138,
 		"_sid": [
@@ -78177,7 +78184,7 @@
 		"gallery": []
 	},
 	"375": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mullany",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mullany",
 		"id": "375",
 		"_gid": 10139,
 		"_sid": [
@@ -78430,7 +78437,7 @@
 		"gallery": []
 	},
 	"376": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chaser",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chaser",
 		"id": "376",
 		"_gid": 20605,
 		"_sid": [
@@ -78694,7 +78701,7 @@
 		"gallery": []
 	},
 	"377": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Independence",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Independence",
 		"id": "377",
 		"_gid": 10722,
 		"_sid": [
@@ -79285,14 +79292,15 @@
 		]
 	},
 	"378": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shangri-La",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shangri-La",
 		"id": "378",
 		"_gid": 10738,
 		"_sid": [
 			107381,
 			107382,
 			107383,
-			107384
+			107384,
+			900344
 		],
 		"_code": 378,
 		"names": {
@@ -79566,7 +79574,7 @@
 		]
 	},
 	"379": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z2",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z2",
 		"id": "379",
 		"_gid": 40102,
 		"_sid": [
@@ -79841,7 +79849,7 @@
 		"gallery": []
 	},
 	"380": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bunker_Hill",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bunker_Hill",
 		"id": "380",
 		"_gid": 10717,
 		"_sid": [
@@ -80105,7 +80113,7 @@
 		]
 	},
 	"381": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-13",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-13",
 		"id": "381",
 		"_gid": 31701,
 		"_sid": [
@@ -80368,7 +80376,7 @@
 		]
 	},
 	"382": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Suzuya",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Suzuya",
 		"id": "382",
 		"_gid": 30317,
 		"_sid": [
@@ -80623,7 +80631,7 @@
 		]
 	},
 	"383": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hiei-chan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiei-chan",
 		"id": "383",
 		"_gid": 30406,
 		"_sid": [
@@ -80851,7 +80859,7 @@
 		]
 	},
 	"384": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akagi-chan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi-chan",
 		"id": "384",
 		"_gid": 30709,
 		"_sid": [
@@ -81080,7 +81088,7 @@
 		]
 	},
 	"385": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Zeppy",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Zeppy",
 		"id": "385",
 		"_gid": 40702,
 		"_sid": [
@@ -81313,7 +81321,7 @@
 		]
 	},
 	"386": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-556",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-556",
 		"id": "386",
 		"_gid": 40804,
 		"_sid": [
@@ -81601,7 +81609,7 @@
 		]
 	},
 	"387": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-73",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-73",
 		"id": "387",
 		"_gid": 40805,
 		"_sid": [
@@ -81872,7 +81880,7 @@
 		"gallery": []
 	},
 	"388": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z36",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z36",
 		"id": "388",
 		"_gid": 40136,
 		"_sid": [
@@ -82108,7 +82116,7 @@
 		"gallery": []
 	},
 	"389": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Echo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Echo",
 		"id": "389",
 		"_gid": 20129,
 		"_sid": [
@@ -82345,7 +82353,7 @@
 		"gallery": []
 	},
 	"390": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Lena",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Lena",
 		"id": "390",
 		"_gid": 10219,
 		"_sid": [
@@ -82576,7 +82584,7 @@
 		"gallery": []
 	},
 	"391": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Clevelad",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Clevelad",
 		"id": "391",
 		"_gid": 10220,
 		"_sid": [
@@ -82807,7 +82815,7 @@
 		"gallery": []
 	},
 	"392": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Li'l_Sandy",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Li%27l_Sandy",
 		"id": "392",
 		"_gid": 10221,
 		"_sid": [
@@ -83041,7 +83049,7 @@
 		"gallery": []
 	},
 	"393": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Swiftsure",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Swiftsure",
 		"id": "393",
 		"_gid": 20223,
 		"_sid": [
@@ -83343,7 +83351,7 @@
 		]
 	},
 	"394": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Le_Malin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Le_Malin",
 		"id": "394",
 		"_gid": 90111,
 		"_sid": [
@@ -83657,7 +83665,7 @@
 		]
 	},
 	"395": {
-		"wikiUrl": "https://azurlane.koumakan.jp/L'Opiniâtre",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/L%27Opini%C3%A2tre",
 		"id": "395",
 		"_gid": 80104,
 		"_sid": [
@@ -83923,7 +83931,7 @@
 		]
 	},
 	"396": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-25",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-25",
 		"id": "396",
 		"_gid": 30804,
 		"_sid": [
@@ -84221,7 +84229,7 @@
 		]
 	},
 	"397": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-56",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-56",
 		"id": "397",
 		"_gid": 30805,
 		"_sid": [
@@ -84492,7 +84500,7 @@
 		"gallery": []
 	},
 	"398": {
-		"wikiUrl": "https://azurlane.koumakan.jp/I-168",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/I-168",
 		"id": "398",
 		"_gid": 30806,
 		"_sid": [
@@ -84765,7 +84773,7 @@
 		"gallery": []
 	},
 	"399": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-101",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-101",
 		"id": "399",
 		"_gid": 40806,
 		"_sid": [
@@ -85043,7 +85051,7 @@
 		]
 	},
 	"400": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-522",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-522",
 		"id": "400",
 		"_gid": 40807,
 		"_sid": [
@@ -85307,7 +85315,7 @@
 		]
 	},
 	"401": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Alabama",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Alabama",
 		"id": "401",
 		"_gid": 10520,
 		"_sid": [
@@ -85559,7 +85567,7 @@
 		]
 	},
 	"402": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cavalla",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cavalla",
 		"id": "402",
 		"_gid": 10803,
 		"_sid": [
@@ -85847,7 +85855,7 @@
 		]
 	},
 	"403": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bataan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bataan",
 		"id": "403",
 		"_gid": 10729,
 		"_sid": [
@@ -86099,7 +86107,7 @@
 		"gallery": []
 	},
 	"404": {
-		"wikiUrl": "https://azurlane.koumakan.jp/San_Juan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/San_Juan",
 		"id": "404",
 		"_gid": 10222,
 		"_sid": [
@@ -86354,7 +86362,7 @@
 		]
 	},
 	"405": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Birmingham",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Birmingham",
 		"id": "405",
 		"_gid": 10223,
 		"_sid": [
@@ -86632,7 +86640,7 @@
 		]
 	},
 	"406": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Aylwin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Aylwin",
 		"id": "406",
 		"_gid": 10140,
 		"_sid": [
@@ -86889,7 +86897,7 @@
 		]
 	},
 	"407": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bache",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bache",
 		"id": "407",
 		"_gid": 10135,
 		"_sid": [
@@ -87174,7 +87182,7 @@
 		]
 	},
 	"408": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Black_Prince",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Black_Prince",
 		"id": "408",
 		"_gid": 20224,
 		"_sid": [
@@ -87480,7 +87488,7 @@
 		]
 	},
 	"409": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Stanly",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Stanly",
 		"id": "409",
 		"_gid": 10141,
 		"_sid": [
@@ -87715,7 +87723,7 @@
 		"gallery": []
 	},
 	"410": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Littorio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Littorio",
 		"id": "410",
 		"_gid": 60502,
 		"_sid": [
@@ -88013,7 +88021,7 @@
 		]
 	},
 	"411": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Conte_di_Cavour",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Conte_di_Cavour",
 		"id": "411",
 		"_gid": 60505,
 		"_sid": [
@@ -88258,7 +88266,7 @@
 		"gallery": []
 	},
 	"412": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Giulio_Cesare",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Giulio_Cesare",
 		"id": "412",
 		"_gid": 60506,
 		"_sid": [
@@ -88532,7 +88540,7 @@
 		]
 	},
 	"413": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Zara",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Zara",
 		"id": "413",
 		"_gid": 60302,
 		"_sid": [
@@ -88804,7 +88812,7 @@
 		]
 	},
 	"414": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Trento",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Trento",
 		"id": "414",
 		"_gid": 60301,
 		"_sid": [
@@ -89064,7 +89072,7 @@
 		]
 	},
 	"415": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Carabiniere",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Carabiniere",
 		"id": "415",
 		"_gid": 60102,
 		"_sid": [
@@ -89325,7 +89333,7 @@
 		"gallery": []
 	},
 	"416": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-110",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-110",
 		"id": "416",
 		"_gid": 40808,
 		"_sid": [
@@ -89649,7 +89657,7 @@
 		]
 	},
 	"417": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Smalley",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Smalley",
 		"id": "417",
 		"_gid": 10142,
 		"_sid": [
@@ -89898,7 +89906,7 @@
 		"gallery": []
 	},
 	"418": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gascogne_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gascogne_%C2%B5",
 		"id": "418",
 		"_gid": 90503,
 		"_sid": [
@@ -90126,7 +90134,7 @@
 		]
 	},
 	"419": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akagi_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi_%C2%B5",
 		"id": "419",
 		"_gid": 30710,
 		"_sid": [
@@ -90356,7 +90364,7 @@
 		]
 	},
 	"420": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cleveland_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cleveland_%C2%B5",
 		"id": "420",
 		"_gid": 10224,
 		"_sid": [
@@ -90595,7 +90603,7 @@
 		]
 	},
 	"421": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sheffield_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sheffield_%C2%B5",
 		"id": "421",
 		"_gid": 20225,
 		"_sid": [
@@ -90835,7 +90843,7 @@
 		]
 	},
 	"422": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Admiral_Hipper_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Admiral_Hipper_%C2%B5",
 		"id": "422",
 		"_gid": 40307,
 		"_sid": [
@@ -91075,7 +91083,7 @@
 		]
 	},
 	"423": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Glasgow",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Glasgow",
 		"id": "423",
 		"_gid": 20226,
 		"_sid": [
@@ -91333,7 +91341,7 @@
 		"gallery": []
 	},
 	"424": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kasumi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kasumi",
 		"id": "424",
 		"_gid": 30181,
 		"_sid": [
@@ -91914,7 +91922,7 @@
 		]
 	},
 	"425": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Suruga",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Suruga",
 		"id": "425",
 		"_gid": 30514,
 		"_sid": [
@@ -92199,7 +92207,7 @@
 		]
 	},
 	"426": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ryuuhou",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ryuuhou",
 		"id": "426",
 		"_gid": 30607,
 		"_sid": [
@@ -92467,7 +92475,7 @@
 		]
 	},
 	"427": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Halsey_Powell",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Halsey_Powell",
 		"id": "427",
 		"_gid": 10143,
 		"_sid": [
@@ -92718,7 +92726,7 @@
 		"gallery": []
 	},
 	"428": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Biloxi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Biloxi",
 		"id": "428",
 		"_gid": 10225,
 		"_sid": [
@@ -93012,7 +93020,7 @@
 		]
 	},
 	"429": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Uranami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Uranami",
 		"id": "429",
 		"_gid": 30172,
 		"_sid": [
@@ -93272,7 +93280,7 @@
 		"gallery": []
 	},
 	"431": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Grozny",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Grozny",
 		"id": "431",
 		"_gid": 70102,
 		"_sid": [
@@ -93557,7 +93565,7 @@
 		]
 	},
 	"432": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Minsk",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Minsk",
 		"id": "432",
 		"_gid": 70103,
 		"_sid": [
@@ -93831,7 +93839,7 @@
 		]
 	},
 	"433": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tashkent",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tashkent",
 		"id": "433",
 		"_gid": 70104,
 		"_sid": [
@@ -94139,7 +94147,7 @@
 		]
 	},
 	"434": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Pamiat_Merkuria",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Pamiat_Merkuria",
 		"id": "434",
 		"_gid": 70202,
 		"_sid": [
@@ -94705,7 +94713,7 @@
 		]
 	},
 	"435": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kirov",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kirov",
 		"id": "435",
 		"_gid": 70204,
 		"_sid": [
@@ -94989,7 +94997,7 @@
 		]
 	},
 	"436": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chapayev",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chapayev",
 		"id": "436",
 		"_gid": 70203,
 		"_sid": [
@@ -95291,7 +95299,7 @@
 		]
 	},
 	"437": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gangut",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gangut",
 		"id": "437",
 		"_gid": 70501,
 		"_sid": [
@@ -95586,7 +95594,7 @@
 		]
 	},
 	"440": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sovetskaya_Belorussiya",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sovetskaya_Belorussiya",
 		"id": "440",
 		"_gid": 70504,
 		"_sid": [
@@ -95846,7 +95854,7 @@
 		]
 	},
 	"441": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sovetskaya_Rossiya",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sovetskaya_Rossiya",
 		"id": "441",
 		"_gid": 70505,
 		"_sid": [
@@ -96125,7 +96133,7 @@
 		]
 	},
 	"442": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Intrepid",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Intrepid",
 		"id": "442",
 		"_gid": 10711,
 		"_sid": [
@@ -96401,7 +96409,7 @@
 		]
 	},
 	"443": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bremerton",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bremerton",
 		"id": "443",
 		"_gid": 10324,
 		"_sid": [
@@ -96717,7 +96725,7 @@
 		]
 	},
 	"444": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cooper",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cooper",
 		"id": "444",
 		"_gid": 10144,
 		"_sid": [
@@ -96991,7 +96999,7 @@
 		]
 	},
 	"445": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Reno",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Reno",
 		"id": "445",
 		"_gid": 10226,
 		"_sid": [
@@ -97286,7 +97294,7 @@
 		]
 	},
 	"446": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bluegill",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bluegill",
 		"id": "446",
 		"_gid": 10804,
 		"_sid": [
@@ -97564,7 +97572,7 @@
 		]
 	},
 	"447": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Casablanca",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Casablanca",
 		"id": "447",
 		"_gid": 10655,
 		"_sid": [
@@ -97813,7 +97821,7 @@
 		"gallery": []
 	},
 	"448": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Marblehead",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marblehead",
 		"id": "448",
 		"_gid": 10227,
 		"_sid": [
@@ -98090,7 +98098,7 @@
 		"gallery": []
 	},
 	"449": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hanazuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hanazuki",
 		"id": "449",
 		"_gid": 30182,
 		"_sid": [
@@ -98340,7 +98348,7 @@
 		"gallery": []
 	},
 	"450": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Naganami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Naganami",
 		"id": "450",
 		"_gid": 30183,
 		"_sid": [
@@ -98616,7 +98624,7 @@
 		"gallery": []
 	},
 	"451": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Little_Renown",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Little_Renown",
 		"id": "451",
 		"_gid": 20404,
 		"_sid": [
@@ -98836,7 +98844,7 @@
 		"gallery": []
 	},
 	"452": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tartu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tartu",
 		"id": "452",
 		"_gid": 90102,
 		"_sid": [
@@ -99089,7 +99097,7 @@
 		"gallery": []
 	},
 	"453": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Richelieu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Richelieu",
 		"id": "453",
 		"_gid": 80501,
 		"_sid": [
@@ -99377,7 +99385,7 @@
 		]
 	},
 	"454": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Jeanne_d'Arc",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Jeanne_d%27Arc",
 		"id": "454",
 		"_gid": 80202,
 		"_sid": [
@@ -99653,7 +99661,7 @@
 		]
 	},
 	"455": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Algérie",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Alg%C3%A9rie",
 		"id": "455",
 		"_gid": 90302,
 		"_sid": [
@@ -99932,7 +99940,7 @@
 		]
 	},
 	"456": {
-		"wikiUrl": "https://azurlane.koumakan.jp/La_Galissonnière",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/La_Galissonni%C3%A8re",
 		"id": "456",
 		"_gid": 90201,
 		"_sid": [
@@ -100235,7 +100243,7 @@
 		]
 	},
 	"457": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vauquelin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vauquelin",
 		"id": "457",
 		"_gid": 90103,
 		"_sid": [
@@ -100502,7 +100510,7 @@
 		"gallery": []
 	},
 	"458": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Béarn",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/B%C3%A9arn",
 		"id": "458",
 		"_gid": 80701,
 		"_sid": [
@@ -100756,7 +100764,7 @@
 		"gallery": []
 	},
 	"459": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Little_Illustrious",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Little_Illustrious",
 		"id": "459",
 		"_gid": 20709,
 		"_sid": [
@@ -100978,7 +100986,7 @@
 		"gallery": []
 	},
 	"460": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Eskimo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Eskimo",
 		"id": "460",
 		"_gid": 20132,
 		"_sid": [
@@ -101228,7 +101236,7 @@
 		"gallery": []
 	},
 	"461": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Howe",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Howe",
 		"id": "461",
 		"_gid": 20509,
 		"_sid": [
@@ -101487,7 +101495,7 @@
 		]
 	},
 	"462": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Perseus",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Perseus",
 		"id": "462",
 		"_gid": 20606,
 		"_sid": [
@@ -101766,7 +101774,7 @@
 		]
 	},
 	"463": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hermione",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hermione",
 		"id": "463",
 		"_gid": 20227,
 		"_sid": [
@@ -102080,7 +102088,7 @@
 		]
 	},
 	"464": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Valiant",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Valiant",
 		"id": "464",
 		"_gid": 20510,
 		"_sid": [
@@ -102353,7 +102361,7 @@
 		]
 	},
 	"465": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Icarus",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Icarus",
 		"id": "465",
 		"_gid": 20133,
 		"_sid": [
@@ -102628,7 +102636,7 @@
 		"gallery": []
 	},
 	"466": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z26",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z26",
 		"id": "466",
 		"_gid": 40126,
 		"_sid": [
@@ -102887,7 +102895,7 @@
 		"gallery": []
 	},
 	"467": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-96",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-96",
 		"id": "467",
 		"_gid": 40809,
 		"_sid": [
@@ -103158,7 +103166,7 @@
 		"gallery": []
 	},
 	"468": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Suzutsuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Suzutsuki",
 		"id": "468",
 		"_gid": 30184,
 		"_sid": [
@@ -103460,7 +103468,7 @@
 		]
 	},
 	"469": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kumano",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kumano",
 		"id": "469",
 		"_gid": 30318,
 		"_sid": [
@@ -103756,7 +103764,7 @@
 		]
 	},
 	"470": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chitose",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chitose",
 		"id": "470",
 		"_gid": 30608,
 		"_sid": [
@@ -104011,7 +104019,7 @@
 		]
 	},
 	"471": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chiyoda",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chiyoda",
 		"id": "471",
 		"_gid": 30609,
 		"_sid": [
@@ -104261,7 +104269,7 @@
 		"gallery": []
 	},
 	"472": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kashino",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kashino",
 		"id": "472",
 		"_gid": 31901,
 		"_sid": [
@@ -104531,7 +104539,7 @@
 		]
 	},
 	"473": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Princeton",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Princeton",
 		"id": "473",
 		"_gid": 10723,
 		"_sid": [
@@ -104796,7 +104804,7 @@
 		"gallery": []
 	},
 	"474": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Taihou_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Taihou_%C2%B5",
 		"id": "474",
 		"_gid": 30711,
 		"_sid": [
@@ -105027,7 +105035,7 @@
 		]
 	},
 	"475": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tashkent_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tashkent_%C2%B5",
 		"id": "475",
 		"_gid": 70105,
 		"_sid": [
@@ -105271,7 +105279,7 @@
 		]
 	},
 	"476": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Dido_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dido_%C2%B5",
 		"id": "476",
 		"_gid": 20228,
 		"_sid": [
@@ -105514,7 +105522,7 @@
 		]
 	},
 	"477": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Albacore_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Albacore_%C2%B5",
 		"id": "477",
 		"_gid": 10805,
 		"_sid": [
@@ -105758,7 +105766,7 @@
 		]
 	},
 	"478": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Baltimore_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Baltimore_%C2%B5",
 		"id": "478",
 		"_gid": 10325,
 		"_sid": [
@@ -106000,7 +106008,7 @@
 		]
 	},
 	"479": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Roon_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Roon_%C2%B5",
 		"id": "479",
 		"_gid": 40308,
 		"_sid": [
@@ -106240,7 +106248,7 @@
 		]
 	},
 	"480": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Illustrious_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Illustrious_%C2%B5",
 		"id": "480",
 		"_gid": 20711,
 		"_sid": [
@@ -106473,7 +106481,7 @@
 		]
 	},
 	"481": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Le_Malin_µ",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Le_Malin_%C2%B5",
 		"id": "481",
 		"_gid": 90112,
 		"_sid": [
@@ -106715,7 +106723,7 @@
 		]
 	},
 	"482": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Peter_Strasser",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Peter_Strasser",
 		"id": "482",
 		"_gid": 40703,
 		"_sid": [
@@ -107001,7 +107009,7 @@
 		]
 	},
 	"483": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Prinz_Heinrich",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Heinrich",
 		"id": "483",
 		"_gid": 40309,
 		"_sid": [
@@ -107292,7 +107300,7 @@
 		]
 	},
 	"484": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-37",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-37",
 		"id": "484",
 		"_gid": 40810,
 		"_sid": [
@@ -107563,7 +107571,7 @@
 		"gallery": []
 	},
 	"485": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Weser",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Weser",
 		"id": "485",
 		"_gid": 40601,
 		"_sid": [
@@ -107838,7 +107846,7 @@
 		]
 	},
 	"486": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nürnberg",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/N%C3%BCrnberg",
 		"id": "486",
 		"_gid": 40205,
 		"_sid": [
@@ -108107,7 +108115,7 @@
 		]
 	},
 	"487": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z24",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z24",
 		"id": "487",
 		"_gid": 40124,
 		"_sid": [
@@ -108367,7 +108375,7 @@
 		"gallery": []
 	},
 	"488": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Z28",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z28",
 		"id": "488",
 		"_gid": 40128,
 		"_sid": [
@@ -108632,7 +108640,7 @@
 		]
 	},
 	"489": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Pola",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Pola",
 		"id": "489",
 		"_gid": 60303,
 		"_sid": [
@@ -108899,7 +108907,7 @@
 		]
 	},
 	"490": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vincenzo_Gioberti",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vincenzo_Gioberti",
 		"id": "490",
 		"_gid": 60103,
 		"_sid": [
@@ -109161,7 +109169,7 @@
 		"gallery": []
 	},
 	"491": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Stremitelny",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Stremitelny",
 		"id": "491",
 		"_gid": 70106,
 		"_sid": [
@@ -109422,7 +109430,7 @@
 		"gallery": []
 	},
 	"492": {
-		"wikiUrl": "https://azurlane.koumakan.jp/U-410",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-410",
 		"id": "492",
 		"_gid": 40811,
 		"_sid": [
@@ -109695,7 +109703,7 @@
 		"gallery": []
 	},
 	"493": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ying_Swei",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ying_Swei",
 		"id": "493",
 		"_gid": 50204,
 		"_sid": [
@@ -109961,7 +109969,7 @@
 		]
 	},
 	"494": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chao_Ho",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chao_Ho",
 		"id": "494",
 		"_gid": 50205,
 		"_sid": [
@@ -110224,7 +110232,7 @@
 		]
 	},
 	"495": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Penelope",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Penelope",
 		"id": "495",
 		"_gid": 20229,
 		"_sid": [
@@ -110484,7 +110492,7 @@
 		"gallery": []
 	},
 	"496": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tallinn",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tallinn",
 		"id": "496",
 		"_gid": 70301,
 		"_sid": [
@@ -110752,7 +110760,7 @@
 		]
 	},
 	"497": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gremyashchy",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gremyashchy",
 		"id": "497",
 		"_gid": 70107,
 		"_sid": [
@@ -111022,7 +111030,7 @@
 		]
 	},
 	"498": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Murmansk",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Murmansk",
 		"id": "498",
 		"_gid": 70206,
 		"_sid": [
@@ -111287,7 +111295,7 @@
 		]
 	},
 	"499": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gromky",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gromky",
 		"id": "499",
 		"_gid": 70108,
 		"_sid": [
@@ -111547,7 +111555,7 @@
 		"gallery": []
 	},
 	"500": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vittorio_Veneto",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vittorio_Veneto",
 		"id": "500",
 		"_gid": 60501,
 		"_sid": [
@@ -111822,7 +111830,7 @@
 		]
 	},
 	"501": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Duca_degli_Abruzzi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Duca_degli_Abruzzi",
 		"id": "501",
 		"_gid": 60201,
 		"_sid": [
@@ -112094,7 +112102,7 @@
 		"gallery": []
 	},
 	"502": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Aquila",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Aquila",
 		"id": "502",
 		"_gid": 60701,
 		"_sid": [
@@ -112380,7 +112388,7 @@
 		]
 	},
 	"503": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Torricelli",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Torricelli",
 		"id": "503",
 		"_gid": 60801,
 		"_sid": [
@@ -112645,7 +112653,7 @@
 		"gallery": []
 	},
 	"504": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Maestrale",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maestrale",
 		"id": "504",
 		"_gid": 60104,
 		"_sid": [
@@ -112913,7 +112921,7 @@
 		]
 	},
 	"505": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Libeccio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Libeccio",
 		"id": "505",
 		"_gid": 60105,
 		"_sid": [
@@ -113181,7 +113189,7 @@
 		]
 	},
 	"506": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nicoloso_da_Recco",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nicoloso_da_Recco",
 		"id": "506",
 		"_gid": 60106,
 		"_sid": [
@@ -113445,7 +113453,7 @@
 		"gallery": []
 	},
 	"507": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Oite",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Oite",
 		"id": "507",
 		"_gid": 30185,
 		"_sid": [
@@ -113697,7 +113705,7 @@
 		"gallery": []
 	},
 	"508": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Allen_M._Sumner",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Allen_M._Sumner",
 		"id": "508",
 		"_gid": 10145,
 		"_sid": [
@@ -113962,7 +113970,7 @@
 		]
 	},
 	"509": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Stephen_Potter",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Stephen_Potter",
 		"id": "509",
 		"_gid": 10146,
 		"_sid": [
@@ -114222,7 +114230,7 @@
 		"gallery": []
 	},
 	"510": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Amagi-chan",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Amagi-chan",
 		"id": "510",
 		"_gid": 30407,
 		"_sid": [
@@ -114444,7 +114452,7 @@
 		"gallery": []
 	},
 	"511": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ticonderoga",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ticonderoga",
 		"id": "511",
 		"_gid": 10714,
 		"_sid": [
@@ -114711,7 +114719,7 @@
 		]
 	},
 	"512": {
-		"wikiUrl": "https://azurlane.koumakan.jp/San_Francisco",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/San_Francisco",
 		"id": "512",
 		"_gid": 10314,
 		"_sid": [
@@ -114984,7 +114992,7 @@
 		]
 	},
 	"513": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Archerfish",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Archerfish",
 		"id": "513",
 		"_gid": 10806,
 		"_sid": [
@@ -115267,7 +115275,7 @@
 		]
 	},
 	"514": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Boise",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Boise",
 		"id": "514",
 		"_gid": 10229,
 		"_sid": [
@@ -115547,7 +115555,7 @@
 		]
 	},
 	"515": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Morrison",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Morrison",
 		"id": "515",
 		"_gid": 10147,
 		"_sid": [
@@ -115818,7 +115826,7 @@
 		]
 	},
 	"516": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Little_Enterprise",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Little_Enterprise",
 		"id": "516",
 		"_gid": 10799,
 		"_sid": [
@@ -116032,7 +116040,7 @@
 		"gallery": []
 	},
 	"517": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kazagumo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kazagumo",
 		"id": "517",
 		"_gid": 30186,
 		"_sid": [
@@ -116297,7 +116305,7 @@
 		]
 	},
 	"518": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ingraham",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ingraham",
 		"id": "518",
 		"_gid": 10148,
 		"_sid": [
@@ -116562,7 +116570,7 @@
 		]
 	},
 	"519": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nautilus",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nautilus",
 		"id": "519",
 		"_gid": 10807,
 		"_sid": [
@@ -116839,7 +116847,7 @@
 		]
 	},
 	"520": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Katsuragi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Katsuragi",
 		"id": "520",
 		"_gid": 30712,
 		"_sid": [
@@ -117119,7 +117127,7 @@
 		]
 	},
 	"521": {
-		"wikiUrl": "https://azurlane.koumakan.jp/New_Orleans",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/New_Orleans",
 		"id": "521",
 		"_gid": 10312,
 		"_sid": [
@@ -117367,7 +117375,7 @@
 		"gallery": []
 	},
 	"522": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Le_Terrible",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Le_Terrible",
 		"id": "522",
 		"_gid": 80107,
 		"_sid": [
@@ -117626,7 +117634,7 @@
 		"gallery": []
 	},
 	"523": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Maillé_Brézé",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maill%C3%A9_Br%C3%A9z%C3%A9",
 		"id": "523",
 		"_gid": 80108,
 		"_sid": [
@@ -117877,7 +117885,7 @@
 		"gallery": []
 	},
 	"524": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Foch",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Foch",
 		"id": "524",
 		"_gid": 90301,
 		"_sid": [
@@ -118139,7 +118147,7 @@
 		"gallery": []
 	},
 	"10061": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Marie_Rose",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marie_Rose",
 		"id": "10061",
 		"_gid": 1060001,
 		"_sid": [
@@ -118376,7 +118384,7 @@
 		"gallery": []
 	},
 	"10062": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Honoka",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Honoka",
 		"id": "10062",
 		"_gid": 1060002,
 		"_sid": [
@@ -118618,7 +118626,7 @@
 		]
 	},
 	"10063": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kasumi_(Venus_Vacation)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kasumi_(Venus_Vacation)",
 		"id": "10063",
 		"_gid": 1060003,
 		"_sid": [
@@ -118862,7 +118870,7 @@
 		]
 	},
 	"10064": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Misaki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Misaki",
 		"id": "10064",
 		"_gid": 1060004,
 		"_sid": [
@@ -119102,7 +119110,7 @@
 		]
 	},
 	"10065": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nagisa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagisa",
 		"id": "10065",
 		"_gid": 1060005,
 		"_sid": [
@@ -119344,7 +119352,7 @@
 		]
 	},
 	"10066": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nyotengu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nyotengu",
 		"id": "10066",
 		"_gid": 1060006,
 		"_sid": [
@@ -119590,7 +119598,7 @@
 		]
 	},
 	"10067": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Monica",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Monica",
 		"id": "10067",
 		"_gid": 1060007,
 		"_sid": [
@@ -119831,7 +119839,7 @@
 		]
 	},
 	"10071": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Haruka_Amami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Haruka_Amami",
 		"id": "10071",
 		"_gid": 1070001,
 		"_sid": [
@@ -120075,7 +120083,7 @@
 		"gallery": []
 	},
 	"10072": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chihaya_Kisaragi",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chihaya_Kisaragi",
 		"id": "10072",
 		"_gid": 1070002,
 		"_sid": [
@@ -120321,7 +120329,7 @@
 		"gallery": []
 	},
 	"10073": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Iori_Minase",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Iori_Minase",
 		"id": "10073",
 		"_gid": 1070003,
 		"_sid": [
@@ -120556,7 +120564,7 @@
 		"gallery": []
 	},
 	"10074": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Azusa_Miura",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Azusa_Miura",
 		"id": "10074",
 		"_gid": 1070004,
 		"_sid": [
@@ -120797,7 +120805,7 @@
 		"gallery": []
 	},
 	"10075": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ritsuko_Akizuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ritsuko_Akizuki",
 		"id": "10075",
 		"_gid": 1070005,
 		"_sid": [
@@ -121029,7 +121037,7 @@
 		"gallery": []
 	},
 	"10076": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ami_Futami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ami_Futami",
 		"id": "10076",
 		"_gid": 1070006,
 		"_sid": [
@@ -121274,7 +121282,7 @@
 		"gallery": []
 	},
 	"10077": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mami_Futami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mami_Futami",
 		"id": "10077",
 		"_gid": 1070007,
 		"_sid": [
@@ -121519,7 +121527,7 @@
 		"gallery": []
 	},
 	"10081": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Rikka_Takarada",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Rikka_Takarada",
 		"id": "10081",
 		"_gid": 1080001,
 		"_sid": [
@@ -121765,7 +121773,7 @@
 		"gallery": []
 	},
 	"10082": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Akane_Shinjo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akane_Shinjo",
 		"id": "10082",
 		"_gid": 1080002,
 		"_sid": [
@@ -122008,7 +122016,7 @@
 		"gallery": []
 	},
 	"10083": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hass",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hass",
 		"id": "10083",
 		"_gid": 1080003,
 		"_sid": [
@@ -122244,7 +122252,7 @@
 		"gallery": []
 	},
 	"10084": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Namiko",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Namiko",
 		"id": "10084",
 		"_gid": 1080004,
 		"_sid": [
@@ -122480,7 +122488,7 @@
 		"gallery": []
 	},
 	"10085": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yume_Minami",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yume_Minami",
 		"id": "10085",
 		"_gid": 1080005,
 		"_sid": [
@@ -122724,7 +122732,7 @@
 		"gallery": []
 	},
 	"10086": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chise_Asukagawa",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chise_Asukagawa",
 		"id": "10086",
 		"_gid": 1080006,
 		"_sid": [
@@ -122962,7 +122970,7 @@
 		"gallery": []
 	},
 	"10087": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mujina",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mujina",
 		"id": "10087",
 		"_gid": 1080007,
 		"_sid": [
@@ -123199,10 +123207,11 @@
 		"gallery": []
 	},
 	"30001": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hiryuu_META",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiryuu_META",
 		"id": "30001",
 		"_gid": 970701,
 		"_sid": [
+			900333,
 			9707011,
 			9707012,
 			9707013,
@@ -123210,7 +123219,7 @@
 		],
 		"_code": 30001,
 		"names": {
-			"en": "Hiryuu META",
+			"en": "Hiryu.META",
 			"code": "Hiryuu META",
 			"cn": "飞龙·META",
 			"jp": "飛龍(META)",
@@ -123231,7 +123240,7 @@
 			4,
 			3
 		],
-		"class": "Hiryuu META",
+		"class": "Hiryu.META",
 		"nationality": "META",
 		"hullType": "Aircraft Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/1/1b/Hiryuu_METAShipyardIcon.png",
@@ -123433,10 +123442,11 @@
 		"gallery": []
 	},
 	"30002": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ark_Royal_META",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ark_Royal_META",
 		"id": "30002",
 		"_gid": 970702,
 		"_sid": [
+			900334,
 			9707021,
 			9707022,
 			9707023,
@@ -123444,7 +123454,7 @@
 		],
 		"_code": 30002,
 		"names": {
-			"en": "Ark Royal META",
+			"en": "Royal.META",
 			"code": "Ark Royal META",
 			"cn": "皇家方舟·META",
 			"jp": "アーク・ロイヤル(META)",
@@ -123464,7 +123474,7 @@
 			4,
 			3
 		],
-		"class": "Ark Royal META",
+		"class": "Royal.META",
 		"nationality": "META",
 		"hullType": "Aircraft Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/4/42/Ark_Royal_METAShipyardIcon.png",
@@ -123673,7 +123683,7 @@
 		]
 	},
 	"30003": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Helena_META",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Helena_META",
 		"id": "30003",
 		"_gid": 970201,
 		"_sid": [
@@ -123904,7 +123914,7 @@
 		"gallery": []
 	},
 	"30004": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Souryuu_META",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Souryuu_META",
 		"id": "30004",
 		"_gid": 970703,
 		"_sid": [
@@ -124137,7 +124147,7 @@
 		"gallery": []
 	},
 	"30005": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fusou_META",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fusou_META",
 		"id": "30005",
 		"_gid": 970501,
 		"_sid": [
@@ -124369,7 +124379,7 @@
 		"gallery": []
 	},
 	"30006": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hiyou_META",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiyou_META",
 		"id": "30006",
 		"_gid": 970601,
 		"_sid": [
@@ -124600,7 +124610,7 @@
 		"gallery": []
 	},
 	"001": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Universal_Bulin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Universal_Bulin",
 		"id": "001",
 		"_gid": 10000,
 		"_sid": [
@@ -124815,7 +124825,7 @@
 		]
 	},
 	"002": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Prototype_Bulin_MKII",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Prototype_Bulin_MKII",
 		"id": "002",
 		"_gid": 10001,
 		"_sid": [
@@ -125017,7 +125027,7 @@
 		]
 	},
 	"003": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Specialized_Bulin_Custom_MKIII",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Specialized_Bulin_Custom_MKIII",
 		"id": "003",
 		"_gid": 10002,
 		"_sid": [
@@ -125214,7 +125224,7 @@
 		"gallery": []
 	},
 	"004": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Dewey",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dewey",
 		"id": "004",
 		"_gid": 10102,
 		"_sid": [
@@ -125479,7 +125489,7 @@
 		"gallery": []
 	},
 	"005": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cassin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cassin",
 		"id": "005",
 		"_gid": 10103,
 		"_sid": [
@@ -126016,7 +126026,7 @@
 		"gallery": []
 	},
 	"006": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Downes",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Downes",
 		"id": "006",
 		"_gid": 10104,
 		"_sid": [
@@ -126558,7 +126568,7 @@
 		]
 	},
 	"007": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gridley",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gridley",
 		"id": "007",
 		"_gid": 10105,
 		"_sid": [
@@ -126831,7 +126841,7 @@
 		]
 	},
 	"008": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Craven",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Craven",
 		"id": "008",
 		"_gid": 10106,
 		"_sid": [
@@ -127098,7 +127108,7 @@
 		"gallery": []
 	},
 	"009": {
-		"wikiUrl": "https://azurlane.koumakan.jp/McCall",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/McCall",
 		"id": "009",
 		"_gid": 10107,
 		"_sid": [
@@ -127352,7 +127362,7 @@
 		"gallery": []
 	},
 	"010": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Maury",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maury",
 		"id": "010",
 		"_gid": 10108,
 		"_sid": [
@@ -127599,7 +127609,7 @@
 		"gallery": []
 	},
 	"011": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fletcher",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fletcher",
 		"id": "011",
 		"_gid": 10109,
 		"_sid": [
@@ -127854,7 +127864,7 @@
 		"gallery": []
 	},
 	"013": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Charles_Ausburne",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Charles_Ausburne",
 		"id": "013",
 		"_gid": 10111,
 		"_sid": [
@@ -128106,7 +128116,7 @@
 		"gallery": []
 	},
 	"014": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Thatcher",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Thatcher",
 		"id": "014",
 		"_gid": 10112,
 		"_sid": [
@@ -128351,7 +128361,7 @@
 		"gallery": []
 	},
 	"015": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Aulick",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Aulick",
 		"id": "015",
 		"_gid": 10113,
 		"_sid": [
@@ -128608,7 +128618,7 @@
 		"gallery": []
 	},
 	"016": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Foote",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Foote",
 		"id": "016",
 		"_gid": 10114,
 		"_sid": [
@@ -128865,7 +128875,7 @@
 		"gallery": []
 	},
 	"017": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Spence",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Spence",
 		"id": "017",
 		"_gid": 10115,
 		"_sid": [
@@ -129122,7 +129132,7 @@
 		"gallery": []
 	},
 	"018": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Benson",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Benson",
 		"id": "018",
 		"_gid": 10116,
 		"_sid": [
@@ -129372,7 +129382,7 @@
 		"gallery": []
 	},
 	"019": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Laffey",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Laffey",
 		"id": "019",
 		"_gid": 10117,
 		"_sid": [
@@ -130138,7 +130148,7 @@
 		]
 	},
 	"026": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Sims",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sims",
 		"id": "026",
 		"_gid": 10124,
 		"_sid": [
@@ -130655,7 +130665,7 @@
 		"gallery": []
 	},
 	"027": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hammann",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hammann",
 		"id": "027",
 		"_gid": 10125,
 		"_sid": [
@@ -131239,7 +131249,7 @@
 		]
 	},
 	"028": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Eldridge",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Eldridge",
 		"id": "028",
 		"_gid": 10126,
 		"_sid": [
@@ -131570,7 +131580,7 @@
 		]
 	},
 	"029": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Omaha",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Omaha",
 		"id": "029",
 		"_gid": 10201,
 		"_sid": [
@@ -131825,7 +131835,7 @@
 		"gallery": []
 	},
 	"030": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Raleigh",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Raleigh",
 		"id": "030",
 		"_gid": 10202,
 		"_sid": [
@@ -132080,7 +132090,7 @@
 		"gallery": []
 	},
 	"031": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Brooklyn",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Brooklyn",
 		"id": "031",
 		"_gid": 10203,
 		"_sid": [
@@ -132328,7 +132338,7 @@
 		]
 	},
 	"032": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Phoenix",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Phoenix",
 		"id": "032",
 		"_gid": 10204,
 		"_sid": [
@@ -132571,7 +132581,7 @@
 		"gallery": []
 	},
 	"033": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Helena",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Helena",
 		"id": "033",
 		"_gid": 10205,
 		"_sid": [
@@ -133156,7 +133166,7 @@
 		]
 	},
 	"034": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Atlanta",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Atlanta",
 		"id": "034",
 		"_gid": 10206,
 		"_sid": [
@@ -133419,7 +133429,7 @@
 		]
 	},
 	"035": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Juneau",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Juneau",
 		"id": "035",
 		"_gid": 10207,
 		"_sid": [
@@ -133677,7 +133687,7 @@
 		"gallery": []
 	},
 	"036": {
-		"wikiUrl": "https://azurlane.koumakan.jp/San_Diego",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/San_Diego",
 		"id": "036",
 		"_gid": 10208,
 		"_sid": [
@@ -134270,7 +134280,7 @@
 		]
 	},
 	"037": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cleveland",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cleveland",
 		"id": "037",
 		"_gid": 10209,
 		"_sid": [
@@ -134278,7 +134288,8 @@
 			102092,
 			102093,
 			102094,
-			900188
+			900188,
+			900331
 		],
 		"_code": 37,
 		"names": {
@@ -134631,7 +134642,7 @@
 		]
 	},
 	"038": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Columbia",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Columbia",
 		"id": "038",
 		"_gid": 10210,
 		"_sid": [
@@ -134904,7 +134915,7 @@
 		]
 	},
 	"039": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Pensacola",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Pensacola",
 		"id": "039",
 		"_gid": 10301,
 		"_sid": [
@@ -135162,7 +135173,7 @@
 		"gallery": []
 	},
 	"040": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Salt_Lake_City",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Salt_Lake_City",
 		"id": "040",
 		"_gid": 10302,
 		"_sid": [
@@ -135404,7 +135415,7 @@
 		"gallery": []
 	},
 	"041": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Northampton",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Northampton",
 		"id": "041",
 		"_gid": 10303,
 		"_sid": [
@@ -135650,7 +135661,7 @@
 		"gallery": []
 	},
 	"042": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Chicago",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chicago",
 		"id": "042",
 		"_gid": 10304,
 		"_sid": [
@@ -135897,7 +135908,7 @@
 		"gallery": []
 	},
 	"043": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Houston",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Houston",
 		"id": "043",
 		"_gid": 10305,
 		"_sid": [
@@ -136141,7 +136152,7 @@
 		"gallery": []
 	},
 	"044": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Portland",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Portland",
 		"id": "044",
 		"_gid": 10306,
 		"_sid": [
@@ -136677,7 +136688,7 @@
 		]
 	},
 	"045": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Indianapolis",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Indianapolis",
 		"id": "045",
 		"_gid": 10307,
 		"_sid": [
@@ -136976,7 +136987,7 @@
 		]
 	},
 	"046": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Astoria",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Astoria",
 		"id": "046",
 		"_gid": 10308,
 		"_sid": [
@@ -137260,7 +137271,7 @@
 		]
 	},
 	"047": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Quincy",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Quincy",
 		"id": "047",
 		"_gid": 10309,
 		"_sid": [
@@ -137528,7 +137539,7 @@
 		]
 	},
 	"048": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vincennes",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vincennes",
 		"id": "048",
 		"_gid": 10310,
 		"_sid": [
@@ -137810,7 +137821,7 @@
 		]
 	},
 	"049": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Wichita",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Wichita",
 		"id": "049",
 		"_gid": 10311,
 		"_sid": [
@@ -138089,14 +138100,15 @@
 		"gallery": []
 	},
 	"050": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Baltimore",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Baltimore",
 		"id": "050",
 		"_gid": 10316,
 		"_sid": [
 			103161,
 			103162,
 			103163,
-			103164
+			103164,
+			900330
 		],
 		"_code": 50,
 		"names": {
@@ -138424,7 +138436,7 @@
 		]
 	},
 	"052": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nevada",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nevada",
 		"id": "052",
 		"_gid": 10501,
 		"_sid": [
@@ -138955,7 +138967,7 @@
 		"gallery": []
 	},
 	"053": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Oklahoma",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Oklahoma",
 		"id": "053",
 		"_gid": 10502,
 		"_sid": [
@@ -139486,7 +139498,7 @@
 		"gallery": []
 	},
 	"054": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Pennsylvania",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Pennsylvania",
 		"id": "054",
 		"_gid": 10503,
 		"_sid": [
@@ -139723,7 +139735,7 @@
 		"gallery": []
 	},
 	"055": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Arizona",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Arizona",
 		"id": "055",
 		"_gid": 10504,
 		"_sid": [
@@ -139957,7 +139969,7 @@
 		"gallery": []
 	},
 	"058": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tennessee",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tennessee",
 		"id": "058",
 		"_gid": 10507,
 		"_sid": [
@@ -140198,7 +140210,7 @@
 		]
 	},
 	"059": {
-		"wikiUrl": "https://azurlane.koumakan.jp/California",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/California",
 		"id": "059",
 		"_gid": 10508,
 		"_sid": [
@@ -140439,7 +140451,7 @@
 		]
 	},
 	"060": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Colorado",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Colorado",
 		"id": "060",
 		"_gid": 10509,
 		"_sid": [
@@ -140631,7 +140643,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Fallen Wings",
-				"exchange": false
+				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
@@ -140694,7 +140706,7 @@
 		"gallery": []
 	},
 	"061": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Maryland",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maryland",
 		"id": "061",
 		"_gid": 10510,
 		"_sid": [
@@ -140896,7 +140908,7 @@
 				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Fallen Wings",
-				"exchange": false
+				"exchange": "Fleet Currency"
 			}
 		},
 		"obtainedFrom": {
@@ -140944,7 +140956,7 @@
 		"gallery": []
 	},
 	"062": {
-		"wikiUrl": "https://azurlane.koumakan.jp/West_Virginia",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/West_Virginia",
 		"id": "062",
 		"_gid": 10511,
 		"_sid": [
@@ -141184,7 +141196,7 @@
 		"gallery": []
 	},
 	"063": {
-		"wikiUrl": "https://azurlane.koumakan.jp/North_Carolina",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/North_Carolina",
 		"id": "063",
 		"_gid": 10512,
 		"_sid": [
@@ -141454,7 +141466,7 @@
 		]
 	},
 	"064": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Washington",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Washington",
 		"id": "064",
 		"_gid": 10513,
 		"_sid": [
@@ -141720,7 +141732,7 @@
 		]
 	},
 	"065": {
-		"wikiUrl": "https://azurlane.koumakan.jp/South_Dakota",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/South_Dakota",
 		"id": "065",
 		"_gid": 10514,
 		"_sid": [
@@ -141986,7 +141998,7 @@
 		]
 	},
 	"068": {
-		"wikiUrl": "https://azurlane.koumakan.jp/New_Jersey",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/New_Jersey",
 		"id": "068",
 		"_gid": 10517,
 		"_sid": [
@@ -142264,7 +142276,7 @@
 		]
 	},
 	"070": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Long_Island",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Long_Island",
 		"id": "070",
 		"_gid": 10601,
 		"_sid": [
@@ -142794,7 +142806,7 @@
 		"gallery": []
 	},
 	"071": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bogue",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bogue",
 		"id": "071",
 		"_gid": 10602,
 		"_sid": [
@@ -143324,7 +143336,7 @@
 		"gallery": []
 	},
 	"072": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Langley",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Langley",
 		"id": "072",
 		"_gid": 10701,
 		"_sid": [
@@ -143860,7 +143872,7 @@
 		"gallery": []
 	},
 	"073": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Lexington",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Lexington",
 		"id": "073",
 		"_gid": 10702,
 		"_sid": [
@@ -144131,7 +144143,7 @@
 		]
 	},
 	"074": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Saratoga",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Saratoga",
 		"id": "074",
 		"_gid": 10703,
 		"_sid": [
@@ -144781,7 +144793,7 @@
 		]
 	},
 	"075": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ranger",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ranger",
 		"id": "075",
 		"_gid": 10704,
 		"_sid": [
@@ -145319,7 +145331,7 @@
 		]
 	},
 	"076": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Yorktown",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yorktown",
 		"id": "076",
 		"_gid": 10705,
 		"_sid": [
@@ -145623,7 +145635,7 @@
 		]
 	},
 	"077": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Enterprise",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Enterprise",
 		"id": "077",
 		"_gid": 10706,
 		"_sid": [
@@ -145632,7 +145644,8 @@
 			107063,
 			107064,
 			900184,
-			900252
+			900252,
+			900335
 		],
 		"_code": 77,
 		"names": {
@@ -146040,7 +146053,7 @@
 		]
 	},
 	"078": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hornet",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hornet",
 		"id": "078",
 		"_gid": 10707,
 		"_sid": [
@@ -146327,7 +146340,7 @@
 		]
 	},
 	"079": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Wasp",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Wasp",
 		"id": "079",
 		"_gid": 10708,
 		"_sid": [
@@ -146554,7 +146567,7 @@
 		"gallery": []
 	},
 	"080": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vestal",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vestal",
 		"id": "080",
 		"_gid": 11201,
 		"_sid": [
@@ -146810,7 +146823,7 @@
 		"gallery": []
 	},
 	"081": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Amazon",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Amazon",
 		"id": "081",
 		"_gid": 20101,
 		"_sid": [
@@ -147342,7 +147355,7 @@
 		]
 	},
 	"082": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Acasta",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Acasta",
 		"id": "082",
 		"_gid": 20102,
 		"_sid": [
@@ -147896,7 +147909,7 @@
 		"gallery": []
 	},
 	"083": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ardent",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ardent",
 		"id": "083",
 		"_gid": 20103,
 		"_sid": [
@@ -148436,7 +148449,7 @@
 		"gallery": []
 	},
 	"086": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Beagle",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Beagle",
 		"id": "086",
 		"_gid": 20106,
 		"_sid": [
@@ -148694,7 +148707,7 @@
 		"gallery": []
 	},
 	"087": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Bulldog",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Bulldog",
 		"id": "087",
 		"_gid": 20107,
 		"_sid": [
@@ -148952,7 +148965,7 @@
 		"gallery": []
 	},
 	"088": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Comet",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Comet",
 		"id": "088",
 		"_gid": 20108,
 		"_sid": [
@@ -149479,7 +149492,7 @@
 		]
 	},
 	"089": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Crescent",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Crescent",
 		"id": "089",
 		"_gid": 20109,
 		"_sid": [
@@ -150014,7 +150027,7 @@
 		]
 	},
 	"090": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cygnet",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cygnet",
 		"id": "090",
 		"_gid": 20110,
 		"_sid": [
@@ -150623,7 +150636,7 @@
 		]
 	},
 	"091": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Foxhound",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Foxhound",
 		"id": "091",
 		"_gid": 20111,
 		"_sid": [
@@ -151140,7 +151153,7 @@
 		"gallery": []
 	},
 	"092": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fortune",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fortune",
 		"id": "092",
 		"_gid": 20112,
 		"_sid": [
@@ -151668,7 +151681,7 @@
 		]
 	},
 	"093": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Grenville",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Grenville",
 		"id": "093",
 		"_gid": 20113,
 		"_sid": [
@@ -151919,7 +151932,7 @@
 		]
 	},
 	"094": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Glowworm",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Glowworm",
 		"id": "094",
 		"_gid": 20114,
 		"_sid": [
@@ -152193,7 +152206,7 @@
 		]
 	},
 	"096": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hardy",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hardy",
 		"id": "096",
 		"_gid": 20116,
 		"_sid": [
@@ -152445,7 +152458,7 @@
 		]
 	},
 	"Plan001": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Neptune",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Neptune",
 		"id": "Plan001",
 		"_gid": 29901,
 		"_sid": [
@@ -152758,7 +152771,7 @@
 		]
 	},
 	"Plan002": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Monarch",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Monarch",
 		"id": "Plan002",
 		"_gid": 29902,
 		"_sid": [
@@ -153085,7 +153098,7 @@
 		]
 	},
 	"Plan003": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ibuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ibuki",
 		"id": "Plan003",
 		"_gid": 39901,
 		"_sid": [
@@ -153453,7 +153466,7 @@
 		]
 	},
 	"Plan004": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Izumo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Izumo",
 		"id": "Plan004",
 		"_gid": 39902,
 		"_sid": [
@@ -153762,7 +153775,7 @@
 		]
 	},
 	"Plan005": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Roon",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Roon",
 		"id": "Plan005",
 		"_gid": 49901,
 		"_sid": [
@@ -154103,7 +154116,7 @@
 		]
 	},
 	"Plan006": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Saint_Louis",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Saint_Louis",
 		"id": "Plan006",
 		"_gid": 89901,
 		"_sid": [
@@ -154439,7 +154452,7 @@
 		]
 	},
 	"Plan007": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Seattle",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Seattle",
 		"id": "Plan007",
 		"_gid": 19901,
 		"_sid": [
@@ -154794,7 +154807,7 @@
 		]
 	},
 	"Plan008": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Georgia",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Georgia",
 		"id": "Plan008",
 		"_gid": 19902,
 		"_sid": [
@@ -155134,7 +155147,7 @@
 		]
 	},
 	"Plan009": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kitakaze",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kitakaze",
 		"id": "Plan009",
 		"_gid": 39903,
 		"_sid": [
@@ -155446,7 +155459,7 @@
 		]
 	},
 	"Plan010": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Azuma",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Azuma",
 		"id": "Plan010",
 		"_gid": 39904,
 		"_sid": [
@@ -155794,7 +155807,7 @@
 		]
 	},
 	"Plan011": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Friedrich_der_Große",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Friedrich_der_Gro%C3%9Fe",
 		"id": "Plan011",
 		"_gid": 49902,
 		"_sid": [
@@ -156131,7 +156144,7 @@
 		]
 	},
 	"Plan012": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Gascogne",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gascogne",
 		"id": "Plan012",
 		"_gid": 99901,
 		"_sid": [
@@ -156460,7 +156473,7 @@
 		]
 	},
 	"Plan013": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Cheshire",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Cheshire",
 		"id": "Plan013",
 		"_gid": 29903,
 		"_sid": [
@@ -156829,7 +156842,7 @@
 		]
 	},
 	"Plan014": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Drake",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Drake",
 		"id": "Plan014",
 		"_gid": 29904,
 		"_sid": [
@@ -157137,7 +157150,7 @@
 		]
 	},
 	"Plan015": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Mainz",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mainz",
 		"id": "Plan015",
 		"_gid": 49903,
 		"_sid": [
@@ -157436,7 +157449,7 @@
 		]
 	},
 	"Plan016": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Odin",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Odin",
 		"id": "Plan016",
 		"_gid": 49904,
 		"_sid": [
@@ -157746,7 +157759,7 @@
 		]
 	},
 	"Plan017": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Champagne",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Champagne",
 		"id": "Plan017",
 		"_gid": 89902,
 		"_sid": [
@@ -158049,7 +158062,7 @@
 		]
 	},
 	"Plan018": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Anchorage",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Anchorage",
 		"id": "Plan018",
 		"_gid": 19903,
 		"_sid": [
@@ -158351,7 +158364,7 @@
 		]
 	},
 	"Plan019": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Hakuryuu",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hakuryuu",
 		"id": "Plan019",
 		"_gid": 39905,
 		"_sid": [
@@ -158653,7 +158666,7 @@
 		]
 	},
 	"Plan020": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ägir",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/%C3%84gir",
 		"id": "Plan020",
 		"_gid": 49905,
 		"_sid": [
@@ -158960,7 +158973,7 @@
 		]
 	},
 	"Plan021": {
-		"wikiUrl": "https://azurlane.koumakan.jp/August_von_Parseval",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/August_von_Parseval",
 		"id": "Plan021",
 		"_gid": 49906,
 		"_sid": [
@@ -159267,7 +159280,7 @@
 		]
 	},
 	"Plan022": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Marco_Polo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marco_Polo",
 		"id": "Plan022",
 		"_gid": 69901,
 		"_sid": [
@@ -159563,7 +159576,7 @@
 		]
 	},
 	"Collab001": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Neptune_(Neptunia)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Neptune_(Neptunia)",
 		"id": "Collab001",
 		"_gid": 1010001,
 		"_sid": [
@@ -159773,7 +159786,7 @@
 		"gallery": []
 	},
 	"Collab002": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Noire",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Noire",
 		"id": "Collab002",
 		"_gid": 1010002,
 		"_sid": [
@@ -159982,7 +159995,7 @@
 		"gallery": []
 	},
 	"Collab003": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Blanc",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Blanc",
 		"id": "Collab003",
 		"_gid": 1010003,
 		"_sid": [
@@ -160192,7 +160205,7 @@
 		"gallery": []
 	},
 	"Collab004": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Vert",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Vert",
 		"id": "Collab004",
 		"_gid": 1010004,
 		"_sid": [
@@ -160405,7 +160418,7 @@
 		"gallery": []
 	},
 	"Collab005": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Purple_Heart",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Purple_Heart",
 		"id": "Collab005",
 		"_gid": 1010005,
 		"_sid": [
@@ -160649,7 +160662,7 @@
 		"gallery": []
 	},
 	"Collab006": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Black_Heart",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Black_Heart",
 		"id": "Collab006",
 		"_gid": 1010006,
 		"_sid": [
@@ -160885,7 +160898,7 @@
 		"gallery": []
 	},
 	"Collab007": {
-		"wikiUrl": "https://azurlane.koumakan.jp/White_Heart",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/White_Heart",
 		"id": "Collab007",
 		"_gid": 1010007,
 		"_sid": [
@@ -161120,7 +161133,7 @@
 		"gallery": []
 	},
 	"Collab008": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Green_Heart",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Green_Heart",
 		"id": "Collab008",
 		"_gid": 1010008,
 		"_sid": [
@@ -161359,7 +161372,7 @@
 		"gallery": []
 	},
 	"Collab021": {
-		"wikiUrl": "https://azurlane.koumakan.jp/22",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/22",
 		"id": "Collab021",
 		"_gid": 1020001,
 		"_sid": [
@@ -161582,7 +161595,7 @@
 		"gallery": []
 	},
 	"Collab022": {
-		"wikiUrl": "https://azurlane.koumakan.jp/33",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/33",
 		"id": "Collab022",
 		"_gid": 1020002,
 		"_sid": [
@@ -161806,7 +161819,7 @@
 		"gallery": []
 	},
 	"Collab031": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kuon",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kuon",
 		"id": "Collab031",
 		"_gid": 1030001,
 		"_sid": [
@@ -162040,7 +162053,7 @@
 		"gallery": []
 	},
 	"Collab032": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nekone",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nekone",
 		"id": "Collab032",
 		"_gid": 1030002,
 		"_sid": [
@@ -162275,7 +162288,7 @@
 		"gallery": []
 	},
 	"Collab033": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Rurutie",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Rurutie",
 		"id": "Collab033",
 		"_gid": 1030003,
 		"_sid": [
@@ -162509,7 +162522,7 @@
 		"gallery": []
 	},
 	"Collab034": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Uruuru",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Uruuru",
 		"id": "Collab034",
 		"_gid": 1030004,
 		"_sid": [
@@ -162744,7 +162757,7 @@
 		"gallery": []
 	},
 	"Collab035": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Saraana",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Saraana",
 		"id": "Collab035",
 		"_gid": 1030005,
 		"_sid": [
@@ -162979,7 +162992,7 @@
 		"gallery": []
 	},
 	"Collab036": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Fumiruiru",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Fumiruiru",
 		"id": "Collab036",
 		"_gid": 1030006,
 		"_sid": [
@@ -163214,7 +163227,7 @@
 		"gallery": []
 	},
 	"Collab041": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Kizuna_AI",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kizuna_AI",
 		"id": "Collab041",
 		"_gid": 1040001,
 		"_sid": [
@@ -163450,7 +163463,7 @@
 		"gallery": []
 	},
 	"Collab042": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Elegant_Kizuna_AI",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Elegant_Kizuna_AI",
 		"id": "Collab042",
 		"_gid": 1040002,
 		"_sid": [
@@ -163670,7 +163683,7 @@
 		"gallery": []
 	},
 	"Collab043": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Anniversary_Kizuna_AI",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Anniversary_Kizuna_AI",
 		"id": "Collab043",
 		"_gid": 1040003,
 		"_sid": [
@@ -163894,7 +163907,7 @@
 		"gallery": []
 	},
 	"Collab044": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Super_Gamer_Kizuna_AI",
 		"id": "Collab044",
 		"_gid": 1040004,
 		"_sid": [
@@ -164116,7 +164129,7 @@
 		"gallery": []
 	},
 	"Collab051": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Shirakami_Fubuki",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shirakami_Fubuki",
 		"id": "Collab051",
 		"_gid": 1050001,
 		"_sid": [
@@ -164359,7 +164372,7 @@
 		]
 	},
 	"Collab052": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Tokino_Sora",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tokino_Sora",
 		"id": "Collab052",
 		"_gid": 1050002,
 		"_sid": [
@@ -164601,7 +164614,7 @@
 		]
 	},
 	"Collab053": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Minato_Aqua",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Minato_Aqua",
 		"id": "Collab053",
 		"_gid": 1050003,
 		"_sid": [
@@ -164863,7 +164876,7 @@
 		]
 	},
 	"Collab054": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Natsuiro_Matsuri",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Natsuiro_Matsuri",
 		"id": "Collab054",
 		"_gid": 1050004,
 		"_sid": [
@@ -165104,7 +165117,7 @@
 		]
 	},
 	"Collab055": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Nakiri_Ayame",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Nakiri_Ayame",
 		"id": "Collab055",
 		"_gid": 1050005,
 		"_sid": [
@@ -165343,7 +165356,7 @@
 		]
 	},
 	"Collab056": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Murasaki_Shion",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Murasaki_Shion",
 		"id": "Collab056",
 		"_gid": 1050006,
 		"_sid": [
@@ -165585,7 +165598,7 @@
 		]
 	},
 	"Collab057": {
-		"wikiUrl": "https://azurlane.koumakan.jp/Ookami_Mio",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ookami_Mio",
 		"id": "Collab057",
 		"_gid": 1050007,
 		"_sid": [

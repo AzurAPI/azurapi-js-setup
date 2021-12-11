@@ -97,13 +97,13 @@ async function fillNames(names: ShipNames): Promise<[ShipNames, ShipExists]> {
 }
 
 
-export async function parseShip(id: string, name: string, body: string): Promise<Ship> {
+export async function parseShip(id: string, name: string, body: string, url: string): Promise<Ship> {
     const doc = new JSDOM(body).window.document;
     let tableInfo = parseTable(doc.querySelector(".nomobile table tbody"));
     let nationality = tableInfo.Faction;
     let referenceShip = findShip(id, name, nationality);
     let ship = new Ship();
-    ship.wikiUrl = `${BASE}/${name.replace(/ +/g, "_")}`;
+    ship.wikiUrl = url;
     ship.id = id;
 
     let fillers = await fillNames(referenceShip.name);

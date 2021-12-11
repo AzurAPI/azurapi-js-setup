@@ -58,7 +58,7 @@ export async function refreshShips() {
 async function fetchShip(id: string, {name, url}: { name: string, url: string }): Promise<Ship> {
     // if (SHIPS_INTERNAL[id]) return SHIPS_INTERNAL[id];
     let data = await fetch(`https://azurlane.koumakan.jp${url}`, path.join(ROOT, `web/ships/${name}.html`));
-    let ship = await parseShip(id, name, data);
+    let ship = await parseShip(id, name, data, `https://azurlane.koumakan.jp${url}`);
     let gallery = await fetchGallery(name, url);
     ship.skins = gallery.skins;
     ship.gallery = gallery.gallery;
