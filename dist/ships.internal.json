@@ -101001,7 +101001,8 @@
 			"code": "HMS Eskimo",
 			"cn": "爱斯基摩人",
 			"jp": "エスキモー",
-			"kr": "에스키모"
+			"kr": "에스키모",
+			"tw": "愛斯基摩"
 		},
 		"exists": {
 			"en": true,
@@ -117370,6 +117371,22 @@
 					"live2dModel": false,
 					"obtainedFrom": "Default"
 				}
+			},
+			{
+				"name": "Evening Agricole",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/7e/New_OrleansBunny.png/554px-New_OrleansBunny.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/c/c7/New_OrleansBunnyWithoutBG.png/275px-New_OrleansBunnyWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/4/46/New_OrleansBunnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Evening Agricole",
+					"cnClient": "沉醉的干杯之夜",
+					"jpClient": "アグリコールの夜",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": []
@@ -124418,64 +124435,64 @@
 		"stars": 5,
 		"stats": {
 			"baseStats": {
-				"health": "",
+				"health": "1128",
 				"armor": "Medium",
-				"reload": "",
-				"luck": "",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
-				"speed": "",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"reload": "71",
+				"luck": "43",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "17",
+				"speed": "26",
+				"antiair": "48",
+				"aviation": "61",
+				"oilConsumption": "7",
+				"accuracy": "26",
+				"antisubmarineWarfare": "17"
 			},
 			"level100": {
-				"health": "",
+				"health": "6150",
 				"armor": "Medium",
-				"reload": "",
-				"luck": "",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
-				"speed": "",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"reload": "182",
+				"luck": "43",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "73",
+				"speed": "26",
+				"antiair": "277",
+				"aviation": "309",
+				"oilConsumption": "13",
+				"accuracy": "105",
+				"antisubmarineWarfare": "71"
 			},
 			"level120": {
-				"health": "",
+				"health": "6562",
 				"armor": "Medium",
-				"reload": "",
-				"luck": "",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
-				"speed": "",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"reload": "193",
+				"luck": "43",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "80",
+				"speed": "26",
+				"antiair": "290",
+				"aviation": "326",
+				"oilConsumption": "13",
+				"accuracy": "113",
+				"antisubmarineWarfare": "76"
 			},
 			"level125": {
-				"health": "",
+				"health": "6665",
 				"armor": "Medium",
-				"reload": "",
-				"luck": "",
-				"firepower": "",
-				"torpedo": "",
-				"evasion": "",
-				"speed": "",
-				"antiair": "",
-				"aviation": "",
-				"oilConsumption": "",
-				"accuracy": "",
-				"antisubmarineWarfare": ""
+				"reload": "195",
+				"luck": "43",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "81",
+				"speed": "26",
+				"antiair": "294",
+				"aviation": "330",
+				"oilConsumption": "13",
+				"accuracy": "115",
+				"antisubmarineWarfare": "78"
 			}
 		},
 		"slots": [
@@ -124505,8 +124522,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_800220.png",
 				"names": {
 					"en": "Stormchasing Blade",
-					"cn": null,
-					"jp": null
+					"cn": "追襲・風切",
+					"jp": "翱翔之翼"
 				},
 				"description": "When this ship launches an Airstrike: launches an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
 				"color": "pink"
@@ -124515,8 +124532,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/f/fd/Skill_800230.png",
 				"names": {
 					"en": "Falcon's Talons",
-					"cn": null,
-					"jp": null
+					"cn": "鷹の挟撃",
+					"jp": "鹰之合击"
 				},
 				"description": "At the start of the battle, if Junyou is afloat in your fleet: increases this ship's AVI and ACC by 1% (10%).",
 				"color": "gold"
@@ -124525,8 +124542,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/9/92/Skill_800240.png",
 				"names": {
 					"en": "Concealing Downpour",
-					"cn": null,
-					"jp": null
+					"cn": "守勢・雨覆",
+					"jp": "戢羽待发"
 				},
 				"description": "At the start of the battle, if this ship has Sakura Empire aircraft equipped: increases this ship's max Detection Gauge value by 15; if not equipping any, instead decreases this ship's DMG taken by 5% (15%).",
 				"color": "deepskyblue"
@@ -124535,8 +124552,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/c/cd/Skill_800250.png",
 				"names": {
 					"en": "Ashen Might·Hiyou",
-					"cn": null,
-					"jp": null
+					"cn": "炬火の力-飛鷹Ⅱ",
+					"jp": "破敌之炬·飛鷹II"
 				},
 				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2% (6%).",
 				"color": "pink"
@@ -124592,7 +124609,8 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Seiko Yoshida",
+				"url": "https://en.wikipedia.org/wiki/Seiko_Yoshida"
 			}
 		},
 		"skins": [
@@ -124601,6 +124619,237 @@
 				"image": "https://azurlane.netojuu.com/w/images/thumb/d/da/Hiyou_META.png/577px-Hiyou_META.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/c/c8/Hiyou_METAChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"30007": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gneisenau_META",
+		"id": "30007",
+		"_gid": 970401,
+		"_sid": [
+			9704011,
+			9704012,
+			9704013,
+			9704014
+		],
+		"_code": 30007,
+		"names": {
+			"en": "Gneisenau META",
+			"code": "Gneisenau.META",
+			"cn": "格奈森瑙·META",
+			"jp": "グナイゼナウ(META)",
+			"kr": "Gneisenau META"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			1,
+			2,
+			4
+		],
+		"class": "Gneisenau META",
+		"nationality": "META",
+		"hullType": "Battlecruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/b/b3/Gneisenau_METAShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1288",
+				"armor": "Medium",
+				"reload": "60",
+				"luck": "64",
+				"firepower": "74",
+				"torpedo": "31",
+				"evasion": "6",
+				"speed": "31",
+				"antiair": "54",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "16",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "7019",
+				"armor": "Medium",
+				"reload": "155",
+				"luck": "64",
+				"firepower": "370",
+				"torpedo": "159",
+				"evasion": "30",
+				"speed": "31",
+				"antiair": "272",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "59",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7489",
+				"armor": "Medium",
+				"reload": "164",
+				"luck": "64",
+				"firepower": "389",
+				"torpedo": "168",
+				"evasion": "34",
+				"speed": "31",
+				"antiair": "287",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "64",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7607",
+				"armor": "Medium",
+				"reload": "166",
+				"luck": "64",
+				"firepower": "394",
+				"torpedo": "170",
+				"evasion": "35",
+				"speed": "31",
+				"antiair": "291",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "65",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 100,
+				"type": "BB Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 200,
+				"minEfficiency": 200,
+				"type": "CL/DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": null,
+		"scrapValue": null,
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c5/Skill_800260.png",
+				"names": {
+					"en": "Seething Chains",
+					"cn": "シュトェールング・チェーン",
+					"jp": "焰光之链"
+				},
+				"description": "When this ship fires her Main Guns: 100.0% chance to fire a Lv.10 special barrage that inflicts a unique Burn ailment (DMG is based on the skill's level; Burn ailment lasts 6s and inflicts 76 DMG per second).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/b1/Skill_800270.png",
+				"names": {
+					"en": "Disruption Wave",
+					"cn": "カイゼル・ウェーブ",
+					"jp": "波乱雷光"
+				},
+				"description": "Every 15s: fires a Lv.10 special torpedo barrage (DMG is based on the skill's level). Enemies hit by this barrage take 8.0% increased DMG from Gneisenau META for 10s. Whenever this skill activates or whenever this ship sinks an enemy: increases this ship's Crit Rate by 3.0% (can be stacked up to 3 times).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/a/a6/Skill_800280.png",
+				"names": {
+					"en": "Memory Mining",
+					"cn": "フェスマール・マイニング",
+					"jp": "血忆之宴"
+				},
+				"description": "Increases this ship's FP and AA by 5.0%. If this ship is equipped with Iron Blood gear: increases this ship's FP by an additional 5.0% and decreases your Vanguard's DMG taken from Torpedoes by 5.0%; Otherwise, instead decreases your Vanguard's DMG taken from aircraft by 8.0%.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/5/5e/Skill_800290.png",
+				"names": {
+					"en": "Cinders of Hope - Gneisenau II",
+					"cn": "焔追の灰-グナイゼナウⅡ",
+					"jp": "逐光之焰·格奈森瑙II"
+				},
+				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 8.0%.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock Cinders of Hope - Gneisenau",
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Unlock special secondary guns",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve Cinders of Hope - Gneisenau",
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Minami Shinoda",
+				"url": "https://www.imdb.com/name/nm7468916/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/da/Gneisenau_META.png/511px-Gneisenau_META.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/37/Gneisenau_METAChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
@@ -142156,7 +142405,7 @@
 					"cn": "Big J",
 					"jp": "こういうの好きなんでしょ？"
 				},
-				"description": "Increases this ship's FP by 5% (15%) and RLD by 1% (10%). If this ship is sortied with another Eagle Union ship, increase the AA stat by 5% (15%) for all Eagle Union ships in your fleet, decrease their damage taken by 5%, and increase the FP stat by 4% (10%) for all Eagle Union BBs and BCs in your fleet.",
+				"description": "Increases this ship's FP by 5% (15%) and RLD by 1% (10%). If this ship is sortied with another Eagle Union ship:\nIncrease the AA stat by 5% (15%) for all Eagle Union ships in your fleet.\nDecrease their damage taken by 5%.\nIncrease the FP stat by 4% (10%) for all Eagle Union BBs and BCs in your fleet (including this ship).",
 				"color": "gold"
 			}
 		],
