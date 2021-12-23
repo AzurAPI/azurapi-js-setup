@@ -12201,7 +12201,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an Airstrike: 15% (25%) chance for the Airstrike to deal double DMG. Effect lasts for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
 				"color": "pink"
 			},
 			{
@@ -13402,7 +13402,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an Airstrike: 15% (25%) chance for the Airstrike to deal double DMG. Effect lasts for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
 				"color": "pink"
 			},
 			{
@@ -14328,7 +14328,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an Airstrike: 15% (25%) chance for the Airstrike to deal double DMG. Effect lasts for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
 				"color": "pink"
 			}
 		],
@@ -44450,10 +44450,6 @@
 			{
 				"description": "Admiral Hipper and Z46 watch Admiral Graf Spee make Valentines chocolate",
 				"url": "https://azurlane.netojuu.com/w/images/7/70/Bg_valentines_2.png"
-			},
-			{
-				"description": "Bismarck and Admiral Hipper",
-				"url": "https://azurlane.netojuu.com/w/images/0/06/Bg_bismarck_1.png"
 			},
 			{
 				"description": "Ibuki, Izumo, Admiral Hipper, Roon, Friedrich der Große",
@@ -104169,7 +104165,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an Airstrike: 15% (25%) chance for the Airstrike to deal double DMG. Effect lasts for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
 				"color": "pink"
 			}
 		],
@@ -117276,7 +117272,7 @@
 					"cn": "Nola Finale",
 					"jp": "ノーラ・フィナーレ"
 				},
-				"description": "Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: fires a Lv. 1 (Lv. 10) special barrage (DMG is based on the skill's level) and deploys a barrier that can block 3.5% (8%) DMG and lasts up to 8s. If this barrier is destroyed: heals this ship for 1.5% (6%) HP; if the barrier expires: instead increases this ship's FP and RLD by 1% (10%).",
+				"description": "Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: fires a Lv. 1 (Lv. 10) special barrage (DMG is based on the skill's level) & deploys a barrier that can absorb DMG up to 3.5% (8%) of this ship's max HP and lasts up to 8s. If this barrier is destroyed: heals this ship for 1.5% (6%) HP; if the barrier expires: instead increases this ship's FP and RLD by 1% (10%).",
 				"color": "deepskyblue"
 			},
 			{
@@ -145236,7 +145232,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an airstrike, 15% (25%) chance to increase this ship's DMG dealt by 100% for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
 				"color": "pink"
 			}
 		],
@@ -146451,7 +146447,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an Airstrike: 15% (25%) chance for the Airstrike to deal double DMG. Effect lasts for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
 				"color": "pink"
 			}
 		],
