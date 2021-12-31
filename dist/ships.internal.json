@@ -3394,6 +3394,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Sirius, Dido",
+				"url": "https://azurlane.netojuu.com/w/images/e/ec/Bg_2021.12.23_2.png"
+			},
+			{
 				"description": "Dido, Sirius, Minneapolis, Belfast, Little Bel",
 				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_2021.09.30_3.png"
 			},
@@ -3686,6 +3690,21 @@
 					"cnClient": "新年的LittleKnight",
 					"jpClient": "お正月のリトルナイト",
 					"cost": 780
+				}
+			},
+			{
+				"name": "Afternoon Impromptu",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/f7/SouthamptonMaid.png/631px-SouthamptonMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/6f/SouthamptonMaidWithoutBG.png/599px-SouthamptonMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a1/SouthamptonMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Manjuu Curling Reward - Play the minigame for 7 days",
+					"enClient": "Afternoon Impromptu",
+					"cnClient": "午后的休闲旋律",
+					"jpClient": "午後のクロチェット"
 				}
 			}
 		],
@@ -4943,6 +4962,10 @@
 			{
 				"description": "Belfast serving tea to other Royal Navy ships",
 				"url": "https://azurlane.netojuu.com/w/images/b/b0/Bg_hms_capital_1.png"
+			},
+			{
+				"description": "Belfast and Little Bel by Raiou – the end card of Episode 9 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/9/90/Slow_Ahead%21_Episode_9_End_Card.jpg"
 			}
 		]
 	},
@@ -10016,9 +10039,33 @@
 					"jpClient": "金運のプレミアムロイヤル",
 					"cost": 800
 				}
+			},
+			{
+				"name": "Yes, Your Maidness!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/9/93/Queen_ElizabethMaid.png/594px-Queen_ElizabethMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/61/Queen_ElizabethMaidWithoutBG.png/384px-Queen_ElizabethMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0f/Queen_ElizabethMaidChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Yes, Your Maidness!",
+					"cnClient": "Maid·My·Highness",
+					"jpClient": "メイド・マイ・ハイネス",
+					"cost": 1080
+				}
 			}
 		],
 		"gallery": [
+			{
+				"description": "Queen Elizabeth, Howe, Penelope",
+				"url": "https://azurlane.netojuu.com/w/images/2/2f/Bg_2021.12.29_3.png"
+			},
+			{
+				"description": "Icarus, Queen Elizabeth",
+				"url": "https://azurlane.netojuu.com/w/images/8/88/Bg_2021.12.29_2.png"
+			},
 			{
 				"description": "Neptune, Perseus, Unicorn, Queen Elizabeth, Warspite, Valiant",
 				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_2021.09.16_8.png"
@@ -11192,8 +11239,12 @@
 		],
 		"gallery": [
 			{
-				"description": "Many Royal Navy ships in 1 big party",
+				"description": "Many Royal Navy ships in one big party",
 				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_hms_1.png"
+			},
+			{
+				"description": "Future Seaside Admiral Rodney and Nelson by Oekakizuki – the end card of Episode 4 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/4/45/Slow_Ahead%21_Episode_4_End_Card.jpg"
 			}
 		]
 	},
@@ -11398,7 +11449,7 @@
 			"constructionTime": "04:50:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Scherzo of Iron and Blood",
 				"exchange": "Merit"
@@ -17335,6 +17386,22 @@
 					"jpClient": "モーターニンジャ暁",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Santa's Lost Helper!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/37/AkatsukiChristmas.png/523px-AkatsukiChristmas.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/01/AkatsukiChristmasWithoutBG.png/458px-AkatsukiChristmasWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/b/b9/Skin_BG_125.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/4/42/AkatsukiChristmasChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Santa's Lost Helper!",
+					"cnClient": "驯鹿忍者派送中！",
+					"jpClient": "トナカイニンジャ発進！",
+					"cost": 800
+				}
 			}
 		],
 		"gallery": []
@@ -19073,6 +19140,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Helena, Yuudachi",
+				"url": "https://azurlane.netojuu.com/w/images/b/bc/Bg_2021.11.18_1.png"
+			},
 			{
 				"description": "U-522, Akashi, Vampire, Ning Hai, Ping Hai, Prinz Eugen, Yuudachi",
 				"url": "https://azurlane.netojuu.com/w/images/0/01/BG_2021.06.10_1.png"
@@ -31315,6 +31386,22 @@
 					"live2dModel": false,
 					"obtainedFrom": "Default"
 				}
+			},
+			{
+				"name": "Tidy Store, Tidy Mind",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/e9/ChoukaiMaid.png/645px-ChoukaiMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/6a/ChoukaiMaidWithoutBG.png/547px-ChoukaiMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/e/e5/ChoukaiMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Tidy Store, Tidy Mind",
+					"cnClient": "清心风景",
+					"jpClient": "清心燦々",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": []
@@ -37587,6 +37674,14 @@
 		],
 		"gallery": [
 			{
+				"description": "Kaga, Akagi",
+				"url": "https://azurlane.netojuu.com/w/images/2/2f/Bg_2021.12.29_11.png"
+			},
+			{
+				"description": "Akagi, Amagi, Kaga",
+				"url": "https://azurlane.netojuu.com/w/images/0/05/Bg_2021.12.29_12.png"
+			},
+			{
 				"description": "Akagi and Kaga",
 				"url": "https://azurlane.netojuu.com/w/images/3/37/Bg_2021.06.03_10.png"
 			},
@@ -37938,6 +38033,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Kaga, Akagi",
+				"url": "https://azurlane.netojuu.com/w/images/2/2f/Bg_2021.12.29_11.png"
+			},
 			{
 				"description": "Akagi and Kaga",
 				"url": "https://azurlane.netojuu.com/w/images/3/37/Bg_2021.06.03_10.png"
@@ -39428,6 +39527,10 @@
 			{
 				"description": "Shoukaku loading screen",
 				"url": "https://azurlane.netojuu.com/w/images/d/dd/Bg_shoukaku_1.png"
+			},
+			{
+				"description": "Shoukaku, Zuikaku, Maya and Haruna by Jouzu Himiya (Himiya Ramune) – the end card of Episode 10 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/7/72/Slow_Ahead%21_Episode_10_End_Card.jpg"
 			}
 		]
 	},
@@ -39713,6 +39816,10 @@
 			{
 				"description": "Login screen depicting Shoukaku and Zuikaku during  Visitors Dyed in Red",
 				"url": "https://azurlane.netojuu.com/w/images/c/c0/Bg_cranes_1.png"
+			},
+			{
+				"description": "Shoukaku, Zuikaku, Maya and Haruna by Jouzu Himiya (Himiya Ramune) – the end card of Episode 10 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/7/72/Slow_Ahead%21_Episode_10_End_Card.jpg"
 			}
 		]
 	},
@@ -40039,6 +40146,10 @@
 			{
 				"description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
 				"url": "https://azurlane.netojuu.com/w/images/3/35/Bg_EN_1st_anni.png"
+			},
+			{
+				"description": "Taihou and Albacore by Karory – the end card of Episode 7 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/7/75/Slow_Ahead%21_Episode_7_End_Card.jpg"
 			}
 		]
 	},
@@ -44169,6 +44280,22 @@
 					"live2dModel": false,
 					"obtainedFrom": "Retrofit"
 				}
+			},
+			{
+				"name": "Storefront Training",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/be/LeipzigMaid.png/624px-LeipzigMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/8/84/LeipzigMaidWithoutBG.png/223px-LeipzigMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/f6/LeipzigMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Storefront Training",
+					"cnClient": "前台接待·练习中",
+					"jpClient": "フロントウェイ·トレーニング",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": [
@@ -46185,7 +46312,7 @@
 			"constructionTime": "06:00:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Scherzo of Iron and Blood",
 				"exchange": false
@@ -46234,6 +46361,22 @@
 					"jpClient": "鉄血の威光",
 					"cost": 1180
 				}
+			},
+			{
+				"name": "Iron-Black Elysium",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/8/80/BismarckMaid.png/595px-BismarckMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/5/59/BismarckMaidWithoutBG.png/284px-BismarckMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/73/BismarckMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Iron-Black Elysium",
+					"cnClient": "黑铁·至福乐土",
+					"jpClient": "アイアンブラック・エリュシオン",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
@@ -46260,6 +46403,10 @@
 			{
 				"description": "Bismarck on her update background",
 				"url": "https://azurlane.netojuu.com/w/images/3/38/Updatebg_Iron.png"
+			},
+			{
+				"description": "Bismarck, Tirpitz, Graf Zeppelin, U-556 and Z46 by Lefthand – the end card of Episode 6 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/2/20/Slow_Ahead%21_Episode_6_End_Card.jpg"
 			}
 		]
 	},
@@ -51269,9 +51416,37 @@
 					"jpClient": "切り絵のファンタジア",
 					"cost": 900
 				}
+			},
+			{
+				"name": "Chronicles of the Dust Wars",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/ed/Z46Maid.png/497px-Z46Maid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/3/39/Z46MaidWithoutBG.png/383px-Z46MaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/73/Z46MaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Chronicles of the Dust Wars",
+					"cnClient": "无尽的尘埃之战",
+					"jpClient": "終わりなきホコリとの闘争",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
+			{
+				"description": "Ulrich von Hutten, Z46, Bismarck",
+				"url": "https://azurlane.netojuu.com/w/images/2/2d/Bg_2021.12.29_8.png"
+			},
+			{
+				"description": "Ulrich von Hutten, Noshiro, Z46",
+				"url": "https://azurlane.netojuu.com/w/images/4/44/Bg_2021.12.29_6.png"
+			},
+			{
+				"description": "Z46, Bismarck, Ulrich von Hutten",
+				"url": "https://azurlane.netojuu.com/w/images/9/91/Bg_2021.12.29_7.png"
+			},
 			{
 				"description": "Tashkent, Queen Elizabeth, Warspite, and Z46 on a phone camera",
 				"url": "https://azurlane.netojuu.com/w/images/2/2f/Bg_2021.05.27_5.png"
@@ -51305,7 +51480,7 @@
 				"url": "https://azurlane.netojuu.com/w/images/7/70/Bg_valentines_2.png"
 			},
 			{
-				"description": "Amagi, Amazon, Z46, North Carolina, and i-13 at an arcade",
+				"description": "Amagi, Amazon, Z46, North Carolina, and I-13 at an arcade",
 				"url": "https://azurlane.netojuu.com/w/images/6/61/Bg_arcade.png"
 			}
 		]
@@ -63003,9 +63178,33 @@
 					"jpClient": "安寧の六畳",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Hold the Ice",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/ca/NoshiroMaid.png/498px-NoshiroMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/06/NoshiroMaidWithoutBG.png/291px-NoshiroMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/c4/NoshiroMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Hold the Ice",
+					"cnClient": "需要少冰吗？",
+					"jpClient": "氷は少なめに？",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
+			{
+				"description": "Ulrich von Hutten, Noshiro, Z46",
+				"url": "https://azurlane.netojuu.com/w/images/4/44/Bg_2021.12.29_6.png"
+			},
+			{
+				"description": "Penelope, Noshiro, Howe",
+				"url": "https://azurlane.netojuu.com/w/images/8/8c/Bg_2021.12.29_9.png"
+			},
 			{
 				"description": "Noshiro",
 				"url": "https://azurlane.netojuu.com/w/images/4/4d/BG_2021.06.10_9.png"
@@ -65879,6 +66078,10 @@
 			{
 				"description": "Little Bel baking",
 				"url": "https://azurlane.netojuu.com/w/images/c/c5/Bg_belchan_1.png"
+			},
+			{
+				"description": "Belfast and Little Bel by Raiou – the end card of Episode 9 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/9/90/Slow_Ahead%21_Episode_9_End_Card.jpg"
 			}
 		]
 	},
@@ -68092,6 +68295,20 @@
 					"cnClient": "静谧一隅",
 					"jpClient": "Eigenen Raum",
 					"cost": 880
+				}
+			},
+			{
+				"name": "Urban Maid",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b0/U-47Maid.png/565px-U-47Maid.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/6d/U-47MaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Urban Maid",
+					"cnClient": "女仆极速达",
+					"jpClient": "Urban Maid's",
+					"cost": 800
 				}
 			}
 		],
@@ -71322,6 +71539,10 @@
 			{
 				"description": "Dunkerque with Washington, Ping Hai and Ning Hai",
 				"url": "https://azurlane.netojuu.com/w/images/5/51/Bg_washington_1.png"
+			},
+			{
+				"description": "Afternoon Venus Dunkerque and Émile Bertin by Osisio – the end card of Episode 5 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/1/16/Slow_Ahead%21_Episode_5_End_Card.jpg"
 			}
 		]
 	},
@@ -73005,6 +73226,22 @@
 					"cnClient": "黑裙下的「秘密」",
 					"jpClient": "ミッション・アカンプリス",
 					"cost": 900
+				}
+			},
+			{
+				"name": "A Catty Surprise!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/44/AlbacoreMaid.png/420px-AlbacoreMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/13/AlbacoreMaidWithoutBG.png/623px-AlbacoreMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/8f/AlbacoreMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "A Catty Surprise!",
+					"cnClient": "箱子里的“惊喜”",
+					"jpClient": "びっくり箱からサプラ～イズだにゃ！",
+					"cost": 880
 				}
 			}
 		],
@@ -75710,6 +75947,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Akagi, Amagi, Kaga",
+				"url": "https://azurlane.netojuu.com/w/images/0/05/Bg_2021.12.29_12.png"
+			},
+			{
 				"description": "Amagi, Mikasa, Atago, Takao",
 				"url": "https://azurlane.netojuu.com/w/images/d/de/BG_2021.06.10_6.png"
 			},
@@ -76810,6 +77051,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Sirius, Dido",
+				"url": "https://azurlane.netojuu.com/w/images/e/ec/Bg_2021.12.23_2.png"
+			},
 			{
 				"description": "Dido, Sirius, Minneapolis, Belfast, Little Bel",
 				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_2021.09.30_3.png"
@@ -81537,7 +81782,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP Only",
+				"aviation": true,
 				"limited": "Only during event: Scherzo of Iron and Blood",
 				"exchange": false
 			}
@@ -81825,7 +82070,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP Only",
+				"aviation": true,
 				"limited": "Only during event: Scherzo of Iron and Blood",
 				"exchange": false
 			}
@@ -92181,6 +92426,22 @@
 					"jpClient": "優等生なんだからっ",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Uneventful Holiday Greetings",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3b/SurugaChristmas.png/580px-SurugaChristmas.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/0a/SurugaChristmasWithoutBG.png/359px-SurugaChristmasWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/5/56/Skin_BG_151.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/34/SurugaChristmasChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Uneventful Holiday Greetings",
+					"cnClient": "“不情愿”的圣夜祭",
+					"jpClient": "望まぬ聖夜祭",
+					"cost": 1180
+				}
 			}
 		],
 		"gallery": [
@@ -101482,9 +101743,35 @@
 					"jpClient": "ノーブルラウンジ",
 					"cost": 880
 				}
+			},
+			{
+				"name": "Pastry Princess",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/9/96/HoweMaid.png/432px-HoweMaid.png",
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/e/e1/HoweMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Pastry Princess",
+					"cnClient": "Cookie·Maid·Princess",
+					"jpClient": "クッキー・メイド・プリンセス",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
+			{
+				"description": "Queen Elizabeth, Howe, Penelope",
+				"url": "https://azurlane.netojuu.com/w/images/2/2f/Bg_2021.12.29_3.png"
+			},
+			{
+				"description": "Howe, Penelope, Queen Elizabeth",
+				"url": "https://azurlane.netojuu.com/w/images/2/20/Bg_2021.12.29_5.png"
+			},
+			{
+				"description": "Penelope, Noshiro, Howe",
+				"url": "https://azurlane.netojuu.com/w/images/8/8c/Bg_2021.12.29_9.png"
+			},
 			{
 				"description": "Hermione, Eagle, Howe",
 				"url": "https://azurlane.netojuu.com/w/images/b/b5/Bg_2020.07.23_1.png"
@@ -102628,9 +102915,30 @@
 					"jpClient": "ネレウス・デスカバリー",
 					"cost": 780
 				}
+			},
+			{
+				"name": "At Your Service",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/11/IcarusMaid.png/562px-IcarusMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b5/IcarusMaidWithoutBG.png/519px-IcarusMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/c0/IcarusMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "At Your Service",
+					"cnClient": "女仆与猫与下午茶",
+					"jpClient": "アイアムレディ",
+					"cost": 780
+				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Icarus, Queen Elizabeth",
+				"url": "https://azurlane.netojuu.com/w/images/8/88/Bg_2021.12.29_2.png"
+			}
+		]
 	},
 	"466": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Z26",
@@ -103111,7 +103419,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP Only",
+				"aviation": true,
 				"limited": "Only during event: Scherzo of Iron and Blood Rerun",
 				"exchange": false
 			}
@@ -106735,7 +107043,8 @@
 			"code": "KMS Peter Strasser",
 			"cn": "彼得·史特拉塞",
 			"jp": "ペーター・シュトラッサー",
-			"kr": "페터 슈트라서"
+			"kr": "페터 슈트라서",
+			"tw": "彼得·史特拉塞"
 		},
 		"exists": {
 			"en": true,
@@ -107021,7 +107330,8 @@
 			"code": "KMS Prinz Heinrich",
 			"cn": "海因里希亲王",
 			"jp": "プリンツ・ハインリヒ",
-			"kr": "프린츠 하인리히"
+			"kr": "프린츠 하인리히",
+			"tw": "海因里希親王"
 		},
 		"exists": {
 			"en": true,
@@ -107312,7 +107622,8 @@
 			"code": "KMS U-37",
 			"cn": "U-37",
 			"jp": "U-37",
-			"kr": "U-37"
+			"kr": "U-37",
+			"tw": "U-37"
 		},
 		"exists": {
 			"en": true,
@@ -107583,7 +107894,8 @@
 			"code": "KMS Weser",
 			"cn": "威悉",
 			"jp": "ヴェーザー",
-			"kr": "베저"
+			"kr": "베저",
+			"tw": "威悉"
 		},
 		"exists": {
 			"en": true,
@@ -107858,7 +108170,8 @@
 			"code": "KMS Nürnberg",
 			"cn": "纽伦堡",
 			"jp": "ニュルンベルク",
-			"kr": "뉘른베르크"
+			"kr": "뉘른베르크",
+			"tw": "紐倫堡"
 		},
 		"exists": {
 			"en": true,
@@ -108127,7 +108440,8 @@
 			"code": "KMS Z24",
 			"cn": "Z24",
 			"jp": "Z24",
-			"kr": "Z24"
+			"kr": "Z24",
+			"tw": "Z24"
 		},
 		"exists": {
 			"en": true,
@@ -108387,7 +108701,8 @@
 			"code": "KMS Z28",
 			"cn": "Z28",
 			"jp": "Z28",
-			"kr": "Z28"
+			"kr": "Z28",
+			"tw": "Z28"
 		},
 		"exists": {
 			"en": true,
@@ -110484,9 +110799,38 @@
 					"jpClient": "ヒーリングレッド",
 					"cost": 800
 				}
+			},
+			{
+				"name": "Salty Maid",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/6f/PenelopeMaid.png/705px-PenelopeMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/e/e8/PenelopeMaidWithoutBG.png/284px-PenelopeMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0e/PenelopeMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Salty Maid",
+					"cnClient": "盐系女仆？",
+					"jpClient": "ソルティーメイド",
+					"cost": 700
+				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Penelope, Noshiro, Howe",
+				"url": "https://azurlane.netojuu.com/w/images/8/8c/Bg_2021.12.29_9.png"
+			},
+			{
+				"description": "Howe, Penelope, Queen Elizabeth",
+				"url": "https://azurlane.netojuu.com/w/images/2/20/Bg_2021.12.29_5.png"
+			},
+			{
+				"description": "Queen Elizabeth, Howe, Penelope",
+				"url": "https://azurlane.netojuu.com/w/images/2/2f/Bg_2021.12.29_3.png"
+			}
+		]
 	},
 	"496": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Tallinn",
@@ -117601,6 +117945,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction shop during \"Skybound Oratorio Rerun\" Event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -117644,7 +117989,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Maillé Brézé, Foch, Le Terrible",
+				"url": "https://azurlane.netojuu.com/w/images/6/60/Bg_2021.12.29_10.png"
+			}
+		]
 	},
 	"523": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maill%C3%A9_Br%C3%A9z%C3%A9",
@@ -117895,7 +118245,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Maillé Brézé, Foch, Le Terrible",
+				"url": "https://azurlane.netojuu.com/w/images/6/60/Bg_2021.12.29_10.png"
+			}
+		]
 	},
 	"524": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Foch",
@@ -118157,7 +118512,1355 @@
 				}
 			}
 		],
+		"gallery": [
+			{
+				"description": "Maillé Brézé, Foch, Le Terrible",
+				"url": "https://azurlane.netojuu.com/w/images/6/60/Bg_2021.12.29_10.png"
+			}
+		]
+	},
+	"525": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Magdeburg",
+		"id": "525",
+		"_gid": 40206,
+		"_sid": [
+			402061,
+			402062,
+			402063,
+			402064
+		],
+		"_code": 525,
+		"names": {
+			"en": "Magdeburg",
+			"code": "KMS Magdeburg",
+			"cn": "马格德堡",
+			"jp": "マクデブルク",
+			"kr": "마그데부르크"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": true
+		},
+		"hexagon": [
+			3,
+			4,
+			0,
+			3,
+			3,
+			2
+		],
+		"class": "M",
+		"nationality": "Iron Blood",
+		"hullType": "Light Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/6/6d/MagdeburgShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "630",
+				"armor": "Light",
+				"reload": "75",
+				"luck": "50",
+				"firepower": "35",
+				"torpedo": "58",
+				"evasion": "31",
+				"speed": "36",
+				"antiair": "72",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "55",
+				"antisubmarineWarfare": "36"
+			},
+			"level100": {
+				"health": "3324",
+				"armor": "Light",
+				"reload": "193",
+				"luck": "50",
+				"firepower": "177",
+				"torpedo": "296",
+				"evasion": "108",
+				"speed": "36",
+				"antiair": "345",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "146",
+				"antisubmarineWarfare": "138"
+			},
+			"level120": {
+				"health": "3664",
+				"armor": "Light",
+				"reload": "204",
+				"luck": "50",
+				"firepower": "187",
+				"torpedo": "313",
+				"evasion": "123",
+				"speed": "36",
+				"antiair": "377",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "164",
+				"antisubmarineWarfare": "147"
+			},
+			"level125": {
+				"health": "3748",
+				"armor": "Light",
+				"reload": "207",
+				"luck": "50",
+				"firepower": "190",
+				"torpedo": "317",
+				"evasion": "127",
+				"speed": "36",
+				"antiair": "385",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "168",
+				"antisubmarineWarfare": "149"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 145,
+				"minEfficiency": 125,
+				"type": "CL Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 130,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 115,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 14,
+			"torpedo": 19,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 14,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/3/33/Skill_14980.png",
+				"names": {
+					"en": "Get Hyped!",
+					"cn": "愈战愈勇",
+					"jp": "バトルテンション・ハイ"
+				},
+				"description": "When the fleet this ship is in sinks an enemy fleet: increases this ship's DMG dealt by 1.5% (6.0%) (can be stacked up to 4 times).\nWhen this ship sinks an enemy in combat: increases this ship's ACC and EVA by 1.0% (5.0%) (can be stacked up to 4 times).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/e/e0/Skill_14990.png",
+				"names": {
+					"en": "Scorching Combo",
+					"cn": "火舌飞舞",
+					"jp": "バトルコンボ・ラッシュ"
+				},
+				"description": "Increases this ship's AA by 5.0% (15.0%).\n3s after the battle starts, and with a 70.0% chance every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If this barrage fails to activate: instead increases this ship's FP and TRP by 1.0% (10.0%) (can be stacked up to 2 times; when stacked twice: increases the barrage's proc chance to 100.0%). After the 2nd and 4th battles in a sortie: improves this barrage.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/b0/Skill_29770.png",
+				"names": {
+					"en": "All-Out Assault: II",
+					"cn": "专属弹幕-马格德堡II",
+					"jp": "特殊弾幕-マクデブルクⅡ"
+				},
+				"description": "Activates All Out Assault II: Magdeburg once every 8 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light cruiser"
+					],
+					"bonus": "+2",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 20,
+				"maxLimitBreak": 42,
+				"maxLevel": 32,
+				"total": 94
+			}
+		},
+		"construction": {
+			"constructionTime": "01:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Tower of Transcendence",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Tower of Transcendence\" Event, in the event shop, and as a map drop.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/d1/Magdeburg.png/581px-Magdeburg.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/8c/MagdeburgChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Cat Café Cleanup",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/16/MagdeburgMaid.png/546px-MagdeburgMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/3/39/MagdeburgMaidWithoutBG.png/631px-MagdeburgMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/da/MagdeburgMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Cat Café Cleanup",
+					"cnClient": "扫除？喵喵骚乱！",
+					"jpClient": "お掃除？にゃんこ騒ぎ！",
+					"cost": 880
+				}
+			}
+		],
 		"gallery": []
+	},
+	"526": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Elbe",
+		"id": "526",
+		"_gid": 40602,
+		"_sid": [
+			406021,
+			406022,
+			406023,
+			406024
+		],
+		"_code": 526,
+		"names": {
+			"en": "Elbe",
+			"code": "KMS Elbe",
+			"cn": "易北",
+			"jp": "エルベ",
+			"kr": "엘베"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": true
+		},
+		"hexagon": [
+			0,
+			0,
+			4,
+			2,
+			3,
+			3
+		],
+		"class": "Jade",
+		"nationality": "Iron Blood",
+		"hullType": "Light Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/8/8e/ElbeShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "820",
+				"armor": "Medium",
+				"reload": "68",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "17",
+				"speed": "21",
+				"antiair": "50",
+				"aviation": "62",
+				"oilConsumption": "3",
+				"accuracy": "28",
+				"antisubmarineWarfare": "17"
+			},
+			"level100": {
+				"health": "4484",
+				"armor": "Medium",
+				"reload": "175",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "55",
+				"speed": "21",
+				"antiair": "245",
+				"aviation": "313",
+				"oilConsumption": "11",
+				"accuracy": "74",
+				"antisubmarineWarfare": "68"
+			},
+			"level120": {
+				"health": "4958",
+				"armor": "Medium",
+				"reload": "186",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "63",
+				"speed": "21",
+				"antiair": "268",
+				"aviation": "330",
+				"oilConsumption": "11",
+				"accuracy": "84",
+				"antisubmarineWarfare": "72"
+			},
+			"level125": {
+				"health": "5076",
+				"armor": "Medium",
+				"reload": "188",
+				"luck": "30",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "64",
+				"speed": "21",
+				"antiair": "274",
+				"aviation": "334",
+				"oilConsumption": "11",
+				"accuracy": "86",
+				"antisubmarineWarfare": "73"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 145,
+				"minEfficiency": 130,
+				"type": "Fighters",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 125,
+				"type": "Dive Bombers",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 80,
+				"minEfficiency": 80,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 41,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 16,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/2/22/Skill_15000.png",
+				"names": {
+					"en": "Bad Girl's Surprise Strike",
+					"cn": "急袭轰炸",
+					"jp": "ワルイコの奇襲発動"
+				},
+				"description": "Increases this ship's AVI and ACC by 5.0% (15.0%). When this ship finishes loading an Airstrike: 50.0% (80.0%) chance to launch a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/5/5d/Skill_15010.png",
+				"names": {
+					"en": "Good Girl at Heart",
+					"cn": "侵袭之盾",
+					"jp": "イイコの反撃支援"
+				},
+				"description": "At the start of the battle, and when this ship launches an Airstrike: spawns a shield around the frontmost ship of your Vanguard (lasts 6 (8)s, can block up to 6 enemy shots; the shield's duration is refreshed if its spawn conditions are met while it is still active). If this shield is destroyed rather than expiring: increases this ship's DMG dealt by 5.0% (15.0%) until her next Airstrike.",
+				"color": "deepskyblue"
+			}
+		],
+		"limitBreaks": [
+			[
+				"All Dive Bombers +1",
+				"Fighter efficiency +5%"
+			],
+			[
+				"Hangar capacity +1",
+				"All fighters +1",
+				"Fighter efficiency +10%"
+			],
+			[
+				"All aircraft +1",
+				"Dive Bomber efficiency +10%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "aviation"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "reload"
+				}
+			},
+			"techPoints": {
+				"collection": 16,
+				"maxLimitBreak": 32,
+				"maxLevel": 24,
+				"total": 72
+			}
+		},
+		"construction": {
+			"constructionTime": "02:20:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Tower of Transcendence",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Tower of Transcendence\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "ねこめたる",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.AD.E3.81.93.E3.82.81.E3.81.9F.E3.82.8B",
+					"Pixiv": "https://www.pixiv.net/en/users/4221847",
+					"Twitter": "https://twitter.com/NecoMeta"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/75/Elbe.png/671px-Elbe.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/7d/ElbeChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Time to Show Off?",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/48/ElbeMaid.png/713px-ElbeMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/c/c1/ElbeMaidWithoutBG.png/652px-ElbeMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/fc/ElbeMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Time to Show Off?",
+					"cnClient": "错失的高光时刻？",
+					"jpClient": "見せ場訪れず？",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Elbe, Ulrich von Hutten, Prinz Adalbert",
+				"url": "https://azurlane.netojuu.com/w/images/2/28/Bg_2021.12.29_13.png"
+			},
+			{
+				"description": "Elbe, Prinz Adalbert",
+				"url": "https://azurlane.netojuu.com/w/images/8/88/Bg_2021.12.23_1.png"
+			},
+			{
+				"description": "Prinz Adalbert, Elbe",
+				"url": "https://azurlane.netojuu.com/w/images/4/47/Bg_2021.12.23_3.png"
+			}
+		]
+	},
+	"527": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Adalbert",
+		"id": "527",
+		"_gid": 40310,
+		"_sid": [
+			403101,
+			403102,
+			403103,
+			403104
+		],
+		"_code": 527,
+		"names": {
+			"en": "Prinz Adalbert",
+			"code": "KMS Prinz Adalbert",
+			"cn": "阿达尔伯特亲王",
+			"jp": "プリンツ・アーダルベルト",
+			"kr": "프린츠 아달베르트"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": true
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			2,
+			3,
+			5
+		],
+		"class": "P",
+		"nationality": "Iron Blood",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/0/0c/Prinz_AdalbertShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1033",
+				"armor": "Medium",
+				"reload": "67",
+				"luck": "50",
+				"firepower": "56",
+				"torpedo": "47",
+				"evasion": "11",
+				"speed": "26",
+				"antiair": "40",
+				"aviation": "0",
+				"oilConsumption": "4",
+				"accuracy": "46",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "5450",
+				"armor": "Medium",
+				"reload": "173",
+				"luck": "50",
+				"firepower": "284",
+				"torpedo": "242",
+				"evasion": "56",
+				"speed": "26",
+				"antiair": "197",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "120",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "6007",
+				"armor": "Medium",
+				"reload": "182",
+				"luck": "50",
+				"firepower": "299",
+				"torpedo": "255",
+				"evasion": "66",
+				"speed": "26",
+				"antiair": "215",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "134",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "6146",
+				"armor": "Medium",
+				"reload": "185",
+				"luck": "50",
+				"firepower": "303",
+				"torpedo": "259",
+				"evasion": "68",
+				"speed": "26",
+				"antiair": "220",
+				"aviation": "0",
+				"oilConsumption": "12",
+				"accuracy": "138",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 120,
+				"type": "CA/CB Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 140,
+				"minEfficiency": 140,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 31,
+			"torpedo": 16,
+			"aviation": 0,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 18,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/f4/Skill_15020.png",
+				"names": {
+					"en": "Knockout Shot",
+					"cn": "破竹之势",
+					"jp": "有気力バイト"
+				},
+				"description": "Increases this ship's ACC by 1.0% (10.0%). When this ship fires her Main Guns: 40.0% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between barrage activations).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/b0/Skill_15030.png",
+				"names": {
+					"en": "Taking One for the Team",
+					"cn": "攻守有度",
+					"jp": "熱心のお助けシールド"
+				},
+				"description": "Once every 20s, while this ship's HP is above 60.0%: spawns a shield around this ship (lasts 8s, can negate 1.0% (4.0%) total DMG);\nif there are other ships afloat in your Vanguard: doubles the amount of DMG this shield can negate, and this ship tanks 50.0% of the DMG your other \nVanguard ships take for 8s. While this ship's HP is below 60.0%: the above effect will not activate; instead, this ship's TRP increases by 5.0% (15.0%).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-P級Ⅱ"
+				},
+				"description": "Activates All Out Assault Ⅱ: P-Class once every 8 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault",
+				"Main gun efficiency +5%",
+				"Equips special secondary gun"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 22,
+				"maxLimitBreak": 44,
+				"maxLevel": 32,
+				"total": 98
+			}
+		},
+		"construction": {
+			"constructionTime": "02:05:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Tower of Transcendence",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Tower of Transcendence\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Dishwasher1910",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Dishwasher1910",
+					"Pixiv": "https://www.pixiv.net/en/users/13408193",
+					"Twitter": "https://twitter.com/dishwasher1910",
+					"Link": "https://www.artstation.com/dishwasher1910"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3f/Prinz_Adalbert.png/613px-Prinz_Adalbert.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/f/f2/Prinz_AdalbertChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "After-Hours Service",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/72/Prinz_AdalbertMaid.png/523px-Prinz_AdalbertMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/a5/Prinz_AdalbertMaidWithoutBG.png/640px-Prinz_AdalbertMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/96/Prinz_AdalbertMaidChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "After-Hours Service",
+					"cnClient": "闭店后的特别时光",
+					"jpClient": "閉店後の特別サービス",
+					"cost": 1180
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Elbe, Ulrich von Hutten, Prinz Adalbert",
+				"url": "https://azurlane.netojuu.com/w/images/2/28/Bg_2021.12.29_13.png"
+			},
+			{
+				"description": "Elbe, Prinz Adalbert",
+				"url": "https://azurlane.netojuu.com/w/images/8/88/Bg_2021.12.23_1.png"
+			},
+			{
+				"description": "Prinz Adalbert, Elbe",
+				"url": "https://azurlane.netojuu.com/w/images/4/47/Bg_2021.12.23_3.png"
+			}
+		]
+	},
+	"528": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/U-1206",
+		"id": "528",
+		"_gid": 40812,
+		"_sid": [
+			408121,
+			408122,
+			408123,
+			408124
+		],
+		"_code": 528,
+		"names": {
+			"en": "U-1206",
+			"code": "KMS U-1206",
+			"cn": "U-1206",
+			"jp": "U-1206",
+			"kr": "U-1206"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": true
+		},
+		"hexagon": [
+			1,
+			4,
+			0,
+			1,
+			0,
+			1
+		],
+		"class": "Type VIIC",
+		"nationality": "Iron Blood",
+		"hullType": "Submarine",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/d/da/U-1206ShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "203",
+				"armor": "Light",
+				"reload": "31",
+				"luck": "20",
+				"firepower": "8",
+				"torpedo": "96",
+				"evasion": "7",
+				"speed": "18",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "60",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "1136",
+				"armor": "Light",
+				"reload": "80",
+				"luck": "20",
+				"firepower": "43",
+				"torpedo": "475",
+				"evasion": "32",
+				"speed": "18",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "6",
+				"accuracy": "156",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "1258",
+				"armor": "Light",
+				"reload": "85",
+				"luck": "20",
+				"firepower": "45",
+				"torpedo": "499",
+				"evasion": "37",
+				"speed": "18",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "6",
+				"accuracy": "175",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "1289",
+				"armor": "Light",
+				"reload": "86",
+				"luck": "20",
+				"firepower": "46",
+				"torpedo": "505",
+				"evasion": "38",
+				"speed": "18",
+				"antiair": "0",
+				"aviation": "0",
+				"oilConsumption": "6",
+				"accuracy": "180",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 125,
+				"minEfficiency": 110,
+				"type": "Submarine Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 105,
+				"type": "Submarine Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 85,
+				"minEfficiency": 85,
+				"type": "DD Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 1,
+			"torpedo": 38,
+			"aviation": 0,
+			"reload": 6
+		},
+		"scrapValue": {
+			"coin": 10,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/db/Skill_15040.png",
+				"names": {
+					"en": "Th-That Was an Accident!",
+					"cn": "这...这只是意外！",
+					"jp": "事故だからねっ！"
+				},
+				"description": "Decreases this ship's OXY by 20 (10). When this boat resurfaces, and when she retreats from battle: increases this boat's DMG dealt by 5.0% (15.0%). While this boat is retreating: increases this boat's SPD by 50.0%.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_3610.png",
+				"names": {
+					"en": "Wolf Pack Tactics",
+					"cn": "狼群战术",
+					"jp": "ウルフパック"
+				},
+				"description": "For each Iron Blood SS in your fleet: increases this boat's TRP, RLD, and Accuracy by 1.5% (6.0%).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射-Type VIIC型II"
+				},
+				"description": "Activates All Out Assault Ⅱ: VIIC-Type Submarine immediately after entering the battle.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Torpedo efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Improve Hunting range"
+			],
+			[
+				"Improve All Out Assault",
+				"Torpedo efficiency +10%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"bonus": "+2",
+					"stat": "evasion"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Submarine",
+						"Submarine carrier"
+					],
+					"bonus": "+1",
+					"stat": "torpedo"
+				}
+			},
+			"techPoints": {
+				"collection": 8,
+				"maxLimitBreak": 16,
+				"maxLevel": 12,
+				"total": 36
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available as a Point Accumulation reward during \"Tower of Transcendence\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/72/U-1206.png/592px-U-1206.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a7/U-1206Chibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Maid Just for You",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/36/U-1206Maid.png/546px-U-1206Maid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/9/95/U-1206MaidWithoutBG.png/404px-U-1206MaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/32/U-1206MaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Maid Just for You",
+					"cnClient": "需要服务请按铃！",
+					"jpClient": "コールはメイドさんへ！",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "U-1206 in a loading screen",
+				"url": "https://azurlane.netojuu.com/w/images/4/46/Bg_2021.12.29_4.png"
+			}
+		]
+	},
+	"529": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ulrich_von_Hutten",
+		"id": "529",
+		"_gid": 40503,
+		"_sid": [
+			405031,
+			405032,
+			405033,
+			405034
+		],
+		"_code": 529,
+		"names": {
+			"en": "Ulrich von Hutten",
+			"code": "KMS Ulrich von Hutten",
+			"cn": "乌尔里希·冯·胡滕",
+			"jp": "ウルリッヒ・フォン・フッテン",
+			"kr": "울리히 폰 후텐"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": true
+		},
+		"hexagon": [
+			5,
+			0,
+			0,
+			2,
+			2,
+			5
+		],
+		"class": "Ulrich von Hutten",
+		"nationality": "Iron Blood",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/d/db/Ulrich_von_HuttenShipyardIcon.png",
+		"rarity": "Ultra Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1573",
+				"armor": "Heavy",
+				"reload": "65",
+				"luck": "50",
+				"firepower": "86",
+				"torpedo": "0",
+				"evasion": "8",
+				"speed": "30",
+				"antiair": "47",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "23",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "8605",
+				"armor": "Heavy",
+				"reload": "168",
+				"luck": "50",
+				"firepower": "426",
+				"torpedo": "0",
+				"evasion": "24",
+				"speed": "30",
+				"antiair": "230",
+				"aviation": "0",
+				"oilConsumption": "17",
+				"accuracy": "60",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "9513",
+				"armor": "Heavy",
+				"reload": "178",
+				"luck": "50",
+				"firepower": "448",
+				"torpedo": "0",
+				"evasion": "27",
+				"speed": "30",
+				"antiair": "252",
+				"aviation": "0",
+				"oilConsumption": "17",
+				"accuracy": "67",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "9741",
+				"armor": "Heavy",
+				"reload": "180",
+				"luck": "50",
+				"firepower": "454",
+				"torpedo": "0",
+				"evasion": "28",
+				"speed": "30",
+				"antiair": "257",
+				"aviation": "0",
+				"oilConsumption": "17",
+				"accuracy": "69",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 155,
+				"minEfficiency": 125,
+				"type": "BB Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 210,
+				"minEfficiency": 210,
+				"type": "CL/DD Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 90,
+				"minEfficiency": 90,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 71,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 26,
+			"oil": 500,
+			"medal": 30
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c3/Skill_15050.png",
+				"names": {
+					"en": "The Laurel of Prosody",
+					"cn": "桂冠诗人的韵律论",
+					"jp": "桂冠者の韻律論"
+				},
+				"description": "When this ship fires her main guns, 50.0% (100%) chance to fire a special barrage (barrage damage is based on skill level). Enemies hit by this barrage decrease speed by 20.0% (30.0%) for 3s. Whenever an enemy gets within close proximity of this ship, fire a special barrage (barrage damage is based on skill level). The proximity barrage has a 15s cooldown between activations.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/8/88/Skill_15060.png",
+				"names": {
+					"en": "In Ridicule of Fools",
+					"cn": "致无名者的愚弄状",
+					"jp": "蒙昧者への愚弄状"
+				},
+				"description": "Increase this ship's FP and RLD by 5.0% (15.0%).\nWhen this ship equips a main gun that uses HE ammo, increase the gun's ammo modifiers against Light and Medium armor by 5.0% (15.0%).\nIf this ship is not the flagship, decrease this ship's main gun cooldown by 50.0%, but decrease its main gun damage dealt by 55.0% (45.0%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/3/30/Skill_15070.png",
+				"names": {
+					"en": "Revolutionary's Prosaic",
+					"cn": "变革者的现实谈",
+					"jp": "変革者の現実談"
+				},
+				"description": "Increases this ship's critical modifier by 10.0% (20.0%). As long as this ship is afloat, whenever ANOTHER fleet engages in one of its first five battles this sortie:\nDecrease damage taken by all Iron Blood ships in that fleet by 5.0%.\nIncrease the critical modifier for all Iron Blood ships in that fleet by 1.0% (10.0%).\nDuring that battle, whenever an enemy gets within close range of your ships, fire a supporting barrage (barrage damage is based on skill level). This barrage may fire up to 6 times each battle and has a 5s cooldown between activations.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"bonus": "+2",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"bonus": "+1",
+					"stat": "reload"
+				}
+			},
+			"techPoints": {
+				"collection": 56,
+				"maxLimitBreak": 114,
+				"maxLevel": 86,
+				"total": 256
+			}
+		},
+		"construction": {
+			"constructionTime": "06:00:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during event: Tower of Transcendence",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Tower of Transcendence\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "お久しぶり",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8A.E4.B9.85.E3.81.97.E3.81.B6.E3.82.8A",
+					"Pixiv": "https://www.pixiv.net/en/users/1079073",
+					"Twitter": "https://twitter.com/imlllsn"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/44/Ulrich_von_Hutten.png/435px-Ulrich_von_Hutten.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/19/Ulrich_von_HuttenChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Mayhem Maid",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/8/86/Ulrich_von_HuttenMaid.png/520px-Ulrich_von_HuttenMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/2/23/Ulrich_von_HuttenMaidWithoutBG.png/212px-Ulrich_von_HuttenMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b4/Ulrich_von_HuttenMaidChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Mayhem Maid",
+					"cnClient": "Mädchen Trümmer",
+					"jpClient": "メドヘン・トリュンマー",
+					"cost": 1180
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Ulrich von Hutten in a loading screen",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2021.12.29_1.png"
+			},
+			{
+				"description": "Ulrich von Hutten, Noshiro, Z46",
+				"url": "https://azurlane.netojuu.com/w/images/4/44/Bg_2021.12.29_6.png"
+			},
+			{
+				"description": "Z46, Bismarck, Ulrich von Hutten",
+				"url": "https://azurlane.netojuu.com/w/images/9/91/Bg_2021.12.29_7.png"
+			},
+			{
+				"description": "Ulrich von Hutten, Z46, Bismarck",
+				"url": "https://azurlane.netojuu.com/w/images/2/2d/Bg_2021.12.29_8.png"
+			},
+			{
+				"description": "Elbe, Ulrich von Hutten, Prinz Adalbert",
+				"url": "https://azurlane.netojuu.com/w/images/2/28/Bg_2021.12.29_13.png"
+			}
+		]
 	},
 	"10061": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marie_Rose",
@@ -121783,7 +123486,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Mujina, Akane Shinjo, Yume Minami, Rikka Takarada, Chise Asukagawa",
+				"url": "https://azurlane.netojuu.com/w/images/2/23/Bg_2021.11.25_3.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in swimsuits",
+				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2021.11.25_2.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in the startup screen",
+				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2021.11.25_1.png"
+			}
+		]
 	},
 	"10082": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akane_Shinjo",
@@ -122026,7 +123742,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Mujina, Akane Shinjo, Yume Minami, Rikka Takarada, Chise Asukagawa",
+				"url": "https://azurlane.netojuu.com/w/images/2/23/Bg_2021.11.25_3.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in swimsuits",
+				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2021.11.25_2.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in the startup screen",
+				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2021.11.25_1.png"
+			}
+		]
 	},
 	"10083": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hass",
@@ -122742,7 +124471,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Mujina, Akane Shinjo, Yume Minami, Rikka Takarada, Chise Asukagawa",
+				"url": "https://azurlane.netojuu.com/w/images/2/23/Bg_2021.11.25_3.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in swimsuits",
+				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2021.11.25_2.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in the startup screen",
+				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2021.11.25_1.png"
+			}
+		]
 	},
 	"10086": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chise_Asukagawa",
@@ -122980,7 +124722,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Mujina, Akane Shinjo, Yume Minami, Rikka Takarada, Chise Asukagawa",
+				"url": "https://azurlane.netojuu.com/w/images/2/23/Bg_2021.11.25_3.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in swimsuits",
+				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2021.11.25_2.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in the startup screen",
+				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2021.11.25_1.png"
+			}
+		]
 	},
 	"10087": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Mujina",
@@ -133389,6 +135144,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Helena, Yuudachi",
+				"url": "https://azurlane.netojuu.com/w/images/b/bc/Bg_2021.11.18_1.png"
+			},
+			{
 				"description": "Helena, Akashi, Honolulu, St. Louis",
 				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_2021.06.03_6.png"
 			},
@@ -138677,6 +140436,10 @@
 			{
 				"description": "Cavalla, Alabama, Baltimore, San Juan, Aylwin and Birmingham",
 				"url": "https://azurlane.netojuu.com/w/images/f/f4/Bg_ashen_1.png"
+			},
+			{
+				"description": "After-School Ace Baltimore and Bremerton by Halcon – the end card of Episode 2 of the Slow Ahead! anime",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Slow_Ahead%21_Episode_2_End_Card.jpg"
 			}
 		]
 	},
@@ -158889,6 +160652,22 @@
 					"live2dModel": false,
 					"obtainedFrom": "Default"
 				}
+			},
+			{
+				"name": "Slice, Dice, and Serve",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/8/85/HakuryuuMaid.png/715px-HakuryuuMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/f/f5/HakuryuuMaidWithoutBG.png/419px-HakuryuuMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/c/cf/HakuryuuMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Slice, Dice, and Serve",
+					"cnClient": "快刀女仆？",
+					"jpClient": "快刀乱肴",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
@@ -159495,6 +161274,22 @@
 					"live2dModel": false,
 					"obtainedFrom": "Default"
 				}
+			},
+			{
+				"name": "The Conquered Unhulde",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c1/August_von_ParsevalMaid.png/553px-August_von_ParsevalMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/14/August_von_ParsevalMaidWithoutBG.png/633px-August_von_ParsevalMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/2/2d/Skin_BG_150.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/24/August_von_ParsevalMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "The Conquered Unhulde",
+					"cnClient": "女仆魔女",
+					"jpClient": "御使い魔女",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
@@ -159806,6 +161601,22 @@
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "The Queen of Hearts",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/5/56/Marco_PoloMaid.png/470px-Marco_PoloMaid.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/d2/Marco_PoloMaidWithoutBG.png/738px-Marco_PoloMaidWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/9d/Marco_PoloMaidChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "The Queen of Hearts",
+					"cnClient": "Lovely Million",
+					"jpClient": "ラブリー・ミリオーネ",
+					"cost": 880
 				}
 			}
 		],
