@@ -2272,7 +2272,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "Increases Eva and Torp by 5% (15%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
+				"description": "At the start of battle: Increases Eva and TorpIn game description incorrectly says torpedo DMG by 5% (15%), increases own armor modifierIn game description incorrectly states damage against Medium Armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -2788,7 +2788,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "At the start of battle: Increases Eva and TorpIn game description incorrectly says torpedo DMG by 5% (15%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
+				"description": "At the start of battle: Increases Eva and TorpIn game description incorrectly says torpedo DMG by 5% (15%), increases own armor modifierIn game description incorrectly states damage against Medium Armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -8600,7 +8600,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "Increases Eva and Torp by 5% (15%), increases own damage against medium armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
+				"description": "At the start of battle: Increases Eva and TorpIn game description incorrectly says torpedo DMG by 5% (15%), increases own armor modifierIn game description incorrectly states damage against Medium Armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -45034,7 +45034,7 @@
 			{
 				"maxEfficiency": 140,
 				"minEfficiency": 110,
-				"type": "CA Guns",
+				"type": "CA/283mm CB Gun",
 				"max": 1
 			},
 			{
@@ -45351,7 +45351,7 @@
 			{
 				"maxEfficiency": 140,
 				"minEfficiency": 110,
-				"type": "CA Guns",
+				"type": "CA/283mm CB Gun",
 				"max": 1
 			},
 			{
@@ -95118,7 +95118,7 @@
 					"cn": "重击冰魄",
 					"jp": "革命的砲戦魂"
 				},
-				"description": "Increases the Effective and Shell Range of this ship's main gun to 75, and increases the damage this ship deals to Light-Armored enemies by 5% (20%). During battle, if there are other Northern Parliament ships in the same fleet as this ship, increases the shelling DMG that all enemy CL take from Northern Parliament ships by 4.5% (12%)",
+				"description": "Increases the Effective and Shell Range of this ship's main gun to 75, and increases this ship's armor modifierIn game description incorrectly states damage against Light Armor by 5% (20%). During battle, if there are other Northern Parliament ships in the same fleet as this ship, increases the shelling DMG that all enemy CL take from Northern Parliament ships by 4.5% (12%)",
 				"color": "gold"
 			},
 			{
@@ -107419,7 +107419,7 @@
 			{
 				"maxEfficiency": 160,
 				"minEfficiency": 130,
-				"type": "CA Guns",
+				"type": "CA/283mm CB Gun",
 				"max": 1
 			},
 			{
@@ -107474,7 +107474,7 @@
 					"cn": "全弹发射II",
 					"jp": "全弾発射-P級Ⅱ"
 				},
-				"description": "Activates All Out Assault I (II) (P-class) once every 9 (6) times the main guns are fired.",
+				"description": "Activates All Out Assault I(II): P-Class once every 9 (6)In game description incorrectly lists 12 (8) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -110226,6 +110226,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "50% Efficiency AA gun",
 			"fromMaps": []
 		},
 		"misc": {
@@ -110492,6 +110493,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "50% Efficiency AA gun",
 			"fromMaps": []
 		},
 		"misc": {
@@ -114184,7 +114186,7 @@
 					"cn": "星火之光",
 					"jp": "プレミアム・ガン・スター"
 				},
-				"description": "Decrease the duration of burns inflicted on this ship by 3s. Increase the damage this ship deals to Light Armor enemies by 5% (15%). Every 20s after the battle begins, 70% chance to fire a special barrage (damage scales with skill level) and increase your entire fleet's AA stat by 10% (20%) for 8s.",
+				"description": "Decrease the duration of burns inflicted on this ship by 3s. Increase this ship's armor modifierIn game description incorrectly states damage against Light Armor enemies by 5% (15%). Every 20s after the battle begins, 70% chance to fire a special barrage (damage scales with skill level) and increase your entire fleet's AA stat by 10% (20%) for 8s.",
 				"color": "pink"
 			},
 			{
@@ -114204,7 +114206,7 @@
 					"cn": "专属弹幕-艾伦·萨姆纳",
 					"jp": "特殊弾幕-アレン・M・サムナー"
 				},
-				"description": "Activates All-Out Assault: Allen M. Sumner-class every 10 times the Main Guns are fired.",
+				"description": "Activates All-Out Assault I (II): Allen M. SumnerNot class as stated ingame every 15 (10) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -115483,7 +115485,7 @@
 					"cn": "鱼群之光",
 					"jp": "イケイケよ！"
 				},
-				"description": "Increases this ship's DMG to Heavy Armor enemies by 5% (15%). When sortied with at least 1 other Eagle Union submarine: increases Crit DMG by 5% (15%) and increases TRP and Accuracy by 3.5% (8%) for all your Eagle Union submarines.",
+				"description": "Increases this ship's armor modifierIn game description incorrectly states damage against Heavy Armor by 5% (15%). When sortied with at least 1 other Eagle Union submarine: increases Crit DMG by 5% (15%) and increases TRP and Accuracy by 3.5% (8%) for all your Eagle Union submarines.",
 				"color": "gold"
 			},
 			{
@@ -115754,7 +115756,7 @@
 					"cn": "瞄准最大的！",
 					"jp": "ビゲスト・ターゲット"
 				},
-				"description": "Every 15s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Additionally, increases this ship's Crit Rate by 1% (10%), and increases her DMG to Heavy Armor enemies by 5% (15%).",
+				"description": "Every 15s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Additionally, increases this ship's Crit Rate by 1% (10%), and increases her armor modifierIn game description incorrectly states damage against Heavy Armor enemies by 5% (15%).",
 				"color": "pink"
 			},
 			{
@@ -118551,7 +118553,7 @@
 			3,
 			2
 		],
-		"class": "M",
+		"class": "M (German)",
 		"nationality": "Iron Blood",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/6/6d/MagdeburgShipyardIcon.png",
@@ -118658,7 +118660,7 @@
 					"cn": "愈战愈勇",
 					"jp": "バトルテンション・ハイ"
 				},
-				"description": "When the fleet this ship is in sinks an enemy fleet: increases this ship's DMG dealt by 1.5% (6.0%) (can be stacked up to 4 times).\nWhen this ship sinks an enemy in combat: increases this ship's ACC and EVA by 1.0% (5.0%) (can be stacked up to 4 times).",
+				"description": "When the fleet this ship is in sinks an enemy fleet: increases this ship's DMG dealt by 1.5% (6%) (can be stacked up to 4 times). This is chagnged to 1% (5%) in Operation Siren.When this ship sinks an enemy in combat: increases this ship's ACC and EVA by 1% (5%) (can be stacked up to 4 times).\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "pink"
 			},
 			{
@@ -118743,7 +118745,8 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Satsumi Matsuda",
+				"url": "https://en.wikipedia.org/wiki/Satsumi_Matsuda"
 			}
 		},
 		"skins": [
@@ -118992,7 +118995,8 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Nene Hieda",
+				"url": "https://en.wikipedia.org/wiki/Nene_Hieda"
 			}
 		},
 		"skins": [
@@ -119142,7 +119146,7 @@
 			{
 				"maxEfficiency": 150,
 				"minEfficiency": 120,
-				"type": "CA/CB Guns",
+				"type": "CA/283mm CB Gun",
 				"max": 1
 			},
 			{
@@ -119193,11 +119197,11 @@
 			{
 				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
 				"names": {
-					"en": "All Out Assault Ⅱ",
+					"en": "All Out Assault",
 					"cn": "全弹发射II",
 					"jp": "全弾発射-P級Ⅱ"
 				},
-				"description": "Activates All Out Assault Ⅱ: P-Class once every 8 times the Main Guns are fired.",
+				"description": "Activates All Out Assault I(II): P-Class once every 9 (6)In game description incorrectly lists 12 (8) times the Main Guns are fired.",
 				"color": "pink"
 			}
 		],
@@ -119368,7 +119372,10 @@
 				"aviation": "0",
 				"oilConsumption": "2",
 				"accuracy": "60",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "198",
+				"ammunition": "2",
+				"huntingRange": "*5     \n**     \n**     \n***S***\n**2233 \n**223  \n*544   "
 			},
 			"level100": {
 				"health": "1136",
@@ -119383,7 +119390,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "156",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "198",
+				"ammunition": "2",
+				"huntingRange": "*5     \n**     \n**     \n***S***\n**2233 \n**223  \n*544   "
 			},
 			"level120": {
 				"health": "1258",
@@ -119398,7 +119408,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "175",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "198",
+				"ammunition": "2",
+				"huntingRange": "*5     \n**     \n**     \n***S***\n**2233 \n**223  \n*544   "
 			},
 			"level125": {
 				"health": "1289",
@@ -119413,7 +119426,10 @@
 				"aviation": "0",
 				"oilConsumption": "6",
 				"accuracy": "180",
-				"antisubmarineWarfare": "0"
+				"antisubmarineWarfare": "0",
+				"oxygen": "198",
+				"ammunition": "2",
+				"huntingRange": "*5     \n**     \n**     \n***S***\n**2233 \n**223  \n*544   "
 			}
 		},
 		"slots": [
@@ -119728,7 +119744,7 @@
 					"cn": "致无名者的愚弄状",
 					"jp": "蒙昧者への愚弄状"
 				},
-				"description": "Increase this ship's FP and RLD by 5.0% (15.0%).\nWhen this ship equips a main gun that uses HE ammo, increase the gun's ammo modifiers against Light and Medium armor by 5.0% (15.0%).\nIf this ship is not the flagship, decrease this ship's main gun cooldown by 50.0%, but decrease its main gun damage dealt by 55.0% (45.0%).",
+				"description": "Increase this ship's FP and RLD by 5.0% (15.0%).\nWhen this ship equips a main gun that uses HE ammo, increase this ship's armor modifierIn game description incorrectly states damage against Light and Medium armor by 5.0% (15.0%).\nIf this ship is not the flagship, decrease this ship's main gun cooldown by 50.0%, but decrease its main gun damage dealt by 55.0% (45.0%).",
 				"color": "gold"
 			},
 			{
@@ -119808,7 +119824,8 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Hibiku Yamamura",
+				"url": "https://en.wikipedia.org/wiki/Hibiku_Yamamura"
 			}
 		},
 		"skins": [
@@ -120239,7 +120256,7 @@
 					"cn": "必杀☆猜拳",
 					"jp": "必殺☆じゃんけん"
 				},
-				"description": "Increases this ship's FP by 5% (15%) and its armor modifier against Light Armor enemies by 4.5% (12%). 5s after this ship fires its Main Guns: fires a randomly chosen Lv.1 (Lv.10) barrage using special ammo.",
+				"description": "Increases this ship's FP by 5% (15%) and its armor modifierIn game description incorrectly states damage against Light Armor enemies by 4.5% (12%). 5s after this ship fires its Main Guns: fires a randomly chosen Lv.1 (Lv.10) barrage using special ammo.",
 				"color": "pink"
 			},
 			{
@@ -120725,7 +120742,7 @@
 					"cn": "害羞的助理少女",
 					"jp": "恥ずかしがり屋のサポーター"
 				},
-				"description": "For the first 60s of the battle, increase this ship's FP stat and its armor modifier against Light Armor enemies by 5% (15%). If there is another Venus Vacation character in the same fleet as this ship, increase this ship's AA stat by 5% (15%) and decrease this ship's damage taken from shelling by 4.5% (12%).",
+				"description": "For the first 60s of the battle, increase this ship's FP stat and its armor modifierIn game description incorrectly states damage against Light Armor enemies by 5% (15%). If there is another Venus Vacation character in the same fleet as this ship, increase this ship's AA stat by 5% (15%) and decrease this ship's damage taken from shelling by 4.5% (12%).",
 				"color": "gold"
 			},
 			{
@@ -122183,7 +122200,7 @@
 					"cn": "伊织Strike!",
 					"jp": "伊織ストライク！"
 				},
-				"description": "Increases this ship's DMG dealt to Heavy Armor enemies by 5% (15%). When this ship fires her Main Guns: 50% (100%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+				"description": "Increases this ship's armor modifierIn game description incorrectly states damage against Heavy Armor enemies by 5% (15%). When this ship fires her Main Guns: 50% (100%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
 				"color": "pink"
 			},
 			{
@@ -125600,7 +125617,7 @@
 					"cn": "情报掌握",
 					"jp": "インフォーメーション・アディクション"
 				},
-				"description": "Increase all damage this ship deals to Light Armor enemies by 5% (15%).\nWhen this ship is sortied with Helena or Lena, decrease this ship's damage taken by 8% (18%).\nWhen sortied without Helena or Lena, increase this ship's EVA by 5% (15%), and decrease all damage taken by the lead ship in your Vanguard by 5%.",
+				"description": "Increase this ship's armor modifierIn game description incorrectly states damage against Light Armor by 5% (15%).\nWhen this ship is sortied with Helena or Lena, decrease this ship's damage taken by 8% (18%).\nWhen sortied without Helena or Lena, increase this ship's EVA by 5% (15%), and decrease all damage taken by the lead ship in your Vanguard by 5%.",
 				"color": "deepskyblue"
 			},
 			{
@@ -131607,7 +131624,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -166391,7 +166408,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/4/46/Shirakami_Fubuki_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/e/ee/Shirakami_Fubuki_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
@@ -166633,7 +166650,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/7/7a/Tokino_Sora_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/0/0f/Tokino_Sora_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
@@ -166895,7 +166912,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/5/50/Minato_Aqua_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/a/a3/Minato_Aqua_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
@@ -167136,7 +167153,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/0/0a/Natsuiro_Matsuri_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/3/39/Natsuiro_Matsuri_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
@@ -167375,7 +167392,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/6/64/Nakiri_Ayame_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/2/20/Nakiri_Ayame_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
@@ -167617,7 +167634,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/e/ec/Murasaki_Shion_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/7/7e/Murasaki_Shion_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
@@ -167859,7 +167876,7 @@
 			},
 			"voice": {
 				"name": "Play",
-				"url": "https://azurlane.netojuu.com/w/images/4/4c/Ookami_Mio_TitleScreen.ogg"
+				"url": "https://azurlane.netojuu.com/w/images/1/11/Ookami_Mio_TitleScreenJP.ogg"
 			}
 		},
 		"skins": [
