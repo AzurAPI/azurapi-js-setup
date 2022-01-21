@@ -7,7 +7,7 @@ import cliProgress, {SingleBar} from "cli-progress";
 import {clone, fetch, fetchImage, getHash, timeout} from "../utils";
 import {fetchGallery} from "./gallery";
 
-export const ROOT = path.join(__dirname, '..', '..');
+export const ROOT = path.join(__dirname, '..');
 export const SHIPS_PATH = path.join(ROOT, 'dist', 'ships.json');
 export const INTERNAL_SHIPS_PATH = path.join(ROOT, 'dist', 'ships.internal.json');
 export const FORMATTED_SHIPS_PATH = path.join(ROOT, 'dist', 'ships.formatted.json');
