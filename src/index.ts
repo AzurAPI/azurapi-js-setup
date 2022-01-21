@@ -14,6 +14,7 @@ import path from "path";
 
 (async function () {
     let args = process.argv.slice(2);
+    console.log("path", __dirname);
     mkdirIfNotExist(path.join(__dirname, '..', 'web'));
     switch (args[0]) {
         case 'ship':
