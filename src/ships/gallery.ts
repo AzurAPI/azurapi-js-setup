@@ -45,7 +45,7 @@ export async function fetchGallery(name: string, url: string): Promise<{ skins: 
         description: box.getElementsByClassName("gallerytext")[0].textContent.trim(),
         url: galleryThumbnailUrlToActualUrl(box.getElementsByTagName("img")[0].src)
     }));
-    Array.from(doc.querySelectorAll(".azl-shipart-gallery .shipart-frame")).forEach(box => gallery.push({
+    Array.from(doc.querySelectorAll(".azl-shipart-gallery .shipart-frame, .shipgirl-art-gallery .shipgirl-art-frame")).forEach(box => gallery.push({
         description: box.getElementsByClassName("shipart-caption")[0].textContent.trim(),
         url: galleryThumbnailUrlToActualUrl(box.getElementsByTagName("img")[0].src)
     }));
