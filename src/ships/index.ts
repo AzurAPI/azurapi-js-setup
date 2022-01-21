@@ -20,10 +20,10 @@ export let SHIP_LIST = fs.existsSync(SHIP_LIST_PATH) ? JSON.parse(fs.readFileSyn
 export let VERSION_INFO = JSON.parse(fs.readFileSync(VERSION_PATH).toString())
 const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
 
-const progress = new cliProgress.MultiBar({
-    clearOnComplete: false,
-    hideCursor: false
-}, cliProgress.Presets.shades_classic);
+// const progress = new cliProgress.MultiBar({
+//     clearOnComplete: false,
+//     hideCursor: false
+// }, cliProgress.Presets.shades_classic);
 
 export async function refreshShips() {
     SHIP_LIST = await fetchShipList();
@@ -34,11 +34,11 @@ export async function refreshShips() {
     if (!fs.existsSync(path.join(ROOT, 'web', 'ships.gallery'))) fs.mkdirSync(path.join(ROOT, 'web', 'ships.gallery'));
     fs.writeFileSync(path.join(ROOT, 'dist', 'ship-list.json'), JSON.stringify(SHIP_LIST));
     let keys = Object.keys(SHIP_LIST);
-    const bar = progress.create(keys.length, 0);
+    //const bar = progress.create(keys.length, 0);
     await init();
     for (let key of keys) {
-        bar.increment();
-        bar.render();
+        //bar.increment();
+        //bar.render();
         if (key.length === 4 && key.startsWith("3")) continue;
         try {
             let ship = await fetchShip(key, SHIP_LIST[key]);
@@ -52,7 +52,7 @@ export async function refreshShips() {
             fs.unlinkSync(path.join(ROOT, `web/ships/${SHIP_LIST[key].name}.html`));
         }
     }
-    bar.stop();
+    //bar.stop();
 }
 
 async function fetchShip(id: string, {name, url}: { name: string, url: string }): Promise<Ship> {
@@ -66,10 +66,10 @@ async function fetchShip(id: string, {name, url}: { name: string, url: string })
 }
 
 async function fetchShipList() {
-    const bar = progress.create(0, 0);
+    //const bar = progress.create(0, 0);
     let LIST: any = {};
     let rows = new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships", path.join(ROOT, 'web/ships.index.html'))).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr");
-    bar.setTotal(rows.length);
+    //bar.setTotal(rows.length);
     rows.forEach(table_ship => {
         let columns = table_ship.children;
         let id = columns[0].textContent;
@@ -81,26 +81,26 @@ async function fetchShipList() {
             nationality: columns[4].textContent,
             url: columns[0].children[0].getAttribute("href")
         };
-        bar.increment();
+        //bar.increment();
     });
-    bar.stop();
+    //bar.stop();
     return LIST;
 }
 
 export async function refreshShipImages() {
     let shipCounter = 0;
     let keys = Object.keys(SHIPS_INTERNAL);
-    const bar = progress.create(keys.length, 0);
-    const secondbar = progress.create(0, 0);
-    const thirdbar = progress.create(0, 0);
+    //const bar = progress.create(keys.length, 0);
+    //const secondbar = progress.create(0, 0);
+    //const thirdbar = progress.create(0, 0);
     for (let key of keys) {
         let ship = SHIPS_INTERNAL[key];
         let root_folder = path.join(ROOT, `images/skins/${ship.id}`) + "/";
         if (!fs.existsSync(root_folder)) fs.mkdirSync(root_folder);
         await fetchImage(ship.thumbnail, root_folder + "thumbnail.png", thirdbar);
-        bar.increment();
-        secondbar.setTotal(ship.skins.length);
-        secondbar.update(0);
+        //bar.increment();
+        //secondbar.setTotal(ship.skins.length);
+        //secondbar.update(0);
         for (let skin of ship.skins) {
             let skin_folder = skin.name.replace(/[^\w\s]/gi, '').trim().replace(/ +/g, "_") + "/";
             if (!fs.existsSync(root_folder + skin_folder)) fs.mkdirSync(root_folder + skin_folder);
@@ -110,7 +110,7 @@ export async function refreshShipImages() {
             if (skin.chibi) await fetchImage(skin.chibi, root_folder + skin_folder + 'chibi.png', thirdbar);
             else if (skin.name !== "Original Art" && !ship.unreleased) console.log(`${ship.names.en} is missing a chibi for ${skin.name}`);
             if (skin.background) await fetchImage(skin.background, path.join(ROOT, `images/backgrounds/${skin.background.substring(skin.background.lastIndexOf('/') + 1)}`), thirdbar);
-            secondbar.increment();
+            //secondbar.increment();
         }
         if (ship.unreleased) continue;
         await Promise.all(ship.gallery.filter(item => !(!item.url)).map(item => fetchImage(item.url, path.join(ROOT, `images/gallery/${item.url.substring(item.url.lastIndexOf('/') + 1)}`), thirdbar)));
@@ -118,16 +118,16 @@ export async function refreshShipImages() {
         for (let skill of ship.skills) await getSkillIcon(key, skill, ship.skills, ship.skills.map(s => transformSkillName(s.names.en)), thirdbar);
         shipCounter++;
     }
-    bar.stop();
-    secondbar.stop();
-    thirdbar.stop();
+    //bar.stop();
+    //secondbar.stop();
+    //thirdbar.stop();
     console.log("\nDone");
 }
 
 export function publishShips() {
     SHIPS = [];
     let keys = Object.keys(SHIPS_INTERNAL);
-    const bar = progress.create(keys.length, 0);
+    //const bar = progress.create(keys.length, 0);
     for (let key of keys) {
         let ship = clone(SHIPS_INTERNAL[key]); //simple clone!
         let root_folder = `images/skins/${ship.id}/`;
@@ -155,10 +155,10 @@ export function publishShips() {
         }
         ship.gallery = newGallery;
         ship.skills = ship.skills.map((skill: Skill) => publishSkill(ship.id, skill, ship.skills, ship.skills.map((skill: Skill) => transformSkillName(skill.names.en))));
-        bar.increment({filename: ship.names.code})
+        //bar.increment({filename: ship.names.code})
         SHIPS.push(ship);
     }
-    bar.stop();
+    //bar.stop();
     SHIPS.sort((a, b) => a.names.en < b.names.en ? -1 : a.names.en > b.names.en ? 1 : 0);
     let ships_value = JSON.stringify(SHIPS);
     fs.writeFileSync(SHIPS_PATH, ships_value);
