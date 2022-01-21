@@ -888,7 +888,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/thumb/6/64/JavelinIdolChibi.png/131px-JavelinIdolChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Core Data Shop Milestone Reward",
+					"obtainedFrom": "Core Data Shop",
 					"enClient": "Energetic Idol @120% Motivation!",
 					"cnClient": "王道偶像·元气120！",
 					"jpClient": "元気アイドル・やる気120％！",
@@ -896,68 +896,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Z23, Laffey, Shimakaze, Ayanami, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/7/70/Bg_2021.09.30_12.png"
-			},
-			{
-				"description": "Z23, Laffey, Shimakaze, Ayanami, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/b/bf/Bg_2021.09.25_2.png"
-			},
-			{
-				"description": "Javelin, Laffey, Z23, Ayanami",
-				"url": "https://azurlane.netojuu.com/w/images/f/f5/Bg_2021.05.27_3.png"
-			},
-			{
-				"description": "Bremerton, Z23, Laffey, Javelin, Ayanami, Prinz Heinrich, Kumano, Pamiat Merkuria",
-				"url": "https://azurlane.netojuu.com/w/images/5/55/Bg_2021.03.12_1.png"
-			},
-			{
-				"description": "Laffey, Ayanami, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/9/98/Bg_2021.03.12_3.png"
-			},
-			{
-				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
-				"url": "https://azurlane.netojuu.com/w/images/1/1e/Bg_2020.09.30_4.png"
-			},
-			{
-				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
-				"url": "https://azurlane.netojuu.com/w/images/c/c8/Bg_2020.09.30_1.png"
-			},
-			{
-				"description": "Ayanami, Javelin, Z23, Laffey",
-				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2020.02.13_1.png"
-			},
-			{
-				"description": "Z23, Javelin, Laffey, Eldridge, Ayanami",
-				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2019.11.14_2.png"
-			},
-			{
-				"description": "Javelin singing",
-				"url": "https://azurlane.netojuu.com/w/images/a/a8/Bg_2019.10.31_9.png"
-			},
-			{
-				"description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque and Gascogne during Halloween",
-				"url": "https://azurlane.netojuu.com/w/images/4/41/Bg_2019.10.31_2.png"
-			},
-			{
-				"description": "Javelin and Yamashiro in their oath skins with Unicorn",
-				"url": "https://azurlane.netojuu.com/w/images/d/d2/Bg_javelin_1.png"
-			},
-			{
-				"description": "Many Royal Navy ships in one huge party",
-				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_hms_1.png"
-			},
-			{
-				"description": "Z23, Laffey, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/a/a5/GalleryPic4.png"
-			},
-			{
-				"description": "Javelin, Ayanami, Laffey",
-				"url": "https://azurlane.netojuu.com/w/images/3/3b/GalleryPic40.png"
-			}
-		]
+		"gallery": []
 	},
 	"102": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Juno",
@@ -1522,24 +1461,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "U-522, Akashi, Vampire, Ning Hai, Ping Hai, Prinz Eugen, Yuudachi",
-				"url": "https://azurlane.netojuu.com/w/images/0/01/BG_2021.06.10_1.png"
-			},
-			{
-				"description": "Terror, Bailey, Vampire",
-				"url": "https://azurlane.netojuu.com/w/images/1/1b/Bg_2020.10.29_4.png"
-			},
-			{
-				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
-				"url": "https://azurlane.netojuu.com/w/images/8/81/Bg_destroyers.png"
-			},
-			{
-				"description": "Many Royal Navy ships in one huge party",
-				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_hms_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"104": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Leander",
@@ -10012,7 +9934,7 @@
 			{
 				"name": "Queen of the Campus",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a8/Queen_ElizabethSchool.png/714px-Queen_ElizabethSchool.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/18/Queen_ElizabethSchoolWithoutBG.png/816px-Queen_ElizabethSchoolWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/18/Queen_ElizabethSchoolWithoutBG.png/477px-Queen_ElizabethSchoolWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/6/64/Skin_BG_103.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/c/cb/Queen_ElizabethSchoolChibi.png",
@@ -11784,16 +11706,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Belfast, Sirius, Duke of York, Prince of Wales",
-				"url": "https://azurlane.netojuu.com/w/images/a/ab/Bg_2021.06.03_7.png"
-			},
-			{
-				"description": "Many Royal Navy ships in one huge party",
-				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_hms_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"136": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Duke_of_York",
@@ -12941,60 +12854,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Neptune, Perseus, Unicorn, Queen Elizabeth, Warspite, Valiant",
-				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_2021.09.16_8.png"
-			},
-			{
-				"description": "Ping Hai, Unicorn, Monarch, and Enterprise in their Spring skins",
-				"url": "https://azurlane.netojuu.com/w/images/0/0f/Bg_2020.02.04_1.png"
-			},
-			{
-				"description": "Unicorn",
-				"url": "https://azurlane.netojuu.com/w/images/7/79/Bg_2020.10.29_2.png"
-			},
-			{
-				"description": "Laffey, Javelin, Ping Hai, Ning Hai and Unicorn",
-				"url": "https://azurlane.netojuu.com/w/images/c/c8/Bg_2020.09.30_1.png"
-			},
-			{
-				"description": "Illustrious, Unicorn, Nagato",
-				"url": "https://azurlane.netojuu.com/w/images/7/7d/Bg_2020.02.13_2.png"
-			},
-			{
-				"description": "Unicorn, Formidable, Illustrious",
-				"url": "https://azurlane.netojuu.com/w/images/3/3b/Bg_2019.12.26_8.png"
-			},
-			{
-				"description": "Laffey, Belfast, Unicorn, Georgia",
-				"url": "https://azurlane.netojuu.com/w/images/f/f4/Bg_2019.11.14_6.png"
-			},
-			{
-				"description": "Yuudachi, Ibuki and Unicorn dressed up for Halloween",
-				"url": "https://azurlane.netojuu.com/w/images/5/57/Bg_2019.10.31_1.png"
-			},
-			{
-				"description": "Unicorn with Yamashiro and Javelin in their oath skins",
-				"url": "https://azurlane.netojuu.com/w/images/d/d2/Bg_javelin_1.png"
-			},
-			{
-				"description": "Unicorn with San Diego in a Christmas loading screen",
-				"url": "https://azurlane.netojuu.com/w/images/6/60/Bg_christmas_1.png"
-			},
-			{
-				"description": "Many Royal Navy ships in one huge party",
-				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_hms_1.png"
-			},
-			{
-				"description": "Unicorn and Illustrious in Tea Time loading screen",
-				"url": "https://azurlane.netojuu.com/w/images/7/7b/Bg_illustrious_6.png"
-			},
-			{
-				"description": "Illustrious and Unicorn in school outfits",
-				"url": "https://azurlane.netojuu.com/w/images/b/b3/Bg_illustrious_4.png"
-			}
-		]
+		"gallery": []
 	},
 	"143": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Eagle",
@@ -15945,12 +15805,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Admiral Graf Spee, Fubuki",
-				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_2019.11.14_3.png"
-			}
-		]
+		"gallery": []
 	},
 	"152": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shirayuki",
@@ -17086,44 +16941,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Z23, Laffey, Shimakaze, Ayanami, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/7/70/Bg_2021.09.30_12.png"
-			},
-			{
-				"description": "Z23, Laffey, Shimakaze, Ayanami, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/b/bf/Bg_2021.09.25_2.png"
-			},
-			{
-				"description": "Javelin, Laffey, Z23, Ayanami",
-				"url": "https://azurlane.netojuu.com/w/images/f/f5/Bg_2021.05.27_3.png"
-			},
-			{
-				"description": "Laffey, Ayanami, Javelin",
-				"url": "https://azurlane.netojuu.com/w/images/9/98/Bg_2021.03.12_3.png"
-			},
-			{
-				"description": "Bremerton, Z23, Laffey, Javelin, Ayanami, Prinz Heinrich, Kumano, Pamiat Merkuria",
-				"url": "https://azurlane.netojuu.com/w/images/5/55/Bg_2021.03.12_1.png"
-			},
-			{
-				"description": "Ayanami, Javelin, Laffey, Cygnet, Sirius and Ark Royal",
-				"url": "https://azurlane.netojuu.com/w/images/1/1e/Bg_2020.09.30_4.png"
-			},
-			{
-				"description": "Ayanami, Javelin, Z23, Laffey",
-				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2020.02.13_1.png"
-			},
-			{
-				"description": "Z23, Javelin, Laffey, Eldridge, Ayanami",
-				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2019.11.14_2.png"
-			},
-			{
-				"description": "Javelin, Ayanami, Laffey",
-				"url": "https://azurlane.netojuu.com/w/images/3/3b/GalleryPic40.png"
-			}
-		]
+		"gallery": []
 	},
 	"159": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Akatsuki",
@@ -17971,12 +17789,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Inazuma with Ikazuchi in her Thunderous Festival skin",
-				"url": "https://azurlane.netojuu.com/w/images/0/03/Bg_summerfes.png"
-			}
-		]
+		"gallery": []
 	},
 	"162": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Inazuma",
@@ -18271,12 +18084,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Inazuma in her Flash of Fireworks skin with Ikazuchi",
-				"url": "https://azurlane.netojuu.com/w/images/0/03/Bg_summerfes.png"
-			}
-		]
+		"gallery": []
 	},
 	"163": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shiratsuyu",
@@ -21229,7 +21037,7 @@
 					"cn": "幸运舰？",
 					"jp": "幸運艦？"
 				},
-				"description": "Every 20s, gain one of three random effect for 5s (10s):30% - Evasion: Increases Evasion by 30%30% - Critical: Increases critical chance by 20% and critical damage by 50%40% - Sunder: Increases damage taken by 20%.",
+				"description": "Every 20s, gain one of three random effect for 5s (10s):\n30% - Evasion: Increases Evasion by 30%\n30% - Critical: Increases critical chance by 20% and critical damage by 50%\n40% - Sunder: Increases damage taken by 20%",
 				"color": "deepskyblue"
 			},
 			{
@@ -30857,40 +30665,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Takao and Atago in their School skins",
-				"url": "https://azurlane.netojuu.com/w/images/9/91/BG_2021.06.10_4.png"
-			},
-			{
-				"description": "Amagi, Mikasa, Atago, Takao",
-				"url": "https://azurlane.netojuu.com/w/images/d/de/BG_2021.06.10_6.png"
-			},
-			{
-				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
-				"url": "https://azurlane.netojuu.com/w/images/7/77/Bg_2019.12.19_2.png"
-			},
-			{
-				"description": "Taihou, Formidable, Bismarck, Kaga, Amagi, Cleveland, Atago, Essex, Roon, Tirpitz",
-				"url": "https://azurlane.netojuu.com/w/images/b/b5/Bg_2019.10.31_5.png"
-			},
-			{
-				"description": "Takao and Atago after making chocolates",
-				"url": "https://azurlane.netojuu.com/w/images/2/20/Bg_valentines_5.png"
-			},
-			{
-				"description": "Atago on Valentine's Day",
-				"url": "https://azurlane.netojuu.com/w/images/d/d8/Bg_valentines_3.png"
-			},
-			{
-				"description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs",
-				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
-			},
-			{
-				"description": "Takao, Atago, Akagi, and Kaga in the winter",
-				"url": "https://azurlane.netojuu.com/w/images/1/1b/Bg_takao_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"202": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maya",
@@ -35836,36 +35611,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Katsuragi, Chikuma, Shimakaze, Tosa (EN/JP version)",
-				"url": "https://azurlane.netojuu.com/w/images/4/41/Bg_2021.09.23_2.png"
-			},
-			{
-				"description": "Katsuragi, Chikuma, Shimakaze, Tosa (CN version)",
-				"url": "https://azurlane.netojuu.com/w/images/9/98/Bg_2021.09.23_2CN.png"
-			},
-			{
-				"description": "Tosa and Amagi in winter garb",
-				"url": "https://azurlane.netojuu.com/w/images/0/0e/Bg_2020.12.29_5.png"
-			},
-			{
-				"description": "Amagi and Tosa in a loading screen",
-				"url": "https://azurlane.netojuu.com/w/images/d/d3/Bg_2020.12.29_3.png"
-			},
-			{
-				"description": "Amagi and Tosa in their Summer skins",
-				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2020.09.17_4.png"
-			},
-			{
-				"description": "Amagi, Tosa, and Kaga (Battleship) during a moon eclipse",
-				"url": "https://azurlane.netojuu.com/w/images/4/47/Bg_2020.04.23_2.png"
-			},
-			{
-				"description": "Kaga (Battleship), Amagi and Tosa amidst the petals",
-				"url": "https://azurlane.netojuu.com/w/images/6/68/Bg_2020.04.23_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"218": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiyou",
@@ -40777,12 +40523,8 @@
 				"url": "https://azurlane.netojuu.com/w/images/c/c6/Bg_queen_elizabeth_1.png"
 			},
 			{
-				"description": "Shiranui and Akashi painting T3 tech boxes gold",
+				"description": "Shiranui and Akashi painting T3 tech boxes gold\nGalleryPic6.png",
 				"url": "https://azurlane.netojuu.com/w/images/d/d2/Bg_shiranui_1.png"
-			},
-			{
-				"description": "Souryuu and Akashi",
-				"url": "https://azurlane.netojuu.com/w/images/1/17/GalleryPic6.png"
 			}
 		]
 	},
@@ -45540,48 +45282,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Z23, Roon, Friedrich der Grosse, Graf Zeppelin, Admiral Graf Spee, Prinz Eugen with Hood and Glorious",
-				"url": "https://azurlane.netojuu.com/w/images/2/2e/Bg_2021.05.27_10.png"
-			},
-			{
-				"description": "Deutschland, Admiral Graf Spee, Kitakaze, Azuma, Yukikaze",
-				"url": "https://azurlane.netojuu.com/w/images/3/3a/Bg_2020.11.18_1.png"
-			},
-			{
-				"description": "Admiral Graf Spee, Prinz Eugen, Deutschland, Z46, Bismarck, Graf Zeppelin, Tirpitz, Admiral Hipper",
-				"url": "https://azurlane.netojuu.com/w/images/5/55/Bg_2020.09.17_7.png"
-			},
-			{
-				"description": "Z23, Admiral Hipper, Prinz Eugen, Scharnhorst, Gneisenau, Z46, Graf Zeppelin, Tirpitz, U-556, Bismarck, U-81, Roon, Admiral Graf Spee, Deutschland, Friedrich der Große",
-				"url": "https://azurlane.netojuu.com/w/images/5/5f/Bg_2019.12.26_10.png"
-			},
-			{
-				"description": "Montpelier, Cleveland, Erebus, Admiral Graf Spee",
-				"url": "https://azurlane.netojuu.com/w/images/c/c2/Bg_2019.12.19_4.png"
-			},
-			{
-				"description": "Admiral Graf Spee, Fubuki",
-				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_2019.11.14_3.png"
-			},
-			{
-				"description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Admiral Graf Spee, and San Diego at a barbecue",
-				"url": "https://azurlane.netojuu.com/w/images/6/6a/Bg_July4th_5.png"
-			},
-			{
-				"description": "Admiral Graf Spee making valentines chocolate with Z46 and Admiral Hipper",
-				"url": "https://azurlane.netojuu.com/w/images/7/70/Bg_valentines_2.png"
-			},
-			{
-				"description": "Ping Hai, Admiral Graf Spee, Ning Hai",
-				"url": "https://azurlane.netojuu.com/w/images/e/e1/Bg_graf_spee_2.png"
-			},
-			{
-				"description": "Admiral Graf Spee by the sunset",
-				"url": "https://azurlane.netojuu.com/w/images/8/82/Bg_graf_spee_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"248": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Scharnhorst",
@@ -46048,7 +45749,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Divergent Chessboard B2, D2, D3, D4",
+			"obtainedFrom": "Divergent Chessboard B2, D2, D3, D4 & Scherzo of Iron and Blood B2, B3, D2, D3",
 			"fromMaps": []
 		},
 		"misc": {
@@ -46380,6 +46081,14 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Z46, Bismarck, Ulrich von Hutten",
+				"url": "https://azurlane.netojuu.com/w/images/9/91/Bg_2021.12.29_7.png"
+			},
+			{
+				"description": "Ulrich von Hutten, Z46, Bismarck",
+				"url": "https://azurlane.netojuu.com/w/images/2/2d/Bg_2021.12.29_8.png"
+			},
 			{
 				"description": "Prinz Eugen, Bismarck, Roon",
 				"url": "https://azurlane.netojuu.com/w/images/4/49/Bg_2020.12.212_3.png"
@@ -48255,20 +47964,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "St. Louis, Sirius, Ning Hai, Ping Hai, Yat Sen, Belfast",
-				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2020.02.04_3.png"
-			},
-			{
-				"description": "Ning Hai, Ping Hai and Yat Sen in the background with St. Louis, Belfast, and Enterprise in the foreground",
-				"url": "https://azurlane.netojuu.com/w/images/8/82/Bg_belfast_2.png"
-			},
-			{
-				"description": "Yat Sen in a gallery painting",
-				"url": "https://azurlane.netojuu.com/w/images/c/cb/GalleryPic37.png"
-			}
-		]
+		"gallery": []
 	},
 	"258": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ning_Hai",
@@ -63150,8 +62846,6 @@
 			{
 				"name": "Fragrance of the Eastern Snow",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/d/da/NoshiroSpring.png/995px-NoshiroSpring.png",
-				"nobg": null,
-				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/6/63/Skin_BG_144.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/b/bd/NoshiroSpringChibi.png",
 				"info": {
@@ -71999,7 +71693,7 @@
 					"cn": "2700磅的正义",
 					"jp": "2700ポンドの正義"
 				},
-				"description": "When this ship deals DMG to an enemy with its Main Guns: DMG increase is based on shell traveling distance, up to a maximum of 5% (15%). When this ship's Secondary Gun slot is equipped with Eagle Union gear: ammunition type is changed to Super-Heavy AP, and DMG increase based on shell traveling distance is up to a maximum of 15% (30%) instead.(Super-Heavy AP has 65/135/115 modifiers and 20% chance to inflict Armor Break effect. This effect causes enemies to take 8% more DMG for 6s, and only stacks with Armor Break caused by New Jersey and Valiant.)",
+				"description": "When this ship deals DMG to an enemy with its Main Guns: DMG increase is based on shell traveling distance from 35 to 104 (121), up to a maximum of 5% (15%). When this ship's Secondary Gun slot is equipped with Eagle Union gear: ammunition type is changed to Super-Heavy AP, and DMG increase based on shell traveling distance from 35 to 105 (121), up to a maximum of 15% (30%) instead.(Super-Heavy AP has 65/135/115 modifiers and 20% chance to inflict Armor Break effect. This effect causes enemies to take 8% more DMG for 6s, and only stacks with Armor Break caused by New Jersey and Valiant.)",
 				"color": "pink"
 			}
 		],
@@ -90329,7 +90023,7 @@
 			"constructionTime": "05:50:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Crescendo of Polaris",
 				"exchange": false
@@ -90560,7 +90254,7 @@
 			"availableIn": {
 				"light": false,
 				"heavy": false,
-				"aviation": "CN/JP Only",
+				"aviation": true,
 				"limited": "Only during event: Crescendo of Polaris",
 				"exchange": false
 			}
@@ -90797,7 +90491,7 @@
 		"construction": {
 			"constructionTime": "01:25:00",
 			"availableIn": {
-				"light": "CN/JP Only",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": "Only during event: Crescendo of Polaris",
@@ -91278,7 +90972,7 @@
 			"constructionTime": "02:00:00",
 			"availableIn": {
 				"light": false,
-				"heavy": "CN/JP Only",
+				"heavy": true,
 				"aviation": false,
 				"limited": "Only during event: Crescendo of Polaris",
 				"exchange": false
@@ -94342,8 +94036,6 @@
 			{
 				"name": "The Bound Cruiser",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/6/66/TashkentPrison.png/710px-TashkentPrison.png",
-				"nobg": null,
-				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/0/0d/TashkentPrisonChibi.png",
 				"info": {
@@ -96805,7 +96497,7 @@
 					"cn": "火翼燎原",
 					"jp": "Flame-HEAT-Wing"
 				},
-				"description": "When this ship fires its Main Guns:\n15% (30%) chance to increase this ship's Main Gun DMG by 30% for 3s (5s cooldown between activations).\n40% (70%) chance to fire a special HE barrage (DMG is based on skill's level; 10s cooldown between activations).",
+				"description": "When this ship fires its Main Guns:\n15% (30%) chance to increase this ship's Main Gun DMG by 30% for 3s (5s cooldown between activations)\n40% (70%) chance to fire a special HE barrage (DMG is based on skill's level; 10s cooldown between activations)",
 				"color": "pink"
 			},
 			{
@@ -115875,8 +115567,8 @@
 			},
 			{
 				"name": "Castle Tales",
-				"image": null,
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/4/43/BoiseHalloweenWithoutBG.png/407px-BoiseHalloweenWithoutBG.png",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b0/BoiseHalloween.png/439px-BoiseHalloween.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/4/43/BoiseHalloweenWithoutBG.png/392px-BoiseHalloweenWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/2/2e/Skin_BG_119.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/4/4d/BoiseHalloweenChibi.png",
@@ -115890,12 +115582,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "San Francisco, Ticonderoga, New Jersey, Archerfish, Boise, Morrison",
-				"url": "https://azurlane.netojuu.com/w/images/7/76/Bg_2021.05.27_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"515": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Morrison",
@@ -118206,12 +117893,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Vilor",
+				"name": "kurumi普拉斯",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Vilor",
-					"Pixiv": "https://www.pixiv.net/member.php?id=2436160",
-					"Twitter": "https://twitter.com/Vilor_0414",
-					"Link": "https://weibo.com/u/2450411934"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#kurumi.E6.99.AE.E6.8B.89.E6.96.AF",
+					"Pixiv": "https://www.pixiv.net/en/users/9261160",
+					"Twitter": "https://twitter.com/hermmot666",
+					"Link": "https://weibo.com/u/1944234507"
 				}
 			},
 			"voice": {
@@ -118660,7 +118347,7 @@
 					"cn": "愈战愈勇",
 					"jp": "バトルテンション・ハイ"
 				},
-				"description": "When the fleet this ship is in sinks an enemy fleet: increases this ship's DMG dealt by 1.5% (6%) (can be stacked up to 4 times). This is chagnged to 1% (5%) in Operation Siren.When this ship sinks an enemy in combat: increases this ship's ACC and EVA by 1% (5%) (can be stacked up to 4 times).\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+				"description": "When the fleet this ship is in sinks an enemy fleet: increases this ship's DMG dealt by 1.5% (6%) (can be stacked up to 4 times). This is changed to 1% (5%) in Operation Siren.When this ship sinks an enemy in combat: increases this ship's ACC and EVA by 1% (5%) (can be stacked up to 4 times).\n[This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
 				"color": "pink"
 			},
 			{
@@ -119274,7 +118961,8 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Natsuko Hara",
+				"url": "https://twitter.com/haranatsuko"
 			}
 		},
 		"skins": [
@@ -119551,13 +119239,15 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "帕瓦波",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Mayuka Nomura",
+				"url": "https://en.wikipedia.org/wiki/Mayuka_Nomura"
 			}
 		},
 		"skins": [
@@ -119744,7 +119434,7 @@
 					"cn": "致无名者的愚弄状",
 					"jp": "蒙昧者への愚弄状"
 				},
-				"description": "Increase this ship's FP and RLD by 5.0% (15.0%).\nWhen this ship equips a main gun that uses HE ammo, increase this ship's armor modifierIn game description incorrectly states damage against Light and Medium armor by 5.0% (15.0%).\nIf this ship is not the flagship, decrease this ship's main gun cooldown by 50.0%, but decrease its main gun damage dealt by 55.0% (45.0%).",
+				"description": "Increase this ship's FP and RLD by 5.0% (15.0%).\nWhen this ship equips a main gun that uses HE ammo, increase this ship's armor modifierIn game description incorrectly states damagearmor modifier[a] against Light and Medium armor by 5.0% (15.0%).\nIf this ship is not the flagship, decrease this ship's main gun cooldown by 50.0%, but decrease its main gun damage dealt by 55.0% (45.0%).",
 				"color": "gold"
 			},
 			{
@@ -124975,7 +124665,7 @@
 			{
 				"name": "Golden Promenade",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/c/cf/MujinaCasual.png/570px-MujinaCasual.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/2/2b/MujinaCasualWithoutBG.png/327px-MujinaCasualWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/2/2b/MujinaCasualWithoutBG.png/395px-MujinaCasualWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/4/49/Skin_BG_105.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/8/83/MujinaCasualChibi.png",
@@ -124989,7 +124679,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Mujina, Akane Shinjo, Yume Minami, Rikka Takarada, Chise Asukagawa",
+				"url": "https://azurlane.netojuu.com/w/images/2/23/Bg_2021.11.25_3.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in swimsuits",
+				"url": "https://azurlane.netojuu.com/w/images/e/e9/Bg_2021.11.25_2.png"
+			},
+			{
+				"description": "Chise Asukagawa, Mujina, Yume Minami, Rikka Takarada, and Akane Shinjo in the startup screen",
+				"url": "https://azurlane.netojuu.com/w/images/2/29/Bg_2021.11.25_1.png"
+			}
+		]
 	},
 	"30001": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hiryuu_META",
@@ -126371,9 +126074,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "Mkiiiiii33",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Mkiiiiii33",
+					"Pixiv": "https://www.pixiv.net/member.php?id=661601",
+					"Twitter": "https://twitter.com/ccMK33",
+					"Link": "https://weibo.com/kawa33"
 				}
 			},
 			"voice": {
@@ -126411,13 +126117,13 @@
 			"code": "Gneisenau.META",
 			"cn": "格奈森瑙·META",
 			"jp": "グナイゼナウ(META)",
-			"kr": "Gneisenau META"
+			"kr": "그나이제나우·META"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -126602,9 +126308,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "Mkiiiiii33",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Mkiiiiii33",
+					"Pixiv": "https://www.pixiv.net/member.php?id=661601",
+					"Twitter": "https://twitter.com/ccMK33",
+					"Link": "https://weibo.com/kawa33"
 				}
 			},
 			"voice": {
@@ -128577,12 +128286,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Hornet, Admiral Hipper, San Diego, Downes",
-				"url": "https://azurlane.netojuu.com/w/images/e/ec/Bg_2019.10.31_12.png"
-			}
-		]
+		"gallery": []
 	},
 	"007": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Gridley",
@@ -136619,48 +136323,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
-				"url": "https://azurlane.netojuu.com/w/images/6/6f/Bg_2020.09.30_7.png"
-			},
-			{
-				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
-				"url": "https://azurlane.netojuu.com/w/images/1/18/Bg_2020.03.31_1.png"
-			},
-			{
-				"description": "Montpelier, Cleveland, Erebus, Admiral Graf Spee",
-				"url": "https://azurlane.netojuu.com/w/images/c/c2/Bg_2019.12.19_4.png"
-			},
-			{
-				"description": "Taihou, Formidable, Bismarck, Kaga, Amagi, Cleveland, Atago, Essex, Roon, Tirpitz",
-				"url": "https://azurlane.netojuu.com/w/images/b/b5/Bg_2019.10.31_5.png"
-			},
-			{
-				"description": "Cleveland in her Road Trip! skin with Essex and Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/1/13/Bg_union_riders.png"
-			},
-			{
-				"description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
-				"url": "https://azurlane.netojuu.com/w/images/3/35/Bg_EN_1st_anni.png"
-			},
-			{
-				"description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Graf Spee, and San Diego at a barbecue",
-				"url": "https://azurlane.netojuu.com/w/images/6/6a/Bg_July4th_5.png"
-			},
-			{
-				"description": "Cleveland and Helena in their party skins",
-				"url": "https://azurlane.netojuu.com/w/images/d/d1/Bg_cleveland_party_1.png"
-			},
-			{
-				"description": "Cleveland, Helena, Gridley, and Eldridge opening Christmas presents",
-				"url": "https://azurlane.netojuu.com/w/images/6/66/Bg_cleveland_holiday_1.png"
-			},
-			{
-				"description": "Cleveland and her sister Columbia at sea",
-				"url": "https://azurlane.netojuu.com/w/images/a/a6/Bg_cleveland_1.png"
-			}
-		]
+		"gallery": []
 	},
 	"038": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Columbia",
@@ -147986,96 +147649,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Enterprise, Akashi (as balloon), Prinz Heinrich, Sovetskaya Belorussiya, Essex, Ning Hai",
-				"url": "https://azurlane.netojuu.com/w/images/c/ce/Bg_2021.08.12_1.png"
-			},
-			{
-				"description": "Detectives Essex and Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/a/aa/Bg_2021.04.01_1.png"
-			},
-			{
-				"description": "Ping Hai, Unicorn, Monarch, Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/0/0f/Bg_2020.02.04_1.png"
-			},
-			{
-				"description": "Ping Hai, Ning Hai, Amagi, Laffey, Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/2/22/Bg_2020.08.13_8.png"
-			},
-			{
-				"description": "Enterprise, Hood, Dunkerque",
-				"url": "https://azurlane.netojuu.com/w/images/4/49/Bg_2019.12.19_3.png"
-			},
-			{
-				"description": "Enterprise in the winter holiday",
-				"url": "https://azurlane.netojuu.com/w/images/3/38/Bg_2019.12.11_1.png"
-			},
-			{
-				"description": "Laffey, Javelin, Z23, Amagi, Friedrich der Große, Enterprise, Taihou, Dunkerque, Gascogne",
-				"url": "https://azurlane.netojuu.com/w/images/4/41/Bg_2019.10.31_2.png"
-			},
-			{
-				"description": "Essex, Cleveland, Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/1/13/Bg_union_riders.png"
-			},
-			{
-				"description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis,and Admiral Graf Spee, San Diego",
-				"url": "https://azurlane.netojuu.com/w/images/6/6a/Bg_July4th_5.png"
-			},
-			{
-				"description": "Honolulu, St. Louis, Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/4/4d/Bg_July4th_3.png"
-			},
-			{
-				"description": "Enterprise, Yorktown, Indianapolis, Portland, Saratoga",
-				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_July4th_1.png"
-			},
-			{
-				"description": "Loading screen depicting Enterprise with various Eagle Union ships",
-				"url": "https://azurlane.netojuu.com/w/images/0/0f/Bg_enterprise_3.png"
-			},
-			{
-				"description": "Enterprise in her Blooming Peony skin with Belfast and St. Louis",
-				"url": "https://azurlane.netojuu.com/w/images/8/82/Bg_belfast_2.png"
-			},
-			{
-				"description": "Enterprise with her eagle",
-				"url": "https://azurlane.netojuu.com/w/images/8/8d/Bg_enterprise_2.png"
-			},
-			{
-				"description": "Yorktown and Enterprise",
-				"url": "https://azurlane.netojuu.com/w/images/3/34/Bg_yorktown_1.png"
-			},
-			{
-				"description": "Loading screen depicting Enterprise with her sister Yorktown and Hornet",
-				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_yorktown_class_1.png"
-			},
-			{
-				"description": "Loading screen depicting Enterprise holding her sister Yorktown in her final moments",
-				"url": "https://azurlane.netojuu.com/w/images/3/34/Bg_yorktown_1.png"
-			},
-			{
-				"description": "Loading screen showing Enterprise launching aircraft",
-				"url": "https://azurlane.netojuu.com/w/images/c/ca/Bg_enterprise_1.png"
-			},
-			{
-				"description": "Dive bomber that delivers the killing blow to Akagi replaced with a Bald Eagle",
-				"url": "https://azurlane.netojuu.com/w/images/e/e7/Memory_Midway_Showdown_Background_2.png"
-			},
-			{
-				"description": "Three Douglas SBD Dauntless dive bombers overhead of Akagi",
-				"url": "https://azurlane.netojuu.com/w/images/8/81/Memory_Midway_Showdown_Background_1.png"
-			},
-			{
-				"description": "Enterprise protecting Hornet while the latter executes the Doolittle Raid",
-				"url": "https://azurlane.netojuu.com/w/images/f/fc/Memory_Battle_of_Coral_Sea_Background_2.png"
-			},
-			{
-				"description": "Enterprise in her update background",
-				"url": "https://azurlane.netojuu.com/w/images/8/82/Updatebg_Eagle.png"
-			}
-		]
+		"gallery": []
 	},
 	"078": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hornet",
@@ -153684,8 +153258,6 @@
 			{
 				"name": "Seraphic Sunshine",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/5/57/FortuneParty.png/585px-FortuneParty.png",
-				"nobg": null,
-				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/3/32/FortunePartyChibi.png",
 				"info": {

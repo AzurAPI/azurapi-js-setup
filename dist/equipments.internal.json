@@ -118,7 +118,7 @@
 			"en": "Quadruple 130mm Mle 1932 Secondary Gun Mount",
 			"cn": "四联装130mm副炮Mle1932",
 			"jp": "130mm副砲Mle1932",
-			"kr": "130mm 부포 Mle 1932"
+			"kr": null
 		}
 	},
 	"Single 100mm (Type 88)": {
@@ -254,7 +254,7 @@
 			"en": "Single 100mm Type 88 Naval Gun Mount",
 			"cn": "100mm88式火炮",
 			"jp": "100mm八八式砲",
-			"kr": "100mm88식 화포"
+			"kr": null
 		}
 	},
 	"Single 102mm (QF Mk V)": {
@@ -543,7 +543,7 @@
 			"en": "Single 102mm Secondary Gun Mount",
 			"cn": "单装102mm副炮",
 			"jp": "102mm単装砲(副砲)",
-			"kr": "102mm 단장 부포"
+			"kr": null
 		}
 	},
 	"Single 120mm (10th Year Type)": {
@@ -675,7 +675,7 @@
 			"en": "Single 120mm High-Angle Gun Mount",
 			"cn": "120mm单装高角炮",
 			"jp": "120mm高角砲",
-			"kr": "120mm 단장 고각포"
+			"kr": null
 		}
 	},
 	"Single 120mm (11th Year Type)": {
@@ -805,7 +805,7 @@
 			"en": "Single 120mm 11th Year Type Naval Gun Mount",
 			"cn": "十一年式120mm单装炮",
 			"jp": "120mm十一年式砲",
-			"kr": "11연식 120mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 120mm (QF Mark IX)": {
@@ -1094,7 +1094,7 @@
 			"en": "Single 120mm QF Mark IX Naval Gun",
 			"cn": "120mm单装炮",
 			"jp": "120mm単装砲",
-			"kr": "120mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 120mm (Type 3)": {
@@ -1383,7 +1383,7 @@
 			"en": "Single 120mm Type 3 Naval Gun",
 			"cn": "120mm单装炮",
 			"jp": "120mm単装砲",
-			"kr": "120mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 127mm (5\"/38 Mk 21)": {
@@ -1513,7 +1513,7 @@
 			"en": "Early Model Single 127mm Gun",
 			"cn": "127mm单装炮早期型",
 			"jp": "127mm単装砲初期型",
-			"kr": "127mm 단장포 초기형"
+			"kr": null
 		}
 	},
 	"Single 127mm (5\"/38 Mk 30)": {
@@ -1808,7 +1808,7 @@
 			"en": "Single 127mm Main Gun",
 			"cn": "127mm单装炮",
 			"jp": "127mm単装砲",
-			"kr": "127mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 127mm (SK C/34)": {
@@ -2081,7 +2081,7 @@
 			"en": "Single 127mm Main Gun",
 			"cn": "单装127mm主炮",
 			"jp": "127mm単装砲",
-			"kr": "127mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 127mm (Type 3 Mod B)": {
@@ -2215,7 +2215,7 @@
 			"en": "Single 127mm Dual-Purpose Gun",
 			"cn": "127mm单装两用炮",
 			"jp": "127mm両用砲",
-			"kr": "127mm 단장 양용포"
+			"kr": null
 		}
 	},
 	"Single 130mm (B13 Pattern 1936)": {
@@ -2496,7 +2496,7 @@
 			"en": "Single 130mm Naval Gun",
 			"cn": "130mm单装炮",
 			"jp": "130mm単装砲",
-			"kr": "130mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 130mm (Mle 1924)": {
@@ -2699,7 +2699,7 @@
 			"en": "Single 130mm Mle 1924 Naval Gun",
 			"cn": "130mm单装炮Mle1924",
 			"jp": "130mm単装砲Mle1924",
-			"kr": "130mm 단장포 Mle 1924"
+			"kr": null
 		}
 	},
 	"Single 138.6mm (Mle 1927)": {
@@ -2980,7 +2980,7 @@
 			"en": "Single 138.6mm Mle 1927 Naval Gun",
 			"cn": "138.6mm单装炮Mle1927",
 			"jp": "138.6mm単装砲Mle1927",
-			"kr": "138.6mm 단장포 Mle1927"
+			"kr": null
 		}
 	},
 	"Single 138.6mm (Mle 1929)": {
@@ -3261,7 +3261,7 @@
 			"en": "Single 138.6mm Mle 1929 Naval Gun",
 			"cn": "138.6mm单装炮Mle1929",
 			"jp": "138.6mm単装砲Mle1929",
-			"kr": "138.6mm 단장포 Mle 1929"
+			"kr": null
 		}
 	},
 	"Single 76mm (3\"/50 caliber gun)": {
@@ -3546,7 +3546,7 @@
 			"en": "76mm AA Gun",
 			"cn": "76mm火炮",
 			"jp": "76mm砲",
-			"kr": "76mm 단장포"
+			"kr": null
 		}
 	},
 	"Triple 102mm (BL 4\" Mk IX)": {
@@ -3831,7 +3831,7 @@
 			"en": "Triple 102mm Secondary Gun Mount",
 			"cn": "三联装102mm副炮",
 			"jp": "102mm三連装砲(副砲)",
-			"kr": "102mm 3연장 부포"
+			"kr": null
 		}
 	},
 	"Twin 100mm (Type 98)": {
@@ -4116,7 +4116,7 @@
 			"en": "Twin 100mm Type 98 High-Angle Gun",
 			"cn": "双联100mm98式高射炮",
 			"jp": "100mm二連装九八式高角砲",
-			"kr": "98식 100mm 연장 고사포"
+			"kr": null
 		}
 	},
 	"Twin 102mm (QF Mk XVI)": {
@@ -4409,7 +4409,7 @@
 			"en": "Twin 102mm Secondary Gun Mount",
 			"cn": "双联装102mm副炮",
 			"jp": "102mm連装砲(副砲)",
-			"kr": "102mm 연장 부포"
+			"kr": null
 		}
 	},
 	"Twin 102mm (QF Mk XVI*)": {
@@ -4538,7 +4538,7 @@
 			"en": "Twin 102mm Mk XVI Secondary Gun Mount",
 			"cn": "双联装102mm副炮Mark XVI",
 			"jp": "102mm連装副砲MarkXVI",
-			"kr": "연장포102mm 부포 Mark XVI"
+			"kr": null
 		}
 	},
 	"Twin 114mm (QF Mk IV Prototype)": {
@@ -4899,7 +4899,7 @@
 			"en": "Twin 120mm M1933 Main Gun Mount",
 			"cn": "双联装120mm炮Model1933",
 			"jp": "120mm連装砲Model1933",
-			"kr": "120mm 연장포 Model1933"
+			"kr": null
 		}
 	},
 	"Twin 120mm (Model 1936)": {
@@ -5180,7 +5180,7 @@
 			"en": "Twin 120mm M1936 Main Gun Mount",
 			"cn": "双联装120mm炮Model1936",
 			"jp": "120mm連装砲Model1936",
-			"kr": "120mm 연장포 Model1936"
+			"kr": null
 		}
 	},
 	"Twin 120mm (QF Mark XI)": {
@@ -5306,7 +5306,7 @@
 			"en": "Twin 120mm Mk XI Dual-Purpose Gun Mount",
 			"cn": "双联装120mm高平两用炮Mark XI",
 			"jp": "120mm連装両用砲MarkXI",
-			"kr": "연장포120mm 고평양용포 Mark XI"
+			"kr": null
 		}
 	},
 	"Twin 120mm (QF Mark XII)": {
@@ -5599,7 +5599,7 @@
 			"en": "Twin 120mm Main Gun Mount",
 			"cn": "双联装120mm主炮",
 			"jp": "120mm連装砲",
-			"kr": "120mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 127mm (5\"/38 Mk 32)": {
@@ -5735,7 +5735,7 @@
 			"en": "Twin 127mm Secondary Gun Mount",
 			"cn": "双联装127mm副炮",
 			"jp": "127mm連装副砲",
-			"kr": "연장포127mm 부포"
+			"kr": null
 		}
 	},
 	"Twin 127mm (5\"/38 Mk 38)": {
@@ -6026,7 +6026,7 @@
 			"en": "Twin 127mm Mk 12 Dual-Purpose Gun Mount",
 			"cn": "双联装127mm高平两用炮Mk12",
 			"jp": "127mm連装両用砲MK12",
-			"kr": "127mm 연장 양용포 Mk12"
+			"kr": null
 		}
 	},
 	"Twin 127mm (KM40)": {
@@ -6152,7 +6152,7 @@
 			"en": "Twin 127mm KM40 Main Gun Mount",
 			"cn": "双联装127mmKM40主炮",
 			"jp": "127mmKM40連装砲",
-			"kr": "연장포 127mm KM40 주포"
+			"kr": null
 		}
 	},
 	"Twin 127mm (Type 3 Mod B)": {
@@ -6278,7 +6278,7 @@
 			"en": "Twin 127mm Type 3 Kai Naval Gun Mount",
 			"cn": "127mm连装炮改",
 			"jp": "127mm連装砲改",
-			"kr": "127mm 연장포改"
+			"kr": null
 		}
 	},
 	"Twin 127mm (Type 3)": {
@@ -6567,7 +6567,7 @@
 			"en": "Twin 127mm Naval Gun Mount",
 			"cn": "127mm连装炮",
 			"jp": "127mm連装砲",
-			"kr": "127mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 128mm (SK C/41)": {
@@ -6856,7 +6856,7 @@
 			"en": "Twin 128mm SK C/41 Dual-Purpose Gun Mount",
 			"cn": "双联装128mmSKC41高平两用炮",
 			"jp": "128mmSKC41連装両用砲",
-			"kr": "128mm SKC/41 연장 양용포"
+			"kr": null
 		}
 	},
 	"Twin 128mm/45 SK C/41": {
@@ -6982,7 +6982,7 @@
 			"en": "Twin 128mm/45 SK C/41 Dual-Purpose Gun Mount",
 			"cn": "双联装128mmSKC41高平两用炮改",
 			"jp": "128mmSKC41連装両用砲改",
-			"kr": "연장포 128mm SKC41 고평양용포改"
+			"kr": null
 		}
 	},
 	"Twin 130mm (B-2LM)": {
@@ -7185,7 +7185,7 @@
 			"en": "Twin 130mm B-2LM Main Gun Mount",
 			"cn": "B-13 双联装130mm主炮B-2LM",
 			"jp": "130mm連装砲B-2LM",
-			"kr": "B-13 연장 130mm 주포 B-2LM"
+			"kr": null
 		}
 	},
 	"Twin 130mm (Mle 1935)": {
@@ -7308,7 +7308,7 @@
 			"en": "Twin 130mm Mle 1935 Main Gun Mount",
 			"cn": "双联装130mm主炮Mle1935",
 			"jp": "130mm連装砲Mle1935",
-			"kr": "130mm 연장 주포 Mle1935"
+			"kr": null
 		}
 	},
 	"Twin 134mm (QF Mark II)": {
@@ -7593,7 +7593,7 @@
 			"en": "Twin 134mm High-Angle Gun Mount",
 			"cn": "双联装134mm高炮",
 			"jp": "134mm連装高角砲",
-			"kr": "134mm 연장 고사포"
+			"kr": null
 		}
 	},
 	"Single 140mm (3rd Year Type)": {
@@ -7882,7 +7882,7 @@
 			"en": "Single 140mm Naval Gun",
 			"cn": "140mm单装炮",
 			"jp": "140mm単装砲",
-			"kr": "140mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 150mm (6\"/47 caliber gun)": {
@@ -8005,7 +8005,7 @@
 			"en": "Single 150mm Main Gun Mount",
 			"cn": "单装150mm主炮",
 			"jp": "150mm主砲",
-			"kr": "150mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 150mm (SK C/28)": {
@@ -8298,7 +8298,7 @@
 			"en": "Single 150mm SK C/28 Main Gun Mount",
 			"cn": "单装SKC28式150mm主炮",
 			"jp": "150mmSKC/28単装砲",
-			"kr": "150mm SKC/28 단장포"
+			"kr": null
 		}
 	},
 	"Single 150mm (TbtsK C/36)": {
@@ -8509,7 +8509,7 @@
 			"en": "Single 150mm TbtsK C/36 Main Gun Mount",
 			"cn": "单装TbtsKC36式150mm主炮",
 			"jp": "150mmTbtsKC36単装砲",
-			"kr": "단장 TbtsKC 36식 150mm 주포"
+			"kr": null
 		}
 	},
 	"Single 152mm (41st Year Type)": {
@@ -8630,7 +8630,7 @@
 			"en": "Single 152mm Pattern 1892 Naval Gun Mount",
 			"cn": "152mm单装炮",
 			"jp": "152mm単装砲",
-			"kr": "152mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 152mm (6\"/45 Pattern 1892)": {
@@ -8833,7 +8833,7 @@
 			"en": "Single 152mm Mk XII Main Gun Mount",
 			"cn": "单装152mm主炮",
 			"jp": "152mm単装砲",
-			"kr": "152mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 152mm (BL 6\" Mk XII)": {
@@ -9118,7 +9118,7 @@
 			"en": "Single 152mm Secondary Gun Mount",
 			"cn": "单装152mm副炮",
 			"jp": "152mm単装砲",
-			"kr": "152mm 단장포"
+			"kr": null
 		}
 	},
 	"Single 155mm (Mle 1920)": {
@@ -9240,7 +9240,7 @@
 			"en": "Single 155mm Mle 1920 Secondary Gun Mount",
 			"cn": "单装155mm副炮Mle1920",
 			"jp": "155mm単装副砲Mle1920",
-			"kr": "단장 155mm 부포 Mle1920"
+			"kr": null
 		}
 	},
 	"Triple 150mm (SK C/25)": {
@@ -9525,7 +9525,7 @@
 			"en": "Triple 150mm SK C/25 Main Gun Mount",
 			"cn": "三联装SKC25式150mm主炮",
 			"jp": "150mmSKC/25三連装砲",
-			"kr": "150mm SKC/28 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 152mm (6\"/47 Mk 16)": {
@@ -9820,7 +9820,7 @@
 			"en": "Triple 152mm Main Gun",
 			"cn": "三联装152mm主炮",
 			"jp": "152mm三連装砲",
-			"kr": "152mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 152mm (6\"/47 Mk 16) Mod 1": {
@@ -9952,7 +9952,7 @@
 			"en": "Triple 152mm Mk 16 Main Gun Mount",
 			"cn": "三联装152mm主炮Mk16",
 			"jp": "152mm三連装砲Mk16",
-			"kr": "3연장 152mm 주포 Mk16"
+			"kr": null
 		}
 	},
 	"Triple 152mm (6\"/47 Mk 17 DP Prototype)": {
@@ -10080,7 +10080,7 @@
 			"en": "Prototype Triple 152mm DP Mk 17 Main Gun Mount",
 			"cn": "试作型三联装152mm高平两用炮Mk17",
 			"jp": "試作型三連装152mm両用砲Mk17",
-			"kr": "시제형 3연장 152mm 양용포 Mk17"
+			"kr": null
 		}
 	},
 	"Triple 152mm (BL 6\" Mk XXIII)": {
@@ -10297,7 +10297,7 @@
 			"en": "Triple 152mm Main Gun",
 			"cn": "三联装152mm主炮",
 			"jp": "152mm三連装砲",
-			"kr": "152mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 152mm (BL 6\" Mk XXV Prototype)": {
@@ -10328,7 +10328,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/w/images/0/0d/Bullet_pattern_equip_22260.gif",
-			"obtainedFrom": "Acquired through research (series 1) or the Gear Lab."
+			"obtainedFrom": "Acquired through Research (Series 1), Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -10423,7 +10423,7 @@
 			"en": "Prototype Triple 152mm Mk XXV Main Gun Mount",
 			"cn": "试作型三联装152mm主炮",
 			"jp": "試製152mm三連装砲",
-			"kr": "시제형 152mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 152mm (MK-5)": {
@@ -10704,7 +10704,7 @@
 			"en": "Triple 152mm B-38 MK 5 Main Gun Mount",
 			"cn": "B-38 三联装152mm主炮Mk5",
 			"jp": "152mm三連装砲B-38 MK5",
-			"kr": "B-38 3연장 152mm 주포 Mk5"
+			"kr": null
 		}
 	},
 	"Triple 152mm (Mle 1930)": {
@@ -10907,7 +10907,7 @@
 			"en": "Triple 152mm Mle 1930 Main Gun Mount",
 			"cn": "三联装152mm主炮Mle1930",
 			"jp": "152mm三連装砲Mle1930",
-			"kr": "152mm 3연장포 Mle 1930"
+			"kr": null
 		}
 	},
 	"Triple 152mm (Model 1934)": {
@@ -11133,7 +11133,11 @@
 				"Twin 152mm (41st Year Type)"
 			],
 			"notes": "Fires 2 volleys with 3 projectiles each parallel towards the target.",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Triple 155mm (3rd Year Type) Kai",
+				"Triple 155mm (3rd Year Type) Kai"
+			],
 			"animation": "https://azurlane.netojuu.com/w/images/a/ad/Bullet_pattern_equip_32220.gif",
 			"obtainedFrom": "6-2, 8-3, 13-1, T4/T5 Sakura Tech Box.Blueprints can also be obtained through Research."
 		},
@@ -11389,7 +11393,7 @@
 			"en": "Triple 155mm Main Gun Mount",
 			"cn": "155mm三连装炮",
 			"jp": "155mm三連装砲",
-			"kr": "155mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 180mm (B-1-P Pattern 1932)": {
@@ -11797,7 +11801,7 @@
 			"en": "Twin 140mm Naval Gun Mount",
 			"cn": "140mm连装炮",
 			"jp": "140mm連装砲",
-			"kr": "140mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 150mm (SK C/28)": {
@@ -11826,7 +11830,11 @@
 				"Single 150mm (SK C/28)"
 			],
 			"notes": "",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Twin 150mm (SK C/28 Prototype)",
+				"Twin 150mm (SK C/28 Prototype)"
+			],
 			"animation": "https://azurlane.netojuu.com/w/images/4/48/Bullet_pattern_equip_42060.gif",
 			"obtainedFrom": "Gear Lab"
 		},
@@ -11923,7 +11931,7 @@
 			"en": "Twin 150mm SK C/28 Secondary Gun Mount",
 			"cn": "双联装SKC28式150mm副炮",
 			"jp": "150mmSKC28連装副砲",
-			"kr": "연장포 SKC28식 150mm 부포"
+			"kr": null
 		}
 	},
 	"Twin 150mm (TbtsK C/36)": {
@@ -12208,7 +12216,7 @@
 			"en": "Twin 150mm TbtsK C/36 Main Gun Mount",
 			"cn": "双联装TbtsKC36式150mm主炮",
 			"jp": "150mmTbtsKC/36連装砲",
-			"kr": "150mm TbtsKC/36 연장포"
+			"kr": null
 		}
 	},
 	"Twin 152mm (41st Year Type)": {
@@ -12497,7 +12505,7 @@
 			"en": "Twin 152mm Naval Gun Mount",
 			"cn": "152mm连装炮",
 			"jp": "152mm連装砲",
-			"kr": "152mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 152mm (6\"/53 Mk 15)": {
@@ -12627,7 +12635,7 @@
 			"en": "Twin 152mm Mk 15 Main Gun Mount",
 			"cn": "双联152mm主炮Mk15",
 			"jp": "152mm連装砲Mk15",
-			"kr": "연장 152mm 주포 Mk15"
+			"kr": null
 		}
 	},
 	"Twin 152mm (6\"/53 Mk 18)": {
@@ -12912,7 +12920,7 @@
 			"en": "Twin 152mm Main Gun",
 			"cn": "双联152mm主炮",
 			"jp": "152mm連装砲",
-			"kr": "152mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 152mm (BL 6\" Mk XXII)": {
@@ -13046,7 +13054,7 @@
 			"en": "Twin 152mm Secondary Gun Mount",
 			"cn": "双联装152mm副炮",
 			"jp": "152mm連装副砲",
-			"kr": "연장포152mm 부포"
+			"kr": null
 		}
 	},
 	"Twin 152mm (BL 6\" Mk XXIII)": {
@@ -13331,7 +13339,7 @@
 			"en": "Twin 152mm Main Gun",
 			"cn": "双联装152mm主炮",
 			"jp": "152mm連装砲",
-			"kr": "152mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 152mm (Pattern 1892)": {
@@ -13456,7 +13464,7 @@
 			"en": "Twin 152mm Pattern 1892 Main Gun Mount",
 			"cn": "双联装152mm主炮Model1892",
 			"jp": "152mm連装砲Model1892",
-			"kr": "연장 152mm 주포 Model1892"
+			"kr": null
 		}
 	},
 	"Twin 155mm (Mle 1920)": {
@@ -13578,7 +13586,7 @@
 			"en": "Twin 155mm Mle 1920 Main Gun Mount",
 			"cn": "双联装155mm主炮Mle1920",
 			"jp": "155mm連装砲Mle1920",
-			"kr": "2연장 155mm 주포 Mle1920"
+			"kr": null
 		}
 	},
 	"Triple 203mm (8\"/55 Mk 13)": {
@@ -13704,7 +13712,7 @@
 			"en": "Triple 203mm Mk 13 Main Gun Mount",
 			"cn": "三联装203mm主炮Mk13",
 			"jp": "203mm三連装砲Mk13",
-			"kr": "3연장 203mm 주포 Mk13"
+			"kr": null
 		}
 	},
 	"Triple 203mm (8\"/55 Mk 15)": {
@@ -13999,7 +14007,7 @@
 			"en": "Triple 203mm Improved Main Gun Mount",
 			"cn": "三联装203mm主炮改进型",
 			"jp": "203mm三連装砲改",
-			"kr": "개량형 203mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 203mm (8\"/55 Mk 15) T0": {
@@ -14420,7 +14428,7 @@
 			"en": "Triple 203mm Main Gun Mount (Improved)",
 			"cn": "三联装203mm主炮",
 			"jp": "203mm三連装砲",
-			"kr": "203mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 203mm (BL Mk IX Prototype)": {
@@ -14546,7 +14554,7 @@
 			"en": "Prototype Triple 203mm Mk IX Main Gun Mount",
 			"cn": "试作型三联装203mm主炮Mark IX",
 			"jp": "試作型203mm三連装砲MarkIX",
-			"kr": "시제형 3연장 203mm 주포 Mark IX"
+			"kr": null
 		}
 	},
 	"Triple 203mm (Mle 1934 Prototype)": {
@@ -14668,7 +14676,7 @@
 			"en": "Prototype Triple 203mm AA Gun",
 			"cn": "试作型三联装203mm舰炮",
 			"jp": "試製203mm三連装砲",
-			"kr": "시제형 203mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 203mm (SK C/34 Prototype)": {
@@ -14691,11 +14699,15 @@
 		"image": "https://azurlane.netojuu.com/w/images/8/83/43060.png",
 		"misc": {
 			"blueprints": "",
-			"madeFrom": [],
+			"madeFrom": [
+				"",
+				"Twin 203mm (SK C/34)#Type 3",
+				"Twin 203mm (SK C/34)"
+			],
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/w/images/5/51/Bullet_pattern_equip_43060.gif",
-			"obtainedFrom": "Acquired through research only (series 1)."
+			"obtainedFrom": "Acquired through Research (Series 1), Gear Lab"
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
@@ -14790,7 +14802,7 @@
 			"en": "Prototype Triple 203mm SK C/34 Main Gun Mount",
 			"cn": "试作型三联装203mmSKC主炮",
 			"jp": "試作203mmSKC三連装砲",
-			"kr": "시제형 203mm SKC 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 234mm (BL 9.2\" Mk XII Prototype)": {
@@ -14912,14 +14924,14 @@
 			"en": "Prototype Triple 234mm Main Gun Mount",
 			"cn": "试作型三联装234mm主炮",
 			"jp": "試作型234mm三連装砲",
-			"kr": "시제형 3연장 234mm 주포"
+			"kr": null
 		}
 	},
 	"Triple 283mm (SK C/28)": {
 		"fits": {
 			"destroyer": null,
 			"lightCruiser": null,
-			"heavyCruiser": "\"Deutschland-class and Prinz Heinrich\" only",
+			"heavyCruiser": "\"Deutschland-class and P-class\" only",
 			"monitor": null,
 			"largeCruiser": "primary",
 			"battleship": null,
@@ -15190,7 +15202,7 @@
 			"en": "Triple 283mm SK C/28 Main Gun Mount",
 			"cn": "三联283mmSKC28主炮",
 			"jp": "283mmSKC28三連装砲",
-			"kr": "283mm SKC/28 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 310mm (Type 0 Prototype)": {
@@ -15311,7 +15323,7 @@
 			"en": "Prototype Triple 310mm Type 0 Main Gun Mount",
 			"cn": "试作型三联装310mm主炮",
 			"jp": "試作型三連装310mm砲",
-			"kr": "시제형 3연장 310mm 포"
+			"kr": null
 		}
 	},
 	"Twin 203mm (3rd Year Type No. 2)": {
@@ -15444,7 +15456,7 @@
 			"en": "Twin 203mm No. 2 Naval Gun Mount",
 			"cn": "203mm连装炮改",
 			"jp": "203mm連装砲改",
-			"kr": "203mm 연장포改"
+			"kr": null
 		}
 	},
 	"Twin 203mm (3rd Year Type No. 3 Prototype)": {
@@ -15570,7 +15582,7 @@
 			"en": "Prototype 203mm No. 3 Naval Gun Mount",
 			"cn": "试作型203mm(3号)连装炮",
 			"jp": "試製203mm連装砲（3号）",
-			"kr": "시제형 203mm 연장포 (3호)"
+			"kr": null
 		}
 	},
 	"Twin 203mm (3rd Year Type)": {
@@ -15861,7 +15873,7 @@
 			"en": "Twin 203mm Naval Gun Mount",
 			"cn": "203mm连装炮",
 			"jp": "203mm連装砲",
-			"kr": "203mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 203mm (BL 8\" Mk VIII)": {
@@ -16152,7 +16164,7 @@
 			"en": "Twin 203mm Mk VIII Main Gun Mount",
 			"cn": "双联装203mm主炮",
 			"jp": "203mm連装砲",
-			"kr": "203mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 203mm (Mle 1924 Submarine-mount)": {
@@ -16271,7 +16283,7 @@
 			"en": "Twin 203mm Mle 1924 Submarine Gun Mount",
 			"cn": "双联装203mm主炮Mle1924(潜艇用)",
 			"jp": "潜水艦用203mm連装砲Mle1924",
-			"kr": "잠수함용 203mm 연장포 Mle 1924"
+			"kr": null
 		}
 	},
 	"Twin 203mm (Mle 1924)": {
@@ -16663,7 +16675,7 @@
 			"en": "Twin 203mm Model 1924 Main Gun Mount",
 			"cn": "双联203mm主炮Model1924",
 			"jp": "203mm連装砲Model1924",
-			"kr": "203mm 연장포 Model1924"
+			"kr": null
 		}
 	},
 	"Twin 203mm (Model 1927)": {
@@ -16944,7 +16956,7 @@
 			"en": "Twin 203mm Model 1927 Main Gun Mount",
 			"cn": "双联203mm主炮Model1927",
 			"jp": "203mm連装砲Model1927",
-			"kr": "203mm 연장포 Model1927"
+			"kr": null
 		}
 	},
 	"Twin 203mm (SK C/34)": {
@@ -16969,7 +16981,11 @@
 			"blueprints": "",
 			"madeFrom": [],
 			"notes": "Fires 3 volleys with 2 projectiles each parallel towards the target.",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Triple 203mm (SK C/34 Prototype)",
+				"Triple 203mm (SK C/34 Prototype)"
+			],
 			"animation": "https://azurlane.netojuu.com/w/images/a/ad/Bullet_pattern_equip_43000.gif",
 			"obtainedFrom": "7-3, 8-4, T4/T5 Ironblood Tech Box. Blueprints can also be obtained through Research."
 		},
@@ -17225,7 +17241,7 @@
 			"en": "Twin 203mm (SK C/34)",
 			"cn": "双联装203mmSKC主炮",
 			"jp": "203mmSKC連装砲",
-			"kr": "203mm SKC 연장포"
+			"kr": null
 		}
 	},
 	"Twin 234mm (BL 9.2\" Mk XII Prototype)": {
@@ -17347,7 +17363,7 @@
 			"en": "Prototype Twin 234mm Main Gun Mount",
 			"cn": "试作型双联装234mm主炮",
 			"jp": "試作型234mm連装砲",
-			"kr": "시제형 2연장 234mm 주포"
+			"kr": null
 		}
 	},
 	"Quadruple 330mm (Mle 1931)": {
@@ -17616,7 +17632,7 @@
 			"en": "Quadruple 330mm Mle 1931 Main Gun Mount",
 			"cn": "四联装330mm主炮Mle1931",
 			"jp": "330mm四連装砲Mle1931",
-			"kr": "330mm 4연장포 Mle 1931"
+			"kr": null
 		}
 	},
 	"Quadruple 356mm (14\"/50 Mark B Prototype)": {
@@ -17744,7 +17760,7 @@
 			"en": "Prototype Quadruple 356mm Mk B Main Gun Mount",
 			"cn": "试作型四联装356mm主炮MkB",
 			"jp": "試作型356mm四連装砲MkB",
-			"kr": "시제형 4연장 356mm 주포 MkB"
+			"kr": null
 		}
 	},
 	"Quadruple 356mm (BL 14\" Mk VII)": {
@@ -18023,7 +18039,7 @@
 			"en": "Quadruple 356mm Main Gun Mount",
 			"cn": "四联装356mm主炮",
 			"jp": "356mm四連装砲",
-			"kr": "356mm 4연장포"
+			"kr": null
 		}
 	},
 	"Quadruple 380mm (Mle 1935)": {
@@ -18298,7 +18314,7 @@
 			"en": "Quadruple 380mm Mle 1935 Main Gun Mount",
 			"cn": "四联装380mm主炮Mle1935",
 			"jp": "380mm四連装砲Mle1935",
-			"kr": "380mm 4연장포 Mle 1935"
+			"kr": null
 		}
 	},
 	"Triple 283mm (SK C/34)": {
@@ -18577,7 +18593,7 @@
 			"en": "Triple 283mm SK C/34 Main Gun Mount",
 			"cn": "三联283mmSKC34主炮",
 			"jp": "283mmSKC34三連装砲",
-			"kr": "283mm SKC/34 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 305mm (Pattern 1907)": {
@@ -18700,7 +18716,7 @@
 			"en": "Triple 305mm M1907 Main Gun Mount",
 			"cn": "三联装305mm主炮Model1907",
 			"jp": "305mm三連装砲Model1907",
-			"kr": "3연장 305mm 주포 Model1907"
+			"kr": null
 		}
 	},
 	"Triple 305mm (SK C/39 Prototype)": {
@@ -18821,7 +18837,7 @@
 			"en": "Prototype Triple 305mm SK C/39 Main Gun Mount",
 			"cn": "试作型三联装305mmSKC39主炮",
 			"jp": "試作型305mmSKC39三連装砲",
-			"kr": "시제형 3연장 305mm SKC39 주포"
+			"kr": null
 		}
 	},
 	"Triple 320mm (Model 1934)": {
@@ -18939,7 +18955,7 @@
 			"en": "Triple 320mm M1934 Main Gun Mount",
 			"cn": "三联装320mm主炮Model1934",
 			"jp": "320mm三連装砲Model1934",
-			"kr": "320mm 3연장포 Model 1934"
+			"kr": null
 		}
 	},
 	"Triple 356mm (14\"/50 Mk 11)": {
@@ -19216,7 +19232,7 @@
 			"en": "Triple 356mm Main Gun Mount",
 			"cn": "三联装356mm主炮",
 			"jp": "356mm三連装砲",
-			"kr": "356mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 381mm (BL 15\" Mk III Prototype)": {
@@ -19239,11 +19255,15 @@
 		"image": "https://azurlane.netojuu.com/w/images/7/78/24160.png",
 		"misc": {
 			"blueprints": "",
-			"madeFrom": [],
+			"madeFrom": [
+				"",
+				"Triple 406mm (BL 16\" Mk I)#Type 3",
+				"Triple 406mm (BL 16\" Mk I)"
+			],
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (series 1)."
+			"obtainedFrom": "Acquired through Research (Series 1), Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -19334,7 +19354,7 @@
 			"en": "Prototype Triple 381mm AA Gun",
 			"cn": "试作型三联装381mm主炮",
 			"jp": "試製381mm三連装砲",
-			"kr": "시제형 381mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 381mm (Model 1934)": {
@@ -19609,7 +19629,7 @@
 			"en": "Triple 381mm M1934 Main Gun Mount",
 			"cn": "三联装381mm主炮Model1934",
 			"jp": "381mm三連装砲Model1934",
-			"kr": "381mm 3연장포 Model1934"
+			"kr": null
 		}
 	},
 	"Triple 406mm (16\"/45 Mk 6)": {
@@ -19888,7 +19908,7 @@
 			"en": "Triple 406mm Mk 6 Main Gun Mount",
 			"cn": "三联装406mm主炮Mk6",
 			"jp": "406mm三連装砲MK6",
-			"kr": "406mm 3연장포 Mk6"
+			"kr": null
 		}
 	},
 	"Triple 406mm (16\"/50 Mark D Mod 0 Prototype)": {
@@ -20012,7 +20032,7 @@
 			"en": "Prototype 406mm Mk D Main Gun Mount",
 			"cn": "试作型三联装406mm主炮MkD",
 			"jp": "試作型406mm三連装砲MkD",
-			"kr": "시제형 3연장 406mm 주포 MkD"
+			"kr": null
 		}
 	},
 	"Triple 406mm (16\"/50 Mk 2)": {
@@ -20140,7 +20160,7 @@
 			"en": "Triple 406mm Mk 2 Main Gun Mount",
 			"cn": "三联装406mm主炮Mk2",
 			"jp": "406mm三連装砲Mk2",
-			"kr": "3연장 406mm 주포 Mk2"
+			"kr": null
 		}
 	},
 	"Triple 406mm (BL 16\" Mk I)": {
@@ -20169,7 +20189,11 @@
 				"Twin 381mm (BL 15\" Mk I)"
 			],
 			"notes": "",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Triple 381mm (BL 15\" Mk III Prototype)",
+				"Triple 381mm (BL 15\" Mk III Prototype)"
+			],
 			"animation": "",
 			"obtainedFrom": "6-3, T4/T5 Royal Tech Box. Blueprints can also be obtained through Research."
 		},
@@ -20419,7 +20443,7 @@
 			"en": "Triple 406mm Main Gun",
 			"cn": "三联装406mm主炮",
 			"jp": "406mm三連装砲",
-			"kr": "406mm 3연장포"
+			"kr": null
 		}
 	},
 	"Triple 406mm (MK-1)": {
@@ -20617,7 +20641,7 @@
 			"en": "Triple 406mm MK-1 Main Gun Mount",
 			"cn": "B-37 三联装406mm主炮Mk-1",
 			"jp": "406mm三連装砲B-37 MK-1",
-			"kr": "B-37 3연장 406mm 주포 Mk-1"
+			"kr": null
 		}
 	},
 	"Triple 406mm (Mle 1938 Prototype)": {
@@ -20735,7 +20759,7 @@
 			"en": "Prototype Triple 406mm /50 Main Gun Mount",
 			"cn": "试作型三联装406mm/50主炮",
 			"jp": "試作型406mm/50三連装砲",
-			"kr": "시제형 3연장 406mm/50 주포"
+			"kr": null
 		}
 	},
 	"Triple 410mm (10th Year Type Prototype)": {
@@ -20758,11 +20782,15 @@
 		"image": "https://azurlane.netojuu.com/w/images/8/83/34180.png",
 		"misc": {
 			"blueprints": "",
-			"madeFrom": [],
+			"madeFrom": [
+				"",
+				"Twin 410mm (3rd Year Type) Kai",
+				"Twin 410mm (3rd Year Type) Kai"
+			],
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (series 1)."
+			"obtainedFrom": "Acquired through Research (Series 1), Gear Lab"
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
@@ -20859,7 +20887,7 @@
 			"en": "Prototype Triple 410mm Main Gun Mount",
 			"cn": "试作型410mm三连装炮",
 			"jp": "試製410mm三連装砲",
-			"kr": "시제형 410mm 3연장포"
+			"kr": null
 		}
 	},
 	"Twin 305mm (41st Year Type)": {
@@ -20977,7 +21005,7 @@
 			"en": "Twin 356mm 41st Year Type Naval Gun Mount",
 			"cn": "305mm连装炮",
 			"jp": "305mm連装砲",
-			"kr": "305mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 356mm (41st Year Type)": {
@@ -21250,7 +21278,7 @@
 			"en": "Twin 356mm Naval Gun Mount",
 			"cn": "356mm连装炮",
 			"jp": "356mm連装砲",
-			"kr": "356mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 356mm (41st Year Type) Kai": {
@@ -21376,7 +21404,7 @@
 			"en": "Twin 356mm 41st Year Type Naval Gun Mount",
 			"cn": "356mm毘式连装炮",
 			"jp": "毘式356mm連装砲",
-			"kr": "356mm 비식 연장포"
+			"kr": null
 		}
 	},
 	"Twin 356mm (BL 14\" Mk VII)": {
@@ -21508,7 +21536,7 @@
 			"en": "Twin 356mm Mk VII Main Gun Mount",
 			"cn": "双联装356mm主炮",
 			"jp": "356mm連装砲MarkVII",
-			"kr": "연장포356mm 주포"
+			"kr": null
 		}
 	},
 	"Twin 380mm (SK C/34)": {
@@ -21787,7 +21815,7 @@
 			"en": "Twin 380mm SK C/34 Main Gun Mount",
 			"cn": "双联380mmSKC主炮",
 			"jp": "380mmSKC連装砲",
-			"kr": "380mm SKC 연장포"
+			"kr": null
 		}
 	},
 	"Twin 381mm (BL 15\" Mk I)": {
@@ -22074,7 +22102,7 @@
 			"en": "Twin 381mm Main Gun Mount",
 			"cn": "双联装381mm主炮",
 			"jp": "381mm連装砲",
-			"kr": "381mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 381mm (BL 15\" Mk II)": {
@@ -22105,7 +22133,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Research (Series 1/2/3)Fight On, Royal Maids!Aurora Noctis."
+			"obtainedFrom": "Acquired through Research (Series 1/2/3), Fight On, Royal Maids!, Aurora Noctis as a map drop in D3, Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -22202,7 +22230,7 @@
 			"en": "Twin 381mm Advanced Main Gun Mount",
 			"cn": "双联装381mm主炮改",
 			"jp": "381mm連装砲改",
-			"kr": "381mm 연장포·改"
+			"kr": null
 		}
 	},
 	"Twin 406mm (16\"/45 Mk 1)": {
@@ -22332,7 +22360,7 @@
 			"en": "Twin 406mm Mk 1 Main Gun Mount",
 			"cn": "双联装406mm主炮Mk1",
 			"jp": "406mm連装砲Mk1",
-			"kr": "연장포 406mm 주포 Mk1"
+			"kr": null
 		}
 	},
 	"Twin 406mm (16\"/45 Mk 5)": {
@@ -22619,7 +22647,7 @@
 			"en": "Twin 406mm Mk 5 Main Gun Mount",
 			"cn": "双联装406mm主炮Mk5",
 			"jp": "406mm連装砲MK5",
-			"kr": "406mm 연장포 Mk5"
+			"kr": null
 		}
 	},
 	"Twin 406mm (16\"/45 Mk 8)": {
@@ -22648,7 +22676,11 @@
 				"Twin 406mm (16\"/45 Mk 5)"
 			],
 			"notes": "",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Twin 406mm (16\"/56 Mk 4 Prototype)",
+				"Twin 406mm (16\"/56 Mk 4 Prototype)"
+			],
 			"animation": "",
 			"obtainedFrom": "Gear Lab"
 		},
@@ -22743,7 +22775,7 @@
 			"en": "Twin 406mm Mk 8 Main Gun Mount",
 			"cn": "双联装406mm主炮Mk8",
 			"jp": "406mm連装砲Mk8",
-			"kr": "연장포 406mm 주포 Mk8"
+			"kr": null
 		}
 	},
 	"Twin 406mm (SK C/34 Prototype)": {
@@ -22770,7 +22802,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (series 2)."
+			"obtainedFrom": "Acquired through Research (Series 2), Tower of Transcendence as a map drop in D3"
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
@@ -22861,7 +22893,7 @@
 			"en": "Prototype 406mm SK C/34 Main Gun Mount",
 			"cn": "试作型双联装406mmSKC主炮",
 			"jp": "試作型406mmSKC連装砲",
-			"kr": "시제형 406mm SKC 연장포"
+			"kr": null
 		}
 	},
 	"Twin 410mm (3rd Year Type)": {
@@ -23148,7 +23180,7 @@
 			"en": "Twin 410mm Naval Gun Mount",
 			"cn": "410mm连装炮",
 			"jp": "410mm連装砲",
-			"kr": "410mm 연장포"
+			"kr": null
 		}
 	},
 	"Twin 410mm (3rd Year Type) Kai": {
@@ -23177,7 +23209,11 @@
 				"Twin 410mm (3rd Year Type)"
 			],
 			"notes": "",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Triple 410mm (10th Year Type Prototype)",
+				"Triple 410mm (10th Year Type Prototype)"
+			],
 			"animation": "",
 			"obtainedFrom": "Gear Lab"
 		},
@@ -23276,7 +23312,7 @@
 			"en": "Twin 410mm Kai Naval Gun Mount",
 			"cn": "410mm连装炮改",
 			"jp": "410mm連装砲改",
-			"kr": "410mm 연장포改"
+			"kr": null
 		}
 	},
 	"Twin 410mm (Type 3 Shell)": {
@@ -23307,7 +23343,7 @@
 			"notes": "Fragments mid-air into incendiary shrapnel capable of dealing damage to enemy planes. Unlike other BB guns, this gun has a 12° angular spread rather than a linear spread. If Massachusetts tries using this gun in Super Heavy AP mode, it will only do the damage of a single fragment.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired in Visitors Dyed in Red and its rerun event shop for 2500 Research only (series 1/2)"
+			"obtainedFrom": "Acquired in Visitors Dyed in Red and its rerun event shop for 2500 , Research (Series 1/2)"
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
@@ -23404,7 +23440,7 @@
 			"en": "Twin 410mm (Type 3 Shell) Naval Gun Mount",
 			"cn": "410mm连装炮(三式弹)",
 			"jp": "410mm連装砲(三式弾)",
-			"kr": "410mm 연장포 (삼식탄)"
+			"kr": null
 		}
 	},
 	"Twin 457mm (Mark A Prototype)": {
@@ -23522,7 +23558,7 @@
 			"en": "Prototype Twin 457mm Mk A Main Gun Mount",
 			"cn": "试作型双联装457mm主炮Mk A",
 			"jp": "試作型457mm連装砲MKA",
-			"kr": "시제형 457mm 연장포 Mk A"
+			"kr": null
 		}
 	},
 	"533mm Quadruple Homing Torpedo Mount": {
@@ -23761,7 +23797,7 @@
 			"en": "533mm Quadruple Magnetic Torpedo Mount",
 			"cn": "四联装533mm磁性鱼雷",
 			"jp": "533mm四連装磁気魚雷",
-			"kr": "533mm 4연장 자기 어뢰"
+			"kr": null
 		}
 	},
 	"533mm Quadruple Torpedo Mount": {
@@ -24006,7 +24042,7 @@
 			"en": "533mm Quadruple Torpedo Mount",
 			"cn": "四联装533mm鱼雷",
 			"jp": "533mm四連装魚雷",
-			"kr": "533mm 4연장 어뢰"
+			"kr": null
 		}
 	},
 	"533mm Quadruple Torpedo Mount Mk 17": {
@@ -24132,7 +24168,7 @@
 			"en": "533mm Quadruple Torpedo Mount Mk 17",
 			"cn": "四联装533mm鱼雷Mk17",
 			"jp": "533mm四連装魚雷Mk17",
-			"kr": "4연장 533mm 어뢰Mk17"
+			"kr": null
 		}
 	},
 	"533mm Quadruple Torpedo Mount Mk IX": {
@@ -24252,7 +24288,7 @@
 			"en": "533mm Quadruple Torpedo Mount Mk IX",
 			"cn": "四联装533mm鱼雷Mark IX",
 			"jp": "533mm四連装魚雷MarkIX",
-			"kr": "4연장 533mm 어뢰 Mark IX"
+			"kr": null
 		}
 	},
 	"533mm Quintuple Homing Torpedo Mount": {
@@ -24487,7 +24523,7 @@
 			"en": "533mm Quintuple Magnetic Torpedo Mount",
 			"cn": "五联装533mm磁性鱼雷",
 			"jp": "533mm五連装磁気魚雷",
-			"kr": "533mm 5연장 자기 어뢰"
+			"kr": null
 		}
 	},
 	"533mm Quintuple Torpedo Mount": {
@@ -24732,7 +24768,7 @@
 			"en": "533mm Quintuple Torpedo Mount",
 			"cn": "五联装533mm鱼雷",
 			"jp": "533mm五連装魚雷",
-			"kr": "533mm 5연장 어뢰"
+			"kr": null
 		}
 	},
 	"533mm Quintuple Torpedo Mount Mk 17": {
@@ -24854,7 +24890,7 @@
 			"en": "533mm Quintuple Torpedo Mount Mk 17",
 			"cn": "五联装533mm鱼雷Mk17",
 			"jp": "533mm五連装魚雷Mk17",
-			"kr": "5연장 533mm 어뢰Mk17"
+			"kr": null
 		}
 	},
 	"533mm Quintuple Torpedo Mount Mk IX": {
@@ -24970,7 +25006,7 @@
 			"en": "533mm Quintuple Torpedo Mount Mk IX",
 			"cn": "五联装533mm鱼雷Mark IX",
 			"jp": "533mm五連装魚雷MarkIX",
-			"kr": "5연장 533mm 어뢰 Mark IX"
+			"kr": null
 		}
 	},
 	"533mm Triple Homing Torpedo Mount": {
@@ -25205,7 +25241,7 @@
 			"en": "533mm Triple Magnetic Torpedo Mount",
 			"cn": "三联装533mm磁性鱼雷",
 			"jp": "533mm三連装磁気魚雷",
-			"kr": "533mm 3연장 자기 어뢰"
+			"kr": null
 		}
 	},
 	"533mm Triple Torpedo Mount": {
@@ -25444,7 +25480,7 @@
 			"en": "533mm Triple Torpedo Mount",
 			"cn": "三联装533mm鱼雷",
 			"jp": "533mm三連装魚雷",
-			"kr": "533mm 3연장 어뢰"
+			"kr": null
 		}
 	},
 	"533mm Triple Torpedo Mount Mk 17": {
@@ -25560,7 +25596,7 @@
 			"en": "533mm Triple Torpedo Mount Mk 17",
 			"cn": "三联装533mm鱼雷Mk17",
 			"jp": "533mm三連装魚雷Mk17",
-			"kr": "3연장 533mm 어뢰Mk17"
+			"kr": null
 		}
 	},
 	"533mm Triple Torpedo Mount Mk IX": {
@@ -25676,7 +25712,7 @@
 			"en": "533mm Triple Torpedo Mount Mk IX",
 			"cn": "三联装533mm鱼雷Mark IX",
 			"jp": "533mm三連装魚雷MarkIX",
-			"kr": "3연장 533mm 어뢰 Mark IX"
+			"kr": null
 		}
 	},
 	"550mm Triple Torpedo Launcher": {
@@ -25845,7 +25881,7 @@
 			"en": "550mm Triple Torpedo Launcher",
 			"cn": "三联装550mm鱼雷",
 			"jp": "550mm三連装魚雷発射管",
-			"kr": "550mm 3연장 어뢰 발사관"
+			"kr": null
 		}
 	},
 	"550mm Twin Torpedo Launcher": {
@@ -26014,7 +26050,7 @@
 			"en": "550mm Twin Torpedo Launcher",
 			"cn": "双联装550mm鱼雷",
 			"jp": "550mm連装魚雷発射管",
-			"kr": "550mm 연장 어뢰 발사관"
+			"kr": null
 		}
 	},
 	"610mm Quadruple Torpedo Mount": {
@@ -26249,7 +26285,7 @@
 			"en": "610mm Quadruple Torpedo Mount",
 			"cn": "四联装610mm鱼雷",
 			"jp": "610mm四連装魚雷",
-			"kr": "610mm 4연장 어뢰"
+			"kr": null
 		}
 	},
 	"610mm Quadruple Torpedo Mount Kai": {
@@ -26361,7 +26397,7 @@
 			"en": "610mm Quadruple Torpedo Mount Kai",
 			"cn": "四联装610mm鱼雷改",
 			"jp": "610mm四連装魚雷改",
-			"kr": "4연장 610mm 어뢰改"
+			"kr": null
 		}
 	},
 	"610mm Triple Torpedo Mount": {
@@ -26596,7 +26632,7 @@
 			"en": "610mm Triple Torpedo Mount",
 			"cn": "三联装610mm鱼雷",
 			"jp": "610mm三連装魚雷",
-			"kr": "610mm 3연장 어뢰"
+			"kr": null
 		}
 	},
 	"610mm Triple Torpedo Mount Kai": {
@@ -26715,7 +26751,7 @@
 			"en": "610mm Triple Torpedo Mount Kai",
 			"cn": "三联装610mm鱼雷改",
 			"jp": "610mm三連装魚雷改",
-			"kr": "3연장 610mm 어뢰改"
+			"kr": null
 		}
 	},
 	"610mm Twin Torpedo Mount": {
@@ -26946,7 +26982,7 @@
 			"en": "610mm Twin Torpedo Mount",
 			"cn": "双联装610mm鱼雷",
 			"jp": "610mm連装魚雷",
-			"kr": "610mm 연장 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted 550mm 24V Torpedo": {
@@ -27182,7 +27218,7 @@
 			"en": "550mm 24V Submarine Torpedo",
 			"cn": "潜艇用550mm24V鱼雷",
 			"jp": "潜水艦用550mm24V魚雷",
-			"kr": "잠수함용 550mm 24V 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted G7a Torpedo": {
@@ -27422,7 +27458,7 @@
 			"en": "G7a Submarine Torpedo",
 			"cn": "潜艇用G7a鱼雷",
 			"jp": "潜水艦用G7a魚雷",
-			"kr": "잠수함용 G7a 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted G7e Acoustic Homing Torpedo": {
@@ -27508,6 +27544,12 @@
 						"shell": 90,
 						"formatted": "Firing: 50\nShell: 90"
 					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (80",
+						"unit": "/ 100",
+						"formatted": "Normal (80 / 100 / 130)"
+					},
 					"characteristic": {
 						"type": "value",
 						"formatted": "Acoustic Homing"
@@ -27563,6 +27605,12 @@
 						"firing": 50,
 						"shell": 90,
 						"formatted": "Firing: 50\nShell: 90"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (80",
+						"unit": "/ 100",
+						"formatted": "Normal (80 / 100 / 130)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -27626,6 +27674,12 @@
 						"max": "118%",
 						"formatted": "100% → 118%"
 					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (80",
+						"unit": "/ 100",
+						"formatted": "Normal (80 / 100 / 130)"
+					},
 					"characteristic": {
 						"type": "value",
 						"formatted": "Acoustic Homing"
@@ -27644,7 +27698,7 @@
 			"en": "G7e Acoustic Homing Submarine Torpedo",
 			"cn": "潜艇用G7e声导鱼雷",
 			"jp": "潜水艦用G7e音響追跡魚雷",
-			"kr": "잠수함용 G7e 음향 유도 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark 12 Torpedo": {
@@ -27759,7 +27813,7 @@
 			"en": "Mark 12 \"Ferry\" Submarine Torpedo",
 			"cn": "潜艇用Mark 12鱼雷-菲里",
 			"jp": "潜水艦用Mark12魚雷“Ferry”",
-			"kr": "잠수함용 Mark 12 어뢰-페리"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark 14 Torpedo": {
@@ -28009,7 +28063,7 @@
 			"en": "Mark 14 Submarine Torpedo",
 			"cn": "潜艇用Mark 14鱼雷",
 			"jp": "潜水艦用Mark14魚雷",
-			"kr": "잠수함용 Mark 14 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark 16 Torpedo": {
@@ -28241,7 +28295,7 @@
 			"en": "Mark 16 Submarine Torpedo",
 			"cn": "潜艇用Mark 16鱼雷",
 			"jp": "潜水艦用Mark16魚雷",
-			"kr": "잠수함용 Mark 16 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark 18 Torpedo": {
@@ -28366,7 +28420,7 @@
 			"en": "Mark 18 Submarine Torpedo",
 			"cn": "潜艇用Mark 18鱼雷",
 			"jp": "潜水艦用Mark18魚雷",
-			"kr": "잠수함용 Mark18 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark 20S \"Bidder\" Torpedo": {
@@ -28481,7 +28535,7 @@
 			"en": "Mark 20 \"Bidder\" Submarine Torpedo",
 			"cn": "潜艇用Mark 20 S鱼雷-彼得",
 			"jp": "潜水艦用Mark20(S)魚雷“Bidder”",
-			"kr": "잠수함용 Mark 20 S어뢰-페터"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark 28 Torpedo": {
@@ -28600,7 +28654,7 @@
 			"en": "Mark 28 Submarine Torpedo",
 			"cn": "潜艇用Mark 28鱼雷",
 			"jp": "潜水艦用Mark28魚雷",
-			"kr": "잠수함용 Mark28 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Mark VIII Torpedo": {
@@ -28722,7 +28776,7 @@
 			"en": "Mark VIII Submarine Torpedo",
 			"cn": "潜艇用Mark VIII鱼雷",
 			"jp": "潜水艦用MarkVIII魚雷",
-			"kr": "잠수함용 Mark VIII 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Si 270 Torpedo": {
@@ -29066,7 +29120,7 @@
 			"en": "Type 92 Electric Submarine Torpedo",
 			"cn": "潜艇用92式潜射鱼雷",
 			"jp": "潜水艦用九二式電動魚雷",
-			"kr": "잠수함용 92식 중어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Type 92 Battery-powered Torpedo Kai": {
@@ -29181,7 +29235,7 @@
 			"en": "Type 92 Kai Electric Submarine Torpedo",
 			"cn": "潜艇用92式潜射鱼雷改",
 			"jp": "潜水艦用九二式電動魚雷改",
-			"kr": "잠수함용 92식 어뢰改"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Type 95 Oxygen Torpedo": {
@@ -29213,7 +29267,11 @@
 			"usedFor": [
 				"",
 				"Submarine-mounted Type 96 Oxygen Torpedo",
-				"Submarine-mounted Type 96 Oxygen Torpedo"
+				"Submarine-mounted Type 96 Oxygen Torpedo",
+				"",
+				"",
+				"Submarine-mounted Type 95 Kai Pure Oxygen Torpedo",
+				"Submarine-mounted Type 95 Kai Pure Oxygen Torpedo"
 			],
 			"animation": "https://azurlane.netojuu.com/w/images/4/4e/Bullet_pattern_equip_35500.gif",
 			"obtainedFrom": "X-5 maps (Anti-Submarine Warfare) from boss node."
@@ -29407,7 +29465,7 @@
 			"en": "Type 95 Submarine Torpedo",
 			"cn": "潜艇用95式纯氧鱼雷",
 			"jp": "潜水艦用九五式酸素魚雷",
-			"kr": "잠수함용 95식 산소 어뢰"
+			"kr": null
 		}
 	},
 	"Submarine-mounted Type 96 Oxygen Torpedo": {
@@ -29525,7 +29583,7 @@
 			"en": "Type 96 Submarine Torpedo",
 			"cn": "潜艇用96式纯氧鱼雷",
 			"jp": "潜水艦用九六式酸素魚雷",
-			"kr": "잠수함용 96식 산소 어뢰"
+			"kr": null
 		}
 	},
 	"Arado Ar 197": {
@@ -29640,7 +29698,7 @@
 			"en": "Ar 197",
 			"cn": "Ar-197舰载战斗机",
 			"jp": "Ar-197",
-			"kr": "Ar-197 함상 전투기"
+			"kr": null
 		}
 	},
 	"Brewster F2A Buffalo": {
@@ -29847,7 +29905,7 @@
 			"en": "F2A Buffalo",
 			"cn": "F2A水牛",
 			"jp": "F2Aバッファロー",
-			"kr": "F2A 버팔로"
+			"kr": null
 		}
 	},
 	"Brewster F2A Buffalo (Thach Squadron)": {
@@ -29947,7 +30005,7 @@
 			"en": "F2A Buffalo (Thach Squadron)",
 			"cn": "F2A水牛(萨奇队)",
 			"jp": "F2Aバッファロー（サッチ隊）",
-			"kr": "F2A 버팔로(타치대)"
+			"kr": null
 		}
 	},
 	"Brewster XF2A-4 Buffalo (Prototype)": {
@@ -30065,7 +30123,7 @@
 			"en": "Prototype XF2A-4 Buffalo",
 			"cn": "试作型XF2A-4水牛",
 			"jp": "試作型XF2A-4バッファロー",
-			"kr": "시제형 XF2A-4 버팔로"
+			"kr": null
 		}
 	},
 	"Fiat G.50 Freccia": {
@@ -30421,7 +30479,7 @@
 			"en": "Prototype Fw 190 A-5 (Carrier-based)",
 			"cn": "试作型舰载FW-190 A-5",
 			"jp": "試作型FW-190 A-5(艦載機型）",
-			"kr": "시제형 함상 FW-190 A-5"
+			"kr": null
 		}
 	},
 	"Gloster Sea Gladiator": {
@@ -30620,7 +30678,7 @@
 			"en": "Sea Gladiator",
 			"cn": "海斗士",
 			"jp": "シーグラディエーター",
-			"kr": "씨 글래디에이터"
+			"kr": null
 		}
 	},
 	"Gourdou-Leseurre GL.2": {
@@ -30714,7 +30772,7 @@
 			"en": "Gourdou-Leseurre GL.2 Fighter",
 			"cn": "GL.2舰载战斗机",
 			"jp": "グールドゥ・ルスールGL.2戦闘機",
-			"kr": "GL.2 함재 전투기"
+			"kr": null
 		}
 	},
 	"Grumman F4F Wildcat": {
@@ -30927,7 +30985,7 @@
 			"en": "F4F Wildcat",
 			"cn": "F4F野猫",
 			"jp": "F4Fワイルドキャット",
-			"kr": "F4F 와일드캣"
+			"kr": null
 		}
 	},
 	"Grumman F6F Hellcat": {
@@ -31191,7 +31249,7 @@
 			"en": "F6F Hellcat",
 			"cn": "F6F地狱猫",
 			"jp": "F6Fヘルキャット",
-			"kr": "F6F 헬캣"
+			"kr": null
 		}
 	},
 	"Grumman F7F Tigercat": {
@@ -31306,7 +31364,7 @@
 			"en": "F7F Tigercat",
 			"cn": "F7F虎猫",
 			"jp": "F7Fタイガーキャット",
-			"kr": "F7F 타이거캣"
+			"kr": null
 		}
 	},
 	"Grumman F8F Bearcat": {
@@ -31421,7 +31479,7 @@
 			"en": "F8F Bearcat",
 			"cn": "F8F熊猫",
 			"jp": "F8Fベアキャット",
-			"kr": "F8F 베어캣"
+			"kr": null
 		}
 	},
 	"Grumman XF5F Skyrocket": {
@@ -31531,7 +31589,7 @@
 			"en": "XF5F Skyrocket",
 			"cn": "XF5F天箭",
 			"jp": "スカイロケット",
-			"kr": "XF5F 스카이로켓"
+			"kr": null
 		}
 	},
 	"Hawker Sea Fury": {
@@ -31640,7 +31698,7 @@
 			"en": "Sea Fury",
 			"cn": "海怒",
 			"jp": "シーフューリー",
-			"kr": "시 퓨리"
+			"kr": null
 		}
 	},
 	"Hawker Sea Hurricane": {
@@ -31749,7 +31807,7 @@
 			"en": "Sea Hurricane",
 			"cn": "海飓风",
 			"jp": "シーハリケーン",
-			"kr": "허리케인"
+			"kr": null
 		}
 	},
 	"Kawanishi N1K3-A Shiden Kai 2": {
@@ -31864,7 +31922,7 @@
 			"en": "Kawanishi N1K3-A Shiden Kai 2",
 			"cn": "紫电改二",
 			"jp": "紫電改二",
-			"kr": "시덴改二"
+			"kr": null
 		}
 	},
 	"Messerschmitt BF-109T": {
@@ -32089,7 +32147,7 @@
 			"en": "BF-109T Fighter",
 			"cn": "BF-109T舰载战斗机",
 			"jp": "BF-109T艦上戦闘機",
-			"kr": "BF-109T 함상전투기"
+			"kr": null
 		}
 	},
 	"Messerschmitt Me-155A": {
@@ -32306,7 +32364,7 @@
 			"en": "Messerschmitt Me-155A",
 			"cn": "Me-155A舰载战斗机",
 			"jp": "Me-155A艦上戦闘機",
-			"kr": "Me-155A 함상전투기"
+			"kr": null
 		}
 	},
 	"Mitsubishi A5M Type 96": {
@@ -32509,7 +32567,7 @@
 			"en": "A5M Claude",
 			"cn": "九六式舰战",
 			"jp": "九六式艦戦",
-			"kr": "96식 함상전투기"
+			"kr": null
 		}
 	},
 	"Mitsubishi A6M2 Zero": {
@@ -32763,7 +32821,7 @@
 			"en": "Type 0 Fighter Model 21",
 			"cn": "零战二一型",
 			"jp": "零戦二一型",
-			"kr": "제로센 21형"
+			"kr": null
 		}
 	},
 	"Mitsubishi A6M3 Type 0 Model 32": {
@@ -32886,7 +32944,7 @@
 			"en": "Type 0 Fighter Model 32",
 			"cn": "零战三二型",
 			"jp": "零戦三二型",
-			"kr": "제로 32모델"
+			"kr": null
 		}
 	},
 	"Mitsubishi A6M5 Zero": {
@@ -33136,7 +33194,7 @@
 			"en": "Type 0 Fighter Model 52",
 			"cn": "零战五二型",
 			"jp": "零戦五二型",
-			"kr": "제로센 52형"
+			"kr": null
 		}
 	},
 	"Mitsubishi A7M Reppuu": {
@@ -33368,7 +33426,7 @@
 			"en": "A7M Reppuu",
 			"cn": "烈风",
 			"jp": "烈風",
-			"kr": "렛푸"
+			"kr": null
 		}
 	},
 	"Reggiane Re.2001 Falco II": {
@@ -33846,7 +33904,7 @@
 			"en": "Seafang",
 			"cn": "海毒牙",
 			"jp": "シーファング",
-			"kr": "시팽"
+			"kr": null
 		}
 	},
 	"Supermarine Seafire": {
@@ -34104,7 +34162,7 @@
 			"en": "Spitfire",
 			"cn": "海喷火",
 			"jp": "シーファイア",
-			"kr": "시파이어"
+			"kr": null
 		}
 	},
 	"Supermarine Seafire FR Mk 47": {
@@ -34223,7 +34281,7 @@
 			"en": "Seafire FR.47",
 			"cn": "海喷火FR.47",
 			"jp": "シーファイアFR.47",
-			"kr": "시파이어 FR.47"
+			"kr": null
 		}
 	},
 	"Vought F4U Corsair": {
@@ -34461,7 +34519,7 @@
 			"en": "F4U Corsair",
 			"cn": "F4U海盗",
 			"jp": "F4Uコルセア",
-			"kr": "F4U 콜세어"
+			"kr": null
 		}
 	},
 	"Vought F4U Corsair (VF-17 Squadron)": {
@@ -34572,7 +34630,7 @@
 			"en": "F4U (VF-17 \"Pirate\" Squad)",
 			"cn": "F4U（VF-17“海盗”中队）",
 			"jp": "F4U（VF-17中隊）",
-			"kr": "F4U 콜세어 (VF-17 졸리로저스)"
+			"kr": null
 		}
 	},
 	"De Havilland Sea Hornet": {
@@ -34681,7 +34739,7 @@
 			"en": "Sea Hornet",
 			"cn": "海大黄蜂",
 			"jp": "シーホーネット",
-			"kr": "시 호넷"
+			"kr": null
 		}
 	},
 	"Aichi D3A Type 99": {
@@ -34935,7 +34993,7 @@
 			"en": "Type 99 Dive Bomber",
 			"cn": "九九式舰爆",
 			"jp": "九九式艦爆",
-			"kr": "99식 함상폭격기"
+			"kr": null
 		}
 	},
 	"Aichi D3A2 Type 99": {
@@ -35054,7 +35112,7 @@
 			"en": "Type 99 Dive Bomber Kai",
 			"cn": "九九式舰爆改",
 			"jp": "九九式艦爆改",
-			"kr": "99식 함상폭격기改"
+			"kr": null
 		}
 	},
 	"Blackburn Skua": {
@@ -35290,7 +35348,7 @@
 			"en": "Blackburn Skua",
 			"cn": "贼鸥",
 			"jp": "スクア",
-			"kr": "스쿠아"
+			"kr": null
 		}
 	},
 	"Curtiss SB2C Helldiver": {
@@ -35554,7 +35612,7 @@
 			"en": "SB2C Helldiver",
 			"cn": "SB2C地狱俯冲者",
 			"jp": "SB2Cヘルダイバー",
-			"kr": "SB2C 헬다이버"
+			"kr": null
 		}
 	},
 	"Curtiss XSB3C (Experimental)": {
@@ -35675,7 +35733,7 @@
 			"en": "Experimental XSB3C-1",
 			"cn": "实验型XSB3C-1",
 			"jp": "実験型XSB3C-1",
-			"kr": "실험형XSB3C-1"
+			"kr": null
 		}
 	},
 	"Douglas BTD-1 Destroyer": {
@@ -35917,7 +35975,7 @@
 			"en": "BTD-1 Destroyer",
 			"cn": "BTD-1毁灭者",
 			"jp": "BTD-1デストロイヤー",
-			"kr": "BTD-1 디스트로이어"
+			"kr": null
 		}
 	},
 	"Douglas SBD Dauntless": {
@@ -36171,7 +36229,7 @@
 			"en": "SBD Dauntless",
 			"cn": "SBD无畏",
 			"jp": "SBDドーントレス",
-			"kr": "SBD 돈틀리스"
+			"kr": null
 		}
 	},
 	"Douglas SBD Dauntless (McClusky)": {
@@ -36271,7 +36329,7 @@
 			"en": "SBD Dauntless (McClusky Division)",
 			"cn": "SBD无畏(麦克拉斯基队)",
 			"jp": "SBD（マクラスキー隊）",
-			"kr": "SBD 돈틀리스 (맥클러스키대)"
+			"kr": null
 		}
 	},
 	"Fairey Barracuda (831 Squadron)": {
@@ -36376,7 +36434,7 @@
 			"en": "Barracuda (831 Squadron)",
 			"cn": "梭鱼(831中队)",
 			"jp": "バラクーダ（831中隊）",
-			"kr": "바라쿠다(831중대)"
+			"kr": null
 		}
 	},
 	"Fairey Firefly": {
@@ -36485,7 +36543,7 @@
 			"en": "Firefly",
 			"cn": "萤火虫",
 			"jp": "ファイアフライ",
-			"kr": "파이어플라이"
+			"kr": null
 		}
 	},
 	"Fairey Fulmar": {
@@ -36725,7 +36783,7 @@
 			"en": "Fulmar",
 			"cn": "海燕",
 			"jp": "フルマー",
-			"kr": "풀머"
+			"kr": null
 		}
 	},
 	"Heinkel He 50b": {
@@ -36838,7 +36896,7 @@
 			"en": "He-50b",
 			"cn": "He-50b舰载轰炸机",
 			"jp": "He-50b",
-			"kr": "He-50b 함상폭격기"
+			"kr": null
 		}
 	},
 	"Junkers Ju-87C": {
@@ -37094,7 +37152,7 @@
 			"en": "Ju-87C Dive Bomber",
 			"cn": "Ju-87C俯冲轰炸机",
 			"jp": "Ju-87C急降下爆撃機",
-			"kr": "Ju-87C 급강하폭격기"
+			"kr": null
 		}
 	},
 	"Yokosuka D4Y Suisei": {
@@ -37352,7 +37410,7 @@
 			"en": "Suisei",
 			"cn": "彗星",
 			"jp": "彗星",
-			"kr": "스이세이"
+			"kr": null
 		}
 	},
 	"Yokosuka Suisei Model 12A": {
@@ -37467,7 +37525,7 @@
 			"en": "Suisei Model 12A",
 			"cn": "彗星一二型甲",
 			"jp": "彗星一二型甲",
-			"kr": "스이세이 12형A"
+			"kr": null
 		}
 	},
 	"Aichi B7A Ryuusei": {
@@ -37763,7 +37821,7 @@
 			"en": "Aichi B7A Ryusei",
 			"cn": "流星",
 			"jp": "流星",
-			"kr": "류세이"
+			"kr": null
 		}
 	},
 	"Arado Ar 195": {
@@ -37890,7 +37948,7 @@
 			"en": "Ar 195",
 			"cn": "Ar-195舰载鱼雷机",
 			"jp": "Ar-195",
-			"kr": "Ar-195 함상 뇌격기"
+			"kr": null
 		}
 	},
 	"Blackburn Firebrand": {
@@ -38017,7 +38075,7 @@
 			"en": "Blackburn Firebrand",
 			"cn": "火把",
 			"jp": "ファイアブランド",
-			"kr": "파이어브랜드"
+			"kr": null
 		}
 	},
 	"Blackburn Firecrest": {
@@ -38144,7 +38202,7 @@
 			"en": "Firecrest",
 			"cn": "火冠",
 			"jp": "ファイアクレスト",
-			"kr": "파이어크레스트"
+			"kr": null
 		}
 	},
 	"Douglas TBD Devastator": {
@@ -38420,7 +38478,7 @@
 			"en": "TBD Devastator",
 			"cn": "TBD蹂躏者",
 			"jp": "TBDデバステイター",
-			"kr": "TBD 데버스테이터"
+			"kr": null
 		}
 	},
 	"Torpedo Squadron 8 (VT-8)": {
@@ -38545,7 +38603,7 @@
 			"en": "TBD Devastator (VT-8 Squadron)",
 			"cn": "TBD蹂躏者(VT-8中队)",
 			"jp": "TBDデバステイター（VT-8中隊）",
-			"kr": "TBD데버스테이터(VT-8중대)"
+			"kr": null
 		}
 	},
 	"Douglas XTB2D-1 Skypirate": {
@@ -38678,7 +38736,7 @@
 			"en": "XTB2D-1 Skypirate",
 			"cn": "XTB2D-1天空海盗",
 			"jp": "XTB2D-1スカイパイレート",
-			"kr": "XBT2D-1 스카이파이렛"
+			"kr": null
 		}
 	},
 	"Fairey Albacore": {
@@ -38954,7 +39012,7 @@
 			"en": "Albacore",
 			"cn": "青花鱼",
 			"jp": "フェアリーアルバコア",
-			"kr": "페어리 알바코어"
+			"kr": null
 		}
 	},
 	"Fairey Barracuda": {
@@ -39226,7 +39284,7 @@
 			"en": "Barracuda",
 			"cn": "梭鱼",
 			"jp": "バラクーダ",
-			"kr": "바라쿠다"
+			"kr": null
 		}
 	},
 	"Fairey Swordfish": {
@@ -39502,7 +39560,7 @@
 			"en": "Swordfish",
 			"cn": "剑鱼",
 			"jp": "ソードフィッシュ",
-			"kr": "소드피쉬"
+			"kr": null
 		}
 	},
 	"Fairey Swordfish (818 Squadron)": {
@@ -39621,7 +39679,7 @@
 			"en": "Swordfish (818 Squad)",
 			"cn": "剑鱼(818中队)",
 			"jp": "ソードフィッシュ（818中隊）",
-			"kr": "소드피쉬 (818중대)"
+			"kr": null
 		}
 	},
 	"Fieseler Fi 167": {
@@ -39748,7 +39806,7 @@
 			"en": "Fi 167",
 			"cn": "Fi-167舰载鱼雷机",
 			"jp": "Fi-167",
-			"kr": "Fi-167 함상 뇌격기"
+			"kr": null
 		}
 	},
 	"General Motors TBM Avenger (VT-18 Squadron)": {
@@ -39873,7 +39931,7 @@
 			"en": "TBM Avenger (VT-18 Squadron)",
 			"cn": "TBM复仇者(VT-18中队)",
 			"jp": "TBMアベンジャー(VT-18中隊)",
-			"kr": "TBM 어벤져(VT-18중대)"
+			"kr": null
 		}
 	},
 	"Grumman TBF Avenger": {
@@ -40159,7 +40217,7 @@
 			"en": "TBF Avenger",
 			"cn": "TBF复仇者",
 			"jp": "TBFアベンジャー",
-			"kr": "TBF 어벤저"
+			"kr": null
 		}
 	},
 	"Junkers Ju-87 D-4": {
@@ -40282,7 +40340,7 @@
 			"en": "Ju-87 D-4",
 			"cn": "Ju-87 D-4",
 			"jp": "Ju-87 D-4",
-			"kr": "Ju-87 D-4"
+			"kr": null
 		}
 	},
 	"Levasseur PL.7": {
@@ -40401,7 +40459,7 @@
 			"en": "Pierre Levasseur PL.7 Torpedo Bomber",
 			"cn": "PL.7舰载鱼雷机",
 			"jp": "ピエール・ルヴァッスールPL.7攻撃機",
-			"kr": "PL.7 함재 뇌격기"
+			"kr": null
 		}
 	},
 	"Nakajima B5N Type 97": {
@@ -40681,7 +40739,7 @@
 			"en": "Type 97 Torpedo Bomber",
 			"cn": "九七式舰攻",
 			"jp": "九七式艦攻",
-			"kr": "97식 함상뇌격기"
+			"kr": null
 		}
 	},
 	"Nakajima B5N2 Type 97": {
@@ -40808,7 +40866,7 @@
 			"en": "Type 97 Torpedo Bomber Kai",
 			"cn": "九七式舰攻改",
 			"jp": "九七式艦攻改",
-			"kr": "97식 함상공격기改"
+			"kr": null
 		}
 	},
 	"Nakajima B6N Tenzan": {
@@ -41084,7 +41142,7 @@
 			"en": "Tenzan",
 			"cn": "天山",
 			"jp": "天山",
-			"kr": "텐잔"
+			"kr": null
 		}
 	},
 	"Nakajima B6N2 Tenzan Model 12A": {
@@ -41217,7 +41275,7 @@
 			"en": "Tenzan Kai",
 			"cn": "天山改",
 			"jp": "天山改",
-			"kr": "텐잔改"
+			"kr": null
 		}
 	},
 	"Westland Wyvern": {
@@ -41340,7 +41398,7 @@
 			"en": "Wyvern",
 			"cn": "飞龙",
 			"jp": "ワイヴァーン",
-			"kr": "와이번"
+			"kr": null
 		}
 	},
 	"Aichi E16A Zuiun": {
@@ -41594,7 +41652,7 @@
 			"en": "Aichi E16A Zuiun",
 			"cn": "瑞云",
 			"jp": "瑞雲",
-			"kr": "즈이운"
+			"kr": null
 		}
 	},
 	"Aichi M6A Seiran": {
@@ -41703,7 +41761,7 @@
 			"en": "Seiran",
 			"cn": "晴岚",
 			"jp": "晴嵐",
-			"kr": "세이란"
+			"kr": null
 		}
 	},
 	"Kawanishi N1K1 Kyoufuu": {
@@ -41822,7 +41880,7 @@
 			"en": "N1K1 Kyoufuu",
 			"cn": "强风",
 			"jp": "強風",
-			"kr": "카와니시 N1K 시덴"
+			"kr": null
 		}
 	},
 	"Nakajima A6M2-N": {
@@ -41941,7 +41999,7 @@
 			"en": "Type 2 Seaplane Fighter",
 			"cn": "二式水上战斗机",
 			"jp": "二式水戦",
-			"kr": "2식 수상전투기"
+			"kr": null
 		}
 	},
 	"Yokosuka Suisei Model 21": {
@@ -42056,7 +42114,7 @@
 			"en": "Suisei Model 21",
 			"cn": "彗星二一型",
 			"jp": "彗星二一型",
-			"kr": "스이세이 21형"
+			"kr": null
 		}
 	},
 	"Octuple 40mm Pom-Pom": {
@@ -42129,7 +42187,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42170,7 +42228,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42223,7 +42281,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -42239,7 +42297,7 @@
 			"en": "Octuple 40mm Pom-Pom Gun Mount",
 			"cn": "八联装40mm“砰砰”炮",
 			"jp": "QF 2ポンド八連装ポンポン砲",
-			"kr": "40mm 8연장 폼폼 포"
+			"kr": null
 		}
 	},
 	"Quadruple 20mm Flakvierling": {
@@ -42320,7 +42378,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42361,7 +42419,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42408,7 +42466,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -42424,7 +42482,7 @@
 			"en": "Quadruple 20mm Flakvierling Machine Gun Mount",
 			"cn": "四联装20mm MG机枪",
 			"jp": "20mm四連装MG機銃",
-			"kr": "20mm 4연장 MG 기관포"
+			"kr": null
 		}
 	},
 	"Quadruple 20mm Oerlikon (Mk 15 Mount)": {
@@ -42512,7 +42570,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -42528,7 +42586,7 @@
 			"en": "Quadruple 20mm Mk 15 Oerlikon AA Gun Mount",
 			"cn": "四联装20mm厄利孔高射炮Mk15",
 			"jp": "20mm四連装エリコン機関砲Mk15",
-			"kr": "4연장 20mm 에리콘 고사포 Mk15"
+			"kr": null
 		}
 	},
 	"Quadruple 28mm Chicago Piano": {
@@ -42605,7 +42663,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42646,7 +42704,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42699,7 +42757,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -42715,7 +42773,7 @@
 			"en": "Quadruple 28mm \"Chicago Piano\" AA Gun Mount",
 			"cn": "四联装28mm“芝加哥钢琴”",
 			"jp": "四連装28mm対空機銃「シカゴピアノ」",
-			"kr": "28mm 4연장 「시카고 피아노」"
+			"kr": null
 		}
 	},
 	"Quadruple 40mm Bofors (Mk 2 Mount)": {
@@ -42796,7 +42854,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42837,7 +42895,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -42890,7 +42948,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -42906,7 +42964,7 @@
 			"en": "Quadruple 40mm Bofors AA Gun Mount",
 			"cn": "四联40mm博福斯对空机炮",
 			"jp": "四連装ボフォース40mm機関砲",
-			"kr": "40mm 4연장 보포스 기관포"
+			"kr": null
 		}
 	},
 	"Quadruple 40mm Pom-Pom": {
@@ -42983,7 +43041,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43024,7 +43082,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43077,7 +43135,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43093,7 +43151,7 @@
 			"en": "Quadruple 40mm Pom-Pom AA Gun Mount",
 			"cn": "四联装40mm“砰砰”炮",
 			"jp": "QF 2ポンド四連装ポンポン砲",
-			"kr": "40mm 4연장 폼폼 포"
+			"kr": null
 		}
 	},
 	"Sextuple 40mm Bofors": {
@@ -43167,7 +43225,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43183,7 +43241,7 @@
 			"en": "Sextuple 40mm Bofors AA Gun Mount",
 			"cn": "六联装40mm博福斯对空机炮",
 			"jp": "六連装ボフォース40mm対空砲",
-			"kr": "6연장 40mm 보포스 대공포"
+			"kr": null
 		}
 	},
 	"Single 102mm AA (QF Mark V)": {
@@ -43264,7 +43322,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43305,7 +43363,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43358,7 +43416,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43374,7 +43432,7 @@
 			"en": "Single 102mm AA Gun Mount",
 			"cn": "102mm高射炮",
 			"jp": "102mm高角砲",
-			"kr": "102mm 고사포"
+			"kr": null
 		}
 	},
 	"Single 12.7mm Browning": {
@@ -43459,7 +43517,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43500,7 +43558,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43547,7 +43605,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43563,7 +43621,7 @@
 			"en": "Single 12.7mm AA Gun Mount",
 			"cn": "12.7mm防空机枪",
 			"jp": "12.7mm対空機銃",
-			"kr": "12.7mm 대공 기관총"
+			"kr": null
 		}
 	},
 	"Single 120mm AA (QF Mark VIII)": {
@@ -43651,7 +43709,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43667,7 +43725,7 @@
 			"en": "120mm High-Angle Gun MkVIII",
 			"cn": "120mm高射炮Mark VIII",
 			"jp": "120mm対空砲MarkVIII",
-			"kr": "120mm 고사포 Mark VIII"
+			"kr": null
 		}
 	},
 	"Single 20mm Oerlikon": {
@@ -43744,7 +43802,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43785,7 +43843,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -43832,7 +43890,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43848,7 +43906,7 @@
 			"en": "Single 20mm Oerlikon AA Gun Mount",
 			"cn": "20mm厄利孔高射炮",
 			"jp": "20mmエリコン機関砲",
-			"kr": "20mm 엘리콘 기관포"
+			"kr": null
 		}
 	},
 	"Single 20mm Oerlikon (Mark II)": {
@@ -43935,7 +43993,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -43951,7 +44009,7 @@
 			"en": "Single 20mm Mk II Oerlikon AA Gun Mount",
 			"cn": "20mm厄利孔高射炮MkII",
 			"jp": "20mmエリコン高角砲MkII",
-			"kr": "20mm 에리콘 고사포 MkII"
+			"kr": null
 		}
 	},
 	"Single 25mm AA (Type 96)": {
@@ -44032,7 +44090,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44073,7 +44131,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44120,7 +44178,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -44136,7 +44194,7 @@
 			"en": "Single 25mm AA Gun Mount",
 			"cn": "25mm高射机枪",
 			"jp": "25mm対空機銃",
-			"kr": "25mm 대공 기관총"
+			"kr": null
 		}
 	},
 	"Single 37mm AA (70-K)": {
@@ -44297,7 +44355,7 @@
 			"en": "Single 37mm 70-K AA Gun Mount",
 			"cn": "37mm防空炮70-K",
 			"jp": "37mm対空機関砲70-K",
-			"kr": "37mm대공포 70-K"
+			"kr": null
 		}
 	},
 	"Single 37mm Flak (M42)": {
@@ -44370,7 +44428,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44411,7 +44469,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44458,7 +44516,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -44474,7 +44532,7 @@
 			"en": "Single 37mm Flak AA Gun Mount",
 			"cn": "37mm机枪",
 			"jp": "37mm機銃",
-			"kr": "37mm 기관포"
+			"kr": null
 		}
 	},
 	"Single 76mm AA (3rd Year Type)": {
@@ -44555,7 +44613,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44596,7 +44654,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44643,7 +44701,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -44659,7 +44717,7 @@
 			"en": "76mm AA Gun",
 			"cn": "76mm高射炮",
 			"jp": "76mm高角砲",
-			"kr": "76mm 고사포"
+			"kr": null
 		}
 	},
 	"Single 76mm AA (Mk 22 Mount)": {
@@ -44736,7 +44794,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44777,7 +44835,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -44830,7 +44888,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -44846,7 +44904,7 @@
 			"en": "76mm AA Gun",
 			"cn": "76mm高射炮",
 			"jp": "76mm高角砲",
-			"kr": "76mm 고사포"
+			"kr": null
 		}
 	},
 	"Single 76mm AA (Mk 26 Mount)": {
@@ -44934,7 +44992,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -44950,7 +45008,7 @@
 			"en": "Single 76mm Mk 26 AA Gun Mount",
 			"cn": "76mm高射炮改进型",
 			"jp": "76mm高角砲改修型",
-			"kr": "76mm 고사포 개조형"
+			"kr": null
 		}
 	},
 	"Single 80mm AA (Type 98)": {
@@ -45034,7 +45092,7 @@
 			"en": "Single 80mm AA Gun Mount",
 			"cn": "80mm高射炮",
 			"jp": "80mm高射砲",
-			"kr": "80mm 고사포"
+			"kr": null
 		}
 	},
 	"Single 90mm AA (Model 1939)": {
@@ -45103,7 +45161,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -45144,7 +45202,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -45191,7 +45249,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -45207,7 +45265,7 @@
 			"en": "Single 90mm Model 1939 AA Gun",
 			"cn": "90mm单装高角炮Model1939",
 			"jp": "90mm単装高角砲Model1939",
-			"kr": "90mm 단장 고각포 Model1939"
+			"kr": null
 		}
 	},
 	"Triple 25mm AA (Type 96 Blast Shield)": {
@@ -45285,7 +45343,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -45301,7 +45359,7 @@
 			"en": "Triple 25mm Type 96 AT/AA Gun Mount",
 			"cn": "九六式25mm三连装暴风避盾机炮",
 			"jp": "25mm九六式三連装機銃（爆風避盾装備）",
-			"kr": "96식 25mm 3연장 폭풍피격기포"
+			"kr": null
 		}
 	},
 	"Triple 25mm AA (Type 96)": {
@@ -45378,7 +45436,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -45419,7 +45477,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -45466,7 +45524,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -45482,7 +45540,7 @@
 			"en": "Triple 25mm AA Gun Mount",
 			"cn": "25mm三连装高射机枪",
 			"jp": "25mm三連装対空機銃",
-			"kr": "25mm 3연장 대공 기관총"
+			"kr": null
 		}
 	},
 	"Twin 100mm AA (B-54)": {
@@ -45607,7 +45665,7 @@
 			"en": "Twin 100mm B-54 AA Gun",
 			"cn": "B-54 100mm双联装防空炮",
 			"jp": "100mm連装高角砲B-54",
-			"kr": "B-54 100mm 연장 대공포"
+			"kr": null
 		}
 	},
 	"Twin 100mm AA (MZ-14)": {
@@ -45768,7 +45826,7 @@
 			"en": "Twin 100mm B-34 MZ-14 Dual-Purpose AA Gun",
 			"cn": "B-34 100mm双联装防空炮MZ-14",
 			"jp": "100mm連装両用砲B-34 MZ-14",
-			"kr": "B-34 100mm 연장 대공포 MZ-14"
+			"kr": null
 		}
 	},
 	"Twin 100mm AA (Mle 1931)": {
@@ -45845,7 +45903,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -45861,7 +45919,7 @@
 			"en": "Twin 100mm Mle 1931 AA Gun",
 			"cn": "双联装100mm高炮",
 			"jp": "100mm連装高角砲",
-			"kr": "100mm 연장 고사포"
+			"kr": null
 		}
 	},
 	"Twin 100mm AA (SM-5-1s)": {
@@ -45942,7 +46000,7 @@
 			"en": "Twin 100mm SM-5-1s AA Gun",
 			"cn": "100mm双联装防空炮SM-5-1s",
 			"jp": "100mm連装対空砲SM-5-1s",
-			"kr": "연장 100mm대공포 SM-5-1s"
+			"kr": null
 		}
 	},
 	"Twin 100mm AA (Type 98)": {
@@ -46016,7 +46074,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46032,7 +46090,7 @@
 			"en": "Twin 100mm Type 98 AA Gun Mount",
 			"cn": "100mm连装高炮",
 			"jp": "100mm連装高角砲",
-			"kr": "100mm 연장 고사포"
+			"kr": null
 		}
 	},
 	"Twin 105mm AA (SK C/33 na)": {
@@ -46110,7 +46168,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46126,7 +46184,7 @@
 			"en": "Twin 105mm SK C/33 na AA Gun Mount",
 			"cn": "双联105mmSKC高炮改进型",
 			"jp": "105mmSKC高角連装砲改修型",
-			"kr": "연장 105mmSKC 고사포 개조형"
+			"kr": null
 		}
 	},
 	"Twin 105mm AA (SK C/33)": {
@@ -46203,7 +46261,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -46244,7 +46302,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -46291,7 +46349,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46307,7 +46365,7 @@
 			"en": "Twin 105mm SK C/33 AA Gun Mount",
 			"cn": "双联105mmSKC高炮",
 			"jp": "105mmSKC連装高角砲",
-			"kr": "105mm SKC 연장 고사포"
+			"kr": null
 		}
 	},
 	"Twin 113mm AA (QF Mark I)": {
@@ -46380,7 +46438,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -46421,7 +46479,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -46474,7 +46532,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46490,7 +46548,7 @@
 			"en": "Twin 113mm AA Gun Mount",
 			"cn": "双联装113mm高射炮",
 			"jp": "113mm連装高角砲",
-			"kr": "113mm 연장 고사포"
+			"kr": null
 		}
 	},
 	"Twin 127mm AA (Type 89 A1 Mod 2)": {
@@ -46574,7 +46632,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46590,7 +46648,7 @@
 			"en": "Twin 127mm Type 89 AA Gun Mount",
 			"cn": "127mm连装高角炮改",
 			"jp": "127mm連装高角砲改",
-			"kr": "127mm 연장 고각포改"
+			"kr": null
 		}
 	},
 	"Twin 127mm AA (Type 89)": {
@@ -46667,7 +46725,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -46708,7 +46766,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -46755,7 +46813,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46771,7 +46829,7 @@
 			"en": "Twin 127mm AA Gun Mount",
 			"cn": "127mm连装高射炮",
 			"jp": "127mm連装高角砲",
-			"kr": "127mm 연장 고사포"
+			"kr": null
 		}
 	},
 	"Twin 134mm AA (QF Mark I)": {
@@ -46859,7 +46917,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -46875,7 +46933,7 @@
 			"en": "Twin 134mm AA Gun Mount",
 			"cn": "双联装134mm高炮",
 			"jp": "134mm連装高角砲",
-			"kr": "134mm 연장 고각포"
+			"kr": null
 		}
 	},
 	"Twin 20mm Oerlikon": {
@@ -46960,7 +47018,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47001,7 +47059,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47054,7 +47112,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47070,7 +47128,7 @@
 			"en": "Twin 20mm AA Oerlikon Design",
 			"cn": "双管20mm厄利孔高射炮",
 			"jp": "20mm二連装エリコン機関砲",
-			"kr": "20mm 연장 엘리콘 기관포"
+			"kr": null
 		}
 	},
 	"Twin 25mm AA (Type 96)": {
@@ -47147,7 +47205,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47188,7 +47246,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47235,7 +47293,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47251,7 +47309,7 @@
 			"en": "Twin 25mm AA Gun Mount",
 			"cn": "25mm连装高射机枪",
 			"jp": "25mm連装対空機銃",
-			"kr": "25mm 연장 대공 기관총"
+			"kr": null
 		}
 	},
 	"Twin 37mm AA (Model 1932)": {
@@ -47320,7 +47378,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47361,7 +47419,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47408,7 +47466,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47424,7 +47482,7 @@
 			"en": "Twin 37mm Model 1932 AA Gun Mount",
 			"cn": "双联37mm机枪Model1932",
 			"jp": "37mm連装機銃Model1932",
-			"kr": "37mm 연장 기관포 Model1932"
+			"kr": null
 		}
 	},
 	"Twin 37mm AA (SK C/30)": {
@@ -47501,7 +47559,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47542,7 +47600,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47589,7 +47647,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47605,7 +47663,7 @@
 			"en": "Twin 37mm AA 70K",
 			"cn": "双联37mm手拉机枪",
 			"jp": "37mm連装機銃",
-			"kr": "37mm 연장 기관포"
+			"kr": null
 		}
 	},
 	"Twin 37mm ACAD (Mle 1936)": {
@@ -47679,7 +47737,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47695,7 +47753,7 @@
 			"en": "Twin 37mm Mle 1936 AA Gun Mount",
 			"cn": "双联37mm高射炮Mle1936",
 			"jp": "二連装37mm高射砲Mle1936",
-			"kr": "2연장 37mm 고사포 Mle1936"
+			"kr": null
 		}
 	},
 	"Twin 37mm Flak (M43)": {
@@ -47773,7 +47831,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47789,7 +47847,7 @@
 			"en": "Twin 37mm Flak M43 Machine Gun Mount",
 			"cn": "双联37mm Flak M43机枪",
 			"jp": "37mmFlak M43連装機銃",
-			"kr": "연장 37mm Flak M43 기관총"
+			"kr": null
 		}
 	},
 	"Twin 40mm Bofors (Mk 1 Mount)": {
@@ -47866,7 +47924,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47907,7 +47965,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -47960,7 +48018,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -47976,7 +48034,7 @@
 			"en": "Twin 40mm Bofors AA Gun Mount",
 			"cn": "双联40mm博福斯对空机炮",
 			"jp": "二連装ボフォース40mm機関砲",
-			"kr": "40mm 연장 보포스 기관포"
+			"kr": null
 		}
 	},
 	"Twin 40mm Bofors (RP Mark I)": {
@@ -48005,7 +48063,11 @@
 				"Twin 40mm Pom-Pom"
 			],
 			"notes": "",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Twin 40mm Bofors Hazemeyer",
+				"Twin 40mm Bofors Hazemeyer"
+			],
 			"animation": "",
 			"obtainedFrom": "Gear Lab"
 		},
@@ -48060,7 +48122,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48076,7 +48138,7 @@
 			"en": "Twin 40mm Bofors RP Mark I AA Gun Mount",
 			"cn": "双联装40mm博福斯对空机炮Mark I",
 			"jp": "40mmボフォース連装対空機銃MarkI",
-			"kr": "연장포40mm 보포스 대공포 Mark I"
+			"kr": null
 		}
 	},
 	"Twin 40mm Bofors (Type 5)": {
@@ -48150,7 +48212,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48166,7 +48228,7 @@
 			"en": "Twin 40mm Bofors Type 5 AA Gun Mount",
 			"cn": "试作型五式40mm高射机关炮",
 			"jp": "試作型五式40mm高射機関砲",
-			"kr": "시제형 5식 40mm 고사기관포"
+			"kr": null
 		}
 	},
 	"Twin 40mm Bofors Hazemeyer": {
@@ -48189,11 +48251,19 @@
 		"image": "https://azurlane.netojuu.com/w/images/2/2f/26620.png",
 		"misc": {
 			"blueprints": "",
-			"madeFrom": [],
+			"madeFrom": [
+				"",
+				"Twin 40mm Bofors (RP Mark I)",
+				"Twin 40mm Bofors (RP Mark I)"
+			],
 			"notes": "",
-			"usedFor": [],
+			"usedFor": [
+				"",
+				"Twin 40mm Bofors STAAG",
+				"Twin 40mm Bofors STAAG"
+			],
 			"animation": "",
-			"obtainedFrom": "Drop from Air Raid Drills with EssexResearch (series 2/3)"
+			"obtainedFrom": "Drop from Air Raid Drills with Essex, Research (Series 2/3/4), Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -48244,7 +48314,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48260,7 +48330,7 @@
 			"en": "Twin 40mm Bofors \"Hazemeyer\" AA Gun Mount",
 			"cn": "双联装40mm博福斯海兹梅耶",
 			"jp": "連装ボフォース40mm機関砲「Hazemeyer」",
-			"kr": "40mm 연장 보포스 해즐미어"
+			"kr": null
 		}
 	},
 	"Twin 40mm Bofors STAAG": {
@@ -48283,11 +48353,15 @@
 		"image": "https://azurlane.netojuu.com/w/images/1/18/26600.png",
 		"misc": {
 			"blueprints": "",
-			"madeFrom": [],
+			"madeFrom": [
+				"",
+				"Twin 40mm Bofors Hazemeyer",
+				"Twin 40mm Bofors Hazemeyer"
+			],
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Acquired through research only (Series 1/4)"
+			"obtainedFrom": "Acquired through Research (Series 1/4), Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -48338,7 +48412,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48354,7 +48428,7 @@
 			"en": "Twin 40mm Bofors STAAG",
 			"cn": "双联装40mm博福斯STAAG",
 			"jp": "連装ボフォース40mm機関砲STAAG",
-			"kr": "연장 보포스 40mm 기관포 STAAG"
+			"kr": null
 		}
 	},
 	"Twin 40mm Pom-Pom": {
@@ -48439,7 +48513,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -48480,7 +48554,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -48527,7 +48601,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48543,7 +48617,7 @@
 			"en": "Twin 40mm Pom-Pom AA Gun Mount",
 			"cn": "双联装40mm“砰砰”炮",
 			"jp": "QF 2ポンド二連装ポンポン砲",
-			"kr": "40mm 연장 폼폼 포"
+			"kr": null
 		}
 	},
 	"Twin 40mm Vickers (Type 91)": {
@@ -48616,7 +48690,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -48657,7 +48731,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			},
@@ -48704,7 +48778,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48720,7 +48794,7 @@
 			"en": "Twin 40mm V-Type AA Gun Mount",
 			"cn": "毘式40mm连装机枪",
 			"jp": "毘式40mm連装機銃",
-			"kr": "비식 40mm 연장 기관포"
+			"kr": null
 		}
 	},
 	"Twin 76mm AA (Mk 27 Mount)": {
@@ -48804,7 +48878,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -48820,7 +48894,7 @@
 			"en": "Twin 76mm Mk 27 RF AA Gun Mount",
 			"cn": "双联装76mmRF火炮Mk27",
 			"jp": "76mm連装RF砲Mk27",
-			"kr": "연장포 76mm RF 화포 Mk27"
+			"kr": null
 		}
 	},
 	"Twin 88mm AA (SK C/32)": {
@@ -48914,7 +48988,7 @@
 			"en": "Twin 88mm SK C/32 AA Gun Mount",
 			"cn": "双联装88mmSKC32高炮",
 			"jp": "88mmSKC32高角砲",
-			"kr": "연장포 88mm SKC32 고사포"
+			"kr": null
 		}
 	},
 	"Basic Depth Charge": {
@@ -49083,7 +49157,7 @@
 			"en": "Basic Depth Charge Projector",
 			"cn": "基础深弹投射器",
 			"jp": "従来型爆雷投射機",
-			"kr": "기본형 폭뢰 발사기"
+			"kr": null
 		}
 	},
 	"Basic Sonar": {
@@ -49231,7 +49305,7 @@
 			"en": "Basic Sonar",
 			"cn": "基础声呐",
 			"jp": "従来型ソナー",
-			"kr": "기본형 소나"
+			"kr": null
 		}
 	},
 	"Consolidated PBY-5A Catalina": {
@@ -49304,7 +49378,7 @@
 			"en": "PBY-5A Catalina",
 			"cn": "PBY-5A卡特琳娜水上机",
 			"jp": "PBY-5Aカタリナ",
-			"kr": "PBY-5A 카탈리나 수상기"
+			"kr": null
 		}
 	},
 	"Corn Lantern": {
@@ -49377,7 +49451,7 @@
 			"en": "Corn Lantern",
 			"cn": "玉米灯笼",
 			"jp": "トウモロコシの灯籠",
-			"kr": "옥수수 등"
+			"kr": null
 		}
 	},
 	"Fairey Swordfish Mk II-ASV (ASW)": {
@@ -49404,7 +49478,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Opposite-Colored Rerun Event Shop (1000 Pt)"
+			"obtainedFrom": "Core Data, Opposite-Colored Rerun Event Shop (1000 Pt)"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -49605,7 +49679,7 @@
 			"en": "Swordfish Mk II-ASV (ASW)",
 			"cn": "剑鱼Mark II-ASV(反潜)",
 			"jp": "ソードフィッシュMarkⅡ-ASV（対潜）",
-			"kr": "소드피쉬 Mark.II-ASV"
+			"kr": null
 		}
 	},
 	"Flettner Fl 282 Kolibri": {
@@ -49671,7 +49745,7 @@
 			"en": "Fl 282 Kolibri",
 			"cn": "Fl-282直升机",
 			"jp": "Fl 282",
-			"kr": "FI-282 헬리콥터"
+			"kr": null
 		}
 	},
 	"General Motors TBM-3 Avenger (ASW)": {
@@ -49903,7 +49977,7 @@
 			"en": "TBM-3 Avenger (ASW)",
 			"cn": "TBM-3复仇者(反潜)",
 			"jp": "TBM-3アベンジャー（対潜）",
-			"kr": "TBM-3 어벤져"
+			"kr": null
 		}
 	},
 	"Hedgehog": {
@@ -49998,7 +50072,7 @@
 			"en": "\"Hedgehog\" Anti-Submarine Mortar",
 			"cn": "刺猬弹",
 			"jp": "対潜迫撃砲「ヘッジホッグ」",
-			"kr": "대잠 박격포(헷지호그)"
+			"kr": null
 		}
 	},
 	"Improved Depth Charge": {
@@ -50171,7 +50245,7 @@
 			"en": "Improved Depth Charge Projector",
 			"cn": "改良深弹投射器",
 			"jp": "改良型爆雷投射機",
-			"kr": "개량형 폭뢰 발사기"
+			"kr": null
 		}
 	},
 	"Improved Sonar": {
@@ -50301,7 +50375,7 @@
 			"en": "Advanced Sonar",
 			"cn": "改良声呐",
 			"jp": "改良型ソナー",
-			"kr": "개량형 소나"
+			"kr": null
 		}
 	},
 	"Triple 406mm (16\"/50 Mk 7)": {
@@ -50547,7 +50621,7 @@
 			"en": "Twin 114mm Mk IV Dual-Purpose Gun Mount",
 			"cn": "双联装114mm高平两用炮Mark IV",
 			"jp": "114mm連装両用砲MarkIV",
-			"kr": "2연장 114mm 양용포 Mark IV"
+			"kr": null
 		}
 	},
 	"Triple 203mm (8\"/55 Mk 15 SHS)": {
@@ -50679,7 +50753,7 @@
 			"en": "Triple 203mm Mk 15 Main Gun Mount",
 			"cn": "三联装203mm主炮Mk15",
 			"jp": "203mm三連装砲Mk15",
-			"kr": "3연장 203mm 주포 Mk15"
+			"kr": null
 		}
 	},
 	"Triple 406mm (Model 1940 Prototype)": {
@@ -51230,7 +51304,7 @@
 					},
 					"ammoType": {
 						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"formatted": "Normal"
 					}
 				}
 			}
@@ -51345,7 +51419,7 @@
 			"en": "610mm Quintuple Torpedo Mount Kai",
 			"cn": "五联装610mm鱼雷改",
 			"jp": "610mm五連装魚雷改",
-			"kr": "5연장 610mm 어뢰改"
+			"kr": null
 		}
 	},
 	"Twin 203mm (Mle 1931)": {
@@ -51626,7 +51700,498 @@
 			"en": "Twin 203mm Mle 1931 Main Gun Mount",
 			"cn": "双联装203mm主炮Mle1931",
 			"jp": "203mm連装砲Mle1931",
-			"kr": "2연장 203mm 주포 Mle1931"
+			"kr": null
+		}
+	},
+	"Triple 155mm (3rd Year Type) Kai": {
+		"fits": {
+			"destroyer": "Type 1936A-class only",
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
+			"lightCarrier": "\"Houshou\" only",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/7/73/32260.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [
+				"",
+				"Triple 155mm (3rd Year Type)#Type 3",
+				"Triple 155mm (3rd Year Type)"
+			],
+			"notes": "Fires 2 volleys with 3 projectiles in random spread",
+			"usedFor": [],
+			"animation": "https://azurlane.netojuu.com/w/images/b/bd/Bullet_pattern_equip_32260.gif",
+			"obtainedFrom": "Gear Lab"
+		},
+		"nationality": "Sakura Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "9",
+						"max": "19",
+						"multiplier": "6",
+						"formatted": "9 × 6 → 19 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "5.34s",
+						"max": "4.28s",
+						"per": "volley",
+						"formatted": "5.34s → 4.28s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "18",
+						"unit": "° random aim",
+						"formatted": "18° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "120",
+						"unit": "°",
+						"formatted": "120°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 62,
+						"formatted": "Firing: 65\nShell: 62"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "105%",
+						"max": "124%",
+						"formatted": "105% → 124%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HEK (150",
+						"unit": "/ 105",
+						"formatted": "HEK (150 / 105 / 70)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"id": "Triple 155mm (3rd Year Type) Kai",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)_Kai",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Prototype Triple 155mm Kai Naval Gun Mount",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Twin 150mm (SK C/28 Prototype)": {
+		"fits": {
+			"destroyer": "Type 1936A-class only",
+			"lightCruiser": "primary",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "secondary",
+			"battlecruiser": "secondary",
+			"aviationBattleship": null,
+			"aircraftCarrier": "\"Zeppy, Béarn and Eagle\" only",
+			"lightCarrier": "\"Houshou\" only",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/b/b6/42080.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [
+				"",
+				"Twin 150mm (SK C/28)",
+				"Twin 150mm (SK C/28)"
+			],
+			"notes": "",
+			"usedFor": [],
+			"animation": "https://azurlane.netojuu.com/w/images/2/29/Bullet_pattern_equip_42080.gif",
+			"obtainedFrom": "Gear Lab"
+		},
+		"nationality": "Iron Blood",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "10",
+						"max": "22",
+						"multiplier": "6",
+						"formatted": "10 × 6 → 22 × 6"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "5.33s",
+						"max": "4.72s",
+						"per": "volley",
+						"formatted": "5.33s → 4.72s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "10",
+						"unit": "° random aim",
+						"formatted": "10° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "130",
+						"unit": "°",
+						"formatted": "130°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 65,
+						"shell": 60,
+						"formatted": "Firing: 65\nShell: 60"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "3 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "110%",
+						"max": "130%",
+						"formatted": "110% → 130%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "APC28",
+						"unit": "(100",
+						"formatted": "APC28 (100 / 95 / 55)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"id": "Twin 150mm (SK C/28 Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Twin_150mm_(SK_C/28_Prototype)",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Prototype Twin 150mm SK C/28 Main Gun Mount",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Twin 406mm (16\"/56 Mk 4 Prototype)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": "primary",
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/3/32/14520.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [
+				"",
+				"Twin 406mm (16\"/45 Mk 8)",
+				"Twin 406mm (16\"/45 Mk 8)"
+			],
+			"notes": "Experimental Gun Barrel: When equipped by a ship: increases her main gun damage by 10%, but increases her reload time by 35% from the 5th shot and onwards.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Gear Lab"
+		},
+		"nationality": "Eagle Union",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "72",
+						"max": "166",
+						"multiplier": "2",
+						"formatted": "72 × 2 → 166 × 2"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "23.71s",
+						"max": "18.95s",
+						"per": "volley",
+						"formatted": "23.71s → 18.95s   per volley"
+					},
+					"spread": {
+						"type": "value",
+						"formatted": "15"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "value",
+						"formatted": "200"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "1 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "110%",
+						"max": "130%",
+						"formatted": "110% → 130%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "AP4",
+						"unit": "(40",
+						"formatted": "AP4 (40 / 140 / 115)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"id": "Twin 406mm (16\"/56 Mk 4 Prototype)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Twin_406mm_(16%22/56_Mk_4_Prototype)",
+		"category": "Battleship Guns",
+		"names": {
+			"en": "Prototype Twin 406mm Mk4 Main Gun Mount",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Submarine-mounted Type 95 Kai Pure Oxygen Torpedo": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"image": "https://azurlane.netojuu.com/w/images/c/c0/35580.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [
+				"",
+				"Submarine-mounted Type 95 Oxygen Torpedo#Type 3",
+				"Submarine-mounted Type 95 Oxygen Torpedo"
+			],
+			"notes": "Fires 2 torpedoes toward an enemy. Torpedoes accelerate 0.012 as they travel.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Gear Lab"
+		},
+		"nationality": "Sakura Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Ultra Rare",
+				"stars": {
+					"stars": "★★★★★★",
+					"value": 6
+				},
+				"stats": {
+					"torpedo": {
+						"type": "value",
+						"formatted": "70"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "88",
+						"max": "198",
+						"multiplier": "2",
+						"formatted": "88 × 2 → 198 × 2"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "20.46s",
+						"max": "15.13s",
+						"per": "volley",
+						"formatted": "20.46s → 15.13s   per volley"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "2",
+						"unit": "torpedoes",
+						"formatted": "2 torpedoes"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "90",
+						"unit": "°",
+						"formatted": "90°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 75,
+						"shell": 80,
+						"formatted": "Firing: 75\nShell: 80"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "100%",
+						"max": "118%",
+						"formatted": "100% → 118%"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Oxygen"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Torpedo",
+			"name": "Submarine Torpedo"
+		},
+		"id": "Submarine-mounted Type 95 Kai Pure Oxygen Torpedo",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Submarine-mounted_Type_95_Kai_Pure_Oxygen_Torpedo",
+		"category": "Submarine Torpedoes",
+		"names": {
+			"en": "Type 95 Kai Pure Oxygen Submarine Torpedo",
+			"cn": null,
+			"jp": null,
+			"kr": null
 		}
 	}
 }
