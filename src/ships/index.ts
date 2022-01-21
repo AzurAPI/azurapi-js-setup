@@ -34,7 +34,7 @@ export async function refreshShips() {
     if (!fs.existsSync(path.join(ROOT, 'web', 'ships.gallery'))) fs.mkdirSync(path.join(ROOT, 'web', 'ships.gallery'));
     fs.writeFileSync(path.join(ROOT, 'dist', 'ship-list.json'), JSON.stringify(SHIP_LIST));
     let keys = Object.keys(SHIP_LIST);
-    //const bar = progress.create(keys.length, 0);
+    const bar = progress.create(keys.length, 0);
     await init();
     for (let key of keys) {
         //bar.increment();
@@ -66,7 +66,7 @@ async function fetchShip(id: string, {name, url}: { name: string, url: string })
 }
 
 async function fetchShipList() {
-    //const bar = progress.create(0, 0);
+    const bar = progress.create(0, 0);
     let LIST: any = {};
     let rows = new JSDOM(await fetch("https://azurlane.koumakan.jp/List_of_Ships", path.join(ROOT, 'web/ships.index.html'))).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr");
     //bar.setTotal(rows.length);
@@ -90,9 +90,9 @@ async function fetchShipList() {
 export async function refreshShipImages() {
     let shipCounter = 0;
     let keys = Object.keys(SHIPS_INTERNAL);
-    //const bar = progress.create(keys.length, 0);
-    //const secondbar = progress.create(0, 0);
-    //const thirdbar = progress.create(0, 0);
+    const bar = progress.create(keys.length, 0);
+    const secondbar = progress.create(0, 0);
+    const thirdbar = progress.create(0, 0);
     for (let key of keys) {
         let ship = SHIPS_INTERNAL[key];
         let root_folder = path.join(ROOT, `images/skins/${ship.id}`) + "/";
@@ -127,7 +127,7 @@ export async function refreshShipImages() {
 export function publishShips() {
     SHIPS = [];
     let keys = Object.keys(SHIPS_INTERNAL);
-    //const bar = progress.create(keys.length, 0);
+    const bar = progress.create(keys.length, 0);
     for (let key of keys) {
         let ship = clone(SHIPS_INTERNAL[key]); //simple clone!
         let root_folder = `images/skins/${ship.id}/`;
