@@ -20,10 +20,10 @@ export let SHIP_LIST = fs.existsSync(SHIP_LIST_PATH) ? JSON.parse(fs.readFileSyn
 export let VERSION_INFO = JSON.parse(fs.readFileSync(VERSION_PATH).toString())
 const IMAGE_REPO_URL = 'https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/'
 
-// const progress = new cliProgress.MultiBar({
-//     clearOnComplete: false,
-//     hideCursor: false
-// }, cliProgress.Presets.shades_classic);
+const progress = new cliProgress.MultiBar({
+    clearOnComplete: false,
+    hideCursor: false
+}, cliProgress.Presets.shades_classic);
 
 export async function refreshShips() {
     SHIP_LIST = await fetchShipList();
