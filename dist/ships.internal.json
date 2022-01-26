@@ -32030,7 +32030,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Haruna",
+				"description": "Haruna in a loading screen",
 				"url": "https://azurlane.netojuu.com/w/images/5/50/Bg_2021.06.03_3.png"
 			},
 			{
@@ -39267,7 +39267,7 @@
 				"url": "https://azurlane.netojuu.com/w/images/2/24/Bg_shoukaku_2.png"
 			},
 			{
-				"description": "Login screen depicting Shoukaku and Zuikaku during  Visitors Dyed in Red",
+				"description": "Login screen depicting Shoukaku and Zuikaku during Visitors Dyed in Red",
 				"url": "https://azurlane.netojuu.com/w/images/c/c0/Bg_cranes_1.png"
 			},
 			{
@@ -39560,7 +39560,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Login screen depicting Shoukaku and Zuikaku during  Visitors Dyed in Red",
+				"description": "Login screen depicting Shoukaku and Zuikaku during Visitors Dyed in Red",
 				"url": "https://azurlane.netojuu.com/w/images/c/c0/Bg_cranes_1.png"
 			},
 			{
@@ -46893,7 +46893,7 @@
 					"cn": "鞍山级领舰",
 					"jp": "鞍山型ネームシップ"
 				},
-				"description": "During sortie, increases Accuracy, Firepower by 10% (25%) and Evasion by 4% (10%) for all An Shan-class destroyers.",
+				"description": "Increase Firepower and Accuracy by 10.0% (25.0%) and Evasion by 4.0% (10.0%) for all An Shan-class destroyers in your fleet (including this ship).",
 				"color": "gold"
 			},
 			{
@@ -46958,7 +46958,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Reward from \"The Big Adventures of the Four Devas\" Mini-Event, Lunar New Year 2019, Spring Festival and Hapy Lunar New Year 2021 events.",
+			"obtainedFrom": "Reward from \"The Big Adventures of the Four Devas\" Mini-Event, Lunar New Year 2019, Spring Festival and Happy Lunar New Year 2021 events.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -66629,7 +66629,7 @@
 			{
 				"name": "Blossoming Bunny",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/d/df/I-19Bunny.png/484px-I-19Bunny.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/e/ea/I-19BunnyWithoutBG.png/578px-I-19BunnyWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/e/ea/I-19BunnyWithoutBG.png/266px-I-19BunnyWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/3/30/I-19BunnyChibi.png",
@@ -87937,7 +87937,7 @@
 			{
 				"name": "The Glory of Naples",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/3/39/LittorioSummer.png/630px-LittorioSummer.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/0d/LittorioSummerWithoutBG.png/722px-LittorioSummerWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/0d/LittorioSummerWithoutBG.png/670px-LittorioSummerWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_106.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/7/7d/LittorioSummerChibi.png",
@@ -108633,7 +108633,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Reward from \"New Year Food Festival\" minigame.",
+			"obtainedFrom": "Reward from \"New Year Food Festival\" and Fireworks Workshop minigames.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -138406,10 +138406,6 @@
 			{
 				"description": "Enterprise, Yorktown, Portland, Indianapolis, and Saratoga watching 4th of July fireworks",
 				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_July4th_1.png"
-			},
-			{
-				"description": "Portland, Hornet, Enterprise, Yorktown and Hammann",
-				"url": "https://azurlane.netojuu.com/w/images/0/0f/Bg_enterprise_3.png"
 			}
 		]
 	},
@@ -149533,7 +149529,7 @@
 			{
 				"name": "Monochromatic Marvel",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/6/67/AcastaBunny.png/563px-AcastaBunny.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/06/AcastaBunnyWithoutBG.png/695px-AcastaBunnyWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/06/AcastaBunnyWithoutBG.png/469px-AcastaBunnyWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/8/88/AcastaBunnyChibi.png",
