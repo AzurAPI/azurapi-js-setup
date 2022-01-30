@@ -24803,7 +24803,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/w/images/4/43/Bullet_pattern_equip_5200.gif",
-			"obtainedFrom": "Gear Lab"
+			"obtainedFrom": "Drop from Joint Battle Mystery Investigation, Gear Lab"
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
@@ -41412,7 +41412,7 @@
 			"battlecruiser": null,
 			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"lightCarrier": "Chen Hai only",
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
@@ -41666,7 +41666,7 @@
 			"battlecruiser": null,
 			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"lightCarrier": "Chen Hai only",
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
@@ -41775,7 +41775,7 @@
 			"battlecruiser": null,
 			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"lightCarrier": "Chen Hai only",
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
@@ -41894,7 +41894,7 @@
 			"battlecruiser": null,
 			"aviationBattleship": "primary",
 			"aircraftCarrier": null,
-			"lightCarrier": null,
+			"lightCarrier": "Chen Hai only",
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
@@ -52189,6 +52189,146 @@
 		"category": "Submarine Torpedoes",
 		"names": {
 			"en": "Type 95 Kai Pure Oxygen Submarine Torpedo",
+			"cn": null,
+			"jp": null,
+			"kr": null
+		}
+	},
+	"FBA 19": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": "Chen Hai only",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": "primary"
+		},
+		"image": "https://azurlane.netojuu.com/w/images/e/e6/51160.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Drop from An Exercise Gone Slightly Wrong."
+		},
+		"nationality": "Iris Libre",
+		"tiers": [
+			null,
+			null,
+			{
+				"tier": 2,
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "12"
+					},
+					"planeHealth": {
+						"type": "min_max",
+						"min": "112",
+						"max": "213",
+						"formatted": "112 → 213"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "17.09s",
+						"max": "15.30s",
+						"per": "wave",
+						"formatted": "17.09s → 15.30s   per wave"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "46"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "0.9"
+					},
+					"ordnance": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "1",
+								"unit": "500lb Bomb T2",
+								"formatted": "1 x 500lb Bomb T2"
+							}
+						]
+					}
+				}
+			},
+			{
+				"tier": 3,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "25"
+					},
+					"planeHealth": {
+						"type": "value",
+						"formatted": "123"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
+					},
+					"rateOfFire": {
+						"type": "value_unit",
+						"value": "16.43",
+						"unit": "s",
+						"formatted": "16.43s"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "46"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "1"
+					},
+					"ordnance": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "1",
+								"unit": "500lb Bomb T3",
+								"formatted": "1 x 500lb Bomb T3"
+							}
+						]
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Aviation",
+			"name": "Seaplane"
+		},
+		"id": "FBA 19",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/FBA_19",
+		"category": "Seaplanes",
+		"names": {
+			"en": "FBA 19",
 			"cn": null,
 			"jp": null,
 			"kr": null
