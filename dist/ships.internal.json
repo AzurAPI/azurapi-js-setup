@@ -173,14 +173,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -469,14 +471,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -1072,14 +1076,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -1332,14 +1338,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -15676,14 +15684,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -15990,14 +16000,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -16306,14 +16318,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -17117,14 +17131,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -17408,14 +17424,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -17675,14 +17693,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -17966,14 +17986,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -18260,14 +18282,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -18586,14 +18610,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -19198,14 +19224,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -19705,14 +19733,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -20076,14 +20106,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -20590,14 +20622,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -21071,14 +21105,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -21366,14 +21402,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -21842,14 +21880,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -22150,14 +22190,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -22675,14 +22717,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -23203,14 +23247,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -23721,14 +23767,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -23967,14 +24015,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -40760,14 +40810,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -41311,14 +41363,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -42157,14 +42211,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -46838,6 +46894,21 @@
 				"accuracy": "206",
 				"antisubmarineWarfare": "200"
 			},
+			"level125Retrofit": {
+				"health": "2497",
+				"armor": "Light",
+				"reload": "204",
+				"luck": "81",
+				"firepower": "172",
+				"torpedo": "311",
+				"evasion": "243",
+				"speed": "45",
+				"antiair": "175",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "212",
+				"antisubmarineWarfare": "203"
+			},
 			"level125": {
 				"health": "2332",
 				"armor": "Light",
@@ -46852,6 +46923,36 @@
 				"oilConsumption": "9",
 				"accuracy": "212",
 				"antisubmarineWarfare": "203"
+			},
+			"level120Retrofit": {
+				"health": "2442",
+				"armor": "Light",
+				"reload": "201",
+				"luck": "81",
+				"firepower": "171",
+				"torpedo": "308",
+				"evasion": "237",
+				"speed": "45",
+				"antiair": "172",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "206",
+				"antisubmarineWarfare": "200"
+			},
+			"level100Retrofit": {
+				"health": "2220",
+				"armor": "Light",
+				"reload": "190",
+				"luck": "81",
+				"firepower": "163",
+				"torpedo": "295",
+				"evasion": "213",
+				"speed": "45",
+				"antiair": "157",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "184",
+				"antisubmarineWarfare": "188"
 			}
 		},
 		"slots": [
@@ -46859,19 +46960,22 @@
 				"maxEfficiency": 155,
 				"minEfficiency": 140,
 				"type": "DD Guns",
-				"max": 1
+				"max": 1,
+				"kaiEfficiency": 100
 			},
 			{
 				"maxEfficiency": 100,
 				"minEfficiency": 90,
-				"type": "Torpedoes",
-				"max": 2
+				"type": "Torpedoes (Missiles on retrofit)",
+				"max": 2,
+				"kaiEfficiency": 150
 			},
 			{
 				"maxEfficiency": 105,
 				"minEfficiency": 95,
 				"type": "Anti-Air Guns",
-				"max": 1
+				"max": 1,
+				"kaiEfficiency": 105
 			}
 		],
 		"enhanceValue": {
@@ -46897,13 +47001,33 @@
 				"color": "gold"
 			},
 			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/dd/Skill_11040.png",
+				"names": {
+					"en": "(Retrofit) An Shan Name Ship+",
+					"cn": "鞍山级领舰+",
+					"jp": "鞍山型ネームシップ+"
+				},
+				"description": "Increase Firepower, Accuracy and Torpedo by 10.0% (25.0%) and Evasion by 4.0% (10.0%) for all An Shan-class destroyers in your fleet (including this ship).\n(Replaces An Shan Name Ship)",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/6/6f/Skill_15190.png",
+				"names": {
+					"en": "(Retrofit) Azure Dragon's Dance",
+					"cn": "青龙演武",
+					"jp": "青龍演舞"
+				},
+				"description": "Provides 1 Missile Strike charge. Decreases the duration this ship Burns by 3s and decreases her Burn DMG taken by 5.0% (15.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage that inflicts Armor Break for 6s to enemies (barrage DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
 				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
 				"names": {
 					"en": "All Out Assault",
 					"cn": "全弹发射",
 					"jp": "全弾発射-アンシャン型"
 				},
-				"description": "Every 15 (10) times the main guns is fired, triggers Full Barrage - Anshan Class I (II)",
+				"description": "Every 15 (10) times the main guns is fired, triggers Full Barrage - An Shan-class I (II)\n(Upon Retrofit) \n\nIf the ship is set to Vanguard Mode:\nEvery 16 times the main gun is fired, trigger Full Barrage - An Shan-class III\nIf the ship is set to Main Fleet Mode:\nWhen this ship launches a Missile Strike, trigger Full Barrage - An Shan-class III",
 				"color": "pink"
 			}
 		],
@@ -46920,21 +47044,23 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -47178,14 +47304,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -47326,6 +47454,21 @@
 				"accuracy": "201",
 				"antisubmarineWarfare": "200"
 			},
+			"level125Retrofit": {
+				"health": "2497",
+				"armor": "Light",
+				"reload": "202",
+				"luck": "61",
+				"firepower": "172",
+				"torpedo": "311",
+				"evasion": "243",
+				"speed": "45",
+				"antiair": "175",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "207",
+				"antisubmarineWarfare": "203"
+			},
 			"level125": {
 				"health": "2332",
 				"armor": "Light",
@@ -47340,6 +47483,36 @@
 				"oilConsumption": "9",
 				"accuracy": "207",
 				"antisubmarineWarfare": "203"
+			},
+			"level120Retrofit": {
+				"health": "2442",
+				"armor": "Light",
+				"reload": "200",
+				"luck": "61",
+				"firepower": "171",
+				"torpedo": "308",
+				"evasion": "237",
+				"speed": "45",
+				"antiair": "172",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "201",
+				"antisubmarineWarfare": "200"
+			},
+			"level100Retrofit": {
+				"health": "2220",
+				"armor": "Light",
+				"reload": "189",
+				"luck": "61",
+				"firepower": "163",
+				"torpedo": "295",
+				"evasion": "213",
+				"speed": "45",
+				"antiair": "157",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "179",
+				"antisubmarineWarfare": "188"
 			}
 		},
 		"slots": [
@@ -47347,19 +47520,22 @@
 				"maxEfficiency": 155,
 				"minEfficiency": 140,
 				"type": "DD Guns",
-				"max": 1
+				"max": 1,
+				"kaiEfficiency": 100
 			},
 			{
 				"maxEfficiency": 100,
 				"minEfficiency": 90,
-				"type": "Torpedoes",
-				"max": 2
+				"type": "Torpedoes (Missiles on retrofit)",
+				"max": 2,
+				"kaiEfficiency": 150
 			},
 			{
 				"maxEfficiency": 105,
 				"minEfficiency": 95,
 				"type": "Anti-Air Guns",
-				"max": 1
+				"max": 1,
+				"kaiEfficiency": 105
 			}
 		],
 		"enhanceValue": {
@@ -47381,8 +47557,28 @@
 					"cn": "互助同盟",
 					"jp": "相互援助同盟"
 				},
-				"description": "Increases the FP, RLD, and Accuracy of all Northern Parliament and Dragon Empery ships in the Vanguard Fleet by 4.5(12)%.",
+				"description": "Increases the FP, RLD, and Accuracy of all Northern Parliament and Dragon Empery ships in the Vanguard Fleet by 4.5% (12.0%).",
 				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/3/3a/Skill_11060.png",
+				"names": {
+					"en": "(Retrofit) Mutual Assistance+",
+					"cn": "互助同盟+",
+					"jp": "相互援助同盟+"
+				},
+				"description": "Increases the FP, RLD, and Accuracy of all Northern Parliament and Dragon Empery ships in the Vanguard Fleet by 4.5% (12.0%) and increases FP, TRP, and AA by 4.5% (12.0%) for all your Northern Parliament and Dragon Empery Main Fleet ships.\n(Replaces Mutual Assistance)",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0e/Skill_15200.png",
+				"names": {
+					"en": "(Retrofit) White Tiger's Prance",
+					"cn": "虎虎生威",
+					"jp": "白虎風生"
+				},
+				"description": "Provides 1 Missile Strike charge. Decreases the duration this ship Burns by 3s and decreases her Burn DMG taken by 5.0% (15.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage that increases Torpedo DMG taken by 8.0% for 6s to enemies hit.",
+				"color": "pink"
 			},
 			{
 				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
@@ -47391,7 +47587,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-アンシャン型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Anshan Class I (II)",
+				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - An Shan-class I (II)\n(Upon Retrofit) \n\nIf the ship is set to Vanguard Mode:\nEvery 16 times the main gun is fired, trigger Full Barrage - An Shan-class III\nIf the ship is set to Main Fleet Mode:\nWhen this ship launches a Missile Strike, trigger Full Barrage - An Shan-class III",
 				"color": "pink"
 			}
 		],
@@ -47408,21 +47604,23 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -47671,14 +47869,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -49853,14 +50053,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -50314,14 +50516,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -50552,14 +50756,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -50785,14 +50991,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -51037,14 +51245,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -51417,14 +51627,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+2",
 					"stat": "torpedo"
@@ -51766,14 +51978,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -52264,14 +52478,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -52759,14 +52975,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -53301,14 +53519,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -53764,14 +53984,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -54015,14 +54237,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -54256,14 +54480,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -54512,14 +54738,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -54764,14 +54992,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -55033,14 +55263,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -55292,14 +55524,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -55550,14 +55784,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -55824,14 +56060,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -56085,14 +56323,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -56326,14 +56566,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -56578,14 +56820,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -56829,14 +57073,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -57080,14 +57326,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -57400,14 +57648,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -58810,14 +59060,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -59059,14 +59311,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -60609,14 +60863,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -60876,14 +61132,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -61198,14 +61456,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -61720,14 +61980,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -63146,14 +63408,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -63397,14 +63661,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -64688,14 +64954,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -64954,14 +65222,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -65232,14 +65502,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -65483,14 +65755,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -68485,14 +68759,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -68741,14 +69017,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -68988,14 +69266,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -69292,14 +69572,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -70700,14 +70982,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -72024,14 +72308,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -73172,14 +73458,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -74255,14 +74543,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -74511,14 +74801,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -75094,14 +75386,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -76174,14 +76468,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -76421,14 +76717,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -78083,14 +78381,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -78150,10 +78450,11 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/thumb/4/47/KimberlySpringChibi.png/115px-KimberlySpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Lunar New Year 2019 - Complete 10 laps in the board game",
+					"obtainedFrom": "Core Data Shop",
 					"enClient": "Style of the East",
 					"cnClient": "东煌之风",
-					"jpClient": "安陽の異文化勉強"
+					"jpClient": "安陽の異文化勉強",
+					"cost": 1000
 				}
 			}
 		],
@@ -78333,14 +78634,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -79733,14 +80036,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -82029,14 +82334,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -82265,14 +82572,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -83510,14 +83819,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -83825,14 +84136,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -86789,14 +87102,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -87046,14 +87361,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -87637,14 +87954,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -89231,14 +89550,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -89806,14 +90127,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -91559,14 +91882,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -92640,14 +92965,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -93195,14 +93522,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -93455,14 +93784,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -93740,14 +94071,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -94014,14 +94347,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+2",
 					"stat": "health"
@@ -96888,14 +97223,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -98260,14 +98597,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -98520,14 +98859,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -99007,14 +99348,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -100406,14 +100749,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -101149,14 +101494,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -102561,14 +102908,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -102856,14 +103205,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -103387,14 +103738,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -108341,14 +108694,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -108602,14 +108957,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -109134,14 +109491,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -109396,14 +109755,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "accuracy"
@@ -109951,7 +110312,7 @@
 		"construction": {
 			"constructionTime": "00:38:00",
 			"availableIn": {
-				"light": "Only during event: Lunar New Year 2021",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -109959,7 +110320,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "50% Efficiency AA gun | Available in Light Construction during Happy Lunar New Year 2021",
+			"obtainedFrom": "50% Efficiency AA gun",
 			"fromMaps": []
 		},
 		"misc": {
@@ -110218,7 +110579,7 @@
 		"construction": {
 			"constructionTime": "00:38:00",
 			"availableIn": {
-				"light": "Only during event: Lunar New Year 2021",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -110226,7 +110587,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "50% Efficiency AA gun | Available in Light Construction during Happy Lunar New Year 2021",
+			"obtainedFrom": "50% Efficiency AA gun",
 			"fromMaps": []
 		},
 		"misc": {
@@ -110483,7 +110844,7 @@
 		"construction": {
 			"constructionTime": "01:20:00",
 			"availableIn": {
-				"light": "Only during event: Lunar New Year 2021",
+				"light": true,
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -110491,7 +110852,6 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Light Construction during Happy Lunar New Year 2021",
 			"fromMaps": []
 		},
 		"misc": {
@@ -111019,14 +111379,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -111554,14 +111916,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -112912,14 +113276,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -113180,14 +113546,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -113448,14 +113816,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -113702,14 +114072,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "reload"
@@ -113964,14 +114336,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+2",
 					"stat": "health"
@@ -114229,14 +114603,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -115809,14 +116185,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -116294,14 +116672,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -116559,14 +116939,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+2",
 					"stat": "health"
@@ -117645,14 +118027,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -117900,14 +118284,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -127165,14 +127551,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -127484,14 +127872,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -128021,14 +128411,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -128514,14 +128906,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -128773,14 +129167,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -129040,14 +129436,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -129308,14 +129706,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -129555,14 +129955,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -129810,14 +130212,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -130052,14 +130456,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -130293,14 +130699,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -130550,14 +130958,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -130807,14 +131217,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -131068,14 +131480,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -131377,14 +131791,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
@@ -132142,14 +132558,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -132659,14 +133077,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -133185,14 +133605,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antiair"
@@ -139988,7 +140410,7 @@
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Unlock All Out Assault: I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -139996,7 +140418,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrade All Out Assault: I → II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -140034,12 +140456,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Ashen Simulacrum",
+				"limited": "Only during the \"Ashen Simulacrum\"",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Ashen Simulacrum\" event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Ashen Simulacrum\" event",
 			"fromMaps": []
 		},
 		"misc": {
@@ -148692,14 +149114,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -149233,14 +149657,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -149787,14 +150213,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -150255,14 +150683,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -150513,14 +150943,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -150829,14 +151261,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -151356,14 +151790,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -151891,14 +152327,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -152500,14 +152938,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
@@ -153021,14 +153461,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "antisubmarineWarfare"
@@ -153499,14 +153941,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -153750,14 +154194,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "evasion"
@@ -154024,14 +154470,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "health"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "torpedo"
@@ -157011,14 +157459,16 @@
 			"statsBonus": {
 				"collection": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
 				},
 				"maxLevel": {
 					"applicable": [
-						"Destroyer"
+						"Destroyer",
+						"DDG"
 					],
 					"bonus": "+1",
 					"stat": "firepower"
