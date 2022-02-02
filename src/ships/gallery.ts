@@ -7,13 +7,13 @@ export async function fetchGallery(name: string, url: string): Promise<{ skins: 
     let skins: Skin[] = [];
     let gallery: GalleryItem[] = [];
     let doc = new JSDOM(await fetch(BASE + "/" + url + "/Gallery", path.resolve(__dirname, '..', '..', 'web/ships.gallery/' + name + '.html'))).window.document;
-    Array.from(doc.querySelectorAll(".mw-parser-output>.tabber>.tabbertab")).forEach(node => {
+    Array.from(doc.querySelectorAll(".mw-parser-output>.tabber>.tabber__section>article")).forEach(node => {
         let image;
         let tab = <HTMLElement>node;
-        if (tab.querySelector(".tabbertab")) image = {
-            normal: tab.querySelector(".tabbertab[title=Default] .shipskin-image img") ? (<HTMLImageElement>tab.querySelector(".tabbertab[title=Default] .shipskin-image img")).src : null,
-            nobg: tab.querySelector('.tabbertab[title="Without BG"] .shipskin-image img') ? (<HTMLImageElement>tab.querySelector('.tabbertab[title="Without BG"] .shipskin-image img')).src : null,
-            cn: tab.querySelector(".tabbertab[title=CN] .shipskin-image img") ? (<HTMLImageElement>tab.querySelector(".tabbertab[title=CN] .shipskin-image img")).src : null
+        if (tab.querySelector(".tabber__panel")) image = {
+            normal: tab.querySelector(".tabber__panel[title=Default] .shipskin-image img") ? (<HTMLImageElement>tab.querySelector(".tabber__panel[title=Default] .shipskin-image img")).src : null,
+            nobg: tab.querySelector('.tabber__panel[title="Without BG"] .shipskin-image img') ? (<HTMLImageElement>tab.querySelector('.tabber__panel[title="Without BG"] .shipskin-image img')).src : null,
+            cn: tab.querySelector(".tabber__panel[title=CN] .shipskin-image img") ? (<HTMLImageElement>tab.querySelector(".tabber__panel[title=CN] .shipskin-image img")).src : null
         };
         else image = tab.querySelector(".shipskin-image img") ? (<HTMLImageElement>tab.querySelector(".shipskin-image img")).src : null;
         let info: SkinInfo = {live2dModel: false, obtainedFrom: ""};
