@@ -32,15 +32,15 @@ export async function refreshEquipments() {
     process.stdout.write("Refreshing Equipments");
     let data = await fetch('https://azurlane.koumakan.jp/Equipment_List', path.resolve(ROOT, 'web/equipments/index.html'));
     process.stdout.write("EQ Menu Loaded\n");
-    for (let equipment_type of new JSDOM(data).window.document.querySelectorAll("ul:nth-child(7) li")) { // Equipments types layer
+    for (let equipment_type of new JSDOM(data).window.document.querySelectorAll(".mw-parser-output>div>ul>li>a")) { // Equipments types layer
         let category = equipment_type.textContent;
         console.log("Refreshing Equipments type= " + category + "...");
         if (!fs.existsSync(path.resolve(ROOT, 'web/equipments/' + category))) fs.mkdirSync(path.resolve(ROOT, 'web/equipments/' + category));
-        let doc = new JSDOM(await fetch("https://azurlane.koumakan.jp" + equipment_type.firstElementChild.getAttribute("href"), path.resolve(ROOT, 'web/equipments/' + category + '.html'))).window.document;
+        let doc = new JSDOM(await fetch("https://azurlane.koumakan.jp" + equipment_type.getAttribute("href"), path.resolve(ROOT, 'web/equipments/' + category + '.html'))).window.document;
         console.log("List Done");
 
-        let rows = doc.querySelectorAll("div[title = 'Max Rarity'] > table > tbody tr");
-        if (category === "Anti-Submarine Equipment") rows = doc.querySelectorAll("div[title = 'Max Stats'] > table > tbody tr"); // TODO Remove this diry fix
+        let rows = doc.querySelectorAll("article[title = 'Max Rarity'] > table > tbody tr");
+        if (category === "Anti-Submarine Equipment") rows = doc.querySelectorAll("article[title = 'Max Enhanced'] > table > tbody tr"); // TODO Remove this diry fix
         for (let equipment_row of rows) { // Equipments layer, using the max rarity tab to prevent dupes
             if (!equipment_row.firstElementChild || !equipment_row.firstElementChild.firstElementChild) continue; // some how jsdom's query selector is flaud, so dirty fix here, ignore it
             let href = `https://azurlane.koumakan.jp${equipment_row.firstElementChild.firstElementChild.getAttribute("href")}`;
