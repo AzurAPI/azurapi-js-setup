@@ -52238,9 +52238,9 @@
 					},
 					"planeHealth": {
 						"type": "min_max",
-						"min": "112",
-						"max": "213",
-						"formatted": "112 → 213"
+						"min": "26",
+						"max": "52",
+						"formatted": "26 → 52"
 					},
 					"rateOfFire": {
 						"type": "min_max_per",
@@ -52263,8 +52263,8 @@
 							{
 								"type": "count_unit",
 								"count": "1",
-								"unit": "500lb Bomb T2",
-								"formatted": "1 x 500lb Bomb T2"
+								"unit": "500lb Bomb T1",
+								"formatted": "1 x 500lb Bomb T1"
 							}
 						]
 					}
@@ -52283,8 +52283,11 @@
 						"formatted": "25"
 					},
 					"planeHealth": {
-						"type": "value",
-						"formatted": "123"
+						"type": "min_mid_max",
+						"min": "28",
+						"mid": "76",
+						"max": "81",
+						"formatted": "28 → 76 → 81"
 					},
 					"oPSDamageBoost": {
 						"type": "min_max",
@@ -52293,10 +52296,11 @@
 						"formatted": "0 → 1%"
 					},
 					"rateOfFire": {
-						"type": "value_unit",
-						"value": "16.43",
-						"unit": "s",
-						"formatted": "16.43s"
+						"type": "min_max_per",
+						"min": "16.43s",
+						"max": "13.43s",
+						"per": "wave",
+						"formatted": "16.43s → 13.43s   per wave"
 					},
 					"speed": {
 						"type": "value",
@@ -52306,14 +52310,18 @@
 						"type": "value",
 						"formatted": "1"
 					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "120"
+					},
 					"ordnance": {
 						"type": "more_stats",
 						"stats": [
 							{
 								"type": "count_unit",
 								"count": "1",
-								"unit": "500lb Bomb T3",
-								"formatted": "1 x 500lb Bomb T3"
+								"unit": "500lb Bomb T2",
+								"formatted": "1 x 500lb Bomb T2"
 							}
 						]
 					}
@@ -52331,6 +52339,117 @@
 			"en": "FBA 19",
 			"cn": null,
 			"jp": null,
+			"kr": null
+		}
+	},
+	"SY-1 Missile": {
+		"fits": {
+			"destroyer": "\"DDG\" only",
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/7/77/56000.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "50% chance to start a DD fire(Level 1)",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Drop from Joint Battle Mystery Investigation, Core Exchange Shop"
+		},
+		"nationality": "Dragon Empery",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"torpedo": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "100",
+						"max": "264",
+						"multiplier": "4",
+						"formatted": "100 × 4 → 264 × 4"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "32.26s",
+						"max": "26.27s",
+						"per": "volley",
+						"formatted": "32.26s → 26.27s   per volley"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "4",
+						"unit": "torpedoes",
+						"formatted": "4 torpedoes"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "100",
+						"unit": "°",
+						"formatted": "100°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 200,
+						"shell": 120,
+						"formatted": "Firing: 200\nShell: 120"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "100%",
+						"max": "118%",
+						"formatted": "100% → 118%"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Guided"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Missile",
+			"name": "Missile"
+		},
+		"id": "SY-1 Missile",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/SY-1_Missile",
+		"category": "Ship Torpedoes",
+		"names": {
+			"en": "SY-1 Missile",
+			"cn": "上游-1导弹",
+			"jp": "SY-1対艦ミサイル",
 			"kr": null
 		}
 	}
