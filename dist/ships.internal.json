@@ -98348,6 +98348,22 @@
 					"jpClient": "バニーリノ！",
 					"cost": 1180
 				}
+			},
+			{
+				"name": "Spring's Inspiration",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/2f/RenoSpring.png/572px-RenoSpring.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/ab/RenoSpringWithoutBG.png/540px-RenoSpringWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d7/RenoSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"enClient": "Spring's Inspiration",
+					"cnClient": "闪耀东煌之春",
+					"jpClient": "きらめく春の息吹",
+					"cost": 900
+				}
 			}
 		],
 		"gallery": [
@@ -121272,8 +121288,38 @@
 				"url": "https://myanimelist.net/people/27389/Arisa_Date"
 			}
 		},
-		"skins": [],
-		"gallery": []
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/7f/Hai_Tien.png/538px-Hai_Tien.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/70/Hai_TienChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Verse-Weaver at the Water's Edge",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/0/0e/Hai_TienSpring.png/661px-Hai_TienSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/4/4a/Hai_TienSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"enClient": "Verse-Weaver at the Water's Edge",
+					"cnClient": "书香水榭",
+					"jpClient": "詩句馨る水亭にて",
+					"cost": 800
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Charybdis, Bristol, Hai Tien",
+				"url": "https://azurlane.netojuu.com/w/images/8/86/Bg_2022.01.27_2.png"
+			}
+		]
 	},
 	"532": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hai_Chi",
@@ -121800,6 +121846,254 @@
 				"url": "https://azurlane.netojuu.com/w/images/1/15/Bg_2022.01.27_5.png"
 			}
 		]
+	},
+	"534": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Chen_Hai",
+		"id": "534",
+		"_gid": 50601,
+		"_sid": [
+			506011,
+			506012,
+			506013,
+			506014
+		],
+		"_code": 534,
+		"names": {
+			"en": "Chen Hai",
+			"code": "Chen Hai",
+			"cn": "镇海",
+			"jp": "鎮海",
+			"kr": "젠하이"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": true
+		},
+		"hexagon": [
+			1,
+			0,
+			3,
+			2,
+			2,
+			2
+		],
+		"class": "Chen Hai",
+		"nationality": "Dragon Empery",
+		"hullType": "Light Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/1/11/Chen_HaiShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "604",
+				"armor": "Medium",
+				"reload": "68",
+				"luck": "45",
+				"firepower": "28",
+				"torpedo": "0",
+				"evasion": "13",
+				"speed": "10",
+				"antiair": "30",
+				"aviation": "56",
+				"oilConsumption": "3",
+				"accuracy": "32",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "3302",
+				"armor": "Medium",
+				"reload": "175",
+				"luck": "45",
+				"firepower": "143",
+				"torpedo": "0",
+				"evasion": "45",
+				"speed": "10",
+				"antiair": "147",
+				"aviation": "284",
+				"oilConsumption": "11",
+				"accuracy": "88",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "3651",
+				"armor": "Medium",
+				"reload": "186",
+				"luck": "45",
+				"firepower": "151",
+				"torpedo": "0",
+				"evasion": "51",
+				"speed": "10",
+				"antiair": "161",
+				"aviation": "299",
+				"oilConsumption": "11",
+				"accuracy": "99",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "3738",
+				"armor": "Medium",
+				"reload": "188",
+				"luck": "45",
+				"firepower": "153",
+				"torpedo": "0",
+				"evasion": "53",
+				"speed": "10",
+				"antiair": "165",
+				"aviation": "303",
+				"oilConsumption": "11",
+				"accuracy": "101",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 135,
+				"type": "Seaplanes",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 135,
+				"type": "Seaplanes / DD Guns (LB2)",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 80,
+				"minEfficiency": 80,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 3,
+			"torpedo": 0,
+			"aviation": 37,
+			"reload": 13
+		},
+		"scrapValue": {
+			"coin": 16,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/1/18/Skill_15170.png",
+				"names": {
+					"en": "Star-Studded Formation",
+					"cn": null,
+					"jp": null
+				},
+				"description": "Every 8s: fires a Lv.1 (10) special barrage (DMG is based on the skill's level). When 4 same-colored shots in a row from this barrage hit the same enemy, one of the following debuffs are inflicted: 1) if the shots were black, the enemy's SPD is decreased by 15.0% (30.0%) for 2s; 2) if the shots were white, the enemy's DMG dealt is decreased by 5.0% (15.0%) for 2s.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/cf/Skill_15180.png",
+				"names": {
+					"en": "Cunning Stratagem",
+					"cn": null,
+					"jp": null
+				},
+				"description": "When this ship launches an Airstrike: launches an additional Lv.1 (10) special airstrike (DMG is based on the skill's level). If your fleet consists entirely of Dragon Empery ships: improves this special airstrike, and once every 20s, 1 randomly chosen ship in your fleet deals 1.0% (10.0%) increased DMG for 5s.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Aircraft Efficiency +3%"
+			],
+			[
+				"Hangar capacity +1",
+				"Aircraft Efficiency +5%",
+				"Second slot may equip DD Guns"
+			],
+			[
+				"Aircraft Efficiency +7%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "reload"
+				}
+			},
+			"techPoints": {
+				"collection": 8,
+				"maxLimitBreak": 18,
+				"maxLevel": 14,
+				"total": 40
+			}
+		},
+		"construction": {
+			"constructionTime": "02:00:00",
+			"availableIn": {
+				"light": "Only during Event: Happy Lunar New Year 2022",
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during \"Happy Lunar New Year 2022\" Event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "股间少女",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Pixiv": "/wiki/String_Module_Error:_String_subset_index_out_of_range",
+					"Twitter": "/wiki/String_Module_Error:_String_subset_index_out_of_range",
+					"String Module Error: String subset index out of range": "/wiki/String_Module_Error:_String_subset_index_out_of_range"
+				}
+			},
+			"voice": {
+				"name": "-"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/9/91/Chen_Hai.png/589px-Chen_Hai.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/27/Chen_HaiChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Vestibule of Wonders",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a6/Chen_HaiSpring.png/630px-Chen_HaiSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/1b/Chen_HaiSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Vestibule of Wonders",
+					"cnClient": "奇奢华苑",
+					"jpClient": "奇響華殿",
+					"cost": 800
+				}
+			}
+		],
+		"gallery": []
 	},
 	"10061": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marie_Rose",
