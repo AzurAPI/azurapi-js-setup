@@ -1463,7 +1463,7 @@
 			},
 			{
 				"name": "Wedding",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/7/7f/VampirePledge.png/479px-VampirePledge.png",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/12/VampireWedding.png/479px-VampireWedding.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/d/d2/VampireWeddingChibi.png",
 				"info": {
@@ -8591,7 +8591,7 @@
 					"cn": "巨兽猎手",
 					"jp": "大物狩り"
 				},
-				"description": "At the start of battle: Increases Eva and TorpIn game description incorrectly says torpedo DMG by 5% (15%), increases own armor modifierIn game description incorrectly states damage against Medium Armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
+				"description": "At the start of battle: Increases Eva and TorpIn game description incorrectly says torpedo DMGTorp[a] by 5% (15%), increases own armor modifierIn game description incorrectly states damagearmor modifier[b] against Medium Armor enemies by 15% (25%). Slows enemy Heavy Cruisers by 15% (30%) for 5s after hitting them 4 times.",
 				"color": "pink"
 			},
 			{
@@ -11237,6 +11237,20 @@
 					"enClient": "skin unavailable",
 					"cnClient": "一日见习店员",
 					"jpClient": "skin unavailable"
+				}
+			},
+			{
+				"name": "Immaculate Beauty",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b1/RodneySpring.png/522px-RodneySpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/6e/RodneySpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Immaculate Beauty",
+					"cnClient": "完美佳人",
+					"jpClient": "完璧な佳人",
+					"cost": 800
 				}
 			}
 		],
@@ -37695,7 +37709,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/6/62/AkagiSpringChibi.png",
 				"info": {
 					"live2dModel": true,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Dawn-Phoenix's Summons",
 					"cnClient": "朝凰来仪",
 					"jpClient": "朝凰来儀",
@@ -38069,7 +38083,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/8/8f/KagaSpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Dusk-Simurgh's Vigil",
 					"cnClient": "鸾翔影集",
 					"jpClient": "鸞翔影集",
@@ -41605,7 +41619,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -46904,8 +46918,8 @@
 		"enhanceValue": {
 			"firepower": 0,
 			"torpedo": 0,
-			"aviation": 63,
-			"reload": 8
+			"aviation": 67,
+			"reload": 9
 		},
 		"scrapValue": {
 			"coin": 16,
@@ -57612,6 +57626,22 @@
 					"jpClient": "運動会の準備",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Firecrackers and Steamed Buns",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/fd/YoizukiSpring.png/679px-YoizukiSpring.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/d2/YoizukiSpringWithoutBG.png/534px-YoizukiSpringWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/6/63/Skin_BG_144.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/4/40/YoizukiSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Firecrackers and Steamed Buns",
+					"cnClient": "爆竹除岁",
+					"jpClient": "爆竹と饅頭",
+					"cost": 800
+				}
 			}
 		],
 		"gallery": []
@@ -59566,7 +59596,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Bache, Georgia, St. Louis, Anchorage, San Francisco",
+				"description": "Bache, Baltimore, St. Louis, Anchorage, San Francisco",
 				"url": "https://azurlane.netojuu.com/w/images/e/e5/Bg_2022.01.27_1.png"
 			},
 			{
@@ -65763,6 +65793,20 @@
 					"enClient": "Snow-Dusted Lynx Tips",
 					"cnClient": "雪朝与铃",
 					"jpClient": "リンクスティップの雪化粧",
+					"cost": 800
+				}
+			},
+			{
+				"name": "Robes of Dancing Clouds",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/f0/AsashioSpring.png/645px-AsashioSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/10/AsashioSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Robes of Dancing Clouds",
+					"cnClient": "轻舞云裳",
+					"jpClient": "舞い降りるもこもこタフト",
 					"cost": 800
 				}
 			}
@@ -82881,6 +82925,21 @@
 					"cnClient": "理科实验时间！",
 					"jpClient": "理科実験タイム！"
 				}
+			},
+			{
+				"name": "New Year's Chemistry",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/24/U-73Spring.png/468px-U-73Spring.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/72/U-73SpringWithoutBG.png/453px-U-73SpringWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/6/63/Skin_BG_144.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/92/U-73SpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Manjuu Resort - Earned by opening 25  red envelopes",
+					"enClient": "New Year's Chemistry",
+					"cnClient": "早春的热情药剂",
+					"jpClient": "初春の情熱ケミカルポーション"
+				}
 			}
 		],
 		"gallery": []
@@ -88178,7 +88237,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Bache, Georgia, St. Louis, Anchorage, San Francisco",
+				"description": "Bache, Baltimore, St. Louis, Anchorage, San Francisco",
 				"url": "https://azurlane.netojuu.com/w/images/e/e5/Bg_2022.01.27_1.png"
 			},
 			{
@@ -98358,7 +98417,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/d/d7/RenoSpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Spring's Inspiration",
 					"cnClient": "闪耀东煌之春",
 					"jpClient": "きらめく春の息吹",
@@ -99425,6 +99484,20 @@
 					"jpClient": "白昼月、海辺の華",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Blossoming Spring, Resplendent Moon",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/12/HanazukiSpring.png/477px-HanazukiSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/9b/HanazukiSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Blossoming Spring, Resplendent Moon",
+					"cnClient": "春意·月华盎然",
+					"jpClient": "春正旦・月華盎然",
+					"cost": 800
+				}
 			}
 		],
 		"gallery": []
@@ -99702,6 +99775,20 @@
 					"cnClient": "安心的“长波”",
 					"jpClient": "待ち望む暖かさ",
 					"cost": 780
+				}
+			},
+			{
+				"name": "Nestling Up for the Long Nights",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/4c/NaganamiSpring.png/1013px-NaganamiSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/6e/NaganamiSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Nestling Up for the Long Nights",
+					"cnClient": "长夜相伴",
+					"jpClient": "夜長に寄り添って",
+					"cost": 800
 				}
 			}
 		],
@@ -103193,7 +103280,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/4/45/HermioneSpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Pristine Herbalist",
 					"cnClient": "百草堂少女",
 					"jpClient": "ピュアリー・ハーブ",
@@ -103202,6 +103289,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Charybdis, Bristol, Hermione",
+				"url": "https://azurlane.netojuu.com/w/images/8/86/Bg_2022.01.27_2.png"
+			},
 			{
 				"description": "Cheshire, Hermione, Dido, Formidable, Sirius",
 				"url": "https://azurlane.netojuu.com/w/images/5/51/Bg_2021.09.23_3.png"
@@ -114935,6 +115026,20 @@
 					"jpClient": "夏陽の一意専心",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Jet Ink, Silver Quills",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/ff/OiteSpring.png/557px-OiteSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/62/OiteSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Jet Ink, Silver Quills",
+					"cnClient": "纸砚墨梅",
+					"jpClient": "墨梅の筆墨硯紙",
+					"cost": 800
+				}
 			}
 		],
 		"gallery": []
@@ -116221,7 +116326,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Bache, Georgia, St. Louis, Anchorage, San Francisco",
+				"description": "Bache, Baltimore, St. Louis, Anchorage, San Francisco",
 				"url": "https://azurlane.netojuu.com/w/images/e/e5/Bg_2022.01.27_1.png"
 			},
 			{
@@ -121045,7 +121150,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Charybdis, Bristol, Hai Tien",
+				"description": "Charybdis, Bristol, Hermione",
 				"url": "https://azurlane.netojuu.com/w/images/8/86/Bg_2022.01.27_2.png"
 			},
 			{
@@ -121099,7 +121204,7 @@
 		"stats": {
 			"baseStats": {
 				"health": "522",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "55",
 				"luck": "31",
 				"firepower": "19",
@@ -121114,7 +121219,7 @@
 			},
 			"level100": {
 				"health": "2722",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "142",
 				"luck": "31",
 				"firepower": "95",
@@ -121129,7 +121234,7 @@
 			},
 			"level120": {
 				"health": "2997",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "150",
 				"luck": "31",
 				"firepower": "101",
@@ -121144,7 +121249,7 @@
 			},
 			"level125": {
 				"health": "3065",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "152",
 				"luck": "31",
 				"firepower": "102",
@@ -121306,7 +121411,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/4/4a/Hai_TienSpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Verse-Weaver at the Water's Edge",
 					"cnClient": "书香水榭",
 					"jpClient": "詩句馨る水亭にて",
@@ -121314,12 +121419,7 @@
 				}
 			}
 		],
-		"gallery": [
-			{
-				"description": "Charybdis, Bristol, Hai Tien",
-				"url": "https://azurlane.netojuu.com/w/images/8/86/Bg_2022.01.27_2.png"
-			}
-		]
+		"gallery": []
 	},
 	"532": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Hai_Chi",
@@ -121362,7 +121462,7 @@
 		"stats": {
 			"baseStats": {
 				"health": "521",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "55",
 				"luck": "62",
 				"firepower": "17",
@@ -121377,7 +121477,7 @@
 			},
 			"level100": {
 				"health": "2717",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "142",
 				"luck": "62",
 				"firepower": "88",
@@ -121392,7 +121492,7 @@
 			},
 			"level120": {
 				"health": "2991",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "150",
 				"luck": "62",
 				"firepower": "93",
@@ -121407,7 +121507,7 @@
 			},
 			"level125": {
 				"health": "3060",
-				"armor": "Light",
+				"armor": "Medium",
 				"reload": "152",
 				"luck": "62",
 				"firepower": "94",
@@ -121570,7 +121670,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/c/cd/Hai_ChiSpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "A Dance Among the Lotuses",
 					"cnClient": "清池乐舞",
 					"jpClient": "清き泉にて楽と舞ふ",
@@ -121814,6 +121914,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/2/21/Bristol.png/646px-Bristol.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/a4/BristolWithoutBG.png/716px-BristolWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/0/01/BristolChibi.png",
 				"info": {
@@ -121828,7 +121930,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/3/36/BristolSpringChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Happy Lunar New Year 2022 Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Tales from the Empery",
 					"cnClient": "东煌志怪谈",
 					"jpClient": "東煌志怪談",
@@ -121838,7 +121940,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Charybdis, Bristol, Hai Tien",
+				"description": "Charybdis, Bristol, Hermione",
 				"url": "https://azurlane.netojuu.com/w/images/8/86/Bg_2022.01.27_2.png"
 			},
 			{
@@ -121957,7 +122059,7 @@
 			{
 				"maxEfficiency": 150,
 				"minEfficiency": 135,
-				"type": "Seaplanes / DD Guns (LB2)",
+				"type": "Seaplanes / DD Guns (LB1)",
 				"max": 1
 			},
 			{
@@ -122002,12 +122104,12 @@
 		],
 		"limitBreaks": [
 			[
-				"Aircraft Efficiency +3%"
+				"Aircraft Efficiency +3%",
+				"Second slot may equip DD Guns"
 			],
 			[
 				"Hangar capacity +1",
-				"Aircraft Efficiency +5%",
-				"Second slot may equip DD Guns"
+				"Aircraft Efficiency +5%"
 			],
 			[
 				"Aircraft Efficiency +7%"
@@ -129012,7 +129114,7 @@
 					"cn": null,
 					"jp": null
 				},
-				"description": "When the battle starts, if this ship has Sakura Empire aircraft equipped: increases this ship's AVI by 4.5% (12%);  if not equipping any, instead increases this ship's AA and EVA by 4.5% (12%).",
+				"description": "When the battle starts, if this ship has Sakura Empire aircraft equipped: increases this ship's AVI by 4.5% (12%);  if not equipping any, instead increases this ship's AA and EVA by 4.5% (12%)In game description says $2.",
 				"color": "deepskyblue"
 			},
 			{
@@ -139369,6 +139471,21 @@
 					"jpClient": "下校前のオデット",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Across the Vast Prairies",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/0/02/ColumbiaTravel.png/741px-ColumbiaTravel.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/0/0a/ColumbiaTravelWithoutBG.png/386px-ColumbiaTravelWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/0/0f/Skin_BG_118.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d1/ColumbiaTravelChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Fair Winds Cruise Pass - Season 3 - Collect 3000  Battlepass points during Season 3",
+					"enClient": "Across the Vast Prairies",
+					"cnClient": "草原纵横之旅",
+					"jpClient": "草原を駆ける：コロンビアの旅紀行"
+				}
 			}
 		],
 		"gallery": [
@@ -142870,6 +142987,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Bache, Baltimore, St. Louis, Anchorage, San Francisco",
+				"url": "https://azurlane.netojuu.com/w/images/e/e5/Bg_2022.01.27_1.png"
+			},
+			{
 				"description": "Bremerton, Baltimore",
 				"url": "https://azurlane.netojuu.com/w/images/0/03/Bg_2021.09.30_6.png"
 			},
@@ -144198,6 +144319,20 @@
 					"live2dModel": false,
 					"obtainedFrom": "Default"
 				}
+			},
+			{
+				"name": "The Keystone General",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/1d/PennsylvaniaSpring.png/450px-PennsylvaniaSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/f/f5/Skin_BG_153.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/bf/PennsylvaniaSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "The Keystone General",
+					"cnClient": "石州飞将",
+					"jpClient": "石州飛将",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": []
@@ -144431,6 +144566,20 @@
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Enchantress from Afar",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/5/51/ArizonaSpring.png/960px-ArizonaSpring.png",
+				"background": "https://azurlane.netojuu.com/w/images/6/63/Skin_BG_144.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d3/ArizonaSpringChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Enchantress from Afar",
+					"cnClient": "异域的舞姬",
+					"jpClient": "西方舞姫",
+					"cost": 800
 				}
 			}
 		],
@@ -149459,7 +149608,7 @@
 					"cn": "强袭空母",
 					"jp": "強襲空母"
 				},
-				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMG for 10s.",
+				"description": "When this ship launches an Airstrike: 15% (25%) chance to increase this ship's DMG dealt by 100%In game text incorrectly says chance for Airstrike to deal double DMGto increase this ship's DMG dealt by 100%[a] for 10s.",
 				"color": "pink"
 			}
 		],
@@ -159629,10 +159778,6 @@
 		],
 		"gallery": [
 			{
-				"description": "Bache, Georgia, St. Louis, Anchorage, San Francisco",
-				"url": "https://azurlane.netojuu.com/w/images/e/e5/Bg_2022.01.27_1.png"
-			},
-			{
 				"description": "Shangri-La, Georgia, Essex",
 				"url": "https://azurlane.netojuu.com/w/images/4/47/Bg_2020.09.17_3.png"
 			},
@@ -164966,7 +165111,7 @@
 				"nobg": null,
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
-				"chibi": "https://azurlane.netojuu.com/w/images/3/33/VertCNChibi.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0f/VertChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
