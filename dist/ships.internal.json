@@ -13860,6 +13860,10 @@
 			{
 				"description": "Ark Royal",
 				"url": "https://azurlane.netojuu.com/w/images/5/5c/GalleryPic15.png"
+			},
+			{
+				"description": "A Children's Day 2018 special image by Nachoz – Ark Royal and Köln visiting a classroom with Akagi-chan, Lena, Little Bel, Little Renown, Hiei-chan, Zeppy, Li'l Sandy and Clevelad",
+				"url": "https://azurlane.netojuu.com/w/images/9/94/Children%27s_Day_2018_Special_Image.jpg"
 			}
 		]
 	},
@@ -19733,6 +19737,22 @@
 					"enClient": "The Ballroom's Lucky Star",
 					"cnClient": "晚会幸运星！",
 					"jpClient": "イブニングラッキースター",
+					"cost": 780
+				}
+			},
+			{
+				"name": "Lucky Chocolate",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/f3/ShigureSchool.png/549px-ShigureSchool.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/4/4b/ShigureSchoolWithoutBG.png/293px-ShigureSchoolWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/6/61/Skin_BG_104.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/15/ShigureSchoolChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Lucky Chocolate",
+					"cnClient": "幸运Chocolate",
+					"jpClient": "ラッキーショコラ",
 					"cost": 780
 				}
 			}
@@ -42467,7 +42487,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -43835,7 +43855,12 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "A Children's Day 2018 special image by Nachoz – Köln and Ark Royal visiting a classroom with Akagi-chan, Lena, Little Bel, Little Renown, Hiei-chan, Zeppy, Li'l Sandy and Clevelad",
+				"url": "https://azurlane.netojuu.com/w/images/9/94/Children%27s_Day_2018_Special_Image.jpg"
+			}
+		]
 	},
 	"241": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Leipzig",
@@ -47625,6 +47650,20 @@
 					"jpClient": "skin unavailable",
 					"cost": 700
 				}
+			},
+			{
+				"name": "Setting Sun, Hearts as One",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/7/70/An_ShanSchool.png/545px-An_ShanSchool.png",
+				"background": "https://azurlane.netojuu.com/w/images/f/f9/Skin_BG_108.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d0/An_ShanSchoolChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Setting Sun, Hearts as One",
+					"cnClient": "夕照伊人",
+					"jpClient": "夕暉・伊人",
+					"cost": 780
+				}
 			}
 		],
 		"gallery": []
@@ -47796,7 +47835,7 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -48593,7 +48632,7 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -50777,7 +50816,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -51969,7 +52008,7 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"Anti-Air Efficiency +15%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -57047,7 +57086,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -57290,7 +57329,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -57544,7 +57583,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -58388,7 +58427,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -69517,7 +69556,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -70024,7 +70063,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -83111,7 +83150,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -84596,7 +84635,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -90331,7 +90370,7 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -94565,7 +94604,7 @@
 			[
 				"Improve All Out Assault",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -94852,7 +94891,7 @@
 			[
 				"Improve All Out Assault",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -95128,7 +95167,7 @@
 			[
 				"Upgrade All Out Assault Ⅰ→Ⅱ",
 				"All Weapons' Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -99402,7 +99441,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -100181,7 +100220,7 @@
 			[
 				"All Weapon Efficiency +5%",
 				"Upgrade All-Out-Assault",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -101586,7 +101625,7 @@
 			[
 				"All Weapon Efficiency +5%",
 				"Upgrade All-Out-Assault",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -104062,7 +104101,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -104595,7 +104634,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -106465,7 +106504,7 @@
 			[
 				"Improve EX Barrage",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -107911,7 +107950,7 @@
 			[
 				"Improve EX Barrage",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -109551,7 +109590,7 @@
 			[
 				"Improve All Out Assault",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -109814,7 +109853,7 @@
 			[
 				"Improve All Out Assault",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -110348,7 +110387,7 @@
 			[
 				"Upgrades Special Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -110613,7 +110652,7 @@
 			[
 				"Improve All Out Assault",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -112249,7 +112288,7 @@
 			[
 				"Upgrade All Out Assault Ⅰ→Ⅱ",
 				"All Weapons' Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -112786,7 +112825,7 @@
 			[
 				"Upgrade All Out Assault Ⅰ→Ⅱ",
 				"All Weapons' Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -114146,7 +114185,7 @@
 			[
 				"Upgrade All Out Assault I→II",
 				"All Weapons' Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -114416,7 +114455,7 @@
 			[
 				"Upgrade All Out Assault I→II",
 				"All Weapons' Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -114686,7 +114725,7 @@
 			[
 				"Upgrade All Out Assault I→II",
 				"All Weapons' Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -115220,7 +115259,7 @@
 			[
 				"Improve All-Out Assault I",
 				"All weapons' efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -118915,7 +118954,7 @@
 			[
 				"Upgrades All Out Assault I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -119172,7 +119211,7 @@
 			[
 				"Upgrades All Out Assault I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -121397,6 +121436,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/7/7f/Hai_Tien.png/538px-Hai_Tien.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/7c/Hai_TienWithoutBG.png/545px-Hai_TienWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/7/70/Hai_TienChibi.png",
 				"info": {
@@ -121407,6 +121448,8 @@
 			{
 				"name": "Verse-Weaver at the Water's Edge",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/0/0e/Hai_TienSpring.png/661px-Hai_TienSpring.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/ac/Hai_TienSpringWithoutBG.png/419px-Hai_TienSpringWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/4/4a/Hai_TienSpringChibi.png",
 				"info": {
@@ -121570,7 +121613,7 @@
 					"cn": null,
 					"jp": null
 				},
-				"description": "Once, when the battle starts, and with a 20% (40%) chance every 15s after that: deploys a smokescreen that increases Evasion Rate by 20% (40%) for all ships in it (smokescreen lasts for 5s; Evasion Rate buff does not stack with other smokescreen skills). When this ship has the Out Of Ammo debuff: increases the proc chance of this smokescreen by 40% (80%) and decreases the DMG penalty of the debuff by 5% (15%).Every 20s: 50% chance to restore 1% (3.5%) HP for the lowest percentage BB/BC in your fleet (this effect can only activate up to 2 times per battle).",
+				"description": "Once, when the battle starts, and with a 20% (40%) chance every 15s after that: deploys a smokescreen that increases Evasion Rate by 20% (40%) for all ships in it (smokescreen lasts for 5s; Evasion Rate buff does not stack with other smokescreen skills). When this ship has the Out Of Ammo debuff: increases the proc chance of this smokescreen to 40% (80%) and decreases the DMG penalty of the debuff by 5% (15%).Every 20s: 50% chance to restore 1% (3.5%) HP for the lowest percentage BB/BC in your fleet (this effect can only activate up to 2 times per battle).",
 				"color": "deepskyblue"
 			},
 			{
@@ -122054,7 +122097,7 @@
 				"maxEfficiency": 150,
 				"minEfficiency": 135,
 				"type": "Seaplanes",
-				"max": 3
+				"max": 1
 			},
 			{
 				"maxEfficiency": 150,
@@ -122173,6 +122216,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/9/91/Chen_Hai.png/589px-Chen_Hai.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/11/Chen_HaiWithoutBG.png/588px-Chen_HaiWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/2/27/Chen_HaiChibi.png",
 				"info": {
@@ -122183,6 +122228,8 @@
 			{
 				"name": "Vestibule of Wonders",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a6/Chen_HaiSpring.png/630px-Chen_HaiSpring.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/8/88/Chen_HaiSpringWithoutBG.png/360px-Chen_HaiSpringWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/5/5e/Skin_BG_152.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/1/1b/Chen_HaiSpringChibi.png",
 				"info": {
@@ -127574,7 +127621,8 @@
 			"code": "Ark Royal META",
 			"cn": "皇家方舟·META",
 			"jp": "アーク・ロイヤル(META)",
-			"kr": "아크 로열·META"
+			"kr": "아크 로열·META",
+			"tw": "皇家方舟·META"
 		},
 		"exists": {
 			"en": true,
@@ -129069,19 +129117,19 @@
 				"maxEfficiency": 100,
 				"minEfficiency": 85,
 				"type": "Fighters",
-				"max": null
+				"max": 2
 			},
 			{
 				"maxEfficiency": 110,
 				"minEfficiency": 95,
 				"type": "Dive Bombers",
-				"max": null
+				"max": 2
 			},
 			{
 				"maxEfficiency": 120,
 				"minEfficiency": 105,
 				"type": "Torpedo Bombers",
-				"max": null
+				"max": 3
 			}
 		],
 		"enhanceValue": null,
@@ -129114,7 +129162,7 @@
 					"cn": null,
 					"jp": null
 				},
-				"description": "When the battle starts, if this ship has Sakura Empire aircraft equipped: increases this ship's AVI by 4.5% (12%);  if not equipping any, instead increases this ship's AA and EVA by 4.5% (12%)In game description says $2.",
+				"description": "When the battle starts, if this ship has Sakura Empire aircraft equipped: increases this ship's AVI by 4.5% (12%);  if not equipping any, instead increases this ship's AA and EVA by 4.5% (12%).",
 				"color": "deepskyblue"
 			},
 			{
@@ -129182,7 +129230,18 @@
 				"url": "https://en.wikipedia.org/wiki/Seiko_Yoshida"
 			}
 		},
-		"skins": [],
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/0/09/Junyou_META.png/618px-Junyou_META.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/2/25/Junyou_METAChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
 		"gallery": []
 	},
 	"001": {
@@ -130287,7 +130346,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -130826,7 +130885,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -134548,6 +134607,16 @@
 				}
 			},
 			{
+				"name": "Original Art",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/de/LaffeyOriginal.png/278px-LaffeyOriginal.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": null,
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Unobtainable"
+				}
+			},
+			{
 				"name": "Wedding",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/5/53/LaffeyWedding.png/548px-LaffeyWedding.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
@@ -134973,7 +135042,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -142971,7 +143040,7 @@
 			{
 				"name": "Ace's Travel Journal",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c2/BaltimoreNew_Year.png/566px-BaltimoreNew_Year.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/19/BaltimoreNew_YearWithoutBG.png/537px-BaltimoreNew_YearWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/19/BaltimoreNew_YearWithoutBG.png/389px-BaltimoreNew_YearWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/2/25/Skin_BG_142.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/7/76/BaltimoreNew_YearChibi.png",
@@ -152502,9 +152571,9 @@
 			},
 			{
 				"name": "Lights of the Lantern Festival",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/6/68/AcastaSpring.png/589px-AcastaSpring.png",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c7/AcastaMisc.png/589px-AcastaMisc.png",
 				"background": "https://azurlane.netojuu.com/w/images/e/ec/Skin_BG_102.png",
-				"chibi": "https://azurlane.netojuu.com/w/images/2/27/AcastaSpringChibi.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b9/AcastaMiscChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
@@ -154345,7 +154414,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -155493,7 +155562,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -156016,7 +156085,7 @@
 			[
 				"Upgrades Full Barrage I→II",
 				"All Weapon Efficiency +5%",
-				"Main gun shots required to trigger All-Out Assult halved"
+				"Main gun shots required to trigger All-Out Assault halved"
 			]
 		],
 		"fleetTech": {
@@ -160012,7 +160081,7 @@
 					"Upgrades Full Barrage I→II",
 					"Upgrades Siren Killer II→III",
 					"All Weapon Efficiency +5%",
-					"Main gun shots required to trigger All-Out Assult halved",
+					"Main gun shots required to trigger All-Out Assault halved",
 					"Stars increase to ★★★★★★"
 				]
 			}
