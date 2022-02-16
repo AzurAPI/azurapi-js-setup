@@ -772,7 +772,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -1185,7 +1185,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -1439,7 +1439,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -1530,7 +1530,24 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "U-522, Akashi, Vampire, Ning Hai, Ping Hai, Prinz Eugen, Yuudachi",
+				"url": "https://azurlane.netojuu.com/w/images/0/01/BG_2021.06.10_1.png"
+			},
+			{
+				"description": "Terror, Bailey, Vampire",
+				"url": "https://azurlane.netojuu.com/w/images/1/1b/Bg_2020.10.29_4.png"
+			},
+			{
+				"description": "Vampire, Hatsushimo, Ariake, Yuugure and Laffey eating",
+				"url": "https://azurlane.netojuu.com/w/images/8/81/Bg_destroyers.png"
+			},
+			{
+				"description": "Many Royal Navy ships in one huge party",
+				"url": "https://azurlane.netojuu.com/w/images/1/17/Bg_hms_1.png"
+			}
+		]
 	},
 	"104": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Leander",
@@ -2025,7 +2042,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -2546,7 +2563,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "https://weibo.com/u/3558369570"
@@ -3053,7 +3070,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "https://weibo.com/u/3558369570"
@@ -3384,6 +3401,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Formidable, Dido, and Sirius baking on Valentine's Day 2022",
+				"url": "https://azurlane.netojuu.com/w/images/f/fa/Bg_2022.02.14_1.png"
+			},
 			{
 				"description": "Sirius, Dido",
 				"url": "https://azurlane.netojuu.com/w/images/e/ec/Bg_2021.12.23_2.png"
@@ -3922,7 +3943,7 @@
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -4481,7 +4502,7 @@
 			"artist": {
 				"name": "深蓝的杰克",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B7.B1.E8.93.9D.E7.9A.84.E6.9D.B0.E5.85.8B",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#深蓝的杰克",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1562284",
 					"Twitter": "https://twitter.com/JackNavy6",
 					"Link": "https://weibo.com/u/1889884713"
@@ -5182,7 +5203,7 @@
 			"artist": {
 				"name": "马甲",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.A9.AC.E7.94.B2"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#马甲"
 				}
 			},
 			"voice": {
@@ -5426,7 +5447,7 @@
 			"artist": {
 				"name": "马甲",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.A9.AC.E7.94.B2"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#马甲"
 				}
 			},
 			"voice": {
@@ -5668,7 +5689,7 @@
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -6247,7 +6268,7 @@
 			"artist": {
 				"name": "时辰",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.97.B6.E8.BE.B0",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#时辰",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7514361",
 					"Twitter": "https://twitter.com/shichen00",
 					"Link": "https://weibo.com/u/3042386674"
@@ -6505,7 +6526,7 @@
 			"artist": {
 				"name": "时辰",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.97.B6.E8.BE.B0",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#时辰",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7514361",
 					"Twitter": "https://twitter.com/shichen00",
 					"Link": "https://weibo.com/u/3042386674"
@@ -6753,7 +6774,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -7255,7 +7276,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -7525,7 +7546,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -7770,7 +7791,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -10380,7 +10401,7 @@
 				],
 				"materials": [
 					"2x \"BattleshipT2BP\"",
-					"1x \"Warspite\" or \"Prototype Bulin MKII\""
+					"1x \"Warspite\" or \"Trial Bullin MKII\""
 				],
 				"coins": 600,
 				"level": 1,
@@ -10564,7 +10585,7 @@
 				],
 				"materials": [
 					"1x \"Warspite Sword\"",
-					"1x \"Warspite\" or \"Prototype Bulin MKII\""
+					"1x \"Warspite\" or \"Trial Bullin MKII\""
 				],
 				"coins": 7500,
 				"level": 85,
@@ -10583,7 +10604,7 @@
 				],
 				"materials": [
 					"5x \"BattleshipT3BP\"",
-					"1x \"Warspite\" or \"Prototype Bulin MKII\""
+					"1x \"Warspite\" or \"Trial Bullin MKII\""
 				],
 				"coins": 5000,
 				"level": 90,
@@ -10915,7 +10936,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -11177,7 +11198,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -12578,7 +12599,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -12830,7 +12851,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -13218,7 +13239,7 @@
 			"artist": {
 				"name": "活断層",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B4.BB.E6.96.AD.E5.B1.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#活断層",
 					"Pixiv": "https://www.pixiv.net/en/users/1082547",
 					"Twitter": "https://twitter.com/katsudansou",
 					"Link": "https://u-rica.jimdofree.com/"
@@ -14073,7 +14094,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -14097,7 +14118,7 @@
 			},
 			{
 				"name": "Wedding",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/c/c0/IllustriousPledge.png/592px-IllustriousPledge.png",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/e5/IllustriousWedding.png/592px-IllustriousWedding.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/8/8b/IllustriousWeddingChibi.png",
 				"info": {
@@ -14454,7 +14475,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -14802,6 +14823,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Formidable, Dido, and Sirius baking on Valentine's Day 2022",
+				"url": "https://azurlane.netojuu.com/w/images/f/fa/Bg_2022.02.14_1.png"
+			},
 			{
 				"description": "Formidable, Bremerton, Charybdis, Anchorage",
 				"url": "https://azurlane.netojuu.com/w/images/3/36/Bg_2022.01.27_4.png"
@@ -15332,7 +15357,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -15606,7 +15631,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -15963,7 +15988,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Admiral Graf Spee, Fubuki",
+				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_2019.11.14_3.png"
+			},
+			{
+				"description": "Ayanami, Inazuma, Ikazuchi, and Fubuki in some in-game Gallery artwork",
+				"url": "https://azurlane.netojuu.com/w/images/5/5a/GalleryPic55.png"
+			}
+		]
 	},
 	"152": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shirayuki",
@@ -16914,7 +16948,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -17153,6 +17187,10 @@
 			{
 				"description": "Javelin, Ayanami, Laffey",
 				"url": "https://azurlane.netojuu.com/w/images/3/3b/GalleryPic40.png"
+			},
+			{
+				"description": "Ayanami, Inazuma, Ikazuchi, and Fubuki in some in-game Gallery artwork",
+				"url": "https://azurlane.netojuu.com/w/images/5/5a/GalleryPic55.png"
 			}
 		]
 	},
@@ -17370,7 +17408,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -17663,7 +17701,7 @@
 			"artist": {
 				"name": "侑了个侑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BE.91.E4.BA.86.E4.B8.AA.E4.BE.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#侑了个侑",
 					"Link": "https://www.weibo.com/soaryuna"
 				}
 			},
@@ -17941,7 +17979,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -18008,7 +18046,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Inazuma with Ikazuchi in her Thunderous Festival skin",
+				"url": "https://azurlane.netojuu.com/w/images/0/03/Bg_summerfes.png"
+			},
+			{
+				"description": "Ayanami, Inazuma, Ikazuchi, and Fubuki in some in-game Gallery artwork",
+				"url": "https://azurlane.netojuu.com/w/images/5/5a/GalleryPic55.png"
+			}
+		]
 	},
 	"162": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Inazuma",
@@ -18238,7 +18285,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -18305,7 +18352,16 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Inazuma in her Flash of Fireworks skin with Ikazuchi",
+				"url": "https://azurlane.netojuu.com/w/images/0/03/Bg_summerfes.png"
+			},
+			{
+				"description": "Ayanami, Inazuma, Ikazuchi, and Fubuki in some in-game Gallery artwork",
+				"url": "https://azurlane.netojuu.com/w/images/5/5a/GalleryPic55.png"
+			}
+		]
 	},
 	"163": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Shiratsuyu",
@@ -18527,7 +18583,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -19015,7 +19071,7 @@
 				],
 				"materials": [
 					"1x \"Eau de Barbecue\"",
-					"1x \"Yuudachi\" or \"Prototype Bulin MKII\""
+					"1x \"Yuudachi\" or \"Trial Bullin MKII\""
 				],
 				"coins": 4000,
 				"level": 85,
@@ -19069,7 +19125,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -19680,7 +19736,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -19988,7 +20044,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -20561,7 +20617,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -21076,7 +21132,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -21360,7 +21416,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -22639,7 +22695,7 @@
 			"artist": {
 				"name": "浅葱ゆな",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B5.85.E8.91.B1.E3.82.86.E3.81.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#浅葱ゆな",
 					"Pixiv": "https://www.pixiv.net/fanbox/creator/21526260",
 					"Twitter": "https://twitter.com/asagiyuna"
 				}
@@ -23167,7 +23223,7 @@
 			"artist": {
 				"name": "浅葱ゆな",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B5.85.E8.91.B1.E3.82.86.E3.81.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#浅葱ゆな",
 					"Pixiv": "https://www.pixiv.net/fanbox/creator/21526260",
 					"Twitter": "https://twitter.com/asagiyuna"
 				}
@@ -24022,7 +24078,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -24270,7 +24326,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -24797,7 +24853,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -25038,7 +25094,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -25548,7 +25604,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -26909,7 +26965,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -30214,7 +30270,7 @@
 			"artist": {
 				"name": "鉄人桃子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.89.84.E4.BA.BA.E6.A1.83.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#鉄人桃子",
 					"Pixiv": "https://www.pixiv.net/fanbox/creator/54749",
 					"Twitter": "https://twitter.com/te2momo"
 				}
@@ -30492,7 +30548,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -30604,7 +30660,7 @@
 				"url": "https://azurlane.netojuu.com/w/images/6/60/Bg_belfast_4.png"
 			},
 			{
-				"description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs",
+				"description": "Monarch, Z35, Atago, Takao, Émile Bertin (on the right), Fiji (in the center behind Takao)",
 				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
 			},
 			{
@@ -30838,7 +30894,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -30930,7 +30986,40 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Takao and Atago in their School skins",
+				"url": "https://azurlane.netojuu.com/w/images/9/91/BG_2021.06.10_4.png"
+			},
+			{
+				"description": "Amagi, Mikasa, Atago, Takao",
+				"url": "https://azurlane.netojuu.com/w/images/d/de/BG_2021.06.10_6.png"
+			},
+			{
+				"description": "Shigure, Yukikaze, Shiranui, Akashi, Atago, Souryuu, Hiryuu, Hiei, Belfast, Sheffield",
+				"url": "https://azurlane.netojuu.com/w/images/7/77/Bg_2019.12.19_2.png"
+			},
+			{
+				"description": "Taihou, Formidable, Bismarck, Kaga, Amagi, Cleveland, Atago, Essex, Roon, Tirpitz",
+				"url": "https://azurlane.netojuu.com/w/images/b/b5/Bg_2019.10.31_5.png"
+			},
+			{
+				"description": "Takao and Atago after making chocolates",
+				"url": "https://azurlane.netojuu.com/w/images/2/20/Bg_valentines_5.png"
+			},
+			{
+				"description": "Atago on Valentine's Day",
+				"url": "https://azurlane.netojuu.com/w/images/d/d8/Bg_valentines_3.png"
+			},
+			{
+				"description": "Monarch, Z35, Atago, Takao, Émile Bertin (on the right), Fiji (in the center behind Takao)",
+				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
+			},
+			{
+				"description": "Takao, Atago, Akagi, and Kaga in the winter",
+				"url": "https://azurlane.netojuu.com/w/images/1/1b/Bg_takao_1.png"
+			}
+		]
 	},
 	"202": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Maya",
@@ -31151,7 +31240,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -31410,7 +31499,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -32214,7 +32303,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in point shop during \"Ink-stained Steel Sakura\" Event. Available in the Core Data Shop for 1200 \"Core Data\".",
+			"obtainedFrom": "Available in the Points Shop during the \"Ink-Stained Steel Sakura\" event. Available in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -35314,7 +35403,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available as Sakura Amulets reward (10,000 total Sakura Amulets) during  \"Ink-stained Steel Sakura\" Event. Available in the Core Data Shop for 1200 \"Core Data\".",
+			"obtainedFrom": "Available as a reward (10,000 total Sakura Amulets required) during the \"Ink-Stained Steel Sakura\" Event. Available in the Core Data Shop for 1200 \"Core Data\".",
 			"fromMaps": []
 		},
 		"misc": {
@@ -35579,7 +35668,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -36120,7 +36209,7 @@
 			"artist": {
 				"name": "蛆虫音",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.9B.86.E8.99.AB.E9.9F.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#蛆虫音",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1483756",
 					"Link": "https://weibo.com/nnlsama"
 				}
@@ -36348,7 +36437,7 @@
 			"artist": {
 				"name": "蛆虫音",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.9B.86.E8.99.AB.E9.9F.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#蛆虫音",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1483756",
 					"Link": "https://weibo.com/nnlsama"
 				}
@@ -37088,7 +37177,7 @@
 			"artist": {
 				"name": "兔爷",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.94.E7.88.B7",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#兔爷",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1329120",
 					"Twitter": "https://twitter.com/mmmmmmzt",
 					"Link": "https://weibo.com/u/1826365983"
@@ -37349,7 +37438,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -37643,7 +37732,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "https://weibo.com/vihao"
@@ -37667,7 +37756,7 @@
 			},
 			{
 				"name": "Wedding",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/6/65/AkagiPledge.png/347px-AkagiPledge.png",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3d/AkagiWedding.png/347px-AkagiWedding.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/7/71/AkagiWeddingChibi.png",
 				"info": {
@@ -38003,7 +38092,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "https://weibo.com/vihao"
@@ -38667,7 +38756,7 @@
 			"artist": {
 				"name": "小叶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8F.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小叶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
 					"Twitter": "https://twitter.com/leaf_plus",
 					"Link": "http://weibo.com/u/1810348711"
@@ -39248,7 +39337,7 @@
 			"artist": {
 				"name": "小叶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8F.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小叶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
 					"Twitter": "https://twitter.com/leaf_plus",
 					"Link": "http://weibo.com/u/1810348711"
@@ -40115,7 +40204,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -40457,7 +40546,7 @@
 			"artist": {
 				"name": "侑了个侑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BE.91.E4.BA.86.E4.B8.AA.E4.BE.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#侑了个侑",
 					"Link": "https://www.weibo.com/soaryuna"
 				}
 			},
@@ -40728,7 +40817,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -40856,8 +40945,12 @@
 				"url": "https://azurlane.netojuu.com/w/images/c/c6/Bg_queen_elizabeth_1.png"
 			},
 			{
-				"description": "Shiranui and Akashi painting T3 tech boxes gold\nGalleryPic6.png",
+				"description": "Shiranui and Akashi painting T3 tech boxes gold",
 				"url": "https://azurlane.netojuu.com/w/images/d/d2/Bg_shiranui_1.png"
+			},
+			{
+				"description": "Souryuu and Akashi in some in-game Gallery artwork",
+				"url": "https://azurlane.netojuu.com/w/images/1/17/GalleryPic6.png"
 			}
 		]
 	},
@@ -41359,7 +41452,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "https://weibo.com/p/1005051054234800"
@@ -42101,7 +42194,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -42800,7 +42893,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://hl0220.lofter.com/"
@@ -43305,7 +43398,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://hl0220.lofter.com/"
@@ -43822,7 +43915,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://hl0220.lofter.com/"
@@ -44335,7 +44428,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -45666,6 +45759,10 @@
 			{
 				"description": "Admiral Graf Spee by the sunset",
 				"url": "https://azurlane.netojuu.com/w/images/8/82/Bg_graf_spee_1.png"
+			},
+			{
+				"description": "Admiral Graf Spee in some in-game Gallery art",
+				"url": "https://azurlane.netojuu.com/w/images/b/b2/GalleryPic46.png"
 			}
 		]
 	},
@@ -46412,7 +46509,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -46724,7 +46821,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "https://weibo.com/vihao"
@@ -47037,7 +47134,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -47603,7 +47700,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -47882,7 +47979,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -48390,7 +48487,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Destroyer",
+		"retrofitHullType": "Dragon Empery",
 		"construction": {
 			"constructionTime": "00:32:00",
 			"availableIn": {
@@ -48409,7 +48506,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -48679,7 +48776,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -48939,7 +49036,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -48975,7 +49072,20 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "St. Louis, Sirius, Ning Hai, Ping Hai, Yat Sen, Belfast",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2020.02.04_3.png"
+			},
+			{
+				"description": "Ning Hai, Ping Hai and Yat Sen in the background with St. Louis, Belfast, and Enterprise in the foreground",
+				"url": "https://azurlane.netojuu.com/w/images/8/82/Bg_belfast_2.png"
+			},
+			{
+				"description": "Yat Sen in a gallery painting",
+				"url": "https://azurlane.netojuu.com/w/images/c/cb/GalleryPic37.png"
+			}
+		]
 	},
 	"258": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Ning_Hai",
@@ -49470,7 +49580,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "https://weibo.com/u/2959771544"
 				}
@@ -50135,7 +50245,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "https://weibo.com/u/2959771544"
 				}
@@ -50529,7 +50639,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -51059,7 +51169,7 @@
 			"artist": {
 				"name": "团子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.A2.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#团子",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7703737",
 					"Twitter": "https://twitter.com/Tsundere_dango",
 					"Link": "https://weibo.com/soramiao"
@@ -51326,7 +51436,7 @@
 			"artist": {
 				"name": "樱庭光",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A8.B1.E5.BA.AD.E5.85.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#樱庭光",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1423422",
 					"Twitter": "https://twitter.com/loveindoghikaru",
 					"Link": "https://weibo.com/u/5574429612"
@@ -51566,7 +51676,7 @@
 			"artist": {
 				"name": "樱庭光",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A8.B1.E5.BA.AD.E5.85.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#樱庭光",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1423422",
 					"Twitter": "https://twitter.com/loveindoghikaru",
 					"Link": "https://weibo.com/u/5574429612"
@@ -51801,7 +51911,7 @@
 			"artist": {
 				"name": "樱庭光",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A8.B1.E5.BA.AD.E5.85.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#樱庭光",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1423422",
 					"Twitter": "https://twitter.com/loveindoghikaru",
 					"Link": "https://weibo.com/u/5574429612"
@@ -52055,7 +52165,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -52437,7 +52547,7 @@
 			"artist": {
 				"name": "黒星紅白",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.92.E6.98.9F.E7.B4.85.E7.99.BD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黒星紅白",
 					"Pixiv": "https://www.pixiv.net/member.php?id=178217",
 					"Twitter": "https://twitter.com/kuroboshi"
 				}
@@ -53980,7 +54090,7 @@
 			"artist": {
 				"name": "月见",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.88.E8.A7.81",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#月见",
 					"Pixiv": "https://www.pixiv.net/member.php?id=786200",
 					"Twitter": "https://twitter.com/tsukimi08",
 					"Link": "http://www.weibo.com/p/1005051807769224"
@@ -54531,7 +54641,7 @@
 			"artist": {
 				"name": "月见",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.88.E8.A7.81",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#月见",
 					"Pixiv": "https://www.pixiv.net/member.php?id=786200",
 					"Twitter": "https://twitter.com/tsukimi08",
 					"Link": "http://www.weibo.com/p/1005051807769224"
@@ -54793,7 +54903,7 @@
 			"artist": {
 				"name": "月见",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.88.E8.A7.81",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#月见",
 					"Pixiv": "https://www.pixiv.net/member.php?id=786200",
 					"Twitter": "https://twitter.com/tsukimi08",
 					"Link": "http://www.weibo.com/p/1005051807769224"
@@ -55051,7 +55161,7 @@
 			"artist": {
 				"name": "月见",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.88.E8.A7.81",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#月见",
 					"Pixiv": "https://www.pixiv.net/member.php?id=786200",
 					"Twitter": "https://twitter.com/tsukimi08",
 					"Link": "http://www.weibo.com/p/1005051807769224"
@@ -55278,19 +55388,19 @@
 				"light": true,
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Ink-stained Steel Sakura",
+				"limited": "Only during the \"Ink-Stained Steel Sakura\" event.",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Ink-Stained Steel Sakura\" event.",
 			"fromMaps": []
 		},
 		"misc": {
 			"artist": {
 				"name": "しらたま",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.97.E3.82.89.E3.81.9F.E3.81.BE",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#しらたま",
 					"Pixiv": "https://www.pixiv.net/fanbox/creator/705370",
 					"Twitter": "https://twitter.com/shiratamacaron",
 					"Link": "http://shiratamaco.com/"
@@ -55548,7 +55658,7 @@
 			"artist": {
 				"name": "しらたま",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.97.E3.82.89.E3.81.9F.E3.81.BE",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#しらたま",
 					"Pixiv": "https://www.pixiv.net/member.php?id=705370",
 					"Twitter": "https://twitter.com/shiratamacaron",
 					"Link": "http://shiratamaco.com/"
@@ -55806,7 +55916,7 @@
 			"artist": {
 				"name": "月见",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.88.E8.A7.81",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#月见",
 					"Pixiv": "https://www.pixiv.net/member.php?id=786200",
 					"Twitter": "https://twitter.com/tsukimi08",
 					"Link": "http://www.weibo.com/p/1005051807769224"
@@ -56594,7 +56704,7 @@
 			"artist": {
 				"name": "凪白みと",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.87.AA.E7.99.BD.E3.81.BF.E3.81.A8",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#凪白みと",
 					"Pixiv": "https://www.pixiv.net/member.php?id=8189060",
 					"Twitter": "https://twitter.com/lemon_mito",
 					"Link": "https://mito-nagishiro.tumblr.com"
@@ -57364,19 +57474,19 @@
 				"light": true,
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Ink-stained Steel Sakura",
+				"limited": "Only during the \"Ink-Stained Steel Sakura\" event.",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Ink-Stained Steel Sakura\" event.",
 			"fromMaps": []
 		},
 		"misc": {
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -57618,19 +57728,19 @@
 				"light": true,
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Ink-stained Steel Sakura",
+				"limited": "Only during the \"Ink-Stained Steel Sakura\" event",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura\" Event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Ink-Stained Steel Sakura\" event.",
 			"fromMaps": []
 		},
 		"misc": {
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -57900,7 +58010,7 @@
 			"artist": {
 				"name": "团子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.A2.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#团子",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7703737",
 					"Twitter": "https://twitter.com/Tsundere_dango",
 					"Link": "http://weibo.com/soramiao"
@@ -58153,7 +58263,7 @@
 			"artist": {
 				"name": "团子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.A2.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#团子",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7703737",
 					"Twitter": "https://twitter.com/Tsundere_dango",
 					"Link": "http://weibo.com/soramiao"
@@ -58693,7 +58803,7 @@
 			"artist": {
 				"name": "团子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.A2.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#团子",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7703737",
 					"Twitter": "https://twitter.com/Tsundere_dango",
 					"Link": "http://weibo.com/soramiao"
@@ -59005,7 +59115,7 @@
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -59241,7 +59351,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -59566,7 +59676,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -59890,7 +60000,7 @@
 			"artist": {
 				"name": "6音",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#6.E9.9F.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#6音",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2118700",
 					"Twitter": "https://twitter.com/sein_66"
 				}
@@ -60141,7 +60251,7 @@
 			"artist": {
 				"name": "6音",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#6.E9.9F.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#6音",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2118700",
 					"Twitter": "https://twitter.com/sein_66"
 				}
@@ -60646,7 +60756,7 @@
 			"artist": {
 				"name": "卑しい人间",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.8D.91.E3.81.97.E3.81.84.E4.BA.BA.E9.97.B4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#卑しい人间",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1584611",
 					"Link": "https://weibo.com/u/1847715713"
 				}
@@ -61172,7 +61282,7 @@
 			"artist": {
 				"name": "卑しい人间",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.8D.91.E3.81.97.E3.81.84.E4.BA.BA.E9.97.B4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#卑しい人间",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1584611",
 					"Link": "https://weibo.com/u/1847715713"
 				}
@@ -61436,7 +61546,7 @@
 			"artist": {
 				"name": "卑しい人间",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.8D.91.E3.81.97.E3.81.84.E4.BA.BA.E9.97.B4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#卑しい人间",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1584611",
 					"Link": "https://weibo.com/u/1847715713"
 				}
@@ -61693,7 +61803,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -61962,7 +62072,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -62489,7 +62599,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -63004,7 +63114,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -63585,7 +63695,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -64727,7 +64837,7 @@
 			"artist": {
 				"name": "ゆらん",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.86.E3.82.89.E3.82.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#ゆらん",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2696273",
 					"Twitter": "https://twitter.com/yurang92"
 				}
@@ -64764,6 +64874,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Monarch, Z35, Atago, Takao, Émile Bertin (on the right), Fiji (in the center behind Takao)",
+				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
+			},
 			{
 				"description": "Fiji with Hiei",
 				"url": "https://azurlane.netojuu.com/w/images/4/49/Bg_hiei_1.png"
@@ -64981,7 +65095,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -65253,7 +65367,7 @@
 			"artist": {
 				"name": "幻象黑兔",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B9.BB.E8.B1.A1.E9.BB.91.E5.85.94",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#幻象黑兔",
 					"Pixiv": "https://www.pixiv.net/member.php?id=4462245",
 					"Twitter": "https://twitter.com/coneyrivard",
 					"Link": "https://weibo.com/u/3188613133"
@@ -65535,7 +65649,7 @@
 			"artist": {
 				"name": "幻象黑兔",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B9.BB.E8.B1.A1.E9.BB.91.E5.85.94",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#幻象黑兔",
 					"Pixiv": "https://www.pixiv.net/member.php?id=4462245",
 					"Twitter": "https://twitter.com/coneyrivard",
 					"Link": "https://weibo.com/u/3188613133"
@@ -66059,7 +66173,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Ink-Stained Steel Sakura A4, C4, D1, D2",
+			"obtainedFrom": "Available in the Points Shop and as drop during the \"Ink-Stained Steel Sakura\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -66848,7 +66962,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -67101,7 +67215,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -67653,7 +67767,7 @@
 			"artist": {
 				"name": "米白粕",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.B1.B3.E7.99.BD.E7.B2.95",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#米白粕",
 					"Pixiv": "https://www.pixiv.net/member.php?id=867590",
 					"Twitter": "https://twitter.com/kasu1923"
 				}
@@ -67965,7 +68079,7 @@
 			"artist": {
 				"name": "煎路",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.85.8E.E8.B7.AF",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#煎路",
 					"Pixiv": "https://www.pixiv.net/member.php?id=47406",
 					"Twitter": "https://twitter.com/oyu_senji",
 					"Link": "http://tegone.sblo.jp/"
@@ -68253,7 +68367,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -68510,7 +68624,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -68798,7 +68912,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -69058,7 +69172,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -69364,7 +69478,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -69603,7 +69717,7 @@
 			"artist": {
 				"name": "さくら小春",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.95.E3.81.8F.E3.82.89.E5.B0.8F.E6.98.A5",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#さくら小春",
 					"Pixiv": "https://www.pixiv.net/member.php?id=10538",
 					"Twitter": "https://twitter.com/pimopimo",
 					"Link": "http://qp.banbi.net/"
@@ -69642,7 +69756,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Monarch, Z35, Atago, Takao, and Emile Bertin at an outdoor bath",
+				"description": "Monarch, Z35, Atago, Takao, Émile Bertin (on the right), Fiji (in the center behind Takao)",
 				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
 			}
 		]
@@ -69861,7 +69975,7 @@
 			"artist": {
 				"name": "樱庭光",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A8.B1.E5.BA.AD.E5.85.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#樱庭光",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1423422",
 					"Twitter": "https://twitter.com/loveindoghikaru",
 					"Link": "https://weibo.com/u/5574429612"
@@ -70110,7 +70224,7 @@
 			"artist": {
 				"name": "ゆーげん",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.86.E3.83.BC.E3.81.92.E3.82.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#ゆーげん",
 					"Pixiv": "https://www.pixiv.net/member.php?id=806502",
 					"Twitter": "https://twitter.com/Yuugen_99",
 					"Link": "http://yuugen.hiyamugi.com/"
@@ -70610,7 +70724,7 @@
 			"artist": {
 				"name": "夜ノみつき",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.9C.E3.83.8E.E3.81.BF.E3.81.A4.E3.81.8D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#夜ノみつき",
 					"Pixiv": "https://www.pixiv.net/member.php?id=44234",
 					"Twitter": "https://twitter.com/mituk1"
 				}
@@ -71179,7 +71293,7 @@
 			"artist": {
 				"name": "大槍葦人",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.A7.8D.E8.91.A6.E4.BA.BA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大槍葦人",
 					"Pixiv": "https://www.pixiv.net/member.php?id=13135",
 					"Twitter": "https://twitter.com/oyariashito",
 					"Link": "https://oyariashito.net/"
@@ -71260,7 +71374,7 @@
 		],
 		"gallery": [
 			{
-				"description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs with many other ship girls",
+				"description": "Monarch, Z35, Atago, Takao, Émile Bertin (on the right), Fiji (in the center behind Takao)",
 				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
 			}
 		]
@@ -71499,7 +71613,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -72020,7 +72134,7 @@
 			"artist": {
 				"name": "夜ノみつき",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.9C.E3.83.8E.E3.81.BF.E3.81.A4.E3.81.8D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#夜ノみつき",
 					"Pixiv": "https://www.pixiv.net/member.php?id=44234",
 					"Twitter": "https://twitter.com/mituk1"
 				}
@@ -73685,7 +73799,7 @@
 			"artist": {
 				"name": "德意志的科学",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.BE.B7.E6.84.8F.E5.BF.97.E7.9A.84.E7.A7.91.E5.AD.A6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#德意志的科学",
 					"Pixiv": "https://www.pixiv.net/member.php?id=6054803",
 					"Twitter": "https://twitter.com/ls809251250",
 					"Link": "https://www.weibo.com/onlykexue"
@@ -74019,7 +74133,7 @@
 			"artist": {
 				"name": "かにビーム",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8B.E3.81.AB.E3.83.93.E3.83.BC.E3.83.A0",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#かにビーム",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3439325",
 					"Twitter": "https://twitter.com/kani_biimu",
 					"Link": "http://lumino.sakura.ne.jp/"
@@ -74306,7 +74420,7 @@
 			"artist": {
 				"name": "りいちゅ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.8A.E3.81.84.E3.81.A1.E3.82.85",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#りいちゅ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=159905",
 					"Twitter": "https://twitter.com/rityulate"
 				}
@@ -74575,7 +74689,7 @@
 			"artist": {
 				"name": "銀SilveRoid",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.8A.80SilveRoid",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#銀SilveRoid",
 					"Pixiv": "https://www.pixiv.net/member.php?id=192782",
 					"Twitter": "https://twitter.com/SilverRoid",
 					"Link": "https://www.weibo.com/silveralice"
@@ -75391,7 +75505,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -75649,7 +75763,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -75917,7 +76031,7 @@
 			"artist": {
 				"name": "雫綺一生",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.9B.AB.E7.B6.BA.E4.B8.80.E7.94.9F",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#雫綺一生",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2799637",
 					"Twitter": "https://twitter.com/MEPHIST0216",
 					"Link": "https://weibo.com/u/7208541982"
@@ -76469,7 +76583,7 @@
 			"artist": {
 				"name": "大嘘",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E5.98.98",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大嘘",
 					"Pixiv": "https://www.pixiv.net/member.php?id=457541",
 					"Twitter": "https://twitter.com/U_S_O"
 				}
@@ -77068,7 +77182,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "https://weibo.com/vihao"
@@ -77893,6 +78007,10 @@
 		],
 		"gallery": [
 			{
+				"description": "Formidable, Dido, and Sirius baking on Valentine's Day 2022",
+				"url": "https://azurlane.netojuu.com/w/images/f/fa/Bg_2022.02.14_1.png"
+			},
+			{
 				"description": "Sirius, Dido",
 				"url": "https://azurlane.netojuu.com/w/images/e/ec/Bg_2021.12.23_2.png"
 			},
@@ -78435,7 +78553,7 @@
 			"artist": {
 				"name": "もねてぃ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.82.E3.81.AD.E3.81.A6.E3.81.83",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#もねてぃ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3066815",
 					"Twitter": "https://twitter.com/monety1285",
 					"Link": "http://monety1285.blog.shinobi.jp/"
@@ -78961,7 +79079,7 @@
 			"artist": {
 				"name": "もねてぃ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.82.E3.81.AD.E3.81.A6.E3.81.83",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#もねてぃ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3066815",
 					"Twitter": "https://twitter.com/monety1285",
 					"Link": "http://monety1285.blog.shinobi.jp/"
@@ -79734,7 +79852,7 @@
 			"artist": {
 				"name": "噗呼_兽化限定",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.99.97.E5.91.BC_.E5.85.BD.E5.8C.96.E9.99.90.E5.AE.9A",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#噗呼_兽化限定",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3181004",
 					"Twitter": "https://twitter.com/jinyuan712",
 					"Link": "https://www.weibo.com/u/2254830302"
@@ -80592,7 +80710,7 @@
 			"artist": {
 				"name": "德意志的科学",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.BE.B7.E6.84.8F.E5.BF.97.E7.9A.84.E7.A7.91.E5.AD.A6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#德意志的科学",
 					"Pixiv": "https://www.pixiv.net/member.php?id=6054803",
 					"Twitter": "https://twitter.com/ls809251250",
 					"Link": "https://www.weibo.com/onlykexue"
@@ -81155,7 +81273,7 @@
 			"artist": {
 				"name": "德意志的科学",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.BE.B7.E6.84.8F.E5.BF.97.E7.9A.84.E7.A7.91.E5.AD.A6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#德意志的科学",
 					"Pixiv": "https://www.pixiv.net/member.php?id=6054803",
 					"Twitter": "https://twitter.com/ls809251250",
 					"Link": "https://www.weibo.com/onlykexue"
@@ -81435,7 +81553,7 @@
 			"artist": {
 				"name": "Amoeba原虫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Amoeba.E5.8E.9F.E8.99.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Amoeba原虫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=8931555",
 					"Link": "https://www.weibo.com/p/1005052732245883"
 				}
@@ -82375,7 +82493,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -82643,7 +82761,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -82931,7 +83049,7 @@
 			"artist": {
 				"name": "夜ノみつき",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.9C.E3.83.8E.E3.81.BF.E3.81.A4.E3.81.8D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#夜ノみつき",
 					"Pixiv": "https://www.pixiv.net/member.php?id=44234",
 					"Twitter": "https://twitter.com/mituk1"
 				}
@@ -83197,7 +83315,7 @@
 			"artist": {
 				"name": "小原トメ太",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8E.9F.E3.83.88.E3.83.A1.E5.A4.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小原トメ太",
 					"Twitter": "https://twitter.com/tometa_QP",
 					"Link": "http://qp.banbi.net/"
 				}
@@ -83435,7 +83553,7 @@
 			"artist": {
 				"name": "AO凹凹凹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO.E5.87.B9.E5.87.B9.E5.87.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#AO凹凹凹",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
 					"Twitter": "https://twitter.com/aosuneo",
 					"Link": "https://www.weibo.com/ultramnnice"
@@ -84131,7 +84249,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -84999,7 +85117,7 @@
 			"artist": {
 				"name": "りいちゅ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.8A.E3.81.84.E3.81.A1.E3.82.85",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#りいちゅ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=159905",
 					"Twitter": "https://twitter.com/rityulate"
 				}
@@ -85276,7 +85394,7 @@
 			"artist": {
 				"name": "煎路",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.85.8E.E8.B7.AF",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#煎路",
 					"Pixiv": "https://www.pixiv.net/member.php?id=47406",
 					"Twitter": "https://twitter.com/oyu_senji",
 					"Link": "http://tegone.sblo.jp/"
@@ -85574,7 +85692,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -85845,7 +85963,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -86118,7 +86236,7 @@
 			"artist": {
 				"name": "夜ノみつき",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.9C.E3.83.8E.E3.81.BF.E3.81.A4.E3.81.8D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#夜ノみつき",
 					"Pixiv": "https://www.pixiv.net/member_illust.php?id=44234",
 					"Twitter": "https://twitter.com/mituk1",
 					"Link": "http://nanairo-box.blogspot.jp/"
@@ -86396,7 +86514,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -87429,7 +87547,7 @@
 			"artist": {
 				"name": "帕瓦波",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#帕瓦波",
 					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
@@ -87693,7 +87811,7 @@
 			"artist": {
 				"name": "帕瓦波",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#帕瓦波",
 					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
@@ -87965,7 +88083,7 @@
 			"artist": {
 				"name": "或一",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.88.96.E4.B8.80",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#或一",
 					"Pixiv": "http://www.pixiv.net/member.php?id=1904395",
 					"Link": "http://bcy.net/u/1495574"
 				}
@@ -87988,9 +88106,7 @@
 			},
 			{
 				"name": "Sunday Aquarium Visit",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/d/d0/AylwinCasualWithoutBG.png/413px-AylwinCasualWithoutBG.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/d0/AylwinCasualWithoutBG.png/413px-AylwinCasualWithoutBG.png",
-				"cn": null,
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/ee/AylwinCasual.png/373px-AylwinCasual.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/thumb/9/9c/AylwinCasualChibi.png/121px-AylwinCasualChibi.png",
 				"info": {
@@ -88223,7 +88339,7 @@
 			"artist": {
 				"name": "水熊",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E7.86.8A",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水熊",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1077075",
 					"Twitter": "https://twitter.com/waterkuma0",
 					"Link": "https://www.artstation.com/mokutan"
@@ -88521,7 +88637,7 @@
 			"artist": {
 				"name": "水乌龟XD",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水乌龟XD",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1596981",
 					"Twitter": "https://twitter.com/suisaiii",
 					"Link": "https://www.weibo.com/suisao"
@@ -88820,7 +88936,7 @@
 			"artist": {
 				"name": "Amoeba原虫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Amoeba.E5.8E.9F.E8.99.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Amoeba原虫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=8931555",
 					"Link": "https://www.weibo.com/p/1005052732245883"
 				}
@@ -89058,7 +89174,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -89601,7 +89717,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -89885,7 +90001,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -90148,7 +90264,7 @@
 			"artist": {
 				"name": "スイカ01",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.B9.E3.82.A4.E3.82.AB01",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#スイカ01",
 					"Pixiv": "https://www.pixiv.net/en/users/4678580",
 					"Twitter": "https://twitter.com/xiba_01"
 				}
@@ -90417,7 +90533,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -90993,7 +91109,7 @@
 			"artist": {
 				"name": "Amoeba原虫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Amoeba.E5.8E.9F.E8.99.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Amoeba原虫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=8931555",
 					"Link": "https://www.weibo.com/p/1005052732245883"
 				}
@@ -94091,7 +94207,7 @@
 			"artist": {
 				"name": "帕瓦波",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#帕瓦波",
 					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
@@ -94389,7 +94505,7 @@
 			"artist": {
 				"name": "夜ノみつき",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.9C.E3.83.8E.E3.81.BF.E3.81.A4.E3.81.8D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#夜ノみつき",
 					"Pixiv": "https://www.pixiv.net/member.php?id=44234",
 					"Twitter": "https://twitter.com/mituk1"
 				}
@@ -94651,7 +94767,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "https://weibo.com/u/2959771544"
 				}
@@ -96368,7 +96484,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -96665,7 +96781,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -97220,7 +97336,7 @@
 			"artist": {
 				"name": "侑了个侑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BE.91.E4.BA.86.E4.B8.AA.E4.BE.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#侑了个侑",
 					"Link": "https://www.weibo.com/soaryuna"
 				}
 			},
@@ -97508,7 +97624,7 @@
 			"artist": {
 				"name": "小吃_chill",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.90.83_chill",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小吃_chill",
 					"Pixiv": "https://www.pixiv.net/en/users/12827844",
 					"Twitter": "https://twitter.com/XChichichichi",
 					"Link": "https://www.weibo.com/songyuandu"
@@ -97784,7 +97900,7 @@
 			"artist": {
 				"name": "活断層",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B4.BB.E6.96.AD.E5.B1.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#活断層",
 					"Pixiv": "https://www.pixiv.net/en/users/1082547",
 					"Twitter": "https://twitter.com/katsudansou",
 					"Link": "https://u-rica.jimdofree.com/"
@@ -98705,7 +98821,7 @@
 			"artist": {
 				"name": "团子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.A2.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#团子",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7703737",
 					"Twitter": "https://twitter.com/Tsundere_dango",
 					"Link": "http://weibo.com/soramiao"
@@ -99209,7 +99325,7 @@
 			"artist": {
 				"name": "銀SilveRoid",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.8A.80SilveRoid",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#銀SilveRoid",
 					"Pixiv": "https://www.pixiv.net/member.php?id=192782",
 					"Twitter": "https://twitter.com/SilverRoid",
 					"Link": "https://www.weibo.com/silveralice"
@@ -99488,7 +99604,7 @@
 			"artist": {
 				"name": "しろきつね",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.97.E3.82.8D.E3.81.8D.E3.81.A4.E3.81.AD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#しろきつね",
 					"Pixiv": "https://www.pixiv.net/en/users/146135",
 					"Twitter": "https://twitter.com/shirorokitsune",
 					"Link": "http://shiroikitsunenosumuyashiro.net/"
@@ -99764,7 +99880,7 @@
 			"artist": {
 				"name": "水乌龟XD",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水乌龟XD",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1596981",
 					"Twitter": "https://twitter.com/suisaiii",
 					"Link": "https://www.weibo.com/suisao"
@@ -100030,7 +100146,7 @@
 			"artist": {
 				"name": "liyu黎",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#liyu.E9.BB.8E",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#liyu黎",
 					"Link": "https://www.weibo.com/p/1005055979033109/"
 				}
 			},
@@ -100267,7 +100383,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -100822,7 +100938,7 @@
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -101101,7 +101217,7 @@
 			"artist": {
 				"name": "四々九",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.9B.E3.80.85.E4.B9.9D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#四々九",
 					"Pixiv": "https://www.pixiv.net/en/users/533800",
 					"Twitter": "https://twitter.com/yoshiku449",
 					"Link": "https://yoshiku449.tumblr.com"
@@ -101376,7 +101492,7 @@
 			"artist": {
 				"name": "水乌龟XD",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水乌龟XD",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1596981",
 					"Twitter": "https://twitter.com/suisaiii",
 					"Link": "https://www.weibo.com/suisao"
@@ -101942,7 +102058,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -102180,7 +102296,7 @@
 			"artist": {
 				"name": "liyu黎",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#liyu.E9.BB.8E",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#liyu黎",
 					"Link": "https://www.weibo.com/p/1005055979033109/"
 				}
 			},
@@ -103241,7 +103357,7 @@
 			"artist": {
 				"name": "羽織イオ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.BE.BD.E7.B9.94.E3.82.A4.E3.82.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#羽織イオ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3211072",
 					"Twitter": "https://twitter.com/haori_crescendo"
 				}
@@ -104148,7 +104264,7 @@
 			"artist": {
 				"name": "スイカ01",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.B9.E3.82.A4.E3.82.AB01",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#スイカ01",
 					"Pixiv": "https://www.pixiv.net/en/users/4678580",
 					"Twitter": "https://twitter.com/xiba_01"
 				}
@@ -104419,7 +104535,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "https://weibo.com/u/2959771544"
 				}
@@ -104986,7 +105102,7 @@
 			"artist": {
 				"name": "ぴょん吉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.B4.E3.82.87.E3.82.93.E5.90.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#ぴょん吉",
 					"Pixiv": "https://www.pixiv.net/en/users/197076",
 					"Twitter": "https://twitter.com/pyon_kti"
 				}
@@ -105269,7 +105385,7 @@
 			"artist": {
 				"name": "yuui（ゆうい)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#yuui.EF.BC.88.E3.82.86.E3.81.86.E3.81.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#yuui（ゆうい)",
 					"Pixiv": "https://www.pixiv.net/en/users/2334129",
 					"Twitter": "https://twitter.com/tofuyuui"
 				}
@@ -105524,7 +105640,7 @@
 			"artist": {
 				"name": "yuui（ゆうい)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#yuui.EF.BC.88.E3.82.86.E3.81.86.E3.81.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#yuui（ゆうい)",
 					"Pixiv": "https://www.pixiv.net/en/users/2334129",
 					"Twitter": "https://twitter.com/tofuyuui"
 				}
@@ -105781,7 +105897,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -106044,7 +106160,7 @@
 			"artist": {
 				"name": "帕瓦波",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#帕瓦波",
 					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
@@ -108239,7 +108355,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -108829,7 +108945,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "https://weibo.com/u/2959771544"
 				}
@@ -109078,7 +109194,7 @@
 			"artist": {
 				"name": "羽織イオ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.BE.BD.E7.B9.94.E3.82.A4.E3.82.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#羽織イオ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3211072",
 					"Twitter": "https://twitter.com/haori_crescendo"
 				}
@@ -109364,7 +109480,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -109900,7 +110016,7 @@
 			"artist": {
 				"name": "カンザリン",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.AB.E3.83.B3.E3.82.B6.E3.83.AA.E3.83.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#カンザリン",
 					"Pixiv": "https://www.pixiv.net/member.php?id=31133701",
 					"Twitter": "https://twitter.com/kanzarinsan",
 					"Link": "https://kanzarin.fanbox.cc/"
@@ -110167,7 +110283,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -110434,7 +110550,7 @@
 			"artist": {
 				"name": "团子",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.9B.A2.E5.AD.90",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#团子",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7703737",
 					"Twitter": "https://twitter.com/Tsundere_dango",
 					"Link": "http://weibo.com/soramiao"
@@ -110699,7 +110815,7 @@
 			"artist": {
 				"name": "或一",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.88.96.E4.B8.80",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#或一",
 					"Pixiv": "http://www.pixiv.net/member.php?id=1904395",
 					"Link": "http://bcy.net/u/1495574"
 				}
@@ -111233,7 +111349,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -111505,7 +111621,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -111774,7 +111890,7 @@
 			"artist": {
 				"name": "水乌龟XD",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水乌龟XD",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1596981",
 					"Twitter": "https://twitter.com/suisaiii",
 					"Link": "https://www.weibo.com/suisao"
@@ -112068,7 +112184,7 @@
 			"artist": {
 				"name": "帕瓦波",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#帕瓦波",
 					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
@@ -112335,7 +112451,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -112872,7 +112988,7 @@
 			"artist": {
 				"name": "德意志的科学",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.BE.B7.E6.84.8F.E5.BF.97.E7.9A.84.E7.A7.91.E5.AD.A6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#德意志的科学",
 					"Pixiv": "https://www.pixiv.net/member.php?id=6054803",
 					"Twitter": "https://twitter.com/ls809251250",
 					"Link": "https://www.weibo.com/onlykexue"
@@ -113134,7 +113250,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -113416,7 +113532,7 @@
 			"artist": {
 				"name": "お久しぶり",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8A.E4.B9.85.E3.81.97.E3.81.B6.E3.82.8A",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#お久しぶり",
 					"Pixiv": "https://www.pixiv.net/en/users/1079073",
 					"Twitter": "https://twitter.com/imlllsn"
 				}
@@ -114772,7 +114888,7 @@
 			"artist": {
 				"name": "德意志的科学",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.BE.B7.E6.84.8F.E5.BF.97.E7.9A.84.E7.A7.91.E5.AD.A6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#德意志的科学",
 					"Pixiv": "https://www.pixiv.net/member.php?id=6054803",
 					"Twitter": "https://twitter.com/ls809251250",
 					"Link": "https://www.weibo.com/onlykexue"
@@ -115809,7 +115925,7 @@
 			"artist": {
 				"name": "豆芽菜",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.B1.86.E8.8A.BD.E8.8F.9C",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#豆芽菜",
 					"Pixiv": "https://www.pixiv.net/en/users/13779480",
 					"Twitter": "https://twitter.com/douya233",
 					"Link": "https://weibo.com/p/1005057292643099"
@@ -116056,7 +116172,7 @@
 			"artist": {
 				"name": "智弘カイ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.99.BA.E5.BC.98.E3.82.AB.E3.82.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#智弘カイ",
 					"Pixiv": "https://www.pixiv.net/en/users/2960453",
 					"Twitter": "https://twitter.com/kai_tomohiro"
 				}
@@ -116611,7 +116727,7 @@
 			"artist": {
 				"name": "かにビーム",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8B.E3.81.AB.E3.83.93.E3.83.BC.E3.83.A0",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#かにビーム",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3439325",
 					"Twitter": "https://twitter.com/kani_biimu",
 					"Link": "http://lumino.sakura.ne.jp/"
@@ -116880,7 +116996,7 @@
 			"artist": {
 				"name": "羽織イオ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.BE.BD.E7.B9.94.E3.82.A4.E3.82.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#羽織イオ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3211072",
 					"Twitter": "https://twitter.com/haori_crescendo"
 				}
@@ -117159,7 +117275,7 @@
 			"artist": {
 				"name": "水乌龟XD",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水乌龟XD",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1596981",
 					"Twitter": "https://twitter.com/suisaiii",
 					"Link": "https://www.weibo.com/suisao"
@@ -117398,7 +117514,7 @@
 			"artist": {
 				"name": "豆芽菜",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.B1.86.E8.8A.BD.E8.8F.9C",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#豆芽菜",
 					"Pixiv": "https://www.pixiv.net/en/users/13779480",
 					"Twitter": "https://twitter.com/douya233",
 					"Link": "https://weibo.com/p/1005057292643099"
@@ -118190,7 +118306,7 @@
 			"artist": {
 				"name": "水乌龟XD",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B0.B4.E4.B9.8C.E9.BE.9FXD",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#水乌龟XD",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1596981",
 					"Twitter": "https://twitter.com/suisaiii",
 					"Link": "https://www.weibo.com/suisao"
@@ -118447,7 +118563,7 @@
 			"artist": {
 				"name": "山×2",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B1.B1.C3.972",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#山×2",
 					"Pixiv": "http://www.pixiv.net/member.php?id=101608",
 					"Twitter": "https://twitter.com/yamakakeru2"
 				}
@@ -119001,7 +119117,7 @@
 			"artist": {
 				"name": "小吃_chill",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.90.83_chill",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小吃_chill",
 					"Pixiv": "https://www.pixiv.net/en/users/12827844",
 					"Twitter": "https://twitter.com/XChichichichi",
 					"Link": "https://www.weibo.com/songyuandu"
@@ -119257,7 +119373,7 @@
 			"artist": {
 				"name": "kurumi普拉斯",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#kurumi.E6.99.AE.E6.8B.89.E6.96.AF",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#kurumi普拉斯",
 					"Pixiv": "https://www.pixiv.net/en/users/9261160",
 					"Twitter": "https://twitter.com/hermmot666",
 					"Link": "https://weibo.com/u/1944234507"
@@ -119527,7 +119643,7 @@
 			"artist": {
 				"name": "お久しぶり",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8A.E4.B9.85.E3.81.97.E3.81.B6.E3.82.8A",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#お久しぶり",
 					"Pixiv": "https://www.pixiv.net/en/users/1079073",
 					"Twitter": "https://twitter.com/imlllsn"
 				}
@@ -120038,7 +120154,7 @@
 			"artist": {
 				"name": "ねこめたる",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.AD.E3.81.93.E3.82.81.E3.81.9F.E3.82.8B",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#ねこめたる",
 					"Pixiv": "https://www.pixiv.net/en/users/4221847",
 					"Twitter": "https://twitter.com/NecoMeta"
 				}
@@ -120603,7 +120719,7 @@
 			"artist": {
 				"name": "帕瓦波",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B8.95.E7.93.A6.E6.B3.A2",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#帕瓦波",
 					"Link": "https://weibo.com/u/5131774467"
 				}
 			},
@@ -120870,7 +120986,7 @@
 			"artist": {
 				"name": "お久しぶり",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.8A.E4.B9.85.E3.81.97.E3.81.B6.E3.82.8A",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#お久しぶり",
 					"Pixiv": "https://www.pixiv.net/en/users/1079073",
 					"Twitter": "https://twitter.com/imlllsn"
 				}
@@ -121151,7 +121267,7 @@
 			"artist": {
 				"name": "掃除朋具",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.8E.83.E9.99.A4.E6.9C.8B.E5.85.B7",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#掃除朋具",
 					"Pixiv": "https://www.pixiv.net/users/4856899",
 					"Twitter": "https://twitter.com/srghrg"
 				}
@@ -121683,7 +121799,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "https://weibo.com/u/2959771544"
 				}
@@ -122202,10 +122318,10 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
-					"Pixiv": "/wiki/String_Module_Error:_String_subset_index_out_of_range",
-					"Twitter": "/wiki/String_Module_Error:_String_subset_index_out_of_range",
-					"String Module Error: String subset index out of range": "/wiki/String_Module_Error:_String_subset_index_out_of_range"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
+					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
+					"Twitter": "https://twitter.com/gujianshaonv",
+					"Link": "https://www.weibo.com/u/5205759948"
 				}
 			},
 			"voice": {
@@ -122442,7 +122558,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -122679,7 +122795,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -122920,7 +123036,7 @@
 			"artist": {
 				"name": "活断層",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B4.BB.E6.96.AD.E5.B1.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#活断層",
 					"Pixiv": "https://www.pixiv.net/en/users/1082547",
 					"Twitter": "https://twitter.com/katsudansou",
 					"Link": "https://u-rica.jimdofree.com/"
@@ -123163,7 +123279,7 @@
 			"artist": {
 				"name": "活断層",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B4.BB.E6.96.AD.E5.B1.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#活断層",
 					"Pixiv": "https://www.pixiv.net/en/users/1082547",
 					"Twitter": "https://twitter.com/katsudansou",
 					"Link": "https://u-rica.jimdofree.com/"
@@ -123405,7 +123521,7 @@
 			"artist": {
 				"name": "活断層",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.B4.BB.E6.96.AD.E5.B1.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#活断層",
 					"Pixiv": "https://www.pixiv.net/en/users/1082547",
 					"Twitter": "https://twitter.com/katsudansou",
 					"Link": "https://u-rica.jimdofree.com/"
@@ -123649,7 +123765,7 @@
 			"artist": {
 				"name": "kurumi普拉斯",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#kurumi.E6.99.AE.E6.8B.89.E6.96.AF",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#kurumi普拉斯",
 					"Pixiv": "https://www.pixiv.net/en/users/9261160",
 					"Twitter": "https://twitter.com/hermmot666",
 					"Link": "https://weibo.com/u/1944234507"
@@ -123892,7 +124008,7 @@
 			"artist": {
 				"name": "股间少女",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.82.A1.E9.97.B4.E5.B0.91.E5.A5.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#股间少女",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12834728",
 					"Twitter": "https://twitter.com/gujianshaonv",
 					"Link": "https://www.weibo.com/u/5205759948"
@@ -127579,7 +127695,7 @@
 			"artist": {
 				"name": "小叶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8F.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小叶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
 					"Twitter": "https://twitter.com/leaf_plus",
 					"Link": "http://weibo.com/u/1810348711"
@@ -128053,7 +128169,7 @@
 			"artist": {
 				"name": "羽織イオ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.BE.BD.E7.B9.94.E3.82.A4.E3.82.AA",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#羽織イオ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3211072",
 					"Twitter": "https://twitter.com/haori_crescendo"
 				}
@@ -128285,7 +128401,7 @@
 			"artist": {
 				"name": "小叶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8F.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小叶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
 					"Twitter": "https://twitter.com/leaf_plus",
 					"Link": "http://weibo.com/u/1810348711"
@@ -129416,7 +129532,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -129631,7 +129747,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -129833,7 +129949,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -130073,7 +130189,7 @@
 			"artist": {
 				"name": "或一",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.88.96.E4.B8.80",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#或一",
 					"Pixiv": "http://www.pixiv.net/member.php?id=1904395",
 					"Link": "http://bcy.net/u/1495574"
 				}
@@ -130613,7 +130729,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -131152,7 +131268,7 @@
 			"artist": {
 				"name": "大月紅葉",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.A4.A7.E6.9C.88.E7.B4.85.E8.91.89",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#大月紅葉",
 					"Pixiv": "https://www.pixiv.net/member.php?id=591937",
 					"Twitter": "https://twitter.com/ootsukimomiji",
 					"Link": "http://weibo.com/ootsukimomiji"
@@ -131435,7 +131551,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -131709,7 +131825,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -131978,7 +132094,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -132227,7 +132343,7 @@
 			"artist": {
 				"name": "麻酱",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BA.BB.E9.85.B1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#麻酱",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1480584",
 					"Twitter": "https://twitter.com/shenbeixiaoqiu",
 					"Link": "http://weibo.com/u/3032064021"
@@ -132484,7 +132600,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "http://weibo.com/p/1005051859846292"
@@ -132738,7 +132854,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "http://weibo.com/p/1005051859846292"
@@ -132985,7 +133101,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "http://weibo.com/p/1005051859846292"
@@ -133244,7 +133360,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "http://weibo.com/p/1005051859846292"
@@ -133503,7 +133619,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "http://weibo.com/p/1005051859846292"
@@ -133762,7 +133878,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "http://weibo.com/p/1005051859846292"
@@ -134000,7 +134116,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -134574,7 +134690,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -135301,7 +135417,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -135812,7 +135928,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -136136,7 +136252,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -136488,7 +136604,7 @@
 			"artist": {
 				"name": "马甲",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.A9.AC.E7.94.B2"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#马甲"
 				}
 			},
 			"voice": {
@@ -136743,7 +136859,7 @@
 			"artist": {
 				"name": "马甲",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.A9.AC.E7.94.B2"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#马甲"
 				}
 			},
 			"voice": {
@@ -138078,7 +138194,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -138341,7 +138457,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -138629,7 +138745,7 @@
 				],
 				"materials": [
 					"2x \"CruiserT2BP\"",
-					"1x \"San Diego\" or \"Prototype Bulin MKII\""
+					"1x \"San Diego\" or \"Trial Bullin MKII\""
 				],
 				"coins": 600,
 				"level": 1,
@@ -138812,7 +138928,7 @@
 					"\"Full Barrage - Atlanta-class\" changes to \"Full Barrage - San Diego\" Rarity changes to \"UltraRare\""
 				],
 				"materials": [
-					"1x \"San Diego\" or 1x \"Prototype Bulin MKII\"",
+					"1x \"San Diego\" or 1x \"Trial Bullin MKII\"",
 					"1x \"Sparkling Microphone\""
 				],
 				"coins": 7500,
@@ -138832,7 +138948,7 @@
 				],
 				"materials": [
 					"5x \"CruiserT3BP\"",
-					"1x \"San Diego\" or \"Prototype Bulin MKII\""
+					"1x \"San Diego\" or \"Trial Bullin MKII\""
 				],
 				"coins": 5000,
 				"level": 90,
@@ -138864,7 +138980,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -139186,7 +139302,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -139278,7 +139394,48 @@
 				}
 			}
 		],
-		"gallery": []
+		"gallery": [
+			{
+				"description": "Kinu, Z1, Littorio, Ark Royal, Cleveland, Hiryuu, Biloxi",
+				"url": "https://azurlane.netojuu.com/w/images/6/6f/Bg_2020.09.30_7.png"
+			},
+			{
+				"description": "Akashi, Bache, San Diego, Cleveland, Laffey",
+				"url": "https://azurlane.netojuu.com/w/images/1/18/Bg_2020.03.31_1.png"
+			},
+			{
+				"description": "Montpelier, Cleveland, Erebus, Admiral Graf Spee",
+				"url": "https://azurlane.netojuu.com/w/images/c/c2/Bg_2019.12.19_4.png"
+			},
+			{
+				"description": "Taihou, Formidable, Bismarck, Kaga, Amagi, Cleveland, Atago, Essex, Roon, Tirpitz",
+				"url": "https://azurlane.netojuu.com/w/images/b/b5/Bg_2019.10.31_5.png"
+			},
+			{
+				"description": "Cleveland in her Road Trip! skin with Essex and Enterprise",
+				"url": "https://azurlane.netojuu.com/w/images/1/13/Bg_union_riders.png"
+			},
+			{
+				"description": "Illustrious, South Dakota, Cleveland, Taihou, Monarch, Ajax, Akashi, Amazon",
+				"url": "https://azurlane.netojuu.com/w/images/3/35/Bg_EN_1st_anni.png"
+			},
+			{
+				"description": "Enterprise, Laffey, Cleveland, Z46, Washington, Honolulu, Admiral Hipper, St. Louis, Graf Spee, and San Diego at a barbecue",
+				"url": "https://azurlane.netojuu.com/w/images/6/6a/Bg_July4th_5.png"
+			},
+			{
+				"description": "Cleveland and Helena in their party skins",
+				"url": "https://azurlane.netojuu.com/w/images/d/d1/Bg_cleveland_party_1.png"
+			},
+			{
+				"description": "Cleveland, Helena, Gridley, and Eldridge opening Christmas presents",
+				"url": "https://azurlane.netojuu.com/w/images/6/66/Bg_cleveland_holiday_1.png"
+			},
+			{
+				"description": "Cleveland and her sister Columbia at sea",
+				"url": "https://azurlane.netojuu.com/w/images/a/a6/Bg_cleveland_1.png"
+			}
+		]
 	},
 	"038": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Columbia",
@@ -139505,7 +139662,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -139801,7 +139958,7 @@
 			"artist": {
 				"name": "紫瑟",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.B4.AB.E7.91.9F",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#紫瑟",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2893535",
 					"Twitter": "https://twitter.com/287764380",
 					"Link": "http://weibo.com/u/2193276854"
@@ -140043,7 +140200,7 @@
 			"artist": {
 				"name": "紫瑟",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.B4.AB.E7.91.9F",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#紫瑟",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2893535",
 					"Twitter": "https://twitter.com/287764380",
 					"Link": "http://weibo.com/u/2193276854"
@@ -141281,7 +141438,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -141334,6 +141491,10 @@
 			{
 				"description": "Enterprise, Yorktown, Portland, Indianapolis, and Saratoga watching 4th of July fireworks",
 				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_July4th_1.png"
+			},
+			{
+				"description": "Portland, Hornet, Enterprise, Yorktown and Hammann",
+				"url": "https://azurlane.netojuu.com/w/images/0/0f/Bg_enterprise_3.png"
 			}
 		]
 	},
@@ -141567,7 +141728,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -142694,7 +142855,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -143589,7 +143750,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -144120,7 +144281,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -144865,7 +145026,7 @@
 			"artist": {
 				"name": "小叶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8F.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小叶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
 					"Twitter": "https://twitter.com/leaf_plus",
 					"Link": "http://weibo.com/u/1810348711"
@@ -145106,7 +145267,7 @@
 			"artist": {
 				"name": "小叶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B0.8F.E5.8F.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#小叶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=617248",
 					"Twitter": "https://twitter.com/leaf_plus",
 					"Link": "http://weibo.com/u/1810348711"
@@ -146097,7 +146258,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -146367,7 +146528,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -146631,7 +146792,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -146906,7 +147067,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -147432,7 +147593,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "http://weibo.com/u/1952889047"
 				}
@@ -147990,7 +148151,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "http://weibo.com/u/3558369570"
@@ -148526,7 +148687,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -148780,7 +148941,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -149326,7 +149487,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -150237,7 +150398,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -150530,7 +150691,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -150959,7 +151120,7 @@
 			"artist": {
 				"name": "八才提督",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E6.89.8D.E6.8F.90.E7.9D.A3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八才提督",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1393609",
 					"Twitter": "https://twitter.com/hao660a",
 					"Link": "http://weibo.com/vihao"
@@ -151232,7 +151393,7 @@
 			"artist": {
 				"name": "蛆虫音",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E8.9B.86.E8.99.AB.E9.9F.B3",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#蛆虫音",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1483756",
 					"Link": "https://weibo.com/nnlsama"
 				}
@@ -151473,7 +151634,7 @@
 			"artist": {
 				"name": "Saru(猴妈)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru.28.E7.8C.B4.E5.A6.88.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Saru(猴妈)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1422579",
 					"Twitter": "https://twitter.com/saru_1127",
 					"Link": "http://weibo.com/p/1005051054234800"
@@ -151989,7 +152150,7 @@
 			"artist": {
 				"name": "时辰",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.97.B6.E8.BE.B0",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#时辰",
 					"Pixiv": "https://www.pixiv.net/member.php?id=7514361",
 					"Twitter": "https://twitter.com/shichen00",
 					"Link": "https://weibo.com/u/3042386674"
@@ -153379,7 +153540,7 @@
 			"artist": {
 				"name": "林大B",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9E.97.E5.A4.A7B",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#林大B",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1245646",
 					"Twitter": "https://twitter.com/lin_da_Bi",
 					"Link": "https://weibo.com/312444618"
@@ -153639,7 +153800,7 @@
 			"artist": {
 				"name": "林大B",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9E.97.E5.A4.A7B",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#林大B",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1245646",
 					"Twitter": "https://twitter.com/lin_da_Bi",
 					"Link": "https://weibo.com/312444618"
@@ -154153,7 +154314,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -154682,7 +154843,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -155219,7 +155380,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -155826,7 +155987,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -156335,7 +156496,7 @@
 			"artist": {
 				"name": "哈路卡",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.93.88.E8.B7.AF.E5.8D.A1",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#哈路卡",
 					"Pixiv": "https://www.pixiv.net/member.php?id=12785336",
 					"Link": "https://weibo.com/u/1952889047"
 				}
@@ -156612,7 +156773,7 @@
 			"artist": {
 				"name": "りいちゅ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.82.8A.E3.81.84.E3.81.A1.E3.82.85",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#りいちゅ",
 					"Pixiv": "https://www.pixiv.net/member.php?id=159905",
 					"Twitter": "https://twitter.com/rityulate"
 				}
@@ -156871,7 +157032,7 @@
 			"artist": {
 				"name": "Lino(番茄)",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino.28.E7.95.AA.E8.8C.84.29",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Lino(番茄)",
 					"Pixiv": "https://www.pixiv.net/member.php?id=238071",
 					"Twitter": "https://twitter.com/lino__",
 					"Link": "https://weibo.com/p/1005051859846292"
@@ -157438,7 +157599,7 @@
 			"artist": {
 				"name": "梦咲枫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.A2.A6.E5.92.B2.E6.9E.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#梦咲枫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1023957",
 					"Twitter": "https://twitter.com/yumesaki_kaede/",
 					"Link": "https://weibo.com/u/3558369570"
@@ -157806,7 +157967,7 @@
 				"url": "https://azurlane.netojuu.com/w/images/3/35/Bg_EN_1st_anni.png"
 			},
 			{
-				"description": "Monarch, Atago, Takao, and Emile Bertin in the hot springs with many other ship girls",
+				"description": "Monarch, Z35, Atago, Takao, Émile Bertin (on the right), Fiji (in the center behind Takao)",
 				"url": "https://azurlane.netojuu.com/w/images/1/14/Bg_bath.png"
 			}
 		]
@@ -158085,7 +158246,7 @@
 			"artist": {
 				"name": "玛雅G",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.8E.9B.E9.9B.85G",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#玛雅G",
 					"Pixiv": "https://www.pixiv.net/member.php?id=1287983",
 					"Twitter": "https://twitter.com/mayag_nya",
 					"Link": "http://weibo.com/p/1005051970961102"
@@ -159101,7 +159262,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -159780,7 +159941,7 @@
 			"artist": {
 				"name": "八九",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.AB.E4.B9.9D",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#八九",
 					"Pixiv": "https://www.pixiv.net/member.php?id=4935155",
 					"Twitter": "https://twitter.com/SB898989",
 					"Link": "https://www.weibo.com/NinnG1017"
@@ -160129,7 +160290,7 @@
 			"artist": {
 				"name": "黑猫",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E9.BB.91.E7.8C.AB",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#黑猫",
 					"Pixiv": "https://www.pixiv.net/member.php?id=2331978",
 					"Link": "http://weibo.com/u/2959771544"
 				}
@@ -160453,7 +160614,7 @@
 			"artist": {
 				"name": "木shiyo",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E6.9C.A8shiyo",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#木shiyo",
 					"Pixiv": "https://www.pixiv.net/member.php?id=40222",
 					"Twitter": "https://twitter.com/kishiyo1943",
 					"Link": "https://weibo.com/u/2481339344"
@@ -161456,7 +161617,7 @@
 			"artist": {
 				"name": "全班最菜嘤嘤嘤",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.85.A8.E7.8F.AD.E6.9C.80.E8.8F.9C.E5.98.A4.E5.98.A4.E5.98.A4",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#全班最菜嘤嘤嘤",
 					"Twitter": "https://twitter.com/zelda10010",
 					"Link": "https://weibo.com/u/7477949468"
 				}
@@ -163036,7 +163197,7 @@
 			"artist": {
 				"name": "LAL!ROLE",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#LAL.21ROLE",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#LAL!ROLE",
 					"Pixiv": "https://www.pixiv.net/en/users/10537869",
 					"Twitter": "https://twitter.com/Laxxxli"
 				}
@@ -163348,7 +163509,7 @@
 			"artist": {
 				"name": "山×2",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.B1.B1.C3.972",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#山×2",
 					"Pixiv": "http://www.pixiv.net/member.php?id=101608",
 					"Twitter": "https://twitter.com/yamakakeru2"
 				}
@@ -163666,7 +163827,7 @@
 			"artist": {
 				"name": "云桑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BA.91.E6.A1.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#云桑",
 					"Pixiv": "https://www.pixiv.net/member.php?id=5358936",
 					"Twitter": "https://twitter.com/_Yunsang",
 					"Link": "https://weibo.com/yunsang"
@@ -163971,7 +164132,7 @@
 			"artist": {
 				"name": "侑了个侑",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E4.BE.91.E4.BA.86.E4.B8.AA.E4.BE.91",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#侑了个侑",
 					"Link": "https://weibo.com/soaryuna"
 				}
 			},
@@ -164533,7 +164694,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Twitter": "https://twitter.com/panda_kabe",
 					"Link": "http://mayo.warabimochi.net"
 				}
@@ -164743,7 +164904,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -164953,7 +165114,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -165164,7 +165325,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -165396,7 +165557,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -165630,7 +165791,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -165653,10 +165814,8 @@
 			{
 				"name": "Goddesses' Smile",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/9/9d/Black_HeartCollab.png/454px-Black_HeartCollab.png",
-				"nobg": null,
-				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/4/4f/Skin_BG_202.png",
-				"chibi": "https://azurlane.netojuu.com/w/images/2/23/Black_HeartCollab_CNChibi.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/98/Black_HeartCollabChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
@@ -165867,7 +166026,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -166102,7 +166261,7 @@
 			"artist": {
 				"name": "つなこ",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.A4.E3.81.AA.E3.81.93",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#つなこ",
 					"Link": "http://mayo.warabimochi.net"
 				}
 			},
@@ -166342,7 +166501,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -166565,7 +166724,7 @@
 			"artist": {
 				"name": "和茶",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.92.8C.E8.8C.B6",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#和茶",
 					"Pixiv": "https://www.pixiv.net/member.php?id=3312169",
 					"Twitter": "https://twitter.com/hecha01964237",
 					"Link": "https://weibo.com/538001251"
@@ -166787,7 +166946,7 @@
 			"artist": {
 				"name": "甘露樹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.94.98.E9.9C.B2.E6.A8.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#甘露樹",
 					"Twitter": "https://twitter.com/amaduyu"
 				}
 			},
@@ -167022,7 +167181,7 @@
 			"artist": {
 				"name": "甘露樹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.94.98.E9.9C.B2.E6.A8.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#甘露樹",
 					"Twitter": "https://twitter.com/amaduyu"
 				}
 			},
@@ -167256,7 +167415,7 @@
 			"artist": {
 				"name": "みつみ美里",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.BF.E3.81.A4.E3.81.BF.E7.BE.8E.E9.87.8C",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#みつみ美里",
 					"Twitter": "https://twitter.com/mitsumi_m"
 				}
 			},
@@ -167491,7 +167650,7 @@
 			"artist": {
 				"name": "みつみ美里",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.BF.E3.81.A4.E3.81.BF.E7.BE.8E.E9.87.8C",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#みつみ美里",
 					"Twitter": "https://twitter.com/mitsumi_m"
 				}
 			},
@@ -167726,7 +167885,7 @@
 			"artist": {
 				"name": "みつみ美里",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E3.81.BF.E3.81.A4.E3.81.BF.E7.BE.8E.E9.87.8C",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#みつみ美里",
 					"Twitter": "https://twitter.com/mitsumi_m"
 				}
 			},
@@ -167961,7 +168120,7 @@
 			"artist": {
 				"name": "甘露樹",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E7.94.98.E9.9C.B2.E6.A8.B9",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#甘露樹",
 					"Twitter": "https://twitter.com/amaduyu"
 				}
 			},
@@ -169099,7 +169258,7 @@
 			"artist": {
 				"name": "凪白みと",
 				"urls": {
-					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#.E5.87.AA.E7.99.BD.E3.81.BF.E3.81.A8",
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#凪白みと",
 					"Pixiv": "https://www.pixiv.net/member.php?id=8189060",
 					"Twitter": "https://twitter.com/lemon_mito",
 					"Link": "https://mito-nagishiro.tumblr.com"
