@@ -9683,7 +9683,7 @@
 			},
 			{
 				"name": "Wedding",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a9/HoodPledge.png/515px-HoodPledge.png",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3d/HoodWedding.png/515px-HoodWedding.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/c/c2/HoodWeddingChibi.png",
 				"info": {
@@ -95355,6 +95355,8 @@
 			{
 				"name": "The Bound Cruiser",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/6/66/TashkentPrison.png/710px-TashkentPrison.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/62/TashkentPrisonWithoutBG.png/704px-TashkentPrisonWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/0/0d/TashkentPrisonChibi.png",
 				"info": {
@@ -96509,7 +96511,7 @@
 			{
 				"name": "The Captive Cavalier",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/5/58/ChapayevPrison.png/456px-ChapayevPrison.png",
-				"nobg": null,
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/c/cc/ChapayevPrisonWithoutBG.png/431px-ChapayevPrisonWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/c/cd/Skin_BG_130.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/9/92/ChapayevPrisonChibi.png",
@@ -96525,7 +96527,7 @@
 			{
 				"name": "White Cavalier's Respite",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a6/ChapayevCasual.png/571px-ChapayevCasual.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/1/13/ChapayevCasualWithoutBG.png/940px-ChapayevCasualWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/1/13/ChapayevCasualWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3b/Skin_BG_109.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/f/f1/ChapayevCasualChibi.png",
@@ -96820,7 +96822,7 @@
 			{
 				"name": "Keeper of the Firewater",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/0/0e/GangutCasual.png/439px-GangutCasual.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b9/GangutCasualWithoutBG.png/453px-GangutCasualWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b9/GangutCasualWithoutBG.png/596px-GangutCasualWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/4/4a/Skin_BG_136.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/2/2f/GangutCasualChibi.png",
@@ -165814,6 +165816,8 @@
 			{
 				"name": "Goddesses' Smile",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/9/9d/Black_HeartCollab.png/454px-Black_HeartCollab.png",
+				"nobg": null,
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/4/4f/Skin_BG_202.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/9/98/Black_HeartCollabChibi.png",
 				"info": {
@@ -166289,7 +166293,7 @@
 				"nobg": null,
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/8/88/Skin_BG_204.png",
-				"chibi": "https://azurlane.netojuu.com/w/images/f/f5/Green_HeartCollab_CNChibi.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/01/Green_HeartCollabChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Skin Shop",
