@@ -126,7 +126,7 @@ export async function parseShip(id: string, name: string, body: string, url: str
             name: name,
             image: images[0].src,
             background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
-            chibi: doc.querySelector("td > div > div:nth-child(2) img") ? doc.querySelector("td > div > div:nth-child(2) img").getAttribute("src") : null,
+            chibi: doc.querySelector("td > div > div:nth-child(2) img")?.getAttribute("src") || null,
             info: {obtainedFrom: "Default", live2dModel: false}
         }];
         ship.rarity = "Unreleased";
@@ -137,8 +137,8 @@ export async function parseShip(id: string, name: string, body: string, url: str
     ship.stars = tableInfo.Rarity.stars.length;
     ship.stats = parseStats(doc);
     ship.slots = [null, null, null];
-    for (let i = 0; i < 3; i++) ship.slots[i] = parseShipEQSlot(doc.querySelector(`div:nth-child(1) > .wikitable:nth-child(3) tr:nth-child(${i + 3})`));
-    let enhanceValues = doc.querySelector(".wikitable:nth-child(5) td:nth-child(1)").childNodes;
+    for (let i = 0; i < 3; i++) ship.slots[i] = parseShipEQSlot(doc.querySelector(`.mw-parser-output .nomobile>div>div>.wikitable tr:nth-child(${i + 3})`));
+    let enhanceValues = doc.querySelector(".wikitable:nth-child(6) td:nth-child(1)").childNodes;
     if (enhanceValues.length < 7) ship.enhanceValue = null;
     else ship.enhanceValue = {
         firepower: parseInt(enhanceValues[0].textContent.trim()),
@@ -146,7 +146,7 @@ export async function parseShip(id: string, name: string, body: string, url: str
         aviation: parseInt(enhanceValues[4].textContent.trim()),
         reload: parseInt(enhanceValues[6].textContent.trim())
     };
-    let scrapValues = doc.querySelector(".wikitable:nth-child(5) td:nth-child(2)").childNodes;
+    let scrapValues = doc.querySelector(".wikitable:nth-child(6) td:nth-child(2)").childNodes;
     if (scrapValues.length < 5) ship.scrapValue = null;
     else ship.scrapValue = {
         coin: parseInt(scrapValues[0].textContent.trim()),
@@ -161,7 +161,7 @@ export async function parseShip(id: string, name: string, body: string, url: str
         ship.retrofit = true;
         ship.retrofitId = (3000 + parseInt(ship.id)) + "";
         ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
-        ship.retrofitHullType = doc.querySelector(".nomobile>div:nth-child(1) .wikitable tr:nth-child(3) a:nth-child(4)") ? doc.querySelector(".nomobile>div:nth-child(1) .wikitable tr:nth-child(3) a:nth-child(4)").textContent : ship.hullType;
+        ship.retrofitHullType = doc.querySelector(".nomobile>div:nth-child(1) .wikitable tr:nth-child(3) a:nth-child(4)")?.textContent || ship.hullType;
     }
     let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"), ship);
     ship.construction = obtainedFrom.construction;
