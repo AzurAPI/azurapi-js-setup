@@ -68,7 +68,7 @@ async function parseTable(table, type) {
             barrages[i] = {
                 id: generateUUID(tr.id),
                 type: type,
-                icon: tr.firstElementChild.firstElementChild && tr.firstElementChild.firstElementChild.src ? WIKI_URL + galleryThumbnailUrlToActualUrl(tr.firstElementChild.firstElementChild.src) : undefined,
+                icon: tr.firstElementChild.firstElementChild && tr.firstElementChild.firstElementChild.src ? galleryThumbnailUrlToActualUrl(tr.firstElementChild.firstElementChild.src) : undefined,
                 name: tr.children[1].textContent.trim(),
                 image: tr.children[2].childElementCount > 0 ? await getDirectLink(tr.children[2].firstElementChild.href) : undefined,
                 ships: Array.from(tr.children[3].getElementsByTagName("a")).map(a => a.title),
@@ -100,7 +100,7 @@ function parseRound(tr, start) {
 
 async function getDirectLink(file) {
     file = file.replace('/wiki/File:', '');
-    return WIKI_URL + galleryThumbnailUrlToActualUrl(new JSDOM(await fetch("https://azurlane.koumakan.jp/wiki/File:" + file, "./web/files/" + file + ".html")).window.document.querySelector("#file img").src);
+    return galleryThumbnailUrlToActualUrl(new JSDOM(await fetch("https://azurlane.koumakan.jp/wiki/File:" + file, "./web/files/" + file + ".html")).window.document.querySelector("#file img").src);
 }
 
 function fetch(url, localPath) {
