@@ -4062,7 +4062,7 @@
 			2,
 			2
 		],
-		"class": "Town",
+		"class": "Town (Gloucester subclass)",
 		"nationality": "Royal Navy",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/2/2d/GloucesterShipyardIcon.png",
@@ -4978,6 +4978,10 @@
 			{
 				"description": "Belfast and Little Bel by Raiou – the end card of Episode 9 of the Slow Ahead! anime",
 				"url": "https://azurlane.netojuu.com/w/images/9/90/Slow_Ahead%21_Episode_9_End_Card.jpg"
+			},
+			{
+				"description": "Belfast, Ajax, Bremerton, Unicorn, Friedrich der Große, Vittorio Veneto and Atago by Miwano Ragu, Mossi and Yatsuha in an official 2022 advertisement for Japanese online clothing store Zozotown's Black Collection",
+				"url": "https://azurlane.netojuu.com/w/images/f/ff/Zozotown_Black_Collection_x_Azur_Lane.png"
 			}
 		]
 	},
@@ -13022,6 +13026,14 @@
 			{
 				"description": "Illustrious and Unicorn in school outfits",
 				"url": "https://azurlane.netojuu.com/w/images/b/b3/Bg_illustrious_4.png"
+			},
+			{
+				"description": "Unicorn, Queen Elizabeth, Glasgow, Newcastle, Warspite, Suffolk, Hood, Abercrombie and Illustrious by Tsuchii – a promotional image for Queen's Orders",
+				"url": "https://azurlane.netojuu.com/w/images/4/4b/Queen%27s_Orders_Promotional_Image.jpg"
+			},
+			{
+				"description": "Unicorn, Ajax, Bremerton, Belfast, Friedrich der Große, Vittorio Veneto and Atago by Miwano Ragu, Mossi and Yatsuha in an official 2022 advertisement for Japanese online clothing store Zozotown's Black Collection",
+				"url": "https://azurlane.netojuu.com/w/images/f/ff/Zozotown_Black_Collection_x_Azur_Lane.png"
 			}
 		]
 	},
@@ -31018,6 +31030,10 @@
 			{
 				"description": "Takao, Atago, Akagi, and Kaga in the winter",
 				"url": "https://azurlane.netojuu.com/w/images/1/1b/Bg_takao_1.png"
+			},
+			{
+				"description": "Atago, Ajax, Bremerton, Unicorn, Belfast, Friedrich der Große and Vittorio Veneto by Miwano Ragu, Mossi and Yatsuha in an official 2022 advertisement for Japanese online clothing store Zozotown's Black Collection",
+				"url": "https://azurlane.netojuu.com/w/images/f/ff/Zozotown_Black_Collection_x_Azur_Lane.png"
 			}
 		]
 	},
@@ -67567,7 +67583,7 @@
 			0,
 			1
 		],
-		"class": "B1",
+		"class": "Type B1",
 		"nationality": "Sakura Empire",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/3/33/I-19ShipyardIcon.png",
@@ -67879,7 +67895,7 @@
 			0,
 			1
 		],
-		"class": "B1",
+		"class": "Type B1",
 		"nationality": "Sakura Empire",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/5/5a/I-26ShipyardIcon.png",
@@ -68176,7 +68192,7 @@
 			0,
 			1
 		],
-		"class": "B3",
+		"class": "Type B3",
 		"nationality": "Sakura Empire",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/7/74/I-58ShipyardIcon.png",
@@ -68424,7 +68440,7 @@
 			0,
 			1
 		],
-		"class": "VIIC",
+		"class": "Type VIIC",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/8/85/U-81ShipyardIcon.png",
@@ -68971,7 +68987,7 @@
 			0,
 			1
 		],
-		"class": "VIIB",
+		"class": "Type VIIB",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/a/a9/U-47ShipyardIcon.png",
@@ -69277,7 +69293,7 @@
 			0,
 			1
 		],
-		"class": "VIIC",
+		"class": "Type VIIC",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/3/3f/U-557ShipyardIcon.png",
@@ -70833,7 +70849,7 @@
 			3,
 			2
 		],
-		"class": "Emile Bertin",
+		"class": "Émile Bertin",
 		"nationality": "Iris Libre",
 		"hullType": "Light Cruiser",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/9/9d/%C3%89mile_BertinShipyardIcon.png",
@@ -79674,7 +79690,7 @@
 			3,
 			3
 		],
-		"class": "Bogue",
+		"class": "Attacker",
 		"nationality": "Royal Navy",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/0/05/ChaserShipyardIcon.png",
@@ -81352,7 +81368,7 @@
 			0,
 			1
 		],
-		"class": "AM",
+		"class": "Type AM",
 		"nationality": "Sakura Empire",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/a/a3/I-13ShipyardIcon.png",
@@ -81795,12 +81811,12 @@
 				"light": false,
 				"heavy": true,
 				"aviation": false,
-				"limited": "Only during event: Ink-stained Steel Sakura Rerun",
+				"limited": "Only during the \"Ink-Stained Steel Sakura Rerun\" event",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Ink-stained Steel Sakura Rerun\" Event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Ink-Stained Steel Sakura Rerun\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -82560,7 +82576,7 @@
 			0,
 			1
 		],
-		"class": "VIIC",
+		"class": "Type VIIC",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/a/ac/U-556ShipyardIcon.png",
@@ -82848,7 +82864,7 @@
 			0,
 			1
 		],
-		"class": "VIIB",
+		"class": "Type VIIB",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/2/23/U-73ShipyardIcon.png",
@@ -85193,7 +85209,7 @@
 			0,
 			1
 		],
-		"class": "B1",
+		"class": "Type B1",
 		"nationality": "Sakura Empire",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/f/fa/I-25ShipyardIcon.png",
@@ -85491,7 +85507,7 @@
 			0,
 			1
 		],
-		"class": "B3",
+		"class": "Type B3",
 		"nationality": "Sakura Empire",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/8/87/I-56ShipyardIcon.png",
@@ -86035,7 +86051,7 @@
 			0,
 			1
 		],
-		"class": "VIIB",
+		"class": "Type VIIB",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/5/5e/U-101ShipyardIcon.png",
@@ -86313,7 +86329,7 @@
 			0,
 			1
 		],
-		"class": "IXC",
+		"class": "Type IXC",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/3/32/U-522ShipyardIcon.png",
@@ -90605,7 +90621,7 @@
 			0,
 			1
 		],
-		"class": "IXB",
+		"class": "Type IXB",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/a/ae/U-110ShipyardIcon.png",
@@ -95998,7 +96014,8 @@
 			"code": "SN Kirov",
 			"cn": "基洛夫",
 			"jp": "キーロフ",
-			"kr": "키로프"
+			"kr": "키로프",
+			"tw": "基洛夫"
 		},
 		"exists": {
 			"en": true,
@@ -96252,6 +96269,10 @@
 			}
 		],
 		"gallery": [
+			{
+				"description": "Kirov, Kronshtadt, and Volga",
+				"url": "https://azurlane.netojuu.com/w/images/e/e4/Bg_2022.02.24_2.png"
+			},
 			{
 				"description": "Gremyashchy, Kirov, Sovetskaya Belorussiya",
 				"url": "https://azurlane.netojuu.com/w/images/c/ce/Bg_2021.02.25_4.png"
@@ -96879,7 +96900,8 @@
 			"code": "SN Sovetskaya Belorussiya",
 			"cn": "苏维埃贝拉罗斯",
 			"jp": "ソビエツカヤ・ベラルーシア",
-			"kr": "소비에츠카야 벨로루시아"
+			"kr": "소비에츠카야 벨로루시아",
+			"tw": "蘇維埃白俄羅斯"
 		},
 		"exists": {
 			"en": true,
@@ -97999,6 +98021,10 @@
 			{
 				"description": "Intrepid, Bremerton, Cooper, Bluegill",
 				"url": "https://azurlane.netojuu.com/w/images/0/01/Bg_2020.03.26_2.png"
+			},
+			{
+				"description": "Bremerton, Ajax, Unicorn, Belfast, Friedrich der Große, Vittorio Veneto and Atago by Miwano Ragu, Mossi and Yatsuha in an official 2022 advertisement for Japanese online clothing store Zozotown's Black Collection",
+				"url": "https://azurlane.netojuu.com/w/images/f/ff/Zozotown_Black_Collection_x_Azur_Lane.png"
 			}
 		]
 	},
@@ -104336,7 +104362,7 @@
 			0,
 			1
 		],
-		"class": "VIIC",
+		"class": "Type VIIC",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/0/00/U-96ShipyardIcon.png",
@@ -108746,7 +108772,7 @@
 			0,
 			1
 		],
-		"class": "IXA",
+		"class": "Type IXA",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/7/7f/U-37ShipyardIcon.png",
@@ -110890,7 +110916,7 @@
 			0,
 			1
 		],
-		"class": "VIIC",
+		"class": "Type VIIC",
 		"nationality": "Iron Blood",
 		"hullType": "Submarine",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/d/d4/U-410ShipyardIcon.png",
@@ -111978,7 +112004,8 @@
 			"code": "SN Tallinn",
 			"cn": "塔林",
 			"jp": "タリン",
-			"kr": "탈린"
+			"kr": "탈린",
+			"tw": "塔林"
 		},
 		"exists": {
 			"en": true,
@@ -112246,7 +112273,8 @@
 			"code": "SN Gremyashchy",
 			"cn": "雷鸣",
 			"jp": "グレミャーシュチ",
-			"kr": "그리먀시"
+			"kr": "그리먀시",
+			"tw": "雷鳴"
 		},
 		"exists": {
 			"en": true,
@@ -112518,7 +112546,8 @@
 			"code": "SN Murmansk",
 			"cn": "摩尔曼斯克",
 			"jp": "ムルマンスク",
-			"kr": "무르만스크"
+			"kr": "무르만스크",
+			"tw": "摩爾曼斯克"
 		},
 		"exists": {
 			"en": true,
@@ -112783,7 +112812,8 @@
 			"code": "SN Gromky",
 			"cn": "洪亮",
 			"jp": "グロームキィ",
-			"kr": "그롬키"
+			"kr": "그롬키",
+			"tw": "洪亮"
 		},
 		"exists": {
 			"en": true,
@@ -115449,6 +115479,8 @@
 			{
 				"name": "Charming Rabbit",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/6/61/Allen_M._SumnerBunny.png/537px-Allen_M._SumnerBunny.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/8/84/Allen_M._SumnerBunnyWithoutBG.png/635px-Allen_M._SumnerBunnyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/1/1c/Skin_BG_145.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/6/68/Allen_M._SumnerBunnyChibi.png",
 				"info": {
@@ -121456,8 +121488,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/c/c9/Skill_15110.png",
 				"names": {
 					"en": "Scrollbearer of Turbulent Seas",
-					"cn": null,
-					"jp": null
+					"cn": "惊涛中的文墨客",
+					"jp": "墨筆驚濤"
 				},
 				"description": "When the battle starts: increases this ship's EVA by 10% (25%); if there are other Dragon Empery ships in your fleet: also increases this ship's DMG dealt by 4.5% (12%).Every 3rd time this ship fires her main guns: fires a Lv.1 (Lv.10) special barrage (damage is bases on the skill's level) and increases your Dragon Empery's ships' FP and TRP by 4.5% (12%) for 8s.",
 				"color": "pink"
@@ -121466,8 +121498,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/3/38/Skill_15120.png",
 				"names": {
 					"en": "Wanderer of Azur Mists",
-					"cn": null,
-					"jp": null
+					"cn": "雾洒碧海前路迷",
+					"jp": "霧天碧海、前路朦々"
 				},
 				"description": "While this ship is inside a smokescreen: decreases this ship's SPD by 8, and increases DMG dealt by 4.5% (12%); while this ship is not inside a smokescreen: decreases this ship's DMG taken by 4.5% (12%).",
 				"color": "deepskyblue"
@@ -121476,8 +121508,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
 				"names": {
 					"en": "All Out Assault",
-					"cn": null,
-					"jp": null
+					"cn": "全弹发射",
+					"jp": "全弾発射-海天型"
 				},
 				"description": "Activates All Out Assault I (II): Hai Tien-class once every 24 (16) times the Secondary Guns are fired.",
 				"color": "pink"
@@ -121485,7 +121517,7 @@
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Unlock All Out Assault I",
 				"Secondary gun efficiency +5%"
 			],
 			[
@@ -121493,7 +121525,7 @@
 				"Secondary gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrade All Out Assault I → II",
 				"Secondary gun efficiency +15%"
 			]
 		],
@@ -121718,8 +121750,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/5/57/Skill_15130.png",
 				"names": {
 					"en": "Wave-Breaking Speardancer",
-					"cn": null,
-					"jp": null
+					"cn": "骇浪里的戏曲家",
+					"jp": "戯槍巨浪"
 				},
 				"description": "When the battle starts: increases this ship's EVA by 10% (25%); if there are other Dragon Empery ships in your fleet: also increases this ship's FP and TRP dealt by 4.5% (12%).\nEvery 3rd time this ship fires her main guns: fires a Lv.1 (Lv.10) special barrage (damage is bases on the skill's level); enemies hit by this barrage take 4.5% (12%) increased DMG from this ship for 8s.",
 				"color": "pink"
@@ -121728,8 +121760,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/9/9e/Skill_15140.png",
 				"names": {
 					"en": "A Journey from Heaven to Sea",
-					"cn": null,
-					"jp": null
+					"cn": "驰游沧海天地间",
+					"jp": "快義蒼海、天地悠々"
 				},
 				"description": "Once, when the battle starts, and with a 20% (40%) chance every 15s after that: deploys a smokescreen that increases Evasion Rate by 20% (40%) for all ships in it (smokescreen lasts for 5s; Evasion Rate buff does not stack with other smokescreen skills). When this ship has the Out Of Ammo debuff: increases the proc chance of this smokescreen to 40% (80%) and decreases the DMG penalty of the debuff by 5% (15%).Every 20s: 50% chance to restore 1% (3.5%) HP for the lowest percentage BB/BC in your fleet (this effect can only activate up to 2 times per battle).",
 				"color": "deepskyblue"
@@ -121738,8 +121770,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
 				"names": {
 					"en": "All Out Assault",
-					"cn": null,
-					"jp": null
+					"cn": "全弹发射",
+					"jp": "全弾発射-海天型"
 				},
 				"description": "Activates All Out Assault I (II): Hai Tien-class once every 24 (16) times the Secondary Guns are fired.",
 				"color": "pink"
@@ -122061,9 +122093,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "Nagu",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Nagu",
+					"Pixiv": "https://www.pixiv.net/en/users/316388",
+					"Twitter": "https://twitter.com/wooperfuri",
+					"Link": "https://weibo.com/wooperfuri"
 				}
 			},
 			"voice": {
@@ -122361,6 +122396,1251 @@
 			}
 		],
 		"gallery": []
+	},
+	"535": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kiev",
+		"id": "535",
+		"_gid": 70110,
+		"_sid": [
+			701101,
+			701102,
+			701103,
+			701104
+		],
+		"_code": 535,
+		"names": {
+			"en": "Kiev",
+			"code": "SN Kiev",
+			"cn": "基辅",
+			"jp": "キエフ",
+			"kr": "Kiev"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			1,
+			0,
+			4,
+			2,
+			1
+		],
+		"class": "Kiev",
+		"nationality": "Northern Parliament",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/3/31/KievShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "409",
+				"armor": "Light",
+				"reload": "76",
+				"luck": "50",
+				"firepower": "32",
+				"torpedo": "50",
+				"evasion": "66",
+				"speed": "50",
+				"antiair": "35",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "68",
+				"antisubmarineWarfare": "51"
+			},
+			"level100": {
+				"health": "2288",
+				"armor": "Light",
+				"reload": "196",
+				"luck": "50",
+				"firepower": "162",
+				"torpedo": "257",
+				"evasion": "198",
+				"speed": "50",
+				"antiair": "173",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "182",
+				"antisubmarineWarfare": "195"
+			},
+			"level120": {
+				"health": "2535",
+				"armor": "Light",
+				"reload": "207",
+				"luck": "50",
+				"firepower": "172",
+				"torpedo": "272",
+				"evasion": "224",
+				"speed": "50",
+				"antiair": "189",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "204",
+				"antisubmarineWarfare": "208"
+			},
+			"level125": {
+				"health": "2597",
+				"armor": "Light",
+				"reload": "210",
+				"luck": "50",
+				"firepower": "174",
+				"torpedo": "275",
+				"evasion": "230",
+				"speed": "50",
+				"antiair": "193",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "210",
+				"antisubmarineWarfare": "211"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 165,
+				"minEfficiency": 145,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 115,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 105,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 10,
+			"torpedo": 17,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 12,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_15240.png",
+				"names": {
+					"en": "Can I Attack Now?",
+					"cn": "锐不可当",
+					"jp": "突っ走って、いいよね？"
+				},
+				"description": "5s after the battle starts: fires a Lv.1 (Lv.10) special barrage; every 10s after that: fires an upgraded version of this barrage and also increases this ship's Crit Rate and Crit DMG by 1% (10%) (barrage DMG is based on the skill's level; barrage upgrade effect and Crit-related effects can only activate up to 2 times per battle).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c8/Skill_15250.png",
+				"names": {
+					"en": "Hang in There? Sure...",
+					"cn": "共济不弃",
+					"jp": "踏ん張って、いいでしょ？"
+				},
+				"description": "Increases this ship's ACC by 1% (10%). When the battle starts: 1) if there are 3 ships afloat in your Vanguard, or there is 1 other Northern Parliament ship in your Vanguard: increases this ship's FP and TRP by 5% (15%); if this ship is your sole Vanguard ship: instead increases this ship's AA and EVA by 5% (15%).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9a/Skill_29820.png",
+				"names": {
+					"en": "All-Out Assault: II",
+					"cn": "专属弹幕-基辅II",
+					"jp": "特殊弾幕-キエフⅡ"
+				},
+				"description": "Activates All Out Assault II: Kiev once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%",
+				"Main gun shots required to trigger All-Out Assault halved"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer",
+						"Guided-missile destroyer"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer",
+						"Guided-missile destroyer"
+					],
+					"bonus": "+2",
+					"stat": "health"
+				}
+			},
+			"techPoints": {
+				"collection": 22,
+				"maxLimitBreak": 44,
+				"maxLevel": 32,
+				"total": 98
+			}
+		},
+		"construction": {
+			"constructionTime": "00:42:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/6b/Kiev.png/671px-Kiev.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/3/31/KievChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Arkhangelsk, Volga, Kiev, Soobrazitelny, and Kronshtadt",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2022.02.24_1.png"
+			}
+		]
+	},
+	"536": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Arkhangelsk",
+		"id": "536",
+		"_gid": 70506,
+		"_sid": [
+			705061,
+			705062,
+			705063,
+			705064
+		],
+		"_code": 536,
+		"names": {
+			"en": "Arkhangelsk",
+			"code": "SN Arkhangelsk",
+			"cn": "阿尔汉格尔斯克",
+			"jp": "アルハンゲリスク",
+			"kr": "Arkhangelsk"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			1,
+			1,
+			4
+		],
+		"class": "Revenge",
+		"nationality": "Northern Parliament",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/1/12/ArkhangelskShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "1199",
+				"armor": "Heavy",
+				"reload": "55",
+				"luck": "72",
+				"firepower": "79",
+				"torpedo": "0",
+				"evasion": "5",
+				"speed": "23",
+				"antiair": "42",
+				"aviation": "0",
+				"oilConsumption": "5",
+				"accuracy": "22",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6535",
+				"armor": "Heavy",
+				"reload": "142",
+				"luck": "72",
+				"firepower": "394",
+				"torpedo": "0",
+				"evasion": "23",
+				"speed": "23",
+				"antiair": "206",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "59",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7223",
+				"armor": "Heavy",
+				"reload": "150",
+				"luck": "72",
+				"firepower": "415",
+				"torpedo": "0",
+				"evasion": "27",
+				"speed": "23",
+				"antiair": "225",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "66",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7395",
+				"armor": "Heavy",
+				"reload": "152",
+				"luck": "72",
+				"firepower": "420",
+				"torpedo": "0",
+				"evasion": "28",
+				"speed": "23",
+				"antiair": "230",
+				"aviation": "0",
+				"oilConsumption": "14",
+				"accuracy": "68",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 100,
+				"type": "BB Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 200,
+				"minEfficiency": 200,
+				"type": "CL/DD Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 65,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 10
+		},
+		"scrapValue": {
+			"coin": 26,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/f/f3/Skill_15260.png",
+				"names": {
+					"en": "Noble Strike",
+					"cn": "碎冰之击",
+					"jp": "ルィツァリの一撃"
+				},
+				"description": "Every 15s: fires a Lv.1 (Lv.10) special barrage and increases the ACC of your Main Fleet by 1% (10%) for 8s (barrage DMG is based on the skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/7/7d/Skill_15270.png",
+				"names": {
+					"en": "Revenge Served Cold",
+					"cn": "权御战场",
+					"jp": "バトルフィールド・リヴェンジ"
+				},
+				"description": "For each Northern Parliament or Royal Navy ship in the same fleet as this ship: increases this ship's FP by 1% (5%) (can be stacked up to 3 times); if there are 3 or more: also increases this ship's AA by 5% (15%) and decreases her Burn DMG taken by 1% (10%).",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Auxiliary gun base +2",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Main gun base +1",
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Battleship",
+						"Battlecruiser",
+						"Aviation battleship"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 32,
+				"maxLimitBreak": 64,
+				"maxLevel": 48,
+				"total": 144
+			}
+		},
+		"construction": {
+			"constructionTime": "04:10:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/23/Arkhangelsk.png/787px-Arkhangelsk.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/8a/ArkhangelskChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Arkhangelsk, Volga, Kiev, Soobrazitelny, and Kronshtadt",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2022.02.24_1.png"
+			}
+		]
+	},
+	"537": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Soobrazitelny",
+		"id": "537",
+		"_gid": 70109,
+		"_sid": [
+			701091,
+			701092,
+			701093,
+			701094
+		],
+		"_code": 537,
+		"names": {
+			"en": "Soobrazitelny",
+			"code": "SN Soobrazitelny",
+			"cn": "灵敏",
+			"jp": "ソオブラジーテリヌイ",
+			"kr": "Soobrazitelny"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			1,
+			0,
+			3,
+			2,
+			1
+		],
+		"class": "Storozhevoy",
+		"nationality": "Northern Parliament",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/8/8f/SoobrazitelnyShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "388",
+				"armor": "Light",
+				"reload": "73",
+				"luck": "84",
+				"firepower": "25",
+				"torpedo": "43",
+				"evasion": "65",
+				"speed": "48",
+				"antiair": "31",
+				"aviation": "0",
+				"oilConsumption": "2",
+				"accuracy": "67",
+				"antisubmarineWarfare": "50"
+			},
+			"level100": {
+				"health": "2173",
+				"armor": "Light",
+				"reload": "189",
+				"luck": "84",
+				"firepower": "128",
+				"torpedo": "223",
+				"evasion": "195",
+				"speed": "48",
+				"antiair": "153",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "179",
+				"antisubmarineWarfare": "192"
+			},
+			"level120": {
+				"health": "2407",
+				"armor": "Light",
+				"reload": "200",
+				"luck": "84",
+				"firepower": "135",
+				"torpedo": "235",
+				"evasion": "221",
+				"speed": "48",
+				"antiair": "167",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "201",
+				"antisubmarineWarfare": "204"
+			},
+			"level125": {
+				"health": "2466",
+				"armor": "Light",
+				"reload": "202",
+				"luck": "84",
+				"firepower": "137",
+				"torpedo": "239",
+				"evasion": "227",
+				"speed": "48",
+				"antiair": "171",
+				"aviation": "0",
+				"oilConsumption": "9",
+				"accuracy": "206",
+				"antisubmarineWarfare": "207"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 160,
+				"minEfficiency": 140,
+				"type": "DD Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 115,
+				"minEfficiency": 110,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 105,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 8,
+			"torpedo": 14,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 12,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/45/Skill_15230.png",
+				"names": {
+					"en": "The Genius Mechanic",
+					"cn": "幸运机械师",
+					"jp": "天才的メカニックだ！"
+				},
+				"description": "Every 15s: 15% (30%) chance to deploy a smokescreen that increases Evasion Rate by 20% (40%) for all your ships in it (smokescreen lasts 5s; Evasion Rate buff does not stack with other smokescreen skills).\nWhile this ship is inside a smokescreen: increases this ship's DMG dealt by 4.5% (12%) and, once per battle, increases her LCK by 1 (8) until the battle ends.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/1/1d/Skill_15280.png",
+				"names": {
+					"en": "A Genius Keeps Things Simple!",
+					"cn": "天才机械师",
+					"jp": "シンプルで天才的な解決法"
+				},
+				"description": "Every 20s: 70% chance to fire a Lv.1 (Lv.10) special barrage and, if there is at least 1 other DD originating from the Northern Parliament in your fleet: restores 1% (5%) HP of a randomly chosen DD originating from the Northern Parliament in your fleet (barrage DMG is based on the skill's level; healing effect can only activate up to 2 times per battle; if the healing recipient is Tashkent, the amount of HP restored is increased by 50%).",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射Ⅱ"
+				},
+				"description": "Activates All Out Assault Ⅱ: Minsk once every 10 times the Main Guns are fired.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Main gun efficiency +10%"
+			],
+			[
+				"Improve All Out Assault",
+				"All weapons' efficiency +5%",
+				"Main gun shots required to trigger All-Out Assault halved"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer",
+						"Guided-missile destroyer"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer",
+						"Guided-missile destroyer"
+					],
+					"bonus": "+1",
+					"stat": "evasion"
+				}
+			},
+			"techPoints": {
+				"collection": 10,
+				"maxLimitBreak": 22,
+				"maxLevel": 16,
+				"total": 48
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3e/Soobrazitelny.png/653px-Soobrazitelny.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/7b/SoobrazitelnyChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Arkhangelsk, Volga, Kiev, Soobrazitelny, and Kronshtadt",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2022.02.24_1.png"
+			}
+		]
+	},
+	"538": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Volga",
+		"id": "538",
+		"_gid": 70701,
+		"_sid": [
+			707011,
+			707012,
+			707013,
+			707014
+		],
+		"_code": 538,
+		"names": {
+			"en": "Volga",
+			"code": "SN Volga",
+			"cn": "伏尔加",
+			"jp": "ヴォルガ",
+			"kr": "Volga"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			0,
+			0,
+			4,
+			2,
+			2,
+			4
+		],
+		"class": "Volga",
+		"nationality": "Northern Parliament",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/f/fe/VolgaShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1194",
+				"armor": "Medium",
+				"reload": "45",
+				"luck": "50",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "12",
+				"speed": "30",
+				"antiair": "69",
+				"aviation": "75",
+				"oilConsumption": "4",
+				"accuracy": "35",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6173",
+				"armor": "Medium",
+				"reload": "116",
+				"luck": "50",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "39",
+				"speed": "30",
+				"antiair": "333",
+				"aviation": "376",
+				"oilConsumption": "13",
+				"accuracy": "90",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "6790",
+				"armor": "Medium",
+				"reload": "123",
+				"luck": "50",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "45",
+				"speed": "30",
+				"antiair": "363",
+				"aviation": "396",
+				"oilConsumption": "13",
+				"accuracy": "101",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "6944",
+				"armor": "Medium",
+				"reload": "125",
+				"luck": "50",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "46",
+				"speed": "30",
+				"antiair": "371",
+				"aviation": "401",
+				"oilConsumption": "13",
+				"accuracy": "104",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 140,
+				"minEfficiency": 130,
+				"type": "Fighters",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 120,
+				"type": "Dive Bombers",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 110,
+				"type": "Torpedo Bombers",
+				"max": 3
+			}
+		],
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 62,
+			"reload": 9
+		},
+		"scrapValue": {
+			"coin": 16,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/b/bb/Skill_15320.png",
+				"names": {
+					"en": "Meteoric Hope",
+					"cn": "破空的水与焰",
+					"jp": "空駆ける待望の炎"
+				},
+				"description": "When this ship launches an Airstrike: 45% (75%) chance to launch an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level; inflicts the Flooding status for 12s to enemies hit by the special airstrike's torpedos). If this effect fails to activate: instead fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level and this ship's AVI stat).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/8/89/Skill_15330.png",
+				"names": {
+					"en": "Crystals of the Great River",
+					"cn": "冰裂坠晶",
+					"jp": "大河の氷結兵装"
+				},
+				"description": "Every 20s: selects the lowest HP percentage ship in your fleet, and afterwards 2 randomly chosen ships in your fleet, and recovers HP for the ship(s) equal to 1% (5%) of this ship's max HP (it is possible for a ship to receive multiple heals). After this effect activates: spawns a Lv.1 (Lv.10) summon that explodes, dealing DMG to enemies (DMG is based on the skill's level and this ship's AVI stat).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/7/73/Skill_15340.png",
+				"names": {
+					"en": "Motherly Heart",
+					"cn": "友爱团结",
+					"jp": "守りたい心母の如し"
+				},
+				"description": "When the battle starts, increases this ship's AVI by 1% (5%) per each ship in your Vanguard (can be stacked up to 3 times). If your Flagship or Vanguard lead ship is a Northern Parliament ship: grants this ship the full stack of 3 regardless of the number of ships in your Vanguard.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"All Torpedo Bombers +1",
+				"Torpedo Bomber efficiency +5%"
+			],
+			[
+				"Hangar capacity +1",
+				"All fighters +1",
+				"Fighter efficiency +10%"
+			],
+			[
+				"All aircraft +1",
+				"Torpedo Bomber efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+2",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "accuracy"
+				}
+			},
+			"techPoints": {
+				"collection": 34,
+				"maxLimitBreak": 70,
+				"maxLevel": 52,
+				"total": 156
+			}
+		},
+		"construction": {
+			"constructionTime": "04:47:53",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": ""
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/38/Volga.png/601px-Volga.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/5/50/VolgaWithoutBG.png/601px-VolgaWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/5/5b/VolgaChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Arkhangelsk, Volga, Kiev, Soobrazitelny, and Kronshtadt",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2022.02.24_1.png"
+			},
+			{
+				"description": "Kirov, Kronshtadt, and Volga",
+				"url": "https://azurlane.netojuu.com/w/images/e/e4/Bg_2022.02.24_2.png"
+			}
+		]
+	},
+	"539": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Kronshtadt",
+		"id": "539",
+		"_gid": 71801,
+		"_sid": [
+			718011,
+			718012,
+			718013,
+			718014
+		],
+		"_code": 539,
+		"names": {
+			"en": "Kronshtadt",
+			"code": "SN Kronshtadt",
+			"cn": "喀琅施塔得",
+			"jp": "クロンシュタット",
+			"kr": "Kronshtadt"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			2,
+			2,
+			5
+		],
+		"class": "Kronshtadt",
+		"nationality": "Northern Parliament",
+		"hullType": "Large Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/5/5e/KronshtadtShipyardIcon.png",
+		"rarity": "Ultra Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1247",
+				"armor": "Medium",
+				"reload": "62",
+				"luck": "50",
+				"firepower": "54",
+				"torpedo": "0",
+				"evasion": "11",
+				"speed": "24",
+				"antiair": "42",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "43",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6609",
+				"armor": "Medium",
+				"reload": "161",
+				"luck": "50",
+				"firepower": "278",
+				"torpedo": "0",
+				"evasion": "33",
+				"speed": "24",
+				"antiair": "206",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "110",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7286",
+				"armor": "Medium",
+				"reload": "170",
+				"luck": "50",
+				"firepower": "294",
+				"torpedo": "0",
+				"evasion": "38",
+				"speed": "24",
+				"antiair": "226",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "123",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7455",
+				"armor": "Medium",
+				"reload": "172",
+				"luck": "50",
+				"firepower": "298",
+				"torpedo": "0",
+				"evasion": "39",
+				"speed": "24",
+				"antiair": "231",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "126",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 90,
+				"type": "CA/CB Guns",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 55,
+				"minEfficiency": 45,
+				"type": "CL Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 32,
+			"torpedo": 0,
+			"aviation": 0,
+			"reload": 12
+		},
+		"scrapValue": {
+			"coin": 19,
+			"oil": 500,
+			"medal": 30
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9c/Skill_15290.png",
+				"names": {
+					"en": "Indomitable Ice",
+					"cn": "钢武冰锋",
+					"jp": "剛勇な戦闘射撃（派手）"
+				},
+				"description": "Increase this ship's FP and EVA by 3.5% (8%). Every 8 times this ship fires her main gun: fire a special barrage (damage scales with skill level). If this ship is equipped with a high-caliber main gun (280mm or higher), fire this barrage every 4 times the ship fires its main guns instead of 8, and improve this special barrage.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_15300.png",
+				"names": {
+					"en": "Tempered Prudence",
+					"cn": "冷峻冰芒",
+					"jp": "慎重な牽制射撃（抑えめ）"
+				},
+				"description": "Decrease the damage this ship takes from AP ammo by 3.5% (8%). Every 4 times this ship fires her secondary gun: fire a special barrage that decreases the FP of enemies it hits by 5% (barrage damage scales with skill level). When this ship equips at least one Northern Parliament gear: increase this ship's secondary gun efficiency by 25% (45%), and decrease damage taken by 3.5% (8%) from all sources instead of only from AP ammo.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/1/13/Skill_15310.png",
+				"names": {
+					"en": "Strong-Willed Support",
+					"cn": "共进意志",
+					"jp": "隠密な支援射撃（苦手）"
+				},
+				"description": "Once per battle, when this ship's Health falls under 10%In-game description incorrectly says 10% taken, not remainingfalls under 10%[a], decrease this ship's burn damage taken by 50% and heal 1% of her max Health every second for 1s (10s). As long as this ship is afloat, if a fleet this ship is NOT in engages in battle:\nIf that fleet's Flagship is a BB: decrease the main gun spread of all BBs in that fleet by 2.\n20s after that battle starts: fire a special barrage that decreases the Speed of enemies it hits by 40% for 5s (barrage damage scales with skill level).",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Main gun efficiency +5%",
+				"Equips special secondary gun"
+			],
+			[
+				"Main gun base +1",
+				"Secondary gun efficiency +10%"
+			],
+			[
+				"Main gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 48,
+				"maxLimitBreak": 96,
+				"maxLevel": 72,
+				"total": 216
+			}
+		},
+		"construction": {
+			"constructionTime": "04:42:50",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during the \"Abyssal Refrain\" event.",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event.",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Dishwasher1910",
+				"urls": {
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Dishwasher1910",
+					"Pixiv": "https://www.pixiv.net/en/users/13408193",
+					"Twitter": "https://twitter.com/dishwasher1910",
+					"Link": "https://www.artstation.com/dishwasher1910"
+				}
+			},
+			"voice": {
+				"name": "Kaede Hondo",
+				"url": "https://myanimelist.net/people/38659/Kaede_Hondo"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/1d/Kronshtadt.png/835px-Kronshtadt.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/72/KronshtadtWithoutBG.png/862px-KronshtadtWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/97/KronshtadtChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Arkhangelsk, Volga, Kiev, Soobrazitelny, and Kronshtadt",
+				"url": "https://azurlane.netojuu.com/w/images/5/5e/Bg_2022.02.24_1.png"
+			},
+			{
+				"description": "Kirov, Kronshtadt, and Volga",
+				"url": "https://azurlane.netojuu.com/w/images/e/e4/Bg_2022.02.24_2.png"
+			}
+		]
 	},
 	"10061": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marie_Rose",
@@ -161674,8 +162954,8 @@
 			},
 			{
 				"name": "The Cat and the White Steed",
-				"image": "https://azurlane.netojuu.com/w/images/thumb/b/bf/CheshireParty.png/647px-CheshireParty.png",
-				"nobg": null,
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/bf/CheshireParty.png/649px-CheshireParty.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/d7/CheshirePartyWithoutBG.png/613px-CheshirePartyWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/8/80/CheshirePartyChibi.png",
@@ -166461,18 +167741,18 @@
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
-				"Main gun Efficiency +5%"
+				"Unlocks All Out Assault I",
+				"Main Gun Efficiency +5%"
 			],
 			[
 				"Max Torpedo Capacity +1",
 				"Pre-loaded Torpedo +1",
-				"Main gun Efficiency +10%"
+				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All Out Assault I → II",
 				"All Weapon Efficiency +5%",
-				"Boosts stats given by Aux Gear by 30%"
+				"Boosts stats from Auxiliary Gear by 30%"
 			]
 		],
 		"fleetTech": {
@@ -166498,7 +167778,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Event Task reward during the \"Battery Support Plan\" event.",
+			"obtainedFrom": "Event Task reward during the \"Battery Support Plan\" event",
 			"fromMaps": []
 		},
 		"misc": {
