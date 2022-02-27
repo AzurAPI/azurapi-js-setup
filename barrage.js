@@ -99,8 +99,8 @@ function parseRound(tr, start) {
 }
 
 async function getDirectLink(file) {
-    file = file.replace('/File:', '');
-    return WIKI_URL + galleryThumbnailUrlToActualUrl(new JSDOM(await fetch("https://azurlane.koumakan.jp/File:" + file, "./web/files/" + file + ".html")).window.document.querySelector("#file img").src);
+    file = file.replace('/wiki/File:', '');
+    return WIKI_URL + galleryThumbnailUrlToActualUrl(new JSDOM(await fetch("https://azurlane.koumakan.jp/wiki/File:" + file, "./web/files/" + file + ".html")).window.document.querySelector("#file img").src);
 }
 
 function fetch(url, localPath) {
