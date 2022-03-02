@@ -12540,7 +12540,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:10:00",
 			"availableIn": {
@@ -15145,7 +15145,7 @@
 			{
 				"name": "Pungent Plum",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/1/11/GloriousSpring.png/602px-GloriousSpring.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/2/22/GloriousSpringWithoutBG.png/867px-GloriousSpringWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/2/22/GloriousSpringWithoutBG.png/710px-GloriousSpringWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/6/63/Skin_BG_144.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/5/56/GloriousSpringChibi.png",
@@ -27488,7 +27488,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Cruiser",
+		"retrofitHullType": "Heavy Cruiser",
 		"construction": {
 			"constructionTime": "01:48:00",
 			"availableIn": {
@@ -33162,7 +33162,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Battleship",
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -33709,7 +33709,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Battleship",
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -34329,7 +34329,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Battleship",
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "04:25:00",
 			"availableIn": {
@@ -34842,7 +34842,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Battleship",
+		"retrofitHullType": "Aviation Battleship",
 		"construction": {
 			"constructionTime": "04:25:00",
 			"availableIn": {
@@ -37170,7 +37170,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "Drop Only",
 			"availableIn": {
@@ -47697,7 +47697,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Destroyer",
+		"retrofitHullType": "DDG",
 		"construction": {
 			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
@@ -48503,7 +48503,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Dragon Empery",
+		"retrofitHullType": "DDG",
 		"construction": {
 			"constructionTime": "00:32:00",
 			"availableIn": {
@@ -50690,6 +50690,22 @@
 					"enClient": "Shackled Saule",
 					"cnClient": "囚塔中的曙光公主",
 					"jpClient": "囚われた曙光姫",
+					"cost": 880
+				}
+			},
+			{
+				"name": "Not Cut Out For This?",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/2/20/AvroraSpecial_Exercise.png/552px-AvroraSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/df/AvroraSpecial_ExerciseWithoutBG.png/543px-AvroraSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b1/AvroraSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Not Cut Out For This?",
+					"cnClient": "略勉强的角色扮演?",
+					"jpClient": "似合わぬ役は無理せず？",
 					"cost": 880
 				}
 			}
@@ -80387,7 +80403,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "Cannot Be Constructed",
 			"availableIn": {
@@ -94833,6 +94849,22 @@
 					"jpClient": "ウサギ改修計画？",
 					"cost": 780
 				}
+			},
+			{
+				"name": "Shadowy Syndicate Showdown",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/f/fc/GroznySpecial_Exercise.png/544px-GroznySpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/4/4f/GroznySpecial_ExerciseWithoutBG.png/448px-GroznySpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d6/GroznySpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Shadowy Syndicate Showdown",
+					"cnClient": "突袭！黑暗基地！",
+					"jpClient": "暗黒コーポ突撃！",
+					"cost": 1180
+				}
 			}
 		],
 		"gallery": [
@@ -96234,6 +96266,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/7/71/Kirov.png/610px-Kirov.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/7f/KirovWithoutBG.png/627px-KirovWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/1/17/KirovChibi.png",
 				"info": {
@@ -96259,12 +96293,28 @@
 				"background": "https://azurlane.netojuu.com/w/images/3/3b/Skin_BG_109.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/e/ed/KirovCasualChibi.png",
 				"info": {
-					"live2dModel": false,
+					"live2dModel": true,
 					"obtainedFrom": "Skin Shop",
 					"enClient": "Blend R",
 					"cnClient": "居家咖啡时间",
 					"jpClient": "ブレンド・R",
 					"cost": 880
+				}
+			},
+			{
+				"name": "Drifting Justice",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/4f/KirovSpecial_Exercise.png/619px-KirovSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/7d/KirovSpecial_ExerciseWithoutBG.png/876px-KirovSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b5/KirovSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Drifting Justice",
+					"cnClient": "疾速截击",
+					"jpClient": "ピーキー・チューニング",
+					"cost": 1180
 				}
 			}
 		],
@@ -112226,6 +112276,8 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a1/Tallinn.png/587px-Tallinn.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/9/91/TallinnWithoutBG.png/451px-TallinnWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/0/09/TallinnChibi.png",
 				"info": {
@@ -112248,11 +112300,27 @@
 					"jpClient": "ピルスナー・ノスタルジック",
 					"cost": 880
 				}
+			},
+			{
+				"name": "As You Say, Ma'am!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/3/31/TallinnSpecial_Exercise.png/550px-TallinnSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b2/TallinnSpecial_ExerciseWithoutBG.png/664px-TallinnSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/d/d0/TallinnSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "As You Say, Ma'am!",
+					"cnClient": "是！长官！",
+					"jpClient": "イエスマイレディ",
+					"cost": 880
+				}
 			}
 		],
 		"gallery": [
 			{
-				"description": "Gangut, Sovetsky Soyuz, Tallinn",
+				"description": "Gangut, Sovetsky Soyuz, and Tallinn",
 				"url": "https://azurlane.netojuu.com/w/images/c/c0/BG_2021.06.10_2.png"
 			}
 		]
@@ -122608,11 +122676,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during the \"Abyssal Refrain\" event",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction, Event Store and as Map Drop during the \"Abyssal Refrain\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -122623,18 +122692,37 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Himika Akaneya",
+				"url": "https://www.81produce.co.jp/dcms_plusdb/index.php/item?id=149"
 			}
 		},
 		"skins": [
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/6/6b/Kiev.png/671px-Kiev.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b3/KievWithoutBG.png/804px-KievWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/3/31/KievChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Backstreet Silver Sonata",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/6/66/KievSpecial_Exercise.png/562px-KievSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/7b/KievSpecial_ExerciseWithoutBG.png/395px-KievSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/1/17/KievSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Backstreet Silver Sonata",
+					"cnClient": "夜巷的银色奏鸣曲",
+					"jpClient": "路地裏の銀色ソナタ",
+					"cost": 880
 				}
 			}
 		],
@@ -122750,7 +122838,7 @@
 				"maxEfficiency": 130,
 				"minEfficiency": 100,
 				"type": "BB Guns",
-				"max": 1
+				"max": 3
 			},
 			{
 				"maxEfficiency": 200,
@@ -122846,11 +122934,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during the \"Abyssal Refrain\" event",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event",
 			"fromMaps": []
 		},
 		"misc": {
@@ -122861,18 +122950,37 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Miyu Kubota",
+				"url": "https://www.81produce.co.jp/dcms_plusdb/index.php/item?id=192"
 			}
 		},
 		"skins": [
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/2/23/Arkhangelsk.png/787px-Arkhangelsk.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/f/fa/ArkhangelskWithoutBG.png/538px-ArkhangelskWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/8/8a/ArkhangelskChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Grandiose Getaway",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/5/59/ArkhangelskSpecial_Exercise.png/808px-ArkhangelskSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/3/3c/ArkhangelskSpecial_ExerciseWithoutBG.png/532px-ArkhangelskSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/9a/ArkhangelskSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Grandiose Getaway",
+					"cnClient": "择日而航",
+					"jpClient": "フライ・アナザー・デイ",
+					"cost": 780
 				}
 			}
 		],
@@ -123099,6 +123207,7 @@
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available as a point-accumulation reward during the \"Abyssal Refrain\" event.",
 			"fromMaps": []
 		},
 		"misc": {
@@ -123109,18 +123218,37 @@
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Miharu Hanai",
+				"url": "https://www.iam-agency.jp/actor/hanai-miharu/"
 			}
 		},
 		"skins": [
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/3/3e/Soobrazitelny.png/653px-Soobrazitelny.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/66/SoobrazitelnyWithoutBG.png/664px-SoobrazitelnyWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/7/7b/SoobrazitelnyChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "The Machinery of Life",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/8/81/SoobrazitelnySpecial_Exercise.png/703px-SoobrazitelnySpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/e/e9/SoobrazitelnySpecial_ExerciseWithoutBG.png/605px-SoobrazitelnySpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/0/0f/SoobrazitelnySpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "The Machinery of Life",
+					"cnClient": "天才生物机械师？",
+					"jpClient": "バイオロジカルメカニック",
+					"cost": 780
 				}
 			}
 		],
@@ -123341,22 +123469,27 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": false,
+				"limited": "Only during the \"Abyssal Refrain\" event",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event",
 			"fromMaps": []
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "雫綺一生",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#雫綺一生",
+					"Pixiv": "https://www.pixiv.net/member.php?id=2799637",
+					"Twitter": "https://twitter.com/MEPHIST0216",
+					"Link": "https://weibo.com/u/7208541982"
 				}
 			},
 			"voice": {
-				"name": ""
+				"name": "Noriko Shibasaki",
+				"url": "https://myanimelist.net/people/43489/Noriko_Shibasaki"
 			}
 		},
 		"skins": [
@@ -123370,6 +123503,22 @@
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "An Irresistible AR Adventure",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/da/VolgaSpecial_Exercise.png/598px-VolgaSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/7/7d/VolgaSpecial_ExerciseWithoutBG.png/241px-VolgaSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/80/VolgaSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "An Irresistible AR Adventure",
+					"cnClient": "超美味·AR侦探体验？",
+					"jpClient": "美味しいAR探偵体験",
+					"cost": 880
 				}
 			}
 		],
@@ -123543,7 +123692,7 @@
 					"cn": "共进意志",
 					"jp": "隠密な支援射撃（苦手）"
 				},
-				"description": "Once per battle, when this ship's Health falls under 10%In-game description incorrectly says 10% taken, not remainingfalls under 10%[a], decrease this ship's burn damage taken by 50% and heal 1% of her max Health every second for 1s (10s). As long as this ship is afloat, if a fleet this ship is NOT in engages in battle:\nIf that fleet's Flagship is a BB: decrease the main gun spread of all BBs in that fleet by 2.\n20s after that battle starts: fire a special barrage that decreases the Speed of enemies it hits by 40% for 5s (barrage damage scales with skill level).",
+				"description": "Once per battle, when this ship's Health falls under 10%, decrease this ship's burn damage taken by 50% and heal 1% of her max Health every second for 1s (10s). As long as this ship is afloat, if a fleet this ship is NOT in engages in battle:\nIf that fleet's Flagship is a BB: decrease the main gun spread of all BBs in that fleet by 2.\n20s after that battle starts: fire a special barrage that decreases the Speed of enemies it hits by 40% for 5s (barrage damage scales with skill level).",
 				"color": "gold"
 			}
 		],
@@ -123628,6 +123777,22 @@
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Begin the Rush!",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/df/KronshtadtSpecial_Exercise.png/887px-KronshtadtSpecial_Exercise.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/a0/KronshtadtSpecial_ExerciseWithoutBG.png/622px-KronshtadtSpecial_ExerciseWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/4/4b/Skin_BG_154.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/9/93/KronshtadtSpecial_ExerciseChibi.png",
+				"info": {
+					"live2dModel": true,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Begin the Rush!",
+					"cnClient": "突击行动开始！",
+					"jpClient": "突入開始ッッ！",
+					"cost": 1180
 				}
 			}
 		],
@@ -129394,7 +129559,7 @@
 					"cn": "情报掌握",
 					"jp": "インフォーメーション・アディクション"
 				},
-				"description": "Increase this ship's armor modifierIn game description incorrectly states damage against Light Armor by 5% (15%).\nWhen this ship is sortied with Helena or Lena, decrease this ship's damage taken by 8% (18%).\nWhen sortied without Helena or Lena, increase this ship's EVA by 5% (15%), and decrease all damage taken by the lead ship in your Vanguard by 5%.",
+				"description": "Increase this ship's armor modifierIn game description incorrectly states damage against Light Armor by 5% (15%).\nWhen this ship is sortied with Helena or Lena, decrease this ship's damage taken by 8% (18%).\nWhen sortied with neither Helena nor Lena, increase this ship's EVA by 5% (15%), and decrease all damage taken by the lead ship in your Vanguard by 5%.",
 				"color": "deepskyblue"
 			},
 			{
@@ -129721,7 +129886,7 @@
 		"_code": 30005,
 		"names": {
 			"en": "Fusou META",
-			"code": "Fuso.META",
+			"code": "Fusou META",
 			"cn": "扶桑·META",
 			"jp": "扶桑(META)",
 			"kr": "후소·META",
@@ -130618,9 +130783,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "Mkiiiiii33",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Mkiiiiii33",
+					"Pixiv": "https://www.pixiv.net/member.php?id=661601",
+					"Twitter": "https://twitter.com/ccMK33",
+					"Link": "https://weibo.com/kawa33"
 				}
 			},
 			"voice": {
@@ -148846,7 +149014,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:15:00",
 			"availableIn": {
@@ -149370,7 +149538,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:20:00",
 			"availableIn": {
@@ -149906,7 +150074,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:00:00",
 			"availableIn": {
@@ -151361,7 +151529,7 @@
 				]
 			}
 		},
-		"retrofitHullType": "Light Carrier",
+		"retrofitHullType": "Light Aircraft Carrier",
 		"construction": {
 			"constructionTime": "02:40:00",
 			"availableIn": {
