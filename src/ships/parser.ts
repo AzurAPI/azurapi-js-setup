@@ -161,7 +161,7 @@ export async function parseShip(id: string, name: string, body: string, url: str
         ship.retrofit = true;
         ship.retrofitId = (3000 + parseInt(ship.id)) + "";
         ship.retrofitProjects = parseRetrofit(doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling.lastElementChild);
-        ship.retrofitHullType = doc.querySelector(".nomobile>div:nth-child(1) .wikitable tr:nth-child(3) a:nth-child(4)")?.textContent || ship.hullType;
+        ship.retrofitHullType = doc.querySelector(".ship-card-content .card-info tr:nth-child(3)>:last-child>:last-child")?.textContent || ship.hullType;
     }
     let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"), ship);
     ship.construction = obtainedFrom.construction;
