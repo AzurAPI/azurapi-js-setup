@@ -94863,7 +94863,7 @@
 					"enClient": "Shadowy Syndicate Showdown",
 					"cnClient": "突袭！黑暗基地！",
 					"jpClient": "暗黒コーポ突撃！",
-					"cost": 1180
+					"cost": 1080
 				}
 			}
 		],
@@ -105284,7 +105284,7 @@
 			3,
 			2
 		],
-		"class": "Zuihou",
+		"class": "Chitose",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/7/76/ChitoseShipyardIcon.png",
@@ -105539,7 +105539,7 @@
 			3,
 			2
 		],
-		"class": "Zuihou",
+		"class": "Chitose",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/0/07/ChiyodaShipyardIcon.png",
@@ -108458,6 +108458,8 @@
 			{
 				"name": "Chronos's Kalendae",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/c/ca/Peter_StrasserNew_Year.png/451px-Peter_StrasserNew_Year.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/9/95/Peter_StrasserNew_YearWithoutBG.png/641px-Peter_StrasserNew_YearWithoutBG.png",
+				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/2/23/Skin_BG_143.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/6/6d/Peter_StrasserNew_YearChibi.png",
 				"info": {
@@ -108472,8 +108474,6 @@
 			{
 				"name": "A Moment Frozen in Pure White",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/a/a5/Peter_StrasserParty.png/461px-Peter_StrasserParty.png",
-				"nobg": null,
-				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/a/a6/Skin_BG_146.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/e/e4/Peter_StrasserPartyChibi.png",
 				"info": {
@@ -121615,10 +121615,10 @@
 				}
 			},
 			"techPoints": {
-				"collection": 0,
-				"maxLimitBreak": 0,
-				"maxLevel": 0,
-				"total": 0
+				"collection": 12,
+				"maxLimitBreak": 24,
+				"maxLevel": 18,
+				"total": 54
 			}
 		},
 		"construction": {
@@ -121877,10 +121877,10 @@
 				}
 			},
 			"techPoints": {
-				"collection": 0,
-				"maxLimitBreak": 0,
-				"maxLevel": 0,
-				"total": 0
+				"collection": 12,
+				"maxLimitBreak": 24,
+				"maxLevel": 18,
+				"total": 54
 			}
 		},
 		"construction": {
@@ -122481,13 +122481,13 @@
 			"code": "SN Kiev",
 			"cn": "基辅",
 			"jp": "キエフ",
-			"kr": "Kiev"
+			"kr": "키예프"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -122700,7 +122700,7 @@
 			{
 				"name": "Default",
 				"image": "https://azurlane.netojuu.com/w/images/thumb/6/6b/Kiev.png/671px-Kiev.png",
-				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b3/KievWithoutBG.png/804px-KievWithoutBG.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/b/b3/KievWithoutBG.png/955px-KievWithoutBG.png",
 				"cn": null,
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/3/31/KievChibi.png",
@@ -122749,13 +122749,13 @@
 			"code": "SN Arkhangelsk",
 			"cn": "阿尔汉格尔斯克",
 			"jp": "アルハンゲリスク",
-			"kr": "Arkhangelsk"
+			"kr": "아르한겔스크"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -123007,13 +123007,13 @@
 			"code": "SN Soobrazitelny",
 			"cn": "灵敏",
 			"jp": "ソオブラジーテリヌイ",
-			"kr": "Soobrazitelny"
+			"kr": "소브라지텔니"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -123275,13 +123275,13 @@
 			"code": "SN Volga",
 			"cn": "伏尔加",
 			"jp": "ヴォルガ",
-			"kr": "Volga"
+			"kr": "볼가"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			0,
@@ -123549,13 +123549,13 @@
 			"code": "SN Kronshtadt",
 			"cn": "喀琅施塔得",
 			"jp": "クロンシュタット",
-			"kr": "Kronshtadt"
+			"kr": "크론시타트"
 		},
 		"exists": {
 			"en": true,
 			"cn": true,
 			"jp": true,
-			"kr": false
+			"kr": true
 		},
 		"hexagon": [
 			4,
@@ -128946,7 +128946,7 @@
 		"_code": 30001,
 		"names": {
 			"en": "Hiryu.META",
-			"code": "Hiryuu META",
+			"code": "Hiryu.META",
 			"cn": "飞龙·META",
 			"jp": "飛龍(META)",
 			"kr": "히류·META",
@@ -129181,7 +129181,7 @@
 		"_code": 30002,
 		"names": {
 			"en": "Royal.META",
-			"code": "Ark Royal META",
+			"code": "Ark Royal.META",
 			"cn": "皇家方舟·META",
 			"jp": "アーク・ロイヤル(META)",
 			"kr": "아크 로열·META",
@@ -129330,7 +129330,7 @@
 					"jp": "炬火の力-アーク・ロイヤルⅡ"
 				},
 				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: reduces the DMG your Vanguard takes by 3% (8%).",
-				"color": "gold"
+				"color": "deepskyblue"
 			}
 		],
 		"limitBreaks": [
@@ -129422,7 +129422,7 @@
 		"_code": 30003,
 		"names": {
 			"en": "Helena META",
-			"code": "Helena META",
+			"code": "Helena.META",
 			"cn": "海伦娜·META",
 			"jp": "ヘレナ(META)",
 			"kr": "헬레나·META"
@@ -129653,7 +129653,7 @@
 		"_code": 30004,
 		"names": {
 			"en": "Souryuu META",
-			"code": "Souryuu META",
+			"code": "Sōryū.META",
 			"cn": "苍龙·META",
 			"jp": "蒼龍(META)",
 			"kr": "소류·META"
@@ -129886,7 +129886,7 @@
 		"_code": 30005,
 		"names": {
 			"en": "Fusou META",
-			"code": "Fusou META",
+			"code": "Fuso.META",
 			"cn": "扶桑·META",
 			"jp": "扶桑(META)",
 			"kr": "후소·META",
