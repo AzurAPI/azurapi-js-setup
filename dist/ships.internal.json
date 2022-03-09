@@ -29545,7 +29545,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/d/d4/ChikumaOriginalChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": ""
+					"obtainedFrom": "Unobtainable"
 				}
 			}
 		],
@@ -122349,8 +122349,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/1/18/Skill_15170.png",
 				"names": {
 					"en": "Star-Studded Formation",
-					"cn": null,
-					"jp": null
+					"cn": "星罗棋布",
+					"jp": "星羅碁布"
 				},
 				"description": "Every 8s: fires a Lv.1 (10) special barrage (DMG is based on the skill's level). When 4 same-colored shots in a row from this barrage hit the same enemy, one of the following debuffs are inflicted: 1) if the shots were black, the enemy's SPD is decreased by 15.0% (30.0%) for 2s; 2) if the shots were white, the enemy's DMG dealt is decreased by 5.0% (15.0%) for 2s.",
 				"color": "pink"
@@ -122359,8 +122359,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/c/cf/Skill_15180.png",
 				"names": {
 					"en": "Cunning Stratagem",
-					"cn": null,
-					"jp": null
+					"cn": "诈谋奇计",
+					"jp": "奇謀詐策"
 				},
 				"description": "When this ship launches an Airstrike: launches an additional Lv.1 (10) special airstrike (DMG is based on the skill's level). If your fleet consists entirely of Dragon Empery ships: improves this special airstrike, and once every 20s, 1 randomly chosen ship in your fleet deals 1.0% (10.0%) increased DMG for 5s.",
 				"color": "pink"
@@ -122408,7 +122408,7 @@
 		"construction": {
 			"constructionTime": "02:00:00",
 			"availableIn": {
-				"light": "Only during Event: Happy Lunar New Year 2022",
+				"light": "Only during the \"Happy Lunar New Year 2022\" event",
 				"heavy": false,
 				"aviation": false,
 				"limited": false,
@@ -122416,7 +122416,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during \"Happy Lunar New Year 2022\" Event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Happy Lunar New Year 2022\" event",
 			"fromMaps": []
 		},
 		"misc": {
@@ -123698,8 +123698,7 @@
 		],
 		"limitBreaks": [
 			[
-				"Main gun efficiency +5%",
-				"Equips special secondary gun"
+				"Main gun efficiency +5%"
 			],
 			[
 				"Main gun base +1",
@@ -123748,7 +123747,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event. 50% Efficiency CL ghost gun",
 			"fromMaps": []
 		},
 		"misc": {
@@ -130702,8 +130701,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/6/62/Skill_800300.png",
 				"names": {
 					"en": "Stormchasing Spirit",
-					"cn": null,
-					"jp": null
+					"cn": "翱翔之翼",
+					"jp": "追襲・風切"
 				},
 				"description": "Every 20s: launches an additional Lv.1 (Lv.10) airstrike (DMG is based on the skill's level).",
 				"color": "pink"
@@ -130722,8 +130721,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/a/a9/Skill_800320.png",
 				"names": {
 					"en": "Reforged Bond",
-					"cn": null,
-					"jp": null
+					"cn": "待时而动",
+					"jp": "守勢・前縁"
 				},
 				"description": "When the battle starts, if this ship has Sakura Empire aircraft equipped: increases this ship's AVI by 4.5% (12%);  if not equipping any, instead increases this ship's AA and EVA by 4.5% (12%).",
 				"color": "deepskyblue"
@@ -130732,8 +130731,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/c/cd/Skill_800330.png",
 				"names": {
 					"en": "Ashen Might - Junyou",
-					"cn": null,
-					"jp": null
+					"cn": "破敌之炬·隼鹰",
+					"jp": "炬火の力-隼鷹"
 				},
 				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2% (6%).",
 				"color": "pink"
