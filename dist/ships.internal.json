@@ -17067,7 +17067,7 @@
 				"chibi": "https://azurlane.netojuu.com/w/images/thumb/b/bc/AyanamiCoCoChibi.png/111px-AyanamiCoCoChibi.png",
 				"info": {
 					"live2dModel": false,
-					"obtainedFrom": "Coco Ichibanya and Pasta de Coco Collab Skin Shop",
+					"obtainedFrom": "Skin Shop",
 					"enClient": "Grade A Sailor Uniform",
 					"cnClient": "一式水手风制服",
 					"jpClient": "壱式給仕海軍制服",
@@ -33124,7 +33124,7 @@
 					"\"Firepower\" -26",
 					"\"Reload\" -8",
 					"\"Anti-air\" +60",
-					"\"Aviation\"+131",
+					"\"Aviation\" +131",
 					"Main Gun Efficiency +20%",
 					"Main Gun Mount \"Firepower\" -1 Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
 					"Air Attack becomes available)",
@@ -33671,7 +33671,7 @@
 					"\"Firepower\" -26",
 					"\"Reload\" -8",
 					"\"Anti-air\" +60",
-					"\"Aviation\"+131",
+					"\"Aviation\" +131",
 					"Main Gun Efficiency +20%",
 					"Main Gun Mount \"Firepower\" -1 Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes",
 					"Air Attack becomes available)",
@@ -36766,7 +36766,7 @@
 			3,
 			2
 		],
-		"class": "Zuihou",
+		"class": "Shouhou",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/0/0f/ShouhouShipyardIcon.png",
@@ -93531,7 +93531,7 @@
 			3,
 			2
 		],
-		"class": "Ryuuhou",
+		"class": "Zuihou",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/b/bd/RyuuhouShipyardIcon.png",
@@ -105284,7 +105284,7 @@
 			3,
 			2
 		],
-		"class": "Chitose",
+		"class": "Zuihou",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/7/76/ChitoseShipyardIcon.png",
@@ -105539,7 +105539,7 @@
 			3,
 			2
 		],
-		"class": "Chitose",
+		"class": "Zuihou",
 		"nationality": "Sakura Empire",
 		"hullType": "Light Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/0/07/ChiyodaShipyardIcon.png",
@@ -121848,15 +121848,15 @@
 		"limitBreaks": [
 			[
 				"Unlock All Out Assault Ⅰ",
-				"Secondary gun efficiency +5%"
+				"Secondary Gun efficiency +5%"
 			],
 			[
-				"Secondary gun base +1",
-				"Secondary gun efficiency +10%"
+				"Secondary Gun base +1",
+				"Secondary Gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
-				"Secondary gun efficiency +15%"
+				"Upgrade All Out Assault I → II",
+				"Secondary Gun efficiency +15%"
 			]
 		],
 		"fleetTech": {
@@ -123698,7 +123698,8 @@
 		],
 		"limitBreaks": [
 			[
-				"Main gun efficiency +5%"
+				"Main gun efficiency +5%",
+				"Equips special secondary gun"
 			],
 			[
 				"Main gun base +1",
@@ -123747,7 +123748,7 @@
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event. 50% Efficiency CL ghost gun",
+			"obtainedFrom": "Available in Limited Construction during the \"Abyssal Refrain\" event.\n50% Efficiency CL ghost gun",
 			"fromMaps": []
 		},
 		"misc": {
@@ -148504,12 +148505,12 @@
 				"light": false,
 				"heavy": false,
 				"aviation": false,
-				"limited": "Only during event: Mirror Involution",
+				"limited": "Only during the \"Mirror Involution\" event",
 				"exchange": false
 			}
 		},
 		"obtainedFrom": {
-			"obtainedFrom": "Available during \"Mirror Involution\" event.",
+			"obtainedFrom": "Available in Limited Construction during the \"Mirror Involution\" event",
 			"fromMaps": []
 		},
 		"misc": {
@@ -158960,7 +158961,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +199,  Anti-air  +17",
+					"Health  +199,  Anti-air    +17",
 					"Max Torpedo Capacity +1",
 					"Pre-Loaded Torpedo +1"
 				]
@@ -158978,7 +158979,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +398,  Anti-air  +34",
+					"Health  +398,  Anti-air    +34",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -158993,7 +158994,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +596,  Anti-air  +51",
+					"Health  +596,  Anti-air    +51",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -159263,7 +159264,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +325,  Anti-air  +11",
+					"Health  +325,  Anti-air    +11",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -159280,7 +159281,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +651,  Anti-air  +21",
+					"Health  +651,  Anti-air    +21",
 					"Anti-Air Efficiency +10%"
 				]
 			},
@@ -159296,7 +159297,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +976,  Anti-air  +31",
+					"Health  +976,  Anti-air    +31",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -159600,7 +159601,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +201,  Anti-air  +9,  Evasion  +5",
+					"Health  +201,  Anti-air    +9,  Evasion  +5",
 					"",
 					"Max Torpedo Capacity +1",
 					"Pre-Loaded Torpedo +1"
@@ -159619,7 +159620,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +402,  Anti-air  +18",
+					"Health  +402,  Anti-air    +18",
 					"",
 					"Main Gun Efficiency +10%",
 					"Pre-Loaded Torpedo +1"
@@ -159636,7 +159637,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +603,  Anti-air  +26,  Evasion  +10",
+					"Health  +603,  Anti-air    +26,  Evasion  +10",
 					""
 				]
 			},
@@ -159958,7 +159959,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +347,  Anti-air  +11",
+					"Health  +347,  Anti-air    +11",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -159975,7 +159976,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +694,  Anti-air  +21",
+					"Health  +694,  Anti-air    +21",
 					"Anti-Air Efficiency +10%"
 				]
 			},
@@ -159991,7 +159992,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +1011,  Anti-air  +33",
+					"Health  +1011,  Anti-air    +33",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -160277,7 +160278,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +254,  Anti-air  +11,  Evasion  +5",
+					"Health  +254,  Anti-air    +11,  Evasion  +5",
 					"Main Gun Mount +1"
 				]
 			},
@@ -160294,7 +160295,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +508,  Anti-air  +21",
+					"Health  +508,  Anti-air    +21",
 					"",
 					"Main Gun Efficiency +10%"
 				]
@@ -160310,7 +160311,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +761,  Anti-air  +32,  Evasion  +10",
+					"Health  +761,  Anti-air    +32,  Evasion  +10",
 					""
 				]
 			},
@@ -160618,7 +160619,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +230,  Anti-air  +11,  Evasion  +5",
+					"Health  +230,  Anti-air    +11,  Evasion  +5",
 					"",
 					"Main Gun Mount +1"
 				]
@@ -160636,7 +160637,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +460,  Anti-air  +23",
+					"Health  +460,  Anti-air    +23",
 					"",
 					"Main Gun Efficiency +10%"
 				]
@@ -160652,7 +160653,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +690,  Anti-air  +34,  Evasion  +10",
+					"Health  +690,  Anti-air    +34,  Evasion  +10",
 					""
 				]
 			},
@@ -160954,7 +160955,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +225,  Anti-air  +17",
+					"Health  +225,  Anti-air    +17",
 					"Main Gun Mount +1"
 				]
 			},
@@ -160971,7 +160972,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +451,  Anti-air  +34",
+					"Health  +451,  Anti-air    +34",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -160987,7 +160988,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +677,  Anti-air  +51",
+					"Health  +677,  Anti-air    +51",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -161299,7 +161300,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +356,  Anti-air  +19",
+					"Health  +356,  Anti-air    +19",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -161316,7 +161317,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +711,  Anti-air  +39",
+					"Health  +711,  Anti-air    +39",
 					"Anti-Air Gun Efficiency +10%"
 				]
 			},
@@ -161332,7 +161333,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +1068,  Anti-air  +58",
+					"Health  +1068,  Anti-air    +58",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -161649,7 +161650,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +111,  Anti-air  +9",
+					"Health  +111,  Anti-air    +9",
 					"Main Gun Mount +1"
 				]
 			},
@@ -161666,7 +161667,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +221,  Anti-air  +18",
+					"Health  +221,  Anti-air    +18",
 					"Main Gun Efficiency +10%",
 					"Pre-Loaded Torpedo +1"
 				]
@@ -161682,7 +161683,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +333,  Anti-air  +27"
+					"Health  +333,  Anti-air    +27"
 				]
 			},
 			{
@@ -161973,7 +161974,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +315,  Anti-air  +10",
+					"Health  +315,  Anti-air    +10",
 					"Main Gun Mount +1",
 					"Main Gun Efficiency +5%"
 				]
@@ -161990,7 +161991,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +629,  Anti-air  +21",
+					"Health  +629,  Anti-air    +21",
 					"Anti-Air Gun Efficiency +10%"
 				]
 			},
@@ -162005,7 +162006,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +945,  Anti-air  +31,  Evasion  +5",
+					"Health  +945,  Anti-air    +31,  Evasion  +5",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -162301,7 +162302,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +400,  Anti-air  +11",
+					"Health  +400,  Anti-air    +11",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -162318,7 +162319,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +797,  Anti-air  +22",
+					"Health  +797,  Anti-air    +22",
 					"Anti-Air Gun Efficiency +10%"
 				]
 			},
@@ -162334,7 +162335,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +1195,  Anti-air  +33",
+					"Health  +1195,  Anti-air    +33",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -162638,7 +162639,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +325,  Anti-air  +11",
+					"Health  +325,  Anti-air    +11",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -162654,7 +162655,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +651,  Anti-air  +22",
+					"Health  +651,  Anti-air    +22",
 					"Anti-Air Gun Efficiency +10%"
 				]
 			},
@@ -162670,7 +162671,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +976,  Anti-air  +33",
+					"Health  +976,  Anti-air    +33",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -162977,7 +162978,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +217,  Anti-air  +19,  Evasion  +5",
+					"Health  +217,  Anti-air    +19,  Evasion  +5",
 					"Anti-Air Gun +1"
 				]
 			},
@@ -162993,7 +162994,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +433,  Anti-air  +39",
+					"Health  +433,  Anti-air    +39",
 					"Main Gun Efficiency +10%"
 				]
 			},
@@ -163008,7 +163009,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +649,  Anti-air  +58,  Evasion  +10"
+					"Health  +649,  Anti-air    +58,  Evasion  +10"
 				]
 			},
 			{
@@ -163336,7 +163337,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +237,  Anti-air  +13,  Evasion  +5",
+					"Health  +237,  Anti-air    +13,  Evasion  +5",
 					"",
 					"Main Gun Mount +1"
 				]
@@ -163353,7 +163354,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +473,  Anti-air  +27",
+					"Health  +473,  Anti-air    +27",
 					"",
 					"Main Gun Efficiency +10%",
 					"",
@@ -163371,7 +163372,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +710,  Anti-air  +40,  Evasion  +10",
+					"Health  +710,  Anti-air    +40,  Evasion  +10",
 					""
 				]
 			},
@@ -163654,7 +163655,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +226,  Anti-air  +17",
+					"Health  +226,  Anti-air    +17",
 					"",
 					"Main Gun Mount +1"
 				]
@@ -163671,7 +163672,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +451,  Anti-air  +33",
+					"Health  +451,  Anti-air    +33",
 					"",
 					"Main Gun Efficiency +10%",
 					"Pre-Loaded Torpedo +1",
@@ -163689,7 +163690,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +677,  Anti-air  +49",
+					"Health  +677,  Anti-air    +49",
 					""
 				]
 			},
@@ -163944,7 +163945,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +289,  Anti-air  +16",
+					"Health  +289,  Anti-air    +16",
 					"",
 					"Main Gun Efficiency +5%"
 				]
@@ -163963,7 +163964,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +579,  Anti-air  +31",
+					"Health  +579,  Anti-air    +31",
 					"",
 					"Anti-Air Gun Efficiency +10%"
 				]
@@ -163979,7 +163980,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +868,  Anti-air  +47",
+					"Health  +868,  Anti-air    +47",
 					"",
 					"Main Gun Efficiency +5%"
 				]
@@ -164253,7 +164254,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +285,  Anti-air  +11",
+					"Health  +285,  Anti-air    +11",
 					"Main Gun Efficiency +5%",
 					"Pre-Loaded Main Gun +1"
 				]
@@ -164269,7 +164270,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +571,  Anti-air  +22",
+					"Health  +571,  Anti-air    +22",
 					"Anti-Air Efficiency +10%"
 				]
 			},
@@ -164285,7 +164286,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +856,  Anti-air  +33",
+					"Health  +856,  Anti-air    +33",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -164555,7 +164556,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +268,  Anti-air  +10,  Evasion  +5",
+					"Health  +268,  Anti-air    +10,  Evasion  +5",
 					"Main Gun Mount +1"
 				]
 			},
@@ -164573,7 +164574,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +537,  Anti-air  +21",
+					"Health  +537,  Anti-air    +21",
 					"Main Gun Efficiency +10%"
 				]
 			},
@@ -164588,7 +164589,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +805,  Anti-air  +31,  Evasion  +10"
+					"Health  +805,  Anti-air    +31,  Evasion  +10"
 				]
 			},
 			{
@@ -164865,7 +164866,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +346,  Anti-air  +15",
+					"Health  +346,  Anti-air    +15",
 					"Slot 1 Efficiency +5%",
 					"Slot 1 Plane +1"
 				]
@@ -164883,7 +164884,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +691,  Anti-air  +30",
+					"Health  +691,  Anti-air    +30",
 					"Slot 2 Efficiency +10%",
 					"Slot 2 Plane +2"
 				]
@@ -164900,7 +164901,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +1037,  Anti-air  +45",
+					"Health  +1037,  Anti-air    +45",
 					"Slot 3 Efficiency +5%",
 					"Number of All Planes +1"
 				]
@@ -165183,7 +165184,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +338,  Anti-air  +12",
+					"Health  +338,  Anti-air    +12",
 					"Main Gun Efficiency +5%",
 					"Main Gun Mount +1"
 				]
@@ -165202,7 +165203,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +675,  Anti-air  +23",
+					"Health  +675,  Anti-air    +23",
 					"Anti-Air Gun Efficiency +10%",
 					"Pre-Loaded Torpedo +1"
 				]
@@ -165218,7 +165219,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +1014,  Anti-air  +34,  Evasion  +5",
+					"Health  +1014,  Anti-air    +34,  Evasion  +5",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -165490,7 +165491,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +310,  Anti-air  +15",
+					"Health  +310,  Anti-air    +15",
 					"Fighters Efficiency +5%",
 					"Number of Dive Bombers +1"
 				]
@@ -165507,7 +165508,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +621,  Anti-air  +30",
+					"Health  +621,  Anti-air    +30",
 					"Torpedo Bombers Efficiency +10%",
 					"Number of Torpedo Bombers +1"
 				]
@@ -165524,7 +165525,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +931,  Anti-air  +46",
+					"Health  +931,  Anti-air    +46",
 					"Fighters Efficiency +5%",
 					"Number of All Planes +1"
 				]
@@ -165813,7 +165814,7 @@
 			{
 				"level": "5",
 				"buffs": [
-					"Health  +341,  Anti-air  +12",
+					"Health  +341,  Anti-air    +12",
 					"Main Gun Efficiency +5%"
 				]
 			},
@@ -165830,7 +165831,7 @@
 			{
 				"level": "15",
 				"buffs": [
-					"Health  +68,  Anti-air  +24",
+					"Health  +68,  Anti-air    +24",
 					"Anti-Air Efficiency +10%"
 				]
 			},
@@ -165846,7 +165847,7 @@
 			{
 				"level": "25",
 				"buffs": [
-					"Health  +1032,  Anti-air  +35",
+					"Health  +1032,  Anti-air    +35",
 					"Main Gun Efficiency +5%"
 				]
 			},
