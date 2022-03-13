@@ -117,6 +117,8 @@ export async function parseShip(id: string, name: string, body: string, url: str
     ship.nationality = referenceShip.unreleased ? referenceShip.nationality : NATIONALITY[referenceShip.nationality];
     referenceShip.type = tableInfo.Classification === "Munition Ship" ? 19 : referenceShip.type;
     ship.hullType = referenceShip.unreleased ? referenceShip.type : types[referenceShip.type].en;
+    if(tableInfo.Classification === "Submarine Carrier") ship.hullType = "Submarine Carrier"
+    
     if (!ship.class) ship.class = ship.names.en;
     if (doc.querySelectorAll("#mw-content-text .mw-parser-output > div").length < 2) {
         let images = doc.getElementsByTagName("img");
