@@ -81386,7 +81386,7 @@
 		],
 		"class": "Type AM",
 		"nationality": "Sakura Empire",
-		"hullType": "Submarine",
+		"hullType": "Submarine Carrier",
 		"thumbnail": "https://azurlane.netojuu.com/w/images/a/a3/I-13ShipyardIcon.png",
 		"rarity": "Super Rare",
 		"stars": 6,
@@ -161936,7 +161936,7 @@
 					"cn": "战场嗅觉+",
 					"jp": "ミズホの直感+"
 				},
-				"description": "Every 20s: 50% (100%) chance to increase own Evasion by 15% (25%) and Accuracy by 20% (50%), and decreases this ship's torpedo DMG taken by 5% (15%) for 12s. (Replaces \"Mizuho's Intuition\")",
+				"description": "Every 20s: 50% (100%) chance to increase own Evasion by 15% (25%) and Accuracy by 20% (50%), and decreases this ship's torpedo DMG taken by 5% (15%) for 12s. (Replaces \"Mizuho's Intuition at Fate Simulation III\")",
 				"color": "deepskyblue"
 			},
 			{
