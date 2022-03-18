@@ -73768,7 +73768,7 @@
 					"cn": "绝对回避",
 					"jp": "絶対回避"
 				},
-				"description": "If there are four or more Eagle Union ships in your fleet (including this ship), then whenever any ship in your fleet takes aviation damage, 4.5% (12%) chance to reduce that instance of damage to 1. (This skill does not affect end-screen damage.)",
+				"description": "If there are four or more Eagle Union ships in your fleet (including this ship), then whenever any ship in your fleet takes aviation damageIn game description specifies torpedo bombers and dive bombersaviation damage[a], 4.5% (12%) chance to reduce that instance of damage to 1. (This skill does not affect end-screen damage.)",
 				"color": "deepskyblue"
 			}
 		],
@@ -92627,11 +92627,11 @@
 		],
 		"_code": 424,
 		"names": {
-			"en": "Kasumi Retrofit",
 			"code": "IJN Kasumi",
-			"cn": "霞.改",
-			"jp": "霞改",
-			"kr": "카스미·改",
+			"en": "Kasumi",
+			"cn": "霞",
+			"jp": "霞",
+			"kr": "카스미",
 			"tw": "霞"
 		},
 		"exists": {
@@ -130802,6 +130802,237 @@
 				"image": "https://azurlane.netojuu.com/w/images/thumb/0/09/Junyou_META.png/618px-Junyou_META.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/2/25/Junyou_METAChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"30009": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Scharnhorst_META",
+		"id": "30009",
+		"_gid": 970402,
+		"_sid": [
+			9704021,
+			9704022,
+			9704023,
+			9704024
+		],
+		"_code": 30009,
+		"names": {
+			"en": "Scharnhorst META",
+			"code": "Scharnhorst.META",
+			"cn": "沙恩霍斯特·META",
+			"jp": "シャルンホルスト(META)",
+			"kr": "Scharnhorst META"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			2,
+			0,
+			1,
+			2,
+			4
+		],
+		"class": "Scharnhorst META",
+		"nationality": "META",
+		"hullType": "Battlecruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/6/60/Scharnhorst_METAShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1288",
+				"armor": "Medium",
+				"reload": "60",
+				"luck": "43",
+				"firepower": "69",
+				"torpedo": "32",
+				"evasion": "6",
+				"speed": "31",
+				"antiair": "54",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "16",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "7019",
+				"armor": "Medium",
+				"reload": "155",
+				"luck": "43",
+				"firepower": "348",
+				"torpedo": "165",
+				"evasion": "30",
+				"speed": "31",
+				"antiair": "272",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "59",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7489",
+				"armor": "Medium",
+				"reload": "164",
+				"luck": "43",
+				"firepower": "367",
+				"torpedo": "174",
+				"evasion": "34",
+				"speed": "31",
+				"antiair": "287",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "64",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7607",
+				"armor": "Medium",
+				"reload": "166",
+				"luck": "43",
+				"firepower": "372",
+				"torpedo": "177",
+				"evasion": "35",
+				"speed": "31",
+				"antiair": "291",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "65",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 100,
+				"type": "BB Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 150,
+				"minEfficiency": 150,
+				"type": "Torpedoes",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 120,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": null,
+		"scrapValue": null,
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c7/Skill_800340.png",
+				"names": {
+					"en": "Dual Snipe",
+					"cn": "双重狙击",
+					"jp": "二手の狙撃"
+				},
+				"description": "Every 15s: fires two Lv.1 (Lv.10) precise shots, inflicting a special Armor Break status on enemies hit for 10s (DMG is based on this skill's level); When an enemy enters the defensive range, triggers a Lv.1 (Lv.10) barrage with a 5s cooldown (DMG is based on this skill's level).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c3/Skill_800350.png",
+				"names": {
+					"en": "Blazing Blitz",
+					"cn": "雷闪炎舞",
+					"jp": "雷閃のフランメ"
+				},
+				"description": "Increases the range of torpedoes equipped to this ship to 125 and improves the spread pattern; When this ship fires her torpedoes: 50% (100%) chance to perform an additional Lv.1 (Lv.10) barrage (DMG is based on this skill's level).",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/8/87/Skill_800360.png",
+				"names": {
+					"en": "Iron Embers",
+					"cn": "钢火战烬",
+					"jp": "鋼燃のアッシェ"
+				},
+				"description": "Increases TRP and AA by 10%; At the start of the battle, if there are other Iron Blood or META ships in the same fleet as this ship: this ship takes 5% less DMG and gains 4.5% (12%) FP; If this condition is not met: 15s after the battle starts, instead generates a shield for the front-most ship of the Vanguard Fleet that can block up to 10 shots.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/d/da/Skill_800370.png",
+				"names": {
+					"en": "Ashen Might - Scharnhorst",
+					"cn": "破敌之炬·沙恩霍斯特",
+					"jp": "炬火の力-シャルンホルスト"
+				},
+				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's FP and ACC by 5% (8%).",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock Ashen Might - Scharnhorst I",
+				"Main Gun base +1",
+				"Main Gun efficiency +5%"
+			],
+			[
+				"Unlock Special Secondary Guns",
+				"Main Gun efficiency +10%"
+			],
+			[
+				"Upgrade Ashen Might - Scharnhorst I → II",
+				"Main Gun base +1",
+				"Main Gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Ayaka Fukuhara",
+				"url": "https://en.wikipedia.org/wiki/Ayaka_Fukuhara"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/1/17/Scharnhorst_META.png/437px-Scharnhorst_META.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/b/b4/Scharnhorst_METAChibi.png",
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
