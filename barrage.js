@@ -149,13 +149,13 @@ async function verifyFile(url, localPath) {
     if (PATH_SIZE[url]) correctSize = PATH_SIZE[url];
     else {
         PATH_SIZE[url] = correctSize = parseInt((await head(url)).res.headers['content-length']);
-        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
+        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE));
     }
     if (fs.statSync(localPath)["size"] === correctSize) return true;
     else {
         console.log("File Corrupted: " + localPath);
         delete PATH_SIZE[url];
-        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE, null, '\t'));
+        fs.writeFileSync('./path-sizes.json', JSON.stringify(PATH_SIZE));
         return false;
     }
 }
