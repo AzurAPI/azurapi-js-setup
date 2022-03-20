@@ -165397,7 +165397,7 @@
 					"cn": "噬啮之颚",
 					"jp": "噛み砕く魔神の顎"
 				},
-				"description": "When this ship fires its main gun, if there are no enemies nearby, inflict Armor Break to all enemies hit by the main gun shells. Once every 8 times this ship fires its main gun, fire a special barrage (damage scales with skill level). If this ship is equipped with a high-caliber main gun (280mm or higher), fire this barrage every 4 times the ship fires its main guns instead of 8.",
+				"description": "When this ship fires its main gun, if there are no enemies nearby(range 35), inflict Armor Break to all enemies hit by the main gun shells. Once every 8 times this ship fires its main gun, fire a special barrage (damage scales with skill level). If this ship is equipped with a high-caliber main gun (280mm or higher), fire this barrage every 4 times the ship fires its main guns instead of 8.",
 				"color": "pink"
 			},
 			{
