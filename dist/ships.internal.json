@@ -80122,7 +80122,7 @@
 			{
 				"icon": "https://azurlane.netojuu.com/w/images/0/02/Skill_11910.png",
 				"names": {
-					"en": "Eagle Sky",
+					"en": "Patriotic Spirit",
 					"cn": "鹰击长空",
 					"jp": "大空を撃つ白鷹"
 				},
@@ -129100,6 +129100,7 @@
 		],
 		"limitBreaks": [
 			[
+				"Learn skill Ashen Might",
 				"Number of Torpedo Bombers +1",
 				"Torpedo Bomber Efficiency +5%"
 			],
@@ -129109,6 +129110,7 @@
 				"Torpedo Bomber Efficiency +10%"
 			],
 			[
+				"Improve skill Ashen Might",
 				"Number of All Planes +1",
 				"Torpedo Bomber Efficiency +15%"
 			]
@@ -129988,8 +129990,8 @@
 				"max": 3
 			},
 			{
-				"maxEfficiency": 85,
-				"minEfficiency": 85,
+				"maxEfficiency": 80,
+				"minEfficiency": 80,
 				"type": "Anti-Air Guns",
 				"max": 1
 			}
@@ -130001,8 +130003,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/a/aa/Skill_800170.png",
 				"names": {
 					"en": "Cinderflame Curse",
-					"cn": null,
-					"jp": null
+					"cn": "烬火之咒",
+					"jp": "燃ゆる残灰のノリト"
 				},
 				"description": "When this ship fires her Main Guns: fires a special barrage (DMG is based on this skill's level). Enemies hit by this barrage are inflicted with \"Cinderflame Curse\" and take 41 damage per second for 10s.",
 				"color": "pink"
@@ -130011,8 +130013,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/2/2f/Skill_800180.png",
 				"names": {
 					"en": "The Butterfly's Last Gasp",
-					"cn": null,
-					"jp": null
+					"cn": "幽蝶终归海",
+					"jp": "漂う残響のコトバ"
 				},
 				"description": "For the first 3 battles of each sortie that the fleet this ship is in is deployed: every 20s, fires a special barrage (DMG is based on this skill's level); For the 4th and 5th battles of each sortie that the fleet this ship is NOT in is deployed: every 20s, fires a special barrage as long as this ship is still afloat (DMG is based on this skill's level).",
 				"color": "gold"
@@ -130021,8 +130023,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/c/cc/Skill_800190.png",
 				"names": {
 					"en": "Echoes of Annihilation - Fusou",
-					"cn": null,
-					"jp": null
+					"cn": "清算-魟",
+					"jp": "燼滅の迴響-扶桑"
 				},
 				"description": "During battle, increases this ship's AA by 5% (15.0%) and RLD by 1.0% (10.0%); when the \"Cinderflame Curse\" status expires, all enemies affected by that status take one additional instance of that special Burn DMG (DMG is based on this ship's FP); Every time allies defeat an enemy affected by \"Cinderflame Curse\": increases this ship's FP by 4.0% until the end of battle, stacking up to 3 times; At max stacks, this ship deals 5.0% more DMG to enemies until the end of battle",
 				"color": "pink"
@@ -130031,8 +130033,8 @@
 				"icon": "https://azurlane.netojuu.com/w/images/e/ec/Skill_800200.png",
 				"names": {
 					"en": "Ashen Might - Fusou",
-					"cn": null,
-					"jp": null
+					"cn": "破敌之炬·魟",
+					"jp": "炬火の力-扶桑"
 				},
 				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: reduces the DMG taken by your Vanguard by 2% (6%)",
 				"color": "deepskyblue"
@@ -130040,6 +130042,7 @@
 		],
 		"limitBreaks": [
 			[
+				"Learn skill Ashen Might",
 				"Main Gun Mount +1",
 				"Main Gun Efficiency +5%"
 			],
@@ -130048,6 +130051,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
+				"Improve skill Ashen Might",
 				"Main Gun Mount +1",
 				"Main Gun Efficiency +15%"
 			]
