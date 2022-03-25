@@ -1,7 +1,33 @@
 import {JSDOM} from "jsdom";
 import path from "path";
-import {BASE, camelize, fetch, galleryThumbnailUrlToActualUrl} from "../utils";
-import {GalleryItem, Skin, SkinInfo} from "./ship";
+import {BASE, camelize, fetch, galleryThumbnailUrlToActualUrl, keepIfInEnum} from "../utils";
+import {GalleryItem, Skin, SkinInfo, SkinLimitedStatus} from "./ship";
+
+const ClientSkinNameHeaders = Object.freeze<Record<string,string>>({
+    'enClient': 'enLimited',
+    'cnClient': 'cnLimited',
+    'jpClient': 'jpLimited'
+})
+
+const handleLtdSkin = (row: Element): { clientSkinName: string, clientSkinLtd: string | undefined } => {
+    const [clientNameElement, clientLtdElement] = row.getElementsByTagName("td")
+    
+    const clientSkinName = clientNameElement.textContent.trim();
+    if (clientSkinName === 'skin unavailable') {
+        // i.e. https://azurlane.koumakan.jp/wiki/Rodney/Gallery#One_Day_as_a_Trainee_Clerk-0
+        return {
+            clientSkinName,
+            clientSkinLtd: SkinLimitedStatus.Unavailable // Can't leave 'undefined' because regular skins also have this field undefined.
+        }
+    }
+    const clientSkinLtd: string | undefined = clientLtdElement ? clientLtdElement.textContent.trim() : undefined;
+
+    if (keepIfInEnum(clientSkinLtd, SkinLimitedStatus)) {
+        return { clientSkinName, clientSkinLtd }
+    }
+    // Skin limit is not known to us - throw up.
+    throw new Error(clientSkinName)
+}
 
 export async function fetchGallery(name: string, url: string): Promise<{ skins: Skin[], gallery: GalleryItem[] }> {
     let skins: Skin[] = [];
@@ -20,9 +46,24 @@ export async function fetchGallery(name: string, url: string): Promise<{ skins: 
         tab.querySelectorAll(".shipskin-table tr").forEach(row => {
             let key = camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim());
             let value: any = row.getElementsByTagName("td")[0].textContent.trim();
+            
             if (key === "live2dModel") value = (value === "Yes");
             if (key === "cost") value = parseInt(value);
-            // @ts-ignore
+
+            if (ClientSkinNameHeaders[key]) {
+                // Because skins have different names on different clients, 
+                // each skin's Gallery page has a row for their localized name.
+                // Next to that is the availability in that client.
+                try {
+                    const {clientSkinLtd, clientSkinName} = handleLtdSkin(row)
+                    info[key] = clientSkinName
+                    info[ClientSkinNameHeaders[key]] = clientSkinLtd
+                    return
+                } catch(err) {
+                    console.error("Error finding limited-skin info for ship: %s Skin: %s", name, err.message)
+                }
+            }
+
             return info[key] = value;
         });
         skins.push({

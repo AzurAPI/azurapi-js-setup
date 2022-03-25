@@ -129,3 +129,15 @@ export function timeout(ms: number): Promise<void> {
 export function textOr(node: Node, other: string) {
     return node ? node.textContent : other;
 }
+// No Shame
+// https://stackoverflow.com/a/64123628
+export function keepIfInEnum<T>(
+    value: string,
+    enumObject: { [key: string]: T }
+  ) {
+    if (Object.values(enumObject).includes((value as unknown) as T)) {
+      return (value as unknown) as T;
+    } else {
+      return undefined;
+    }
+  }

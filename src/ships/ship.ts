@@ -126,16 +126,26 @@ export type Skill = {
     description: string;
     color: string;
 }
+export enum SkinLimitedStatus {
+    Unavailable = 'Unavailable',
+    EventLimited = 'Event Limited',
+    PermanentlyAvailable = 'Permanently Available',
+    Limited = 'Limited'
+};
 
-export type SkinInfo = {
+type SkinLimitedValue = `${SkinLimitedStatus}`
+export interface SkinInfo extends  Record<string, string| number| boolean> {
     enClient?: string;
     cnClient?: string;
     jpClient?: string;
+    enLimited?: SkinLimitedValue;
+    cnLimited?: SkinLimitedValue;
+    jpLimited?: SkinLimitedValue;
     cost?: number;
     obtainedFrom: string;
     live2dModel: boolean;
-};
 
+};
 export interface Skin {
     name: string;
     chibi: Url;
