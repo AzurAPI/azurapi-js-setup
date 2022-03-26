@@ -1,46 +1,48 @@
 {
-    "name": "azurapi-js-setup",
-    "version": "1.0.0",
-    "description": "Setup for azurapi-js",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "ships": "node build/index.js ships reset web refresh img publish",
-        "ships_nw": "node build/index.js ships reset refresh",
-        "publish": "node build/index.js ships publish",
-        "images": "node build/index.js ships img",
-        "eq": "node build/index.js equipments reset refresh img publish",
-        "chapters": "node build/index.js chapters refresh"
-    },
-    "author": "",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/AzurAPI/azurapi-js-setup.git"
-    },
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/AzurAPI/azurapi-js-setup/issues"
-    },
-    "homepage": "https://github.com/AzurAPI/azurapi-js-setup#readme",
-    "dependencies": {
-        "class-transformer": "^0.4.0",
-        "cli-progress": "^3.8.2",
-        "fromentries": "^1.3.2",
-        "infobox-parser": "^3.4.1",
-        "jsdom": "^16.2.2",
-        "kuroshiro": "^1.2.0",
-        "kuroshiro-analyzer-kuromoji": "^1.1.0",
-        "moment": "^2.27.0",
-        "node-fetch": "^2.6.7",
-        "reflect-metadata": "^0.1.13",
-        "request": "^2.88.2",
-        "utf8": "^3.0.0"
-    },
-    "devDependencies": {
-        "@types/cli-progress": "^3.9.0",
-        "@types/jsdom": "^16.2.6",
-        "@types/node": "^14.14.31",
-        "@types/node-fetch": "^2.5.8",
-        "typescript": "^4.1.5"
-    }
+  "name": "azurapi-js-setup",
+  "version": "1.0.0",
+  "description": "Setup for azurapi-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ships": "node build/index.js ships reset web refresh img publish",
+    "ships_nw": "node build/index.js ships reset refresh",
+    "publish": "node build/index.js ships publish",
+    "images": "node build/index.js ships img",
+    "eq": "node build/index.js equipments reset refresh img publish",
+    "chapters": "node build/index.js chapters refresh",
+    "format": "prettier -w ."
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzurAPI/azurapi-js-setup.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzurAPI/azurapi-js-setup/issues"
+  },
+  "homepage": "https://github.com/AzurAPI/azurapi-js-setup#readme",
+  "dependencies": {
+    "class-transformer": "^0.4.0",
+    "cli-progress": "^3.8.2",
+    "fromentries": "^1.3.2",
+    "infobox-parser": "^3.4.1",
+    "jsdom": "^16.2.2",
+    "kuroshiro": "^1.2.0",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.7",
+    "prettier": "^2.6.1",
+    "reflect-metadata": "^0.1.13",
+    "request": "^2.88.2",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/cli-progress": "^3.9.0",
+    "@types/jsdom": "^16.2.6",
+    "@types/node": "^14.14.31",
+    "@types/node-fetch": "^2.5.8",
+    "typescript": "^4.1.5"
+  }
 }
