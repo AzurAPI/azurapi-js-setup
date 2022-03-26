@@ -12,10 +12,10 @@ Setup for [azurapi-js](https://www.npmjs.com/package/@azurapi/azurapi)
 
 - Fetch `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/version-info.json`. `application/json`
 - Check respective version numbers from `ships`/`equipments`.
-    - Example: `ships['version-number']`
+  - Example: `ships['version-number']`
 - If it is greater than the version number on your local copy. You need to update from either
-    - `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json`
-    - `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/equipments.json`
+  - `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json`
+  - `https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/equipments.json`
 - Overwrite your local copy, and reload it into your program
   ### Cloning
 - Clone this repository
@@ -43,15 +43,56 @@ azurlane.publishEQ();
 
 ```typescript
 export type Url = string;
-export type Stat = 'health' | 'armor' | 'reload' | 'luck' | 'firepower' | 'torpedo' | 'evasion' | 'speed' | 'antiair'
-        | 'aviation' | 'oilConsumption' | 'accuracy' | 'antisubmarineWarfare' | 'oxygen' | 'ammunition' | 'huntingRange';
-export const isStat = (str: string) => ['health', 'armor', 'reload', 'luck', 'firepower', 'torpedo', 'evasion', 'speed', 'antiair'
-  , 'aviation', 'oilConsumption', 'accuracy', 'antisubmarineWarfare', 'oxygen', 'ammunition', 'huntingRange'].includes(str);
+export type Stat =
+  | "health"
+  | "armor"
+  | "reload"
+  | "luck"
+  | "firepower"
+  | "torpedo"
+  | "evasion"
+  | "speed"
+  | "antiair"
+  | "aviation"
+  | "oilConsumption"
+  | "accuracy"
+  | "antisubmarineWarfare"
+  | "oxygen"
+  | "ammunition"
+  | "huntingRange";
+export const isStat = (str: string) =>
+  [
+    "health",
+    "armor",
+    "reload",
+    "luck",
+    "firepower",
+    "torpedo",
+    "evasion",
+    "speed",
+    "antiair",
+    "aviation",
+    "oilConsumption",
+    "accuracy",
+    "antisubmarineWarfare",
+    "oxygen",
+    "ammunition",
+    "huntingRange",
+  ].includes(str);
 export type ShipID = string;
-export type Rarity = 'Normal' | 'Rare' | 'Epic' | 'Super Rare' | 'Ultra Rare' | 'Priority' | 'Decisive' | 'Unreleased';
+export type Rarity =
+  | "Normal"
+  | "Rare"
+  | "Epic"
+  | "Super Rare"
+  | "Ultra Rare"
+  | "Priority"
+  | "Decisive"
+  | "Unreleased";
 export type LimitBreak = string[];
 
-export type ShipNames = {            // Ship's name
+export type ShipNames = {
+  // Ship's name
   code: string;
   en: string;
   cn: string;
@@ -67,7 +108,8 @@ export type ShipStats = {
   level120Retrofit?: Stats;
 };
 
-export type FleetTech = {                            // fleet tech stuff
+export type FleetTech = {
+  // fleet tech stuff
   statsBonus: {
     collection?: Bonus;
     maxLevel?: Bonus;
@@ -81,22 +123,22 @@ export type FleetTech = {                            // fleet tech stuff
 };
 
 export class Ship {
-  wikiUrl: Url;    // An valid, full url to its wiki page
-  id: ShipID;         // ID of ship, provided by the wiki (not in game id)
+  wikiUrl: Url; // An valid, full url to its wiki page
+  id: ShipID; // ID of ship, provided by the wiki (not in game id)
   names: ShipNames;
   thumbnail: Url;
   hexagon: [number, number, number, number, number, number];
-  class: string;      // Ship's class
-  nationality: string;// Ship's nationality
-  hullType: string;   // Ship type (Destroyer etc)
-  rarity: Rarity;     // Super Rare, hopefully
+  class: string; // Ship's class
+  nationality: string; // Ship's nationality
+  hullType: string; // Ship type (Destroyer etc)
+  rarity: Rarity; // Super Rare, hopefully
   stars: {
     stars: string;
     value: number;
   };
   stats: ShipStats;
   slots: [Slot, Slot, Slot];
-  enhanceValue: { firepower: number, torpedo: number, aviation: number, reload: number };
+  enhanceValue: { firepower: number; torpedo: number; aviation: number; reload: number };
   scrapValue: {
     coin: number;
     oil: number;
@@ -105,13 +147,13 @@ export class Ship {
   skills: Skill[];
   skins: Skin[];
   gallery: GalleryItem[];
-  limitBreaks: LimitBreak[];      // first layer = breaks, second layer = bonus
-  devLevels: DevLevel[]
+  limitBreaks: LimitBreak[]; // first layer = breaks, second layer = bonus
+  devLevels: DevLevel[];
   fleetTech: FleetTech;
   unreleased?: boolean;
-  retrofit: boolean;                              // if the ship is retrofittable
-  retrofitId: string;                             // the id after retrofit
-  retrofitHullType: string;                       // if the ship changes type
+  retrofit: boolean; // if the ship is retrofittable
+  retrofitId: string; // the id after retrofit
+  retrofitHullType: string; // if the ship changes type
   retrofitProjects: { [id: string]: RetrofitProject };
   construction: {
     constructionTime: string;
@@ -124,8 +166,8 @@ export class Ship {
     };
   };
   obtainedFrom: {
-    obtainedFrom?: string;       // source, etc "Available in Medal Exchange for \"Medal\" 80."
-    fromMaps: string[];    // map ids, etc "1-1" "10-2"
+    obtainedFrom?: string; // source, etc "Available in Medal Exchange for \"Medal\" 80."
+    fromMaps: string[]; // map ids, etc "1-1" "10-2"
   };
   misc: {
     artist?: Artist;
@@ -136,12 +178,12 @@ export class Ship {
   };
 }
 
-export type Bonus = {                  // on collection
-  applicable: string[];  // applicable ship types (i.e. Destroyer)
-  stat: Stat;                 // name of stat to enhance
-  bonus: string;              // human-readable version of how much to enhance
+export type Bonus = {
+  // on collection
+  applicable: string[]; // applicable ship types (i.e. Destroyer)
+  stat: Stat; // name of stat to enhance
+  bonus: string; // human-readable version of how much to enhance
 };
-
 
 export type Stats = {
   [k in Stat]?: string;
@@ -152,7 +194,7 @@ export type Slot = {
   kaiEfficiency?: number;
   minEfficiency: number;
   maxEfficiency: number;
-}
+};
 
 export type Skill = {
   icon: Url;
@@ -163,7 +205,7 @@ export type Skill = {
   };
   description: string;
   color: string;
-}
+};
 
 export type SkinInfo = {
   enClient?: string;
@@ -186,14 +228,14 @@ export interface Skin {
 }
 
 export type GalleryItem = {
-  description: string;    // self-explanatory
-  url: Url;            // the image url
-}
+  description: string; // self-explanatory
+  url: Url; // the image url
+};
 
 export type Artist = {
   name: string;
   url: Url;
-}
+};
 
 export type ProjectID = string;
 export type RetrofitProject = {
@@ -207,28 +249,28 @@ export type RetrofitProject = {
   levelBreakStars: string;
   recurrence: number;
   require: ProjectID[];
-}
+};
 export type DevLevel = {
   level: string;
   buffs: string[];
-}
+};
 ```
 
 #### `voice_lines.json`
 
 ```typescript
 class Ship {
-    Default: Array<Line>;
-    // [Skin Name]: Array<Line>; // note: the skin name is directly from the wiki page
-    // ...
+  Default: Array<Line>;
+  // [Skin Name]: Array<Line>; // note: the skin name is directly from the wiki page
+  // ...
 }
 
 class Line {
-    event: string;  // the event (touch etc) name
-    en?: string;    // the line in english
-    zh?: string;    // the line in chinese
-    jp?: string;    // the line in japanese
-    audio?: string; // the line's audio url, file type = "audio/ogg"
+  event: string; // the event (touch etc) name
+  en?: string; // the line in english
+  zh?: string; // the line in chinese
+  jp?: string; // the line in japanese
+  audio?: string; // the line's audio url, file type = "audio/ogg"
 }
 ```
 
