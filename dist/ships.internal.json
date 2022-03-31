@@ -59475,13 +59475,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) shots from the main battery, trigger Full Barrage - Fletcher Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assaulte I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -59490,7 +59490,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -60007,13 +60007,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-オマハ級"
 				},
-				"description": "Every 12 (8) shots from the main guns, trigger Full Barrage - Omaha-Class I (II).",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Omaha-Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -60022,7 +60022,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -60257,13 +60257,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ブルックリン級"
 				},
-				"description": "Every 15 (10) shots from the main gun, trigger Full Barrage - Brooklyn Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Brooklyn Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -60271,7 +60271,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -60594,13 +60594,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ブルックリン級"
 				},
-				"description": "Every 15 (10) shots from the main gun, trigger Full Barrage - Brooklyn-Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Brooklyn-Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -60608,7 +60608,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -60924,13 +60924,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-J級"
 				},
-				"description": "Every 15 (10) shots from the main battery, trigger Full Barrage - J-Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - J-Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -60939,7 +60939,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -61178,13 +61178,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-J級"
 				},
-				"description": "Every 15 (10) shots from the main battery, trigger Full Barrage - J-Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - J-Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -61193,7 +61193,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -61489,13 +61489,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-川内型"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Sendai Class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Sendai Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -61504,7 +61504,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -61994,13 +61994,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-川内型"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Sendai Class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Sendai Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -62009,7 +62009,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -62479,13 +62479,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-川内型"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Sendai Class I (II).",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Sendai Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -62494,7 +62494,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -62736,13 +62736,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-陽炎型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Kagerou Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Kagerou Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -62751,7 +62751,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -63011,13 +63011,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-陽炎型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Kagerou Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Kagerou Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -63026,7 +63026,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -63341,13 +63341,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-陽炎型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Kagerou Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Kagerou Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -63356,7 +63356,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -63868,13 +63868,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-陽炎型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Kagerou Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Kagerou Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -63883,7 +63883,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -64660,13 +64660,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-阿賀野型"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Agano Class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Agano Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -64675,7 +64675,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -64958,22 +64958,22 @@
 					"cn": "专属弹幕-貅",
 					"jp": "特殊弾幕-能代"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Noshiro I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Noshiro I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock EX Barrage Ⅰ",
+				"Unlock All out Assault Ⅰ",
 				"Main gun efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"Torpedo efficiency +10%"
 			],
 			[
-				"Improve EX Barrage",
+				"Upgrades All out Assault I→II",
 				"Torpedo efficiency +15%"
 			]
 		],
@@ -65338,13 +65338,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-M級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - M Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - M Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -65353,7 +65353,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -65594,13 +65594,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-M級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - M Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - M Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -65609,7 +65609,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -65833,13 +65833,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フィジー級"
 				},
-				"description": "Every 12(8) times the main battery is fired, trigger Full Barrage - Fiji I (II)",
+				"description": "Every 12(8) times the main gun is fired, triggers All out Assault - Fiji I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -65848,7 +65848,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -66094,13 +66094,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フィジー級"
 				},
-				"description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Fiji I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Fiji I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -66109,7 +66109,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -66374,13 +66374,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-クリーブランド級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Cleveland Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Cleveland Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -66388,7 +66388,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -66662,13 +66662,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-クリーブランド級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Cleveland Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Cleveland Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -66676,7 +66676,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -66906,13 +66906,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-朝潮型"
 				},
-				"description": "Every 15 (10) shots from the main battery, triggers Full Barrage - Asashio Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Asashio Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -66921,7 +66921,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -67197,13 +67197,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-朝潮型"
 				},
-				"description": "Every 15 (10) shots from the main battery, trigger Full Barrage - Asashio Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Asashio Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -67212,7 +67212,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -67505,13 +67505,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-朝潮型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Asashio Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Asashio Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -67520,7 +67520,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -67761,13 +67761,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-朝潮型"
 				},
-				"description": "Every 15 (10) shots from the main battery, triggers Full Barrage - Asashio Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Asashio Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -67776,7 +67776,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -68028,13 +68028,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-エディンバラ級"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Edinburgh I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Edinburgh I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Guns Efficiency +5%"
 			],
 			[
@@ -68043,7 +68043,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -68538,13 +68538,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ロンドン級"
 				},
-				"description": "Every 9 (6) shots from the main guns, triggers Full Barrage - London Class I (II)",
+				"description": "Every 9 (6) times the main gun is fired, triggers All out Assault - London Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -68553,7 +68553,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -68833,13 +68833,13 @@
 					"cn": "专属弹幕-I19",
 					"jp": "特殊弾幕-伊-19"
 				},
-				"description": "When entering the battle, triggers Full Barrage - I-19 I (II).",
+				"description": "When entering the battle, triggers All out Assault - I-19 I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -68847,7 +68847,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -69154,13 +69154,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "When entering battle, triggers Full Barrage - I-Class I (II).",
+				"description": "When entering battle, triggers All out Assault - I-Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -69168,7 +69168,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -69447,13 +69447,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "When entering battle, triggers Full Barrage - I-Class I (II).",
+				"description": "When entering battle, triggers All out Assault - I-Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -69461,7 +69461,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -69705,13 +69705,13 @@
 					"cn": "专属弹幕-U81",
 					"jp": "特殊弾幕-U-81"
 				},
-				"description": "When entering the battle, triggers Full Barrage - U-81 I（II）",
+				"description": "When entering the battle, triggers All out Assault - U-81 I（II）",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -69719,7 +69719,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -69996,13 +69996,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "When entering battle, trigger Full Barrage - Gato-Class I （II）",
+				"description": "When entering battle, triggers All out Assault - Gato-Class I （II）",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -70010,7 +70010,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -70255,13 +70255,13 @@
 					"cn": "专属弹幕-U47",
 					"jp": "特殊弾幕U-47"
 				},
-				"description": "When entering the battle, triggers Full Barrage - U-47 I （II）",
+				"description": "When entering the battle, triggers All out Assault - U-47 I （II）",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -70269,7 +70269,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -70570,13 +70570,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-Type VIIC型"
 				},
-				"description": "When entering battle, triggers Full Barrage - Type VIIC I （II）",
+				"description": "When entering battle, triggers All out Assault - Type VIIC I （II）",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -70584,7 +70584,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -70807,13 +70807,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射--1936B型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - 1936B I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - 1936B I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Special Barrage I",
+				"Gains All out Assault I",
 				"Anti-Air Efficiency +5%"
 			],
 			[
@@ -70822,7 +70822,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -71068,13 +71068,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-1936型"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Type 1936 Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Type 1936 Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -71083,7 +71083,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -71317,13 +71317,13 @@
 					"cn": "专属弹幕-凯旋",
 					"jp": "特殊弾幕-ル·トリオンファン"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Le Fantasque Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Le Fantasque Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -71332,7 +71332,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -71623,13 +71623,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ラドロア級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - L'Adroit Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - L'Adroit Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -71638,7 +71638,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -72184,13 +72184,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-エミール・ベルタン"
 				},
-				"description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Emile Bertin Class I (II).",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Emile Bertin Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -72199,7 +72199,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -72726,13 +72726,13 @@
 					"cn": "专属弹幕-絮库夫",
 					"jp": "特殊弾幕-シュルクーフ"
 				},
-				"description": "When surfacing from underwater combat, trigger Special Barrage - Surcouf I (II).",
+				"description": "When surfacing from underwater combat, triggers All out Assault - Surcouf I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -72740,7 +72740,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -73057,13 +73057,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ラドロア級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - L'Adroit Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - L'Adroit Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -73072,7 +73072,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -73816,7 +73816,7 @@
 					"cn": "海盗之魂",
 					"jp": "パイレーツソウル"
 				},
-				"description": "This ship deals 40% (60%) more damage with each aimed shot from its main guns. Additionally, for each aimed shot that is manually aimed, the manual aim bonus becomes 40% (60%). (These two bonuses stack additively with each other. Aimed shots are the first salvo round of each main gun volley, regardless of whether auto-mode or the player aimed them. They get a “slow-down” effect outside of exercises.)",
+				"description": "This ship deals 40% (60%) more damage with each aimed shot from its main guns. Additionally, for each aimed shot that is manually aimed, the manual aim bonus becomes 40% (60%). (These two bonuses stack additively with each other. Aimed shots are the first volley round of each main gun salvo, regardless of whether auto-mode or the player aimed them. They get a “slow-down” effect outside of exercises.)",
 				"color": "pink"
 			},
 			{
@@ -74407,13 +74407,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -74422,7 +74422,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -75294,13 +75294,13 @@
 					"cn": "专属弹幕-大青花鱼",
 					"jp": "特殊弾幕-アルバコア"
 				},
-				"description": "When entering the battle, triggers Full Barrage - Albacore I (II).",
+				"description": "When entering the battle, triggers All out Assault - Albacore I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -75308,7 +75308,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -75585,13 +75585,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ル・アルディ級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Le Hardi Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Le Hardi Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Special Barrage I",
+				"Gained All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -75600,7 +75600,7 @@
 				"Main Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Special Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -75863,13 +75863,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-オマハ級"
 				},
-				"description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Omaha Class I(II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Omaha Class I(II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -75878,7 +75878,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -76219,13 +76219,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-サウサンプトン級"
 				},
-				"description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Southampton Class I (II).",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Southampton Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assaulte I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -76234,7 +76234,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -76688,13 +76688,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ベンソン級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Benson Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Benson Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -76703,7 +76703,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -76949,13 +76949,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ベンソン級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Benson-class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Benson-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -76964,7 +76964,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -77220,13 +77220,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ニューオーリンズ級"
 				},
-				"description": "Activates All Out Assault I (II): New Orleans Class once every 12 (8) times the Main Guns are fired.",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - New Orleans Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -77234,7 +77234,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -77549,13 +77549,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -77564,7 +77564,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -77788,13 +77788,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-オマハ級"
 				},
-				"description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Omaha Class I (II).",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Omaha Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -77803,7 +77803,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -78640,13 +78640,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-神風型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Kamikaze-class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Kamikaze-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Full Barrage I",
+				"Gained All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -78655,7 +78655,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -78889,13 +78889,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-夕雲型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Yuugumo Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Yuugumo Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Full Barrage I",
+				"Gained All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -78904,7 +78904,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -79156,13 +79156,13 @@
 					"cn": "专属弹幕-天狼星",
 					"jp": "特殊弾幕-シリアス"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Sirius I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Sirius I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Special Barrage I",
+				"Gained All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -79171,7 +79171,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Special Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -79574,7 +79574,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-シアリーズ級"
 				},
-				"description": "Every 24 (16) times the main gun is fired, trigger Full Barrage - Ceres-class I (II).",
+				"description": "Every 24 (16) times the main gun is fired, triggers All out Assault - Ceres-class I (II).",
 				"color": "pink"
 			}
 		],
@@ -79583,11 +79583,11 @@
 				"Main Gun Efficiency +5%"
 			],
 			[
-				"Main Gun Base +1",
+				"Main Gun Mount +1",
 				"Anti-Air Efficiency +5%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -80104,7 +80104,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-シアリーズ級"
 				},
-				"description": "Every 24 (16) times the main gun is fired, triggers Full Barrage - Ceres-class I (II).",
+				"description": "Every 24 (16) times the main gun is fired, triggers All out Assault - Ceres-class I (II).",
 				"color": "pink"
 			}
 		],
@@ -80113,11 +80113,11 @@
 				"Main Gun Efficiency +5%"
 			],
 			[
-				"Main Gun Base +1",
+				"Main Gun Mount +1",
 				"Anti-Air Efficiency +5%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -80575,13 +80575,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher-Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher-Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -80590,7 +80590,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -80831,13 +80831,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Fletcher Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -80846,7 +80846,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -82260,13 +82260,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-1934型"
 				},
-				"description": "Every 15 (10) shots from the main gun, triggers Full Barrage - Type 1934 I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Type 1934 I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Special Barrage I",
+				"Gained All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -82275,7 +82275,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Special Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -82822,13 +82822,13 @@
 					"cn": "专属弹幕-伊13",
 					"jp": "特殊弾幕-伊13"
 				},
-				"description": "When entering battle, triggers Full Barrage - I-13 I (II)",
+				"description": "When entering battle, triggers All out Assault - I-13 I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -82837,7 +82837,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -83073,13 +83073,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-鈴谷型"
 				},
-				"description": "Every 9 (6) times this ship fires its main guns, trigger Full Barrage - Suzuya-class I (II).",
+				"description": "Every 9 (6) times the main gun is fired, triggers All out Assault - Suzuya-class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -83088,7 +83088,7 @@
 				"Anti-Air Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -84030,13 +84030,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-Type VIIC型"
 				},
-				"description": "When entering battle, triggers Full Barrage - Type VIIC I (II).",
+				"description": "When entering battle, triggers All out Assault - Type VIIC I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -84044,7 +84044,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -84321,13 +84321,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-Type VIIB型"
 				},
-				"description": "When entering battle, triggers Full Barrage - Type VIIB I (II).",
+				"description": "When entering battle, triggers All out Assault - Type VIIB I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -84335,7 +84335,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -84591,13 +84591,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射--1936B型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - 1936B I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - 1936B I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Special Barrage I",
+				"Gains All out Assault I",
 				"Anti-Air Efficiency +5%"
 			],
 			[
@@ -84606,7 +84606,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -84829,13 +84829,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-E級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - E-Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - E-Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -84844,7 +84844,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -85077,13 +85077,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ブルックリン級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Brooklyn Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Brooklyn Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -85091,7 +85091,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -85308,13 +85308,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-クリーブランド級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Cleveland Class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Cleveland Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -85322,7 +85322,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -85540,13 +85540,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-アトランタ級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Atlanta Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Atlanta Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Anti-Air Efficiency +5%"
 			],
 			[
@@ -85555,7 +85555,7 @@
 				"Anti-Air Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -85774,13 +85774,13 @@
 					"cn": "专属弹幕-确捷",
 					"jp": "特殊弾幕-スウィフトシュア"
 				},
-				"description": "Every 12 (8) shots from the main battery, triggers Full Barrage - Swiftsure Class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Swiftsure Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -85789,7 +85789,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -86085,13 +86085,13 @@
 					"cn": "专属弹幕-恶毒",
 					"jp": "特殊弾幕-ル·マラン"
 				},
-				"description": "Every 15 (10) shots from the main gun, triggers Full Barrage - Le Malin I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Le Malin I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -86100,7 +86100,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -86411,13 +86411,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ル・アルディ級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Le Hardi Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Le Hardi Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -86426,7 +86426,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -86693,13 +86693,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "When entering battle, triggers Full Barrage - I-Class I (II).",
+				"description": "When entering battle, triggers All out Assault - I-Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -86707,7 +86707,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -86997,13 +86997,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "When entering battle, triggers Full Barrage - I-Class I (II).",
+				"description": "When entering battle, triggers All out Assault - I-Class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -87011,7 +87011,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -87271,13 +87271,13 @@
 					"cn": "专属弹幕-伊168",
 					"jp": "特殊弾幕-伊168"
 				},
-				"description": "When entering the battle, triggers Full Barrage - I-168 I (II).",
+				"description": "When entering the battle, triggers All out Assault - I-168 I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -87285,7 +87285,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -87547,13 +87547,13 @@
 					"cn": "专属弹幕-U101",
 					"jp": "特殊弾幕-U101"
 				},
-				"description": "When entering the battle, triggers Full Barrage - U-101 I (II)",
+				"description": "When entering the battle, triggers All out Assault - U-101 I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -87561,7 +87561,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -87828,13 +87828,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-Type IXC型"
 				},
-				"description": "When entering battle, triggers Full Barrage - Type IXC I (II).",
+				"description": "When entering battle, triggers All out Assault  - Type IXC I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assaulte I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -87842,7 +87842,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -88344,13 +88344,13 @@
 					"cn": "专属弹幕-棘鳍",
 					"jp": "特殊弾幕-カヴァラ"
 				},
-				"description": "When entering the battle, triggers Full Barrage - Cavalla I (II).",
+				"description": "When entering the battle, triggers All out Assault - Cavalla I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -88358,7 +88358,7 @@
 				"Hunting Radius Increase"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +10%"
 			]
 		],
@@ -88871,13 +88871,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-アトランタ級"
 				},
-				"description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Atlanta-class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Atlanta-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Anti-Air Efficiency +5%"
 			],
 			[
@@ -88886,7 +88886,7 @@
 				"Anti-Air Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -89139,13 +89139,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-クリーブランド級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Cleveland-class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Cleveland-class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -89153,7 +89153,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -89413,13 +89413,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ファラガット級"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Farragut Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Farragut Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -89428,7 +89428,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -89673,13 +89673,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Fletcher-class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -89688,7 +89688,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -89980,13 +89980,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ダイドー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Dido-class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Dido-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Special Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -89995,7 +89995,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Special Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -90288,13 +90288,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Fletcher-class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher-class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -90303,7 +90303,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -91370,13 +91370,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Zara-class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Zara-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -91384,7 +91384,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%"
 			]
 		],
@@ -91635,13 +91635,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "Every 9 (6) times the main battery is fired, triggers Full Barrage - Trento-class I (II).",
+				"description": "Every 9 (6) times the main gun is fired, triggers All out Assault - Trento-class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -91650,7 +91650,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -91908,13 +91908,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Soldati-class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Soldati-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Special Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -91923,7 +91923,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Special Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -92500,13 +92500,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Fletcher-class I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher-class I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -92515,7 +92515,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -93222,13 +93222,13 @@
 					"cn": "专属弹幕-克利夫兰(μ兵装)",
 					"jp": "特殊弾幕-クリーブランド（μ兵装）"
 				},
-				"description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Cleveland µ I (II).",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Cleveland µ I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -93236,7 +93236,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -93461,13 +93461,13 @@
 					"cn": "专属弹幕-谢菲尔德(μ兵装)",
 					"jp": "特殊弾幕-シェフィールド（μ兵装）"
 				},
-				"description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Sheffield (Muse) I (II).",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Sheffield (Muse) I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -93476,7 +93476,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -93701,13 +93701,13 @@
 					"cn": "专属弹幕-希佩尔海军上将(μ兵装)",
 					"jp": "特殊弾幕-アドミラル·ヒッパー（μ兵装）"
 				},
-				"description": "Every 9 (6)[1] times the main gun is fired, triggers Full Barrage - Admiral Hipper (Muse)[2] I (II).",
+				"description": "Every 9 (6)[1] times the main gun is fired, triggers All out Assault - Admiral Hipper (Muse)[2] I (II).",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -93716,7 +93716,7 @@
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Torpedo Efficiency +15%"
 			]
 		],
@@ -93940,13 +93940,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-サウサンプトン級"
 				},
-				"description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Southampton-class I (II)",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Southampton-class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -93955,7 +93955,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"Main Gun Efficiency +15%"
 			]
 		],
@@ -94261,7 +94261,7 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-朝潮型"
 				},
-				"description": "Activates All Out Assault: Asashio Class once every (15) 10 times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Asashio Class I (II)",
 				"color": "pink"
 			}
 		],
@@ -94271,12 +94271,12 @@
 				"Torpedo efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"Torpedo efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All Out Assault I→II",
 				"All weapons' efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -95362,13 +95362,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-フレッチャー級"
 				},
-				"description": "Every 15 (10) shots from the main battery, trigger Full Barrage - Fletcher-Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fletcher-Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"All Weapon Efficiency +2%"
 			],
 			[
@@ -95377,7 +95377,7 @@
 				"All Weapon Efficiency +3%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -95628,21 +95628,21 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-クリーブランド級"
 				},
-				"description": "Activates All Out Assault I (II): Cleveland Class once every 15 (10) times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Cleveland Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main gun efficiency +5%"
 			],
 			[
-				"Main gun base +1",
+				"Main Gun Mount +1",
 				"Main gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All Out Assault I→II",
 				"Main gun efficiency +15%"
 			]
 		],
@@ -95931,13 +95931,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-吹雪型"
 				},
-				"description": "Activates All Out Assault Ⅱ: Fubuki Class once every 10 times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fubuki Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -95946,7 +95946,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -96196,22 +96196,22 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "Activates All Out Assault Ⅱ: Gnevny once every 10 times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Fubuki Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main gun efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"Main gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All Out Assault",
 				"All weapons' efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -96508,22 +96508,22 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "Activates All Out Assault Ⅱ: Minsk once every 10 times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Minsk Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main gun efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"Main gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All Out Assault",
 				"All weapons' efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -96787,22 +96787,22 @@
 					"cn": "专属弹幕-塔什干",
 					"jp": "特殊弾幕-タシュケント"
 				},
-				"description": "Activates All Out Assault Ⅰ (Ⅱ): Tashkent once every 15 (10) times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Tashkent Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main Gun Efficiency +5%"
 			],
 			[
-				"Torpedo Base +1",
-				"Torpedo Preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"Main Gun Efficiency +10%"
 			],
 			[
-				"Upgrade All Out Assault Ⅰ→Ⅱ",
+				"Upgrades All Out Assault Ⅰ→Ⅱ",
 				"All Weapons' Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -97152,21 +97152,21 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射"
 				},
-				"description": "Activates All Out Assault Ⅱ: Kagul Class once every 8 times the Main Guns are fired.",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Kagul Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main gun efficiency +5%"
 			],
 			[
-				"Main gun base +1",
+				"Main Gun Mount +1",
 				"Main gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All Out Assault I→II",
 				"Main gun efficiency +15%"
 			]
 		],
@@ -97675,18 +97675,18 @@
 					"cn": "专属弹幕-基洛夫",
 					"jp": "特殊弾幕-キーロフ"
 				},
-				"description": "Activates EX Barrage - Kirov I (II) every 12 (8) times the Main Guns are fired.",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Kirov Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main Gun Efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"Main gun efficiency +10%"
 			],
 			[
@@ -97988,17 +97988,17 @@
 					"cn": "专属弹幕-恰巴耶夫",
 					"jp": "特殊弾幕-チャパエフ"
 				},
-				"description": "Activates All Out Assault I (II): Chapayev once every 15 (10) times Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Chapayev Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main Gun Efficiency +5%"
 			],
 			[
-				"Main Gun Base +1",
+				"Main Gun Mount +1",
 				"Main Gun Efficiency +10%"
 			],
 			[
@@ -99422,21 +99422,21 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-ボルチモア級"
 				},
-				"description": "Activates All Out Assault Ⅰ (Ⅱ): Baltimore Class once every 12 (8) times the Main Guns are fired.",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault - Baltimore Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Main gun efficiency +5%"
 			],
 			[
-				"Main gun base +1",
+				"Main Gun Mount +1",
 				"Main gun efficiency +10%"
 			],
 			[
-				"Improve All Out Assault Ⅰ→Ⅱ",
+				"Upgrades All Out Assault Ⅰ→Ⅱ",
 				"All weapons' efficiency +5%"
 			]
 		],
@@ -99749,22 +99749,22 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-アレン・M・サムナー級"
 				},
-				"description": "Activates All Out Assault: Allen M. Sumner-class once every (15) 10 times the Main Guns are fired.",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault -  Allen M. Sumner Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"All weapons' efficiency +2%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"All weapons' efficiency +3%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All out Assault I→II",
 				"All weapons' efficiency +5%",
 				"Boosts stats given by Aux Gear by 30%"
 			]
@@ -100382,15 +100382,15 @@
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All Out Assault Ⅰ",
 				"Torpedo efficiency +5%"
 			],
 			[
-				"Torpedo base +1",
+				"Max Torpedo Capacity +1",
 				"Improve Hunting range"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All out Assault I→II",
 				"Torpedo efficiency +10%"
 			]
 		],
@@ -100887,22 +100887,22 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-オマハ級"
 				},
-				"description": "Activates All Out Assault Ⅱ: Omaha Class once every 8 times the Main Guns are fired.",
+				"description": "Every 12 (8) times the main gun is fired, triggers All out Assault -  Omaha Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Unlock All Out Assault Ⅰ",
+				"Gains All out Assault Ⅰ",
 				"All weapons' efficiency +2%"
 			],
 			[
-				"Torpedo base +1",
-				"Torpedo preload +1",
+				"Max Torpedo Capacity +1",
+				"Pre-loaded Torpedo +1",
 				"All weapons' efficiency +3%"
 			],
 			[
-				"Improve All Out Assault",
+				"Upgrades All out Assault I→II",
 				"All weapons' efficiency +5%"
 			]
 		],
@@ -101172,13 +101172,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-秋月型"
 				},
-				"description": "Every 24 (16) shots from the main battery, triggers Full Barrage - Akizuki Class I (II)",
+				"description": "Every 24 (16) times the main gun is fired, triggers All out Assault - Akizuki Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gains Full Barrage I",
+				"Gains All out Assault I",
 				"Main Gun Efficiency +5%"
 			],
 			[
@@ -101187,7 +101187,7 @@
 				"Anti-Air Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Main gun shots required to trigger All-Out Assault halved"
 			]
@@ -101454,13 +101454,13 @@
 					"cn": "全弹发射",
 					"jp": "全弾発射-夕雲型"
 				},
-				"description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Yuugumo Class I (II)",
+				"description": "Every 15 (10) times the main gun is fired, triggers All out Assault - Yuugumo Class I (II)",
 				"color": "pink"
 			}
 		],
 		"limitBreaks": [
 			[
-				"Gained Full Barrage I",
+				"Gains All out Assaulte I",
 				"Torpedo Efficiency +5%"
 			],
 			[
@@ -101469,7 +101469,7 @@
 				"Torpedo Efficiency +10%"
 			],
 			[
-				"Upgrades Full Barrage I→II",
+				"Upgrades All out Assault I→II",
 				"All Weapon Efficiency +5%",
 				"Spread of normal torpedo launches reduced"
 			]
@@ -114883,7 +114883,8 @@
 			"code": "RN Vittorio Veneto",
 			"cn": "维托里奥·维内托",
 			"jp": "ヴィットリオ・ヴェネト",
-			"kr": "비토리오 베네토"
+			"kr": "비토리오 베네토",
+			"tw": "維托里奧·維內托"
 		},
 		"exists": {
 			"en": true,
@@ -115161,7 +115162,8 @@
 			"code": "RN Duca degli Abruzzi",
 			"cn": "阿布鲁齐公爵",
 			"jp": "ドゥーカ・デッリ・アブルッツィ",
-			"kr": "두카 델리 아브루치"
+			"kr": "두카 델리 아브루치",
+			"tw": "阿布魯齊公爵"
 		},
 		"exists": {
 			"en": true,
@@ -115436,7 +115438,8 @@
 			"code": "RN Aquila",
 			"cn": "天鹰",
 			"jp": "アクィラ",
-			"kr": "아퀼라"
+			"kr": "아퀼라",
+			"tw": "天鷹"
 		},
 		"exists": {
 			"en": true,
@@ -115728,7 +115731,8 @@
 			"code": "RN Torricelli",
 			"cn": "托里拆利",
 			"jp": "トリチェリ",
-			"kr": "토리첼리"
+			"kr": "토리첼리",
+			"tw": "托里切利"
 		},
 		"exists": {
 			"en": true,
@@ -115996,7 +116000,8 @@
 			"code": "RN Maestrale",
 			"cn": "西北风",
 			"jp": "マエストラーレ",
-			"kr": "마에스트라레"
+			"kr": "마에스트라레",
+			"tw": "西北風"
 		},
 		"exists": {
 			"en": true,
@@ -116269,7 +116274,8 @@
 			"code": "RN Libeccio",
 			"cn": "西南风",
 			"jp": "リベッチオ",
-			"kr": "리베치오"
+			"kr": "리베치오",
+			"tw": "西南風"
 		},
 		"exists": {
 			"en": true,
@@ -116542,7 +116548,8 @@
 			"code": "RN Nicoloso da Recco",
 			"cn": "尼科洛索·达雷科",
 			"jp": "二コロソ・ダ・レッコ",
-			"kr": "니콜로소 다 레코"
+			"kr": "니콜로소 다 레코",
+			"tw": "尼科洛索·達·雷科"
 		},
 		"exists": {
 			"en": true,
@@ -116811,7 +116818,8 @@
 			"code": "IJN Oite",
 			"cn": "追风",
 			"jp": "追風",
-			"kr": "오이테"
+			"kr": "오이테",
+			"tw": "追風"
 		},
 		"exists": {
 			"en": true,
@@ -117622,7 +117630,8 @@
 			"code": "IJN Amagi",
 			"cn": "小天城",
 			"jp": "天城ちゃん",
-			"kr": "꼬마 아마기"
+			"kr": "꼬마 아마기",
+			"tw": "小天城"
 		},
 		"exists": {
 			"en": true,
@@ -125690,6 +125699,804 @@
 			}
 		]
 	},
+	"540": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Impero",
+		"id": "540",
+		"_gid": 60702,
+		"_sid": [
+			607021,
+			607022,
+			607023,
+			607024
+		],
+		"_code": 540,
+		"names": {
+			"en": "Impero",
+			"code": "RN Impero",
+			"cn": "帝国",
+			"jp": "インペロ",
+			"kr": "Impero"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			0,
+			0,
+			4,
+			1,
+			3,
+			5
+		],
+		"class": "Vittorio Veneto",
+		"nationality": "Sardegna Empire",
+		"hullType": "Aircraft Carrier",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/f/fa/ImperoShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "1235",
+				"armor": "Medium",
+				"reload": "45",
+				"luck": "32",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "12",
+				"speed": "30",
+				"antiair": "63",
+				"aviation": "82",
+				"oilConsumption": "4",
+				"accuracy": "31",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "6387",
+				"armor": "Medium",
+				"reload": "115",
+				"luck": "32",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "39",
+				"speed": "30",
+				"antiair": "303",
+				"aviation": "408",
+				"oilConsumption": "13",
+				"accuracy": "81",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7026",
+				"armor": "Medium",
+				"reload": "121",
+				"luck": "32",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "45",
+				"speed": "30",
+				"antiair": "331",
+				"aviation": "429",
+				"oilConsumption": "13",
+				"accuracy": "91",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7185",
+				"armor": "Medium",
+				"reload": "123",
+				"luck": "32",
+				"firepower": "0",
+				"torpedo": "0",
+				"evasion": "46",
+				"speed": "30",
+				"antiair": "338",
+				"aviation": "434",
+				"oilConsumption": "13",
+				"accuracy": "94",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 110,
+				"minEfficiency": 110,
+				"type": "Fighters / Dive Bombers (MLB)",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 120,
+				"type": "Dive Bombers",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 110,
+				"type": "Torpedo Bombers",
+				"max": 3
+			}
+		],
+		"enhanceValue": {
+			"firepower": 0,
+			"torpedo": 0,
+			"aviation": 68,
+			"reload": 8
+		},
+		"scrapValue": {
+			"coin": 16,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/5/5b/Skill_15370.png",
+				"names": {
+					"en": "Impero is Brilliant",
+					"cn": "重振帝国荣光",
+					"jp": "インペロは偉大なり"
+				},
+				"description": "Increases this ship's AVI by 5% (15%).\nEvery 20s: 45% (75%) chance to launch a Lv.1 (Lv.10) special airstrike based on the type of aircraft equipped in this ship's first gear slot (DMG is based on the skill's level.) \n\nIf the aircraft is a Fighter: decreases the loading time of this ship's first Airstrike by 20% (40%); if it's a Dive Bomber, when this ship finishes loading her 2nd Airstrike: increases this ship's DMG dealt by 30% (60%) for 5s.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/a/ac/Skill_15380.png",
+				"names": {
+					"en": "Impero is Charitable",
+					"cn": "帝国睡眼惺忪",
+					"jp": "インペロは寛大なり"
+				},
+				"description": "Increases this ship's DMG dealt by 5% (15%).\n10s after the battle starts, and every 20s after that, while a ship in your Main Fleet has between 20% and 90% HP remaining: \n1) If this ship has the highest percentage HP of all ships in your Main Fleet, and there are at least 2 ships in your Main Fleet, deducts 1% (5%) HP from this ship and heals your Main Fleet ship with the lowest percentage HP (except this ship) for the amount of HP deducted from this ship; \n2) If this ship does NOT have the highest percentage HP, deducts 1% (5%) HP from your Main Fleet ship with the highest percentage HP and heals this ship for the amount of HP deducted from the other ship. \nWhichever ship is healed as a result of this skill has her EVA increased by 5% (15%) for 5s. If the ship healed is from the Sardegna Empire, the amount healed is increased by 183.",
+				"color": "gold"
+			}
+		],
+		"limitBreaks": [
+			[
+				"All Torpedo Bombers +1",
+				"Torpedo Bomber efficiency +5%"
+			],
+			[
+				"All Dive Bombers +1",
+				"Dive Bomber efficiency +10%"
+			],
+			[
+				"Number of All Planes +1",
+				"Torpedo Bomber efficiency +15%",
+				"Dive Bombers can be equipped in the first gear slot"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+2",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Aircraft carrier",
+						"Light aircraft carrier"
+					],
+					"bonus": "+1",
+					"stat": "aviation"
+				}
+			},
+			"techPoints": {
+				"collection": 32,
+				"maxLimitBreak": 64,
+				"maxLevel": 48,
+				"total": 144
+			}
+		},
+		"construction": {
+			"constructionTime": "05:15:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during the \"Virtual Tower\" event",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during the \"Virtual Tower\" event",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Nichika Oomori",
+				"url": "https://en.wikipedia.org/wiki/Nichika_%C5%8Cmori"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/e/e3/Impero.png/547px-Impero.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/6/6d/ImperoWithoutBG.png/547px-ImperoWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a5/ImperoChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Languid Librarian",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/5/50/ImperoSchool.png/573px-ImperoSchool.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/a5/ImperoSchoolWithoutBG.png/475px-ImperoSchoolWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/1/13/Skin_BG_147.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/8/8b/ImperoSchoolChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Languid Librarian",
+					"enLimited": "Limited",
+					"cnClient": "图书管理员的倦怠",
+					"cnLimited": "Limited",
+					"jpClient": "朦朧のライブラリアン",
+					"jpLimited": "Limited",
+					"cost": 880
+				}
+			}
+		],
+		"gallery": []
+	},
+	"541": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Pompeo_Magno",
+		"id": "541",
+		"_gid": 60107,
+		"_sid": [
+			601071,
+			601072,
+			601073,
+			601074
+		],
+		"_code": 541,
+		"names": {
+			"en": "Pompeo Magno",
+			"code": "RN Pompeo Magno",
+			"cn": "庞培·马格诺",
+			"jp": "ポンペオ・マーニョ",
+			"kr": "Pompeo Magno"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			1,
+			0,
+			4,
+			2,
+			2
+		],
+		"class": "Capitani Romani",
+		"nationality": "Sardegna Empire",
+		"hullType": "Destroyer",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/6/61/Pompeo_MagnoShipyardIcon.png",
+		"rarity": "Super Rare",
+		"stars": 6,
+		"stats": {
+			"baseStats": {
+				"health": "457",
+				"armor": "Light",
+				"reload": "76",
+				"luck": "75",
+				"firepower": "21",
+				"torpedo": "64",
+				"evasion": "59",
+				"speed": "51",
+				"antiair": "29",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "73",
+				"antisubmarineWarfare": "51"
+			},
+			"level100": {
+				"health": "2540",
+				"armor": "Light",
+				"reload": "196",
+				"luck": "75",
+				"firepower": "106",
+				"torpedo": "322",
+				"evasion": "177",
+				"speed": "51",
+				"antiair": "143",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "195",
+				"antisubmarineWarfare": "195"
+			},
+			"level120": {
+				"health": "2812",
+				"armor": "Light",
+				"reload": "207",
+				"luck": "75",
+				"firepower": "112",
+				"torpedo": "340",
+				"evasion": "200",
+				"speed": "51",
+				"antiair": "157",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "219",
+				"antisubmarineWarfare": "207"
+			},
+			"level125": {
+				"health": "2880",
+				"armor": "Light",
+				"reload": "210",
+				"luck": "75",
+				"firepower": "113",
+				"torpedo": "344",
+				"evasion": "206",
+				"speed": "51",
+				"antiair": "160",
+				"aviation": "0",
+				"oilConsumption": "10",
+				"accuracy": "225",
+				"antisubmarineWarfare": "210"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 120,
+				"minEfficiency": 110,
+				"type": "DD Guns",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 130,
+				"type": "Torpedoes",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 120,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 7,
+			"torpedo": 21,
+			"aviation": 0,
+			"reload": 14
+		},
+		"scrapValue": {
+			"coin": 12,
+			"oil": 10,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/7/7e/Skill_15390.png",
+				"names": {
+					"en": "March on Towards Triumph!",
+					"cn": "旭日的凯旋",
+					"jp": "偉業は凱旋まで！"
+				},
+				"description": "5s after the battle starts, and every 20s after that: spawns a special summon (lasts 15s; inflicts a unique Burn ailment to enemies) and decreases the ACC of all enemies by 10% (20%) for 5s.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/91/Skill_15410.png",
+				"names": {
+					"en": "With Victory Comes Glory!",
+					"cn": "征服者的荣耀",
+					"jp": "栄光は勝利から！"
+				},
+				"description": "During a sortie, for each enemy fleet sunk by the fleet this ship is in: increases this ship's FP and TRP by 0.5% (5%) (can be stacked up to 3 times). Increases this ship's DMG dealt with torpedoes based on her proximity to the enemy at the time of firing (the closer she is, the more DMG they deal, up to a maximum of 5% (15%) when within 10 units or less).",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9e/Skill_29830.png",
+				"names": {
+					"en": "All out Assault",
+					"cn": "专属弹幕-庞培·马格诺",
+					"jp": "特殊弾幕-ポンペオ・マーニョ"
+				},
+				"description": "Every 24 (16) times the main gun is fired, triggers All out Assault - Pompeo Magno I (II).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All out Assault Ⅰ",
+				"Main Gun Efficiency +5%"
+			],
+			[
+				"Main Gun Mount +1",
+				"Pre-loaded Torpedo +1",
+				"AA Gun Efficiency +10%"
+			],
+			[
+				"Upgrade All out Assault I → II",
+				"All Weapon Efficiency +5%",
+				"Boosts stats given by Aux Gear by 30%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Destroyer",
+						"Guided-missile destroyer"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Destroyer",
+						"Guided-missile destroyer"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 26,
+				"maxLimitBreak": 52,
+				"maxLevel": 38,
+				"total": 116
+			}
+		},
+		"construction": {
+			"constructionTime": "00:32:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during the \"Virtual Tower\" event",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in the Point Shop and in Limited Construction during the \"Virtual Tower\" event",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Saya Aizawa",
+				"url": "https://www.imdb.com/name/nm9679123/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/b/b6/Pompeo_Magno.png/492px-Pompeo_Magno.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/d/dc/Pompeo_MagnoWithoutBG.png/631px-Pompeo_MagnoWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/6/6b/Pompeo_MagnoChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Quaver Daydream",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/4/4c/Pompeo_MagnoSchool.png/470px-Pompeo_MagnoSchool.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/3/32/Pompeo_MagnoSchoolWithoutBG.png/593px-Pompeo_MagnoSchoolWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/6/64/Skin_BG_103.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/a/a9/Pompeo_MagnoSchoolChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Quaver Daydream",
+					"enLimited": "Limited",
+					"cnClient": "八分音符的美梦",
+					"cnLimited": "Limited",
+					"jpClient": "クェイバー・デイドリーム",
+					"jpLimited": "Limited",
+					"cost": 880
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Pompeo Magno and Trieste",
+				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_2022.03.24_2.png"
+			}
+		]
+	},
+	"542": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Trieste",
+		"id": "542",
+		"_gid": 60304,
+		"_sid": [
+			603041,
+			603042,
+			603043,
+			603044
+		],
+		"_code": 542,
+		"names": {
+			"en": "Trieste",
+			"code": "RN Trieste",
+			"cn": "的里雅斯特",
+			"jp": "トリエステ",
+			"kr": "Trieste"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			3,
+			2,
+			0,
+			2,
+			3,
+			2
+		],
+		"class": "Trento",
+		"nationality": "Sardegna Empire",
+		"hullType": "Heavy Cruiser",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/b/bb/TriesteShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "630",
+				"armor": "Light",
+				"reload": "61",
+				"luck": "48",
+				"firepower": "44",
+				"torpedo": "35",
+				"evasion": "10",
+				"speed": "28",
+				"antiair": "36",
+				"aviation": "0",
+				"oilConsumption": "3",
+				"accuracy": "39",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "3311",
+				"armor": "Light",
+				"reload": "156",
+				"luck": "48",
+				"firepower": "226",
+				"torpedo": "180",
+				"evasion": "61",
+				"speed": "28",
+				"antiair": "176",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "105",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "3647",
+				"armor": "Light",
+				"reload": "165",
+				"luck": "48",
+				"firepower": "239",
+				"torpedo": "190",
+				"evasion": "71",
+				"speed": "28",
+				"antiair": "192",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "118",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "3731",
+				"armor": "Light",
+				"reload": "167",
+				"luck": "48",
+				"firepower": "242",
+				"torpedo": "193",
+				"evasion": "73",
+				"speed": "28",
+				"antiair": "197",
+				"aviation": "0",
+				"oilConsumption": "11",
+				"accuracy": "121",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 135,
+				"minEfficiency": 130,
+				"type": "CA Guns",
+				"max": 1
+			},
+			{
+				"maxEfficiency": 170,
+				"minEfficiency": 145,
+				"type": "Torpedoes",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 100,
+				"minEfficiency": 100,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": {
+			"firepower": 24,
+			"torpedo": 12,
+			"aviation": 0,
+			"reload": 11
+		},
+		"scrapValue": {
+			"coin": 18,
+			"oil": 4,
+			"medal": null
+		},
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/c6/Skill_15400.png",
+				"names": {
+					"en": "Tough Love",
+					"cn": "风之城的护佑",
+					"jp": "美味なるおしおき"
+				},
+				"description": "Decreases this ship's DMG taken from AP ammo by 10% (20%). When the battle starts, if this ship is the frontmost ship of your Vanguard: restores 1% (5%) HP to this ship; if NOT in the frontmost position: decreases DMG taken by 4% (10%) for this ship and the frontmost ship of your Vanguard.",
+				"color": "deepskyblue"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/c/cd/Skill_5040.png",
+				"names": {
+					"en": "Flares",
+					"cn": "照明弹",
+					"jp": "照明弾"
+				},
+				"description": "10s after the battle begins and 20% (40%) chance every 20s after that: throws a flare that decreases the Evasion Rate of all enemies in its range by 25%. Flare lasts 10s. Prioritizes throwing flare at the enemy closest to this ship.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+				"names": {
+					"en": "All Out Assault Ⅱ",
+					"cn": "全弹发射II",
+					"jp": "全弾発射Ⅱ"
+				},
+				"description": "Activates All Out Assault II: Trento-class once every 6 times the Main Guns are fired. If this ship has Sardegna Empire gear equipped: decreases the shot requirement to 4 and improves this barrage.",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock All Out Assault Ⅰ",
+				"Main Gun efficiency +5%"
+			],
+			[
+				"Torpedo base +1",
+				"Torpedo preload +1",
+				"Torpedo efficiency +10%"
+			],
+			[
+				"Upgrade All Out Assault I → II",
+				"Torpedo efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "health"
+				},
+				"maxLevel": {
+					"applicable": [
+						"Heavy cruiser",
+						"Large cruiser",
+						"Monitor"
+					],
+					"bonus": "+1",
+					"stat": "firepower"
+				}
+			},
+			"techPoints": {
+				"collection": 18,
+				"maxLimitBreak": 38,
+				"maxLevel": 28,
+				"total": 84
+			}
+		},
+		"construction": {
+			"constructionTime": "01:54:00",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": "Only during the \"Virtual Tower\" event",
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"obtainedFrom": "Available in Limited Construction during the \"Virtual Tower\" event",
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Sakura Nakamura",
+				"url": "https://www.imdb.com/name/nm5066910/"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/5/52/Trieste.png/647px-Trieste.png",
+				"nobg": null,
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/5/5c/TriesteChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			},
+			{
+				"name": "Rooftop Lunch Break",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/c/cf/TriesteSchool.png/606px-TriesteSchool.png",
+				"nobg": "https://azurlane.netojuu.com/w/images/thumb/a/a5/TriesteSchoolWithoutBG.png/255px-TriesteSchoolWithoutBG.png",
+				"cn": null,
+				"background": "https://azurlane.netojuu.com/w/images/1/13/Skin_BG_147.png",
+				"chibi": "https://azurlane.netojuu.com/w/images/7/7d/TriesteSchoolChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Skin Shop",
+					"enClient": "Rooftop Lunch Break",
+					"enLimited": "Limited",
+					"cnClient": "期待的便当时间？",
+					"cnLimited": "Limited",
+					"jpClient": "今日の弁当当番は…？",
+					"jpLimited": "Limited",
+					"cost": 780
+				}
+			}
+		],
+		"gallery": [
+			{
+				"description": "Pompeo Magno and Trieste",
+				"url": "https://azurlane.netojuu.com/w/images/8/8b/Bg_2022.03.24_2.png"
+			}
+		]
+	},
 	"10061": {
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Marie_Rose",
 		"id": "10061",
@@ -132072,7 +132879,8 @@
 			"code": "Hiyō.META",
 			"cn": "飞鹰·META",
 			"jp": "飛鷹(META)",
-			"kr": "히요·META"
+			"kr": "히요·META",
+			"tw": "飛鷹·META"
 		},
 		"exists": {
 			"en": true,
@@ -132983,6 +133791,236 @@
 				"image": "https://azurlane.netojuu.com/w/images/thumb/1/17/Scharnhorst_META.png/437px-Scharnhorst_META.png",
 				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
 				"chibi": "https://azurlane.netojuu.com/w/images/b/b4/Scharnhorst_METAChibi.png",
+				"info": {
+					"live2dModel": false,
+					"obtainedFrom": "Default"
+				}
+			}
+		],
+		"gallery": []
+	},
+	"30010": {
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Yamashiro_META",
+		"id": "30010",
+		"_gid": 970502,
+		"_sid": [
+			9705021,
+			9705022,
+			9705023,
+			9705024
+		],
+		"_code": 30010,
+		"names": {
+			"en": "Yamashiro META",
+			"code": "Yamashiro.META",
+			"cn": "山城·META",
+			"jp": "山城(META)",
+			"kr": "Yamashiro META"
+		},
+		"exists": {
+			"en": true,
+			"cn": true,
+			"jp": true,
+			"kr": false
+		},
+		"hexagon": [
+			4,
+			0,
+			0,
+			1,
+			1,
+			4
+		],
+		"class": "Yamashiro META",
+		"nationality": "META",
+		"hullType": "Battleship",
+		"thumbnail": "https://azurlane.netojuu.com/w/images/f/f5/Yamashiro_METAShipyardIcon.png",
+		"rarity": "Elite",
+		"stars": 5,
+		"stats": {
+			"baseStats": {
+				"health": "1322",
+				"armor": "Heavy",
+				"reload": "54",
+				"luck": "14",
+				"firepower": "78",
+				"torpedo": "0",
+				"evasion": "6",
+				"speed": "23",
+				"antiair": "44",
+				"aviation": "0",
+				"oilConsumption": "8",
+				"accuracy": "17",
+				"antisubmarineWarfare": "0"
+			},
+			"level100": {
+				"health": "7206",
+				"armor": "Heavy",
+				"reload": "138",
+				"luck": "14",
+				"firepower": "389",
+				"torpedo": "0",
+				"evasion": "29",
+				"speed": "23",
+				"antiair": "222",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "61",
+				"antisubmarineWarfare": "0"
+			},
+			"level120": {
+				"health": "7689",
+				"armor": "Heavy",
+				"reload": "146",
+				"luck": "14",
+				"firepower": "409",
+				"torpedo": "0",
+				"evasion": "32",
+				"speed": "23",
+				"antiair": "234",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "66",
+				"antisubmarineWarfare": "0"
+			},
+			"level125": {
+				"health": "7809",
+				"armor": "Heavy",
+				"reload": "148",
+				"luck": "14",
+				"firepower": "414",
+				"torpedo": "0",
+				"evasion": "33",
+				"speed": "23",
+				"antiair": "238",
+				"aviation": "0",
+				"oilConsumption": "15",
+				"accuracy": "67",
+				"antisubmarineWarfare": "0"
+			}
+		},
+		"slots": [
+			{
+				"maxEfficiency": 130,
+				"minEfficiency": 100,
+				"type": "BB Guns",
+				"max": 2
+			},
+			{
+				"maxEfficiency": 200,
+				"minEfficiency": 200,
+				"type": "CL/DD Guns",
+				"max": 3
+			},
+			{
+				"maxEfficiency": 80,
+				"minEfficiency": 80,
+				"type": "Anti-Air Guns",
+				"max": 1
+			}
+		],
+		"enhanceValue": null,
+		"scrapValue": null,
+		"skills": [
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/3/37/Skill_800380.png",
+				"names": {
+					"en": "Blood Sacrifice",
+					"cn": "血厄狂乱",
+					"jp": "燃ゆる血潮のキヨメ"
+				},
+				"description": "Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this skill activates while this ship's HP is above 20%: deducts 178 HP from this ship and improves this barrage.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/9/9e/Skill_800390.png",
+				"names": {
+					"en": "Cursed Outset",
+					"cn": "灾厄还复来",
+					"jp": "漂う吉凶のミソギ"
+				},
+				"description": "This ship ignores the effects of the Out of Ammo debuff. During a battle, decreases the loading time of this ship's first 3 Main Gun volleys by 50%. This ship's 1st and 2nd volleys deal 60% and 80% DMG respectively, and the 3rd and onward deals 100% (120%) DMG.",
+				"color": "gold"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/a/a0/Skill_800400.png",
+				"names": {
+					"en": "Echoes of Annihilation – Yamashiro",
+					"cn": "碎忆-山城",
+					"jp": "燼滅の迴響-山城"
+				},
+				"description": "When the battle starts, if this ship has Sakura Empire gear equipped: increases the DMG dealt by this ship's \"Blood Sacrifice\" barrage by 1% (10%); if NOT equipping Sakura Empire gear: decreases this ship's DMG taken by 10%.",
+				"color": "pink"
+			},
+			{
+				"icon": "https://azurlane.netojuu.com/w/images/a/a0/Skill_800400.png",
+				"names": {
+					"en": "Flickering Light – Yamashiro",
+					"cn": "摇曳之火·山城II",
+					"jp": "揺灯の力-山城Ⅱ"
+				},
+				"description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0% (6.0%).",
+				"color": "pink"
+			}
+		],
+		"limitBreaks": [
+			[
+				"Unlock Flickering Light - Yamashiro I",
+				"Main Gun base +1",
+				"Main gun efficiency +5%"
+			],
+			[
+				"Secondary Gun base +2",
+				"Main Gun efficiency +10%"
+			],
+			[
+				"Upgrade Flickering Light - Yamashiro I → II",
+				"Main Gun efficiency +15%"
+			]
+		],
+		"fleetTech": {
+			"statsBonus": {
+				"collection": null,
+				"maxLevel": null
+			},
+			"techPoints": {
+				"collection": 0,
+				"maxLimitBreak": 0,
+				"maxLevel": 0,
+				"total": 0
+			}
+		},
+		"construction": {
+			"constructionTime": "Cannot Be Constructed",
+			"availableIn": {
+				"light": false,
+				"heavy": false,
+				"aviation": false,
+				"limited": false,
+				"exchange": false
+			}
+		},
+		"obtainedFrom": {
+			"fromMaps": []
+		},
+		"misc": {
+			"artist": {
+				"name": "Unknown",
+				"urls": {
+					"Link": "null"
+				}
+			},
+			"voice": {
+				"name": "Ami Koshimizu",
+				"url": "https://en.wikipedia.org/wiki/Ami_Koshimizu"
+			}
+		},
+		"skins": [
+			{
+				"name": "Default",
+				"image": "https://azurlane.netojuu.com/w/images/thumb/d/d6/Yamashiro_META.png/660px-Yamashiro_META.png",
+				"background": "https://azurlane.netojuu.com/w/images/3/3a/MainDayBG.png",
+				"chibi": null,
 				"info": {
 					"live2dModel": false,
 					"obtainedFrom": "Default"
