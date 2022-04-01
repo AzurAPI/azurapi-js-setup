@@ -158,7 +158,7 @@ export async function parseShip(
         image: images[0].src,
         background: "https://azurlane.koumakan.jp/w/images/3/3a/MainDayBG.png",
         chibi: doc.querySelector("td > div > div:nth-child(2) img")?.getAttribute("src") || null,
-        info: { obtainedFrom: "Default", live2dModel: false },
+        info: { obtainedFrom: "Default", live2dModel: false, category: "Default" },
       },
     ];
     ship.rarity = "Unreleased";
