@@ -151,3 +151,13 @@ export function keepIfInEnum<T>(value: string, enumObject: { [key: string]: T })
     return undefined;
   }
 }
+
+export const normalizeName = (name: string) =>
+  name
+    .replace(/ ?\(Battleship\)/, "(BB)")
+    .replace("\u00b5", "\u03bc")
+    .replace("Pamiat Merkuria", "Pamiat' Merkuria")
+    .replace("Ookami", "Ōkami")
+    .replace("Kasumi (DOA)", "Kasumi")
+    .normalize("NFKC") // Needed for muse characters, in my experience.
+    .trim();

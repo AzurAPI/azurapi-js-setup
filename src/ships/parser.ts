@@ -16,7 +16,14 @@ import {
 import fs from "fs";
 import path from "path";
 import { JSDOM } from "jsdom";
-import { BASE, camelize, clone, deepToString, galleryThumbnailUrlToActualUrl } from "../utils";
+import {
+  BASE,
+  camelize,
+  clone,
+  deepToString,
+  galleryThumbnailUrlToActualUrl,
+  normalizeName,
+} from "../utils";
 import { SHIP_LIST } from "./index";
 
 import fromEntries from "fromentries";
@@ -59,13 +66,7 @@ const kuroshiro = new Kuroshiro();
 const UNRELEASED = ["Tone", "Chikuma", "Pola", "Vittorio Veneto", "Kirov", "Sovetsky Soyuz"];
 
 function findShip(id: string, name: string, nationality: string) {
-  name = name
-    .replace(/ ?\(Battleship\)/, "(BB)")
-    .replace("\u00b5", "\u03bc")
-    .replace("Pamiat Merkuria", "Pamiat' Merkuria")
-    .replace("Ookami", "Ōkami")
-    .replace("Kasumi (DOA)", "Kasumi")
-    .trim();
+  name = normalizeName(name);
   if (id_map[id]) return reference[id_map[id]];
   for (let ship of Object.values(reference)) {
     if (!ship.name) continue;

@@ -1,7 +1,26 @@
 import { JSDOM } from "jsdom";
 import path from "path";
-import { BASE, camelize, fetch, galleryThumbnailUrlToActualUrl, keepIfInEnum } from "../utils";
+import {
+  BASE,
+  camelize,
+  fetch,
+  galleryThumbnailUrlToActualUrl,
+  keepIfInEnum,
+  normalizeName,
+} from "../utils";
 import { GalleryItem, Skin, SkinInfo, SkinLimitedStatus } from "./ship";
+import SkinPage from "./SkinPage";
+import { StandardNamedSkins, SkinCategories } from "./SkinPage/SkinPage.types";
+
+let _SkinPage: SkinPage;
+const getSkinsPage = async () => {
+  if (_SkinPage === undefined) {
+    //@ts-ignore
+    _SkinPage = SkinPage.initialize();
+    return _SkinPage;
+  }
+  return _SkinPage;
+};
 
 const ClientSkinNameHeaders = Object.freeze<Record<string, string>>({
   enClient: "enLimited",
@@ -33,10 +52,49 @@ const handleLtdSkin = (
   throw new Error(clientSkinName);
 };
 
+const handleSkinCategory = ({
+  name,
+  skinName,
+  skinsPage,
+}: {
+  name: string;
+  skinName: string;
+  skinsPage: SkinPage;
+}): SkinCategories => {
+  // 'Default', 'Retrofit', 'Wedding', and 'Original Art' skins can be categorized from name alone.
+  if (keepIfInEnum(skinName, StandardNamedSkins)) {
+    // const category = !isNotGatedSkin
+    // ? skinPageData.get(skinname)
+    // : skinname === NonGatedSkinNames.Default
+    // ? SkinCategories.Default
+    // : skinname === NonGatedSkinNames.Retrofit
+    // ? SkinCategories.Retrofit
+    // : skinname === NonGatedSkinNames.Wedding
+    // ? SkinCategories.Wedding
+    // : SkinCategories.Unobtainable;
+
+    return keepIfInEnum(skinName, SkinCategories);
+  }
+  const entry = skinsPage.skinPage.boatSkinMap.get(name);
+  // If entry is undefined, this ship is missing a skin on the Skin page and we didnt put it
+  // into `knownBad.ts`.
+  if (entry === undefined) {
+    throw new Error(`${name} is missing all skins on Skins page.`);
+  }
+  const skinCategory = entry.get(skinName);
+
+  if (keepIfInEnum(skinCategory, SkinCategories)) {
+    return skinCategory;
+  }
+  throw new Error(`${name} is missing skin ${skinName} on Skins page, but has skin in Gallery.`);
+};
+
 export async function fetchGallery(
   name: string,
   url: string
 ): Promise<{ skins: Skin[]; gallery: GalleryItem[] }> {
+  name = normalizeName(name);
+  const skinsPage = await getSkinsPage();
   let skins: Skin[] = [];
   let gallery: GalleryItem[] = [];
   let doc = new JSDOM(
@@ -47,8 +105,11 @@ export async function fetchGallery(
   ).window.document;
   Array.from(doc.querySelectorAll(".mw-parser-output>.tabber>.tabber__section>article")).forEach(
     (node) => {
-      let image;
       let tab = <HTMLElement>node;
+
+      const skinName = normalizeName(tab.title);
+      const skinCategory = handleSkinCategory({ name, skinName, skinsPage });
+      let image;
       if (tab.querySelector(".tabber__panel"))
         image = {
           normal: tab.querySelector(".tabber__panel[title=Default] .shipskin-image img")
@@ -70,7 +131,13 @@ export async function fetchGallery(
         image = tab.querySelector(".shipskin-image img")
           ? (<HTMLImageElement>tab.querySelector(".shipskin-image img")).src
           : null;
-      let info: SkinInfo = { live2dModel: false, obtainedFrom: "" };
+
+      let info: SkinInfo = {
+        live2dModel: false,
+        obtainedFrom: "",
+        category: skinCategory,
+      };
+
       tab.querySelectorAll(".shipskin-table tr").forEach((row) => {
         let key = camelize(row.getElementsByTagName("th")[0].textContent.toLowerCase().trim());
         let value: any = row.getElementsByTagName("td")[0].textContent.trim();
@@ -95,11 +162,13 @@ export async function fetchGallery(
             );
           }
         }
-
         return (info[key] = value);
       });
+      if (info.category === undefined) {
+        console.error(`gallery.ts: MIssing skin for ${name}:${skinName}`);
+      }
       skins.push({
-        name: tab.title,
+        name: skinName,
         image: typeof image === "string" || !image ? <string>image : image.normal,
         nobg: typeof image === "string" || !image ? undefined : image.nobg,
         cn: typeof image === "string" || !image ? undefined : image.cn,
