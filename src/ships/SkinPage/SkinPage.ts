@@ -3,7 +3,7 @@ import { StandardNamedSkins, SkinCategories } from "./SkinPage.types";
 import type { BaseSkinCardStrategy } from "./FindCardsStrategies/BaseStrategy";
 import FindAllSkinsStrategy from "./FindCardsStrategies/FindAllSkinsStrategy";
 import SkinCard from "./SkinCard";
-import { knownBad } from "./knownBad";
+import { knownInconsistent } from "./knownInconsistent";
 
 type Props = {
   doc: Document;
@@ -54,7 +54,7 @@ class SkinPage {
         this.boatSkinMap.set(boatName, skinToCategory);
       }
       // Polyfill missing skins on Skin page (see knownBad.ts).
-      for (const missingSkin of knownBad) {
+      for (const missingSkin of knownInconsistent) {
         if (boatName === missingSkin.boatName) {
           const bEntry = this.boatSkinMap.get(boatName);
           missingSkin.skins.forEach((missing) =>
