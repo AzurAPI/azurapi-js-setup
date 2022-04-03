@@ -88404,9 +88404,11 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "スイカ01",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#スイカ01",
+					"Pixiv": "https://www.pixiv.net/en/users/4678580",
+					"Twitter": "https://twitter.com/xiba_01"
 				}
 			},
 			"voice": {
@@ -100696,9 +100698,11 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "スイカ01",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#スイカ01",
+					"Pixiv": "https://www.pixiv.net/en/users/4678580",
+					"Twitter": "https://twitter.com/xiba_01"
 				}
 			},
 			"voice": {
@@ -126175,9 +126179,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "kurumi普拉斯",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#kurumi普拉斯",
+					"Pixiv": "https://www.pixiv.net/en/users/9261160",
+					"Twitter": "https://twitter.com/hermmot666",
+					"Link": "https://weibo.com/u/1944234507"
 				}
 			},
 			"voice": {
@@ -126447,9 +126454,11 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "RoMaNa",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#RoMaNa",
+					"Pixiv": "https://www.pixiv.net/en/users/3386241",
+					"Twitter": "https://twitter.com/FoxRomana_0"
 				}
 			},
 			"voice": {
@@ -133775,9 +133784,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "Mkiiiiii33",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Mkiiiiii33",
+					"Pixiv": "https://www.pixiv.net/member.php?id=661601",
+					"Twitter": "https://twitter.com/ccMK33",
+					"Link": "https://weibo.com/kawa33"
 				}
 			},
 			"voice": {
@@ -133975,7 +133987,12 @@
 			],
 			[
 				"Upgrade Flickering Light - Yamashiro I → II",
-				"Main Gun efficiency +15%"
+				"Main Gun efficiency +15%In game description of MGM+1 does not match actual ship<",
+				"div><",
+				"div><",
+				"span>Upgrade Flickering Light - Yamashiro I → II",
+				"Main Gun efficiency +15%[a]<",
+				"span>"
 			]
 		],
 		"fleetTech": {
@@ -134005,9 +134022,12 @@
 		},
 		"misc": {
 			"artist": {
-				"name": "Unknown",
+				"name": "Mkiiiiii33",
 				"urls": {
-					"Link": "null"
+					"Wiki": "https://azurlane.koumakan.jp/wiki/Artists#Mkiiiiii33",
+					"Pixiv": "https://www.pixiv.net/member.php?id=661601",
+					"Twitter": "https://twitter.com/ccMK33",
+					"Link": "https://weibo.com/kawa33"
 				}
 			},
 			"voice": {
