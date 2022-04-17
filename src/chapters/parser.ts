@@ -189,7 +189,7 @@ function parseAirSuprem(div: Element): AirSupremacy {
   };
 }
 
-function parseReconValue(div: Element): {
+function parseReconValue(div: Element) {
   return parseInt(div.textContent);
 }
 
