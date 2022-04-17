@@ -22,6 +22,7 @@ const parsers: {
   "Boss Kills to Clear": extractLeadingDigits,
   "Star Conditions": parseStarCon,
   "Air Supremacy (info)": parseAirSuprem,
+  "Recon Value (info)": parseReconValue,
   "Fleet Restrictions": parseFleetRestriction,
   "HARD Fleet Restrictions": parseFleetRestriction,
   "Stat Restrictions": parseStatsRestriction,
@@ -39,7 +40,7 @@ const betterNames = {
   },
   hARDFleetRestrictions: "fleetRestrictions",
   hARDStatRestrictions: "statRestrictions",
-  "3-StarRewards": "threeStarRewards",
+  "3-StarRewards": "threeStarRewards"
 };
 
 export function parseChapter(doc: Document, index: number, names: any) {
@@ -186,6 +187,10 @@ function parseAirSuprem(div: Element): AirSupremacy {
     superiority: parseInt(div.childNodes[6].textContent.replace(/[^\d]+/g, "")),
     supremacy: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, "")),
   };
+}
+
+function parseReconValue(div: Element): {
+  return parseInt(div.textContent);
 }
 
 function parseFleetRestriction(div: Element) {
