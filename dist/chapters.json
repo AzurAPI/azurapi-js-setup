@@ -46,7 +46,7 @@
 					"Sink 3 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 6,
 					"superiority": 150,
 					"supremacy": 450
@@ -129,7 +129,7 @@
 					"Sink 3 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 45,
 					"superiority": 150,
 					"supremacy": 450
@@ -241,7 +241,7 @@
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 12,
 					"superiority": 150,
 					"supremacy": 450
@@ -370,7 +370,7 @@
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 50,
 					"superiority": 150,
 					"supremacy": 450
@@ -523,7 +523,7 @@
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 18,
 					"superiority": 150,
 					"supremacy": 450
@@ -657,7 +657,7 @@
 					"Sink 5 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 60,
 					"superiority": 150,
 					"supremacy": 450
@@ -799,7 +799,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -823,7 +823,7 @@
 					"Sink 7 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 24,
 					"superiority": 150,
 					"supremacy": 450
@@ -839,19 +839,19 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Triple 203mm (8\"/55 Mk 9)",
+						"name": "Triple 203mm Main Gun Mount (Improved)",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 120mm (QF Mark IX)",
+						"name": "Single 120mm QF Mark IX Naval Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 356mm (41st Year Type)",
+						"name": "Twin 356mm Naval Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 127mm (SK C/34)",
+						"name": "Single 127mm Main Gun",
 						"tier": "T3"
 					}
 				],
@@ -1030,7 +1030,7 @@
 					"Sink 7 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 80,
 					"superiority": 150,
 					"supremacy": 450
@@ -1059,19 +1059,19 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Triple 203mm (8\"/55 Mk 9)",
+						"name": "Triple 203mm Main Gun Mount (Improved)",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 120mm (QF Mark IX)",
+						"name": "Single 120mm QF Mark IX Naval Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 356mm (41st Year Type)",
+						"name": "Twin 356mm Naval Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 127mm (SK C/34)",
+						"name": "Single 127mm Main Gun",
 						"tier": "T3"
 					}
 				],
@@ -1222,7 +1222,7 @@
 			"cn": "Tora! Tora! Tora!",
 			"jp": "トラ！トラ！トラ！"
 		},
-		"image": "/w/images/thumb/6/66/Chapter_1.png/500px-Chapter_1.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/6/66/Chapter_1.png/700px-Chapter_1.png"
 	},
 	{
 		"1": {
@@ -1265,13 +1265,13 @@
 					"bossFleet": 225
 				},
 				"requiredBattles": 2,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 10 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 45,
 					"superiority": 150,
 					"supremacy": 450
@@ -1287,11 +1287,11 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Triple 356mm (14\"/50 Mk 11)",
+						"name": "Triple 356mm Main Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 152mm (BL 6\" Mk XII)",
+						"name": "Single 152mm Secondary Gun Mount",
 						"tier": "T3"
 					},
 					{
@@ -1299,14 +1299,21 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Quadruple 20mm AA Flakvierling 38",
+						"name": "Quadruple 20mm Flakvierling Machine Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"London",
 					"Juno",
 					"Tennessee",
@@ -1478,13 +1485,13 @@
 					"bossFleet": 225
 				},
 				"requiredBattles": 2,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 10 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 110,
 					"superiority": 150,
 					"supremacy": 450
@@ -1518,11 +1525,11 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Triple 356mm (14\"/50 Mk 11)",
+						"name": "Triple 356mm Main Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 152mm (BL 6\" Mk XII)",
+						"name": "Single 152mm Secondary Gun Mount",
 						"tier": "T3"
 					},
 					{
@@ -1530,14 +1537,21 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Quadruple 20mm AA Flakvierling 38",
+						"name": "Quadruple 20mm Flakvierling Machine Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"London",
 					"Juno",
 					"Tennessee",
@@ -1724,13 +1738,13 @@
 					"bossFleet": 247
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 55,
 					"superiority": 150,
 					"supremacy": 450
@@ -1746,26 +1760,33 @@
 						"tier": "T3"
 					},
 					{
-						"name": "20mm AA Oerlikon",
+						"name": "Single 20mm Oerlikon AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 40mm Pom-Pom",
+						"name": "Twin 40mm Pom-Pom AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "25mm AA Type 96",
+						"name": "Single 25mm AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "37mm AA Gun (Flak M42)",
+						"name": "Single 37mm Flak AA Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Arizona",
 					"Pennsylvania",
 					"Gridley",
@@ -1998,7 +2019,7 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 135,
 					"superiority": 150,
 					"supremacy": 176
@@ -2032,26 +2053,33 @@
 						"tier": "T3"
 					},
 					{
-						"name": "20mm AA Oerlikon",
+						"name": "Single 20mm Oerlikon AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 40mm Pom-Pom",
+						"name": "Twin 40mm Pom-Pom AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "25mm AA Type 96",
+						"name": "Single 25mm AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "37mm AA Gun (Flak M42)",
+						"name": "Single 37mm Flak AA Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Arizona",
 					"Pennsylvania",
 					"Gridley",
@@ -2299,7 +2327,7 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 65,
 					"superiority": 150,
 					"supremacy": 450
@@ -2315,11 +2343,11 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Fire Extinguisher",
+						"name": "Fire Suppressor",
 						"tier": "T3"
 					},
 					{
-						"name": "Brewster F2A Buffalo",
+						"name": "F2A Buffalo",
 						"tier": "T3"
 					},
 					{
@@ -2327,14 +2355,21 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Mitsubishi A5M Type 96",
+						"name": "A5M Claude",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Nelson",
 					"Shouhou",
 					"Fletcher",
@@ -2528,10 +2563,12 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 160,
-					"superiority": 0,
-					"supremacy": 120
+					"denial": 0,
+					"parity": 120,
+					"superiority": 208,
+					"supremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -2562,11 +2599,11 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Fire Extinguisher",
+						"name": "Fire Suppressor",
 						"tier": "T3"
 					},
 					{
-						"name": "Brewster F2A Buffalo",
+						"name": "F2A Buffalo",
 						"tier": "T3"
 					},
 					{
@@ -2574,14 +2611,21 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Mitsubishi A5M Type 96",
+						"name": "A5M Claude",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Nelson",
 					"Shouhou",
 					"Fletcher",
@@ -2769,7 +2813,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -2790,7 +2834,7 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 80,
 					"superiority": 150,
 					"supremacy": 450
@@ -2802,7 +2846,7 @@
 				],
 				"blueprintDrops": [
 					{
-						"name": "Single 150mm (SK C/28)",
+						"name": "Single 150mm SK C/28 Main Gun Mount",
 						"tier": "T3"
 					},
 					{
@@ -2814,22 +2858,29 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Douglas TBD Devastator",
+						"name": "TBD Devastator",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 120mm (Type 3)",
+						"name": "Single 120mm Type 3 Naval Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Nakajima B5N Type 97",
+						"name": "Type 97 Torpedo Bomber",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Lexington",
 					"Rodney",
 					"Shouhou",
@@ -3015,10 +3066,12 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 190,
-					"superiority": 0,
-					"supremacy": 143
+					"denial": 0,
+					"parity": 143,
+					"superiority": 247,
+					"supremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -3045,7 +3098,7 @@
 				],
 				"blueprintDrops": [
 					{
-						"name": "Single 150mm (SK C/28)",
+						"name": "Single 150mm SK C/28 Main Gun Mount",
 						"tier": "T3"
 					},
 					{
@@ -3057,22 +3110,29 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Douglas TBD Devastator",
+						"name": "TBD Devastator",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 120mm (Type 3)",
+						"name": "Single 120mm Type 3 Naval Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Nakajima B5N Type 97",
+						"name": "Type 97 Torpedo Bomber",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Lexington",
 					"Rodney",
 					"Shouhou",
@@ -3233,7 +3293,7 @@
 			"cn": "珊瑚海首秀",
 			"jp": "初陣!珊瑚海"
 		},
-		"image": "/w/images/thumb/c/c9/Chapter_2.png/500px-Chapter_2.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/c/c9/Chapter_2.png/700px-Chapter_2.png"
 	},
 	{
 		"1": {
@@ -3276,13 +3336,13 @@
 					"bossFleet": 312
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 110,
 					"superiority": 150,
 					"supremacy": 450
@@ -3298,26 +3358,33 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Grumman F4F Wildcat",
+						"name": "F4F Wildcat",
 						"tier": "T3"
 					},
 					{
-						"name": "12.7mm AA M2 Browning",
+						"name": "Single 12.7mm AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Douglas SBD Dauntless",
+						"name": "SBD Dauntless",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 140mm (3rd Year Type)",
+						"name": "Single 140mm Naval Gun",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Souryuu",
 					"Hiryuu",
 					"Houston",
@@ -3514,10 +3581,12 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 245,
-					"superiority": 0,
-					"supremacy": 184
+					"denial": 0,
+					"parity": 184,
+					"superiority": 319,
+					"supremacy": 490
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -3547,26 +3616,33 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Grumman F4F Wildcat",
+						"name": "F4F Wildcat",
 						"tier": "T3"
 					},
 					{
-						"name": "12.7mm AA M2 Browning",
+						"name": "Single 12.7mm AA Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Douglas SBD Dauntless",
+						"name": "SBD Dauntless",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 140mm (3rd Year Type)",
+						"name": "Single 140mm Naval Gun",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Souryuu",
 					"Hiryuu",
 					"Houston",
@@ -3778,7 +3854,7 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 125,
 					"superiority": 150,
 					"supremacy": 163
@@ -3794,26 +3870,33 @@
 						"tier": "T2"
 					},
 					{
-						"name": "Single 127mm (5\"/38 Mk 30)",
+						"name": "Single 127mm Main Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Curtiss SB2C Helldiver",
+						"name": "SB2C Helldiver",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 152mm (6\"/45 Pattern 1892)",
+						"name": "Single 152mm Mk XII Main Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 102mm (QF Mk V)",
+						"name": "Single 102mm Secondary Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Souryuu",
 					"Hiryuu",
 					"Charles Ausburne",
@@ -4029,10 +4112,12 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 285,
-					"superiority": 0,
-					"supremacy": 214
+					"denial": 0,
+					"parity": 214,
+					"superiority": 371,
+					"supremacy": 570
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -4062,26 +4147,33 @@
 						"tier": "T2"
 					},
 					{
-						"name": "Single 127mm (5\"/38 Mk 30)",
+						"name": "Single 127mm Main Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Curtiss SB2C Helldiver",
+						"name": "SB2C Helldiver",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 152mm (6\"/45 Pattern 1892)",
+						"name": "Single 152mm Mk XII Main Gun Mount",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 102mm (QF Mk V)",
+						"name": "Single 102mm Secondary Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Souryuu",
 					"Hiryuu",
 					"Charles Ausburne",
@@ -4306,13 +4398,13 @@
 					"bossFleet": 355
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 145,
 					"superiority": 150,
 					"supremacy": 189
@@ -4324,7 +4416,7 @@
 				],
 				"blueprintDrops": [
 					{
-						"name": "Quadruple 28mm AA Chicago Piano",
+						"name": "Quadruple 28mm \"Chicago Piano\" AA Gun Mount",
 						"tier": "T3"
 					},
 					{
@@ -4332,22 +4424,29 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Aichi D3A Type 99",
+						"name": "Type 99 Dive Bomber",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 76mm (3\"/50 caliber gun)",
+						"name": "76mm AA Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 102mm (QF Mk XVI)",
+						"name": "Twin 102mm Secondary Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Souryuu",
 					"Hiryuu",
 					"Indianapolis",
@@ -4558,10 +4657,12 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 330,
-					"superiority": 0,
-					"supremacy": 248
+					"denial": 0,
+					"parity": 248,
+					"superiority": 429,
+					"supremacy": 660
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -4587,7 +4688,7 @@
 				],
 				"blueprintDrops": [
 					{
-						"name": "Quadruple 28mm AA Chicago Piano",
+						"name": "Quadruple 28mm \"Chicago Piano\" AA Gun Mount",
 						"tier": "T3"
 					},
 					{
@@ -4595,22 +4696,29 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Aichi D3A Type 99",
+						"name": "Type 99 Dive Bomber",
 						"tier": "T3"
 					},
 					{
-						"name": "Single 76mm (3\"/50 caliber gun)",
+						"name": "76mm AA Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 102mm (QF Mk XVI)",
+						"name": "Twin 102mm Secondary Gun Mount",
 						"tier": "T3"
 					}
 				],
 				"shipDrops": [
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Souryuu",
 					"Hiryuu",
 					"Indianapolis",
@@ -4815,7 +4923,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -4830,16 +4938,18 @@
 					"bossFleet": 377
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 175,
-					"superiority": 0,
-					"supremacy": 132
+					"denial": 0,
+					"parity": 132,
+					"superiority": 228,
+					"supremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -4853,19 +4963,19 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Vought F4U Corsair",
+						"name": "F4U Corsair",
 						"tier": "T3"
 					},
 					{
-						"name": "76mm AA Gun (3\"/50 Mk 22)",
+						"name": "76mm AA Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Mitsubishi A6M2 Zero",
+						"name": "Type 0 Fighter Model 21",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 152mm (6\"/53 Mk 18)",
+						"name": "Twin 152mm Main Gun",
 						"tier": "T3"
 					}
 				],
@@ -4880,7 +4990,14 @@
 					},
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Yorktown",
 					"Houston",
 					"Portland",
@@ -5095,10 +5212,12 @@
 					"Sink 12 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 380,
-					"superiority": 0,
-					"supremacy": 285
+					"denial": 0,
+					"parity": 285,
+					"superiority": 494,
+					"supremacy": 760
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -5129,19 +5248,19 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Vought F4U Corsair",
+						"name": "F4U Corsair",
 						"tier": "T3"
 					},
 					{
-						"name": "76mm AA Gun (3\"/50 Mk 22)",
+						"name": "76mm AA Gun",
 						"tier": "T3"
 					},
 					{
-						"name": "Mitsubishi A6M2 Zero",
+						"name": "Type 0 Fighter Model 21",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 152mm (6\"/53 Mk 18)",
+						"name": "Twin 152mm Main Gun",
 						"tier": "T3"
 					}
 				],
@@ -5156,7 +5275,14 @@
 					},
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
 					"Yorktown",
 					"Houston",
 					"Portland",
@@ -5341,7 +5467,7 @@
 			"cn": "决战中途岛",
 			"jp": "決戦"
 		},
-		"image": "/w/images/thumb/a/a6/Chapter_3.png/500px-Chapter_3.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/a/a6/Chapter_3.png/700px-Chapter_3.png"
 	},
 	{
 		"1": {
@@ -5384,13 +5510,13 @@
 					"bossFleet": 399
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 120,
 					"superiority": 150,
 					"supremacy": 156
@@ -5648,10 +5774,12 @@
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 190,
-					"superiority": 0,
-					"supremacy": 143
+					"denial": 0,
+					"parity": 143,
+					"superiority": 247,
+					"supremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -5933,13 +6061,13 @@
 					"bossFleet": 421
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 135,
 					"superiority": 150,
 					"supremacy": 176
@@ -6197,10 +6325,12 @@
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 220,
-					"superiority": 0,
-					"supremacy": 165
+					"denial": 0,
+					"parity": 165,
+					"superiority": 286,
+					"supremacy": 450
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -6482,16 +6612,18 @@
 					"bossFleet": 442
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 155,
-					"superiority": 0,
-					"supremacy": 117
+					"denial": 0,
+					"parity": 117,
+					"superiority": 202,
+					"supremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -6714,10 +6846,12 @@
 					"Sink 15 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 250,
-					"superiority": 0,
-					"supremacy": 188
+					"denial": 0,
+					"parity": 188,
+					"superiority": 325,
+					"supremacy": 500
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -6952,7 +7086,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -6973,10 +7107,12 @@
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 180,
-					"superiority": 0,
-					"supremacy": 135
+					"denial": 0,
+					"parity": 135,
+					"superiority": 234,
+					"supremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -7304,10 +7440,12 @@
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 285,
-					"superiority": 0,
-					"supremacy": 214
+					"denial": 0,
+					"parity": 214,
+					"superiority": 371,
+					"supremacy": 570
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -7623,7 +7761,7 @@
 			"cn": "所罗门的噩梦上",
 			"jp": "ソロモン海にて·上"
 		},
-		"image": "/w/images/thumb/a/af/Chapter_4.png/500px-Chapter_4.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/a/af/Chapter_4.png/700px-Chapter_4.png"
 	},
 	{
 		"1": {
@@ -7666,16 +7804,18 @@
 					"bossFleet": 486
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 215,
-					"superiority": 0,
-					"supremacy": 162
+					"denial": 0,
+					"parity": 162,
+					"superiority": 280,
+					"supremacy": 450
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -7983,10 +8123,12 @@
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 340,
-					"superiority": 0,
-					"supremacy": 255
+					"denial": 0,
+					"parity": 255,
+					"superiority": 442,
+					"supremacy": 680
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -8322,16 +8464,18 @@
 					"bossFleet": 508
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 250,
-					"superiority": 0,
-					"supremacy": 188
+					"denial": 0,
+					"parity": 188,
+					"superiority": 325,
+					"supremacy": 500
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -8598,10 +8742,12 @@
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 380,
-					"superiority": 0,
-					"supremacy": 285
+					"denial": 0,
+					"parity": 285,
+					"superiority": 494,
+					"supremacy": 760
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -8896,16 +9042,18 @@
 					"bossFleet": 529
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 295,
-					"superiority": 0,
-					"supremacy": 222
+					"denial": 0,
+					"parity": 222,
+					"superiority": 384,
+					"supremacy": 590
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -9167,10 +9315,12 @@
 					"Sink 18 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 425,
-					"superiority": 0,
-					"supremacy": 319
+					"denial": 0,
+					"parity": 319,
+					"superiority": 553,
+					"supremacy": 850
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -9445,7 +9595,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -9460,16 +9610,18 @@
 					"bossFleet": 551
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 345,
-					"superiority": 0,
-					"supremacy": 259
+					"denial": 0,
+					"parity": 259,
+					"superiority": 449,
+					"supremacy": 690
 				},
 				"mapDrops": [
 					"T1-T2 Upgrade Parts",
@@ -9762,10 +9914,12 @@
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 475,
-					"superiority": 238,
-					"supremacy": 357
+					"denial": 238,
+					"parity": 357,
+					"superiority": 618,
+					"supremacy": 950
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -10047,7 +10201,7 @@
 			"cn": "所罗门的噩梦中",
 			"jp": "ソロモン海にて·中"
 		},
-		"image": "/w/images/thumb/1/18/Chapter_5.png/500px-Chapter_5.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/1/18/Chapter_5.png/700px-Chapter_5.png"
 	},
 	{
 		"1": {
@@ -10087,16 +10241,18 @@
 					"bossFleet": 573
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 225,
-					"superiority": 0,
-					"supremacy": 169
+					"denial": 0,
+					"parity": 169,
+					"superiority": 293,
+					"supremacy": 450
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -10396,10 +10552,12 @@
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 445,
-					"superiority": 0,
-					"supremacy": 334
+					"denial": 0,
+					"parity": 334,
+					"superiority": 579,
+					"supremacy": 890
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -10728,16 +10886,18 @@
 					"bossFleet": 595
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 255,
-					"superiority": 0,
-					"supremacy": 192
+					"denial": 0,
+					"parity": 192,
+					"superiority": 332,
+					"supremacy": 510
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -11059,10 +11219,12 @@
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 510,
-					"superiority": 255,
-					"supremacy": 383
+					"denial": 255,
+					"parity": 383,
+					"superiority": 663,
+					"supremacy": 1020
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -11410,16 +11572,18 @@
 					"bossFleet": 616
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 290,
-					"superiority": 0,
-					"supremacy": 218
+					"denial": 0,
+					"parity": 218,
+					"superiority": 377,
+					"supremacy": 580
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -11705,10 +11869,12 @@
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 575,
-					"superiority": 288,
-					"supremacy": 432
+					"denial": 288,
+					"parity": 432,
+					"superiority": 748,
+					"supremacy": 1150
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -12008,7 +12174,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -12023,16 +12189,18 @@
 					"bossFleet": 638
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 325,
-					"superiority": 0,
-					"supremacy": 244
+					"denial": 0,
+					"parity": 244,
+					"superiority": 423,
+					"supremacy": 650
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -12365,10 +12533,12 @@
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 645,
-					"superiority": 323,
-					"supremacy": 484
+					"denial": 323,
+					"parity": 484,
+					"superiority": 839,
+					"supremacy": 1290
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -12686,7 +12856,7 @@
 			"cn": "所罗门的噩梦下",
 			"jp": "ソロモン海にて·下"
 		},
-		"image": "/w/images/thumb/0/03/Chapter_6.png/500px-Chapter_6.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/0/03/Chapter_6.png/700px-Chapter_6.png"
 	},
 	{
 		"1": {
@@ -12729,11 +12899,13 @@
 					"bossFleet": 653
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
-				"airSupremacy": {
+				"bossKillsToClear": 2,
+				"airspaceControl": {
 					"actual": 370,
-					"superiority": 0,
-					"supremacy": 278
+					"denial": 0,
+					"parity": 278,
+					"superiority": 481,
+					"supremacy": 740
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -12933,8 +13105,8 @@
 				"code": "7-1",
 				"introduction": "The Sakura are shipping supplies to Guadalcanal. HQ has given us orders to intercept them at once!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 60",
-					"requiredLevel": 60
+					"text": "HQ Lv. 55",
+					"requiredLevel": 55
 				},
 				"threeStarRewards": [
 					{
@@ -12942,7 +13114,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 100
 					}
 				],
@@ -12959,10 +13131,12 @@
 				},
 				"requiredBattles": 5,
 				"bossKillsToClear": 4,
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 720,
-					"superiority": 360,
-					"supremacy": 540
+					"denial": 360,
+					"parity": 540,
+					"superiority": 936,
+					"supremacy": 1440
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -13216,16 +13390,18 @@
 					"bossFleet": 667
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 425,
-					"superiority": 0,
-					"supremacy": 319
+					"denial": 0,
+					"parity": 319,
+					"superiority": 553,
+					"supremacy": 850
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -13497,8 +13673,8 @@
 				"code": "7-2",
 				"introduction": "Enemy managed to approach us under the cover of night. This next battle is going to be in close quarters!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 60",
-					"requiredLevel": 60
+					"text": "HQ Lv. 55",
+					"requiredLevel": 55
 				},
 				"threeStarRewards": [
 					{
@@ -13506,7 +13682,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 150
 					}
 				],
@@ -13528,10 +13704,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 800,
-					"superiority": 400,
-					"supremacy": 600
+					"denial": 400,
+					"parity": 600,
+					"superiority": 1040,
+					"supremacy": 1600
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -13860,16 +14038,18 @@
 					"bossFleet": 682
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 480,
-					"superiority": 240,
-					"supremacy": 360
+					"denial": 240,
+					"parity": 360,
+					"superiority": 624,
+					"supremacy": 960
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -14185,8 +14365,8 @@
 				"code": "7-3",
 				"introduction": "The Sakura torpedo fleet managed to sneak behind our main fleet. Prepare to engage evasive maneuvers!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 60",
-					"requiredLevel": 60
+					"text": "HQ Lv. 55",
+					"requiredLevel": 55
 				},
 				"threeStarRewards": [
 					{
@@ -14194,7 +14374,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 200
 					}
 				],
@@ -14219,10 +14399,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 880,
-					"superiority": 440,
-					"supremacy": 660
+					"denial": 440,
+					"parity": 660,
+					"superiority": 1144,
+					"supremacy": 1760
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -14577,7 +14759,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -14592,16 +14774,18 @@
 					"bossFleet": 696
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 535,
-					"superiority": 268,
-					"supremacy": 402
+					"denial": 268,
+					"parity": 402,
+					"superiority": 696,
+					"supremacy": 1070
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -14902,8 +15086,8 @@
 				"code": "7-4",
 				"introduction": "The Sakura have an unmatchable advantage when fighting under the cover of darkness. Commander, take care!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 60",
-					"requiredLevel": 60
+					"text": "HQ Lv. 55",
+					"requiredLevel": 55
 				},
 				"threeStarRewards": [
 					{
@@ -14911,7 +15095,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 250
 					}
 				],
@@ -14933,10 +15117,12 @@
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 965,
-					"superiority": 483,
-					"supremacy": 724
+					"denial": 483,
+					"parity": 724,
+					"superiority": 1255,
+					"supremacy": 1930
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -15247,7 +15433,7 @@
 			"cn": "混沌之夜",
 			"jp": "混沌の夜"
 		},
-		"image": "/w/images/thumb/2/23/Chapter_7.png/500px-Chapter_7.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/2/23/Chapter_7.png/700px-Chapter_7.png"
 	},
 	{
 		"1": {
@@ -15290,16 +15476,18 @@
 					"bossFleet": 674
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 590,
-					"superiority": 295,
-					"supremacy": 443
+					"denial": 295,
+					"parity": 443,
+					"superiority": 767,
+					"supremacy": 1180
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -15503,8 +15691,8 @@
 				"code": "8-1",
 				"introduction": "We lost the Arctic Sea during the previous battle with the Sakura at Midway. Let's take it back!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 70",
-					"requiredLevel": 70
+					"text": "HQ Lv. 60",
+					"requiredLevel": 60
 				},
 				"threeStarRewards": [
 					{
@@ -15512,7 +15700,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 100
 					}
 				],
@@ -15534,10 +15722,12 @@
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1055,
-					"superiority": 528,
-					"supremacy": 792
+					"denial": 528,
+					"parity": 792,
+					"superiority": 1372,
+					"supremacy": 2110
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -15796,16 +15986,18 @@
 					"bossFleet": 689
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 650,
-					"superiority": 325,
-					"supremacy": 488
+					"denial": 325,
+					"parity": 488,
+					"superiority": 845,
+					"supremacy": 1300
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -16081,8 +16273,8 @@
 				"code": "8-2",
 				"introduction": "The waters near the Aleutian Islands are frigid and piercing. Dawn in the Arctic has come.",
 				"unlockRequirements": {
-					"text": "HQ Lv. 70",
-					"requiredLevel": 70
+					"text": "HQ Lv. 60",
+					"requiredLevel": 60
 				},
 				"threeStarRewards": [
 					{
@@ -16090,7 +16282,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 150
 					}
 				],
@@ -16112,10 +16304,12 @@
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1150,
-					"superiority": 575,
-					"supremacy": 863
+					"denial": 575,
+					"parity": 863,
+					"superiority": 1495,
+					"supremacy": 2300
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -16446,16 +16640,18 @@
 					"bossFleet": 703
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 710,
-					"superiority": 355,
-					"supremacy": 533
+					"denial": 355,
+					"parity": 533,
+					"superiority": 923,
+					"supremacy": 1420
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -16775,8 +16971,8 @@
 				"code": "8-3",
 				"introduction": "Salt Lake City has maintained heavy damage. The situation is critical!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 70",
-					"requiredLevel": 70
+					"text": "HQ Lv. 60",
+					"requiredLevel": 60
 				},
 				"threeStarRewards": [
 					{
@@ -16784,7 +16980,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 200
 					}
 				],
@@ -16806,10 +17002,12 @@
 					"Sink 25 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1245,
-					"superiority": 623,
-					"supremacy": 934
+					"denial": 623,
+					"parity": 934,
+					"superiority": 1619,
+					"supremacy": 2490
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -17159,7 +17357,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -17180,10 +17378,12 @@
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 770,
-					"superiority": 385,
-					"supremacy": 578
+					"denial": 385,
+					"parity": 578,
+					"superiority": 1001,
+					"supremacy": 1540
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
@@ -17528,8 +17728,8 @@
 				"code": "8-4",
 				"introduction": "The enemy flagships have been destroyed, but new enemies have appeared. This is the old battlefield.",
 				"unlockRequirements": {
-					"text": "HQ Lv. 70",
-					"requiredLevel": 70
+					"text": "HQ Lv. 60",
+					"requiredLevel": 60
 				},
 				"threeStarRewards": [
 					{
@@ -17537,7 +17737,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 250
 					}
 				],
@@ -17559,10 +17759,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1350,
-					"superiority": 675,
-					"supremacy": 1013
+					"denial": 675,
+					"parity": 1013,
+					"superiority": 1755,
+					"supremacy": 2700
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -17918,7 +18120,7 @@
 			"cn": "科曼多尔海战役",
 			"jp": "極北の海戦"
 		},
-		"image": "/w/images/thumb/9/9f/Chapter_8.png/500px-Chapter_8.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/9/9f/Chapter_8.png/700px-Chapter_8.png"
 	},
 	{
 		"1": {
@@ -17961,22 +18163,29 @@
 					"bossFleet": 727
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 840,
-					"superiority": 420,
-					"supremacy": 630
+					"denial": 420,
+					"parity": 630,
+					"superiority": 1092,
+					"supremacy": 1680
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 27,
+					"boss": 37,
+					"submarine": 15
+				},
 				"blueprintDrops": [
 					{
 						"name": "Twin 105mm (SK C/33)",
@@ -18245,8 +18454,8 @@
 				"code": "9-1",
 				"introduction": "Under the cover of darkness, the Sakura's elite destroyers are heading towards Cologne Island.",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "HQ Lv. 65",
+					"requiredLevel": 65
 				},
 				"threeStarRewards": [
 					{
@@ -18254,7 +18463,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 250
 					}
 				],
@@ -18276,10 +18485,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1440,
-					"superiority": 720,
-					"supremacy": 1080
+					"denial": 720,
+					"parity": 1080,
+					"superiority": 1872,
+					"supremacy": 2880
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -18609,22 +18820,29 @@
 					"bossFleet": 742
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 915,
-					"superiority": 458,
-					"supremacy": 687
+					"denial": 458,
+					"parity": 687,
+					"superiority": 1190,
+					"supremacy": 1830
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 28,
+					"boss": 38,
+					"submarine": 15
+				},
 				"blueprintDrops": [
 					{
 						"name": "Ship Maintenance Crane",
@@ -18893,8 +19111,8 @@
 				"code": "9-2",
 				"introduction": "The enemy is close, Commander. Which will win out - the Sakura's torpedoes or the Eagles' light cruisers?",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "HQ Lv. 65",
+					"requiredLevel": 65
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -18907,7 +19125,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 350
 					}
 				],
@@ -18929,10 +19147,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1535,
-					"superiority": 768,
-					"supremacy": 1152
+					"denial": 768,
+					"parity": 1152,
+					"superiority": 1996,
+					"supremacy": 3070
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -19262,22 +19482,29 @@
 					"bossFleet": 756
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 990,
-					"superiority": 495,
-					"supremacy": 743
+					"denial": 495,
+					"parity": 743,
+					"superiority": 1287,
+					"supremacy": 1980
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 29,
+					"boss": 39,
+					"submarine": 15
+				},
 				"blueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
@@ -19580,8 +19807,8 @@
 				"code": "9-3",
 				"introduction": "Helena's guns lit up the night sky, scattering light across the violent waters. Her position is exposed.",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "HQ Lv. 65",
+					"requiredLevel": 65
 				},
 				"threeStarRewards": [
 					{
@@ -19589,7 +19816,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 450
 					}
 				],
@@ -19611,10 +19838,12 @@
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1635,
-					"superiority": 818,
-					"supremacy": 1227
+					"denial": 818,
+					"parity": 1227,
+					"superiority": 2126,
+					"supremacy": 3270
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -19953,7 +20182,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -19968,22 +20197,29 @@
 					"bossFleet": 770
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1065,
-					"superiority": 533,
-					"supremacy": 799
+					"denial": 533,
+					"parity": 799,
+					"superiority": 1385,
+					"supremacy": 2130
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T3 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 30,
+					"boss": 40,
+					"submarine": 15
+				},
 				"blueprintDrops": [
 					{
 						"name": "Twin 100mm (Type 98)",
@@ -20287,8 +20523,8 @@
 				"code": "9-4",
 				"introduction": "The enemy's destroyers showed some serious skill when fighting during the night. Heads up!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "HQ Lv. 65",
+					"requiredLevel": 65
 				},
 				"threeStarRewards": [
 					{
@@ -20296,7 +20532,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 550
 					}
 				],
@@ -20318,10 +20554,12 @@
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1735,
-					"superiority": 868,
-					"supremacy": 1302
+					"denial": 868,
+					"parity": 1302,
+					"superiority": 2256,
+					"supremacy": 3470
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -20637,7 +20875,7 @@
 			"cn": "库拉湾海战",
 			"jp": "クラ湾海戦"
 		},
-		"image": "/w/images/thumb/5/5b/Chapter_9.png/500px-Chapter_9.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/5/5b/Chapter_9.png/700px-Chapter_9.png"
 	},
 	{
 		"1": {
@@ -20683,23 +20921,30 @@
 					"bossFleet": 790
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1155,
-					"superiority": 578,
-					"supremacy": 867
+					"denial": 578,
+					"parity": 867,
+					"superiority": 1502,
+					"supremacy": 2310
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
-				"additionalNotes": "Once the boss shows up, it will spawn a chain of several suicide boats in a horizontal formation against your fleet which aims straight at your flagship.",
+				"fuelCostLimit": {
+					"mob": 31,
+					"boss": 42,
+					"submarine": 18
+				},
+				"additionalNotes": "Once the boss shows up, it will spawn a chain of several enhanced bomb boats in a horizontal formation against your fleet which aims straight at your flagship.",
 				"blueprintDrops": [
 					{
 						"name": "Twin 105mm (SK C/33)",
@@ -20971,7 +21216,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -20995,10 +21240,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1855,
-					"superiority": 928,
-					"supremacy": 1392
+					"denial": 928,
+					"parity": 1392,
+					"superiority": 2412,
+					"supremacy": 3710
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -21323,22 +21570,29 @@
 					"bossFleet": 798
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1250,
-					"superiority": 625,
-					"supremacy": 938
+					"denial": 625,
+					"parity": 938,
+					"superiority": 1625,
+					"supremacy": 2500
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 32,
+					"boss": 43,
+					"submarine": 16
+				},
 				"additionalNotes": "The boss is escorted by 2 Heavy Cruisers which shield it from your escort ships. Best way to handle it is to have Battleships/Battlecruisers that can target the boss directly.",
 				"blueprintDrops": [
 					{
@@ -21657,7 +21911,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -21678,10 +21932,12 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1970,
-					"superiority": 985,
-					"supremacy": 1478
+					"denial": 985,
+					"parity": 1478,
+					"superiority": 2561,
+					"supremacy": 3940
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -22052,22 +22308,29 @@
 					"bossFleet": 812
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1345,
-					"superiority": 673,
-					"supremacy": 1009
+					"denial": 673,
+					"parity": 1009,
+					"superiority": 1749,
+					"supremacy": 2690
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 33,
+					"boss": 44,
+					"submarine": 16
+				},
 				"additionalNotes": "Enemy Boss is backed by 2 Battleships who will directly attack your backline ships, whereas the Boss will continuously spawn a volley of torpedoes. Over time some Suicide Boats will appear and head straight for your flagship.",
 				"blueprintDrops": [
 					{
@@ -22393,7 +22656,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -22414,10 +22677,12 @@
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 2090,
-					"superiority": 1045,
-					"supremacy": 1568
+					"denial": 1045,
+					"parity": 1568,
+					"superiority": 2717,
+					"supremacy": 4180
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -22780,7 +23045,7 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					}
 				],
 				"enemyLevel": {
@@ -22795,22 +23060,29 @@
 					"bossFleet": 826
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1440,
-					"superiority": 720,
-					"supremacy": 1080
+					"denial": 720,
+					"parity": 1080,
+					"superiority": 1872,
+					"supremacy": 2880
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 34,
+					"boss": 45,
+					"submarine": 16
+				},
 				"blueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
@@ -23143,7 +23415,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -23164,10 +23436,12 @@
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 2210,
-					"superiority": 1105,
-					"supremacy": 1658
+					"denial": 1105,
+					"parity": 1658,
+					"superiority": 2873,
+					"supremacy": 4420
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -23519,7 +23793,7 @@
 			"cn": "科隆班加拉岛夜战",
 			"jp": "コロンバンガラ島沖海戦"
 		},
-		"image": "/w/images/thumb/2/20/Chapter_10.png/500px-Chapter_10.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/2/20/Chapter_10.png/700px-Chapter_10.png"
 	},
 	{
 		"1": {
@@ -23550,7 +23824,7 @@
 						"item": "T4 Equipment Box"
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 100
 					}
 				],
@@ -23569,22 +23843,29 @@
 					"bossFleet": 1051
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (7) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1520,
-					"superiority": 760,
-					"supremacy": 1140
+					"denial": 760,
+					"parity": 1140,
+					"superiority": 1976,
+					"supremacy": 3040
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 35,
+					"boss": 47,
+					"submarine": 16
+				},
 				"blueprintDrops": [
 					{
 						"name": "Twin 127mm (5\"/38 Mk 38)",
@@ -23867,7 +24148,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -23889,12 +24170,14 @@
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (7) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 2220,
-					"superiority": 1110,
-					"supremacy": 1665
+					"denial": 1110,
+					"parity": 1665,
+					"superiority": 2886,
+					"supremacy": 4440
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -24207,7 +24490,7 @@
 						"item": "Universal Bullin"
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 150
 					}
 				],
@@ -24227,18 +24510,25 @@
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (8) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1610,
-					"superiority": 805,
-					"supremacy": 1208
+					"denial": 805,
+					"parity": 1208,
+					"superiority": 2093,
+					"supremacy": 3220
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 36,
+					"boss": 48,
+					"submarine": 16
+				},
 				"blueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
@@ -24580,7 +24870,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -24601,10 +24891,12 @@
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 2360,
-					"superiority": 1180,
-					"supremacy": 1770
+					"denial": 1180,
+					"parity": 1770,
+					"superiority": 3068,
+					"supremacy": 4720
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -24976,7 +25268,7 @@
 						"item": "T5 Equipment Box"
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 200
 					}
 				],
@@ -24995,22 +25287,29 @@
 					"bossFleet": 1068
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (8) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1700,
-					"superiority": 850,
-					"supremacy": 1275
+					"denial": 850,
+					"parity": 1275,
+					"superiority": 2210,
+					"supremacy": 3400
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 37,
+					"boss": 49,
+					"submarine": 16
+				},
 				"blueprintDrops": [
 					{
 						"name": "Quadruple 40mm L60 Mk2 Bofors",
@@ -25350,7 +25649,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -25372,12 +25671,14 @@
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (8) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 2480,
-					"superiority": 1240,
-					"supremacy": 1860
+					"denial": 1240,
+					"parity": 1860,
+					"superiority": 3224,
+					"supremacy": 4960
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -25739,10 +26040,10 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					},
 					{
-						"item": "Cognitive chip",
+						"item": "Cognitive Chip",
 						"count": 250
 					}
 				],
@@ -25758,22 +26059,29 @@
 					"bossFleet": 1078
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 45 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (8) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 1790,
-					"superiority": 895,
-					"supremacy": 1343
+					"denial": 895,
+					"parity": 1343,
+					"superiority": 2327,
+					"supremacy": 3580
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 38,
+					"boss": 50,
+					"submarine": 16
+				},
 				"blueprintDrops": [
 					{
 						"name": "Twin 113mm (4.5\"/45 QF Mk I)",
@@ -26156,7 +26464,7 @@
 						"count": 2
 					},
 					{
-						"item": "Cognitive chip"
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -26175,12 +26483,14 @@
 				"starConditions": [
 					"Sink Boss",
 					"Sink 45 Fleets",
-					"Sink all Fleets on the map"
+					"Sink all (8) Fleets on the map"
 				],
-				"airSupremacy": {
+				"airspaceControl": {
 					"actual": 2640,
-					"superiority": 1320,
-					"supremacy": 1980
+					"denial": 1320,
+					"parity": 1980,
+					"superiority": 3432,
+					"supremacy": 5280
 				},
 				"fleetRestrictions": {
 					"fleet1": {
@@ -26561,7 +26871,7 @@
 			"cn": "奥古斯塔皇后湾海战",
 			"jp": "エンプレスオーガスタ"
 		},
-		"image": "/w/images/thumb/a/a7/Chapter_11.png/500px-Chapter_11.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/a/a7/Chapter_11.png/700px-Chapter_11.png"
 	},
 	{
 		"1": {
@@ -26575,8 +26885,8 @@
 				"code": "12-1",
 				"introduction": "Our submarines say the enemy is preparing a large-scale counterattack. We must make use of this information, stage an attack, and surprise the enemy!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "Commander Lv. 80 and Clear 11-4",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -26592,14 +26902,16 @@
 						"item": "T4 Equipment Box"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 250
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
 					"mobLevel": 107,
 					"bossLevel": 108,
-					"boss": "Myoukou"
+					"boss": [
+						"Myoukou",
+						"Heavy cruiser (CA)"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 750,
@@ -26608,22 +26920,30 @@
 					"bossFleet": 1096
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 30 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 30 escort fleets",
+					"Defeat all enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 150,
+				"airspaceControl": {
 					"actual": 1890,
-					"superiority": 945,
-					"supremacy": 1418
+					"denial": 945,
+					"parity": 1418,
+					"superiority": 2457,
+					"supremacy": 3780
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 39,
+					"boss": 52,
+					"submarine": 17
+				},
 				"blueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
@@ -26634,7 +26954,7 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 25mm AA Type 96",
+						"name": "Twin 25mm AA (Type 96)",
 						"tier": "T3"
 					},
 					{
@@ -26651,7 +26971,14 @@
 					"Unicorn",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Gridley",
 					"Fletcher",
 					"Thatcher",
@@ -26927,7 +27254,388 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Information Warfare",
+				"code": "12-1",
+				"introduction": "Our submarines say the enemy is preparing a large-scale counterattack. We must make use of this information, stage an attack, and surprise the enemy!",
+				"unlockRequirements": {
+					"text": "Commander Lv. 80",
+					"requiredLevel": null
+				},
+				"threeStarRewards": [
+					{
+						"item": "T3 Destroyer Retrofit Blueprint",
+						"count": 2
+					},
+					{
+						"item": "Cognitive Datapack"
+					},
+					{
+						"item": "(25x Array 250x Chips)"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 118,
+					"bossLevel": 119,
+					"boss": [
+						"Myoukou",
+						"Heavy cruiser (CA)"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 750,
+					"mediumFleet": 825,
+					"largeFleet": 900,
+					"bossFleet": 1096
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Defeat flagship",
+					"Defeat 30 escort fleets",
+					"Defeat all (7) enemies"
+				],
+				"reconValue": 150,
+				"airspaceControl": {
+					"actual": 2740,
+					"denial": 1370,
+					"parity": 2055,
+					"superiority": 3562,
+					"supremacy": 5480
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"heavyCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 104,
+					"torpedo": 2100,
+					"anti-Air": 3400
+				},
+				"mapDrops": [
+					"T1-T3 Destroyer Retrofit Blueprint",
+					"Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"blueprintDrops": [
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 203mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 25mm AA (Type 96)",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M2 Zero",
+						"tier": "T3"
+					},
+					{
+						"name": "Mitsubishi A6M5 Zero",
+						"tier": "T2"
+					}
+				],
+				"shipDrops": [
+					"Helena",
+					"Unicorn",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
+					"Gridley",
+					"Fletcher",
+					"Thatcher",
+					"Fortune",
+					"Juno",
+					"Cassin",
+					"Downes",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Beagle",
+					"Bulldog",
+					"Foxhound",
+					"Leander",
+					"Hermes",
+					"Königsberg",
+					"Karlsruhe",
+					"Köln"
+				],
+				"nodeMap": {
+					"width": 8,
+					"height": 6,
+					"map": [
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Land",
+							"Land"
+						],
+						[
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Sea",
+							"Land",
+							"Boss spawn"
+						],
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Boss spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Boss spawn"
+						}
+					]
+				}
+			}
 		},
 		"2": {
 			"names": {
@@ -26940,8 +27648,8 @@
 				"code": "12-2",
 				"introduction": "The Mobile Fleet is being protected by a Destroyer Fleet as they practice! This is a superb opportunity to launch an all-out attack!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "Commander Lv. 80 and Clear 12-1",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -26954,11 +27662,10 @@
 						"count": 50
 					},
 					{
-						"item": "Universal Bullin"
+						"item": "Universal Bulin"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 350
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -26966,7 +27673,9 @@
 					"bossLevel": 110,
 					"boss": [
 						"Tanikaze",
-						"Oyashio"
+						"Destroyer (DD)",
+						"Oyashio",
+						"Destroyer (DD)"
 					]
 				},
 				"baseXP": {
@@ -26978,20 +27687,28 @@
 				"requiredBattles": 6,
 				"bossKillsToClear": 4,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 35 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 35 escort fleets",
+					"Defeat all enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 150,
+				"airspaceControl": {
 					"actual": 1995,
-					"superiority": 998,
-					"supremacy": 1497
+					"denial": 998,
+					"parity": 1497,
+					"superiority": 2594,
+					"supremacy": 3990
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 40,
+					"boss": 53,
+					"submarine": 17
+				},
 				"blueprintDrops": [
 					{
 						"name": "610mm Quadruple Torpedo Mount",
@@ -27010,7 +27727,7 @@
 						"tier": "T2"
 					},
 					{
-						"name": "Triple 25mm AA Type 96",
+						"name": "Triple 25mm AA (Type 96)",
 						"tier": "T3"
 					}
 				],
@@ -27019,7 +27736,14 @@
 					"Vestal",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Hiyou",
 					"Sims",
 					"Hammann",
@@ -27347,7 +28071,442 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Ambush",
+				"code": "12-2",
+				"introduction": "The Mobile Fleet is being protected by a Destroyer Fleet as they practice! This is a superb opportunity to launch an all-out attack!",
+				"unlockRequirements": {
+					"text": "Commander Lv. 80",
+					"requiredLevel": null
+				},
+				"threeStarRewards": [
+					{
+						"item": "T3 Cruiser Retrofit Blueprint",
+						"count": 2
+					},
+					{
+						"item": "Cognitive Datapack"
+					},
+					{
+						"item": "(25x Array 350x Chips)"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 120,
+					"bossLevel": 121,
+					"boss": [
+						"Tanikaze",
+						"Destroyer (DD)",
+						"Oyashio",
+						"Destroyer (DD)"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 756,
+					"mediumFleet": 831,
+					"largeFleet": 907,
+					"bossFleet": 1105
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Defeat flagship",
+					"Defeat 35 escort fleets",
+					"Defeat all (8) enemies"
+				],
+				"reconValue": 150,
+				"airspaceControl": {
+					"actual": 2810,
+					"denial": 1405,
+					"parity": 2108,
+					"superiority": 3653,
+					"supremacy": 5620
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"heavyCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 106,
+					"torpedo": 2200,
+					"anti-Air": 3500
+				},
+				"mapDrops": [
+					"T1-T3 Cruiser Retrofit Blueprint",
+					"Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"blueprintDrops": [
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm (Type 3)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 140mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Triple 25mm AA (Type 96)",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Cleveland",
+					"Vestal",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
+					"Hiyou",
+					"Sims",
+					"Hammann",
+					"Atlanta",
+					"Juneau",
+					"Cassin",
+					"Downes",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Beagle",
+					"Bulldog",
+					"Foxhound",
+					"Leander",
+					"Hermes",
+					"Königsberg",
+					"Karlsruhe",
+					"Köln"
+				],
+				"nodeMap": {
+					"width": 9,
+					"height": 7,
+					"map": [
+						[
+							"Land",
+							"Boss spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land"
+						],
+						[
+							"Boss spawn",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Fleet spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Boss spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea",
+							"Fleet spawn",
+							"Land",
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn"
+						],
+						[
+							"Land",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Land"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 5,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 6,
+							"node": "Land"
+						}
+					]
+				}
+			}
 		},
 		"3": {
 			"names": {
@@ -27360,8 +28519,8 @@
 				"code": "12-3",
 				"introduction": "We've detected incoming large squadrons of enemy aircraft! Scramble your fighters and pull back the curtains on this decisive battle in the skies!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "Commander Lv. 80 and Clear 12-2",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -27377,8 +28536,7 @@
 						"item": "T5 Equipment Box"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 450
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -27386,7 +28544,9 @@
 					"bossLevel": 112,
 					"boss": [
 						"Hiyou",
-						"Junyou"
+						"Aircraft carrier (CV)",
+						"Junyou",
+						"Aircraft carrier (CV)"
 					]
 				},
 				"baseXP": {
@@ -27396,22 +28556,30 @@
 					"bossFleet": 1115
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 40 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 40 escort fleets",
+					"Defeat all enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 154,
+				"airspaceControl": {
 					"actual": 2100,
-					"superiority": 1050,
-					"supremacy": 1575
+					"denial": 1050,
+					"parity": 1575,
+					"superiority": 2730,
+					"supremacy": 4200
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 41,
+					"boss": 54,
+					"submarine": 17
+				},
 				"blueprintDrops": [
 					{
 						"name": "Yokosuka D4Y Suisei",
@@ -27422,7 +28590,7 @@
 						"tier": "T2"
 					},
 					{
-						"name": "Twin 40mm Vickers (\"HI\" Shiki Type 91)",
+						"name": "Twin 40mm Vickers (Type 91)",
 						"tier": "T3"
 					},
 					{
@@ -27439,7 +28607,14 @@
 					"Saratoga",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Junyou",
 					"Brooklyn",
 					"Phoenix",
@@ -27779,7 +28954,454 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Carrier Showdown",
+				"code": "12-3",
+				"introduction": "We've detected incoming large squadrons of enemy aircraft! Scramble your fighters and pull back the curtains on this decisive battle in the skies!",
+				"unlockRequirements": {
+					"text": "Commander Lv. 80",
+					"requiredLevel": null
+				},
+				"threeStarRewards": [
+					{
+						"item": "T3 Battleship Retrofit Blueprint",
+						"count": 2
+					},
+					{
+						"item": "Cognitive Datapack"
+					},
+					{
+						"item": "(25x Array 450x Chips)"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 122,
+					"bossLevel": 123,
+					"boss": [
+						"Hiyou",
+						"Aircraft carrier (CV)",
+						"Junyou",
+						"Aircraft carrier (CV)"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 762,
+					"mediumFleet": 838,
+					"largeFleet": 915,
+					"bossFleet": 1115
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Defeat flagship",
+					"Defeat 40 escort fleets",
+					"Defeat all enemies"
+				],
+				"reconValue": 154,
+				"airspaceControl": {
+					"actual": 2960,
+					"denial": 1480,
+					"parity": 2220,
+					"superiority": 3848,
+					"supremacy": 5920
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"heavyCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 108,
+					"torpedo": 2300,
+					"anti-Air": 3600
+				},
+				"mapDrops": [
+					"T1-T3 Battleship Retrofit Blueprint",
+					"Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"blueprintDrops": [
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 155mm (3rd Year Type)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 40mm Vickers (Type 91)",
+						"tier": "T3"
+					},
+					{
+						"name": "Aichi D3A Type 99",
+						"tier": "T3"
+					},
+					{
+						"name": "Yokosuka D4Y Suisei",
+						"tier": "T2"
+					}
+				],
+				"shipDrops": [
+					"Lexington",
+					"Saratoga",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
+					"Junyou",
+					"Brooklyn",
+					"Phoenix",
+					"Achilles",
+					"Ajax",
+					"Cassin",
+					"Downes",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Beagle",
+					"Bulldog",
+					"Foxhound",
+					"Leander",
+					"Hermes",
+					"Königsberg",
+					"Karlsruhe",
+					"Köln"
+				],
+				"nodeMap": {
+					"width": 10,
+					"height": 7,
+					"map": [
+						[
+							"Boss spawn",
+							"Land",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Land",
+							"Boss spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Land"
+						],
+						[
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 1,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 5,
+							"y": 6,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 7,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 6,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			}
 		},
 		"4": {
 			"names": {
@@ -27792,8 +29414,8 @@
 				"code": "12-4",
 				"introduction": "War has changed. Victory favors those who have gained air superiority. Launch your planes and seize control of the Mariana skies!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 80",
-					"requiredLevel": 80
+					"text": "Commander Lv. 80 and Clear 12-3",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 2,
@@ -27806,11 +29428,10 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 550
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -27818,7 +29439,9 @@
 					"bossLevel": 114,
 					"boss": [
 						"Choukai",
-						"Maya"
+						"Heavy cruiser (CA)",
+						"Maya",
+						"Heavy cruiser (CA)"
 					]
 				},
 				"baseXP": {
@@ -27830,20 +29453,28 @@
 				"requiredBattles": 6,
 				"bossKillsToClear": 5,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 45 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 45 escort fleets",
+					"Defeat all enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 158,
+				"airspaceControl": {
 					"actual": 2205,
-					"superiority": 1103,
-					"supremacy": 1654
+					"denial": 1103,
+					"parity": 1654,
+					"superiority": 2867,
+					"supremacy": 4410
 				},
 				"mapDrops": [
 					"T1-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 42,
+					"boss": 55,
+					"submarine": 17
+				},
 				"blueprintDrops": [
 					{
 						"name": "Twin 100mm (Type 98)",
@@ -27858,7 +29489,7 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 127mm AA Gun (Type 89)",
+						"name": "Twin 127mm AA (Type 89)",
 						"tier": "T3"
 					},
 					{
@@ -27875,7 +29506,14 @@
 					"London",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Portland",
 					"Shropshire",
 					"Kent",
@@ -28330,7 +29968,573 @@
 					]
 				}
 			},
-			"hard": null
+			"hard": {
+				"title": "Task Force",
+				"code": "12-4",
+				"introduction": "War has changed. Victory favors those who have gained air superiority. Launch your planes and seize control of the Mariana skies!",
+				"unlockRequirements": {
+					"text": "Commander Lv. 80",
+					"requiredLevel": null
+				},
+				"threeStarRewards": [
+					{
+						"item": "T3 Carrier Retrofit Blueprint",
+						"count": 2
+					},
+					{
+						"item": "Cognitive Datapack"
+					},
+					{
+						"item": "(25x Array 550x Chips)"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 124,
+					"bossLevel": 125,
+					"boss": [
+						"Choukai",
+						"Heavy cruiser (CA)",
+						"Maya",
+						"Heavy cruiser (CA)"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 768,
+					"mediumFleet": 845,
+					"largeFleet": 922,
+					"bossFleet": 1123
+				},
+				"requiredBattles": 7,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Defeat flagship",
+					"Defeat 45 escort fleets",
+					"Defeat all enemies"
+				],
+				"reconValue": 158,
+				"airspaceControl": {
+					"actual": 3150,
+					"denial": 1575,
+					"parity": 2363,
+					"superiority": 4095,
+					"supremacy": 6300
+				},
+				"fleetRestrictions": {
+					"fleet1": {
+						"lightAircraftCarrier": 1,
+						"aircraftCarrier": 1,
+						"lightCruiser": 1,
+						"destroyer": 1
+					},
+					"fleet2": {
+						"battlecruiser": 1,
+						"heavyCruiser": 1
+					}
+				},
+				"statRestrictions": {
+					"averageLevel": 110,
+					"torpedo": 2400,
+					"anti-Air": 3700
+				},
+				"mapDrops": [
+					"T1-T3 Carrier Retrofit Blueprint",
+					"Core Data",
+					"T1-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes"
+				],
+				"blueprintDrops": [
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 100mm (Type 98)",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 410mm (3rd Year Type)",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 127mm AA (Type 89)",
+						"tier": "T3"
+					},
+					{
+						"name": "Nakajima B6N Tenzan",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					{
+						"name": "Choukai",
+						"note": "Boss only"
+					},
+					"Indianapolis",
+					"London",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
+					"Portland",
+					"Shropshire",
+					"Kent",
+					"Suffolk",
+					"Norfolk",
+					"Cassin",
+					"Downes",
+					"Nevada",
+					"Oklahoma",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Beagle",
+					"Bulldog",
+					"Foxhound",
+					"Leander",
+					"Hermes",
+					"Königsberg",
+					"Karlsruhe",
+					"Köln"
+				],
+				"nodeMap": {
+					"width": 11,
+					"height": 8,
+					"map": [
+						[
+							"Boss spawn",
+							"Boss spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Land",
+							"Boss spawn",
+							"Boss spawn",
+							"Land"
+						],
+						[
+							"Enemy spawn",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Resupply node",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Land",
+							"Land",
+							"Enemy spawn"
+						],
+						[
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Sea"
+						],
+						[
+							"Land",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Submarine Spawn",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Land",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Sea"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 9,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 10,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Resupply node"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 10,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 10,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 5,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 10,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 7,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 5,
+							"y": 7,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 6,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 7,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			}
 		},
 		"id": "12",
 		"names": {
@@ -28338,7 +30542,7 @@
 			"cn": "马里亚纳风云上",
 			"jp": "風雲マリアナ・上"
 		},
-		"image": "/w/images/thumb/8/8e/Chapter_12.png/500px-Chapter_12.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/8/8e/Chapter_12.png/700px-Chapter_12.png"
 	},
 	{
 		"1": {
@@ -28352,8 +30556,8 @@
 				"code": "13-1",
 				"introduction": "The first wave of enemy aircraft is fast approaching! The decisive carrier battle is about to begin...",
 				"unlockRequirements": {
-					"text": "HQ Lv. 85",
-					"requiredLevel": 85
+					"text": "Commander Lv. 85 and Clear 12-4",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -28369,14 +30573,16 @@
 						"item": "T4 Equipment Box"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 250
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
 					"mobLevel": 115,
 					"bossLevel": 116,
-					"boss": "Mogami"
+					"boss": [
+						"Mogami",
+						"Heavy cruiser (CA)"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 780,
@@ -28387,20 +30593,28 @@
 				"requiredBattles": 6,
 				"bossKillsToClear": 4,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 30 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 30 escort fleets",
+					"Defeat all (8) enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 154,
+				"airspaceControl": {
 					"actual": 2315,
-					"superiority": 1158,
-					"supremacy": 1737
+					"denial": 1158,
+					"parity": 1737,
+					"superiority": 3010,
+					"supremacy": 4630
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 43,
+					"boss": 57,
+					"submarine": 18
+				},
 				"blueprintDrops": [
 					{
 						"name": "Triple 155mm (3rd Year Type)",
@@ -28415,7 +30629,7 @@
 						"tier": "T3"
 					},
 					{
-						"name": "Quadruple 28mm AA Chicago Piano",
+						"name": "Quadruple 28mm Chicago Piano",
 						"tier": "T3"
 					},
 					{
@@ -28428,7 +30642,14 @@
 					"Vestal",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Atlanta",
 					"Juneau",
 					"Long Island",
@@ -28702,8 +30923,8 @@
 				"code": "13-2",
 				"introduction": "As the second wave of attacks approach, the sound of a flute heralds the coming of the final battle.",
 				"unlockRequirements": {
-					"text": "HQ Lv. 85",
-					"requiredLevel": 85
+					"text": "Commander Lv. 85 and Clear 13-1",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -28716,17 +30937,19 @@
 						"count": 50
 					},
 					{
-						"item": "Universal Bullin"
+						"item": "Universal Bulin"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 350
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
 					"mobLevel": 117,
 					"bossLevel": 118,
-					"boss": "Shoukaku"
+					"boss": [
+						"Shoukaku",
+						"Aircraft carrier (CV)"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 786,
@@ -28737,20 +30960,28 @@
 				"requiredBattles": 6,
 				"bossKillsToClear": 4,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 35 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 35 escort fleets",
+					"Defeat all (9) enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 154,
+				"airspaceControl": {
 					"actual": 2450,
-					"superiority": 1225,
-					"supremacy": 1838
+					"denial": 1225,
+					"parity": 1838,
+					"superiority": 3185,
+					"supremacy": 4900
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 44,
+					"boss": 58,
+					"submarine": 18
+				},
 				"blueprintDrops": [
 					{
 						"name": "Mitsubishi A6M5 Zero",
@@ -28778,7 +31009,14 @@
 					"Saratoga",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Atlanta",
 					"Juneau",
 					"Hiyou",
@@ -29119,8 +31357,8 @@
 				"code": "13-3",
 				"introduction": "Zuikaku, now a renowned veteran, takes up the banner of the First Carrier Division. Face her fierce assault with everything you have!",
 				"unlockRequirements": {
-					"text": "HQ Lv. 85",
-					"requiredLevel": 85
+					"text": "Commander Lv. 85 and Clear 13-2",
+					"requiredLevel": null
 				},
 				"clearRewards": {
 					"cube": 1,
@@ -29136,8 +31374,7 @@
 						"item": "T5 Equipment Box"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 450
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
@@ -29145,7 +31382,9 @@
 					"bossLevel": 120,
 					"boss": [
 						"Shoukaku",
-						"Zuikaku"
+						"Aircraft carrier (CV)",
+						"Zuikaku",
+						"Aircraft carrier (CV)"
 					]
 				},
 				"baseXP": {
@@ -29155,29 +31394,37 @@
 					"bossFleet": 1159
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 4,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 40 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 40 escort fleets",
+					"Defeat all enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 158,
+				"airspaceControl": {
 					"actual": 2585,
-					"superiority": 1293,
-					"supremacy": 1939
+					"denial": 1293,
+					"parity": 1939,
+					"superiority": 3361,
+					"supremacy": 5170
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 45,
+					"boss": 59,
+					"submarine": 18
+				},
 				"blueprintDrops": [
 					{
 						"name": "Grumman F6F Hellcat",
 						"tier": "T3"
 					},
 					{
-						"name": "Twin 40mm AA L60 Bofors",
+						"name": "Twin 40mm Bofors (Mk 1 Mount)",
 						"tier": "T3"
 					},
 					{
@@ -29198,7 +31445,14 @@
 					"Hornet",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Atlanta",
 					"Juneau",
 					"Long Island",
@@ -29556,11 +31810,11 @@
 				"code": "13-4",
 				"introduction": "The final battle is now! Our target - the state-of-the-art armored carrier, Taihou! However, history may not repeat itself again...",
 				"unlockRequirements": {
-					"text": "HQ Lv. 85",
-					"requiredLevel": 85
+					"text": "Commander Lv. 85 and Clear 13-3",
+					"requiredLevel": null
 				},
 				"clearRewards": {
-					"cube": 1,
+					"cube": 2,
 					"coin": 1000,
 					"oil": 150
 				},
@@ -29570,17 +31824,19 @@
 						"count": 100
 					},
 					{
-						"item": "Trial Bullin MKII"
+						"item": "Prototype Bulin MKII"
 					},
 					{
-						"item": "Cognitive chip",
-						"count": 550
+						"item": "Cognitive Chip"
 					}
 				],
 				"enemyLevel": {
 					"mobLevel": 121,
 					"bossLevel": 122,
-					"boss": "Taihou"
+					"boss": [
+						"Taihou",
+						"Aircraft carrier (CV)"
+					]
 				},
 				"baseXP": {
 					"smallFleet": 798,
@@ -29589,22 +31845,30 @@
 					"bossFleet": 1168
 				},
 				"requiredBattles": 7,
-				"bossKillsToClear": 6,
+				"bossKillsToClear": 5,
 				"starConditions": [
-					"Sink Boss",
-					"Sink 50 Fleets",
-					"Sink all Fleets on the map"
+					"Defeat flagship",
+					"Defeat 50 escort fleets",
+					"Defeat all enemies"
 				],
-				"airSupremacy": {
+				"reconValue": 162,
+				"airspaceControl": {
 					"actual": 2720,
-					"superiority": 1360,
-					"supremacy": 2040
+					"denial": 1360,
+					"parity": 2040,
+					"superiority": 3536,
+					"supremacy": 5440
 				},
 				"mapDrops": [
 					"T2-T3 Upgrade Parts",
 					"T1-T4 Tech Boxes",
 					"Coins"
 				],
+				"fuelCostLimit": {
+					"mob": 46,
+					"boss": 60,
+					"submarine": 18
+				},
 				"blueprintDrops": [
 					{
 						"name": "Submarine-mounted Mark 16 Torpedo",
@@ -29636,7 +31900,14 @@
 					"Hiryuu",
 					"Laffey",
 					"Javelin",
-					"Z23",
+					{
+						"name": "Z23",
+						"note": "CN/EN only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP only"
+					},
 					"Atlanta",
 					"Juneau",
 					"Long Island",
@@ -30064,6 +32335,1957 @@
 			"cn": "马里亚纳风云下",
 			"jp": "風雲マリアナ・下"
 		},
-		"image": "/w/images/thumb/7/70/Chapter_13.png/500px-Chapter_13.png"
+		"image": "https://azurlane.netojuu.com/w/images/thumb/7/70/Chapter_13.png/700px-Chapter_13.png"
+	},
+	{
+		"1": {
+			"names": {
+				"en": "Night Combat",
+				"cn": "夜间遭遇",
+				"jp": "夜間戦闘"
+			},
+			"normal": {
+				"title": "Night Combat",
+				"code": "14-1",
+				"introduction": "Torpedo boats have disrupted the enemy's formation, and they've totally fallen into our trap – press the advantage!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 90",
+					"requiredLevel": 90
+				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"threeStarRewards": [
+					{
+						"item": "Gem",
+						"count": 50
+					},
+					{
+						"item": "T4 Equipment Box"
+					},
+					{
+						"item": "Cognitive Chip",
+						"count": 250
+					},
+					{
+						"item": "Cognitive Array",
+						"count": 25
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 121,
+					"bossLevel": 122,
+					"boss": "Fusou"
+				},
+				"baseXP": {
+					"smallFleet": 810,
+					"mediumFleet": 891,
+					"largeFleet": 972,
+					"bossFleet": 1215
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 30 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airspaceControl": {
+					"actual": 1985,
+					"denial": 993,
+					"parity": 1489,
+					"superiority": 2581,
+					"supremacy": 3970
+				},
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"fuelCostLimit": {
+					"mob": 44,
+					"boss": 59,
+					"submarine": 18
+				},
+				"blueprintDrops": [
+					{
+						"name": "Quadruple 40mm Bofors AA Gun Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Fire Control Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Repair Toolkit",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 406mm Main Gun",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 410mm Naval Gun Mount",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Ashigara",
+					"Helena",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
+					"Nachi",
+					"Myoukou",
+					"Tennessee",
+					"Fletcher",
+					"Hammann",
+					"Shiranui",
+					"Minazuki",
+					"Cassin",
+					"Downes",
+					"Aulick",
+					"Foote",
+					"Abukuma",
+					"Raleigh",
+					"Pensacola",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Hermes",
+					"Nevada",
+					"Oklahoma"
+				],
+				"nodeMap": {
+					"width": 8,
+					"height": 7,
+					"map": [
+						[
+							"Boss spawn",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Boss spawn",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Sea",
+							"Submarine Spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Sea",
+							"Land",
+							"Flare node",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Boss spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Enemy spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 1,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Flare node"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 6,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 6,
+							"y": 6,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 7,
+							"y": 6,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			},
+			"hard": null
+		},
+		"2": {
+			"names": {
+				"en": "Crossing the T",
+				"cn": "T字对决",
+				"jp": "T字火力"
+			},
+			"normal": {
+				"title": "Crossing the T",
+				"code": "14-2",
+				"introduction": "A battleship fleet and a cruiser fleet meet, line ahead! Unleash all the firepower you can muster!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 90",
+					"requiredLevel": 90
+				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"threeStarRewards": [
+					{
+						"item": "Gem",
+						"count": 50
+					},
+					{
+						"item": "Universal Bulin"
+					},
+					{
+						"item": "Cognitive Chip",
+						"count": 350
+					},
+					{
+						"item": "Cognitive Array",
+						"count": 25
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 123,
+					"bossLevel": 124,
+					"boss": "Yamashiro"
+				},
+				"baseXP": {
+					"smallFleet": 816,
+					"mediumFleet": 898,
+					"largeFleet": 979,
+					"bossFleet": 1224
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 4,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 35 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airspaceControl": {
+					"actual": 2085,
+					"denial": 1043,
+					"parity": 1564,
+					"superiority": 2711,
+					"supremacy": 4170
+				},
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"fuelCostLimit": {
+					"mob": 45,
+					"boss": 60,
+					"submarine": 18
+				},
+				"blueprintDrops": [
+					{
+						"name": "Octuple 40mm Pom-Pom Gun Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "SG Radar",
+						"tier": "T2"
+					},
+					{
+						"name": "Anti-Torpedo Bulge",
+						"tier": "T3"
+					},
+					{
+						"name": "Twin 380mm SK C/34 Main Gun Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 406mm Mk 5 Main Gun Mount",
+						"tier": "T3"
+					}
+				],
+				"shipDrops": [
+					"Denver",
+					"West Virginia",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
+					"Yamashiro",
+					"Phoenix",
+					"Ikazuchi",
+					"Brooklyn",
+					"Sims",
+					"Shiranui",
+					"Minazuki",
+					"Cassin",
+					"Downes",
+					"Aulick",
+					"Foote",
+					"Abukuma",
+					"Raleigh",
+					"Pensacola",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Hermes",
+					"Nevada",
+					"Oklahoma"
+				],
+				"nodeMap": {
+					"width": 9,
+					"height": 8,
+					"map": [
+						[
+							"Boss spawn",
+							"Boss spawn",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Fleet spawn",
+							"Fleet spawn"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Flare node",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Land",
+							"Land",
+							"Land",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Enemy spawn",
+							"Boss spawn",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Flare node",
+							"Enemy spawn"
+						],
+						[
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Enemy spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 1,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Flare node"
+						},
+						{
+							"x": 1,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 4,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 6,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 6,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 6,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 6,
+							"node": "Flare node"
+						},
+						{
+							"x": 8,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 7,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			},
+			"hard": null
+		},
+		"3": {
+			"names": {
+				"en": "All-Out Brawl",
+				"cn": "缠斗",
+				"jp": "乱戦"
+			},
+			"normal": {
+				"title": "All-Out Brawl",
+				"code": "14-3",
+				"introduction": "Both fleets have broken out into an all-out brawl. Stay vigilant, and hold out until you can seize victory!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 90",
+					"requiredLevel": 90
+				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"threeStarRewards": [
+					{
+						"item": "Gem",
+						"count": 50
+					},
+					{
+						"item": "T4 Equipment Box"
+					},
+					{
+						"item": "Cognitive Chip",
+						"count": 250
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 125,
+					"bossLevel": 126,
+					"boss": [
+						"Shigure",
+						"Michishio"
+					]
+				},
+				"baseXP": {
+					"smallFleet": 822,
+					"mediumFleet": 904,
+					"largeFleet": 986,
+					"bossFleet": 1233
+				},
+				"requiredBattles": 6,
+				"bossKillsToClear": 5,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 40 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"airspaceControl": {
+					"actual": 2185,
+					"denial": 1093,
+					"parity": 1639,
+					"superiority": 2841,
+					"supremacy": 4370
+				},
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"fuelCostLimit": {
+					"mob": 46,
+					"boss": 61,
+					"submarine": 18
+				},
+				"blueprintDrops": [
+					{
+						"name": "Twin 100mm Type 98 High-Angle Gun",
+						"tier": "T3"
+					},
+					{
+						"name": "Autoloader",
+						"tier": "T3"
+					},
+					{
+						"name": "Advanced Boiler",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Quadruple Torpedo Mount",
+						"tier": "T2"
+					},
+					{
+						"name": "Twin 127mm Mk 12 Dual-Purpose Gun Mount",
+						"tier": "T2"
+					}
+				],
+				"shipDrops": [
+					"Columbia",
+					"Shigure",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
+					"California",
+					"Michishio",
+					"Inazuma",
+					"Atlanta",
+					"Thatcher",
+					"Shiranui",
+					"Minazuki",
+					"Cassin",
+					"Downes",
+					"Aulick",
+					"Foote",
+					"Abukuma",
+					"Raleigh",
+					"Pensacola",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Hermes",
+					"Nevada",
+					"Oklahoma"
+				],
+				"nodeMap": {
+					"width": 10,
+					"height": 8,
+					"map": [
+						[
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						],
+						[
+							"Sea",
+							"Submarine Spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Enemy spawn",
+							"Flare node",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land"
+						],
+						[
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Submarine Spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Boss spawn",
+							"Boss spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 1,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 2,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 7,
+							"y": 2,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Flare node"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 6,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 0,
+							"y": 7,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 7,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 3,
+							"y": 7,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 5,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 7,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 7,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			},
+			"hard": null
+		},
+		"4": {
+			"names": {
+				"en": "Dawnlight Pursuit",
+				"cn": "晨曦下的追击",
+				"jp": "追撃"
+			},
+			"normal": {
+				"title": "Dawnlight Pursuit",
+				"code": "14-4",
+				"introduction": "Dawn comes at last. After a night of fighting, give chase to the enemy and cement your victory!",
+				"unlockRequirements": {
+					"text": "HQ Lv. 90",
+					"requiredLevel": 90
+				},
+				"clearRewards": {
+					"cube": 1,
+					"coin": 300,
+					"oil": 50
+				},
+				"threeStarRewards": [
+					{
+						"item": "Gem",
+						"count": 100
+					},
+					{
+						"item": "Prototype Bulin MKII"
+					},
+					{
+						"item": "Cognitive Datapack"
+					}
+				],
+				"enemyLevel": {
+					"mobLevel": 127,
+					"bossLevel": 128,
+					"boss": "Mogami"
+				},
+				"baseXP": {
+					"smallFleet": 828,
+					"mediumFleet": 911,
+					"largeFleet": 994,
+					"bossFleet": 1242
+				},
+				"requiredBattles": 7,
+				"bossKillsToClear": 6,
+				"starConditions": [
+					"Sink Boss",
+					"Sink 50 Fleets",
+					"Sink all Fleets on the map"
+				],
+				"reconValue": 168,
+				"airspaceControl": {
+					"actual": 2385,
+					"denial": 1193,
+					"parity": 1789,
+					"superiority": 3101,
+					"supremacy": 4770
+				},
+				"mapDrops": [
+					"T2-T3 Upgrade Parts",
+					"T1-T4 Tech Boxes",
+					"Coins"
+				],
+				"fuelCostLimit": {
+					"mob": 47,
+					"boss": 62,
+					"submarine": 18
+				},
+				"blueprintDrops": [
+					{
+						"name": "SG Radar",
+						"tier": "T3"
+					},
+					{
+						"name": "Gyroscope",
+						"tier": "T3"
+					},
+					{
+						"name": "Fuel Filter",
+						"tier": "T3"
+					},
+					{
+						"name": "610mm Triple Torpedo Mount",
+						"tier": "T3"
+					},
+					{
+						"name": "Triple 155mm Main Gun Mount",
+						"tier": "T2"
+					}
+				],
+				"shipDrops": [
+					{
+						"name": "New Orleans",
+						"note": "Boss only"
+					},
+					"Mogami",
+					"Cleveland",
+					"Laffey",
+					"Javelin",
+					{
+						"name": "Z23",
+						"note": "CN/EN Only"
+					},
+					{
+						"name": "Ayanami",
+						"note": "JP/KR Only"
+					},
+					"Pennsylvania",
+					"Shropshire",
+					"Shouhou",
+					"Juneau",
+					"Gridley",
+					"Shiranui",
+					"Minazuki",
+					"Cassin",
+					"Downes",
+					"Aulick",
+					"Foote",
+					"Abukuma",
+					"Raleigh",
+					"Pensacola",
+					"Bogue",
+					"Langley",
+					"Ranger",
+					"Hermes",
+					"Nevada",
+					"Oklahoma"
+				],
+				"nodeMap": {
+					"width": 11,
+					"height": 9,
+					"map": [
+						[
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Land"
+						],
+						[
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Fleet spawn",
+							"Fleet spawn",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Sea",
+							"Submarine Spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Boss spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Land",
+							"Land",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Flare node",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Resupply node",
+							"Land",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Land",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn",
+							"Sea",
+							"Sea"
+						],
+						[
+							"Land",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Land"
+						],
+						[
+							"Sea",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Sea",
+							"Submarine Spawn",
+							"Sea",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Sea",
+							"Enemy spawn"
+						],
+						[
+							"Land",
+							"Sea",
+							"Land",
+							"Boss spawn",
+							"Boss spawn",
+							"Land",
+							"Land",
+							"Flare node",
+							"Enemy spawn",
+							"Enemy spawn",
+							"Enemy spawn"
+						]
+					],
+					"nodes": [
+						{
+							"x": 0,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 0,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 9,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 10,
+							"y": 0,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 1,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 1,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 9,
+							"y": 1,
+							"node": "Fleet spawn"
+						},
+						{
+							"x": 0,
+							"y": 2,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 2,
+							"y": 2,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 8,
+							"y": 2,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 3,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 1,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 6,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 8,
+							"y": 3,
+							"node": "Land"
+						},
+						{
+							"x": 10,
+							"y": 3,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 4,
+							"node": "Flare node"
+						},
+						{
+							"x": 2,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 7,
+							"y": 4,
+							"node": "Resupply node"
+						},
+						{
+							"x": 8,
+							"y": 4,
+							"node": "Land"
+						},
+						{
+							"x": 10,
+							"y": 4,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 1,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 2,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 5,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 5,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 3,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 4,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 5,
+							"y": 6,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 10,
+							"y": 6,
+							"node": "Land"
+						},
+						{
+							"x": 5,
+							"y": 7,
+							"node": "Submarine Spawn"
+						},
+						{
+							"x": 7,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 8,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 10,
+							"y": 7,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 0,
+							"y": 8,
+							"node": "Land"
+						},
+						{
+							"x": 2,
+							"y": 8,
+							"node": "Land"
+						},
+						{
+							"x": 3,
+							"y": 8,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 4,
+							"y": 8,
+							"node": "Boss spawn"
+						},
+						{
+							"x": 5,
+							"y": 8,
+							"node": "Land"
+						},
+						{
+							"x": 6,
+							"y": 8,
+							"node": "Land"
+						},
+						{
+							"x": 7,
+							"y": 8,
+							"node": "Flare node"
+						},
+						{
+							"x": 8,
+							"y": 8,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 9,
+							"y": 8,
+							"node": "Enemy spawn"
+						},
+						{
+							"x": 10,
+							"y": 8,
+							"node": "Enemy spawn"
+						}
+					]
+				}
+			},
+			"hard": null
+		},
+		"id": "14",
+		"names": {
+			"en": "Surigao Night Combat",
+			"cn": "苏里高夜战",
+			"jp": "スリガオ夜戦"
+		},
+		"image": "https://azurlane.netojuu.com/w/images/thumb/8/8f/Chapter_14.png/700px-Chapter_14.png"
 	}
 ]
