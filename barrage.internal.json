@@ -1,9 +1,9 @@
 [
     {
-        "id": "Full_Barrage_-_22_II",
+        "id": "All_Out_Assault_-_22_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/4d/Skill_29290.png",
-        "name": "Full Barrage - 22 II",
+        "name": "All Out Assault - 22 II",
         "ships": [
             "22"
         ],
@@ -19,10 +19,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_33_II",
+        "id": "All_Out_Assault_-_33_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/d/dd/Skill_29300.png",
-        "name": "Full Barrage - 33 II",
+        "name": "All Out Assault - 33 II",
         "ships": [
             "33"
         ],
@@ -38,10 +38,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Ayanami_II",
+        "id": "All_Out_Assault_-_Ayanami_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/47/Skill_29110.png",
-        "name": "Full Barrage - Ayanami II",
+        "name": "All Out Assault - Ayanami II",
         "image": "https://azurlane.netojuu.com/w/images/4/4a/Bullet_pattern_skill_29112.gif",
         "ships": [
             "Ayanami"
@@ -58,10 +58,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Eldridge_II",
+        "id": "All_Out_Assault_-_Eldridge_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/5d/Skill_29020.png",
-        "name": "Full Barrage - Eldridge II",
+        "name": "All Out Assault - Eldridge II",
         "image": "https://azurlane.netojuu.com/w/images/2/22/Bullet_pattern_skill_29022.gif",
         "ships": [
             "Eldridge"
@@ -78,10 +78,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Icarus_II",
+        "id": "All_Out_Assault_-_Icarus_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/5d/Skill_29020.png",
-        "name": "Full Barrage - Icarus II",
+        "name": "All Out Assault - Icarus II",
         "image": "https://azurlane.netojuu.com/w/images/b/b2/Bullet_pattern_skill_21027.gif",
         "ships": [
             "Icarus"
@@ -98,10 +98,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Glowworm_II",
+        "id": "All_Out_Assault_-_Glowworm_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/8/85/Skill_29060.png",
-        "name": "Full Barrage - Glowworm II",
+        "name": "All Out Assault - Glowworm II",
         "image": "https://azurlane.netojuu.com/w/images/2/26/Bullet_pattern_skill_29062.gif",
         "ships": [
             "Glowworm"
@@ -118,10 +118,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Javelin_II",
+        "id": "All_Out_Assault_-_Javelin_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_29080.png",
-        "name": "Full Barrage - Javelin II",
+        "name": "All Out Assault - Javelin II",
         "image": "https://azurlane.netojuu.com/w/images/0/0a/Bullet_pattern_skill_29082.gif",
         "ships": [
             "Javelin"
@@ -138,10 +138,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kawakaze_II",
+        "id": "All_Out_Assault_-_Kawakaze_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/3/32/Skill_29280.png",
-        "name": "Full Barrage - Kawakaze II",
+        "name": "All Out Assault - Kawakaze II",
         "image": "https://azurlane.netojuu.com/w/images/7/72/Bullet_pattern_skill_29282.gif",
         "ships": [
             "Kawakaze"
@@ -165,10 +165,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kazagumo_II",
+        "id": "All_Out_Assault_-_Kazagumo_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/2/21/Skill_29730.png",
-        "name": "Full Barrage - Kazagumo II",
+        "name": "All Out Assault - Kazagumo II",
         "image": "https://azurlane.netojuu.com/w/images/d/d3/Bullet_pattern_skill_29732.gif",
         "ships": [
             "Kazagumo"
@@ -192,10 +192,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kitakaze_II",
+        "id": "All_Out_Assault_-_Kitakaze_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/8/8a/Skill_29380.png",
-        "name": "Full Barrage - Kitakaze II",
+        "name": "All Out Assault - Kitakaze II",
         "image": "https://azurlane.netojuu.com/w/images/4/4b/Bullet_pattern_skill_29382.gif",
         "ships": [
             "Kitakaze"
@@ -219,10 +219,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Laffey_II",
+        "id": "All_Out_Assault_-_Laffey_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Laffey II",
+        "name": "All Out Assault - Laffey II",
         "image": "https://azurlane.netojuu.com/w/images/6/69/Bullet_pattern_skill_29052.gif",
         "ships": [
             "Laffey"
@@ -239,10 +239,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Le_Malin_II",
+        "id": "All_Out_Assault_-_Le_Malin_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/2/24/Skill_29410.png",
-        "name": "Full Barrage - Le Malin II",
+        "name": "All Out Assault - Le Malin II",
         "image": "https://azurlane.netojuu.com/w/images/d/d9/Bullet_pattern_skill_29412.gif",
         "ships": [
             "Le Malin"
@@ -266,10 +266,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Le_Malin_µ_II",
+        "id": "All_Out_Assault_-_Le_Malin_µ_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/3/3d/Skill_29620.png",
-        "name": "Full Barrage - Le Malin µ II",
+        "name": "All Out Assault - Le Malin µ II",
         "ships": [
             "Le Malin µ"
         ],
@@ -292,10 +292,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Le_Terrible_II",
+        "id": "All_Out_Assault_-_Le_Terrible_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/a/ac/Skill_29760.png",
-        "name": "Full Barrage - Le Terrible II",
+        "name": "All Out Assault - Le Terrible II",
         "ships": [
             "Le Terrible"
         ],
@@ -318,10 +318,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Le_Triomphant_II",
+        "id": "All_Out_Assault_-_Le_Triomphant_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/b/b2/Skill_29330.png",
-        "name": "Full Barrage - Le Triomphant II",
+        "name": "All Out Assault - Le Triomphant II",
         "image": "https://azurlane.netojuu.com/w/images/9/9e/Bullet_pattern_skill_29332.gif",
         "ships": [
             "Le Triomphant"
@@ -345,10 +345,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Suzutsuki_II",
+        "id": "All_Out_Assault_-_Suzutsuki_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/c/c4/Skill_29600.png",
-        "name": "Full Barrage - Suzutsuki II",
+        "name": "All Out Assault - Suzutsuki II",
         "ships": [
             "Suzutsuki"
         ],
@@ -371,10 +371,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Tashkent_II",
+        "id": "All_Out_Assault_-_Tashkent_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/8/8f/Skill_29500.png",
-        "name": "Full Barrage - Tashkent II",
+        "name": "All Out Assault - Tashkent II",
         "image": "https://azurlane.netojuu.com/w/images/a/ad/Bullet_pattern_skill_29502.gif",
         "ships": [
             "Tashkent"
@@ -391,10 +391,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Tashkent_µ_II",
+        "id": "All_Out_Assault_-_Tashkent_µ_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/3/3c/Skill_29640.png",
-        "name": "Full Barrage - Tashkent µ II",
+        "name": "All Out Assault - Tashkent µ II",
         "ships": [
             "Tashkent µ"
         ],
@@ -410,10 +410,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Vampire_II",
+        "id": "All_Out_Assault_-_Vampire_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/3/3b/Skill_29090.png",
-        "name": "Full Barrage - Vampire II",
+        "name": "All Out Assault - Vampire II",
         "image": "https://azurlane.netojuu.com/w/images/e/eb/Bullet_pattern_skill_29092.gif",
         "ships": [
             "Vampire"
@@ -430,10 +430,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Yukikaze_II",
+        "id": "All_Out_Assault_-_Yukikaze_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/a/a7/Skill_29130.png",
-        "name": "Full Barrage - Yukikaze II",
+        "name": "All Out Assault - Yukikaze II",
         "image": "https://azurlane.netojuu.com/w/images/4/4d/Bullet_pattern_skill_29132.gif",
         "ships": [
             "Yukikaze"
@@ -457,10 +457,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Yuudachi_II",
+        "id": "All_Out_Assault_-_Yuudachi_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/a/a8/Skill_29120.png",
-        "name": "Full Barrage - Yuudachi II",
+        "name": "All Out Assault - Yuudachi II",
         "image": "https://azurlane.netojuu.com/w/images/0/06/Bullet_pattern_skill_29122.gif",
         "ships": [
             "Yuudachi"
@@ -484,10 +484,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Yuudachi_III",
+        "id": "All_Out_Assault_-_Yuudachi_III",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/a/a8/Skill_29120.png",
-        "name": "Full Barrage - Yuudachi III",
+        "name": "All Out Assault - Yuudachi III",
         "image": "https://azurlane.netojuu.com/w/images/9/95/Bullet_pattern_skill_29123.gif",
         "ships": [
             "Yuudachi"
@@ -511,10 +511,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Z1_II",
+        "id": "All_Out_Assault_-_Z1_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/7/78/Skill_29170.png",
-        "name": "Full Barrage - Z1 II",
+        "name": "All Out Assault - Z1 II",
         "image": "https://azurlane.netojuu.com/w/images/c/c3/Bullet_pattern_skill_29172.gif",
         "ships": [
             "Z1"
@@ -531,10 +531,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Z23_II",
+        "id": "All_Out_Assault_-_Z23_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/6/6d/Skill_29200.png",
-        "name": "Full Barrage - Z23 II",
+        "name": "All Out Assault - Z23 II",
         "image": "https://azurlane.netojuu.com/w/images/b/bf/Bullet_pattern_skill_29202.gif",
         "ships": [
             "Z23"
@@ -551,10 +551,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Z46_II",
+        "id": "All_Out_Assault_-_Z46_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/1/1c/Skill_29210.png",
-        "name": "Full Barrage - Z46 II",
+        "name": "All Out Assault - Z46 II",
         "image": "https://azurlane.netojuu.com/w/images/e/e9/Bullet_pattern_skill_29212.gif",
         "ships": [
             "Z46"
@@ -637,10 +637,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Avrora_II",
+        "id": "All_Out_Assault_-_Avrora_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/54/Skill_29190.png",
-        "name": "Full Barrage - Avrora II",
+        "name": "All Out Assault - Avrora II",
         "image": "https://azurlane.netojuu.com/w/images/4/40/Bullet_pattern_skill_29192.gif",
         "ships": [
             "Avrora"
@@ -657,10 +657,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Belfast_II",
+        "id": "All_Out_Assault_-_Belfast_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/9/99/Skill_29100.png",
-        "name": "Full Barrage - Belfast II",
+        "name": "All Out Assault - Belfast II",
         "image": "https://azurlane.netojuu.com/w/images/3/33/Bullet_pattern_skill_29102.gif",
         "ships": [
             "Belfast"
@@ -677,10 +677,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Chapayev_II",
+        "id": "All_Out_Assault_-_Chapayev_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/e/e7/Skill_29510.png",
-        "name": "Full Barrage - Chapayev II",
+        "name": "All Out Assault - Chapayev II",
         "image": "https://azurlane.netojuu.com/w/images/e/eb/Bullet_pattern_skill_29512.gif",
         "ships": [
             "Chapayev"
@@ -697,10 +697,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Cleveland_(Muse)_II",
+        "id": "All_Out_Assault_-_Cleveland_(Muse)_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/9/9a/Skill_29450.png",
-        "name": "Full Barrage - Cleveland (Muse) II",
+        "name": "All Out Assault - Cleveland (Muse) II",
         "ships": [
             "Cleveland µ"
         ],
@@ -716,10 +716,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Dido_II",
+        "id": "All_Out_Assault_-_Dido_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/b/b8/Skill_29490.png",
-        "name": "Full Barrage - Dido II",
+        "name": "All Out Assault - Dido II",
         "image": "https://azurlane.netojuu.com/w/images/9/92/Bullet_pattern_skill_29492.gif",
         "ships": [
             "Dido"
@@ -743,10 +743,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Dido_μ_II",
+        "id": "All_Out_Assault_-_Dido_μ_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_29630.png",
-        "name": "Full Barrage - Dido μ II",
+        "name": "All Out Assault - Dido μ II",
         "ships": [
             "Dido µ"
         ],
@@ -769,10 +769,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Emile_Bertin_II",
+        "id": "All_Out_Assault_-_Emile_Bertin_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Emile Bertin II",
+        "name": "All Out Assault - Emile Bertin II",
         "image": "https://azurlane.netojuu.com/w/images/b/b5/Bullet_pattern_skill_28112.gif",
         "ships": [
             "Émile Bertin"
@@ -789,10 +789,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Hermione_II",
+        "id": "All_Out_Assault_-_Hermione_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Hermione II",
+        "name": "All Out Assault - Hermione II",
         "image": "https://azurlane.netojuu.com/w/images/4/42/Bullet_pattern_skill_29582.gif",
         "ships": [
             "Hermione"
@@ -809,10 +809,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Jeanne_d'Arc_II",
+        "id": "All_Out_Assault_-_Jeanne_d'Arc_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Jeanne d'Arc II",
+        "name": "All Out Assault - Jeanne d'Arc II",
         "image": "https://azurlane.netojuu.com/w/images/c/c0/Bullet_pattern_skill_29542.gif",
         "ships": [
             "Jeanne d'Arc"
@@ -836,10 +836,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Mainz_II",
+        "id": "All_Out_Assault_-_Mainz_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_29230.png",
-        "name": "Full Barrage - Mainz II",
+        "name": "All Out Assault - Mainz II",
         "image": "https://azurlane.netojuu.com/w/images/7/77/Bullet_pattern_skill_29572.gif",
         "ships": [
             "Mainz"
@@ -856,10 +856,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Neptune_II",
+        "id": "All_Out_Assault_-_Neptune_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_29230.png",
-        "name": "Full Barrage - Neptune II",
+        "name": "All Out Assault - Neptune II",
         "image": "https://azurlane.netojuu.com/w/images/9/9c/Bullet_pattern_skill_29232.gif",
         "ships": [
             "Neptune"
@@ -876,10 +876,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Noshiro_II",
+        "id": "All_Out_Assault_-_Noshiro_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/f/f6/Skill_29480.png",
-        "name": "Full Barrage - Noshiro II",
+        "name": "All Out Assault - Noshiro II",
         "image": "https://azurlane.netojuu.com/w/images/8/86/Bullet_pattern_skill_29482.gif",
         "ships": [
             "Noshiro"
@@ -923,10 +923,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_San_Diego_(Retrofit)",
+        "id": "All_Out_Assault_-_San_Diego_(Retrofit)",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/5e/Skill_11720.png",
-        "name": "Full Barrage - San Diego (Retrofit)",
+        "name": "All Out Assault - San Diego (Retrofit)",
         "image": "https://azurlane.netojuu.com/w/images/8/82/Bullet_pattern_skill_29351.gif",
         "ships": [
             "San Diego"
@@ -943,10 +943,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Seattle_II",
+        "id": "All_Out_Assault_-_Seattle_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_29230.png",
-        "name": "Full Barrage - Seattle II",
+        "name": "All Out Assault - Seattle II",
         "image": "https://azurlane.netojuu.com/w/images/b/b3/Bullet_pattern_skill_29392.gif",
         "ships": [
             "Seattle"
@@ -963,10 +963,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Sheffield_(Muse)_II",
+        "id": "All_Out_Assault_-_Sheffield_(Muse)_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/1/17/Skill_29460.png",
-        "name": "Full Barrage - Sheffield (Muse) II",
+        "name": "All Out Assault - Sheffield (Muse) II",
         "ships": [
             "Sheffield µ"
         ],
@@ -982,10 +982,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Sirius_II",
+        "id": "All_Out_Assault_-_Sirius_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/7/7c/Skill_29360.png",
-        "name": "Full Barrage - Sirius II",
+        "name": "All Out Assault - Sirius II",
         "image": "https://azurlane.netojuu.com/w/images/d/d9/Bullet_pattern_skill_29362.gif",
         "ships": [
             "Sirius"
@@ -1002,10 +1002,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kirov_II",
+        "id": "All_Out_Assault_-_Kirov_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/7/7c/Skill_29360.png",
-        "name": "Full Barrage - Kirov II",
+        "name": "All Out Assault - Kirov II",
         "ships": [
             "Kirov"
         ],
@@ -1028,10 +1028,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Duca_degli_Abruzzi_II",
+        "id": "All_Out_Assault_-_Duca_degli_Abruzzi_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_29700.png",
-        "name": "Full Barrage - Duca degli Abruzzi II",
+        "name": "All Out Assault - Duca degli Abruzzi II",
         "ships": [
             "Duca degli Abruzzi"
         ],
@@ -1087,10 +1087,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Admiral_Hipper_(Muse)_II",
+        "id": "All_Out_Assault_-_Admiral_Hipper_(Muse)_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/48/Skill_29470.png",
-        "name": "Full Barrage - Admiral Hipper (Muse) II",
+        "name": "All Out Assault - Admiral Hipper (Muse) II",
         "ships": [
             "Admiral Hipper µ"
         ],
@@ -1106,10 +1106,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Algérie_II",
+        "id": "All_Out_Assault_-_Algérie_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/48/Skill_29470.png",
-        "name": "Full Barrage - Algérie II",
+        "name": "All Out Assault - Algérie II",
         "ships": [
             "Algérie"
         ],
@@ -1125,10 +1125,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Baltimore_µ_II",
+        "id": "All_Out_Assault_-_Baltimore_µ_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/51/Skill_29660.png",
-        "name": "Full Barrage - Baltimore µ II",
+        "name": "All Out Assault - Baltimore µ II",
         "ships": [
             "Baltimore µ"
         ],
@@ -1144,10 +1144,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Cheshire_II",
+        "id": "All_Out_Assault_-_Cheshire_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/48/Skill_29470.png",
-        "name": "Full Barrage - Cheshire II",
+        "name": "All Out Assault - Cheshire II",
         "ships": [
             "Cheshire"
         ],
@@ -1163,10 +1163,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Drake_II",
+        "id": "All_Out_Assault_-_Drake_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/48/Skill_29470.png",
-        "name": "Full Barrage - Drake II",
+        "name": "All Out Assault - Drake II",
         "image": "https://azurlane.netojuu.com/w/images/3/34/Bullet_pattern_skill_29562.gif",
         "ships": [
             "Drake"
@@ -1190,10 +1190,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Ibuki_II",
+        "id": "All_Out_Assault_-_Ibuki_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/2/2d/Skill_29220.png",
-        "name": "Full Barrage - Ibuki II",
+        "name": "All Out Assault - Ibuki II",
         "image": "https://azurlane.netojuu.com/w/images/1/10/Bullet_pattern_skill_29222.gif",
         "ships": [
             "Ibuki"
@@ -1210,10 +1210,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Mogami_II_(Retrofit)",
+        "id": "All_Out_Assault_-_Mogami_II_(Retrofit)",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Mogami II (Retrofit)",
+        "name": "All Out Assault - Mogami II (Retrofit)",
         "image": "https://azurlane.netojuu.com/w/images/5/5f/Bullet_pattern_skill_22253.gif",
         "ships": [
             "Mogami"
@@ -1230,10 +1230,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Roon_II",
+        "id": "All_Out_Assault_-_Roon_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/2/21/Skill_29240.png",
-        "name": "Full Barrage - Roon II",
+        "name": "All Out Assault - Roon II",
         "image": "https://azurlane.netojuu.com/w/images/9/9b/Bullet_pattern_skill_29242.gif",
         "ships": [
             "Roon"
@@ -1257,10 +1257,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Roon_μ_II",
+        "id": "All_Out_Assault_-_Roon_μ_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/6/6d/Skill_29610.png",
-        "name": "Full Barrage - Roon μ II",
+        "name": "All Out Assault - Roon μ II",
         "ships": [
             "Roon µ"
         ],
@@ -1283,10 +1283,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Saint_Louis_II",
+        "id": "All_Out_Assault_-_Saint_Louis_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/2/22/Skill_29250.png",
-        "name": "Full Barrage - Saint Louis II",
+        "name": "All Out Assault - Saint Louis II",
         "image": "https://azurlane.netojuu.com/w/images/b/be/Bullet_pattern_skill_29252.gif",
         "ships": [
             "Saint Louis"
@@ -1303,10 +1303,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Suzuya_II",
+        "id": "All_Out_Assault_-_Suzuya_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Suzuya II",
+        "name": "All Out Assault - Suzuya II",
         "image": "https://azurlane.netojuu.com/w/images/b/b0/Bullet_pattern_skill_22255.gif",
         "ships": [
             "Suzuya",
@@ -1324,10 +1324,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Suzuya_II_(Enhanced)",
+        "id": "All_Out_Assault_-_Suzuya_II_(Enhanced)",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Suzuya II (Enhanced)",
+        "name": "All Out Assault - Suzuya II (Enhanced)",
         "image": "https://azurlane.netojuu.com/w/images/1/12/Bullet_pattern_skill_22257.gif",
         "ships": [
             "Suzuya",
@@ -1352,10 +1352,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_San_Francisco_II",
+        "id": "All_Out_Assault_-_San_Francisco_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - San Francisco II",
+        "name": "All Out Assault - San Francisco II",
         "ships": [
             "San Francisco"
         ],
@@ -1371,10 +1371,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Anchorage_II",
+        "id": "All_Out_Assault_-_Anchorage_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Anchorage II",
+        "name": "All Out Assault - Anchorage II",
         "ships": [
             "Anchorage"
         ],
@@ -1397,10 +1397,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Albacore_II",
+        "id": "All_Out_Assault_-_Albacore_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_29340.png",
-        "name": "Full Barrage - Albacore II",
+        "name": "All Out Assault - Albacore II",
         "image": "https://azurlane.netojuu.com/w/images/7/70/Bullet_pattern_skill_29342.gif",
         "ships": [
             "Albacore"
@@ -1417,10 +1417,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Albacore_µ_II",
+        "id": "All_Out_Assault_-_Albacore_µ_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/2/28/Skill_29650.png",
-        "name": "Full Barrage - Albacore µ II",
+        "name": "All Out Assault - Albacore µ II",
         "image": "https://azurlane.netojuu.com/w/images/7/70/Bullet_pattern_skill_29342.gif",
         "ships": [
             "Albacore µ"
@@ -1437,10 +1437,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Cavalla_II",
+        "id": "All_Out_Assault_-_Cavalla_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/8/8e/Skill_29440.png",
-        "name": "Full Barrage - Cavalla II",
+        "name": "All Out Assault - Cavalla II",
         "image": "https://azurlane.netojuu.com/w/images/e/e2/Bullet_pattern_skill_29442.gif",
         "ships": [
             "Cavalla"
@@ -1457,10 +1457,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_I-13_II",
+        "id": "All_Out_Assault_-_I-13_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/a/af/Skill_29370.png",
-        "name": "Full Barrage - I-13 II",
+        "name": "All Out Assault - I-13 II",
         "image": "https://azurlane.netojuu.com/w/images/6/66/Bullet_pattern_skill_29372.gif",
         "ships": [
             "I-13"
@@ -1477,10 +1477,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_I-168_II",
+        "id": "All_Out_Assault_-_I-168_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/b/be/Skill_29420.png",
-        "name": "Full Barrage - I-168 II",
+        "name": "All Out Assault - I-168 II",
         "image": "https://azurlane.netojuu.com/w/images/f/f3/Bullet_pattern_skill_29422.gif",
         "ships": [
             "I-168"
@@ -1497,10 +1497,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_I-19_II",
+        "id": "All_Out_Assault_-_I-19_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/b/b7/Skill_29260.png",
-        "name": "Full Barrage - I-19 II",
+        "name": "All Out Assault - I-19 II",
         "image": "https://azurlane.netojuu.com/w/images/3/3c/Bullet_pattern_skill_29262.gif",
         "ships": [
             "I-19"
@@ -1517,10 +1517,10 @@
         ]
     },
     {
-        "id": "Special_Barrage_-_Surcouf_II",
+        "id": "All_Out_Assault_-_Surcouf_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/6/6e/Skill_29320.png",
-        "name": "Special Barrage - Surcouf II",
+        "name": "All Out Assault - Surcouf II",
         "image": "https://azurlane.netojuu.com/w/images/6/65/Bullet_pattern_skill_29322.gif",
         "ships": [
             "Surcouf"
@@ -1537,10 +1537,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_U-101_II",
+        "id": "All_Out_Assault_-_U-101_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/3/38/Skill_29430.png",
-        "name": "Full Barrage - U-101 II",
+        "name": "All Out Assault - U-101 II",
         "image": "https://azurlane.netojuu.com/w/images/a/ad/Bullet_pattern_skill_29432.gif",
         "ships": [
             "U-101"
@@ -1557,10 +1557,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_U-47_II",
+        "id": "All_Out_Assault_-_U-47_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/59/Skill_29310.png",
-        "name": "Full Barrage - U-47 II",
+        "name": "All Out Assault - U-47 II",
         "image": "https://azurlane.netojuu.com/w/images/0/0c/Bullet_pattern_skill_29312.gif",
         "ships": [
             "U-47"
@@ -1577,10 +1577,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_U-81_II",
+        "id": "All_Out_Assault_-_U-81_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/e/e0/Skill_29270.png",
-        "name": "Full Barrage - U-81 II",
+        "name": "All Out Assault - U-81 II",
         "image": "https://azurlane.netojuu.com/w/images/4/40/Bullet_pattern_skill_29272.gif",
         "ships": [
             "U-81"
@@ -1597,10 +1597,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_U-96_II",
+        "id": "All_Out_Assault_-_U-96_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/8/84/Skill_29590.png",
-        "name": "Full Barrage - U-96 II",
+        "name": "All Out Assault - U-96 II",
         "image": "https://azurlane.netojuu.com/w/images/2/24/Bullet_pattern_skill_29592.gif",
         "ships": [
             "U-96"
@@ -1617,10 +1617,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_U-37_II",
+        "id": "All_Out_Assault_-_U-37_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/8/88/Skill_29670.png",
-        "name": "Full Barrage - U-37 II",
+        "name": "All Out Assault - U-37 II",
         "image": "https://azurlane.netojuu.com/w/images/d/df/Bullet_pattern_skill_29672.gif",
         "ships": [
             "U-37"
@@ -1637,10 +1637,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Archerfish_II",
+        "id": "All_Out_Assault_-_Archerfish_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/5d/Skill_29720.png",
-        "name": "Full Barrage - Archerfish II",
+        "name": "All Out Assault - Archerfish II",
         "ships": [
             "Archerfish"
         ],
@@ -1663,10 +1663,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kashino_II",
+        "id": "All_Out_Assault_-_Kashino_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Kashino II",
+        "name": "All Out Assault - Kashino II",
         "image": "https://azurlane.netojuu.com/w/images/e/ef/Bullet_pattern_skill_22412.gif",
         "ships": [
             "Kashino"
@@ -1702,10 +1702,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_A-class_II",
+        "id": "All_Out_Assault_-_A-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - A-class II",
+        "name": "All Out Assault - A-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/3f/Bullet_pattern_skill_21012.gif",
         "ships": [
             "Acasta",
@@ -1724,10 +1724,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Akatsuki-class_II",
+        "id": "All_Out_Assault_-_Akatsuki-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Akatsuki-class II",
+        "name": "All Out Assault - Akatsuki-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/b6/Bullet_pattern_skill_22072.gif",
         "ships": [
             "Akatsuki",
@@ -1747,10 +1747,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Akizuki-class_II",
+        "id": "All_Out_Assault_-_Akizuki-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Akizuki-class II",
+        "name": "All Out Assault - Akizuki-class II",
         "image": "https://azurlane.netojuu.com/w/images/5/50/Bullet_pattern_skill_22062.gif",
         "ships": [
             "Niizuki",
@@ -1770,10 +1770,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Alfredo_Oriani-class_II",
+        "id": "All_Out_Assault_-_Alfredo_Oriani-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Alfredo Oriani-class II",
+        "name": "All Out Assault - Alfredo Oriani-class II",
         "image": "https://azurlane.netojuu.com/w/images/6/6a/Bullet_pattern_skill_25022.gif",
         "ships": [
             "Vincenzo Gioberti"
@@ -1790,10 +1790,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_An_Shan-class_II",
+        "id": "All_Out_Assault_-_An_Shan-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - An Shan-class II",
+        "name": "All Out Assault - An Shan-class II",
         "image": "https://azurlane.netojuu.com/w/images/d/d0/Bullet_pattern_skill_24012.gif",
         "ships": [
             "An Shan",
@@ -1813,10 +1813,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_An_Shan-class_II_(Enhanced)",
+        "id": "All_Out_Assault_-_An_Shan-class_II_(Enhanced)",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - An Shan-class II (Enhanced)",
+        "name": "All Out Assault - An Shan-class II (Enhanced)",
         "image": "https://azurlane.netojuu.com/w/images/d/d0/Bullet_pattern_skill_24012.gif",
         "ships": [
             "An Shan",
@@ -1836,10 +1836,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Asashio-class_II",
+        "id": "All_Out_Assault_-_Asashio-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Asashio-class II",
+        "name": "All Out Assault - Asashio-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/38/Bullet_pattern_skill_22092.gif",
         "ships": [
             "Arashio",
@@ -1860,10 +1860,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_B-class_II",
+        "id": "All_Out_Assault_-_B-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - B-class II",
+        "name": "All Out Assault - B-class II",
         "image": "https://azurlane.netojuu.com/w/images/9/9e/Bullet_pattern_skill_21022.gif",
         "ships": [
             "Beagle",
@@ -1881,10 +1881,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Benson-class_II",
+        "id": "All_Out_Assault_-_Benson-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Benson-class II",
+        "name": "All Out Assault - Benson-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/33/Bullet_pattern_skill_20062.gif",
         "ships": [
             "Bailey",
@@ -1904,10 +1904,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_C-class_II",
+        "id": "All_Out_Assault_-_C-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - C-class II",
+        "name": "All Out Assault - C-class II",
         "image": "https://azurlane.netojuu.com/w/images/e/e5/Bullet_pattern_skill_21032.gif",
         "ships": [
             "Comet",
@@ -1926,10 +1926,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_E-class_II",
+        "id": "All_Out_Assault_-_E-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - E-class II",
+        "name": "All Out Assault - E-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/b8/Bullet_pattern_skill_21092.gif",
         "ships": [
             "Echo"
@@ -1946,10 +1946,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_F-class_II",
+        "id": "All_Out_Assault_-_F-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - F-class II",
+        "name": "All Out Assault - F-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/c8/Bullet_pattern_skill_21042.gif",
         "ships": [
             "Fortune",
@@ -1967,10 +1967,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Farragut-class_II",
+        "id": "All_Out_Assault_-_Farragut-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Farragut-class II",
+        "name": "All Out Assault - Farragut-class II",
         "image": "https://azurlane.netojuu.com/w/images/0/01/Bullet_pattern_skill_20012.gif",
         "ships": [
             "Aylwin",
@@ -1988,10 +1988,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Fletcher-class_II",
+        "id": "All_Out_Assault_-_Fletcher-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Fletcher-class II",
+        "name": "All Out Assault - Fletcher-class II",
         "image": "https://azurlane.netojuu.com/w/images/d/d3/Bullet_pattern_skill_20042.gif",
         "ships": [
             "Aulick",
@@ -2025,10 +2025,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Fubuki-class_II",
+        "id": "All_Out_Assault_-_Fubuki-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Fubuki-class II",
+        "name": "All Out Assault - Fubuki-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/c2/Bullet_pattern_skill_22022.gif",
         "ships": [
             "Fubuki",
@@ -2046,10 +2046,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_G-class_II",
+        "id": "All_Out_Assault_-_G-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - G-class II",
+        "name": "All Out Assault - G-class II",
         "image": "https://azurlane.netojuu.com/w/images/6/66/Bullet_pattern_skill_21052.gif",
         "ships": [
             "Grenville"
@@ -2066,10 +2066,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Gnevny-class_II",
+        "id": "All_Out_Assault_-_Gnevny-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Gnevny-class II",
+        "name": "All Out Assault - Gnevny-class II",
         "image": "https://azurlane.netojuu.com/w/images/d/db/Bullet_pattern_skill_26012.gif",
         "ships": [
             "Grozny",
@@ -2089,10 +2089,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Gridley-class_II",
+        "id": "All_Out_Assault_-_Gridley-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Gridley-class II",
+        "name": "All Out Assault - Gridley-class II",
         "image": "https://azurlane.netojuu.com/w/images/7/7d/Bullet_pattern_skill_20032.gif",
         "ships": [
             "Gridley",
@@ -2112,10 +2112,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_H-class_II",
+        "id": "All_Out_Assault_-_H-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - H-class II",
+        "name": "All Out Assault - H-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/bb/Bullet_pattern_skill_21062.gif",
         "ships": [
             "Hardy",
@@ -2133,10 +2133,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Hatsuharu-class_II",
+        "id": "All_Out_Assault_-_Hatsuharu-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Hatsuharu-class II",
+        "name": "All Out Assault - Hatsuharu-class II",
         "image": "https://azurlane.netojuu.com/w/images/9/91/Bullet_pattern_skill_22042.gif",
         "ships": [
             "Ariake",
@@ -2157,10 +2157,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_J-class_II",
+        "id": "All_Out_Assault_-_J-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - J-class II",
+        "name": "All Out Assault - J-class II",
         "image": "https://azurlane.netojuu.com/w/images/9/9c/Bullet_pattern_skill_21072.gif",
         "ships": [
             "Juno",
@@ -2179,10 +2179,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kagerou-class_II",
+        "id": "All_Out_Assault_-_Kagerou-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Kagerou-class II",
+        "name": "All Out Assault - Kagerou-class II",
         "image": "https://azurlane.netojuu.com/w/images/2/2d/Bullet_pattern_skill_22052.gif",
         "ships": [
             "Shiranui",
@@ -2207,10 +2207,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kamikaze-class_II",
+        "id": "All_Out_Assault_-_Kamikaze-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Kamikaze-class II",
+        "name": "All Out Assault - Kamikaze-class II",
         "image": "https://azurlane.netojuu.com/w/images/a/a0/Bullet_pattern_skill_22082.gif",
         "ships": [
             "Kamikaze",
@@ -2229,10 +2229,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_L'Adroit-class_II",
+        "id": "All_Out_Assault_-_L'Adroit-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - L'Adroit-class II",
+        "name": "All Out Assault - L'Adroit-class II",
         "image": "https://azurlane.netojuu.com/w/images/6/6a/Bullet_pattern_skill_28012.gif",
         "ships": [
             "Forbin",
@@ -2250,10 +2250,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Le_Hardi-class_II",
+        "id": "All_Out_Assault_-_Le_Hardi-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Le Hardi-class II",
+        "name": "All Out Assault - Le Hardi-class II",
         "image": "https://azurlane.netojuu.com/w/images/9/9d/Bullet_pattern_skill_28022.gif",
         "ships": [
             "Le Téméraire",
@@ -2271,10 +2271,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Leningrad-class_II",
+        "id": "All_Out_Assault_-_Leningrad-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Leningrad-class II",
+        "name": "All Out Assault - Leningrad-class II",
         "image": "https://azurlane.netojuu.com/w/images/e/ed/Bullet_pattern_skill_26022.gif",
         "ships": [
             "Minsk"
@@ -2291,10 +2291,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_M-class_II",
+        "id": "All_Out_Assault_-_M-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - M-class II",
+        "name": "All Out Assault - M-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/c3/Bullet_pattern_skill_21082.gif",
         "ships": [
             "Matchless",
@@ -2312,10 +2312,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Maestrale-class_II",
+        "id": "All_Out_Assault_-_Maestrale-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Maestrale-class II",
+        "name": "All Out Assault - Maestrale-class II",
         "ships": [
             "Libeccio",
             "Maestrale"
@@ -2332,10 +2332,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Mahan-class_II",
+        "id": "All_Out_Assault_-_Mahan-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Mahan-class II",
+        "name": "All Out Assault - Mahan-class II",
         "image": "https://azurlane.netojuu.com/w/images/d/d7/Bullet_pattern_skill_20022.gif",
         "ships": [
             "Cassin",
@@ -2353,10 +2353,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Mutsuki-class_II",
+        "id": "All_Out_Assault_-_Mutsuki-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Mutsuki-class II",
+        "name": "All Out Assault - Mutsuki-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/f2/Bullet_pattern_skill_22012.gif",
         "ships": [
             "Fumizuki",
@@ -2379,10 +2379,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Navigatori-class_II",
+        "id": "All_Out_Assault_-_Navigatori-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Navigatori-class II",
+        "name": "All Out Assault - Navigatori-class II",
         "ships": [
             "Nicoloso da Recco"
         ],
@@ -2398,10 +2398,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Soldati-class_II",
+        "id": "All_Out_Assault_-_Soldati-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Soldati-class II",
+        "name": "All Out Assault - Soldati-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/ba/Bullet_pattern_skill_25012.gif",
         "ships": [
             "Carabiniere"
@@ -2418,10 +2418,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Shiratsuyu-class_II",
+        "id": "All_Out_Assault_-_Shiratsuyu-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Shiratsuyu-class II",
+        "name": "All Out Assault - Shiratsuyu-class II",
         "image": "https://azurlane.netojuu.com/w/images/0/04/Bullet_pattern_skill_22032.gif",
         "ships": [
             "Shigure",
@@ -2441,10 +2441,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Sims-class_II",
+        "id": "All_Out_Assault_-_Sims-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Sims-class II",
+        "name": "All Out Assault - Sims-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/36/Bullet_pattern_skill_20052.gif",
         "ships": [
             "Sims",
@@ -2462,10 +2462,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Tribal-class_II",
+        "id": "All_Out_Assault_-_Tribal-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Tribal-class II",
+        "name": "All Out Assault - Tribal-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/39/Bullet_pattern_skill_21017.gif",
         "ships": [
             "Eskimo"
@@ -2482,10 +2482,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_1934_II",
+        "id": "All_Out_Assault_-_Type_1934_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Type 1934 II",
+        "name": "All Out Assault - Type 1934 II",
         "image": "https://azurlane.netojuu.com/w/images/0/0e/Bullet_pattern_skill_23012.gif",
         "ships": [
             "Z2"
@@ -2502,10 +2502,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_1936_II",
+        "id": "All_Out_Assault_-_Type_1936_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Type 1936 II",
+        "name": "All Out Assault - Type 1936 II",
         "image": "https://azurlane.netojuu.com/w/images/6/62/Bullet_pattern_skill_23032.gif",
         "ships": [
             "Z18",
@@ -2525,10 +2525,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_1936A_II",
+        "id": "All_Out_Assault_-_Type_1936A_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Type 1936A II",
+        "name": "All Out Assault - Type 1936A II",
         "image": "https://azurlane.netojuu.com/w/images/5/55/Bullet_pattern_skill_23042.gif",
         "ships": [
             "Z24",
@@ -2548,10 +2548,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_1936B_II",
+        "id": "All_Out_Assault_-_Type_1936B_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Type 1936B II",
+        "name": "All Out Assault - Type 1936B II",
         "image": "https://azurlane.netojuu.com/w/images/9/93/Bullet_pattern_skill_23052.gif",
         "ships": [
             "Z35",
@@ -2569,10 +2569,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Vauquelin-class_II",
+        "id": "All_Out_Assault_-_Vauquelin-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Vauquelin-class II",
+        "name": "All Out Assault - Vauquelin-class II",
         "image": "https://azurlane.netojuu.com/w/images/7/72/Bullet_pattern_skill_28032.gif",
         "ships": [
             "Tartu",
@@ -2591,10 +2591,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Yuugumo-class_II",
+        "id": "All_Out_Assault_-_Yuugumo-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Yuugumo-class II",
+        "name": "All Out Assault - Yuugumo-class II",
         "image": "https://azurlane.netojuu.com/w/images/6/6b/Bullet_pattern_skill_22057.gif",
         "ships": [
             "Kiyonami",
@@ -2613,10 +2613,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Allen_M._Sumner-class_II",
+        "id": "All_Out_Assault_-_Allen_M._Sumner-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Allen M. Sumner-class II",
+        "name": "All Out Assault - Allen M. Sumner-class II",
         "image": "https://azurlane.netojuu.com/w/images/7/7f/Bullet_pattern_skill_20082.gif",
         "ships": [
             "Cooper"
@@ -2633,10 +2633,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Allen_M._Sumner-class_II_",
+        "id": "All_Out_Assault_-_Allen_M._Sumner-class_II_",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
-        "name": "Full Barrage - Allen M. Sumner-class II",
+        "name": "All Out Assault - Allen M. Sumner-class II",
         "ships": [
             "Allen M. Sumner"
         ],
@@ -2659,10 +2659,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Agano-class_II",
+        "id": "All_Out_Assault_-_Agano-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Agano-class II",
+        "name": "All Out Assault - Agano-class II",
         "image": "https://azurlane.netojuu.com/w/images/a/a6/Bullet_pattern_skill_22152.gif",
         "ships": [
             "Agano"
@@ -2679,10 +2679,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Arethusa-class_II",
+        "id": "All_Out_Assault_-_Arethusa-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Arethusa-class II",
+        "name": "All Out Assault - Arethusa-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/b7/Bullet_pattern_skill_21132.gif",
         "ships": [
             "Arethusa",
@@ -2702,10 +2702,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Atlanta-class_II",
+        "id": "All_Out_Assault_-_Atlanta-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Atlanta-class II",
+        "name": "All Out Assault - Atlanta-class II",
         "image": "https://azurlane.netojuu.com/w/images/1/1d/Bullet_pattern_skill_20132.gif",
         "ships": [
             "Atlanta",
@@ -2726,10 +2726,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Bogatyr-class_II",
+        "id": "All_Out_Assault_-_Bogatyr-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Bogatyr-class II",
+        "name": "All Out Assault - Bogatyr-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/36/Bullet_pattern_skill_26112.gif",
         "ships": [
             "Pamiat Merkuria"
@@ -2746,10 +2746,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Brooklyn-class_II",
+        "id": "All_Out_Assault_-_Brooklyn-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Brooklyn-class II",
+        "name": "All Out Assault - Brooklyn-class II",
         "image": "https://azurlane.netojuu.com/w/images/7/78/Bullet_pattern_skill_20122.gif",
         "ships": [
             "Brooklyn",
@@ -2772,10 +2772,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Ceres-class_II",
+        "id": "All_Out_Assault_-_Ceres-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Ceres-class II",
+        "name": "All Out Assault - Ceres-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/31/Bullet_pattern_skill_21172.gif",
         "ships": [
             "Curacoa",
@@ -2793,10 +2793,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Chao_Ho-class_II",
+        "id": "All_Out_Assault_-_Chao_Ho-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Chao Ho-class II",
+        "name": "All Out Assault - Chao Ho-class II",
         "ships": [
             "Ying Swei",
             "Chao Ho"
@@ -2820,10 +2820,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Cleveland-class_II",
+        "id": "All_Out_Assault_-_Cleveland-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Cleveland-class II",
+        "name": "All Out Assault - Cleveland-class II",
         "image": "https://azurlane.netojuu.com/w/images/2/26/Bullet_pattern_skill_20142.gif",
         "ships": [
             "Biloxi",
@@ -2846,10 +2846,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Dido-class_II",
+        "id": "All_Out_Assault_-_Dido-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Dido-class II",
+        "name": "All Out Assault - Dido-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/be/Bullet_pattern_skill_21122.gif",
         "ships": [
             "Black Prince"
@@ -2866,10 +2866,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Edinburgh-class_II",
+        "id": "All_Out_Assault_-_Edinburgh-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Edinburgh-class II",
+        "name": "All Out Assault - Edinburgh-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/f1/Bullet_pattern_skill_21142.gif",
         "ships": [
             "Edinburgh",
@@ -2887,10 +2887,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Fiji-class_II",
+        "id": "All_Out_Assault_-_Fiji-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Fiji-class II",
+        "name": "All Out Assault - Fiji-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/f9/Bullet_pattern_skill_21162.gif",
         "ships": [
             "Fiji",
@@ -2908,10 +2908,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Gloucester-class_II",
+        "id": "All_Out_Assault_-_Gloucester-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Gloucester-class II",
+        "name": "All Out Assault - Gloucester-class II",
         "image": "https://azurlane.netojuu.com/w/images/8/80/Bullet_pattern_skill_21182.gif",
         "ships": [
             "Gloucester"
@@ -2928,10 +2928,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Konigsberg-class_II",
+        "id": "All_Out_Assault_-_Konigsberg-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Konigsberg-class II",
+        "name": "All Out Assault - Konigsberg-class II",
         "image": "https://azurlane.netojuu.com/w/images/1/14/Bullet_pattern_skill_23112.gif",
         "ships": [
             "Köln",
@@ -2950,10 +2950,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_La_Galissonnière-class_II",
+        "id": "All_Out_Assault_-_La_Galissonnière-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - La Galissonnière-class II",
+        "name": "All Out Assault - La Galissonnière-class II",
         "image": "https://azurlane.netojuu.com/w/images/6/66/Bullet_pattern_skill_28122.gif",
         "ships": [
             "La Galissonnière"
@@ -2970,10 +2970,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Leander-class_II",
+        "id": "All_Out_Assault_-_Leander-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Leander-class II",
+        "name": "All Out Assault - Leander-class II",
         "image": "https://azurlane.netojuu.com/w/images/4/4e/Bullet_pattern_skill_21112.gif",
         "ships": [
             "Leander",
@@ -2992,10 +2992,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Leipzig-class_II",
+        "id": "All_Out_Assault_-_Leipzig-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Leipzig-class II",
+        "name": "All Out Assault - Leipzig-class II",
         "image": "https://azurlane.netojuu.com/w/images/e/ef/Bullet_pattern_skill_23122.gif",
         "ships": [
             "Leipzig",
@@ -3013,10 +3013,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Mogami-class_II",
+        "id": "All_Out_Assault_-_Mogami-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Mogami-class II",
+        "name": "All Out Assault - Mogami-class II",
         "image": "https://azurlane.netojuu.com/w/images/4/47/Bullet_pattern_skill_22252.gif",
         "ships": [
             "Mogami",
@@ -3034,10 +3034,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Nagara-class_II",
+        "id": "All_Out_Assault_-_Nagara-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Nagara-class II",
+        "name": "All Out Assault - Nagara-class II",
         "image": "https://azurlane.netojuu.com/w/images/1/15/Bullet_pattern_skill_22142.gif",
         "ships": [
             "Nagara",
@@ -3058,10 +3058,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Ning_Hai-class_II",
+        "id": "All_Out_Assault_-_Ning_Hai-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Ning Hai-class II",
+        "name": "All Out Assault - Ning Hai-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/c2/Bullet_pattern_skill_24112.gif",
         "ships": [
             "Ning Hai",
@@ -3079,10 +3079,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Omaha-class_II",
+        "id": "All_Out_Assault_-_Omaha-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Omaha-class II",
+        "name": "All Out Assault - Omaha-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/b7/Bullet_pattern_skill_20112.gif",
         "ships": [
             "Concord",
@@ -3105,10 +3105,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Sendai-class_II",
+        "id": "All_Out_Assault_-_Sendai-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Sendai-class II",
+        "name": "All Out Assault - Sendai-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/fc/Bullet_pattern_skill_22132.gif",
         "ships": [
             "Sendai",
@@ -3127,10 +3127,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Southampton-class_II",
+        "id": "All_Out_Assault_-_Southampton-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Southampton-class II",
+        "name": "All Out Assault - Southampton-class II",
         "image": "https://azurlane.netojuu.com/w/images/1/1b/Bullet_pattern_skill_21152.gif",
         "ships": [
             "Southampton",
@@ -3150,10 +3150,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Suffren-class_II",
+        "id": "All_Out_Assault_-_Suffren-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Suffren-class II",
+        "name": "All Out Assault - Suffren-class II",
         "ships": [
             "Foch"
         ],
@@ -3169,10 +3169,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Swiftsure-class_II",
+        "id": "All_Out_Assault_-_Swiftsure-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Swiftsure-class II",
+        "name": "All Out Assault - Swiftsure-class II",
         "image": "https://azurlane.netojuu.com/w/images/9/9c/Bullet_pattern_skill_29402.gif",
         "ships": [
             "Swiftsure"
@@ -3189,10 +3189,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Yat_Sen-class_II",
+        "id": "All_Out_Assault_-_Yat_Sen-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Yat Sen-class II",
+        "name": "All Out Assault - Yat Sen-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/f6/Bullet_pattern_skill_24122.gif",
         "ships": [
             "Yat Sen"
@@ -3209,10 +3209,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Yuubari-class_II",
+        "id": "All_Out_Assault_-_Yuubari-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
-        "name": "Full Barrage - Yuubari-class II",
+        "name": "All Out Assault - Yuubari-class II",
         "image": "https://azurlane.netojuu.com/w/images/4/4f/Bullet_pattern_skill_22162.gif",
         "ships": [
             "Yuubari"
@@ -3229,10 +3229,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Admiral_Hipper-class_II",
+        "id": "All_Out_Assault_-_Admiral_Hipper-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Admiral Hipper-class II",
+        "name": "All Out Assault - Admiral Hipper-class II",
         "image": "https://azurlane.netojuu.com/w/images/4/43/Bullet_pattern_skill_23212.gif",
         "ships": [
             "Admiral Hipper",
@@ -3251,10 +3251,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Aoba-class_II",
+        "id": "All_Out_Assault_-_Aoba-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Aoba-class II",
+        "name": "All Out Assault - Aoba-class II",
         "image": "https://azurlane.netojuu.com/w/images/8/81/Bullet_pattern_skill_22222.gif",
         "ships": [
             "Aoba",
@@ -3272,10 +3272,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Baltimore-class_II",
+        "id": "All_Out_Assault_-_Baltimore-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Baltimore-class II",
+        "name": "All Out Assault - Baltimore-class II",
         "image": "https://azurlane.netojuu.com/w/images/7/7f/Bullet_pattern_skill_20262.gif",
         "ships": [
             "Baltimore",
@@ -3293,10 +3293,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Deutschland-class_II",
+        "id": "All_Out_Assault_-_Deutschland-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Deutschland-class II",
+        "name": "All Out Assault - Deutschland-class II",
         "image": "https://azurlane.netojuu.com/w/images/5/5e/Bullet_pattern_skill_23222.gif",
         "ships": [
             "Deutschland",
@@ -3321,10 +3321,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Furutaka-class_II",
+        "id": "All_Out_Assault_-_Furutaka-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Furutaka-class II",
+        "name": "All Out Assault - Furutaka-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/33/Bullet_pattern_skill_22212.gif",
         "ships": [
             "Furutaka",
@@ -3342,10 +3342,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Kent-class_II",
+        "id": "All_Out_Assault_-_Kent-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Kent-class II",
+        "name": "All Out Assault - Kent-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/cc/Bullet_pattern_skill_21222.gif",
         "ships": [
             "Kent",
@@ -3363,10 +3363,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_London-class_II",
+        "id": "All_Out_Assault_-_London-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - London-class II",
+        "name": "All Out Assault - London-class II",
         "image": "https://azurlane.netojuu.com/w/images/3/34/Bullet_pattern_skill_21212.gif",
         "ships": [
             "London",
@@ -3385,10 +3385,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Myoukou-class_II",
+        "id": "All_Out_Assault_-_Myoukou-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Myoukou-class II",
+        "name": "All Out Assault - Myoukou-class II",
         "image": "https://azurlane.netojuu.com/w/images/7/78/Bullet_pattern_skill_22232.gif",
         "ships": [
             "Ashigara",
@@ -3407,10 +3407,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_New_Orleans-class_II",
+        "id": "All_Out_Assault_-_New_Orleans-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - New Orleans-class II",
+        "name": "All Out Assault - New Orleans-class II",
         "image": "https://azurlane.netojuu.com/w/images/2/2a/Bullet_pattern_skill_20242.gif",
         "ships": [
             "Astoria",
@@ -3431,10 +3431,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Norfolk-class_II",
+        "id": "All_Out_Assault_-_Norfolk-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Norfolk-class II",
+        "name": "All Out Assault - Norfolk-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/cf/Bullet_pattern_skill_21232.gif",
         "ships": [
             "Norfolk",
@@ -3452,10 +3452,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Northampton-class_II",
+        "id": "All_Out_Assault_-_Northampton-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Northampton-class II",
+        "name": "All Out Assault - Northampton-class II",
         "image": "https://azurlane.netojuu.com/w/images/5/56/Bullet_pattern_skill_20222.gif",
         "ships": [
             "Houston",
@@ -3474,10 +3474,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_P-class_II",
+        "id": "All_Out_Assault_-_P-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - P-class II",
+        "name": "All Out Assault - P-class II",
         "image": "https://azurlane.netojuu.com/w/images/d/d0/Bullet_pattern_skill_23232.gif",
         "ships": [
             "Prinz Heinrich"
@@ -3494,10 +3494,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Pensacola-class_II",
+        "id": "All_Out_Assault_-_Pensacola-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Pensacola-class II",
+        "name": "All Out Assault - Pensacola-class II",
         "image": "https://azurlane.netojuu.com/w/images/e/ef/Bullet_pattern_skill_20212.gif",
         "ships": [
             "Pensacola",
@@ -3515,10 +3515,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Portland-class_II",
+        "id": "All_Out_Assault_-_Portland-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Portland-class II",
+        "name": "All Out Assault - Portland-class II",
         "image": "https://azurlane.netojuu.com/w/images/8/85/Bullet_pattern_skill_20232.gif",
         "ships": [
             "Portland",
@@ -3536,10 +3536,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Takao-class_II",
+        "id": "All_Out_Assault_-_Takao-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Takao-class II",
+        "name": "All Out Assault - Takao-class II",
         "image": "https://azurlane.netojuu.com/w/images/c/cb/Bullet_pattern_skill_22262.gif",
         "ships": [
             "Takao",
@@ -3559,10 +3559,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Tone-class_II",
+        "id": "All_Out_Assault_-_Tone-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Tone-class II",
+        "name": "All Out Assault - Tone-class II",
         "ships": [
             "Chikuma"
         ],
@@ -3578,10 +3578,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Trento-class_II",
+        "id": "All_Out_Assault_-_Trento-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Trento-class II",
+        "name": "All Out Assault - Trento-class II",
         "image": "https://azurlane.netojuu.com/w/images/e/e9/Bullet_pattern_skill_25212.gif",
         "ships": [
             "Trento"
@@ -3598,10 +3598,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Wichita-class_II",
+        "id": "All_Out_Assault_-_Wichita-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Wichita-class II",
+        "name": "All Out Assault - Wichita-class II",
         "image": "https://azurlane.netojuu.com/w/images/1/18/Bullet_pattern_skill_20252.gif",
         "ships": [
             "Wichita"
@@ -3618,10 +3618,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_York-class_II",
+        "id": "All_Out_Assault_-_York-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - York-class II",
+        "name": "All Out Assault - York-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/f4/Bullet_pattern_skill_21242.gif",
         "ships": [
             "York",
@@ -3639,10 +3639,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Zara-class_II",
+        "id": "All_Out_Assault_-_Zara-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
-        "name": "Full Barrage - Zara-class II",
+        "name": "All Out Assault - Zara-class II",
         "image": "https://azurlane.netojuu.com/w/images/6/69/Bullet_pattern_skill_25222.gif",
         "ships": [
             "Zara",
@@ -3660,10 +3660,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Brin-class_II",
+        "id": "All_Out_Assault_-_Brin-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - Brin-class II",
+        "name": "All Out Assault - Brin-class II",
         "ships": [
             "Torricelli"
         ],
@@ -3679,10 +3679,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Gato-class_II",
+        "id": "All_Out_Assault_-_Gato-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - Gato-class II",
+        "name": "All Out Assault - Gato-class II",
         "image": "https://azurlane.netojuu.com/w/images/f/f2/Bullet_pattern_skill_20312.gif",
         "ships": [
             "Dace"
@@ -3699,10 +3699,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_I-class_II",
+        "id": "All_Out_Assault_-_I-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - I-class II",
+        "name": "All Out Assault - I-class II",
         "image": "https://azurlane.netojuu.com/w/images/0/0d/Bullet_pattern_skill_22312.gif",
         "ships": [
             "I-25",
@@ -3748,10 +3748,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_IXB_II",
+        "id": "All_Out_Assault_-_Type_IXB_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - Type IXB II",
+        "name": "All Out Assault - Type IXB II",
         "image": "https://azurlane.netojuu.com/w/images/3/35/Bullet_pattern_skill_23322.gif",
         "ships": [
             "U-110"
@@ -3768,10 +3768,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_IXC_II",
+        "id": "All_Out_Assault_-_Type_IXC_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - Type IXC II",
+        "name": "All Out Assault - Type IXC II",
         "image": "https://azurlane.netojuu.com/w/images/2/2b/Bullet_pattern_skill_23512.gif",
         "ships": [
             "U-522"
@@ -3788,10 +3788,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_VIIB_II",
+        "id": "All_Out_Assault_-_Type_VIIB_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - Type VIIB II",
+        "name": "All Out Assault - Type VIIB II",
         "image": "https://azurlane.netojuu.com/w/images/b/b3/Bullet_pattern_skill_23412.gif",
         "ships": [
             "U-73"
@@ -3808,10 +3808,10 @@
         ]
     },
     {
-        "id": "Full_Barrage_-_Type_VIIC_II",
+        "id": "All_Out_Assault_-_Type_VIIC_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/9/9d/Skill_20300.png",
-        "name": "Full Barrage - Type VIIC II",
+        "name": "All Out Assault - Type VIIC II",
         "image": "https://azurlane.netojuu.com/w/images/3/34/Bullet_pattern_skill_23312.gif",
         "ships": [
             "U-556",
