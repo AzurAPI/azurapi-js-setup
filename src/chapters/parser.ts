@@ -293,18 +293,11 @@ function parseShipDrops(div: Element) {
   }
   return ships;
 }
-
-const BGCOLOR_DICT: { [s: string]: string } = {
-  "rgb(0, 68, 0)": "Land",
-  "rgb(170, 221, 221)": "Sea",
-};
-
 function parseNodeMap(div: Element) {
   let map = [];
   let nodes = [];
-  let rows = div.querySelectorAll(".nodemap tr");
-  let width,
-    height = 0;
+  let rows = Array.from(div.querySelectorAll("tr")).slice(1);
+  let width, height = 0;
   for (let row of rows) {
     let cols = row.getElementsByTagName("td");
     if (cols.length === 0) continue;
@@ -312,7 +305,7 @@ function parseNodeMap(div: Element) {
     if (!width) width = cols.length;
     for (let i = 0; i < cols.length; i++) {
       if (cols[i].children.length !== 0) map_cols[i] = (<HTMLElement>cols[i].children[0]).title;
-      else map_cols[i] = BGCOLOR_DICT[cols[i].style.backgroundColor];
+      else map_cols[i] = (<HTMLElement>cols[i]).className === "x" ? "Land" : "Sea";
       if (map_cols[i] !== "Sea")
         nodes.push({
           x: i,
