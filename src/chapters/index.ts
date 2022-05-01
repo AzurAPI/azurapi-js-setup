@@ -34,7 +34,7 @@ export async function refreshChapter() {
         names
       )
     );
-    fs.writeFileSync(CHAPTERS_PATH, JSON.stringify(CHAPTERS, null, 4));
+    fs.writeFileSync(CHAPTERS_PATH, JSON.stringify(CHAPTERS, null, '\t'));
     console.log("\nDone");
   }
   fs.writeFileSync(CHAPTERS_MIN_PATH, JSON.stringify(CHAPTERS));
