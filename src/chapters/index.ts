@@ -20,7 +20,7 @@ export async function refreshChapter() {
     ).window.document
   );
   let CHAPTERS = [];
-  for (let i = 1; i <= 13; i++) {
+  for (let i = 1; i <= 14; i++) {
     process.stdout.write("Refreshing Chapter " + i + " Details");
     CHAPTERS.push(
       parseChapter(
@@ -43,7 +43,7 @@ export async function refreshChapter() {
 function parseChaptersNames(doc: Document) {
   let rows = doc.querySelector(".wikitable tbody").children;
   let names: any = {};
-  for (let i = 0; i < 13; i++) {
+  for (let i = 0; i < 14; i++) {
     names[i + 1] = {
       en: rows[i * 5 + 1].children[1].textContent.trim(),
       cn: rows[i * 5 + 1].children[2].textContent.trim(),
