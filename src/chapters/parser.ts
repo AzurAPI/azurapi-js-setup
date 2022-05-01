@@ -28,6 +28,7 @@ const parsers: {
   "HARD Fleet Restrictions": parseFleetRestriction,
   "Stat Restrictions": parseStatsRestriction,
   "HARD Stat Restrictions": parseStatsRestriction,
+  "Fuel Cost Limit (info)": parseFuelCostLimit,
   "Map Drops": parseMapDrops,
   "Additional Notes": extractText,
   "Blueprint Drops": parseEQBPDrops,
@@ -104,6 +105,14 @@ function parseUnlockReq(div: Element) {
     text: value,
     requiredLevel: parseInt(value.substring(7)),
   };
+}
+
+function parseFuelCostLimit(div: Element) {
+  return {
+    mob: parseInt(div.childNodes[0].textContent.replace(/[^\d]+/g, "")),
+    boss: parseInt(div.childNodes[2].textContent.replace(/[^\d]+/g, "")),
+    submarine: parseInt(div.childNodes[4].textContent.replace(/[^\d]+/g, ""))
+  }
 }
 
 function parseClearRewards(div: Element) {
