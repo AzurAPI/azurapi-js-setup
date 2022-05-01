@@ -61,10 +61,10 @@ export function parseChapter(doc: Document, index: number, names: any) {
         jp: names[index + "-" + i] ? names[index + "-" + i].jp : null,
       },
       normal: hasHardMode
-        ? parseMap(doc.querySelector("div[title='" + index + "-" + i + "']"), index + "-" + i)
+        ? parseMap(boxes[(i-1)*2], index + "-" + i)
         : parseMap(boxes[i - 1], index + "-" + i),
       hard: hasHardMode
-        ? parseMap(doc.querySelector("div[title='" + index + "-" + i + " Hard']"), index + "-" + i)
+        ? parseMap(boxes[(i-1)*2+1], index + "-" + i)
         : null,
     };
   }
