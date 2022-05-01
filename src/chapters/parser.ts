@@ -22,6 +22,7 @@ const parsers: {
   "Boss Kills to Clear": extractLeadingDigits,
   "Star Conditions": parseStarCon,
   "Air Supremacy (info)": parseAirSuprem,
+  "Airspace Control (info)": parseAirSuprem,
   "Recon Value (info)": parseReconValue,
   "Fleet Restrictions": parseFleetRestriction,
   "HARD Fleet Restrictions": parseFleetRestriction,
@@ -182,7 +183,13 @@ function parseStarCon(div: Element): StarConditions {
 }
 
 function parseAirSuprem(div: Element): AirSupremacy {
-  return {
+  return div.childNodes.length === 13 ? {
+    actual: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, "")),
+    denial: parseInt(div.childNodes[6].textContent.replace(/[^\d]+/g, "")),
+    parity: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, "")),
+    superiority: parseInt(div.childNodes[10].textContent.replace(/[^\d]+/g, "")),
+    supremacy: parseInt(div.childNodes[12].textContent.replace(/[^\d]+/g, ""))
+  }:{
     actual: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, "")),
     superiority: parseInt(div.childNodes[6].textContent.replace(/[^\d]+/g, "")),
     supremacy: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, "")),
