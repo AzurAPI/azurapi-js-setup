@@ -13,7 +13,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/8/82/7320.png",
@@ -135,7 +135,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/0/07/31060.png",
@@ -271,7 +271,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/9/9e/21000.png",
@@ -560,7 +560,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/4/47/31180.png",
@@ -653,9 +653,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "Normal (120",
-						"unit": "/ 60",
-						"formatted": "Normal (120 / 60 / 60)"
+						"value": "Normal (100",
+						"unit": "/ 50",
+						"formatted": "Normal (100 / 50 / 20)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -692,7 +692,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/e/e2/31160.png",
@@ -822,7 +822,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/3/3f/21300.png",
@@ -840,7 +840,7 @@
 				"Twin 120mm (QF Mark XII)"
 			],
 			"animation": "https://azurlane.netojuu.com/w/images/8/85/Bullet_pattern_equip_21300.gif",
-			"obtainedFrom": "1-4, T2/T3 Royal Tech Box"
+			"obtainedFrom": "1-4, T2/T3 Royal Tech Box, Gear Lab"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
@@ -1111,7 +1111,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/5/53/31100.png",
@@ -1400,7 +1400,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/7/7f/11060.png",
@@ -1530,7 +1530,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/c/cd/11100.png",
@@ -1825,7 +1825,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/3/33/41000.png",
@@ -2098,7 +2098,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/0/0e/31260.png",
@@ -2232,7 +2232,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/1/1a/7200.png",
@@ -2513,7 +2513,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/7/79/50000.png",
@@ -2716,7 +2716,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/b/b8/50700.png",
@@ -2997,7 +2997,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/b/bc/50100.png",
@@ -3278,7 +3278,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/e/eb/11000.png",
@@ -3563,7 +3563,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/6/67/21200.png",
@@ -3848,7 +3848,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/3/3d/31000.png",
@@ -4133,7 +4133,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/3/39/21100.png",
@@ -4426,7 +4426,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/7/7d/21160.png",
@@ -4677,7 +4677,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/2/2d/55560.png",
@@ -4794,7 +4794,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/e/e4/55460.png",
@@ -4916,7 +4916,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/3/30/55400.png",
@@ -5197,7 +5197,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/c/ca/21460.png",
@@ -5323,7 +5323,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/4/40/21400.png",
@@ -5616,7 +5616,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/f/f8/11160.png",
@@ -5752,7 +5752,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/9/90/11200.png",
@@ -6043,7 +6043,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/d/d8/41060.png",
@@ -6169,7 +6169,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/3/3b/31280.png",
@@ -6295,7 +6295,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/a/a7/31200.png",
@@ -6584,7 +6584,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/a/a1/41100.png",
@@ -6873,7 +6873,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/f/f4/41160.png",
@@ -6999,7 +6999,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/a/ae/85000.png",
@@ -7202,7 +7202,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/5/50/50500.png",
@@ -7325,7 +7325,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/b/bf/21500.png",
@@ -7860,9 +7860,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -8608,9 +8608,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -9798,9 +9798,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -9930,9 +9930,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -10058,9 +10058,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE++ (145",
+						"value": "HE+ (145",
 						"unit": "/ 110",
-						"formatted": "HE++ (145 / 110 / 75)"
+						"formatted": "HE+ (145 / 110 / 75)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -10603,9 +10603,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -10682,9 +10682,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -11292,9 +11292,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -11371,9 +11371,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -11700,9 +11700,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -11779,9 +11779,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -12404,9 +12404,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -12483,9 +12483,9 @@
 					},
 					"ammoType": {
 						"type": "value_unit",
-						"value": "HE+ (145",
+						"value": "HE (145",
 						"unit": "/ 105",
-						"formatted": "HE+ (145 / 105 / 70)"
+						"formatted": "HE (145 / 105 / 70)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -14987,9 +14987,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "25",
-						"unit": "° random aim",
-						"formatted": "25° random aim"
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15065,9 +15065,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "25",
-						"unit": "° random aim",
-						"formatted": "25° random aim"
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15143,9 +15143,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "25",
-						"unit": "° random aim",
-						"formatted": "25° random aim"
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -15264,15 +15264,15 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "25",
+						"value": "6",
 						"unit": "°",
-						"formatted": "25°"
+						"formatted": "6°"
 					},
 					"angle": {
 						"type": "value_unit",
-						"value": "45",
+						"value": "40",
 						"unit": "°",
-						"formatted": "45°"
+						"formatted": "40°"
 					},
 					"range": {
 						"type": "range",
@@ -16262,8 +16262,10 @@
 						"formatted": "105% → 109%"
 					},
 					"ammoType": {
-						"type": "value",
-						"formatted": "Normal ( /  / )"
+						"type": "value_unit",
+						"value": "Normal (100",
+						"unit": "/ 90",
+						"formatted": "Normal (100 / 90 / 50)"
 					},
 					"characteristic": {
 						"type": "value",
@@ -16699,7 +16701,7 @@
 		"misc": {
 			"blueprints": "",
 			"madeFrom": [],
-			"notes": "",
+			"notes": "SAP shells fired from this weapon can pierce once.",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/w/images/7/73/Bullet_pattern_equip_95240.gif",
 			"obtainedFrom": "Empyreal Tragicomedy map drop"
@@ -18772,15 +18774,15 @@
 					},
 					"rateOfFire": {
 						"type": "min_max",
-						"min": "11.30s",
-						"max": "8.97s",
-						"formatted": "11.30s → 8.97s"
+						"min": "11.31s",
+						"max": "8.98s",
+						"formatted": "11.31s → 8.98s"
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "26",
+						"value": "6",
 						"unit": "°",
-						"formatted": "26°"
+						"formatted": "6°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -23567,7 +23569,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -23806,7 +23808,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -24051,7 +24053,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -24177,7 +24179,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -24297,7 +24299,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -24532,7 +24534,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -24777,7 +24779,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -24899,7 +24901,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -25015,7 +25017,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -25250,7 +25252,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -25489,7 +25491,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -25605,7 +25607,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -25721,7 +25723,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -25890,7 +25892,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -26059,7 +26061,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -26294,7 +26296,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -26406,7 +26408,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -26641,7 +26643,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -26760,7 +26762,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -50465,9 +50467,9 @@
 					},
 					"volleyTime": {
 						"type": "value_unit",
-						"value": "0.0",
+						"value": "0.00",
 						"unit": "s",
-						"formatted": "0.0s"
+						"formatted": "0.00s"
 					},
 					"coefficient": {
 						"type": "min_max",
@@ -50516,7 +50518,7 @@
 			"lightCarrier": null,
 			"repairShip": null,
 			"munitionShip": "primary",
-			"submarine": "primary",
+			"submarine": "Excluding Surcouf",
 			"submarineCarrier": null
 		},
 		"image": "https://azurlane.netojuu.com/w/images/5/5d/21600.png",
@@ -51329,7 +51331,7 @@
 			"lightCruiser": "primary",
 			"heavyCruiser": "primary",
 			"monitor": null,
-			"largeCruiser": null,
+			"largeCruiser": "Ägir only",
 			"battleship": null,
 			"battlecruiser": "Odin and Scharnhorst META only",
 			"aviationBattleship": null,
@@ -52512,9 +52514,9 @@
 					},
 					"spread": {
 						"type": "value_unit",
-						"value": "25",
+						"value": "8",
 						"unit": "°",
-						"formatted": "25°"
+						"formatted": "8°"
 					},
 					"angle": {
 						"type": "value_unit",
@@ -52571,6 +52573,401 @@
 			"en": "Triple 305mm (B-50)",
 			"cn": "B-50 三联装305mm主炮Mk-15",
 			"jp": "B-50 三联装305mm主炮Mk-15",
+			"kr": null
+		}
+	},
+	"Twin 135mm (Model 1938)": {
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"heavyCruiser": "secondary",
+			"monitor": "secondary",
+			"largeCruiser": "Secondary gun, Azuma only",
+			"battleship": "secondary",
+			"battlecruiser": "Secondary gun, excluding Odin and Scharnhorst META",
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": "primary",
+			"submarine": "Excluding Surcouf",
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/8/89/55920.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "SAP shells fired from this weapon do not pierce targets.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Virtual Tower Event Shop"
+		},
+		"nationality": "Sardegna Empire",
+		"tiers": [
+			null,
+			{
+				"tier": 1,
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "7"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "5"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "9",
+						"multiplier": "4",
+						"formatted": "4 × 4 → 9 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.19s",
+						"max": "2.00s",
+						"per": "volley",
+						"formatted": "2.19s → 2.00s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (95",
+						"unit": "/ 95",
+						"formatted": "Normal (95 / 95 / 25)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 2,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "15"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "10"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "14",
+						"multiplier": "4",
+						"formatted": "4 × 4 → 14 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.06s",
+						"max": "1.73s",
+						"per": "volley",
+						"formatted": "2.06s → 1.73s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "%",
+						"formatted": "110%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "SAP (95",
+						"unit": "/ 95",
+						"formatted": "SAP (95 / 95 / 25)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 3,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "30"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "15"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "4",
+						"max": "17",
+						"multiplier": "4",
+						"formatted": "4 × 4 → 17 × 4"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.93s",
+						"max": "1.60s",
+						"per": "volley",
+						"formatted": "1.93s → 1.60s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "360",
+						"unit": "°",
+						"formatted": "360°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 50,
+						"shell": 50,
+						"formatted": "Firing: 50\nShell: 50"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "2 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.10",
+						"unit": "s",
+						"formatted": "0.10s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "120%",
+						"max": "142%",
+						"formatted": "120% → 142%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "SAP (95",
+						"unit": "/ 95",
+						"formatted": "SAP (95 / 95 / 25)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"id": "Twin 135mm (Model 1938)",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Twin_135mm_(Model_1938)#Type_3-0",
+		"category": "Destroyer Guns",
+		"names": {
+			"en": "Twin 135mm (Model 1938)",
+			"cn": "135mm連装砲Model1938",
+			"jp": "135mm連装砲Model1938",
+			"kr": null
+		}
+	},
+	"Battle Tracto Max": {
+		"fits": {
+			"destroyer": "Type 1936A-class only",
+			"lightCruiser": "Tien Hai excluded",
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": "Secondary gun, Kronshtadt only",
+			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
+			"battlecruiser": "Secondary gun, cannot be used on Royal Navy's BCs, Dunkerque, Odin or Scharnhorst META",
+			"aviationBattleship": null,
+			"aircraftCarrier": "Zeppy, Béarn and Eagle only",
+			"lightCarrier": "Houshou only",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": "Nautilus only",
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/1/1d/89300.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "Only usable by Rikka Takarada",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Equip Battle Tracto Max on Rikka Takarada"
+		},
+		"nationality": "SSSS",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "9",
+						"max": "16",
+						"multiplier": "6",
+						"formatted": "9 × 6 → 16 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "4.00s → 3.56s",
+						"max": "3.56s",
+						"per": "volley",
+						"formatted": "4.00s → 3.56s → 3.56s  per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "18",
+						"unit": "°",
+						"formatted": "18°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "110",
+						"unit": "°",
+						"formatted": "110°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 68,
+						"shell": 55,
+						"formatted": "Firing: 68\nShell: 55"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "2",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "2 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.15",
+						"unit": "s",
+						"formatted": "0.15s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "105%",
+						"max": "124%",
+						"formatted": "105% → 124%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HE (145",
+						"unit": "/ 105",
+						"formatted": "HE (145 / 105 / 70)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "CL Gun"
+		},
+		"id": "Battle Tracto Max",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max#Type_0-0",
+		"category": "Light Cruiser Guns",
+		"names": {
+			"en": "Battle Tracto Max",
+			"cn": null,
+			"jp": null,
 			"kr": null
 		}
 	}
