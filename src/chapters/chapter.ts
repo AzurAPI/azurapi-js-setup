@@ -46,4 +46,4 @@ export type AirSupremacy = {
   actual: number;
   superiority: number;
   supremacy: number;
-};
+} | { actual: number; denial: number; parity: number; superiority: number; supremacy: number; };
