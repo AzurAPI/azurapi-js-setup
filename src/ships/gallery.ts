@@ -108,7 +108,12 @@ export async function fetchGallery(
       let tab = <HTMLElement>node;
 
       const skinName = normalizeName(tab.title);
-      const skinCategory = handleSkinCategory({ name, skinName, skinsPage });
+      let skinCategory;
+      try{
+        skinCategory = handleSkinCategory({ name, skinName, skinsPage });
+      }catch(e){
+        console.log(e)
+      }
       let image;
       if (tab.querySelector(".tabber__panel"))
         image = {
