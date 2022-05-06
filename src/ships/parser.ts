@@ -366,7 +366,7 @@ function parseStatsBonus(cell: Element): Bonus {
   if (!cell.children[i]) return null;
   let stat = camelize((<HTMLElement>cell.children[i]).title.replace(/[^\w ]/g, ""));
   if (!isStat(stat)) {
-    console.log("Irregular Stat", cell.ownerDocument.location.href);
+    console.log("Irregular Stat ", stat);
     throw "stat bonus " + stat;
   }
   statsBonus.stat = <Stat>stat;
