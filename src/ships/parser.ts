@@ -465,6 +465,7 @@ function parseStats(doc: Document): ShipStats {
     };
     for (let j = 1; j < titles.length; j++) {
       if (!titles[j] || titles[j].trim().length === 0) continue;
+      if(titles[j]==="antisubmarineWarfareASW") titles[j]='antisubmarineWarfare'
       if (!isStat(titles[j])) {
         console.log("Irregular stat" + doc.location.href);
         throw "parseStat " + titles[j];
