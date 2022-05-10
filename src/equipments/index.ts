@@ -25,11 +25,15 @@ export let EQUIPMENTS_INTERNAL: { [s: string]: Equipment } = fs.existsSync(INTER
   : {};
 export let VERSION_INFO = JSON.parse(fs.readFileSync(VERSION_PATH).toString());
 
+function cleanString(str:string) {
+  return str.replace(/\s+|[^\w]/g, "_")
+}
+
 export async function refreshEQImages() {
   console.log("Equipments...");
   for (let key of Object.keys(EQUIPMENTS_INTERNAL)) {
     let eq = EQUIPMENTS_INTERNAL[key];
-    let cleanName = key.replace(/[\s\/]+/g, "_");
+    let cleanName = cleanString(key)
     if (eq.image)
       await fetchImage(eq.image, path.resolve(ROOT, "images/equipments/" + cleanName + ".png"));
     else console.log("Missing image " + key);
@@ -373,7 +377,7 @@ export function publishEQ() {
   for (let key of Object.keys(EQUIPMENTS_INTERNAL)) {
     if (!EQUIPMENTS_INTERNAL[key].names) continue;
     let eq = clone(EQUIPMENTS_INTERNAL[key]);
-    let cleanName = key.replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, "");
+    let cleanName = cleanString(key)
     eq.image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
     eq.misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
     EQUIPMENTS.push(eq);
