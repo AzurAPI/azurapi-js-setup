@@ -379,7 +379,7 @@ export function publishEQ() {
     let eq = clone(EQUIPMENTS_INTERNAL[key]);
     let cleanName = cleanString(key)
     eq.image = IMAGE_REPO_URL + "images/equipments/" + cleanName + ".png";
-    eq.misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
+    if(eq.misc.animation) eq.misc.animation = IMAGE_REPO_URL + "images/equipments.animation/" + cleanName + ".gif";
     EQUIPMENTS.push(eq);
     process.stdout.write(".");
   }
