@@ -20,7 +20,7 @@ export enum SkinCategories {
   Sport = "Sport",
   Spring = "Spring",
   Swimsuits = "Swimsuits",
-
+  Vampire = "Vampire",
   Miscellaneous = "Miscellaneous",
   Event = "Event",
   CollabEvent = "Collab Event",
