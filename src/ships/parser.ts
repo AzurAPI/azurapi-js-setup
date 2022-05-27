@@ -227,9 +227,9 @@ function parseTable(table: Element) {
       if (title === "Voice Actor")
         final[title] = {
           name:
-            child.children[i + 1].lastElementChild?.textContent.trim() ||
+            child.children[i + 1].firstElementChild?.textContent.trim() ||
             child.children[i + 1].textContent.trim(),
-          url: child.children[i + 1].lastElementChild?.getAttribute("href"),
+          url: child.children[i + 1].firstElementChild?.getAttribute("href"),
         };
       else if (title === "Illustrator")
         final[title] = {
