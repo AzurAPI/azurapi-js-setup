@@ -5701,9 +5701,9 @@
 					},
 					"volleyTime": {
 						"type": "value_unit",
-						"value": "0.10",
+						"value": "0.00",
 						"unit": "s",
-						"formatted": "0.10s"
+						"formatted": "0.00s"
 					},
 					"coefficient": {
 						"type": "min_max",
@@ -22700,6 +22700,10 @@
 						"type": "value",
 						"formatted": "25"
 					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
 					"damage": {
 						"type": "min_max_multiplier",
 						"min": "58",
@@ -34663,7 +34667,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Aurora Noctis, Gear Lab"
+			"obtainedFrom": "Aurora Noctis, Gear Lab, Pledge of the Radiant Court (D2)"
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
