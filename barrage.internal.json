@@ -58,6 +58,32 @@
         ]
     },
     {
+        "id": "All_Out_Assault_:_Bristol_II",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/e/e3/Skill_29790.png",
+        "name": "All Out Assault : Bristol II",
+        "ships": [
+            "Bristol"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 440,
+                "dmgM": 440,
+                "dmgH": 440,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 147,
+                "dmgM": 189,
+                "dmgH": 252,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "All_Out_Assault_-_Eldridge_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/5/5d/Skill_29020.png",
@@ -134,6 +160,25 @@
                 "dmgM": 252,
                 "dmgH": 144,
                 "note": "Can pierce once."
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault:_Kiev_II",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/9/9a/Skill_29820.png",
+        "name": "All Out Assault: Kiev II",
+        "ships": [
+            "Kiev"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 704,
+                "dmgM": 576,
+                "dmgH": 448,
+                "note": null
             }
         ]
     },
@@ -340,6 +385,45 @@
                 "dmgL": 94.5,
                 "dmgM": 121.5,
                 "dmgH": 162,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault:_Pompeo_Magno_II",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/b/b2/Skill_29330.png",
+        "name": "All Out Assault: Pompeo Magno II",
+        "image": "https://azurlane.netojuu.com/w/images/9/9e/Bullet_pattern_skill_29332.gif",
+        "ships": [
+            "Pompeo Magno"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 736,
+                "dmgM": 588.8,
+                "dmgH": 441.6,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault:_Storozhevoy_II",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/b/b2/Skill_29330.png",
+        "name": "All Out Assault: Storozhevoy II",
+        "ships": [
+            "Soobrazitelny"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 275,
+                "dmgM": 220,
+                "dmgH": 165,
                 "note": null
             }
         ]
@@ -633,6 +717,32 @@
                 "dmgM": 45,
                 "dmgH": 45,
                 "note": "Blade, Pierce 3, Ignore shield"
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_II_:_Jervis",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/8/8e/Skill_29850.png",
+        "name": "All Out Assault II : Jervis",
+        "ships": [
+            "Jervis"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 1125,
+                "dmgM": 900,
+                "dmgH": 675,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 360,
+                "dmgM": 450,
+                "dmgH": 585,
+                "note": null
             }
         ]
     },
@@ -1087,6 +1197,70 @@
         ]
     },
     {
+        "id": "All_Out_Assault_II:_Magdeburg",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/b/b0/Skill_29770.png",
+        "name": "All Out Assault II: Magdeburg",
+        "ships": [
+            "Magdeburg"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 980,
+                "dmgM": 630,
+                "dmgH": 490,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 96,
+                "dmgM": 120,
+                "dmgH": 156,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_:_Charybdis_II",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/2/2e/Skill_29780.png",
+        "name": "All Out Assault : Charybdis II",
+        "ships": [
+            "Charybdis"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 960,
+                "dmgM": 748,
+                "dmgH": 496,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_-_Emden_II",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/0/08/Skill_29840.png",
+        "name": "All Out Assault - Emden II",
+        "ships": [
+            "Emden"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 480,
+                "dmgM": 480,
+                "dmgH": 480,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "All_Out_Assault_-_Admiral_Hipper_(Muse)_II",
         "type": "ship",
         "icon": "https://azurlane.netojuu.com/w/images/4/48/Skill_29470.png",
@@ -1393,6 +1567,25 @@
                 "dmgM": 160,
                 "dmgH": 208,
                 "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_II_:_Little_Cheshire",
+        "type": "ship",
+        "icon": "https://azurlane.netojuu.com/w/images/6/65/Skill_29860.png",
+        "name": "All Out Assault II : Little Cheshire",
+        "ships": [
+            "Little Cheshire"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 324,
+                "dmgM": 228,
+                "dmgH": 168,
+                "note": "Homing bullets."
             }
         ]
     },
@@ -1831,6 +2024,48 @@
                 "dmgL": 585,
                 "dmgM": 405,
                 "dmgH": 270,
+                "note": "When equipped with Seal of the Four Gods.Cosmetic difference between ships."
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_-_An_Shan-class_III_(Unenhanced)",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
+        "name": "All Out Assault - An Shan-class III (Unenhanced)",
+        "image": "https://azurlane.netojuu.com/w/images/d/d0/Bullet_pattern_skill_24012.gif",
+        "ships": [
+            "An Shan",
+            "Chang Chun"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 234,
+                "dmgM": 162,
+                "dmgH": 108,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_-_An_Shan-class_III_(Enhanced)",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20000.png",
+        "name": "All Out Assault - An Shan-class III (Enhanced)",
+        "image": "https://azurlane.netojuu.com/w/images/d/d0/Bullet_pattern_skill_24012.gif",
+        "ships": [
+            "An Shan",
+            "Chang Chun"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 650,
+                "dmgM": 450,
+                "dmgH": 300,
                 "note": "When equipped with Seal of the Four Gods.Cosmetic difference between ships."
             }
         ]
@@ -2852,7 +3087,8 @@
         "name": "All Out Assault - Dido-class II",
         "image": "https://azurlane.netojuu.com/w/images/b/be/Bullet_pattern_skill_21122.gif",
         "ships": [
-            "Black Prince"
+            "Black Prince",
+            "Bellona"
         ],
         "hull": "CL",
         "rounds": [
@@ -2923,6 +3159,26 @@
                 "dmgL": 726,
                 "dmgM": 561,
                 "dmgH": 330,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_:_Hai_Chi-Class_II",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
+        "name": "All Out Assault : Hai Chi-Class II",
+        "ships": [
+            "Hai Chi",
+            "Hai Tien"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 600,
+                "dmgM": 450,
+                "dmgH": 240,
                 "note": null
             }
         ]
@@ -3100,6 +3356,25 @@
                 "dmgL": 350,
                 "dmgM": 262.5,
                 "dmgH": 140,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_-_Pillau_Class_II",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
+        "name": "All Out Assault - Pillau Class II",
+        "ships": [
+            "Elbing"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 843.75,
+                "dmgM": 675,
+                "dmgH": 506.25,
                 "note": null
             }
         ]
@@ -3480,7 +3755,8 @@
         "name": "All Out Assault - P-class II",
         "image": "https://azurlane.netojuu.com/w/images/d/d0/Bullet_pattern_skill_23232.gif",
         "ships": [
-            "Prinz Heinrich"
+            "Prinz Heinrich",
+            "Prinz Adalbert"
         ],
         "hull": "CA",
         "rounds": [
@@ -3532,6 +3808,25 @@
                 "dmgM": 192,
                 "dmgH": 144,
                 "note": "30% burn chance. Has Main Gun + 1."
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault_-_Roon-Class_II",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+        "name": "All Out Assault - Roon-Class II",
+        "ships": [
+            "Yorck"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 594,
+                "dmgM": 871.2,
+                "dmgH": 594,
+                "note": null
             }
         ]
     },
@@ -3593,6 +3888,25 @@
                 "dmgL": 228,
                 "dmgM": 182.4,
                 "dmgH": 136.8,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "All_Out_Assault:_Trento-class_II_(Enhanced)",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/0/0c/Skill_20200.png",
+        "name": "All Out Assault: Trento-class II (Enhanced)",
+        "ships": [
+            "Trieste"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 1512,
+                "dmgM": 972,
+                "dmgH": 756,
                 "note": null
             }
         ]
@@ -3816,7 +4130,8 @@
         "ships": [
             "U-556",
             "U-557",
-            "U-410"
+            "U-410",
+            "U-1206"
         ],
         "hull": "SS",
         "rounds": [
@@ -4702,6 +5017,160 @@
                 "dmgL": 180,
                 "dmgM": 225,
                 "dmgH": 292.5,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Let's_Go,_Data_857!",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/0/07/Skill_15160.png",
+        "name": "Let's Go, Data 857!",
+        "ships": [
+            "Bristol"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 605,
+                "dmgM": 605,
+                "dmgH": 550,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 404,
+                "dmgM": 505,
+                "dmgH": 656.5,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Azure_Dragon's_Dance",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/6/6f/Skill_15190.png",
+        "name": "Azure Dragon's Dance",
+        "ships": [
+            "An Shan"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 800,
+                "dmgM": 800,
+                "dmgH": 800,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "White_Tiger's_Prance",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/0/0e/Skill_15200.png",
+        "name": "White Tiger's Prance",
+        "ships": [
+            "Chang Chun"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 800,
+                "dmgM": 800,
+                "dmgH": 800,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Can_I_Attack_Now?_(Unenhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_15240.png",
+        "name": "Can I Attack Now? (Unenhanced)",
+        "ships": [
+            "Kiev"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 260,
+                "dmgM": 208,
+                "dmgH": 156,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Can_I_Attack_Now?_(Enhance_1)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_15240.png",
+        "name": "Can I Attack Now? (Enhance 1)",
+        "ships": [
+            "Kiev"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 420,
+                "dmgM": 328,
+                "dmgH": 228,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Can_I_Attack_Now?_(Enhance_2)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_15240.png",
+        "name": "Can I Attack Now? (Enhance 2)",
+        "ships": [
+            "Kiev"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 740,
+                "dmgM": 568,
+                "dmgH": 372,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 320,
+                "dmgM": 400,
+                "dmgH": 520,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "A_Genius_Keeps_Things_Simple!",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/1/1d/Skill_15280.png",
+        "name": "A Genius Keeps Things Simple!",
+        "ships": [
+            "Soobrazitelny"
+        ],
+        "hull": "DD",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 480,
+                "dmgM": 384,
+                "dmgH": 288,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 230.4,
+                "dmgM": 288,
+                "dmgH": 374.4,
                 "note": null
             }
         ]
@@ -5618,6 +6087,242 @@
         ]
     },
     {
+        "id": "Scorching_Combo_(Unenhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/e/e0/Skill_14990.png",
+        "name": "Scorching Combo (Unenhanced)",
+        "ships": [
+            "Magdeburg"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 219.232,
+                "dmgM": 421.6,
+                "dmgH": 219.232,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 144,
+                "dmgM": 180,
+                "dmgH": 234,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Scorching_Combo_(Enhanced_1)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/e/e0/Skill_14990.png",
+        "name": "Scorching Combo (Enhanced 1)",
+        "ships": [
+            "Magdeburg"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 509.795,
+                "dmgM": 980.375,
+                "dmgH": 509.795,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 144,
+                "dmgM": 180,
+                "dmgH": 234,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Scorching_Combo_(Enhanced_2)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/e/e0/Skill_14990.png",
+        "name": "Scorching Combo (Enhanced 2)",
+        "ships": [
+            "Magdeburg"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 509.795,
+                "dmgM": 980.375,
+                "dmgH": 509.795,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 288,
+                "dmgM": 360,
+                "dmgH": 468,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Wave-Breaking_Speardancer",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/5/57/Skill_15130.png",
+        "name": "Wave-Breaking Speardancer",
+        "ships": [
+            "Hai Chi"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 300,
+                "dmgM": 225,
+                "dmgH": 120,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Scrollbearer_of_Turbulent_Seas",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c9/Skill_15110.png",
+        "name": "Scrollbearer of Turbulent Seas",
+        "ships": [
+            "Hai Tien"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 350,
+                "dmgM": 262.5,
+                "dmgH": 140,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Marvels_of_History_-_Elbing_(<_30_)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/5/52/Skill_15560.png",
+        "name": "Marvels of History - Elbing (< 30 )",
+        "ships": [
+            "Elbing"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 280,
+                "dmgM": 180,
+                "dmgH": 140,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Marvels_of_History_-_Elbing_(>_30_)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/5/52/Skill_15560.png",
+        "name": "Marvels of History - Elbing (> 30 )",
+        "ships": [
+            "Elbing"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 180,
+                "dmgM": 140,
+                "dmgH": 80,
+                "note": "Pierce 1."
+            }
+        ]
+    },
+    {
+        "id": "Duet_of_Alternation_(DD_gun)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/5/52/Skill_15560.png",
+        "name": "Duet of Alternation (DD gun)",
+        "ships": [
+            "Emden"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 240,
+                "dmgM": 240,
+                "dmgH": 240,
+                "note": "Ignore shields."
+            }
+        ]
+    },
+    {
+        "id": "Duet_of_Alternation_(CL_gun)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/5/52/Skill_15560.png",
+        "name": "Duet of Alternation (CL gun)",
+        "ships": [
+            "Emden"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 960,
+                "dmgM": 960,
+                "dmgH": 960,
+                "note": "30% Slow, Pierce 1."
+            }
+        ]
+    },
+    {
+        "id": "Decelerative_Fire",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/cf/Skill_800420.png",
+        "name": "Decelerative Fire",
+        "ships": [
+            "Memphis META"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 130,
+                "dmgM": 130,
+                "dmgH": 130,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Framework_of_Logic_-_Memphis",
+        "type": "skill",
+        "name": "Framework of Logic - Memphis",
+        "ships": [
+            "Memphis META"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 420,
+                "dmgM": 336,
+                "dmgH": 252,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 240,
+                "dmgM": 300,
+                "dmgH": 390,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Bellowing_Gusts_of_Fire",
         "type": "skill",
         "icon": "https://azurlane.netojuu.com/w/images/3/3c/Skill_13270.png",
@@ -6156,6 +6861,44 @@
         ]
     },
     {
+        "id": "Knockout_Shot",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/f/f4/Skill_15020.png",
+        "name": "Knockout Shot",
+        "ships": [
+            "Prinz Adalbert"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 520,
+                "dmgM": 520,
+                "dmgH": 520,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "A_Surprise_for_Mew!",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/0/01/Skill_15600.png",
+        "name": "A Surprise for Mew!",
+        "ships": [
+            "Little Cheshire"
+        ],
+        "hull": "CA",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 509.76,
+                "dmgM": 509.76,
+                "dmgH": 509.76,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Special_Gunnery_Training",
         "type": "skill",
         "icon": "https://azurlane.netojuu.com/w/images/8/8e/Skill_19210.png",
@@ -6232,7 +6975,7 @@
     {
         "id": "Jöttun's_Jaws",
         "type": "skill",
-        "icon": "https://azurlane.netojuu.com/w/images/f/f4/Skill_19430.png",
+        "icon": "https://azurlane.netojuu.com/w/images/9/9c/Skill_15290.png",
         "name": "Jöttun's Jaws",
         "ships": [
             "Ägir"
@@ -6251,6 +6994,88 @@
                 "dmgL": 360,
                 "dmgM": 528,
                 "dmgH": 360,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Indomitable_Ice_(Unenhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/f/f4/Skill_19430.png",
+        "name": "Indomitable Ice (Unenhanced)",
+        "ships": [
+            "Kronshtadt"
+        ],
+        "hull": "CB",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 240,
+                "dmgM": 240,
+                "dmgH": 240,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Indomitable_Ice_(Enhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/9/9c/Skill_15290.png",
+        "name": "Indomitable Ice (Enhanced)",
+        "ships": [
+            "Kronshtadt"
+        ],
+        "hull": "CB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 252,
+                "dmgM": 369.6,
+                "dmgH": 252,
+                "note": "Arching shots."
+            },
+            {
+                "type": "Normal",
+                "dmgL": 240,
+                "dmgM": 240,
+                "dmgH": 240,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Tempered_Prudence",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c2/Skill_15300.png",
+        "name": "Tempered Prudence",
+        "ships": [
+            "Kronshtadt"
+        ],
+        "hull": "CB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 330,
+                "dmgM": 330,
+                "dmgH": 330,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Strong-Willed_Support",
+        "type": "skill",
+        "name": "Strong-Willed Support",
+        "ships": [
+            "Kronshtadt"
+        ],
+        "hull": "CB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 369.6,
+                "dmgM": 369.6,
+                "dmgH": 369.6,
                 "note": null
             }
         ]
@@ -7963,6 +8788,397 @@
         ]
     },
     {
+        "id": "The_Laurel_of_Prosody",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c3/Skill_15050.png",
+        "name": "The Laurel of Prosody",
+        "ships": [
+            "Ulrich von Hutten"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 440,
+                "dmgM": 440,
+                "dmgH": 440,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "The_Laurel_of_Prosody_(Proximity)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c3/Skill_15050.png",
+        "name": "The Laurel of Prosody (Proximity)",
+        "ships": [
+            "Ulrich von Hutten"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Torpedo",
+                "dmgL": 312,
+                "dmgM": 390,
+                "dmgH": 507,
+                "note": null
+            },
+            {
+                "type": "Normal",
+                "dmgL": 3120,
+                "dmgM": 3120,
+                "dmgH": 3120,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Revolutionary's_Prosaic",
+        "type": "skill",
+        "name": "Revolutionary's Prosaic",
+        "ships": [
+            "Ulrich von Hutten"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 290,
+                "dmgM": 210,
+                "dmgH": 140,
+                "note": null
+            },
+            {
+                "type": "Normal",
+                "dmgL": 640,
+                "dmgM": 640,
+                "dmgH": 640,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Seething_Chains",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c5/Skill_800260.png",
+        "name": "Seething Chains",
+        "ships": [
+            "Gneisenau META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 660,
+                "dmgM": 660,
+                "dmgH": 660,
+                "note": "100% chance to apply special burn."
+            },
+            {
+                "type": "Normal",
+                "dmgL": 900,
+                "dmgM": 900,
+                "dmgH": 900,
+                "note": "100% chance to apply special burn."
+            }
+        ]
+    },
+    {
+        "id": "Disruption_Wave",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/b/b1/Skill_800270.png",
+        "name": "Disruption Wave",
+        "ships": [
+            "Gneisenau META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Torpedo",
+                "dmgL": 358.4,
+                "dmgM": 448,
+                "dmgH": 582.4,
+                "note": "Homing torpedoes."
+            }
+        ]
+    },
+    {
+        "id": "Noble_Strike",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/f/f3/Skill_15260.png",
+        "name": "Noble Strike",
+        "ships": [
+            "Arkhangelsk"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 95.04,
+                "dmgM": 356.4,
+                "dmgH": 308.88,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Dual_Snipe",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c7/Skill_800340.png",
+        "name": "Dual Snipe",
+        "ships": [
+            "Scharnhorst META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 381.6,
+                "dmgM": 858.6,
+                "dmgH": 699.6,
+                "note": "100% chance to apply special armor break."
+            }
+        ]
+    },
+    {
+        "id": "Dual_Snipe_(Proximity)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c7/Skill_800340.png",
+        "name": "Dual Snipe (Proximity)",
+        "ships": [
+            "Scharnhorst META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 144,
+                "dmgM": 144,
+                "dmgH": 144,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Blazing_Blitz",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/c3/Skill_800350.png",
+        "name": "Blazing Blitz",
+        "ships": [
+            "Scharnhorst META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 240,
+                "dmgM": 240,
+                "dmgH": 240,
+                "note": "50% chance to apply burn."
+            },
+            {
+                "type": "AP",
+                "dmgL": 240,
+                "dmgM": 240,
+                "dmgH": 240,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Blood_Sacrifice_(Enhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/3/37/Skill_800380.png",
+        "name": "Blood Sacrifice (Enhanced)",
+        "ships": [
+            "Yamashiro META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 440,
+                "dmgM": 440,
+                "dmgH": 440,
+                "note": "Straight shots."
+            },
+            {
+                "type": "AP",
+                "dmgL": 193.6,
+                "dmgM": 580.8,
+                "dmgH": 605,
+                "note": "Arching shots."
+            }
+        ]
+    },
+    {
+        "id": "Blood_Sacrifice_(Unenhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/3/37/Skill_800380.png",
+        "name": "Blood Sacrifice (Unenhanced)",
+        "ships": [
+            "Yamashiro META"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 440,
+                "dmgM": 440,
+                "dmgH": 440,
+                "note": "Straight shots."
+            }
+        ]
+    },
+    {
+        "id": "Marvels_of_History_-_Seydlitz",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/b/b9/Skill_15360.png",
+        "name": "Marvels of History - Seydlitz",
+        "ships": [
+            "Seydlitz"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "HE",
+                "dmgL": 963.2,
+                "dmgM": 584.8,
+                "dmgH": 447.2,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Bravery_at_Skagerrak",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/4/4b/Skill_15460.png",
+        "name": "Bravery at Skagerrak",
+        "ships": [
+            "Lützow"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 400,
+                "dmgM": 400,
+                "dmgH": 400,
+                "note": "Arching shots."
+            },
+            {
+                "type": "Normal",
+                "dmgL": 900,
+                "dmgM": 900,
+                "dmgH": 900,
+                "note": null
+            },
+            {
+                "type": "Normal",
+                "dmgL": 440,
+                "dmgM": 352,
+                "dmgH": 308,
+                "note": null
+            },
+            {
+                "type": "Torpedo",
+                "dmgL": 281.6,
+                "dmgM": 352,
+                "dmgH": 457.6,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Providential_Starfall",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/a/a0/Skill_15440.png",
+        "name": "Providential Starfall",
+        "ships": [
+            "Thüringen"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 223.6,
+                "dmgM": 464.4,
+                "dmgH": 395.6,
+                "note": null
+            },
+            {
+                "type": "HE",
+                "dmgL": 432,
+                "dmgM": 216,
+                "dmgH": 216,
+                "note": null
+            },
+            {
+                "type": "Normal",
+                "dmgL": 120,
+                "dmgM": 96,
+                "dmgH": 84,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Glistening_Guns_of_Glory",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/1/10/Skill_15680.png",
+        "name": "Glistening Guns of Glory",
+        "ships": [
+            "Vanguard"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 1276,
+                "dmgM": 1276,
+                "dmgH": 1276,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Scatter,_Minions_of_Darkness!",
+        "type": "skill",
+        "name": "Scatter, Minions of Darkness!",
+        "ships": [
+            "Vanguard"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 572,
+                "dmgM": 572,
+                "dmgH": 572,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Revengeful_Strike",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/f/fa/Skill_15650.png",
+        "name": "Revengeful Strike",
+        "ships": [
+            "Revenge"
+        ],
+        "hull": "BB",
+        "rounds": [
+            {
+                "type": "AP",
+                "dmgL": 118.4,
+                "dmgM": 444,
+                "dmgH": 384.8,
+                "note": "100% chance to apply special armor break."
+            }
+        ]
+    },
+    {
         "id": "Artillery_Volley",
         "type": "skill",
         "icon": "https://azurlane.netojuu.com/w/images/b/bb/Skill_11300.png",
@@ -9463,6 +10679,108 @@
         ]
     },
     {
+        "id": "Meteoric_Hope",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/b/bb/Skill_15320.png",
+        "name": "Meteoric Hope",
+        "ships": [
+            "Volga"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Torpedo (CV)",
+                "dmgL": 1926.4,
+                "dmgM": 2648.8,
+                "dmgH": 3130.4,
+                "note": "100% chance to apply flood."
+            }
+        ]
+    },
+    {
+        "id": "Meteoric_Hope_(Fail)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/b/bb/Skill_15320.png",
+        "name": "Meteoric Hope (Fail)",
+        "ships": [
+            "Volga"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 560,
+                "dmgM": 560,
+                "dmgH": 560,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Crystals_of_the_Great_River",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/8/89/Skill_15330.png",
+        "name": "Crystals of the Great River",
+        "ships": [
+            "Volga"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 350,
+                "dmgM": 350,
+                "dmgH": 350,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Impero_is_Brilliant_(Fighter)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/8/89/Skill_15330.png",
+        "name": "Impero is Brilliant (Fighter)",
+        "ships": [
+            "Impero"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 518.4,
+                "dmgM": 550.8,
+                "dmgH": 648,
+                "note": null
+            },
+            {
+                "type": "Torpedo (CV)",
+                "dmgL": 2376,
+                "dmgM": 3267,
+                "dmgH": 3861,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Impero_is_Brilliant_(Dive_Bomber)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/8/89/Skill_15330.png",
+        "name": "Impero is Brilliant (Dive Bomber)",
+        "ships": [
+            "Impero"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 3648,
+                "dmgM": 3984,
+                "dmgH": 4776,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "Stormchasing_Blade",
         "type": "skill",
         "icon": "https://azurlane.netojuu.com/w/images/1/16/Skill_800220.png",
@@ -9485,6 +10803,139 @@
                 "dmgM": 1683,
                 "dmgH": 1989,
                 "note": "Aimed torpedoes."
+            }
+        ]
+    },
+    {
+        "id": "Stormchasing_Spirit",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/6/62/Skill_800300.png",
+        "name": "Stormchasing Spirit",
+        "ships": [
+            "Junyou META"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Torpedo (CV)",
+                "dmgL": 1920,
+                "dmgM": 2640,
+                "dmgH": 3120,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Bad_Girl's_Surprise_Strike",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/2/22/Skill_15000.png",
+        "name": "Bad Girl's Surprise Strike",
+        "ships": [
+            "Elbe"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 2112,
+                "dmgM": 2376,
+                "dmgH": 2904,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Star-Studded_Formation",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/1/18/Skill_15170.png",
+        "name": "Star-Studded Formation",
+        "ships": [
+            "Chen Hai"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 720,
+                "dmgM": 576,
+                "dmgH": 432,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Cunning_Stratagem_(Unenhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/cf/Skill_15180.png",
+        "name": "Cunning Stratagem (Unenhanced)",
+        "ships": [
+            "Chen Hai"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 960,
+                "dmgM": 1080,
+                "dmgH": 1320,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "Cunning_Stratagem_(Enhanced)",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/c/cf/Skill_15180.png",
+        "name": "Cunning Stratagem (Enhanced)",
+        "ships": [
+            "Chen Hai"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 4992,
+                "dmgM": 5616,
+                "dmgH": 6864,
+                "note": null
+            }
+        ]
+    },
+    {
+        "id": "One_Iota_of_Effort",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/0/04/Skill_15620.png",
+        "name": "One Iota of Effort",
+        "ships": [
+            "Indomitable"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 1248,
+                "dmgM": 1482,
+                "dmgH": 1794,
+                "note": "100% chance to apply special burn."
+            }
+        ]
+    },
+    {
+        "id": "Two_Can_Play_at_That_Game",
+        "type": "skill",
+        "icon": "https://azurlane.netojuu.com/w/images/4/4a/Skill_15630.png",
+        "name": "Two Can Play at That Game",
+        "ships": [
+            "Indomitable"
+        ],
+        "hull": "CV",
+        "rounds": [
+            {
+                "type": "Bomb (CV)",
+                "dmgL": 1620,
+                "dmgM": 1215,
+                "dmgH": 1215,
+                "note": "100% chance to apply special burn."
             }
         ]
     },
