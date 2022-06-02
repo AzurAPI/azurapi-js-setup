@@ -201,10 +201,10 @@ export async function parseShip(
     // This ship can be retrofited
     ship.retrofit = true;
     ship.retrofitId = 3000 + parseInt(ship.id) + "";
-    ship.retrofitProjects = parseRetrofit(
-      doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling
-        .lastElementChild
-    );
+    let retroTable = doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling
+    retroTable = 'TABLE' === retroTable.nextElementSibling.tagName ?
+        retroTable.nextElementSibling : retroTable
+    ship.retrofitProjects = parseRetrofit(retroTable.lastElementChild);
     ship.retrofitHullType =
       doc.querySelector(".ship-card-content .card-info tr:nth-child(3)>:last-child>:last-child")
         ?.textContent || ship.hullType;
