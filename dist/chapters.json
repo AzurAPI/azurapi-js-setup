@@ -32392,6 +32392,7 @@
 					"Sink 30 Fleets",
 					"Sink all Fleets on the map"
 				],
+				"reconValue": 160,
 				"airspaceControl": {
 					"actual": 1985,
 					"denial": 993,
@@ -32795,6 +32796,7 @@
 					"Sink 35 Fleets",
 					"Sink all Fleets on the map"
 				],
+				"reconValue": 160,
 				"airspaceControl": {
 					"actual": 2085,
 					"denial": 1043,
@@ -33260,6 +33262,7 @@
 					"Sink 40 Fleets",
 					"Sink all Fleets on the map"
 				],
+				"reconValue": 164,
 				"airspaceControl": {
 					"actual": 2185,
 					"denial": 1093,
