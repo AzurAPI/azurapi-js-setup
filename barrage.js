@@ -58,6 +58,7 @@ async function publish(barrages) {
 }
 
 function generateUUID(name) {
+  name = name.replace(/[^a-zA-Z0-9_-]/g, '_')
   while (IDS.includes(name)) name = name + "_";
   return name;
 }
