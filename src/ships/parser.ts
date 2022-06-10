@@ -429,7 +429,7 @@ function parseShipEQSlot(slot: Element): Slot {
 }
 
 function parseStats(doc: Document): ShipStats {
-  let table = doc.querySelector(".mw-parser-output>.nomobile>div>div>div>.wikitable tbody");
+  let table = doc.querySelector(".mw-parser-output>.nomobile>div>div>.ship-card tbody");
   let allStats: ShipStats = { baseStats: {}, level100: {}, level120: {} };
   let titles: string[] = Array.from(table.firstElementChild.children)
     .map((e) =>
