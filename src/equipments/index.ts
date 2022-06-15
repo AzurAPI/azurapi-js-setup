@@ -70,7 +70,7 @@ export async function refreshEquipments() {
     console.log("List Done");
 
     let rows = doc.querySelectorAll("article[title = 'Max Rarity'] > table > tbody tr");
-    if (category === "Anti-Submarine Equipment")
+    if (category === "Anti-Submarine Equipment" || category === "Cargo" || category === "Auxiliary Equipment")
       rows = doc.querySelectorAll("article[title = 'Max Enhanced'] > table > tbody tr"); // TODO Remove this diry fix
     for (let equipment_row of rows) {
       // Equipments layer, using the max rarity tab to prevent dupes
@@ -100,17 +100,17 @@ export async function refreshEquipments() {
   }
 }
 
-function parseEquipment(id: string, href: string, category: string, body: string): Equipment {
+function parseEquipment(name: string, href: string, category: string, body: string): Equipment {
   const doc = new JSDOM(body).window.document;
   let tabs = doc.getElementsByClassName("eq-box");
   process.stdout.write("tab count = " + tabs.length + " .");
   if (!doc || !tabs[0])
     return {
       fits: undefined,
-      id: id,
+      id: name,
       image: undefined,
       misc: undefined,
-      names: { cn: id, en: id, jp: id, kr: id },
+      names: { wiki: name, cn: name, en: name, jp: name, kr: name },
       nationality: "",
       tiers: [],
       type: { focus: "", name: "" },
@@ -124,10 +124,11 @@ function parseEquipment(id: string, href: string, category: string, body: string
     nationality: "",
     tiers: [],
     type: { focus: "", name: "" },
-    id: id,
+    id: doc.querySelector('[class="eq-subtitle"]').childNodes[0].textContent.replace(/\D/g,'').trim(),
     wikiUrl: href,
     category: category,
     names: {
+      wiki: name,
       en: doc.querySelector('[lang="en"]')
         ? doc.querySelector('[lang="en"]').childNodes[1].textContent.trim()
         : tabs[0].querySelector(".eq-title").childNodes[0].textContent.trim(),
