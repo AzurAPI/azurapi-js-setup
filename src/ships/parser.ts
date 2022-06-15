@@ -173,7 +173,7 @@ export async function parseShip(
   ship.slots = [null, null, null];
   for (let i = 0; i < 3; i++)
     ship.slots[i] = parseShipEQSlot(
-      doc.querySelector(`.mw-parser-output .nomobile>div>div>.wikitable tr:nth-child(${i + 3})`)
+      doc.querySelector(`.mw-parser-output .nomobile>div>div>.wikitable.ship-equipment tr:nth-child(${i + 3})`)
     );
   let enhanceValues = doc.querySelector(".wikitable:nth-child(6) td:nth-child(1)").childNodes;
   if (enhanceValues.length < 7) ship.enhanceValue = null;
