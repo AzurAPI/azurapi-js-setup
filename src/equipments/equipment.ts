@@ -107,6 +107,7 @@ export class Equipment {
   wikiUrl: Url;
   category: string;
   names: {
+    wiki: string;
     en: string;
     cn: string;
     jp: string;
