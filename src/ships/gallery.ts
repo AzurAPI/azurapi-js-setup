@@ -209,11 +209,11 @@ export async function fetchGallery(
     );
   Array.from(
     doc.querySelectorAll(
-      ".azl-shipart-gallery .shipart-frame, .shipgirl-art-gallery .shipgirl-art-frame"
+      ".azl-shipart-gallery .shipart-frame, .shipgirl-art-gallery .shipgirl-art-frame, .shipgirl-gallery .shipgirl-frame"
     )
   ).forEach((box) =>
     gallery.push({
-      description: box.querySelector(".shipart-caption, .shipgirl-art-caption").textContent.trim(),
+      description: box.querySelector(".shipart-caption, .shipgirl-art-caption, .shipgirl-caption").textContent.trim(),
       url: galleryThumbnailUrlToActualUrl(box.getElementsByTagName("img")[0].src),
     })
   );
