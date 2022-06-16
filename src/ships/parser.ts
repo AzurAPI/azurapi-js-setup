@@ -209,7 +209,7 @@ export async function parseShip(
       doc.querySelector(".ship-card-content .card-info tr:nth-child(3)>:last-child>:last-child")
         ?.textContent || ship.hullType;
   }
-  let obtainedFrom = parseShipObtainedFrom(doc.querySelector("#Construction tbody"), ship);
+  let obtainedFrom = parseShipObtainedFrom(doc.querySelector(".nomobile .ship-construction.wikitable tbody"), ship);
   ship.construction = obtainedFrom.construction;
   ship.obtainedFrom = obtainedFrom.obtainedFrom;
   ship.misc = {
