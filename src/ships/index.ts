@@ -153,7 +153,7 @@ export async function refreshShipImages() {
         .map((item) =>
           fetchImage(
             item.url,
-            path.join(ROOT, `images/gallery/${item.url.substring(item.url.lastIndexOf("/") + 1)}`),
+            path.join(ROOT, `images/gallery/${decodeURIComponent(item.url.substring(item.url.lastIndexOf("/") + 1)).substring(item.url.lastIndexOf("/") + 1).replace(/ +/g, "_").replace(/[^\d\w_.-]+/g, "")}`),
             thirdbar
           )
         )
@@ -215,8 +215,7 @@ export function publishShips() {
       item.url =
         IMAGE_REPO_URL +
         "images/gallery/" +
-        item.url
-          .substring(item.url.lastIndexOf("/") + 1)
+        decodeURIComponent(item.url.substring(item.url.lastIndexOf("/") + 1))
           .replace(/ +/g, "_")
           .replace(/[^\d\w_.-]+/g, "");
       newGallery.push(item);
