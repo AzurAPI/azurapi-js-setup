@@ -321,6 +321,7 @@ function parseEquipmentFit(eqfits: Element): Fits {
   for (let row of eqfits.getElementsByTagName("tr")) {
     // GRR, it was an one liner, unlucky me had to debug it
     let name = camelize(row.children[0].textContent.trim());
+    if (!row.children[1]) continue;
     if (row.children[1].textContent.trim() === "✘") fits[name] = null;
     else if (row.children[1].textContent.trim() === "✔") fits[name] = "primary";
     else
