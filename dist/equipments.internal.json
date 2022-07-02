@@ -58650,5 +58650,312 @@
 			"jp": "雷撃戦資材(積載)",
 			"kr": null
 		}
+	},
+	"Dewoitine D.790": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/1/1d/51220.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Unknown"
+		},
+		"nationality": "Iris Libre",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "25"
+					},
+					"planeHealth": {
+						"type": "min_mid_max",
+						"min": "38",
+						"mid": "96",
+						"max": "102",
+						"formatted": "38 → 96 → 102"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "10.54s",
+						"max": "9.01s",
+						"per": "wave",
+						"formatted": "10.54s → 9.01s   per wave"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "50"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "9"
+					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "42"
+					},
+					"aAGuns": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "1",
+								"unit": "20mm Cannon T0",
+								"formatted": "1 x 20mm Cannon T0"
+							},
+							{
+								"type": "count_unit",
+								"count": "2",
+								"unit": "7.7mm MG T1",
+								"formatted": "2 x 7.7mm MG T1"
+							}
+						]
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Aviation",
+			"name": "Fighter"
+		},
+		"id": "91220",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Dewoitine_D.790#Type_0-0",
+		"category": "Fighter Planes",
+		"names": {
+			"wiki": "Dewoitine D.790",
+			"en": "Dewoitine D.790",
+			"cn": "D.790",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Bréguet Br.810": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/6/6a/51240.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "Can intercept.  Torpedo speed 4 instead of usual 3",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Angel of the Iris"
+		},
+		"nationality": "Iris Libre",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_mid_max",
+						"min": "38",
+						"mid": "95",
+						"max": "112",
+						"formatted": "38 → 95 → 112"
+					},
+					"damage": {
+						"type": "min_max_min_max_multiplier",
+						"min": "108",
+						"max": "288",
+						"minMultiplier": "3",
+						"maxMultiplier": "3 → 340 × 3",
+						"formatted": "108 × 3 → 288 × 3 → 340 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "12.33s",
+						"max": "10.00s",
+						"per": "wave",
+						"formatted": "12.33s → 10.00s   per wave"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "3",
+						"unit": "torpedoes",
+						"formatted": "3 torpedoes"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "52"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "8"
+					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "450"
+					},
+					"aAGuns": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "4",
+								"unit": "7.5mm MG T0",
+								"formatted": "4 x 7.5mm MG T0"
+							},
+							{
+								"type": "count_unit",
+								"count": "1",
+								"unit": "20mm Cannon T0",
+								"formatted": "1 x 20mm Cannon T0"
+							}
+						]
+					},
+					"ordnance": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "count_unit",
+								"count": "3",
+								"unit": "Iris Libre Aerial Torpedo T0",
+								"formatted": "3 x Iris Libre Aerial Torpedo T0"
+							}
+						]
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Aviation",
+			"name": "Torpedo Bomber"
+		},
+		"id": "91240",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Br%C3%A9guet_Br.810#Type_0-0",
+		"category": "Torpedo Bomber Planes",
+		"names": {
+			"wiki": "Bréguet Br.810",
+			"en": "Bréguet Br.810",
+			"cn": "BR.810",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"6CRH Armor Piercing Shell": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/w/images/b/bf/1060.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "When equipped on Royal Navy ships, increases main gun critical damage by 30%. (AP Shell with largest effect takes precedence, effect does not stack)",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Unknown"
+		},
+		"nationality": "Royal Navy",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "min_mid_max",
+						"min": "12",
+						"mid": "45",
+						"max": "57",
+						"formatted": "12 → 45 → 57"
+					},
+					"accuracy": {
+						"type": "min_mid_max",
+						"min": "11",
+						"mid": "20",
+						"max": "23",
+						"formatted": "11 → 20 → 23"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"id": "1060",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/6CRH_Armor_Piercing_Shell",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"wiki": "6CRH Armor Piercing Shell",
+			"en": "6CRH Armor Piercing Shell",
+			"cn": "6CRH穿甲弹",
+			"jp": null,
+			"kr": null
+		}
 	}
 }
