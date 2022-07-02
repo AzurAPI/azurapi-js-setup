@@ -3124,6 +3124,25 @@
         ]
     },
     {
+        "id": "All_Out_Assault_-_Emerald-class_II",
+        "type": "class",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/All_Out_Assault_-_Emerald-class_II/icon.png",
+        "name": "All Out Assault - Emerald-class II",
+        "ships": [
+            "Enterprise (Royal Navy)"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 490,
+                "dmgM": 490,
+                "dmgH": 490,
+                "note": "Actual Trigger count is 10"
+            }
+        ]
+    },
+    {
         "id": "All_Out_Assault_-_Fiji-class_II",
         "type": "class",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/All_Out_Assault_-_Fiji-class_II/icon.png",

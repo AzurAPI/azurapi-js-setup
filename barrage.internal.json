@@ -3123,6 +3123,25 @@
         ]
     },
     {
+        "id": "All_Out_Assault_-_Emerald-class_II",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
+        "name": "All Out Assault - Emerald-class II",
+        "ships": [
+            "Enterprise (Royal Navy)"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 490,
+                "dmgM": 490,
+                "dmgH": 490,
+                "note": "Actual Trigger count is 10"
+            }
+        ]
+    },
+    {
         "id": "All_Out_Assault_-_Fiji-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/w/images/4/4e/Skill_20100.png",
