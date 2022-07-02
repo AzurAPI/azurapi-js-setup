@@ -35,8 +35,8 @@ jobs:
           committer: GitHub <noreply@github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           title: "[Auto] Data Update"
-          assignees: octo-kumo
-          reviewers: octo-kumo
+          assignees: ${{ github.actor }}
+          reviewers: ${{ github.actor }}
           body: |
             #### Automatic EQ Update `${{ steps.current-time.outputs.formattedTime }}`
             Pull Request ${{ env.PULL_REQUEST_NUMBER }}
