@@ -817,7 +817,7 @@
 					"bossFleet": 210
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 7 Fleets",
@@ -1024,7 +1024,7 @@
 					"bossFleet": 210
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 7 Fleets",
@@ -2013,7 +2013,7 @@
 					"bossFleet": 247
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
@@ -3575,7 +3575,7 @@
 					"bossFleet": 312
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 2,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
@@ -5206,7 +5206,7 @@
 					"bossFleet": 377
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 12 Fleets",
@@ -5768,7 +5768,7 @@
 					"bossFleet": 399
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 1,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
@@ -6319,7 +6319,7 @@
 					"bossFleet": 421
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
@@ -6840,7 +6840,7 @@
 					"bossFleet": 442
 				},
 				"requiredBattles": 3,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 15 Fleets",
@@ -8117,7 +8117,7 @@
 					"bossFleet": 486
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
@@ -8736,7 +8736,7 @@
 					"bossFleet": 508
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 3,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
@@ -9309,7 +9309,7 @@
 					"bossFleet": 529
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 18 Fleets",
@@ -9908,7 +9908,7 @@
 					"bossFleet": 551
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
@@ -10546,7 +10546,7 @@
 					"bossFleet": 573
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
@@ -11213,7 +11213,7 @@
 					"bossFleet": 595
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
@@ -11863,7 +11863,7 @@
 					"bossFleet": 616
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 20 Fleets",
@@ -12527,7 +12527,7 @@
 					"bossFleet": 638
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
@@ -13130,7 +13130,7 @@
 					"bossFleet": 652
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"airspaceControl": {
 					"actual": 720,
 					"denial": 360,
@@ -13698,7 +13698,7 @@
 					"bossFleet": 667
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -14393,7 +14393,7 @@
 					"bossFleet": 681
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -15111,7 +15111,7 @@
 					"bossFleet": 696
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
@@ -15716,7 +15716,7 @@
 					"bossFleet": 710
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 2,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
@@ -16298,7 +16298,7 @@
 					"bossFleet": 725
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
@@ -16996,7 +16996,7 @@
 					"bossFleet": 739
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 25 Fleets",
@@ -17753,7 +17753,7 @@
 					"bossFleet": 754
 				},
 				"requiredBattles": 4,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -18479,7 +18479,7 @@
 					"bossFleet": 727
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -19141,7 +19141,7 @@
 					"bossFleet": 742
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -19832,7 +19832,7 @@
 					"bossFleet": 756
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
@@ -20548,7 +20548,7 @@
 					"bossFleet": 770
 				},
 				"requiredBattles": 5,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
@@ -21234,7 +21234,7 @@
 					"bossFleet": 790
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -21926,7 +21926,7 @@
 					"bossFleet": 798
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -22671,7 +22671,7 @@
 					"bossFleet": 812
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
@@ -23430,7 +23430,7 @@
 					"bossFleet": 826
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
@@ -24166,7 +24166,7 @@
 					"bossFleet": 1051
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 30 Fleets",
@@ -24885,7 +24885,7 @@
 					"bossFleet": 1060
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 35 Fleets",
@@ -25667,7 +25667,7 @@
 					"bossFleet": 1068
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 40 Fleets",
@@ -26479,7 +26479,7 @@
 					"bossFleet": 1078
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Sink Boss",
 					"Sink 45 Fleets",
@@ -27289,7 +27289,7 @@
 					"bossFleet": 1096
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Defeat flagship",
 					"Defeat 30 escort fleets",
@@ -28108,7 +28108,7 @@
 					"bossFleet": 1105
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 4,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Defeat flagship",
 					"Defeat 35 escort fleets",
@@ -28991,7 +28991,7 @@
 					"bossFleet": 1115
 				},
 				"requiredBattles": 6,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Defeat flagship",
 					"Defeat 40 escort fleets",
@@ -30005,7 +30005,7 @@
 					"bossFleet": 1123
 				},
 				"requiredBattles": 7,
-				"bossKillsToClear": 5,
+				"bossKillsToClear": 3,
 				"starConditions": [
 					"Defeat flagship",
 					"Defeat 45 escort fleets",
@@ -33790,6 +33790,7 @@
 					"boss": 62,
 					"submarine": 18
 				},
+				"additionalNotes": "Special spawn always appears on entering the stage, and is removed in Clearing Mode",
 				"blueprintDrops": [
 					{
 						"name": "SG Radar",
@@ -33947,7 +33948,7 @@
 						],
 						[
 							"Sea",
-							"Sea",
+							"Special spawn",
 							"Sea",
 							"Sea",
 							"Sea",
@@ -33959,7 +33960,7 @@
 							"Enemy spawn"
 						],
 						[
-							"Land",
+							"Lighthouse",
 							"Sea",
 							"Land",
 							"Boss spawn",
@@ -34209,6 +34210,11 @@
 							"node": "Land"
 						},
 						{
+							"x": 1,
+							"y": 7,
+							"node": "Special spawn"
+						},
+						{
 							"x": 5,
 							"y": 7,
 							"node": "Submarine Spawn"
@@ -34231,7 +34237,7 @@
 						{
 							"x": 0,
 							"y": 8,
-							"node": "Land"
+							"node": "Lighthouse"
 						},
 						{
 							"x": 2,
