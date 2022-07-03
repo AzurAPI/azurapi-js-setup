@@ -34,7 +34,7 @@ const handleLtdSkin = (
   const [clientNameElement, clientLtdElement] = row.getElementsByTagName("td");
 
   const clientSkinName = clientNameElement.textContent.trim();
-  if (clientSkinName === "skin unavailable") {
+  if (clientSkinName.toLowerCase() === "skin unavailable") {
     // i.e. https://azurlane.koumakan.jp/wiki/Rodney/Gallery#One_Day_as_a_Trainee_Clerk-0
     return {
       clientSkinName,
