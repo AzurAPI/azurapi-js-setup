@@ -159,5 +159,6 @@ export const normalizeName = (name: string) =>
     .replace("Pamiat Merkuria", "Pamiat' Merkuria")
     .replace("Ookami", "Ōkami")
     .replace("Kasumi (DOA)", "Kasumi")
+    .replace("Enterprise (Royal Navy)", "HMS Enterprise")
     .normalize("NFKC") // Needed for muse characters, in my experience.
     .trim();
