@@ -6,7 +6,7 @@ class FindAllSkinsStrategy extends BaseSkinCardStrategy {
   }
   findCards(doc: Document): HTMLDivElement[] {
     const cards: HTMLDivElement[] = [];
-    doc.querySelectorAll("div.azl-shipcard").forEach((card) => {
+    doc.querySelectorAll("div.shipskin").forEach((card) => {
       if (!isDiv(card)) return;
       cards.push(card);
     });
