@@ -25,7 +25,8 @@ export enum SkinCategories {
   Event = "Event",
   CollabEvent = "Collab Event",
   Unobtainable = "Unobtainable",
-
+  FairyTale = "Fairy Tale",
+  
   Retrofit = "Retrofit",
   Default = "Default",
   Wedding = "Wedding",
