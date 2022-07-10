@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "ships": "node --trace-warnings build/index.js ships reset web refresh img publish",
+    "ships_ni": "node --trace-warnings build/index.js ships reset web refresh",
     "ships_nw": "node --trace-warnings build/index.js ships reset refresh",
     "publish": "node --trace-warnings build/index.js ships publish",
     "images": "node --trace-warnings build/index.js ships img",
