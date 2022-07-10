@@ -294,7 +294,7 @@ function parseNodeMap(div) {
 }
 
 function galleryThumbnailUrlToActualUrl(tdir) {
-  return tdir.replace(/\/w\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, "/w/images/$1/$2");
+  return tdir.replace(/\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, "/images/$1/$2");
 }
 
 function camelize(str) {
