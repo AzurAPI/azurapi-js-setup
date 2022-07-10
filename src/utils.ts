@@ -73,9 +73,9 @@ export function fetchImage(url: string, localPath: string, bar?: SingleBar): Pro
           .pipe(fs.createWriteStream(localPath))
           .on("finish", () => resolve())
           .on("error", () => reject());
-      });
+      }).catch(e=>console.trace("error fetchImage.fetch",e));
       setTimeout(() => reject(), 20000);
-    })
+    }).catch(e=>console.trace("error fetchImage",e))
   );
 }
 
