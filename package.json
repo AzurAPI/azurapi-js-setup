@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ships": "node build/index.js ships reset web refresh img publish",
-    "ships_nw": "node build/index.js ships reset refresh",
-    "publish": "node build/index.js ships publish",
-    "images": "node build/index.js ships img",
-    "eq": "node build/index.js equipments reset refresh img publish",
-    "chapters": "node build/index.js chapters reset refresh",
+    "ships": "node --trace-warnings build/index.js ships reset web refresh img publish",
+    "ships_nw": "node --trace-warnings build/index.js ships reset refresh",
+    "publish": "node --trace-warnings build/index.js ships publish",
+    "images": "node --trace-warnings build/index.js ships img",
+    "eq": "node --trace-warnings build/index.js equipments reset refresh img publish",
+    "chapters": "node --trace-warnings build/index.js chapters reset refresh",
     "format": "prettier -w .",
     "prepare": "husky install"
   },
