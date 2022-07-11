@@ -224,12 +224,13 @@ function parseTable(table: Element) {
   for (let child of table.children) {
     for (let i = 0; i < child.children.length; i += 2) {
       let title = child.children[i].textContent.replace(/\s/g, " ").trim();
-      if (title === "Voice Actor")
+      if (title === "Voice Actor") {
+        
         final[title] = {
-          name: child.children[i + 1].querySelector("a.text")?.textContent.trim() ?? child.children[i + 1].childNodes[0].textContent.trim(),
-          url: child.children[i + 1].querySelector("a.text")?.getAttribute("href"),
+          name: child.children[i + 1].querySelector("a.text, a.extiw")?.textContent.trim() ?? (Array.from(child.children[i + 1].childNodes).filter(n=>n.nodeType===3 && n.textContent.trim())[0]?.textContent.trim()),
+          url: child.children[i + 1].querySelector("a.text, a.extiw")?.getAttribute("href"),
         };
-      else if (title === "Illustrator")
+      } else if (title === "Illustrator")
         final[title] = {
           name: child.children[i + 1].firstElementChild.textContent.trim(),
           urls: fromEntries(
