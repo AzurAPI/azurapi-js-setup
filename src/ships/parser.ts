@@ -226,10 +226,8 @@ function parseTable(table: Element) {
       let title = child.children[i].textContent.replace(/\s/g, " ").trim();
       if (title === "Voice Actor")
         final[title] = {
-          name:
-            child.children[i + 1].children[child.children[i + 1].children.length-2]?.textContent.trim() ||
-            child.children[i + 1].textContent.trim(),
-          url: child.children[i + 1].children[child.children[i + 1].children.length-2]?.getAttribute("href"),
+          name: child.children[i + 1].querySelector("a.text")?.textContent,
+          url: child.children[i + 1].querySelector("a.text")?.getAttribute("href"),
         };
       else if (title === "Illustrator")
         final[title] = {
