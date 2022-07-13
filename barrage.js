@@ -198,5 +198,5 @@ function head(url) {
 
 // Its only a prediction
 function galleryThumbnailUrlToActualUrl(tdir) {
-  return tdir.replace(/\/w\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, "/w/images/$1/$2");
+  return tdir.replace(/\/images\/thumb\/(.\/..)\/([^\/]+)\/.+/g, "/images/$1/$2");
 }
