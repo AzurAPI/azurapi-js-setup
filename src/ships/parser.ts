@@ -269,7 +269,7 @@ function parseShipLimits(skill_table: Element) {
 function parseLimitBreak(row: Element) {
   let buffs = [];
   let rows = row.children[1].children;
-  for (let i = 0; i < rows.length; i++) buffs.push(rows[i].textContent.trim());
+  for (let i = 0; i < rows.length; i++) if(rows[i].textContent.trim()) buffs.push(rows[i].textContent.trim());
   return buffs;
 }
 
