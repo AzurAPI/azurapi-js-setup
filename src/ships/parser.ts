@@ -255,6 +255,7 @@ function parseTable(table: Element) {
 }
 
 function parseShipLimits(skill_table: Element) {
+  if (!skill_table) return null;
   if (
     skill_table.childElementCount === 2 &&
     skill_table.children[1].children[0].children[0].tagName === "I"
