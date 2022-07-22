@@ -61,6 +61,8 @@ const NATIONALITY: { [s: string]: string } = {
   104: "Kizuna AI",
   105: "Hololive",
   106: "Venus Vacation",
+  107: "The Idolmaster",
+  108: "SSSS",
 };
 const kuroshiro = new Kuroshiro();
 const UNRELEASED = ["Tone", "Chikuma", "Pola", "Vittorio Veneto", "Kirov", "Sovetsky Soyuz"];
