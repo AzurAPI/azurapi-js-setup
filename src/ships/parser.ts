@@ -419,12 +419,10 @@ function nodeParse(nodes: NodeListOf<ChildNode>) {
   let obj: {[key:string]: number} = {};
   let value = 0;
   for (let node of nodes) {
-      if (node.nodeType === 3) {
-        if (node.textContent.trim()) value = parseInt(node.textContent)
-      } else if (node.nodeType === 1) {
+      if (node.nodeType === 3 && node.textContent.trim()) value = parseInt(node.textContent)
+      else if (node.nodeType === 1) {
         let el = node as Element
-        if (el.tagName && el.tagName === "IMG" && el.getAttribute("title"))
-          obj[camelize(el.getAttribute("title").trim())] = value
+        if (el.getAttribute("title")) obj[camelize(el.getAttribute("title").trim())] = value
       }
   }
   return obj
