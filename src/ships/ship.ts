@@ -104,12 +104,8 @@ export class Ship {
   stars: number;
   stats: ShipStats;
   slots: [Slot, Slot, Slot];
-  enhanceValue: { firepower: number; torpedo: number; aviation: number; reload: number };
-  scrapValue: {
-    coin: number;
-    oil: number;
-    medal: number;
-  };
+  enhanceValue: {[key:string]: number};
+  scrapValue: {[key:string]: number};
   skills: Skill[];
   skins: Skin[];
   gallery: GalleryItem[];

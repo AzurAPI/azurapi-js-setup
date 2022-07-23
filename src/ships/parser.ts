@@ -177,23 +177,8 @@ export async function parseShip(
     ship.slots[i] = parseShipEQSlot(
       doc.querySelector(`.mw-parser-output .nomobile>div>div>.wikitable.ship-equipment tr:nth-child(${i + 3})`)
     );
-  let enhanceValues = doc.querySelector(".wikitable:nth-child(6) td:nth-child(1)").childNodes;
-  if (enhanceValues.length < 7) ship.enhanceValue = null;
-  else
-    ship.enhanceValue = {
-      firepower: parseInt(enhanceValues[0].textContent.trim()),
-      torpedo: parseInt(enhanceValues[2].textContent.trim()),
-      aviation: parseInt(enhanceValues[4].textContent.trim()),
-      reload: parseInt(enhanceValues[6].textContent.trim()),
-    };
-  let scrapValues = doc.querySelector(".wikitable:nth-child(6) td:nth-child(2)").childNodes;
-  if (scrapValues.length < 5) ship.scrapValue = null;
-  else
-    ship.scrapValue = {
-      coin: parseInt(scrapValues[0].textContent.trim()),
-      oil: parseInt(scrapValues[2].textContent.trim()),
-      medal: parseInt(scrapValues[4].textContent.trim()),
-    };
+  ship.enhanceValue = nodeParse(doc.querySelector(".ship-enhance.wikitable td:nth-child(1)").childNodes)
+  ship.scrapValue = nodeParse(doc.querySelector(".ship-enhance.wikitable td:nth-child(2)").childNodes)
   ship.skills = parseSkills(doc.getElementById("Skills"));
   if (ship.rarity === "Priority" || ship.rarity === "Decisive")
     ship.devLevels = parseDevelopmentLevels(doc.querySelector("#Development_levels tbody"));
@@ -428,6 +413,19 @@ function parseShipEQSlot(slot: Element): Slot {
       eqslot.kaiEfficiency = parseInt(slot.children[1].children[2].textContent.replace("%", ""));
   }
   return eqslot;
+}
+
+function nodeParse(nodes: Node[]) {
+  let obj: {[key:string]: number} = {};
+  let value = 0;
+  for (let node of nodes) {
+      if (node.nodeType === 3) {
+          if (node.textContent.trim()) value = parseInt(node.textContent)
+      } else if (node.tagName && node.tagName === "IMG" && node.title) {
+          obj[camelize(node.title.trim())] = value
+      }
+  }
+  return obj
 }
 
 function parseStats(doc: Document): ShipStats {
