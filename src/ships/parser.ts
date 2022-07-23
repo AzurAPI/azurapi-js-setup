@@ -415,6 +415,13 @@ function parseShipEQSlot(slot: Element): Slot {
   return eqslot;
 }
 
+function nodeParseKey(input: string){
+  return {
+    "medalOfHonor": "medal",
+    "specializedCore": "core"
+  }[input] ?? input
+}
+
 function nodeParse(nodes: NodeListOf<ChildNode>) {
   let obj: {[key:string]: number} = {};
   let value = 0;
@@ -422,7 +429,7 @@ function nodeParse(nodes: NodeListOf<ChildNode>) {
       if (node.nodeType === 3 && node.textContent.trim()) value = parseInt(node.textContent)
       else if (node.nodeType === 1) {
         let el = node as Element
-        if (el.getAttribute("title")) obj[camelize(el.getAttribute("title").trim())] = value
+        if (el.getAttribute("title")) obj[nodeParseKey(camelize(el.getAttribute("title").trim()))] = value
       }
   }
   return obj
