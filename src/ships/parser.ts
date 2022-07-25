@@ -195,6 +195,7 @@ export async function parseShip(
     ship.retrofitHullType =
       doc.querySelector(".ship-card-content .card-info tr:nth-child(3)>:last-child>:last-child")
         ?.textContent || ship.hullType;
+    if (ship.retrofitHullType === "Light Aircraft Carrier") ship.retrofitHullType = "Light Carrier";
   }
   let obtainedFrom = parseShipObtainedFrom(doc.querySelector(".nomobile .ship-construction.wikitable tbody"), ship);
   ship.construction = obtainedFrom.construction;
