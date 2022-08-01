@@ -6319,6 +6319,7 @@
     {
         "id": "Framework_of_Logic_-_Memphis",
         "type": "skill",
+        "icon": "https://azurlane.netojuu.com/images/e/ec/Skill_800450.png",
         "name": "Framework of Logic - Memphis",
         "ships": [
             "Memphis META"
@@ -7084,6 +7085,7 @@
     {
         "id": "Strong-Willed_Support",
         "type": "skill",
+        "icon": "https://azurlane.netojuu.com/images/1/13/Skill_15310.png",
         "name": "Strong-Willed Support",
         "ships": [
             "Kronshtadt"
@@ -8854,6 +8856,7 @@
     {
         "id": "Revolutionary_s_Prosaic",
         "type": "skill",
+        "icon": "https://azurlane.netojuu.com/images/3/30/Skill_15070.png",
         "name": "Revolutionary's Prosaic",
         "ships": [
             "Ulrich von Hutten"
@@ -9163,6 +9166,7 @@
     {
         "id": "Scatter__Minions_of_Darkness_",
         "type": "skill",
+        "icon": "https://azurlane.netojuu.com/images/8/87/Skill_15690.png",
         "name": "Scatter, Minions of Darkness!",
         "ships": [
             "Vanguard"
