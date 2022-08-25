@@ -2,7 +2,7 @@
 	"Quadruple 130mm (Mle 1932)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -125,7 +125,7 @@
 	"Single 100mm (Type 88)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -262,7 +262,7 @@
 	"Single 102mm (QF Mk V)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -552,7 +552,7 @@
 	"Single 120mm (10th Year Type)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -685,7 +685,7 @@
 	"Single 120mm (11th Year Type)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -816,7 +816,7 @@
 	"Single 120mm (QF Mark IX)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1106,7 +1106,7 @@
 	"Single 120mm (Type 3)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1396,7 +1396,7 @@
 	"Single 127mm (5\"/38 Mk 21)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1527,7 +1527,7 @@
 	"Single 127mm (5\"/38 Mk 30)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1823,7 +1823,7 @@
 	"Single 127mm (SK C/34)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2097,7 +2097,7 @@
 	"Single 127mm (Type 3 Mod B)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2232,7 +2232,7 @@
 	"Single 130mm (B13 Pattern 1936)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2514,7 +2514,7 @@
 	"Single 130mm (Mle 1924)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2718,7 +2718,7 @@
 	"Single 138.6mm (Mle 1927)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3000,7 +3000,7 @@
 	"Single 138.6mm (Mle 1929)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3282,7 +3282,7 @@
 	"Single 76mm (3\"/50 caliber gun)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3568,7 +3568,7 @@
 	"Triple 102mm (BL 4\" Mk IX)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3854,7 +3854,7 @@
 	"Twin 100mm (Type 98)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4140,7 +4140,7 @@
 	"Twin 102mm (QF Mk XVI)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4434,7 +4434,7 @@
 	"Twin 102mm (QF Mk XVI*)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4564,7 +4564,7 @@
 	"Twin 120mm (Model 1926)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4682,7 +4682,7 @@
 	"Twin 120mm (Model 1933)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4703,7 +4703,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/images/d/d2/Bullet_pattern_equip_95460.gif",
-			"obtainedFrom": "Stock equipment on Conte di Cavour class, Empyreal Tragicomedy map drop"
+			"obtainedFrom": "Stock equipment on Conte di Cavour class; Empyreal Tragicomedy A1"
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
@@ -4805,7 +4805,7 @@
 	"Twin 120mm (Model 1936)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4826,7 +4826,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/images/0/00/Bullet_pattern_equip_95400.gif",
-			"obtainedFrom": "Empyreal Tragicomedy B1, The Flame-Touched Dagger SP1, SP3"
+			"obtainedFrom": "Empyreal Tragicomedy B1, D1; The Flame-Touched Dagger SP1, SP3"
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
@@ -5087,7 +5087,7 @@
 	"Twin 120mm (QF Mark XI)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5214,7 +5214,7 @@
 	"Twin 120mm (QF Mark XII)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5508,7 +5508,7 @@
 	"Twin 127mm (5\"/38 Mk 32)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5645,7 +5645,7 @@
 	"Twin 127mm (5\"/38 Mk 38)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5937,7 +5937,7 @@
 	"Twin 127mm (KM40)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6064,7 +6064,7 @@
 	"Twin 127mm (Type 3 Mod B)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6191,7 +6191,7 @@
 	"Twin 127mm (Type 3)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6481,7 +6481,7 @@
 	"Twin 128mm (SK C/41)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6771,7 +6771,7 @@
 	"Twin 128mm/45 SK C/41": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6898,7 +6898,7 @@
 	"Twin 130mm (B-2LM)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -7102,7 +7102,7 @@
 	"Twin 130mm (Mle 1935)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -7226,7 +7226,7 @@
 	"Twin 134mm (QF Mark II)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -23550,7 +23550,7 @@
 	"533mm Quadruple Homing Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -23790,7 +23790,7 @@
 	"533mm Quadruple Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -24036,7 +24036,7 @@
 	"533mm Quadruple Torpedo Mount Mk 17": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -24163,7 +24163,7 @@
 	"533mm Quadruple Torpedo Mount Mk IX": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -24284,7 +24284,7 @@
 	"533mm Quintuple Homing Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -24520,7 +24520,7 @@
 	"533mm Quintuple Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -24766,7 +24766,7 @@
 	"533mm Quintuple Torpedo Mount Mk 17": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -24889,7 +24889,7 @@
 	"533mm Quintuple Torpedo Mount Mk IX": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -25006,7 +25006,7 @@
 	"533mm Triple Homing Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -25242,7 +25242,7 @@
 	"533mm Triple Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -25482,7 +25482,7 @@
 	"533mm Triple Torpedo Mount Mk 17": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -25599,7 +25599,7 @@
 	"533mm Triple Torpedo Mount Mk IX": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -25716,7 +25716,7 @@
 	"550mm Triple Torpedo Launcher": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -25886,7 +25886,7 @@
 	"550mm Twin Torpedo Launcher": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -26056,7 +26056,7 @@
 	"610mm Quadruple Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -26292,7 +26292,7 @@
 	"610mm Quadruple Torpedo Mount Kai": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -26405,7 +26405,7 @@
 	"610mm Triple Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -26641,7 +26641,7 @@
 	"610mm Triple Torpedo Mount Kai": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -26761,7 +26761,7 @@
 	"610mm Twin Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -50657,7 +50657,7 @@
 	"Twin 114mm (QF Mk IV)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -51487,7 +51487,7 @@
 	"610mm Quintuple Torpedo Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "primary",
+			"lightCruiser": "Excluding Ceres-class",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "Ägir only",
@@ -52749,7 +52749,7 @@
 	"Twin 135mm (Model 1938)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -53133,8 +53133,8 @@
 			"name": "CL Gun"
 		},
 		"id": "89300",
-		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max",
-		"category": "Auxiliary Equipment",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max#Type_0-0",
+		"category": "Light Cruiser Guns",
 		"names": {
 			"wiki": "Battle Tracto Max",
 			"en": "Battle Tracto Max",
@@ -59085,7 +59085,7 @@
 	"Prototype Twin 130mm Model 1936 Main Gun Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, and Isuzu; Secondary gun",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -59906,6 +59906,123 @@
 			"en": "World Expo Invitation",
 			"cn": "撒丁的邀请函",
 			"jp": "世界博覧会の招待状",
+			"kr": null
+		}
+	},
+	"Twin 203mm SKC (Improved)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": "primary",
+			"monitor": null,
+			"largeCruiser": "primary",
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/images/c/c1/43080.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "https://azurlane.netojuu.com/images/a/ad/Bullet_pattern_equip_43000.gif",
+			"obtainedFrom": "Operation Convergence event shop"
+		},
+		"nationality": "Iron Blood",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "33",
+						"max": "53",
+						"multiplier": "6",
+						"formatted": "33 × 6 → 53 × 6"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "9.98s",
+						"max": "7.65s",
+						"per": "volley",
+						"formatted": "9.98s → 7.65s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "15",
+						"unit": "° random aim",
+						"formatted": "15° random aim"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "45",
+						"unit": "°",
+						"formatted": "45°"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "3",
+						"count": "2",
+						"unit": "shells",
+						"formatted": "3 × 2 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "1.00",
+						"unit": "s",
+						"formatted": "1.00s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "110%",
+						"max": "130%",
+						"formatted": "110% → 130%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "AP (80",
+						"unit": "/ 115",
+						"formatted": "AP (80 / 115 / 75)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "CA Gun"
+		},
+		"id": "43080",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Twin_203mm_SKC_(Improved)#Type_0-0",
+		"category": "Heavy Cruiser Guns",
+		"names": {
+			"wiki": "Twin 203mm SKC (Improved)",
+			"en": "Twin 203mm SKC (Improved)",
+			"cn": "双联装203mmSKC主炮改",
+			"jp": null,
 			"kr": null
 		}
 	}
