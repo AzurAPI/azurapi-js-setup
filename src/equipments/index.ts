@@ -198,7 +198,7 @@ function parseEquipmentStats(eqstats: Element): {
   for (let i = 1; i < rows.length; i++) {
     stats[
       camelize(
-        (rows[i].firstElementChild.firstElementChild.getAttribute("title")
+        (rows[i].firstElementChild?.firstElementChild?.getAttribute("title")
           ? rows[i].firstElementChild.firstElementChild.getAttribute("title")
           : rows[i].firstElementChild.textContent.trim()
         ).replace(/[^\w ]/g, "")
