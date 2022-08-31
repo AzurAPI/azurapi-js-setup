@@ -197,10 +197,10 @@ function parseEquipmentStats(eqstats: Element): {
   let rows = eqstats.getElementsByTagName("tr");
   for (let i = 1; i < rows.length; i++) {
     stats[
-      camelize(
-        (rows[i].firstElementChild?.firstElementChild?.getAttribute("title")
-          ? rows[i].firstElementChild.firstElementChild.getAttribute("title")
-          : rows[i].firstElementChild.textContent.trim()
+      camelize((
+        rows[i]?.firstElementChild?.firstElementChild?.getAttribute("title") 
+        ?? rows[i]?.firstElementChild?.firstElementChild?.textContent
+        ?? rows[i]?.firstElementChild?.textContent?.trim()
         ).replace(/[^\w ]/g, "")
       )
     ] = parseEquipmentStatsSlot(rows[i].lastElementChild);
