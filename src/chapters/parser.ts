@@ -275,7 +275,7 @@ function parseMapDrops(div: Element): MapDrop[] {
       if (n.nodeType === 3) rewards.push(n.textContent.replace(",", "").trim());
     } else {
       let e = n as HTMLElement
-      buf += e?.firstElementChild?.getAttribute("alt") ?? e?.firstElementChild?.getAttribute("title") ?? e?.getAttribute("alt") ?? e?.getAttribute("title") ?? e?.textContent ?? ""
+      buf += e?.firstElementChild?.getAttribute?.("alt") ?? e?.firstElementChild?.getAttribute?.("title") ?? e?.getAttribute?.("alt") ?? e?.getAttribute?.("title") ?? e?.textContent ?? ""
       while (m = buf.match(MAP_DROP_REGEX)) {
         buf = buf.slice(m[0].length)
         rewards.push({
