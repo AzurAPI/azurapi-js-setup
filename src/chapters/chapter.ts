@@ -47,3 +47,4 @@ export type AirSupremacy = {
   superiority: number;
   supremacy: number;
 } | { actual: number; denial: number; parity: number; superiority: number; supremacy: number; };
+export type MapDrop = 'string' | { min?: number, max?: number, amm?: string, item: string, guaranteed: boolean };

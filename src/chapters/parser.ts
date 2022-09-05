@@ -5,6 +5,7 @@ import {
   EnemyLevel,
   MapPart,
   Reward,
+  MapDrop,
   StarConditions,
 } from "./chapter";
 import { camelize } from "../utils";
@@ -61,10 +62,10 @@ export function parseChapter(doc: Document, index: number, names: any) {
         jp: names[index + "-" + i] ? names[index + "-" + i].jp : null,
       },
       normal: hasHardMode
-        ? parseMap(boxes[(i-1)*2], index + "-" + i)
+        ? parseMap(boxes[(i - 1) * 2], index + "-" + i)
         : parseMap(boxes[i - 1], index + "-" + i),
       hard: hasHardMode
-        ? parseMap(boxes[(i-1)*2+1], index + "-" + i)
+        ? parseMap(boxes[(i - 1) * 2 + 1], index + "-" + i)
         : null,
     };
   }
@@ -198,7 +199,7 @@ function parseAirSuprem(div: Element): AirSupremacy {
     parity: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, "")),
     superiority: parseInt(div.childNodes[10].textContent.replace(/[^\d]+/g, "")),
     supremacy: parseInt(div.childNodes[12].textContent.replace(/[^\d]+/g, ""))
-  }:{
+  } : {
     actual: parseInt(div.childNodes[1].textContent.replace(/[^\d]+/g, "")),
     superiority: parseInt(div.childNodes[6].textContent.replace(/[^\d]+/g, "")),
     supremacy: parseInt(div.childNodes[8].textContent.replace(/[^\d]+/g, "")),
@@ -261,10 +262,31 @@ function parseStatsRestriction(div: Element) {
   return restrictions;
 }
 
-function parseMapDrops(div: Element): string[] {
-  let rewards: string[] = [];
+const MAP_DROP_REGEX = /^\s*(?<amm>(?<min>\d+)[-–](?<max>\d+)|\d+)x? (?<reward>[^,;.]+)(?:[,;.]|$)/
+function parseMapDrops(div: Element): MapDrop[] {
+  let rewards: MapDrop[] = [];
+  let type: 'summary' | 'clear' | 'chance' = 'summary'
+  let buf = "";
+  let m: RegExpMatchArray | null = null;
   div.childNodes.forEach((n) => {
-    if (n.nodeType === 3) rewards.push(n.textContent.replace(",", "").trim());
+    if (n.textContent === "Clear bonus:") return type = "clear";
+    if (n.textContent === "Chance of getting:") return type = "chance";
+    if (type === "summary") {
+      if (n.nodeType === 3) rewards.push(n.textContent.replace(",", "").trim());
+    } else {
+      buf.push(n?.firstChild?.alt ?? n?.firstChild?.title ?? n?.alt ?? n?.title)
+      let m = buf.match(MAP_DROP_REGEX)
+      if (m) {
+        buf = buf.slice(m[0].length)
+        rewards.push({
+          min: m.groups?.min ? parseInt(m.groups?.min) : undefined,
+          max: m.groups?.max ? parseInt(m.groups?.max) : undefined,
+          amm: !(m.groups?.min && m.groups?.max) ? m.groups?.amm : undefined,
+          item: m.groups?.reward,
+          guaranteed: type === "clear"
+        })
+      }
+    }
   });
   return rewards;
 }
