@@ -2,7 +2,7 @@
 	"Quadruple 130mm (Mle 1932)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -125,7 +125,7 @@
 	"Single 100mm (Type 88)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -262,7 +262,7 @@
 	"Single 102mm (QF Mk V)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -552,7 +552,7 @@
 	"Single 120mm (10th Year Type)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -685,7 +685,7 @@
 	"Single 120mm (11th Year Type)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -816,7 +816,7 @@
 	"Single 120mm (QF Mark IX)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1106,7 +1106,7 @@
 	"Single 120mm (Type 3)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1396,7 +1396,7 @@
 	"Single 127mm (5\"/38 Mk 21)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1527,7 +1527,7 @@
 	"Single 127mm (5\"/38 Mk 30)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -1823,7 +1823,7 @@
 	"Single 127mm (SK C/34)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2097,7 +2097,7 @@
 	"Single 127mm (Type 3 Mod B)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2232,7 +2232,7 @@
 	"Single 130mm (B13 Pattern 1936)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2514,7 +2514,7 @@
 	"Single 130mm (Mle 1924)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -2718,7 +2718,7 @@
 	"Single 138.6mm (Mle 1927)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3000,7 +3000,7 @@
 	"Single 138.6mm (Mle 1929)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3282,7 +3282,7 @@
 	"Single 76mm (3\"/50 caliber gun)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3568,7 +3568,7 @@
 	"Triple 102mm (BL 4\" Mk IX)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -3854,7 +3854,7 @@
 	"Twin 100mm (Type 98)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4140,7 +4140,7 @@
 	"Twin 102mm (QF Mk XVI)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4434,7 +4434,7 @@
 	"Twin 102mm (QF Mk XVI*)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4564,7 +4564,7 @@
 	"Twin 120mm (Model 1926)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4585,7 +4585,7 @@
 			"notes": "",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/images/0/00/Bullet_pattern_equip_95400.gif",
-			"obtainedFrom": "Stock equipment on Maestrale Class ships & Nicoloso da Recco"
+			"obtainedFrom": "Stock equipment on Maestrale Class ships & Navigatori Class ships"
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
@@ -4682,7 +4682,7 @@
 	"Twin 120mm (Model 1933)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -4805,7 +4805,7 @@
 	"Twin 120mm (Model 1936)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5087,7 +5087,7 @@
 	"Twin 120mm (QF Mark XI)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5214,7 +5214,7 @@
 	"Twin 120mm (QF Mark XII)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5508,7 +5508,7 @@
 	"Twin 127mm (5\"/38 Mk 32)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5645,7 +5645,7 @@
 	"Twin 127mm (5\"/38 Mk 38)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -5937,7 +5937,7 @@
 	"Twin 127mm (KM40)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6064,7 +6064,7 @@
 	"Twin 127mm (Type 3 Mod B)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6191,7 +6191,7 @@
 	"Twin 127mm (Type 3)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6481,7 +6481,7 @@
 	"Twin 128mm (SK C/41)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6771,7 +6771,7 @@
 	"Twin 128mm/45 SK C/41": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -6898,7 +6898,7 @@
 	"Twin 130mm (B-2LM)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -7102,7 +7102,7 @@
 	"Twin 130mm (Mle 1935)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -7226,7 +7226,7 @@
 	"Twin 134mm (QF Mark II)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -7512,7 +7512,7 @@
 	"Single 140mm (3rd Year Type)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -7802,7 +7802,7 @@
 	"Single 150mm (6\"/47 caliber gun)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -7926,7 +7926,7 @@
 	"Single 150mm (SK C/28)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -8220,7 +8220,7 @@
 	"Single 150mm (TbtsK C/36)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -8432,7 +8432,7 @@
 	"Single 152mm (41st Year Type)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -8554,7 +8554,7 @@
 	"Single 152mm (6\"/45 Pattern 1892)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -8758,7 +8758,7 @@
 	"Single 152mm (BL 6\" Mk XII)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -9044,7 +9044,7 @@
 	"Single 155mm (Mle 1920)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -9167,7 +9167,7 @@
 	"Triple 150mm (SK C/25)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -9453,7 +9453,7 @@
 	"Triple 152mm (6\"/47 Mk 16)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -9749,7 +9749,7 @@
 	"Triple 152mm (6\"/47 Mk 16) Mod 1": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -9882,7 +9882,7 @@
 	"Triple 152mm (6\"/47 Mk 17 DP Prototype)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -10011,7 +10011,7 @@
 	"Triple 152mm (BL 6\" Mk XXIII)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -10229,7 +10229,7 @@
 	"Triple 152mm (BL 6\" Mk XXV Prototype)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -10356,7 +10356,7 @@
 	"Triple 152mm (MK-5)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -10638,7 +10638,7 @@
 	"Triple 152mm (Mle 1930)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -10842,7 +10842,7 @@
 	"Triple 152mm (Model 1934)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -11040,7 +11040,7 @@
 	"Triple 155mm (3rd Year Type)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -11330,7 +11330,7 @@
 	"Triple 180mm (B-1-P Pattern 1932)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -11454,7 +11454,7 @@
 	"Twin 140mm (3rd Year Type)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -11740,7 +11740,7 @@
 	"Twin 150mm (SK C/28)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -11871,7 +11871,7 @@
 	"Twin 150mm (TbtsK C/36)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -12157,7 +12157,7 @@
 	"Twin 152mm (41st Year Type)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -12447,7 +12447,7 @@
 	"Twin 152mm (6\"/53 Mk 15)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -12578,7 +12578,7 @@
 	"Twin 152mm (6\"/53 Mk 18)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -12864,7 +12864,7 @@
 	"Twin 152mm (BL 6\" Mk XXII)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -12999,7 +12999,7 @@
 	"Twin 152mm (BL 6\" Mk XXIII)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -13285,7 +13285,7 @@
 	"Twin 152mm (Pattern 1892)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -13411,7 +13411,7 @@
 	"Twin 155mm (Mle 1920)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -13534,7 +13534,7 @@
 	"Triple 203mm (8\"/55 Mk 13)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -13661,7 +13661,7 @@
 	"Triple 203mm (8\"/55 Mk 15)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -13957,7 +13957,7 @@
 	"Triple 203mm (8\"/55 Mk 9)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -14247,7 +14247,7 @@
 	"Triple 203mm (BL Mk IX Prototype)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -14374,7 +14374,7 @@
 	"Triple 203mm (Mle 1934 Prototype)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -14497,7 +14497,7 @@
 	"Triple 203mm (SK C/34 Prototype)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -14624,7 +14624,7 @@
 	"Triple 234mm (BL 9.2\" Mk XII Prototype)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -15148,7 +15148,7 @@
 	"Twin 203mm (3rd Year Type No. 2)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -15282,7 +15282,7 @@
 	"Twin 203mm (3rd Year Type No. 3 Prototype)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -15409,7 +15409,7 @@
 	"Twin 203mm (3rd Year Type)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -15701,7 +15701,7 @@
 	"Twin 203mm (BL 8\" Mk VIII)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -16115,7 +16115,7 @@
 	"Twin 203mm (Mle 1924)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -16385,7 +16385,7 @@
 	"Twin 203mm (Model 1924)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -16509,7 +16509,7 @@
 	"Twin 203mm (Model 1927)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -16791,7 +16791,7 @@
 	"Twin 203mm (SK C/34)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -17077,7 +17077,7 @@
 	"Twin 234mm (BL 9.2\" Mk XII Prototype)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -20922,7 +20922,7 @@
 		"category": "Battleship Guns",
 		"names": {
 			"wiki": "Twin 305mm (41st Year Type)",
-			"en": "Twin 356mm 41st Year Type Naval Gun Mount",
+			"en": "Twin 305mm Naval Gun Mount",
 			"cn": "305mm连装炮",
 			"jp": "305mm連装砲",
 			"kr": null
@@ -28818,7 +28818,7 @@
 			"notes": "Fires 2 torpedoes toward an enemy.",
 			"usedFor": [],
 			"animation": "https://azurlane.netojuu.com/images/7/73/Bullet_pattern_equip_95700.gif",
-			"obtainedFrom": "Stock equipment on Torricelli"
+			"obtainedFrom": "Stock equipment on Torricelli and Leonardo da Vinci"
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
@@ -70358,7 +70358,7 @@
 	"Octuple 40mm Pom-Pom": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -70542,7 +70542,7 @@
 	"Quadruple 20mm Flakvierling": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -70728,7 +70728,7 @@
 	"Quadruple 20mm Oerlikon (Mk 15 Mount)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -70833,7 +70833,7 @@
 	"Quadruple 28mm Chicago Piano": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71021,7 +71021,7 @@
 	"Quadruple 40mm Bofors (Mk 2 Mount)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71213,7 +71213,7 @@
 	"Quadruple 40mm Pom-Pom": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71401,7 +71401,7 @@
 	"Sextuple 40mm Bofors": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71492,7 +71492,7 @@
 	"Single 102mm AA (QF Mark V)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71684,7 +71684,7 @@
 	"Single 12.7mm Browning": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71874,7 +71874,7 @@
 	"Single 120mm AA (QF Mark VIII)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -71979,7 +71979,7 @@
 	"Single 20mm Oerlikon": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -72161,7 +72161,7 @@
 	"Single 20mm Oerlikon (Mark II)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -72265,7 +72265,7 @@
 	"Single 25mm AA (Type 96)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -72451,7 +72451,7 @@
 	"Single 37mm AA (70-K)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -72613,7 +72613,7 @@
 	"Single 37mm Flak (M42)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -72791,7 +72791,7 @@
 	"Single 76mm AA (3rd Year Type)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -72977,7 +72977,7 @@
 	"Single 76mm AA (Mk 22 Mount)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73165,7 +73165,7 @@
 	"Single 76mm AA (Mk 26 Mount)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73270,7 +73270,7 @@
 	"Single 80mm AA (Type 98)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73355,7 +73355,7 @@
 	"Single 90mm AA (Model 1939)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73529,7 +73529,7 @@
 	"Triple 25mm AA (Type 96 Blast Shield)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73624,7 +73624,7 @@
 	"Triple 25mm AA (Type 96)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73806,7 +73806,7 @@
 	"Twin 100mm AA (B-54)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -73932,7 +73932,7 @@
 	"Twin 100mm AA (MZ-14)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74094,7 +74094,7 @@
 	"Twin 100mm AA (Mle 1931)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74188,7 +74188,7 @@
 	"Twin 100mm AA (SM-5-1s)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74270,7 +74270,7 @@
 	"Twin 100mm AA (Type 98)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74361,7 +74361,7 @@
 	"Twin 105mm AA (SK C/33 na)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74456,7 +74456,7 @@
 	"Twin 105mm AA (SK C/33)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74638,7 +74638,7 @@
 	"Twin 113mm AA (QF Mark I)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74822,7 +74822,7 @@
 	"Twin 127mm AA (Type 89 A1 Mod 2)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -74923,7 +74923,7 @@
 	"Twin 127mm AA (Type 89)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -75105,7 +75105,7 @@
 	"Twin 134mm AA (QF Mark I)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -75210,7 +75210,7 @@
 	"Twin 20mm Oerlikon": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -75406,7 +75406,7 @@
 	"Twin 25mm AA (Type 96)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -75588,7 +75588,7 @@
 	"Twin 37mm AA (Model 1932)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -75762,7 +75762,7 @@
 	"Twin 37mm AA (SK C/30)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -75944,7 +75944,7 @@
 	"Twin 37mm ACAD (Mle 1936)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76035,7 +76035,7 @@
 	"Twin 37mm Flak (M43)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76130,7 +76130,7 @@
 	"Twin 40mm Bofors (Mk 1 Mount)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76318,7 +76318,7 @@
 	"Twin 40mm Bofors (RP Mark I)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76423,7 +76423,7 @@
 	"Twin 40mm Bofors (Type 5)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76514,7 +76514,7 @@
 	"Twin 40mm Bofors Hazemeyer": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76617,7 +76617,7 @@
 	"Twin 40mm Bofors STAAG": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76716,7 +76716,7 @@
 	"Twin 40mm Pom-Pom": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -76906,7 +76906,7 @@
 	"Twin 40mm Vickers (Type 91)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -77084,7 +77084,7 @@
 	"Twin 76mm AA (Mk 27 Mount)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -77185,7 +77185,7 @@
 	"Twin 88mm AA (SK C/32)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -78804,7 +78804,7 @@
 	"Twin 114mm (QF Mk IV)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -78927,7 +78927,7 @@
 	"Triple 203mm (8\"/55 Mk 15 SHS)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -80250,7 +80250,7 @@
 	"Twin 90mm AA (Model 1939 Prototype)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -80441,7 +80441,7 @@
 	"Twin 203mm (Mle 1931)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -80723,7 +80723,7 @@
 	"Triple 155mm (3rd Year Type) Kai": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -80850,7 +80850,7 @@
 	"Twin 150mm (SK C/28 Prototype)": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -81807,7 +81807,7 @@
 	"Twin 135mm (Model 1938)": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -82089,7 +82089,7 @@
 	"Battle Tracto Max": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -88577,7 +88577,7 @@
 	"Prototype Twin 130mm Model 1936 Main Gun Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary) and Pamiat Merkuria (retrofitted); Required.",
+			"lightCruiser": "Atlanta-class, Dido-class, Ceres-class, Isuzu and Emden (secondary); Optional. Harbin, Emden (primary), Pamiat Merkuria (retrofitted) and Hai Tien (secondary); Required.",
 			"heavyCruiser": "secondary",
 			"monitor": "secondary",
 			"largeCruiser": "Secondary gun, Azuma & Brest only",
@@ -88700,7 +88700,7 @@
 	"Prototype Quadruple 152mm Main Gun Mount": {
 		"fits": {
 			"destroyer": "Type 1936A-class only",
-			"lightCruiser": "Tien Hai excluded",
+			"lightCruiser": "Hai Tien excluded",
 			"heavyCruiser": null,
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
@@ -88943,7 +88943,7 @@
 	"Prototype Quadruple 30mm AA Gun Mount": {
 		"fits": {
 			"destroyer": "primary",
-			"lightCruiser": "Excluding Emden",
+			"lightCruiser": "Excluding Emden and Hai Tien",
 			"heavyCruiser": "primary",
 			"monitor": "primary",
 			"largeCruiser": "primary",
@@ -89579,7 +89579,7 @@
 	"Twin 203mm SKC (Improved)": {
 		"fits": {
 			"destroyer": null,
-			"lightCruiser": null,
+			"lightCruiser": "Hai Tien only",
 			"heavyCruiser": "primary",
 			"monitor": null,
 			"largeCruiser": "primary",
@@ -89690,6 +89690,80 @@
 			"en": "Twin 203mm SKC (Improved)",
 			"cn": "双联装203mmSKC主炮改",
 			"jp": null,
+			"kr": null
+		}
+	},
+	"Boundary-Crossing Permit": {
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary"
+		},
+		"image": "https://azurlane.netojuu.com/images/2/2b/3620.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "A permit that allows the wielder to cross into the domain of the exercise area. It seems to be made out of a special material, and feels strange to the touch.\nWhen equipped by a Sakura Empire ship: when the battle starts, deploys a shield that can absorb up to 100 DMG around the ship equipping this gear.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Tranquil Sea, Distant Thunder"
+		},
+		"nationality": "Sakura Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"health": {
+						"type": "min_mid_max",
+						"min": "17",
+						"mid": "47",
+						"max": "50",
+						"formatted": "17 → 47 → 50"
+					},
+					"torpedo": {
+						"type": "min_mid_max",
+						"min": "20",
+						"mid": "50",
+						"max": "53",
+						"formatted": "20 → 50 → 53"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"id": "3620",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Boundary-Crossing_Permit",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"wiki": "Boundary-Crossing Permit",
+			"en": "Boundary-Crossing Permit",
+			"cn": "结界通行凭证",
+			"jp": "結界通行手形",
 			"kr": null
 		}
 	}
