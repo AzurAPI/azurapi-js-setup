@@ -89766,5 +89766,132 @@
 			"jp": "結界通行手形",
 			"kr": null
 		}
+	},
+	"Triple 460mm (Type 94)": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": "primary",
+			"largeCruiser": null,
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null
+		},
+		"image": "https://azurlane.netojuu.com/images/9/97/34200.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Violet Tempest, Blooming Lycoris Event Shop (10000 )"
+		},
+		"nationality": "Sakura Empire",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Ultra Rare",
+				"stars": {
+					"stars": "★★★★★★",
+					"value": 6
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "65"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "72",
+						"max": "216",
+						"multiplier": "3",
+						"formatted": "72 × 3 → 216 × 3"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "36.15s",
+						"max": "30.59s",
+						"per": "volley",
+						"formatted": "36.15s → 30.59s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "19",
+						"unit": "×19",
+						"formatted": "19×19"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "value",
+						"formatted": "200"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.0",
+						"unit": "s",
+						"formatted": "0.0s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "105%",
+						"max": "124%",
+						"formatted": "105% → 124%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "AP (55",
+						"unit": "/ 140",
+						"formatted": "AP (55 / 140 / 135)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Bracketing"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "BB Gun"
+		},
+		"id": "34240",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Triple_460mm_(Type_94)#Type_0-0",
+		"category": "Battleship Guns",
+		"names": {
+			"wiki": "Triple 460mm (Type 94)",
+			"en": "Triple 460mm Main Gun Mount",
+			"cn": "460mm三连装炮",
+			"jp": null,
+			"kr": null
+		}
 	}
 }
