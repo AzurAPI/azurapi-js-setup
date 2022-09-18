@@ -2268,6 +2268,7 @@
         "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/All_Out_Assault_-_Fubuki-class_II/image.gif",
         "ships": [
             "Fubuki",
+            "Miyuki",
             "Uranami"
         ],
         "hull": "DD",
