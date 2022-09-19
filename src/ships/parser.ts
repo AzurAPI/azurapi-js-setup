@@ -216,7 +216,7 @@ function parseTable(table: Element) {
         
         final[title] = {
           name: (child.children[i + 1].querySelector("a.text, a.extiw")?.textContent.trim() ?? (Array.from(child.children[i + 1].childNodes).filter(n=>n.nodeType===3 && n.textContent.trim())[0]?.textContent.trim())) ?? "Unknown",
-          url: child.children[i + 1].querySelector("a.text, a.extiw")?.getAttribute("href")),
+          url: child.children[i + 1].querySelector("a.text, a.extiw")?.getAttribute("href"),
         };
       } else if (title === "Illustrator")
         final[title] = {
