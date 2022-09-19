@@ -215,8 +215,8 @@ function parseTable(table: Element) {
       if (title === "Voice Actor") {
         
         final[title] = {
-          name: child.children[i + 1].querySelector("a.text, a.extiw")?.textContent.trim() ?? (Array.from(child.children[i + 1].childNodes).filter(n=>n.nodeType===3 && n.textContent.trim())[0]?.textContent.trim()),
-          url: child.children[i + 1].querySelector("a.text, a.extiw")?.getAttribute("href"),
+          name: (child.children[i + 1].querySelector("a.text, a.extiw")?.textContent.trim() ?? (Array.from(child.children[i + 1].childNodes).filter(n=>n.nodeType===3 && n.textContent.trim())[0]?.textContent.trim())) ?? "Unknown",
+          url: (child.children[i + 1].querySelector("a.text, a.extiw")?.getAttribute("href")) ?? "Unknown",
         };
       } else if (title === "Illustrator")
         final[title] = {
