@@ -13,6 +13,11 @@ const HEADERS = {
 };
 const PATH_SIZE = require("./path-sizes.json");
 const IDS = [];
+
+const path = require("path");
+const BARRAGE_PATH = path.join(ROOT, "dist", "barrage.json");
+const INTERNAL_BARRAGE_PATH = path.join(ROOT, "dist", "barrage.internal.json");
+
 exports.refreshBarrage = async function () {
   console.log("Refreshing Barrage");
   if (!fs.existsSync("./web/barrages")) fs.mkdirSync("./web/barrages");
@@ -27,6 +32,8 @@ exports.refreshBarrage = async function () {
   let published = await publish(barrages);
   fs.writeFileSync("barrage.json", JSON.stringify(published));
   fs.writeFileSync("barrage.formatted.json", JSON.stringify(published, null, 4));
+  fs.writeFileSync(BARRAGE_PATH, JSON.stringify(published));
+  fs.writeFileSync(INTERNAL_BARRAGE_PATH, JSON.stringify(published, null, 4));
   console.log("Done");
 };
 
