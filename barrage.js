@@ -15,6 +15,7 @@ const PATH_SIZE = require("./path-sizes.json");
 const IDS = [];
 
 const path = require("path");
+const ROOT = path.join(__dirname, "..", "..");
 const BARRAGE_PATH = path.join(ROOT, "dist", "barrage.json");
 const INTERNAL_BARRAGE_PATH = path.join(ROOT, "dist", "barrage.internal.json");
 
