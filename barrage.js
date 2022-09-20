@@ -15,9 +15,8 @@ const PATH_SIZE = require("./path-sizes.json");
 const IDS = [];
 
 const path = require("path");
-const ROOT = path.join(__dirname, "..", "..");
-const BARRAGE_PATH = path.join(ROOT, "dist", "barrage.json");
-const INTERNAL_BARRAGE_PATH = path.join(ROOT, "dist", "barrage.internal.json");
+const BARRAGE_PATH = path.join( "dist", "barrage.json");
+const INTERNAL_BARRAGE_PATH = path.join( "dist", "barrage.internal.json");
 
 exports.refreshBarrage = async function () {
   console.log("Refreshing Barrage");
