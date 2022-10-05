@@ -27,6 +27,7 @@ export enum SkinCategories {
   Unobtainable = "Unobtainable",
   FairyTale = "Fairy Tale",
   HomeRelaxation = "Home Relaxation",
+  CruiseMission = "Cruise Mission",
   
   Retrofit = "Retrofit",
   Default = "Default",
