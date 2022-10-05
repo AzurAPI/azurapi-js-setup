@@ -28,6 +28,7 @@ export enum SkinCategories {
   FairyTale = "Fairy Tale",
   HomeRelaxation = "Home Relaxation",
   CruiseMission = "Cruise Mission",
+  Dance = "Dance",
   
   Retrofit = "Retrofit",
   Default = "Default",
