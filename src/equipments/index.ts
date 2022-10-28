@@ -153,7 +153,7 @@ function parseEquipment(name: string, href: string, category: string, body: stri
     else console.log(eq.names.en);
     eq.fits = t[1].fits;
     eq.misc = t[1].misc;
-    tiers[t[0].tier] = t[0];
+    tiers.push(t[0]);
   }
   process.stdout.write("");
   eq.tiers = tiers;
