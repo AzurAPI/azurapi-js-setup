@@ -2962,6 +2962,26 @@
         ]
     },
     {
+        "id": "All_Out_Assault_-_Atlanta-class_III",
+        "type": "class",
+        "icon": "https://azurlane.netojuu.com/images/4/4e/Skill_20100.png",
+        "name": "All Out Assault - Atlanta-class III",
+        "image": "https://azurlane.netojuu.com/images/1/1d/Bullet_pattern_skill_20132.gif?20191220060825",
+        "ships": [
+            "Juneau"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 500,
+                "dmgM": 375,
+                "dmgH": 200,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "All_Out_Assault_-_Bogatyr-class_II",
         "type": "class",
         "icon": "https://azurlane.netojuu.com/images/4/4e/Skill_20100.png",

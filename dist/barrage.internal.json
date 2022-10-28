@@ -2963,6 +2963,26 @@
         ]
     },
     {
+        "id": "All_Out_Assault_-_Atlanta-class_III",
+        "type": "class",
+        "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/All_Out_Assault_-_Atlanta-class_III/icon.png",
+        "name": "All Out Assault - Atlanta-class III",
+        "image": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/All_Out_Assault_-_Atlanta-class_III/image.gif",
+        "ships": [
+            "Juneau"
+        ],
+        "hull": "CL",
+        "rounds": [
+            {
+                "type": "Normal",
+                "dmgL": 500,
+                "dmgM": 375,
+                "dmgH": 200,
+                "note": null
+            }
+        ]
+    },
+    {
         "id": "All_Out_Assault_-_Bogatyr-class_II",
         "type": "class",
         "icon": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/barrages/All_Out_Assault_-_Bogatyr-class_II/icon.png",

@@ -295,7 +295,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -849,7 +848,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -1139,7 +1137,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -1560,7 +1557,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -1852,7 +1848,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -2257,7 +2252,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -2539,7 +2533,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -2619,7 +2612,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -2743,7 +2735,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -3025,7 +3016,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -3311,7 +3301,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -3597,7 +3586,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -3883,7 +3871,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -4177,7 +4164,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -4463,9 +4449,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -4589,7 +4572,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -4830,7 +4812,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -5251,7 +5232,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -5674,7 +5654,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -6224,7 +6203,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -6514,7 +6492,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -6923,7 +6900,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -7003,7 +6979,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Super Rare",
@@ -7127,7 +7102,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -7255,7 +7229,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -7513,7 +7486,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -7545,7 +7518,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -7803,7 +7775,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -7827,7 +7799,6 @@
 		},
 		"nationality": "Dragon Empery",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -7927,7 +7898,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -7963,7 +7934,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -8221,7 +8191,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -8253,7 +8223,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -8333,7 +8302,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -8433,7 +8401,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -8465,9 +8433,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -8555,7 +8520,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -8579,7 +8544,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -8659,7 +8623,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -8759,7 +8722,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -8787,7 +8750,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -9045,7 +9007,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -9168,7 +9130,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -9196,7 +9158,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -9454,7 +9415,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -9486,7 +9447,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -9750,7 +9710,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -9883,7 +9843,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -10012,7 +9972,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -10044,7 +10004,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -10124,7 +10083,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -10230,7 +10188,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -10357,7 +10315,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -10381,7 +10339,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -10639,7 +10596,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -10663,7 +10620,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -10743,7 +10699,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -10843,7 +10798,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -10867,7 +10822,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -10941,7 +10895,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Super Rare",
@@ -11041,7 +10994,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -11073,7 +11026,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -11331,7 +11283,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -11355,7 +11307,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -11455,7 +11406,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -11483,7 +11434,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -11741,7 +11691,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -11872,7 +11822,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -11900,7 +11850,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -12158,7 +12107,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -12190,7 +12139,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -12448,7 +12396,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -12579,7 +12527,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -12607,7 +12555,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -12865,7 +12812,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -13000,7 +12947,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -13028,7 +12975,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -13286,7 +13232,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -13310,9 +13256,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -13412,7 +13355,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -13694,7 +13637,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -13990,7 +13932,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -14772,7 +14713,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -15181,9 +15121,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -15438,7 +15375,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -15730,7 +15666,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -16140,7 +16075,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -16410,7 +16344,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -16534,7 +16467,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -16820,7 +16752,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -17225,7 +17156,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -17636,7 +17566,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -17918,7 +17847,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -18204,7 +18132,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -18486,9 +18413,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -18612,6 +18536,89 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"antiair": {
+						"type": "value",
+						"formatted": "0"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "57",
+						"max": "105",
+						"multiplier": "3",
+						"formatted": "57 × 3 → 105 × 3"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "24.18s",
+						"max": "18.20s",
+						"per": "volley",
+						"formatted": "24.18s → 18.20s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "19",
+						"unit": "×19",
+						"formatted": "19×19"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "50",
+						"unit": "°",
+						"formatted": "50°"
+					},
+					"range": {
+						"type": "value",
+						"formatted": "200"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "100%",
+						"max": "118%",
+						"formatted": "100% → 118%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "HE (140",
+						"unit": "/ 110",
+						"formatted": "HE (140 / 110 / 90)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Bracketing"
+					}
+				}
+			},
 			{
 				"tier": 0,
 				"rarity": "Super Rare",
@@ -18863,7 +18870,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -19264,7 +19270,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -19550,7 +19555,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -20098,7 +20102,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -20380,7 +20383,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -20960,7 +20962,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -21504,7 +21505,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -21798,7 +21798,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -22356,7 +22355,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -22906,7 +22904,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -23587,7 +23584,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -23827,7 +23823,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -24317,7 +24312,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Elite",
@@ -24557,7 +24551,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -25039,7 +25032,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -25279,7 +25271,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -25741,7 +25732,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -25801,7 +25791,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -25911,7 +25900,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -25971,7 +25959,6 @@
 					}
 				}
 			},
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -26089,7 +26076,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -26438,7 +26424,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -26674,9 +26659,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -26790,7 +26772,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -27018,7 +26999,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -27259,7 +27239,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -27500,7 +27479,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -27861,7 +27839,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -28112,7 +28089,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -28707,9 +28683,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -28822,7 +28795,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -28931,7 +28903,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -29296,7 +29267,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -29519,9 +29489,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Super Rare",
@@ -30041,7 +30008,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -30750,9 +30716,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -31064,7 +31027,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -32520,7 +32482,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -33231,7 +33192,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -33753,7 +33713,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -36089,9 +36048,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -36698,7 +36654,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -37462,7 +37417,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -38236,7 +38190,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -38744,7 +38697,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -40228,7 +40180,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -41316,7 +41267,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -42142,7 +42092,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -43223,7 +43172,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -44061,7 +44009,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -45541,7 +45488,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -46996,7 +46942,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -48477,7 +48422,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -49305,7 +49249,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -50794,7 +50737,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -51634,7 +51576,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -53611,7 +53552,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -54749,7 +54689,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -55842,7 +55781,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -57321,7 +57259,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -59268,7 +59205,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -60060,6 +59996,258 @@
 					},
 					"damage": {
 						"type": "min_mid_max",
+						"min": "116",
+						"mid": "296",
+						"max": "349",
+						"formatted": "116 → 296 → 349"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "14.03s",
+						"max": "12.04s",
+						"per": "wave",
+						"formatted": "14.03s → 12.04s   per wave"
+					},
+					"noOfTorpedoes": {
+						"type": "value_unit",
+						"value": "2",
+						"unit": "torpedoes",
+						"formatted": "2 torpedoes"
+					},
+					"speed": {
+						"type": "value",
+						"formatted": "48"
+					},
+					"dodgeLimit": {
+						"type": "value",
+						"formatted": "5"
+					},
+					"crashDamage": {
+						"type": "value",
+						"formatted": "300"
+					},
+					"aAGuns": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "more_stats",
+								"stats": [
+									{
+										"type": "count_unit",
+										"count": "3",
+										"unit": "7.7mm MG T1",
+										"formatted": "3 x 7.7mm MG T1"
+									},
+									{
+										"type": "more_stats",
+										"stats": [
+											{
+												"type": "more_stats",
+												"stats": [
+													{
+														"type": "more_stats",
+														"stats": [
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "Damage"
+																	},
+																	{
+																		"type": "min_mid_max",
+																		"min": "14",
+																		"mid": "34",
+																		"max": "40",
+																		"formatted": "14 → 34 → 40"
+																	}
+																]
+															},
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "RoF"
+																	},
+																	{
+																		"type": "min_mid_max",
+																		"min": "0.48",
+																		"mid": "0.38",
+																		"max": "0.38",
+																		"formatted": "0.48 → 0.38 → 0.38"
+																	}
+																]
+															},
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "Range"
+																	},
+																	{
+																		"type": "value",
+																		"formatted": "24"
+																	}
+																]
+															},
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "Angle"
+																	},
+																	{
+																		"type": "value_unit",
+																		"value": "80",
+																		"unit": "°",
+																		"formatted": "80°"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					"roF": {
+						"type": "min_mid_max",
+						"min": "0.48",
+						"mid": "0.38",
+						"max": "0.38",
+						"formatted": "0.48 → 0.38 → 0.38"
+					},
+					"range": {
+						"type": "value",
+						"formatted": "24"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "80",
+						"unit": "°",
+						"formatted": "80°"
+					},
+					"torpedoes": {
+						"type": "more_stats",
+						"stats": [
+							{
+								"type": "more_stats",
+								"stats": [
+									{
+										"type": "count_unit",
+										"count": "2",
+										"unit": "Torpedo Common T0",
+										"formatted": "2 x Torpedo Common T0"
+									},
+									{
+										"type": "more_stats",
+										"stats": [
+											{
+												"type": "more_stats",
+												"stats": [
+													{
+														"type": "more_stats",
+														"stats": [
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "Damage"
+																	},
+																	{
+																		"type": "min_mid_max",
+																		"min": "116",
+																		"mid": "296",
+																		"max": "349",
+																		"formatted": "116 → 296 → 349"
+																	}
+																]
+															},
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "Mods"
+																	},
+																	{
+																		"type": "value_unit",
+																		"value": "80",
+																		"unit": "/110",
+																		"formatted": "80/110/130"
+																	}
+																]
+															},
+															{
+																"type": "more_stats",
+																"stats": [
+																	{
+																		"type": "value",
+																		"formatted": "Splash"
+																	},
+																	{
+																		"type": "value",
+																		"formatted": "3"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					"mods": {
+						"type": "value_unit",
+						"value": "80",
+						"unit": "/110",
+						"formatted": "80/110/130"
+					},
+					"splash": {
+						"type": "value",
+						"formatted": "3"
+					}
+				}
+			},
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"aviation": {
+						"type": "value",
+						"formatted": "45"
+					},
+					"planeHealth": {
+						"type": "min_mid_max",
+						"min": "38",
+						"mid": "95",
+						"max": "112",
+						"formatted": "38 → 95 → 112"
+					},
+					"damage": {
+						"type": "min_mid_max",
 						"min": "132",
 						"mid": "342",
 						"max": "404",
@@ -60647,7 +60835,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -61427,7 +61614,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -62216,7 +62402,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -63888,7 +64073,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -65266,7 +65450,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -66343,7 +66526,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -67805,7 +67987,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -70387,7 +70568,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -70579,7 +70759,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -70866,7 +71045,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -71058,7 +71236,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -71246,7 +71423,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -71529,7 +71705,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -71725,7 +71900,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -72012,7 +72186,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -72190,9 +72363,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Elite",
@@ -72302,7 +72472,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -72476,7 +72645,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -72642,7 +72810,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -72828,7 +72995,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -73010,7 +73176,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -73380,7 +73545,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -73657,7 +73821,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -73831,8 +73994,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
-			null,
 			{
 				"tier": 2,
 				"rarity": "Rare",
@@ -73957,7 +74118,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -74119,9 +74279,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Rare",
@@ -74213,7 +74370,6 @@
 		},
 		"nationality": "Northern Parliament",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -74489,7 +74645,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -74667,7 +74822,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -74956,7 +75110,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -75251,7 +75404,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -75439,7 +75591,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -75613,7 +75764,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -75795,7 +75945,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -76163,7 +76312,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -76757,7 +76905,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -76935,7 +77082,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -77305,7 +77451,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -77475,7 +77620,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -77772,7 +77916,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -78072,7 +78215,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -78301,9 +78443,6 @@
 		},
 		"nationality": "Royal Navy",
 		"tiers": [
-			null,
-			null,
-			null,
 			{
 				"tier": 3,
 				"rarity": "Super Rare",
@@ -78397,7 +78536,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -78571,7 +78709,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -78720,10 +78857,10 @@
 					},
 					"damage": {
 						"type": "min_max_multiplier",
-						"min": "62",
+						"min": "71",
 						"max": "167",
 						"multiplier": "3",
-						"formatted": "62 × 3 → 167 × 3"
+						"formatted": "71 × 3 → 167 × 3"
 					},
 					"oPSDamageBoost": {
 						"type": "min_max",
@@ -78790,7 +78927,7 @@
 			"focus": "Firepower",
 			"name": "BB Gun"
 		},
-		"id": "14400",
+		"id": "14460",
 		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Triple_406mm_(16%22/50_Mk_7)#Type_0-0",
 		"category": "Battleship Guns",
 		"names": {
@@ -80466,7 +80603,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -80724,7 +80860,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -80851,7 +80987,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -81245,8 +81381,6 @@
 		},
 		"nationality": "Iris Libre",
 		"tiers": [
-			null,
-			null,
 			{
 				"tier": 2,
 				"rarity": "Rare",
@@ -81832,7 +81966,6 @@
 		},
 		"nationality": "Sardegna Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -82090,7 +82223,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
@@ -82114,6 +82247,36 @@
 		},
 		"nationality": "SSSS",
 		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "min_mid_max",
+						"min": "15",
+						"mid": "25",
+						"max": "28",
+						"formatted": "15 → 25 → 28"
+					},
+					"evasion": {
+						"type": "min_mid_max",
+						"min": "6",
+						"mid": "15",
+						"max": "18",
+						"formatted": "6 → 15 → 18"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					}
+				}
+			},
 			{
 				"tier": 0,
 				"rarity": "Super Rare",
@@ -82296,7 +82459,6 @@
 		},
 		"nationality": "Iron Blood",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -82623,7 +82785,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -82797,7 +82958,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -82897,7 +83057,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -83153,7 +83312,7 @@
 			"notes": "Ships equipped with this are classified as \"µ\" ships",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Universe in Unison Special Reward"
+			"obtainedFrom": "Universe in Unison Special Reward, Universe in Unison War Archives reward"
 		},
 		"nationality": "Universal",
 		"tiers": [
@@ -83294,7 +83453,7 @@
 			"notes": "Cosmic Kicks: Ships equipped with this are classified as \"µ\" ships.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Universe in Unison Special Reward"
+			"obtainedFrom": "Universe in Unison Special Reward, Passionate Polaris War Archives reward"
 		},
 		"nationality": "Universal",
 		"tiers": [
@@ -83446,7 +83605,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -83706,7 +83864,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -83899,7 +84056,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -84291,7 +84447,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -84757,7 +84912,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -85822,7 +85976,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Normal",
@@ -85912,7 +86065,7 @@
 			"notes": "\"May our songs spread the light of love and peace.\"Resplendent Astrum: When sortieing with a ship equipped with this gear: changes the battle music to Blue Spirit. The song will be chosen randomly if several types of music-changing gear is used at once.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Universe in Unison Special Reward"
+			"obtainedFrom": "Universe in Unison Special Reward, Core Exchange Shop"
 		},
 		"nationality": "Universal",
 		"tiers": [
@@ -85986,7 +86139,7 @@
 			"notes": "\"Purify your sinful hearts in the Iris's holy sounds.\"Sacred Lumière: When sortieing with a ship equipped with this gear: changes the battle music to A Song of Prayer. The song will be chosen randomly if several types of music-changing gear is used at once.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Universe in Unison Milestones Reward"
+			"obtainedFrom": "Universe in Unison Milestones Reward, Core Exchange Shop"
 		},
 		"nationality": "Universal",
 		"tiers": [
@@ -86131,7 +86284,6 @@
 		},
 		"nationality": "Eagle Union",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -86324,7 +86476,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -86491,7 +86642,6 @@
 		},
 		"nationality": "Universal",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Rare",
@@ -86899,7 +87049,6 @@
 		},
 		"nationality": "Sakura Empire",
 		"tiers": [
-			null,
 			{
 				"tier": 1,
 				"rarity": "Elite",
@@ -87437,7 +87586,7 @@
 			"notes": "\"For your ears, Commander, and yours alone.\"White-Hot Verheerender: When sortieing with a ship equipped with this gear: changes the battle music to Seafarer's Loyalty. The song will be chosen randomly if several types of music-changing gear is used at once.",
 			"usedFor": [],
 			"animation": "",
-			"obtainedFrom": "Universe in Unison Event Shop"
+			"obtainedFrom": "Universe in Unison Event Shop, Core Exchange Shop"
 		},
 		"nationality": "Universal",
 		"tiers": [
@@ -88701,7 +88850,7 @@
 		"fits": {
 			"destroyer": "Type 1936A-class only",
 			"lightCruiser": "Hai Tien excluded",
-			"heavyCruiser": null,
+			"heavyCruiser": "Tallinn, Suzuya and Kumano only",
 			"monitor": null,
 			"largeCruiser": "Secondary gun, Kronshtadt only",
 			"battleship": "Secondary gun, cannot be used on Eagle Union's BBs",
