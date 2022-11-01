@@ -14,7 +14,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/82/7320.png",
 		"misc": {
@@ -137,7 +138,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/07/31060.png",
 		"misc": {
@@ -274,7 +276,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9e/21000.png",
 		"misc": {
@@ -563,7 +566,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/47/31180.png",
 		"misc": {
@@ -696,7 +700,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e2/31160.png",
 		"misc": {
@@ -827,7 +832,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3f/21300.png",
 		"misc": {
@@ -1116,7 +1122,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/53/31100.png",
 		"misc": {
@@ -1405,7 +1412,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/7f/11060.png",
 		"misc": {
@@ -1536,7 +1544,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/cd/11100.png",
 		"misc": {
@@ -1831,7 +1840,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/33/41000.png",
 		"misc": {
@@ -2104,7 +2114,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0e/31260.png",
 		"misc": {
@@ -2239,7 +2250,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/1a/7200.png",
 		"misc": {
@@ -2520,7 +2532,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/79/50000.png",
 		"misc": {
@@ -2722,7 +2735,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b8/50700.png",
 		"misc": {
@@ -3003,7 +3017,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bc/50100.png",
 		"misc": {
@@ -3284,7 +3299,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/eb/11000.png",
 		"misc": {
@@ -3569,7 +3585,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/67/21200.png",
 		"misc": {
@@ -3854,7 +3871,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3d/31000.png",
 		"misc": {
@@ -4139,7 +4157,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/39/21100.png",
 		"misc": {
@@ -4432,7 +4451,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/7d/21160.png",
 		"misc": {
@@ -4559,7 +4579,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2d/55560.png",
 		"misc": {
@@ -4676,7 +4697,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e4/55460.png",
 		"misc": {
@@ -4799,7 +4821,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/30/55400.png",
 		"misc": {
@@ -5080,7 +5103,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/ca/21460.png",
 		"misc": {
@@ -5207,7 +5231,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/40/21400.png",
 		"misc": {
@@ -5500,7 +5525,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f8/11160.png",
 		"misc": {
@@ -5637,7 +5663,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/90/11200.png",
 		"misc": {
@@ -5928,7 +5955,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d8/41060.png",
 		"misc": {
@@ -6055,7 +6083,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3b/31280.png",
 		"misc": {
@@ -6182,7 +6211,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a7/31200.png",
 		"misc": {
@@ -6471,7 +6501,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a1/41100.png",
 		"misc": {
@@ -6760,7 +6791,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f4/41160.png",
 		"misc": {
@@ -6887,7 +6919,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/ae/85000.png",
 		"misc": {
@@ -7089,7 +7122,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/50/50500.png",
 		"misc": {
@@ -7212,7 +7246,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bf/21500.png",
 		"misc": {
@@ -7497,7 +7532,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/63/32000.png",
 		"misc": {
@@ -7786,7 +7822,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bd/7100.png",
 		"misc": {
@@ -7909,7 +7946,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/86/42000.png",
 		"misc": {
@@ -8202,7 +8240,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c7/42300.png",
 		"misc": {
@@ -8412,7 +8451,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/ea/32060.png",
 		"misc": {
@@ -8531,7 +8571,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c0/7000.png",
 		"misc": {
@@ -8733,7 +8774,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/72/22000.png",
 		"misc": {
@@ -9018,7 +9060,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d7/50800.png",
 		"misc": {
@@ -9141,7 +9184,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9f/42100.png",
 		"misc": {
@@ -9426,7 +9470,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c0/12100.png",
 		"misc": {
@@ -9721,7 +9766,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/91/12160.png",
 		"misc": {
@@ -9854,7 +9900,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b3/12200.png",
 		"misc": {
@@ -9983,7 +10030,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e6/22200.png",
 		"misc": {
@@ -10199,7 +10247,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5e/22260.png",
 		"misc": {
@@ -10326,7 +10375,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/85/85120.png",
 		"misc": {
@@ -10607,7 +10657,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/83/50200.png",
 		"misc": {
@@ -10809,7 +10860,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/db/55600.png",
 		"misc": {
@@ -11005,7 +11057,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/04/32200.png",
 		"misc": {
@@ -11294,7 +11347,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a7/85460.png",
 		"misc": {
@@ -11417,7 +11471,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/86/32100.png",
 		"misc": {
@@ -11702,7 +11757,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c8/42060.png",
 		"misc": {
@@ -11833,7 +11889,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/48/42200.png",
 		"misc": {
@@ -12118,7 +12175,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/37/32300.png",
 		"misc": {
@@ -12407,7 +12465,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/77/12060.png",
 		"misc": {
@@ -12538,7 +12597,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d5/12000.png",
 		"misc": {
@@ -12823,7 +12883,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/15/22060.png",
 		"misc": {
@@ -12958,7 +13019,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a7/22100.png",
 		"misc": {
@@ -13243,7 +13305,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/54/85440.png",
 		"misc": {
@@ -13366,7 +13429,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/de/50780.png",
 		"misc": {
@@ -13489,7 +13553,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e8/13060.png",
 		"misc": {
@@ -13616,7 +13681,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d9/13100.png",
 		"misc": {
@@ -13911,7 +13977,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/04/13000.png",
 		"misc": {
@@ -14200,7 +14267,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/92/23200.png",
 		"misc": {
@@ -14327,7 +14395,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/94/7300.png",
 		"misc": {
@@ -14450,7 +14519,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/83/43060.png",
 		"misc": {
@@ -14577,7 +14647,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8f/23120.png",
 		"misc": {
@@ -14700,7 +14771,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/99/43100.png",
 		"misc": {
@@ -14978,7 +15050,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/62/33100.png",
 		"misc": {
@@ -15100,7 +15173,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c4/33080.png",
 		"misc": {
@@ -15231,7 +15305,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/01/33060.png",
 		"misc": {
@@ -15358,7 +15433,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d0/33000.png",
 		"misc": {
@@ -15649,7 +15725,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/58/23000.png",
 		"misc": {
@@ -15940,7 +16017,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "\"Surcouf\" only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/dc/7340.png",
 		"misc": {
@@ -16062,7 +16140,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/92/51100.png",
 		"misc": {
@@ -16331,7 +16410,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/1e/55300.png",
 		"misc": {
@@ -16454,7 +16534,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bc/55200.png",
 		"misc": {
@@ -16735,7 +16816,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2f/43000.png",
 		"misc": {
@@ -17020,7 +17102,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a5/23100.png",
 		"misc": {
@@ -17143,7 +17226,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/df/50300.png",
 		"misc": {
@@ -17418,7 +17502,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/02/14160.png",
 		"misc": {
@@ -17549,7 +17634,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2d/24000.png",
 		"misc": {
@@ -17834,7 +17920,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bf/50400.png",
 		"misc": {
@@ -18115,7 +18202,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/99/43100.png",
 		"misc": {
@@ -18400,7 +18488,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/29/85420.png",
 		"misc": {
@@ -18523,7 +18612,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/dd/44400.png",
 		"misc": {
@@ -18728,7 +18818,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5b/55480.png",
 		"misc": {
@@ -18849,7 +18940,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c9/14100.png",
 		"misc": {
@@ -19132,7 +19224,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/78/24160.png",
 		"misc": {
@@ -19257,7 +19350,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6d/55000.png",
 		"misc": {
@@ -19538,7 +19632,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9b/14300.png",
 		"misc": {
@@ -19823,7 +19918,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/31/14360.png",
 		"misc": {
@@ -19950,7 +20046,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a5/14380.png",
 		"misc": {
@@ -20081,7 +20178,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/fc/24200.png",
 		"misc": {
@@ -20370,7 +20468,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/34/85300.png",
 		"misc": {
@@ -20572,7 +20671,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2a/51000.png",
 		"misc": {
@@ -20693,7 +20793,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/83/34180.png",
 		"misc": {
@@ -20824,7 +20925,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/11/30000.png",
 		"misc": {
@@ -20945,7 +21047,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/cf/34000.png",
 		"misc": {
@@ -21224,7 +21327,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a9/34060.png",
 		"misc": {
@@ -21353,7 +21457,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/09/24060.png",
 		"misc": {
@@ -21488,7 +21593,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c2/44100.png",
 		"misc": {
@@ -21773,7 +21879,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3d/24100.png",
 		"misc": {
@@ -22066,7 +22173,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b7/24300.png",
 		"misc": {
@@ -22197,7 +22305,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/35/14180.png",
 		"misc": {
@@ -22330,7 +22439,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c6/14200.png",
 		"misc": {
@@ -22623,7 +22733,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/87/14260.png",
 		"misc": {
@@ -22758,7 +22869,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8a/44200.png",
 		"misc": {
@@ -22879,7 +22991,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d8/34100.png",
 		"misc": {
@@ -23172,7 +23285,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a3/34300.png",
 		"misc": {
@@ -23307,7 +23421,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d8/34100.png",
 		"misc": {
@@ -23438,7 +23553,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3a/14500.png",
 		"misc": {
@@ -23559,7 +23675,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/51/45100.png",
 		"misc": {
@@ -23798,7 +23915,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5a/5100.png",
 		"misc": {
@@ -24043,7 +24161,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/cb/15220.png",
 		"misc": {
@@ -24170,7 +24289,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/62/25020.png",
 		"misc": {
@@ -24291,7 +24411,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/7b/45200.png",
 		"misc": {
@@ -24526,7 +24647,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b3/5200.png",
 		"misc": {
@@ -24771,7 +24893,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bf/15240.png",
 		"misc": {
@@ -24894,7 +25017,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d3/25040.png",
 		"misc": {
@@ -25011,7 +25135,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/1e/45000.png",
 		"misc": {
@@ -25246,7 +25371,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/7c/5000.png",
 		"misc": {
@@ -25485,7 +25611,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0c/15200.png",
 		"misc": {
@@ -25602,7 +25729,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/ae/25000.png",
 		"misc": {
@@ -25719,7 +25847,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/98/5400.png",
 		"misc": {
@@ -25887,7 +26016,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a2/5300.png",
 		"misc": {
@@ -26055,7 +26185,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/14/35200.png",
 		"misc": {
@@ -26290,7 +26421,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/ea/35260.png",
 		"misc": {
@@ -26403,7 +26535,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bd/35100.png",
 		"misc": {
@@ -26638,7 +26771,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/25/35160.png",
 		"misc": {
@@ -26755,7 +26889,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/82/35000.png",
 		"misc": {
@@ -26986,7 +27121,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/ec/5500.png",
 		"misc": {
@@ -27222,7 +27358,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/cc/45300.png",
 		"misc": {
@@ -27462,7 +27599,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6b/45400.png",
 		"misc": {
@@ -27702,7 +27840,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/df/25200.png",
 		"misc": {
@@ -27818,7 +27957,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e7/15000.png",
 		"misc": {
@@ -28068,7 +28208,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bd/15100.png",
 		"misc": {
@@ -28300,7 +28441,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a4/15060.png",
 		"misc": {
@@ -28426,7 +28568,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/ab/25300.png",
 		"misc": {
@@ -28542,7 +28685,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/29/15160.png",
 		"misc": {
@@ -28662,7 +28806,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/13/25100.png",
 		"misc": {
@@ -28782,7 +28927,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/32/55700.png",
 		"misc": {
@@ -28882,7 +29028,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/ce/35400.png",
 		"misc": {
@@ -29126,7 +29273,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/88/35460.png",
 		"misc": {
@@ -29242,7 +29390,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/70/35500.png",
 		"misc": {
@@ -29472,7 +29621,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e8/35560.png",
 		"misc": {
@@ -29588,7 +29738,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/52/47060.png",
 		"misc": {
@@ -29983,7 +30134,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6e/17000.png",
 		"misc": {
@@ -30494,7 +30646,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/08/17060.png",
 		"misc": {
@@ -30699,7 +30852,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e4/17080.png",
 		"misc": {
@@ -31014,7 +31168,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/50/55720.png",
 		"misc": {
@@ -32090,7 +32245,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5e/47080.png",
 		"misc": {
@@ -32465,7 +32621,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/97/27200.png",
 		"misc": {
@@ -32968,7 +33125,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bb/50820.png",
 		"misc": {
@@ -33167,7 +33325,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/62/17100.png",
 		"misc": {
@@ -33688,7 +33847,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0d/17300.png",
 		"misc": {
@@ -34789,7 +34949,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/47/17360.png",
 		"misc": {
@@ -35104,7 +35265,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e7/17380.png",
 		"misc": {
@@ -35419,7 +35581,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c3/17400.png",
 		"misc": {
@@ -35714,7 +35877,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/da/27300.png",
 		"misc": {
@@ -36023,7 +36187,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b6/27260.png",
 		"misc": {
@@ -36234,7 +36399,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/52/37400.png",
 		"misc": {
@@ -36629,7 +36795,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f9/47000.png",
 		"misc": {
@@ -37400,7 +37567,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f9/47100.png",
 		"misc": {
@@ -38169,7 +38337,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/55/37000.png",
 		"misc": {
@@ -38676,7 +38845,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6f/37100.png",
 		"misc": {
@@ -39760,7 +39930,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0a/37160.png",
 		"misc": {
@@ -40163,7 +40334,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/09/37200.png",
 		"misc": {
@@ -41250,7 +41422,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8c/37300.png",
 		"misc": {
@@ -42079,7 +42252,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/71/55800.png",
 		"misc": {
@@ -43155,7 +43329,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5b/27100.png",
 		"misc": {
@@ -43984,7 +44159,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/34/27000.png",
 		"misc": {
@@ -45072,7 +45248,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c4/27060.png",
 		"misc": {
@@ -45471,7 +45648,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5e/17200.png",
 		"misc": {
@@ -46301,7 +46479,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f7/17260.png",
 		"misc": {
@@ -46612,7 +46791,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/1f/27320.png",
 		"misc": {
@@ -46921,7 +47101,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a2/39000.png",
 		"misc": {
@@ -48003,7 +48184,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f9/39060.png",
 		"misc": {
@@ -48401,7 +48583,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/be/29000.png",
 		"misc": {
@@ -49224,7 +49407,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/56/19100.png",
 		"misc": {
@@ -50316,7 +50500,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/da/19160.png",
 		"misc": {
@@ -50716,7 +50901,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/45/19200.png",
 		"misc": {
@@ -51555,7 +51741,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/74/19000.png",
 		"misc": {
@@ -52631,7 +52818,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/18/19060.png",
 		"misc": {
@@ -52913,7 +53101,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/47/29300.png",
 		"misc": {
@@ -53218,7 +53407,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/19/29200.png",
 		"misc": {
@@ -53527,7 +53717,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/15/29100.png",
 		"misc": {
@@ -54359,7 +54550,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/58/49060.png",
 		"misc": {
@@ -54672,7 +54864,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/53/49000.png",
 		"misc": {
@@ -55756,7 +55949,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/21/39100.png",
 		"misc": {
@@ -56848,7 +57042,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a3/39160.png",
 		"misc": {
@@ -57242,7 +57437,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/33/38200.png",
 		"misc": {
@@ -58290,7 +58486,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/06/48000.png",
 		"misc": {
@@ -58588,7 +58785,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/03/28200.png",
 		"misc": {
@@ -58886,7 +59084,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a1/28220.png",
 		"misc": {
@@ -59184,7 +59383,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/10/18000.png",
 		"misc": {
@@ -59962,7 +60162,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/02/18060.png",
 		"misc": {
@@ -60510,7 +60711,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/38/18220.png",
 		"misc": {
@@ -60814,7 +61016,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a6/28300.png",
 		"misc": {
@@ -61597,7 +61800,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/06/28100.png",
 		"misc": {
@@ -62381,7 +62585,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/57/28000.png",
 		"misc": {
@@ -63164,7 +63369,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/73/28060.png",
 		"misc": {
@@ -63454,7 +63660,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/88/48020.png",
 		"misc": {
@@ -63752,7 +63959,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/99/18180.png",
 		"misc": {
@@ -64048,7 +64256,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f6/18100.png",
 		"misc": {
@@ -64841,7 +65050,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/22/48040.png",
 		"misc": {
@@ -65135,7 +65345,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e2/50840.png",
 		"misc": {
@@ -65425,7 +65636,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3e/38000.png",
 		"misc": {
@@ -66207,7 +66419,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/02/38060.png",
 		"misc": {
@@ -66505,7 +66718,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/16/38100.png",
 		"misc": {
@@ -67288,7 +67502,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/de/38160.png",
 		"misc": {
@@ -67672,7 +67887,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e9/28400.png",
 		"misc": {
@@ -67966,7 +68182,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0c/39200.png",
 		"misc": {
@@ -69050,7 +69267,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4e/39300.png",
 		"misc": {
@@ -69359,7 +69577,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/08/37440.png",
 		"misc": {
@@ -69758,7 +69977,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d4/37420.png",
 		"misc": {
@@ -70157,7 +70377,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d0/39320.png",
 		"misc": {
@@ -70551,7 +70772,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2c/26200.png",
 		"misc": {
@@ -70734,7 +70956,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/66/46000.png",
 		"misc": {
@@ -70919,7 +71142,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c8/16160.png",
 		"misc": {
@@ -71024,7 +71248,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/39/16200.png",
 		"misc": {
@@ -71211,7 +71436,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c1/16400.png",
 		"misc": {
@@ -71402,7 +71628,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6c/26100.png",
 		"misc": {
@@ -71589,7 +71816,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4d/26660.png",
 		"misc": {
@@ -71680,7 +71908,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9e/21000.png",
 		"misc": {
@@ -71871,7 +72100,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/40/6000.png",
 		"misc": {
@@ -72060,7 +72290,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e5/26460.png",
 		"misc": {
@@ -72165,7 +72396,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6e/16000.png",
 		"misc": {
@@ -72346,7 +72578,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9c/26360.png",
 		"misc": {
@@ -72447,7 +72680,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b8/36100.png",
 		"misc": {
@@ -72632,7 +72866,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/dc/85180.png",
 		"misc": {
@@ -72793,7 +73028,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b6/46100.png",
 		"misc": {
@@ -72970,7 +73206,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/fd/36500.png",
 		"misc": {
@@ -73155,7 +73392,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9b/26300.png",
 		"misc": {
@@ -73342,7 +73580,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b8/16060.png",
 		"misc": {
@@ -73447,7 +73686,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a8/36580.png",
 		"misc": {
@@ -73532,7 +73772,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/fd/55100.png",
 		"misc": {
@@ -73705,7 +73946,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/63/36360.png",
 		"misc": {
@@ -73800,7 +74042,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8d/36300.png",
 		"misc": {
@@ -73981,7 +74224,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/46/85240.png",
 		"misc": {
@@ -74105,7 +74349,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0c/85360.png",
 		"misc": {
@@ -74266,7 +74511,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/38/6100.png",
 		"misc": {
@@ -74357,7 +74603,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/19/85060.png",
 		"misc": {
@@ -74438,7 +74685,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/20/36560.png",
 		"misc": {
@@ -74529,7 +74777,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3d/46360.png",
 		"misc": {
@@ -74624,7 +74873,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e6/46300.png",
 		"misc": {
@@ -74805,7 +75055,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3f/26500.png",
 		"misc": {
@@ -74988,7 +75239,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/06/36660.png",
 		"misc": {
@@ -75089,7 +75341,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/19/36600.png",
 		"misc": {
@@ -75270,7 +75523,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bf/21500.png",
 		"misc": {
@@ -75375,7 +75629,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/87/16100.png",
 		"misc": {
@@ -75570,7 +75825,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/ef/36200.png",
 		"misc": {
@@ -75751,7 +76007,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/81/55500.png",
 		"misc": {
@@ -75924,7 +76181,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4e/46200.png",
 		"misc": {
@@ -76105,7 +76363,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a8/50600.png",
 		"misc": {
@@ -76196,7 +76455,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8e/46260.png",
 		"misc": {
@@ -76291,7 +76551,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/20/16300.png",
 		"misc": {
@@ -76478,7 +76739,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/53/26060.png",
 		"misc": {
@@ -76583,7 +76845,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/06/36700.png",
 		"misc": {
@@ -76674,7 +76937,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2f/26620.png",
 		"misc": {
@@ -76777,7 +77041,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/18/26600.png",
 		"misc": {
@@ -76876,7 +77141,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/67/26000.png",
 		"misc": {
@@ -77065,7 +77331,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/64/36400.png",
 		"misc": {
@@ -77242,7 +77509,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/60/16080.png",
 		"misc": {
@@ -77343,7 +77611,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8e/46060.png",
 		"misc": {
@@ -77438,7 +77707,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/08/4000.png",
 		"misc": {
@@ -77607,7 +77877,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/52/2900.png",
 		"misc": {
@@ -77755,7 +78026,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/db/15500.png",
 		"misc": {
@@ -77829,7 +78101,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/af/89100.png",
 		"misc": {
@@ -77903,7 +78176,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4e/4200.png",
 		"misc": {
@@ -78131,7 +78405,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c7/740.png",
 		"misc": {
@@ -78198,7 +78473,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d8/4300.png",
 		"misc": {
@@ -78430,7 +78706,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/42/25800.png",
 		"misc": {
@@ -78523,7 +78800,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/aa/4100.png",
 		"misc": {
@@ -78696,7 +78974,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f6/3000.png",
 		"misc": {
@@ -78826,7 +79105,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e8/14400.png",
 		"misc": {
@@ -78953,7 +79233,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5d/21600.png",
 		"misc": {
@@ -79076,7 +79357,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5a/13160.png",
 		"misc": {
@@ -79209,7 +79491,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/15/55900.png",
 		"misc": {
@@ -79330,7 +79613,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/ee/47160.png",
 		"misc": {
@@ -79706,7 +79990,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/7b/39340.png",
 		"misc": {
@@ -80103,7 +80388,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f1/38300.png",
 		"misc": {
@@ -80399,7 +80685,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/65/55160.png",
 		"misc": {
@@ -80490,7 +80777,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/05/35300.png",
 		"misc": {
@@ -80590,7 +80878,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/10/50860.png",
 		"misc": {
@@ -80871,7 +81160,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/73/32260.png",
 		"misc": {
@@ -80998,7 +81288,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b6/42080.png",
 		"misc": {
@@ -81131,7 +81422,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/32/14520.png",
 		"misc": {
@@ -81258,7 +81550,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c0/35580.png",
 		"misc": {
@@ -81368,7 +81661,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e6/51160.png",
 		"misc": {
@@ -81719,7 +82013,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/77/56000.png",
 		"misc": {
@@ -81831,7 +82126,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4d/85520.png",
 		"misc": {
@@ -81953,7 +82249,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/89/55920.png",
 		"misc": {
@@ -82234,7 +82531,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/1d/89300.png",
 		"misc": {
@@ -82379,7 +82677,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d4/660.png",
 		"misc": {
@@ -82446,7 +82745,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/67/2700.png",
 		"misc": {
@@ -82564,7 +82864,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/81/940.png",
 		"misc": {
@@ -82631,7 +82932,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c4/3580.png",
 		"misc": {
@@ -82705,7 +83007,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/09/560.png",
 		"misc": {
@@ -82772,7 +83075,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b7/1100.png",
 		"misc": {
@@ -82871,7 +83175,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f4/89120.png",
 		"misc": {
@@ -82945,7 +83250,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b6/1300.png",
 		"misc": {
@@ -83044,7 +83350,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4e/2200.png",
 		"misc": {
@@ -83162,7 +83469,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2f/89240.png",
 		"misc": {
@@ -83236,7 +83544,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/df/89340.png",
 		"misc": {
@@ -83303,7 +83612,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8a/89220.png",
 		"misc": {
@@ -83370,7 +83680,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9b/3100.png",
 		"misc": {
@@ -83444,7 +83755,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a8/89200.png",
 		"misc": {
@@ -83518,7 +83830,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f9/3560.png",
 		"misc": {
@@ -83592,7 +83905,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2b/2100.png",
 		"misc": {
@@ -83710,7 +84024,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3a/89380.png",
 		"misc": {
@@ -83777,7 +84092,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/15/840.png",
 		"misc": {
@@ -83851,7 +84167,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/22/1200.png",
 		"misc": {
@@ -83969,7 +84286,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/22/820.png",
 		"misc": {
@@ -84043,7 +84361,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2b/2000.png",
 		"misc": {
@@ -84159,7 +84478,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/0f/960.png",
 		"misc": {
@@ -84233,7 +84553,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/db/89080.png",
 		"misc": {
@@ -84300,7 +84621,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e9/89400.png",
 		"misc": {
@@ -84367,7 +84689,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/34/89320.png",
 		"misc": {
@@ -84434,7 +84757,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b8/2300.png",
 		"misc": {
@@ -84550,7 +84874,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b0/540.png",
 		"misc": {
@@ -84617,7 +84942,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/52/89260.png",
 		"misc": {
@@ -84691,7 +85017,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5c/1160.png",
 		"misc": {
@@ -84758,7 +85085,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3e/1260.png",
 		"misc": {
@@ -84832,7 +85160,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/24/680.png",
 		"misc": {
@@ -84899,7 +85228,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/de/1800.png",
 		"misc": {
@@ -85015,7 +85345,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/48/1760.png",
 		"misc": {
@@ -85089,7 +85420,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4f/3120.png",
 		"misc": {
@@ -85163,7 +85495,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bc/3140.png",
 		"misc": {
@@ -85230,7 +85563,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6e/780.png",
 		"misc": {
@@ -85304,7 +85638,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/e/e8/980.png",
 		"misc": {
@@ -85378,7 +85713,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/a/a5/89040.png",
 		"misc": {
@@ -85452,7 +85788,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/be/500.png",
 		"misc": {
@@ -85526,7 +85863,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/76/880.png",
 		"misc": {
@@ -85600,7 +85938,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d1/760.png",
 		"misc": {
@@ -85674,7 +86013,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/85/1960.png",
 		"misc": {
@@ -85748,7 +86088,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/78/520.png",
 		"misc": {
@@ -85815,7 +86156,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/84/89020.png",
 		"misc": {
@@ -85889,7 +86231,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/29/89000.png",
 		"misc": {
@@ -85963,7 +86306,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d5/2400.png",
 		"misc": {
@@ -86056,7 +86400,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/22/89180.png",
 		"misc": {
@@ -86130,7 +86475,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": "primary"
 		},
 		"image": "https://azurlane.netojuu.com/images/6/67/89160.png",
 		"misc": {
@@ -86204,7 +86550,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c9/3300.png",
 		"misc": {
@@ -86271,7 +86618,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9f/1500.png",
 		"misc": {
@@ -86389,7 +86737,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": "primary"
 		},
 		"image": "https://azurlane.netojuu.com/images/0/01/89280.png",
 		"misc": {
@@ -86463,7 +86812,8 @@
 			"repairShip": "primary",
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/46/1000.png",
 		"misc": {
@@ -86562,7 +86912,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/75/89360.png",
 		"misc": {
@@ -86629,7 +86980,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/96/1400.png",
 		"misc": {
@@ -86747,7 +87099,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8a/620.png",
 		"misc": {
@@ -86814,7 +87167,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": "primary"
 		},
 		"image": "https://azurlane.netojuu.com/images/5/55/89060.png",
 		"misc": {
@@ -86888,7 +87242,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/43/600.png",
 		"misc": {
@@ -86962,7 +87317,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/61/580.png",
 		"misc": {
@@ -87036,7 +87392,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/5/59/2600.png",
 		"misc": {
@@ -87154,7 +87511,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": "primary"
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8d/2800.png",
 		"misc": {
@@ -87228,7 +87586,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bc/700.png",
 		"misc": {
@@ -87295,7 +87654,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8c/720.png",
 		"misc": {
@@ -87369,7 +87729,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/95/3220.png",
 		"misc": {
@@ -87436,7 +87797,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/73/3200.png",
 		"misc": {
@@ -87503,7 +87865,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": "primary"
 		},
 		"image": "https://azurlane.netojuu.com/images/5/53/860.png",
 		"misc": {
@@ -87577,7 +87940,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d8/89140.png",
 		"misc": {
@@ -87651,7 +88015,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d0/640.png",
 		"misc": {
@@ -87729,7 +88094,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/d/d1/3400.png",
 		"misc": {
@@ -87796,7 +88162,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/7/70/3500.png",
 		"misc": {
@@ -87863,7 +88230,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/b7/3520.png",
 		"misc": {
@@ -87930,7 +88298,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/f/f5/3540.png",
 		"misc": {
@@ -87997,7 +88366,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/1d/51220.png",
 		"misc": {
@@ -88288,7 +88658,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/6/6a/51240.png",
 		"misc": {
@@ -88664,7 +89035,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/b/bf/1060.png",
 		"misc": {
@@ -88738,7 +89110,8 @@
 			"repairShip": null,
 			"munitionShip": "primary",
 			"submarine": "Excluding Surcouf",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/1/14/56100.png",
 		"misc": {
@@ -88861,7 +89234,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": "Nautilus only",
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/37/22280.png",
 		"misc": {
@@ -88984,7 +89358,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/4/4a/50360.png",
 		"misc": {
@@ -89104,7 +89479,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/8/8d/46400.png",
 		"misc": {
@@ -89201,7 +89577,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": "primary"
 		},
 		"image": "https://azurlane.netojuu.com/images/5/5f/51260.png",
 		"misc": {
@@ -89275,7 +89652,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/0/08/85540.png",
 		"misc": {
@@ -89478,7 +89856,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/3/3b/85560.png",
 		"misc": {
@@ -89666,7 +90045,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/9f/3600.png",
 		"misc": {
@@ -89740,7 +90120,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/c/c1/43080.png",
 		"misc": {
@@ -89857,7 +90238,8 @@
 			"repairShip": "primary",
 			"munitionShip": "primary",
 			"submarine": "primary",
-			"submarineCarrier": "primary"
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/2/2b/3620.png",
 		"misc": {
@@ -89931,7 +90313,8 @@
 			"repairShip": null,
 			"munitionShip": null,
 			"submarine": null,
-			"submarineCarrier": null
+			"submarineCarrier": null,
+			"sailingFrigate": null
 		},
 		"image": "https://azurlane.netojuu.com/images/9/97/34200.png",
 		"misc": {
@@ -90039,6 +90422,579 @@
 			"wiki": "Triple 460mm (Type 94)",
 			"en": "Triple 460mm Main Gun Mount",
 			"cn": "460mm三连装炮",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"12-Pounder Long Guns": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null,
+			"sailingFrigate": "primary"
+		},
+		"image": "https://azurlane.netojuu.com/images/d/d0/3680.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Halloween Hijinks Mission Reward"
+		},
+		"nationality": "Tempesta",
+		"tiers": [
+			{
+				"tier": 1,
+				"rarity": "Rare",
+				"stars": {
+					"stars": "★★★",
+					"value": 3
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "12"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "5",
+						"max": "11",
+						"multiplier": "3",
+						"formatted": "5 × 3 → 11 × 3"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "2.69s",
+						"max": "2.49s",
+						"per": "volley",
+						"formatted": "2.69s → 2.49s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "180",
+						"unit": "°",
+						"formatted": "180°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 60,
+						"formatted": "Firing: 70\nShell: 60"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (100",
+						"unit": "/ 80",
+						"formatted": "Normal (100 / 80 / 40)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 2,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "25"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "5",
+						"max": "15",
+						"multiplier": "3",
+						"formatted": "5 × 3 → 15 × 3"
+					},
+					"rateOfFire": {
+						"type": "value",
+						"formatted": "?s"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "180",
+						"unit": "°",
+						"formatted": "180°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 60,
+						"formatted": "Firing: 70\nShell: 60"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "value_unit",
+						"value": "125",
+						"unit": "%",
+						"formatted": "125%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (100",
+						"unit": "/ 80",
+						"formatted": "Normal (100 / 80 / 40)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			},
+			{
+				"tier": 3,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"firepower": {
+						"type": "value",
+						"formatted": "35"
+					},
+					"damage": {
+						"type": "min_max_multiplier",
+						"min": "6",
+						"max": "16",
+						"multiplier": "3",
+						"formatted": "6 × 3 → 16 × 3"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					},
+					"rateOfFire": {
+						"type": "min_max_per",
+						"min": "1.83s",
+						"max": "1.50s",
+						"per": "volley",
+						"formatted": "1.83s → 1.50s   per volley"
+					},
+					"spread": {
+						"type": "value_unit",
+						"value": "0",
+						"unit": "°",
+						"formatted": "0°"
+					},
+					"angle": {
+						"type": "value_unit",
+						"value": "180",
+						"unit": "°",
+						"formatted": "180°"
+					},
+					"range": {
+						"type": "range",
+						"firing": 70,
+						"shell": 60,
+						"formatted": "Firing: 70\nShell: 60"
+					},
+					"volley": {
+						"type": "multiplier_count_unit",
+						"multiplier": "1",
+						"count": "3",
+						"unit": "shells",
+						"formatted": "1 × 3 shells"
+					},
+					"volleyTime": {
+						"type": "value_unit",
+						"value": "0.00",
+						"unit": "s",
+						"formatted": "0.00s"
+					},
+					"coefficient": {
+						"type": "min_max",
+						"min": "125%",
+						"max": "148%",
+						"formatted": "125% → 148%"
+					},
+					"ammoType": {
+						"type": "value_unit",
+						"value": "Normal (100",
+						"unit": "/ 80",
+						"formatted": "Normal (100 / 80 / 40)"
+					},
+					"characteristic": {
+						"type": "value",
+						"formatted": "Lock-On"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Firepower",
+			"name": "DD Gun"
+		},
+		"id": "3680",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/12-Pounder_Long_Guns#Type_1-0",
+		"category": "Destroyer Guns",
+		"names": {
+			"wiki": "12-Pounder Long Guns",
+			"en": "12-Pounder Long Guns",
+			"cn": "12磅长管炮",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Albion's Exercise Report": {
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": "primary",
+			"heavyCruiser": "primary",
+			"monitor": "primary",
+			"largeCruiser": "primary",
+			"battleship": "primary",
+			"battlecruiser": "primary",
+			"aviationBattleship": "primary",
+			"aircraftCarrier": "primary",
+			"lightCarrier": "primary",
+			"repairShip": "primary",
+			"munitionShip": "primary",
+			"submarine": "primary",
+			"submarineCarrier": "primary",
+			"sailingFrigate": null
+		},
+		"image": "https://azurlane.netojuu.com/images/a/a7/3640.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "Royal Navy Operation Report \"A\": When equipped by a Royal Navy ship, increases that ship's Evasion Rate by 5%.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Fight on, Royal Maids! (Part 3) Point Accumulation Reward"
+		},
+		"nationality": "Royal Navy",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"health": {
+						"type": "min_mid_max",
+						"min": "50",
+						"mid": "120",
+						"max": "130",
+						"formatted": "50 → 120 → 130"
+					},
+					"aviation": {
+						"type": "min_mid_max",
+						"min": "10",
+						"mid": "30",
+						"max": "32",
+						"formatted": "10 → 30 → 32"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"id": "3640",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Albion%27s_Exercise_Report",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"wiki": "Albion's Exercise Report",
+			"en": "Albion's Exercise Report",
+			"cn": "阿尔比恩的报告书 T0",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"J-class Crown": {
+		"fits": {
+			"destroyer": "primary",
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null,
+			"sailingFrigate": null
+		},
+		"image": "https://azurlane.netojuu.com/images/e/e8/3660.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "J-Force: When equipped by a J-class DD: increases her DMG dealt to non-Royal Navy enemies by 10%.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Fight on, Royal Maids! (Part 3) Milestone Reward"
+		},
+		"nationality": "Royal Navy",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Super Rare",
+				"stars": {
+					"stars": "★★★★★",
+					"value": 5
+				},
+				"stats": {
+					"health": {
+						"type": "min_mid_max",
+						"min": "140",
+						"mid": "350",
+						"max": "410",
+						"formatted": "140 → 350 → 410"
+					},
+					"luck": {
+						"type": "min_mid_max",
+						"min": "1",
+						"mid": "2",
+						"max": "3",
+						"formatted": "1 → 2 → 3"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "3%",
+						"formatted": "0 → 3%"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"id": "3660",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/J-class_Crown",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"wiki": "J-class Crown",
+			"en": "J-class Crown",
+			"cn": "小王冠 T0",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Round Shot": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null,
+			"sailingFrigate": "primary"
+		},
+		"image": "https://azurlane.netojuu.com/images/8/84/3740.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "Round Shot: Increases the Ammo Capacity of the ship equipping this gear by 1.",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Halloween Hijinks Mission Reward"
+		},
+		"nationality": "Tempesta",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"firepower": {
+						"type": "min_mid_max",
+						"min": "15",
+						"mid": "40",
+						"max": "42",
+						"formatted": "15 → 40 → 42"
+					},
+					"reload": {
+						"type": "min_mid_max",
+						"min": "5",
+						"mid": "25",
+						"max": "27",
+						"formatted": "5 → 25 → 27"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"id": "3740",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Round_Shot",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"wiki": "Round Shot",
+			"en": "Round Shot",
+			"cn": "球形实心弹 T0",
+			"jp": null,
+			"kr": null
+		}
+	},
+	"Sail Components": {
+		"fits": {
+			"destroyer": null,
+			"lightCruiser": null,
+			"heavyCruiser": null,
+			"monitor": null,
+			"largeCruiser": null,
+			"battleship": null,
+			"battlecruiser": null,
+			"aviationBattleship": null,
+			"aircraftCarrier": null,
+			"lightCarrier": null,
+			"repairShip": null,
+			"munitionShip": null,
+			"submarine": null,
+			"submarineCarrier": null,
+			"sailingFrigate": "primary"
+		},
+		"image": "https://azurlane.netojuu.com/images/1/12/3760.png",
+		"misc": {
+			"blueprints": "",
+			"madeFrom": [],
+			"notes": "",
+			"usedFor": [],
+			"animation": "",
+			"obtainedFrom": "Halloween Hijinks Mission Reward"
+		},
+		"nationality": "Tempesta",
+		"tiers": [
+			{
+				"tier": 0,
+				"rarity": "Elite",
+				"stars": {
+					"stars": "★★★★",
+					"value": 4
+				},
+				"stats": {
+					"health": {
+						"type": "min_mid_max",
+						"min": "160",
+						"mid": "360",
+						"max": "380",
+						"formatted": "160 → 360 → 380"
+					},
+					"evasion": {
+						"type": "min_mid_max",
+						"min": "14",
+						"mid": "30",
+						"max": "32",
+						"formatted": "14 → 30 → 32"
+					},
+					"oPSDamageBoost": {
+						"type": "min_max",
+						"min": "0",
+						"max": "1%",
+						"formatted": "0 → 1%"
+					}
+				}
+			}
+		],
+		"type": {
+			"focus": "Armor",
+			"name": "Auxiliary"
+		},
+		"id": "3760",
+		"wikiUrl": "https://azurlane.koumakan.jp/wiki/Sail_Components",
+		"category": "Auxiliary Equipment",
+		"names": {
+			"wiki": "Sail Components",
+			"en": "Sail Components",
+			"cn": "帆索组件 T0",
 			"jp": null,
 			"kr": null
 		}
