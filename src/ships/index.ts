@@ -82,7 +82,7 @@ async function fetchShipList() {
   let LIST: any = {};
   let rows = new JSDOM(
     await fetch(
-      "https://azurlane.koumakan.jp/List_of_Ships",
+      "https://azurlane.koumakan.jp/wiki/List_of_Ships",
       path.join(ROOT, "web/ships.index.html")
     )
   ).window.document.querySelectorAll("#mw-content-text .mw-parser-output table tbody tr");
