@@ -73,7 +73,7 @@ function findShip(id: string, name: string, nationality: string) {
   for (let ship of Object.values(reference)) {
     if (!ship.name) continue;
     if (
-      (ship.name.en === name || ship.name.cn === name || ship.name.code === name) &&
+      (ship.name.en === name || ship.name.cn === name || ship.name.code === name || ship.code === id) &&
       NATIONALITY[ship.nationality] === nationality
     ) {
       id_map[id] = ship.id;
