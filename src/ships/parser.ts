@@ -53,6 +53,7 @@ const NATIONALITY: { [s: string]: string } = {
   7: "Northern Parliament",
   8: "Iris Libre",
   9: "Vichya Dominion",
+  96: "Tempesta",
   97: "META",
   98: "Universal",
   101: "Neptunia",
