@@ -78,7 +78,7 @@ class SkinPage {
 
   checkCategories(doc: Document) {
     doc.querySelectorAll("article").forEach((tabber) => {
-      const heading = tabber.getAttribute("title");
+      const heading = tabber.getAttribute("data-title");
       if (!keepIfInEnum(heading, SkinCategories)) {
         throw new Error(`New or unknown skin category: ${heading}`);
       }
