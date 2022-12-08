@@ -70,7 +70,7 @@ class SkinCard {
       console.error(card.innerHTML);
       throw "fug";
     }
-    const catTitle = cat.getAttribute("title").trim();
+    const catTitle = cat.getAttribute("data-title").trim();
     const keptCat = keepIfInEnum(catTitle, SkinCategories);
     if (keptCat === undefined) {
       throw new Error("Could not find category for ship card");
