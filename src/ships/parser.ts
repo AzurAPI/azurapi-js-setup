@@ -64,6 +64,7 @@ const NATIONALITY: { [s: string]: string } = {
   106: "Venus Vacation",
   107: "The Idolmaster",
   108: "SSSS",
+  109: "Atelier Ryza",
 };
 const kuroshiro = new Kuroshiro();
 const UNRELEASED = ["Tone", "Chikuma", "Pola", "Vittorio Veneto", "Kirov", "Sovetsky Soyuz"];
@@ -74,7 +75,10 @@ function findShip(id: string, name: string, nationality: string) {
   for (let ship of Object.values(reference)) {
     if (!ship.name) continue;
     if (
-      (ship.name.en === name || ship.name.cn === name || ship.name.code === name || ship.code === id) &&
+      (ship.name.en === name ||
+        ship.name.cn === name ||
+        ship.name.code === name ||
+        ship.code === id) &&
       NATIONALITY[ship.nationality] === nationality
     ) {
       id_map[id] = ship.id;
@@ -127,7 +131,9 @@ export async function parseShip(
   url: string
 ): Promise<Ship> {
   const doc = new JSDOM(body).window.document;
-  let tableInfo = parseTable(doc.querySelector(".mw-parser-output>.nomobile>div>div>.ship-card tbody"));
+  let tableInfo = parseTable(
+    doc.querySelector(".mw-parser-output>.nomobile>div>div>.ship-card tbody")
+  );
   let nationality = tableInfo.Faction;
   let referenceShip = findShip(id, name, nationality);
   let ship = new Ship();
@@ -176,10 +182,16 @@ export async function parseShip(
   ship.slots = [null, null, null];
   for (let i = 0; i < 3; i++)
     ship.slots[i] = parseShipEQSlot(
-      doc.querySelector(`.mw-parser-output .nomobile>div>div>.wikitable.ship-equipment tr:nth-child(${i + 3})`)
+      doc.querySelector(
+        `.mw-parser-output .nomobile>div>div>.wikitable.ship-equipment tr:nth-child(${i + 3})`
+      )
     );
-  ship.enhanceValue = nodeParse(doc.querySelector(".ship-enhance.wikitable td:nth-child(1)").childNodes)
-  ship.scrapValue = nodeParse(doc.querySelector(".ship-enhance.wikitable td:nth-child(2)").childNodes)
+  ship.enhanceValue = nodeParse(
+    doc.querySelector(".ship-enhance.wikitable td:nth-child(1)").childNodes
+  );
+  ship.scrapValue = nodeParse(
+    doc.querySelector(".ship-enhance.wikitable td:nth-child(2)").childNodes
+  );
   ship.skills = parseSkills(doc.getElementById("Skills"));
   if (ship.rarity === "Priority" || ship.rarity === "Decisive")
     ship.devLevels = parseDevelopmentLevels(doc.querySelector("#Development_levels tbody"));
@@ -189,16 +201,22 @@ export async function parseShip(
     // This ship can be retrofited
     ship.retrofit = true;
     ship.retrofitId = 3000 + parseInt(ship.id) + "";
-    let retroTable = doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling
-    retroTable = 'TABLE' === retroTable.nextElementSibling.tagName ?
-        retroTable.nextElementSibling : retroTable
+    let retroTable =
+      doc.getElementById("Retrofit").parentElement.nextElementSibling.nextElementSibling;
+    retroTable =
+      "TABLE" === retroTable.nextElementSibling.tagName
+        ? retroTable.nextElementSibling
+        : retroTable;
     ship.retrofitProjects = parseRetrofit(retroTable.lastElementChild);
     ship.retrofitHullType =
       doc.querySelector(".ship-card-content .card-info tr:nth-child(3)>:last-child>:last-child")
         ?.textContent || ship.hullType;
     if (ship.retrofitHullType === "Light Aircraft Carrier") ship.retrofitHullType = "Light Carrier";
   }
-  let obtainedFrom = parseShipObtainedFrom(doc.querySelector(".nomobile .ship-construction.wikitable tbody"), ship);
+  let obtainedFrom = parseShipObtainedFrom(
+    doc.querySelector(".nomobile .ship-construction.wikitable tbody"),
+    ship
+  );
   ship.construction = obtainedFrom.construction;
   ship.obtainedFrom = obtainedFrom.obtainedFrom;
   ship.misc = {
@@ -214,9 +232,13 @@ function parseTable(table: Element) {
     for (let i = 0; i < child.children.length; i += 2) {
       let title = child.children[i].textContent.replace(/\s/g, " ").trim();
       if (title === "Voice Actor") {
-        
         final[title] = {
-          name: (child.children[i + 1].querySelector("a.text, a.extiw")?.textContent.trim() ?? (Array.from(child.children[i + 1].childNodes).filter(n=>n.nodeType===3 && n.textContent.trim())[0]?.textContent.trim())) ?? "Unknown",
+          name:
+            child.children[i + 1].querySelector("a.text, a.extiw")?.textContent.trim() ??
+            Array.from(child.children[i + 1].childNodes)
+              .filter((n) => n.nodeType === 3 && n.textContent.trim())[0]
+              ?.textContent.trim() ??
+            "Unknown",
           url: child.children[i + 1].querySelector("a.text, a.extiw")?.getAttribute("href"),
         };
       } else if (title === "Illustrator")
@@ -259,7 +281,8 @@ function parseShipLimits(skill_table: Element) {
 function parseLimitBreak(row: Element) {
   let buffs = [];
   let rows = row.children[1].children;
-  for (let i = 0; i < rows.length; i++) if(rows[i].textContent.trim()) buffs.push(rows[i].textContent.trim());
+  for (let i = 0; i < rows.length; i++)
+    if (rows[i].textContent.trim()) buffs.push(rows[i].textContent.trim());
   return buffs;
 }
 
@@ -417,24 +440,27 @@ function parseShipEQSlot(slot: Element): Slot {
   return eqslot;
 }
 
-function nodeParseKey(input: string){
-  return {
-    "medalOfHonor": "medal",
-    "specializedCore": "core"
-  }[input] ?? input
+function nodeParseKey(input: string) {
+  return (
+    {
+      medalOfHonor: "medal",
+      specializedCore: "core",
+    }[input] ?? input
+  );
 }
 
 function nodeParse(nodes: NodeListOf<ChildNode>) {
-  let obj: {[key:string]: number} = {};
+  let obj: { [key: string]: number } = {};
   let value = 0;
   for (let node of nodes) {
-      if (node.nodeType === 3 && node.textContent.trim()) value = parseInt(node.textContent)
-      else if (node.nodeType === 1) {
-        let el = node as Element
-        if (el.getAttribute("title")) obj[nodeParseKey(camelize(el.getAttribute("title").trim()))] = value
-      }
+    if (node.nodeType === 3 && node.textContent.trim()) value = parseInt(node.textContent);
+    else if (node.nodeType === 1) {
+      let el = node as Element;
+      if (el.getAttribute("title"))
+        obj[nodeParseKey(camelize(el.getAttribute("title").trim()))] = value;
+    }
   }
-  return obj
+  return obj;
 }
 
 function parseStats(doc: Document): ShipStats {
@@ -474,7 +500,7 @@ function parseStats(doc: Document): ShipStats {
     };
     for (let j = 1; j < titles.length; j++) {
       if (!titles[j] || titles[j].trim().length === 0) continue;
-      if(titles[j]==="antisubmarineWarfareASW") titles[j]='huntingRange'
+      if (titles[j] === "antisubmarineWarfareASW") titles[j] = "huntingRange";
       if (!isStat(titles[j])) {
         console.log("Irregular stat" + doc.location.href);
         throw "parseStat " + titles[j];
