@@ -104,8 +104,8 @@ export class Ship {
   stars: number;
   stats: ShipStats;
   slots: [Slot, Slot, Slot];
-  enhanceValue: {[key:string]: number};
-  scrapValue: {[key:string]: number};
+  enhanceValue: { [key: string]: number };
+  scrapValue: { [key: string]: number };
   skills: Skill[];
   skins: Skin[];
   gallery: GalleryItem[];
@@ -170,6 +170,7 @@ export enum SkinLimitedStatus {
   Unavailable = "Unavailable",
   EventLimited = "Event Limited",
   PermanentlyAvailable = "Permanently Available",
+  PermanentEvent = "Permanent Event",
   Limited = "Limited",
 }
 

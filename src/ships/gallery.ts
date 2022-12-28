@@ -107,12 +107,12 @@ export async function fetchGallery(
     (node) => {
       let tab = <HTMLElement>node;
 
-      const skinName = normalizeName(tab.title);
+      const skinName = normalizeName(tab.getAttribute("data-title"));
       let skinCategory;
-      try{
+      try {
         skinCategory = handleSkinCategory({ name, skinName, skinsPage });
-      }catch(e){
-        console.log(e)
+      } catch (e) {
+        console.log(e);
       }
       let image;
       if (tab.querySelector(".tabber__panel"))
@@ -213,7 +213,9 @@ export async function fetchGallery(
     )
   ).forEach((box) =>
     gallery.push({
-      description: box.querySelector(".shipart-caption, .shipgirl-art-caption, .shipgirl-caption").textContent.trim(),
+      description: box
+        .querySelector(".shipart-caption, .shipgirl-art-caption, .shipgirl-caption")
+        .textContent.trim(),
       url: galleryThumbnailUrlToActualUrl(box.getElementsByTagName("img")[0].src),
     })
   );
