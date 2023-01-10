@@ -117,25 +117,12 @@ export async function fetchGallery(
       let image;
       if (tab.querySelector(".tabber__panel"))
         image = {
-          normal: tab.querySelector(".tabber__panel[title=Default] .shipskin-image img")
-            ? (<HTMLImageElement>(
-                tab.querySelector(".tabber__panel[title=Default] .shipskin-image img")
-              )).src
-            : null,
-          nobg: tab.querySelector('.tabber__panel[title="Without BG"] .shipskin-image img')
-            ? (<HTMLImageElement>(
-                tab.querySelector('.tabber__panel[title="Without BG"] .shipskin-image img')
-              )).src
-            : null,
-          cn: tab.querySelector(".tabber__panel[title=CN] .shipskin-image img")
-            ? (<HTMLImageElement>tab.querySelector(".tabber__panel[title=CN] .shipskin-image img"))
-                .src
-            : null,
+          normal: tab.querySelector(".tabber__panel[title=Default] .shipskin-image img")?.getAttribute("src"),
+          nobg: tab.querySelector('.tabber__panel[title="Without BG"] .shipskin-image img')?.getAttribute("src"),
+          cn: tab.querySelector(".tabber__panel[title=CN] .shipskin-image img")?.getAttribute("src")
         };
       else
-        image = tab.querySelector(".shipskin-image img")
-          ? (<HTMLImageElement>tab.querySelector(".shipskin-image img")).src
-          : null;
+        image = tab.querySelector(".shipskin-image img")?.getAttribute("src");
 
       let info: SkinInfo = {
         live2dModel: false,
@@ -177,12 +164,8 @@ export async function fetchGallery(
         image: typeof image === "string" || !image ? <string>image : image.normal,
         nobg: typeof image === "string" || !image ? undefined : image.nobg,
         cn: typeof image === "string" || !image ? undefined : image.cn,
-        background: tab.querySelector(".res img")
-          ? tab.querySelector(".res img").getAttribute("src")
-          : null,
-        chibi: tab.querySelector(".shipskin-content .shipskin-chibi img")
-          ? tab.querySelector(".shipskin-content .shipskin-chibi img").getAttribute("src")
-          : null,
+        background: tab.querySelector(".shipskin-content .shipskin-bg img")?.getAttribute("src"),
+        chibi: tab.querySelector(".shipskin-content .shipskin-chibi img")?.getAttribute("src"),
         info: info,
       });
     }
