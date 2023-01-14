@@ -151,7 +151,7 @@ export async function fetchGallery(
 
         if (key === "live2dModel") value = value === "Yes";
         else if (key === "cost") value = parseInt(value);
-        else if (key === "icons") value = parseIcons(row.getElementsByTagName("td"));
+        else if (key === "icons") value = parseIcons(row.getElementsByTagName("td")[0]);
         else if (ClientSkinNameHeaders[key]) {
           // Because skins have different names on different clients,
           // each skin's Gallery page has a row for their localized name.
