@@ -92,13 +92,14 @@ const handleSkinCategory = ({
 const ICON_URL_TAILS = {
   "Icon.png": "icon",
   "ChibiIcon.png": "chibi",
-  "Banner.png": "banner"
+  "Banner.png": "banner",
+  "default": "unknown"
 };
 
 function parseIcons(td: Element){
   return Array.from(td.querySelectorAll("img")).map(r=>{
     const url = galleryThumbnailUrlToActualUrl(r.getAttribute("src"));
-    const urlType = Object.keys(ICON_URL_TAILS).find(pattern=>url.endsWith(pattern)) ?? "unknown"
+    const urlType = ICON_URL_TAILS[Object.keys(ICON_URL_TAILS).find(pattern=>url.endsWith(pattern))??"default"]
     return {url, urlType}
   });
 }
