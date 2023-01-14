@@ -89,6 +89,21 @@ const handleSkinCategory = ({
   throw new Error(`${name} is missing skin ${skinName} on Skins page, but has skin in Gallery.`);
 };
 
+const ICON_URL_TAILS = {
+  "Icon.png": "icon",
+  "ChibiIcon.png": "chibi",
+  "Banner.png": "banner"
+};
+
+function parseIcons(td: Element){
+  return Array.from(td.querySelectorAll("img")).map(r=>{
+    const url = galleryThumbnailUrlToActualUrl(r.getAttribute("src"));
+    const urlType = Object.keys(ICON_URL_TAILS).find(pattern=>url.endsWith(pattern)) ?? "unknown"
+    return {url, urlType}
+  });
+}
+
+
 export async function fetchGallery(
   name: string,
   url: string
@@ -135,9 +150,9 @@ export async function fetchGallery(
         let value: any = row.getElementsByTagName("td")[0].textContent.trim();
 
         if (key === "live2dModel") value = value === "Yes";
-        if (key === "cost") value = parseInt(value);
-
-        if (ClientSkinNameHeaders[key]) {
+        else if (key === "cost") value = parseInt(value);
+        else if (key === "icons") value = parseIcons(row.getElementsByTagName("td"));
+        else if (ClientSkinNameHeaders[key]) {
           // Because skins have different names on different clients,
           // each skin's Gallery page has a row for their localized name.
           // Next to that is the availability in that client.
