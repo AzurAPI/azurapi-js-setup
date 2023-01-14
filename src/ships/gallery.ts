@@ -132,9 +132,10 @@ export async function fetchGallery(
       let image;
       if (tab.querySelector(".tabber__panel"))
         image = {
-          normal: tab.querySelector(".tabber__panel[title=Default] .shipskin-image img")?.getAttribute("src"),
-          nobg: tab.querySelector('.tabber__panel[title="Without BG"] .shipskin-image img')?.getAttribute("src"),
-          cn: tab.querySelector(".tabber__panel[title=CN] .shipskin-image img")?.getAttribute("src")
+          normal: tab.querySelector('.tabber__panel[data-title="Default"] .shipskin-image img')?.getAttribute("src"),
+          nobg: tab.querySelector('.tabber__panel[data-title="Without BG"] .shipskin-image img')?.getAttribute("src"),
+          cn: tab.querySelector('.tabber__panel[data-title="CN"] .shipskin-image img')?.getAttribute("src"),
+          censored: tab.querySelector('.tabber__panel[data-title="Censored"] .shipskin-image img')?.getAttribute("src")
         };
       else
         image = tab.querySelector(".shipskin-image img")?.getAttribute("src");
