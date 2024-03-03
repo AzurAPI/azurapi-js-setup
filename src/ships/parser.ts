@@ -369,13 +369,25 @@ function parseStatsBonus(cell: Element): Bonus {
     cell.childElementCount === 0 ||
     !cell.children[0] ||
     cell.children[0].tagName === "I"
-  )
+  ) {
     return null;
+  }
+
+  if (cell.children[0].tagName !== "SPAN" || !cell.children[0].children[0]) {
+    console.log("undefined table tag");
+    return null;
+  }
+
+  cell = cell.children[0];
+
   let i = 0;
   let statsBonus: Bonus = { applicable: [], bonus: "", stat: undefined };
-  for (; cell.children[i] && cell.children[i].tagName === "A"; i++)
+  for (; cell.children[i] && cell.children[i].tagName === "A"; i++) {
     statsBonus.applicable.push((<HTMLElement>cell.children[i]).title.replace(/\(\w+\)/, "").trim());
-  if (!cell.children[i]) return null;
+  }
+  if (!cell.children[i]) {
+    return null;
+  }
   let stat = camelize((<HTMLElement>cell.children[i]).title.replace(/[^\w ]/g, ""));
   if (!isStat(stat)) {
     console.log("Irregular Stat ", stat);
